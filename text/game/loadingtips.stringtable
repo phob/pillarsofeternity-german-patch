@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Die Schadensart 'reiner Schaden' ignoriert immer die Schadensreduktionen des Ziels. Nur eine kleine Anzahl von Angriffen - beispielsweise Gifte oder mentale Fähigkeiten - verursacht reinen Schaden.</DefaultText>
+      <DefaultText>Die Schadensart 'Direktschaden' ignoriert immer die Schadensreduktionen des Ziels. Nur eine kleine Anzahl von Angriffen - beispielsweise Gifte oder mentale Fähigkeiten - verursacht Direktschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

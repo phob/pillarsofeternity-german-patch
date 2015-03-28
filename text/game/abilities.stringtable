@@ -1186,7 +1186,7 @@
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>Markiert ein Ziel zur Vergeltung und verursacht Verbrennungsschaden und verringert die Abwehr.</DefaultText>
+      <DefaultText>Markiert ein Ziel zur Vergeltung und verursacht Brandschaden und verringert die Abwehr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1251,7 +1251,7 @@
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>Erzeugt einen Feuerkegel vor dem Zauberwirker, der jedem im Wirkungsbereich Verbrennungsschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt einen Feuerkegel vor dem Zauberwirker, der jedem im Wirkungsbereich Brandschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1301,7 +1301,7 @@
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>Erzeugt einen brennenden Flammenstrahl zwischen dem Zauberwirker und dem Ziel, der dem Ziel und jedem, der in dem Strahl gefangen ist, anhaltenden Verbrennungsschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt einen brennenden Flammenstrahl zwischen dem Zauberwirker und dem Ziel, der dem Ziel und jedem, der in dem Strahl gefangen ist, anhaltenden Brandschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1326,7 +1326,7 @@
     </Entry>
     <Entry>
       <ID>276</ID>
-      <DefaultText>Beschwört einen Feuerball aus geschmolzener Erde herauf, der über dem Ziel explodiert und bei allen im Wirkungsbereich Verbrennungsschaden verursacht.</DefaultText>
+      <DefaultText>Beschwört einen Feuerball aus geschmolzener Erde herauf, der über dem Ziel explodiert und bei allen im Wirkungsbereich Brandschaden verursacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1361,7 +1361,7 @@
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>Das Ziel wird zum Objekt einer erschütternden Explosion psychischer Energie und erleidet reinen Schaden durch das Trauma. Charaktere in einem kegelförmigen Bereich hinter dem Ziel, denen ein Tapferkeitstest misslingt, werden von der Explosion Niedergeschlagen.</DefaultText>
+      <DefaultText>Das Ziel wird zum Objekt einer erschütternden Explosion psychischer Energie und erleidet Direktschaden durch das Trauma. Charaktere in einem kegelförmigen Bereich hinter dem Ziel, denen ein Tapferkeitstest misslingt, werden von der Explosion Niedergeschlagen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1396,7 +1396,7 @@
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>Zwingt die Seele eines Feindes dazu, Energie zu „verlieren“, wodurch die den Feind umgebende Luft entzündet wird und er Verbrennungszeitschaden erleidet.</DefaultText>
+      <DefaultText>Zwingt die Seele eines Feindes dazu, Energie zu „verlieren“, wodurch die den Feind umgebende Luft entzündet wird und er mit der Zeit Brandschaden erleidet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1536,7 +1536,7 @@
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>Beschwört das innere Feuer des Paladins herauf, wodurch seine ausgerüsteten Waffen in Flammen aufgehen und 100 % mehr Verbrennungsschaden bei dem nächsten Angriff zufügen.</DefaultText>
+      <DefaultText>Beschwört das innere Feuer des Paladins herauf, wodurch seine ausgerüsteten Waffen in Flammen aufgehen und 100 % mehr Brandschaden bei dem nächsten Angriff zufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1691,12 +1691,12 @@
     </Entry>
     <Entry>
       <ID>351</ID>
-      <DefaultText>Wildschlag-Verbrennung</DefaultText>
+      <DefaultText>Wildschlag-Brand</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>Das Wissen des Druiden über die Mächte der Natur ermöglicht es ihm oder ihr, beim Geisterwandeln zusätzlichen Verbrennungsschaden zuzufügen.</DefaultText>
+      <DefaultText>Das Wissen des Druiden über die Mächte der Natur ermöglicht es ihm oder ihr, beim Geisterwandeln zusätzlichen Brandschaden zuzufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1981,7 +1981,7 @@
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>Umgibt den Zauberwirker mit einem geheimnisvollen Schild und durchdringt ihn mit Boni auf die Schadensreduktion gegen Verbrennungs-, Frost-, Zersetzungs- und Schockschaden.</DefaultText>
+      <DefaultText>Umgibt den Zauberwirker mit einem geheimnisvollen Schild und durchdringt ihn mit Boni auf die Schadensreduktion gegen Brand-, Frost-, Zersetzungs- und Schockschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1991,7 +1991,7 @@
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>Führt dazu, dass sich die Wunden eines Feindes im Wirkungsbereich entzünden und bei jeder Verwundung zusätzlichen Verbrennungsschaden zufügen.</DefaultText>
+      <DefaultText>Führt dazu, dass sich die Wunden eines Feindes im Wirkungsbereich entzünden und bei jeder Verwundung zusätzlichen Brandschaden zufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2051,7 +2051,7 @@
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>Erzeugt einen abprallenden Feuerball, der jedem, der im Weg steht, Verbrennungsschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt einen abprallenden Feuerball, der jedem, der im Weg steht, Brandschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2086,7 +2086,7 @@
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>Erzeugt einen Energieball in der Hand des Zauberwirkers, der auf einen Feind geschleudert werden kann und somit jedem im Wirkungsbereich Verbrennungs-, Frost-, Zersetzungs- oder Schockschaden zufügt – die Fäule wird kontinuierlich genährt, bis der Zauber endet.</DefaultText>
+      <DefaultText>Erzeugt einen Energieball in der Hand des Zauberwirkers, der auf einen Feind geschleudert werden kann und somit jedem im Wirkungsbereich Brand-, Frost-, Zersetzungs- oder Schockschaden zufügt – die Fäule wird kontinuierlich genährt, bis der Zauber endet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2126,7 +2126,7 @@
     </Entry>
     <Entry>
       <ID>439</ID>
-      <DefaultText>Erzeugt eine Wolke aus ansteckendem Gift, die jedem innerhalb der Wolke alle paar Sekunden reinen Schaden zufügt, bis er die Wolke verlässt.</DefaultText>
+      <DefaultText>Erzeugt eine Wolke aus ansteckendem Gift, die jedem innerhalb der Wolke alle paar Sekunden Direktschaden zufügt, bis er die Wolke verlässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2146,7 +2146,7 @@
     </Entry>
     <Entry>
       <ID>444</ID>
-      <DefaultText>Entfesselt ein schreckliches Flammeninferno um den Zauberwirker herum, das jedem in der Umgebung Verbrennungsschaden zufügt.</DefaultText>
+      <DefaultText>Entfesselt ein schreckliches Flammeninferno um den Zauberwirker herum, das jedem in der Umgebung Brandschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2306,7 +2306,7 @@
     </Entry>
     <Entry>
       <ID>476</ID>
-      <DefaultText>Erzeugt ein intensives Leuchtfeuer, durch das Feinde im Wirkungsbereich einen Malus auf alle Verteidigungen erhalten und Verbrennungszeitschaden erleiden.</DefaultText>
+      <DefaultText>Erzeugt ein intensives Leuchtfeuer, durch das Feinde im Wirkungsbereich einen Malus auf alle Verteidigungen erhalten und mit der Zeit Brandschaden erleiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2331,7 +2331,7 @@
     </Entry>
     <Entry>
       <ID>481</ID>
-      <DefaultText>Setzt ein magisches Siegel auf den Boden, das in Flammen aufgeht, sobald es von einem Feind berührt wird, wodurch dieser geblendet wird und Verbrennungsschaden erleidet.</DefaultText>
+      <DefaultText>Setzt ein magisches Siegel auf den Boden, das in Flammen aufgeht, sobald es von einem Feind berührt wird, wodurch dieser geblendet wird und Brandschaden erleidet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2416,7 +2416,7 @@
     </Entry>
     <Entry>
       <ID>498</ID>
-      <DefaultText>Der Priester schleudert ein heiliges Feuer auf den Feind, das seinen Schutz aufhebt und sein Schicksal beschleunigt. Fügt fünf Sekunden lang kontinuierlich Verbrennungsschaden zu und beschleunigt den Zähler für alle zuträglichen Effekte auf dem Ziel (mit Ausnahme von Heilen) sowie aller kontinuierlichen Schadenseffekte. Springt auf bis zu zwei weitere Feinde in der Nähe über.</DefaultText>
+      <DefaultText>Der Priester schleudert ein heiliges Feuer auf den Feind, das seinen Schutz aufhebt und sein Schicksal beschleunigt. Fügt fünf Sekunden lang kontinuierlich Brandschaden zu und beschleunigt den Zähler für alle zuträglichen Effekte auf dem Ziel (mit Ausnahme von Heilen) sowie aller kontinuierlichen Schadenseffekte. Springt auf bis zu zwei weitere Feinde in der Nähe über.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2561,7 +2561,7 @@
     </Entry>
     <Entry>
       <ID>528</ID>
-      <DefaultText>Die Haut von Feinden im Wirkungsbereich wird von Unmengen grabender Maden befallen, die reinen Zeitschaden zufügen. Je mehr Wunden das Ziel erleidet, desto größer der Schaden.</DefaultText>
+      <DefaultText>Die Haut von Feinden im Wirkungsbereich wird von Unmengen grabender Maden befallen, die mit der Zeit Direktschaden zufügen. Je mehr Wunden das Ziel erleidet, desto größer der Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2591,7 +2591,7 @@
     </Entry>
     <Entry>
       <ID>534</ID>
-      <DefaultText>Alle im kegelförmigen Wirkungsbereich erleiden Verbrennungsschaden und werden zurückgedrängt.</DefaultText>
+      <DefaultText>Alle im kegelförmigen Wirkungsbereich erleiden Brandschaden und werden zurückgedrängt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2666,7 +2666,7 @@
     </Entry>
     <Entry>
       <ID>550</ID>
-      <DefaultText>Ein fürchterlicher Feuerball springt bis zu acht Mal von Feind zu Feind und verursacht Verbrennungsschaden.</DefaultText>
+      <DefaultText>Ein fürchterlicher Feuerball springt bis zu acht Mal von Feind zu Feind und verursacht Brandschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2686,7 +2686,7 @@
     </Entry>
     <Entry>
       <ID>554</ID>
-      <DefaultText>Beschwört eine riesige Plage giftiger Insekten herauf, die reinen Zeitschaden zufügen, die Konzentration verringern und jeden im Wirkungsbereich krank machen.</DefaultText>
+      <DefaultText>Beschwört eine riesige Plage giftiger Insekten herauf, die mit der Zeit Direktschaden zufügen, die Konzentration verringern und jeden im Wirkungsbereich krank machen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2716,7 +2716,7 @@
     </Entry>
     <Entry>
       <ID>560</ID>
-      <DefaultText>Beschwört eine mächtige Lanze aus Sonnenstrahlen herab, die einem einzelnen Ziel Stich- und Verbrennungsschaden zufügt.</DefaultText>
+      <DefaultText>Beschwört eine mächtige Lanze aus Sonnenstrahlen herab, die einem einzelnen Ziel Stich- und Brandschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2861,7 +2861,7 @@
     </Entry>
     <Entry>
       <ID>589</ID>
-      <DefaultText>Erzeugt ein psychisches Heulen im Zielbereich, durch das das Ziel betäubt wird und alle Feinde im Zielbereich reinen Schaden erleiden. Hohe Wahrscheinlichkeit auf Ausschalten.</DefaultText>
+      <DefaultText>Erzeugt ein psychisches Heulen im Zielbereich, durch das das Ziel betäubt wird und alle Feinde im Zielbereich Direktschaden erleiden. Hohe Wahrscheinlichkeit auf Ausschalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2891,7 +2891,7 @@
     </Entry>
     <Entry>
       <ID>595</ID>
-      <DefaultText>Zersplittert die Seele des Ziels mit reiner Kraft und fügt ihm dabei reinen Schaden zu – Ziele mit geringer Ausdauer zerplatzen, wodurch alle im Wirkungsbereich Wuchtschaden erleiden.</DefaultText>
+      <DefaultText>Zersplittert die Seele des Ziels mit reiner Kraft und fügt ihm dabei Direktschaden zu – Ziele mit geringer Ausdauer zerplatzen, wodurch alle im Wirkungsbereich Wuchtschaden erleiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2931,7 +2931,7 @@
     </Entry>
     <Entry>
       <ID>603</ID>
-      <DefaultText>Verbrennt alle ätherische Kräfte, die Verstand, Körper und Seele des feindlichen Ziels zusammenhalten, wodurch es schnell reinen Schaden erleidet. Zielen, deren Ausdauer auf 0 fällt, wird jegliche Existenz entzogen.</DefaultText>
+      <DefaultText>Verbrennt alle ätherische Kräfte, die Verstand, Körper und Seele des feindlichen Ziels zusammenhalten, wodurch es schnell Direktschaden erleidet. Zielen, deren Ausdauer auf 0 fällt, wird jegliche Existenz entzogen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3111,7 +3111,7 @@
     </Entry>
     <Entry>
       <ID>639</ID>
-      <DefaultText>Verstärkt den Verbrennungseffekt bei allen Waffen von Verbündeten.</DefaultText>
+      <DefaultText>Verstärkt den Brandeffekt bei allen Waffen von Verbündeten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3601,7 +3601,7 @@
     </Entry>
     <Entry>
       <ID>737</ID>
-      <DefaultText>Größerer Wildschlag-Verbrennung</DefaultText>
+      <DefaultText>Größerer Wildschlag-Brand</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3956,7 +3956,7 @@
     </Entry>
     <Entry>
       <ID>808</ID>
-      <DefaultText>Erzeugt ein Gefahrenfeld, das Feinden im Wirkungsbereich Verbrennungs- und Hiebschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt ein Gefahrenfeld, das Feinden im Wirkungsbereich Brand- und Hiebschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4026,7 +4026,7 @@
     </Entry>
     <Entry>
       <ID>822</ID>
-      <DefaultText>Erzeugt schnell einen explosiven Flammenblitz, der jedem im Wirkungsbereich Verbrennungsschaden zufügt. Kurze Zauberdauer.</DefaultText>
+      <DefaultText>Erzeugt schnell einen explosiven Flammenblitz, der jedem im Wirkungsbereich Brandschaden zufügt. Kurze Zauberdauer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4036,22 +4036,22 @@
     </Entry>
     <Entry>
       <ID>824</ID>
-      <DefaultText>Formt ein mächtiges Schwert mit einer Klinge aus reinem Feuer in den Händen des Zauberwirkers, dessen Verbrennungsschaden nicht abgewehrt werden kann. Durch den Wechsel zu einer anderen Waffe endet der Zauber.</DefaultText>
+      <DefaultText>Formt ein mächtiges Schwert mit einer Klinge aus reinem Feuer in den Händen des Zauberwirkers, dessen Brandschaden nicht abgewehrt werden kann. Durch den Wechsel zu einer anderen Waffe endet der Zauber.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>825</ID>
-      <DefaultText>Lockt einen Schwarm aggressiver Insekten an, die mit der Zeit reinen Schaden verursachen und die Konzentration von jedem im Wirkungsbereich verringern.</DefaultText>
+      <DefaultText>Lockt einen Schwarm aggressiver Insekten an, die mit der Zeit Direktschaden verursachen und die Konzentration von jedem im Wirkungsbereich verringern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>826</ID>
-      <DefaultText>Die Nahkampfwaffe des Zauberwirkers wird zu einem idealen Jagdinstrument, durch das seine Angriffe kontinuierlichen reinen Schaden verursachen und die Ausdauer des Zauberwirkers mit jedem Schlag wiederhergestellt wird.</DefaultText>
+      <DefaultText>Die Nahkampfwaffe des Zauberwirkers wird zu einem idealen Jagdinstrument, durch das seine Angriffe kontinuierlichen Direktschaden verursachen und die Ausdauer des Zauberwirkers mit jedem Schlag wiederhergestellt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>827</ID>
-      <DefaultText>Erzeugt eine dicke Rindenschicht über Verbündeten im Wirkungsbereich, wodurch diese einen Bonus auf ihre Schadensreduktion gegen Stich-, Verbrennungs- und Schockschaden erhalten.</DefaultText>
+      <DefaultText>Erzeugt eine dicke Rindenschicht über Verbündeten im Wirkungsbereich, wodurch diese einen Bonus auf ihre Schadensreduktion gegen Stich-, Brand- und Schockschaden erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4111,7 +4111,7 @@
     </Entry>
     <Entry>
       <ID>839</ID>
-      <DefaultText>Lässt ein wunderschönes, jedoch Panik einflößendes Feld giftiger Blumen wachsen, die jene im Wirkungsbereich verängstigen, schwächen und reinen Zeitschaden zufügen.</DefaultText>
+      <DefaultText>Lässt ein wunderschönes, jedoch Panik einflößendes Feld giftiger Blumen wachsen, die jene im Wirkungsbereich verängstigen, schwächen und mit der Zeit Direktschaden zufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4151,7 +4151,7 @@
     </Entry>
     <Entry>
       <ID>847</ID>
-      <DefaultText>Hüllt den Zauberwirker in Feuer, erhöht seine Schadensreduktion gegen Frostschaden und fügt jedem Verbrennungsschaden zu, der ihn im Nahkampf verletzt.</DefaultText>
+      <DefaultText>Hüllt den Zauberwirker in Feuer, erhöht seine Schadensreduktion gegen Frostschaden und fügt jedem Brandschaden zu, der ihn im Nahkampf verletzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4181,7 +4181,7 @@
     </Entry>
     <Entry>
       <ID>853</ID>
-      <DefaultText>Erzeugt ein fürchterliches senkrechtes Flammentuch, das jedem Verbrennungsschaden zufügt, der hindurchschreitet.</DefaultText>
+      <DefaultText>Erzeugt ein fürchterliches senkrechtes Flammentuch, das jedem Brandschaden zufügt, der hindurchschreitet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4441,7 +4441,7 @@
     </Entry>
     <Entry>
       <ID>905</ID>
-      <DefaultText>So wie er es auch bei fliehender Beute macht, zielt der Jäger auf einen Punkt, der den Fortschritt des Feindes bremst, das Ziel behindert und ihm reinen Zeitschaden zufügt.</DefaultText>
+      <DefaultText>So wie er es auch bei fliehender Beute macht, zielt der Jäger auf einen Punkt, der den Fortschritt des Feindes bremst, das Ziel behindert und ihm mit der Zeit Direktschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4551,7 +4551,7 @@
     </Entry>
     <Entry>
       <ID>927</ID>
-      <DefaultText>Die Erfahrung in der Kunst des Schmerzes führt dazu, dass alle Hieb-, Stich- und Wuchtschäden durch den Schurken auch reinen Zeitschaden verursachen.</DefaultText>
+      <DefaultText>Die Erfahrung in der Kunst des Schmerzes führt dazu, dass alle Hieb-, Stich- und Wuchtschäden durch den Schurken auch mit der Zeit Direktschaden verursachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4651,7 +4651,7 @@
     </Entry>
     <Entry>
       <ID>947</ID>
-      <DefaultText>Der psychische Rückschlag des Mediums wird besonders traumatisch, wodurch das Ziel bei einem Treffer geringen reinen Schaden erleidet.</DefaultText>
+      <DefaultText>Der psychische Rückschlag des Mediums wird besonders traumatisch, wodurch das Ziel bei einem Treffer geringen Direktschaden erleidet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5245,7 +5245,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1061</ID>
-      <DefaultText>Die Waffe des Charakters wird mit einer Mischung aus tierischen und pflanzlichen Giften getränkt - und fügt dem Ziel reinen Zeitschaden zu.</DefaultText>
+      <DefaultText>Die Waffe des Charakters wird mit einer Mischung aus tierischen und pflanzlichen Giften getränkt - und fügt dem Ziel mit der Zeit Direktschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5350,7 +5350,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1082</ID>
-      <DefaultText>Der Mönch fügt sich selbst sofort genügend reinen Schaden zu, um eine Wunde zu erleiden.</DefaultText>
+      <DefaultText>Der Mönch fügt sich selbst sofort genügend Direktschaden zu, um eine Wunde zu erleiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5360,7 +5360,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1084</ID>
-      <DefaultText>Erhöht den von Werkzeugen (Zauberstäbe, Zeptern und Stäben) angerichteten Schaden, fügt dem Charakter jedoch mit jedem Angriff eine kleine Menge reiner Schaden zu.</DefaultText>
+      <DefaultText>Erhöht den von Werkzeugen (Zauberstäbe, Zeptern und Stäben) angerichteten Schaden, fügt dem Charakter jedoch mit jedem Angriff eine kleine Menge Direktschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5430,7 +5430,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1098</ID>
-      <DefaultText>Die Flammen der Hingabe des Paladins richten Verbrennungszeitschaden an.</DefaultText>
+      <DefaultText>Die Flammen der Hingabe des Paladins richten mit der Zeit Brandschaden an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5440,7 +5440,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1100</ID>
-      <DefaultText>Feinde erleiden durch den Heiligen Glanz des Priesters Verbrennungsschaden (Gefäße erleiden erhöhten Verbrennungsschaden).</DefaultText>
+      <DefaultText>Feinde erleiden durch den Heiligen Glanz des Priesters Brandschaden (Gefäße erleiden erhöhten Brandschaden).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5595,7 +5595,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1131</ID>
-      <DefaultText>Erhöht den Verbrennungsschaden und die Schadensreduktion.</DefaultText>
+      <DefaultText>Erhöht den Brandschaden und die Schadensreduktion.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6325,7 +6325,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1281</ID>
-      <DefaultText>Die Bleichelfen leben seit Generationen in unwirtlichem Klima, weshalb sie eine natürliche Resistenz gegen Verbrennungs- und Frostschaden besitzen.</DefaultText>
+      <DefaultText>Die Bleichelfen leben seit Generationen in unwirtlichem Klima, weshalb sie eine natürliche Resistenz gegen Brand- und Frostschaden besitzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6455,7 +6455,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1307</ID>
-      <DefaultText>Wenn die Ausdauer eines Feuer-Gottähnlichen auf einen niedrigen Stand sinkt, härtet sich sein Körper, was ihm zusätzliche Schadensreduktion verleiht. Seine Seele wehrt sich außerdem gegen Angreifer und fügt jedem, der ihn im Nahkampf trifft, Verbrennungsschaden zu.</DefaultText>
+      <DefaultText>Wenn die Ausdauer eines Feuer-Gottähnlichen auf einen niedrigen Stand sinkt, härtet sich sein Körper, was ihm zusätzliche Schadensreduktion verleiht. Seine Seele wehrt sich außerdem gegen Angreifer und fügt jedem, der ihn im Nahkampf trifft, Brandschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6540,7 +6540,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1324</ID>
-      <DefaultText>Schießt einen magischen Magieblitz aus dem Zauberbuch, das Zielen im Wirkungsbereich reinen Schaden zufügt und zu Benommenheit führt.</DefaultText>
+      <DefaultText>Schießt einen magischen Magieblitz aus dem Zauberbuch, das Zielen im Wirkungsbereich Direktschaden zufügt und zu Benommenheit führt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

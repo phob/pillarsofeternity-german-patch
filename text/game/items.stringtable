@@ -1048,7 +1048,7 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>Ich brauche dich, um unsere Beute für den Verkauf an Curnd zu liefern. Er wird nicht mit dir sprechen, außer du sagst die Worte: 'Yc Nybeon Eyldfeon'. Du findest ihn nachts im 'Gift'.</DefaultText>
+      <DefaultText>Ich brauche dich, um unsere Beute für den Verkauf an Curnd zu liefern. Er wird nicht mit dir sprechen, außer du sagst die Worte: 'Yc Nybeon Eyldfeon'. Du findest ihn nachts in der Geschenk.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10047,7 +10047,7 @@ Yngmar wird "IING-mar" gesprochen, mit einem langen Vokallaut zu Beginn.</Defaul
     </Entry>
     <Entry>
       <ID>1746</ID>
-      <DefaultText>Umgibt den Zauberwirker mit einem geheimnisvollen Schild und durchdringt ihn mit Boni auf die Schadensresistenz gegen Verbrennungs-, Frost-, Zersetzungs- und Schockschaden.</DefaultText>
+      <DefaultText>Umgibt den Zauberwirker mit einem geheimnisvollen Schild und durchdringt ihn mit Boni auf die Schadensresistenz gegen Brand-, Frost-, Zersetzungs- und Schockschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10167,12 +10167,12 @@ Yngmar wird "IING-mar" gesprochen, mit einem langen Vokallaut zu Beginn.</Defaul
     </Entry>
     <Entry>
       <ID>1770</ID>
-      <DefaultText>Erzeugt einen Feuerkegel vor dem Zauberwirker, der jedem im Wirkungsbereich Verbrennungsschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt einen Feuerkegel vor dem Zauberwirker, der jedem im Wirkungsbereich Brandschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1771</ID>
-      <DefaultText>Beschwört einen Feuerball aus geschmolzener Erde herauf, der über dem Ziel explodiert und bei allen im Wirkungsbereich Verbrennungsschaden verursacht.</DefaultText>
+      <DefaultText>Beschwört einen Feuerball aus geschmolzener Erde herauf, der über dem Ziel explodiert und bei allen im Wirkungsbereich Brandschaden verursacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10192,17 +10192,17 @@ Yngmar wird "IING-mar" gesprochen, mit einem langen Vokallaut zu Beginn.</Defaul
     </Entry>
     <Entry>
       <ID>1775</ID>
-      <DefaultText>Erzeugt einen brennenden Flammenstrahl zwischen dem Zauberwirker und dem Ziel, der dem Ziel und jedem, der in dem Strahl gefangen ist, anhaltenden Verbrennungsschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt einen brennenden Flammenstrahl zwischen dem Zauberwirker und dem Ziel, der dem Ziel und jedem, der in dem Strahl gefangen ist, anhaltenden Brandschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1776</ID>
-      <DefaultText>Erzeugt einen abprallenden Feuerball, der jedem, der im Weg steht, Verbrennungsschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt einen abprallenden Feuerball, der jedem, der im Weg steht, Brandschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1777</ID>
-      <DefaultText>Erzeugt ein fürchterliches senkrechtes Flammentuch, das jedem Verbrennungsschaden zufügt, der hindurchschreitet.</DefaultText>
+      <DefaultText>Erzeugt ein fürchterliches senkrechtes Flammentuch, das jedem Brandschaden zufügt, der hindurchschreitet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10287,17 +10287,17 @@ Yngmar wird "IING-mar" gesprochen, mit einem langen Vokallaut zu Beginn.</Defaul
     </Entry>
     <Entry>
       <ID>1794</ID>
-      <DefaultText>Alle im kegelförmigen Wirkungsbereich erleiden Verbrennungsschaden und werden zurückgedrängt.</DefaultText>
+      <DefaultText>Alle im kegelförmigen Wirkungsbereich erleiden Brandschaden und werden zurückgedrängt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1795</ID>
-      <DefaultText>Erzeugt schnell einen explosiven Flammenblitz, der jedem im Wirkungsbereich Verbrennungsschaden zufügt. Kurze Zauberdauer.</DefaultText>
+      <DefaultText>Erzeugt schnell einen explosiven Flammenblitz, der jedem im Wirkungsbereich Brandschaden zufügt. Kurze Zauberdauer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1796</ID>
-      <DefaultText>Lockt einen Schwarm aggressiver Insekten an, die mit der Zeit reinen Schaden verursachen und die Konzentration von jedem im Wirkungsbereich verringern.</DefaultText>
+      <DefaultText>Lockt einen Schwarm aggressiver Insekten an, die mit der Zeit direkten Schaden verursachen und die Konzentration von jedem im Wirkungsbereich verringern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

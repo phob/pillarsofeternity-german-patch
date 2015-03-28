@@ -1055,9 +1055,9 @@ Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadens
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>In Pillars of Eternity gibt es acht Schadensarten: Hieb-, Stich-, Wucht-, Verbrennungs-, Schock-, Zersetzungs-, Frost- und reinen Schaden. Die Schadensarten werden dazu genutzt, zu bestimmten, wie leicht ein Ziel solchem Schaden widerstehen kann, basierend auf seinen Schadensreduktionen. Eine Kreatur oder Rüstung kann einer Schadensart gegenüber sehr resistent sein, einer anderen gegenüber aber sehr anfällig. 
+      <DefaultText>In Pillars of Eternity gibt es acht Schadensarten: Hieb-, Stich-, Wucht-, Brand-, Schock-, Zersetzungs-, Frost- und Direktschaden. Die Schadensarten werden dazu genutzt, zu bestimmten, wie leicht ein Ziel solchem Schaden widerstehen kann, basierend auf seinen Schadensreduktionen. Eine Kreatur oder Rüstung kann einer Schadensart gegenüber sehr resistent sein, einer anderen gegenüber aber sehr anfällig. 
 
-Manche Waffen oder Angriffe können mehrere Schadensarten anrichten oder zeigen zwischen ihren Schadensarten ein "oder". Wenn ein "oder" aufgeführt wird, verursacht der Angriff immer die Schadensart, gegen die das Ziel am anfälligsten ist. Reiner Schaden ist die einzige Schadensart, die alle Schadensreduktionen ignoriert - und meist mit Giften und ähnlichen Effekten in Verbindung steht.</DefaultText>
+Manche Waffen oder Angriffe können mehrere Schadensarten anrichten oder zeigen zwischen ihren Schadensarten ein "oder". Wenn ein "oder" aufgeführt wird, verursacht der Angriff immer die Schadensart, gegen die das Ziel am anfälligsten ist. Direktschaden ist die einzige Schadensart, die alle Schadensreduktionen ignoriert - und meist mit Giften und ähnlichen Effekten in Verbindung steht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_inn_nonton_and_ingroed</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ich muss doch sehr bitt- oh! Du bist es!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Es freut mich auch, dich zu sehen. Wir hatten hier ein paar schwierige Tage, aber dann sind wir hierher gelangt, und sie waren so gütig, uns beide anzuheuern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Die Arbeit ist hart, aber der Lohn ist gut. Ich kann mich nicht beklagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Es ist einfach wunderbar. Ich kann dir gar nicht sagen, wie dankbar ich dir bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Mögen die Götter dich schützen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wohnst du im Gasthaus? Ich lege ein zusätzliches Kopfkissen für dich beiseite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Trutzbucht ist so viel vornehmer als Goldtal. Ich bin froh, dass wir hergekommen sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

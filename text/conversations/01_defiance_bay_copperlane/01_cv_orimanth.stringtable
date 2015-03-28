@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_orimanth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Hand des Mannes ruht sanft auf dem Griff seines Flegels, als du dich näherst. "Was hast du mit uns zu schaffen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Edelsteine, am liebsten. Sie sind einfacher zu tragen als riesige Geldsäcke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Schlechte Neuigkeiten, Orimanth. Barcozzis Käufer kommt nicht - die Ritter haben ihn wohl zum Verhör mitgenommen. Ich nehme an, dass Agosti dahinter steckt."
+
+"Also ... was geht hier vor sich? Wer ist das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Sagt dir der Name Barcozzi etwas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ja. Du bist zu spät, und wir hassen es, wenn man uns warten lässt. Ich hoffe, das passiert nie wieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Wie kann ich mir sicher sein, dass ihr nicht einfach das Geld nehmt und verschwindet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Angreifen.] "Ich erledige euch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Kommen wir zu den Einzelheiten unseres Arrangements. Am südlichen Ende der Docks in Ondras Geschenk gibt es eine lose Planke. In der Nähe dieses versunkenen Schiffs. Hinterlege die Bezahlung dort - nur Edelsteine und Münzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Werden die Glanfathaner nicht wütend, wenn sie euch beim Plündern engwithanischer Ruinen erwischen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich habe keine weiteren Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Du bist zu spät, und wir hassen es, wenn man uns warten lässt. Ich hoffe, das passiert nie wieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Lügen.] "Mestre Barcozzi schickt mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Gut. Wir nehmen die Bezahlung und ersetzen sie durch engwithanische Relikte von etwas geringerem Wert. Ich sage 'geringer', weil wir natürlich zuerst unseren Anteil abziehen. Wir machen schließlich die ganze Arbeit und tragen fast das komplette Risiko."
+
+"So läuft der Hase, einfach und sauber. Fragen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die Elfin grinst verächtlich. "Wenn wir erwischt werden - was nicht sehr oft passiert - sorgen wir dafür, dass die Glanfathaner nicht sehr lange wütend bleiben. Augenzeugen wären zu lästig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Dieses Arrangement ist gut genug für Mestre Fucillo und für Mestre Ross. Dir gefällt es nicht? Dann lass es bleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Gut. In ungefähr einer Woche haben wir etwas für dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Er starrt dich an, sein Blick wird hart. "Gute Frage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Eine unangenehme Situation, in der wir hier stecken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Stumm zurückstarren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Woher wisst ihr, welche Relikte wertvoll sind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ich weiß viel über die engwithanische Kultur. Wenn ich sage, dass etwas wertvoll ist, dann stimmt das."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Anverion hat sich auch noch nie getäuscht. Dein Meister braucht nicht zu befürchten, dass wir ihm Schrott verkaufen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Er weiß zu viel. Bringt ihn um."</DefaultText>
+      <FemaleText>"Sie weiß zu viel. Bringt sie um."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ihr betreibt dieses Arrangement schon länger, ohne je erwischt worden zu sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"So isses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Der vailianische Botschafter, Agosti, weiß von uns und versucht, uns das Handwerk zu legen. Aber er ist nicht so klug, wie er glaubt. Außerdem sind unsere Mäzene in der Republiken mächtiger und einflussreicher als er. Wir haben nichts zu befürchten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Verdammt."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

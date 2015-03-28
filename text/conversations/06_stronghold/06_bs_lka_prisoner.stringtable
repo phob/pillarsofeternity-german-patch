@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_bs_lka_prisoner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Das ist ... unnötig. Lass mich frei, Ich werde den anderen sagen, dass sie dich in Frieden lassen sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wenn du dem Bleiernen Schlüssel erzählst, dass sich Naelde hier befindet, werden sie dich gut für meine Freilassung bezahlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Genug ... Du hast ... deinen Standpunkt rübergebracht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Diese widerlichen Zellen ... wirst du all deine Feinde in dein Verlies werden, du Wichtigtuer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Und was hat der da getan, um sich deinen Zorn einzuhandeln? Was für eine kurze Lunte ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

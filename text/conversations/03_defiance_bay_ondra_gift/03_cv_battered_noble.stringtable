@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_battered_noble</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die ausgefallene Kleidung dieses Mannes ist zerrissen, und aus einem frischen Schnitt über seinem Auge strömt Blut. Er versucht sich hochzustemmen, aber sein Arm zittert. Er zuckt vor Schmerzen zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Ihm aufhelfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Was ist passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"D-danke." Er schnappt nach Luft, als er sich erhebt. "Mein Kopf ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich kann es nicht fassen, dass sie dich einfach mitten auf der Straße angegriffen haben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Soll ich diesen Schlägern eine Lektion erteilen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich auch nicht." Er streckt ein Bein langsam aus und verzieht wegen seines aufgeschürften Knies das Gesicht. "Das hier ist kein gutes Stadtviertel, aber der Pöbel ist noch nie gewalttätig gewesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Bitte bring mich zuerst von hier fort, ja?" Er seufzt und reibt sich seinen Kopf. "So schlimm war er in Ondras Geschenk noch nie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Er betupft seine blutige Nase vorsichtig mit einem Seidentaschentuch. "Ich war nur auf meinem Weg zum Klub." Er streckt ein Bein langsam aus und verzieht wegen seines aufgeschürften Knies das Gesicht. "Das hier ist kein gutes Stadtviertel, aber der Pöbel ist noch nicht gewalttätig gewesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Selbst eine Nacht mit Iqali ist das hier nicht wert." Er hinkt von dannen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich möchte nur noch nach Hause."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Der Mann versucht immer noch, zu sich zu kommen. Er befühlt eine sich auf seinem Kiefer bildende Beule.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

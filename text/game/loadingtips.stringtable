@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\loadingtips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>84</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Pillars of Eternity wurde durch die Beiträge von mehr als 74000 Fans ermöglicht. Wir von Obsidian möchten allen für ihr Feedback, ihre Unterstützung und die Gelegenheit zur Schaffung dieses Spiel danken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Wenn die Größe deiner Gruppe steigt, solltest du eventuell ihre Formation ändern. Du kannst die Formationsschaltfläche im zentralen HUD verwenden, um zwischen vorgegebenen Formationen zu wechseln oder eigene Formationen zu erstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Der Spähmodus wird für zwei Zwecke verwendet: Schleichen und suchen. Schleichen kann dir einen taktischen Vorteil gegen schwierige Feinde verleihen - oder dir helfen, ihnen aus dem Weg zu gehen. Suchen ermöglicht es dir, Fallen und versteckte Gegenstände zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Einige Kreaturen und Rüstungsarten sind besonders widerstandsfähig oder anfällig gegen bestimmte Schadensarten. Sieh dir die Schadensreduktionen der Kreatur in ihrem Tooltip und im Bestiarium an, um zu erfahren, welche Waffen und Zauber besonders effektiv gegen sie sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Alle Angriffe werden von einer von vier Verteidigungen abgeschwächt: Abwehr, Tapferkeit, Reflexe oder Wille. Wenn ein Feind hohen Widerstand gegen eine Angriffsart besitzt, probiere es mit einem Angriff, der auf eine andere Verteidigung abzielt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Wenn ein Angriff ein Ziel trifft und Schaden anrichtet, wird er für gewöhnlich durch die Schadensreduktion des jeweiligen Schadenstyps reduziert. Schadensreduktion kann Schaden nicht vollständig abwenden, ihn aber deutlich reduzieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Wenn ein Angriff einen Treffer verursacht, richtet dieser Treffer normalen Schaden an und hat eine normale Dauer. Ein leichter Treffer verringert Schaden und Dauer um 50%. Ein kritischer Treffer erhöht Schaden und Dauer um 50%.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die Schadensart 'reiner Schaden' ignoriert immer die Schadensreduktionen des Ziels. Nur eine kleine Anzahl von Angriffen - beispielsweise Gifte oder mentale Fähigkeiten - verursacht reinen Schaden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Wenn die Ausdauer eines Charakters auf 0 fällt, verliert der Charakter das Bewusstsein. Er steht jedoch mit voller Ausdauer wieder auf, wenn seine Seite die Schlacht gewinnt. Gesundheitsschaden lässt sich für gewöhnlich nur durch Rasten regenerieren. Fällt die Gesundheit auf 0, wird der Charakter verstümmelt oder getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Ein Charakter kann im Kampf Schnellgegenstände einsetzen oder Waffensets wechseln, ansonsten aber nicht auf sein Inventar zugreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Alle Waffen, Schilde oder Rüstungen können verzaubert werden. Dazu muss auf der Beschreibungsseite auf die Schaltfläche 'Verzaubern' geklickt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Tränke, Schriftrollen und Lebensmittel können geschaffen werden, indem im Inventar eines beliebigen Gruppenmitglieds auf 'Herstellen' geklickt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Alle Rezepte im Verzaubern-Menü verwenden eine Art von Edelstein, eine Art von Pflanze, eine Art von Kreaturkörperteil und etwas Kupfer. Die meisten Zutaten werden in mehreren Rezepten verwendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Um in der Wildnis zu rasten, benötigst du Rastvorräte, die du in verschiedenen Läden kaufen kannst. Wenn du keinen Zugang zu Rastvorräten hast, kannst du in den meisten Gasthäusern günstig ein Zimmer mieten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die meisten Ereignisse in der Festung finden durch das Verstreichen der Spielzeit statt. Das Eintreiben von Steuern, das Abschließen von Nebenabenteuern und die Erstellung von Herstellungszutaten finden statt, wenn du Quests abschließt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Einige der Personen, denen du in der Welt begegnest und mit denen du kämpfst, können gefangen genommen und in deiner Festung eingekerkert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Effekte, die sich auf dieselbe Statistik auswirken, schließen sich oft gegenseitig aus. In diesem Fall verwendet das Spiel nur den jeweils höchsten Bonus dieser Art.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Nahkampfbindung macht es schwierig für Charaktere, sich im Nahkampf von Verteidigern zu entfernen. Die Bindung kann jedoch durch eine Reihe von Wirkungen durchbrochen worden, unter anderem Niedergeschlagen, Betäubt, Gelähmt und Versteinert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Durch die Entscheidungen deines Charakters in Dialogen und Quests baut er einen Ruf auf - einen allgemeinen und einen separaten bei einzelnen Gruppierungen. Charaktere in der Welt reagieren auf diese Entscheidungen und diesen Ruf - auf gute oder schlechte Weise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>In Dialogen übernimmt dein Hauptcharakter das Reden. Gefährten können jedoch manchmal ihre Meinung einbringen oder Vorschläge machen. In geskripteten Interaktionen können mehr Mitglieder der Gruppe teilnehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Der Schwierigkeitsgrad beeinflusst, welche Kreaturen (und wie viele) im Kampf erscheinen. Nur 'Pfad der Verdammten' verändert die Statistiken der Kreaturen, die erscheinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Macht wirkt sich auf sämtlichen Schaden und sämtliche Heilung des Charakters sowie auf seine Tapferkeit-Verteidigung aus. Außerdem kann sie in Dialogen und geskripteten Interaktionen für Prüfungen der Stärke und Kraft genutzt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Verfassung wirkt sich auf die Ausdauer und Gesundheit des Charakters sowie auf seine Tapferkeit-Verteidigung aus. Außerdem kann sie in geskripteten Interaktionen genutzt werden, um körperliche Anstrengungen zu überstehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Gewandtheit wirkt sich auf die Aktionsgeschwindigkeit von Charakteren sowie auf ihre Reflexe-Verteidigung aus. Sie kann auch in Dialogen und geskripteten Interaktionen verwendet werden, um Fingerfertigkeitskunststücke oder schnelle Bewegungen auszuführen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Die Wahrnehmung wirkt sich auf die Chance aus, dass ein Charakter Angriffe unterbricht, und trägt zu den Abwehr- und Reflexe-Verteidigungen bei. Sie kann auch in Dialogen und geskripteten Interaktionen verwendet werden, um kleine oder verborgene Details zu entdecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Der Intellekt wirkt sich auf den Wirkungsbereich und die Dauer von Fähigkeiten sowie auf die Wille-Verteidigung aus. Außerdem kann er in Dialogen und geskripteten Interaktionen verwendet werden, wenn Logik oder Denkvermögen gefragt sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Die Entschlossenheit wirkt sich auf die Konzentration und auf die Wille- und Abwehr-Verteidigungen aus. Außerdem kann sie in Dialogen und geskripteten Interaktionen verwendet werden, wenn rohe Willenskraft oder Charisma gefragt sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Die Athletik-Fähigkeit wird in geskripteten Interaktionen für Aktionen wie Klettern, Schwimmen und Springen verwendet. Klassen wie der Kämpfer und der Barbar beginnen mit einem Athletik-Bonus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die Wissen-Fähigkeit dient in Dialogen und geskripteten Interaktionen dazu, Hinweise zu entschlüsseln und sich an esoterisches Wissen zu erinnern. Klassen wie der Zauberer und der Sänger beginnen mit einem Wissen-Bonus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Die Mechanik-Fähigkeit wird verwendet, um in der Welt Schlösser zu knacken und Fallen zu entschärfen und um in geskripteten Interaktionen Maschinen zu bedienen. Klassen wie der Schurke und der Sänger beginnen mit einem Mechanik-Bonus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Die Heimlichkeit-Eigenschaft wird verwendet, um im Spähmodus nicht entdeckt zu werden. Klassen wie der Schurke und der Waldläufer beginnen mit einem Heimlichkeit-Bonus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Die Überleben-Fähigkeit dient dazu, in Dialogen und geskripteten Interaktionen Pflanzen, Kreaturen und andere Bestandteile der natürlichen Welt zu identifizieren. Klassen wie der Waldläufer und der Barbar beginnen mit einem Athletik-Bonus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Talente können eingesetzt werden, um Charaktere im Verlauf ihrer Entwicklung auf ganz individuelle Weise anzupassen. Klassentalente modifizieren bestehende Klassenfähigkeiten oder verleihen Zugang zu neuen Fähigkeiten, die keine Kernfähigkeiten der Klasse sind. Die offensiven, defensiven und Unterstützungstalente stehen allen Klassen zur Verfügung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Barbaren besitzen viele Fähigkeiten, die es ihnen ermöglichen, im Nahkampf gegen Gruppen von Feinden zu kämpfen. Wenn du es mit großen Massen von Feinden zu tun bekommst, solltest du den Barbaren ins Getümmel schicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Sänger können nicht nur singen! Der Kampf an vorderster Front steht zwar nicht im Mittelpunkt ihrer Fähigkeiten, aber sie sind fähige Krieger und können andere Handlungen ausführen, während sie singen und Phrasen sammeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Medien nutzen Fokus, um ihre Fähigkeiten einzusetzen. Sie können zusätzlichen Fokus sammeln, indem sie mit Waffen Schaden anrichten, während ihre Seelenpeitsche aktiv ist. Die Seelenpeitsche wird deaktiviert, wenn der Fokus eines Mediums vollständig gefüllt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Druiden besitzen ein breites Spektrum an Wirkungsbereich-Angriffszaubern. Außerdem besitzen sie die Fähigkeit, sich durch Geisterwandeln in eine Tiergestalt zu verwandeln, in der sie mächtige Nahkampfkräfte besitzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Kämpfer sind extrem widerstandsfähig und zählen zu den zuverlässigsten Schadensverursachern. Sie können sehr effektiv darin sein, eine Stellung beizubehalten und selbst schwer zu treffende Feinde zu zermürben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Mönche besitzen mächtige unbewaffnete Angriffe, können jedoch alle ihre Fähigkeiten auch mit Standard-Nahkampfwaffen einsetzen. Einige ihrer Fähigkeiten können sie dann einsetzen, wenn sie es entscheiden - für viele Fähigkeiten ist es aber Voraussetzung, dass sie Schaden erleiden und Wunden generieren. Die Wunden können dann als Energiequelle für die Spezialfähigkeiten des Mönchs dienen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Paladine besitzen eine Mischung aus Unterstützungsfähigkeiten und offensiven Fähigkeiten. Die eifrige Aura eines Paladins wirkt sich dauerhaft auf alle Verbündeten in der Nähe des Paladins aus. Ihre Ermunterungen belegen immer einen einzelnen Verbündeten mit einem mächtigen Effekt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Priester sind auf das Wirken von Unterstützungszaubern spezialisiert. Ihre Zauber haben zwar oft eine begrenzte Reichweite, sie wirken sich jedoch fast immer auf eine Gruppe aus und können eine Vielzahl von Boni verleihen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Waldläufer haben eine enge Verbindung zu ihrem tierischen Gefährten. Das Paar arbeitet am besten im Team. Tierische Gefährten besitzen keine mächtigen Angriffe, können jedoch Feinde sehr effektiv in die Enge treiben, damit der Waldläufer sie besiegen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Durch ihre Schleichangriff-Fähigkeit besitzen Schurken den höchsten Waffenschaden aller Klassen. Trifft ein Schurke einen Feind, der mit einer Wirkung belegt ist, die einen Schleichangriff ermöglicht, verursacht der Treffer automatisch zusätzlichen Schaden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Zauberer können nur Zauber wirken, die sich in ihrem ausgerüsteten Zauberbuch befinden. Zusätzliche Zauberbücher können in den Schnellauswahl-Plätzen des Zauberers abgelegt werden, der Zauberer kann jedoch mehrere Sekunden lang nicht auf die neuen Zauber zugreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Das Lager der Gruppe kann verwendet werden, um überflüssige Ausrüstung zu lagern, wenn die Inventare der Charaktere voll sind. Einige arten von Gegenständen, beispielsweise Quest-Gegenstände und Zutaten, werden automatisch im Lager abgelegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Waffen, Schilde und Rüstungen mit den Eigenschaften Gut, Außergewöhnlich oder Hervorragend verleihen Boni auf die Grundeigenschaften des Gegenstands, zum Beispiel Genauigkeit, Schaden, Abwehr und alle Schadensreduktionen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Kleinere und schnellere Waffen haben meist eine niedrigere Unterbrechung-Wertung, greifen aber mit höherer Frequenz an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Einige Waffenarten - zum Beispiel Panzerbrecher, Streitkolben und Stilett - negieren einen Teil der Schadensreduktion des Gegners.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Alle Waffen, die einen Schadenstyp wie "Hieb oder Wucht" aufführen, richten jeweils den Schadenstyp an, der in der aktuellen Situation vorteilhafter ist - meist den Schadenstyp, gegen den das Ziel am anfälligsten ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Schwerere Rüstung bietet mehr Schutz, verlängert aber auch die Erholungszeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Führt man eine einzige Einhand-Nahkampfwaffe ohne Schild, wird auf jeden Angriff ein Genauigkeitbonus angewandt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Das Führen von zwei Nahkampfwaffen gleichzeitig bietet zwar die schnellste Angriffsrate, nicht aber den Pro-Treffer-Schaden von Zweihandwaffen, die Genauigkeit einer einzelnen Einhand-Waffe oder den Abwehrbonus eines Schilds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Rüstet man ein Schild aus, erhöht sich die Abwehr des Charakters, seine Erholung verlangsamt sich aber. Größere Schilde können sich außerdem negativ auf die Genauigkeit eines Charakters auswirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Zweihand-Nahkampfwaffen richten den größten Pro-Treffer-Schaden an und können auch hohe Schadensreduktionen durchbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Lebensmittel können im Kampf nicht eingesetzt werden, können jedoch Boni verleihen, die über lange Zeit anhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Waffen und Schilde verleihen Boni, die mit Boni von anderen Gegenstandstypen addiert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Gegenstände wie Enterhaken und Meißel werden immer aufgebraucht, wenn sie in speziellen Interaktionen eingesetzt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Das Glossar enthält Definitionen und Erklärungen zu vielen Begriffen zur Spielmechanik. Wenn du noch einmal genau wissen willst, wie kritische Treffer berechnet werden oder wie die Schadensreduktionen funktioniert, öffne das Tagebuch und sieh nach!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Viele Aspekte der Benutzeroberfläche und der Anzeige kannst du im Optionsmenü an deine persönlichen Vorlieben anpassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Wenn du Schwierigkeiten hast, die standardmäßig für Verbündete und Feinde verwendeten Farben Rot und Grün zu unterscheiden, kannst du im Optionsmenü den Rot-Grün-Schwäche-Modus aktivieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Pillars of Eternity wurde in mehrere Sprachen übersetzt. Wenn du das Spiel in einer anderem Sprache spielen willst, kannst du im Optionsmenü die gewünschte Sprache auswählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Wenn sich im Kampf ein Pfeil aus dem Auswahlkreis eines Charakters in den eines anderen bewegt, entsteht eine Nahkampfbindung. Wenn der gebundene Charakter versucht, sich zu entfernen, solange der Pfeil aktiv ist, wird er sofort Ziel eines Absetzangriffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Die meisten Kreaturen entdecken einen Charakter kurz, nachdem sie am Rand des Kriegsnebels auftauchen. Um dich an Feinde anzuschleichen, verwende den Spähmodus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Sobald du Zugang zur Festung hast, kannst du über das zentrale HUD jederzeit auf das Festungsmenü zugreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Sowohl das zentrale HUD als auch das Kampfprotokoll können minimiert werden, wenn du die Welt erkunden willst, ohne dass die Charakterporträts zu sehen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Halte den Cursor über einen Angriff im Kampfprotokoll, um weitere Einzelheiten zu dem Angriff anzuzeigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Die rote Füllung auf dem Porträt eines Charakters steht für seinen Ausdauerverlust. Der Balken links neben dem Porträt steht für die Gesundheit. Der Gesundheitsbalken ändert seine Farbe, je mehr er sich der 0 nähert. Wenn die Gesundheit unter der maximalen Ausdauer liegt, zeigt ein Balken auf dem Porträt an, dass die Ausdauer begrenzt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Der tierische Gefährte eines Waldläufers kann direkt über sein Symbol ausgewählt werden, das über seinem Waldläufer zu sehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Bewege den Cursor über die Symbole auf dem Porträt eines Charakters, um zu sehen, welche Zauber oder Fähigkeiten ihn momentan beeinflussen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Der Charakterbogen enthält alle Details deiner Gruppenmitglieder. Außerdem findest du hier eine Liste aller deiner persönlichen und Gruppenstatistiken, darunter auch den Ruf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Du kannst direkt auf die Gebietskarte klicken, um die Kamera auf einem bestimmten Punkt zu zentrieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Das Bestiarium enthält alle Informationen, die du über sämtliche Kreaturen freigeschaltet hast, gegen die du je gekämpft hast. Je mehr Kreaturen du besiegst, desto mehr Informationen werden in jedem Eintrag freigeschaltet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Der langsame Modus kann verwendet werden, um Charakteren im Kampf Befehle zu erteilen, ohne das Spiel zu pausieren. Der schnelle Modus ist nützlich, um Gebiete zu durchqueren, die deine Gruppe bereits erforscht hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Das Spiel zu pausieren, um Befehle zu erteilen, ist ein wichtiger Teil des Kampfs in Pillars of Eternity. Wenn du Bedingungen für das automatische Pausieren festlegen willst, stehen dir im Optionsmenü viele Möglichkeiten zur Verfügung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Wenn du mit Wirkungsbereich-Angriffen zielst, hat der Zielkreis eventuell einen äußeren Umfang. Der Raum zwischen dem inneren und dem äußeren Umfang ist ein 'nur Feinde'-Bereich. Verbündete, die in diesem Bereich stehen, nehmen durch den Zauber keinen Schaden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Du kannst eine Kette von Aktionen planen, indem du die Umschalt-Taste gedrückt hältst, während du Befehle erteilst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>NPCs mit goldenen Namensplaketten wurden von unseren Unterstützern entworfen. Durch die Interaktion mit ihnen kannst du ihre Seelen erforschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Die Biographie deines Charakters schreibt sich im Verlauf deiner Abenteuer selbst. Im Tagebuch-Reiter des Quest-Fensters siehst du, wie sich dein Charakter entwickelt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Die Art und Weise, wie dein Charakter in Dialogen mit Pesronen interagiert, selbst die Nuancen, beeinflusst seinen Ruf. Wenn dein Ruhm größer wird, behandeln einige Charaktere dich vielleicht anders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Du kannst im Optionsmenü anpassen, wie viele Metaspielinformationen in Dialogen angezeigt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Auf dem Porträt eines Gefährten erscheint ein Dialog-Symbol, wenn er etwas mit dir besprechen möchte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Offensive Wirkungsbereichzauber können zwei Zielkreise besitzen. Der innere Kreis wirkt sich auf Ziele aus, die sich darin befinden. Der äußere Kreis wirkt sich nur auf Feinde aus, nicht aber auf Verbündete.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Verwende die Tab-Taste, um interaktive Gegenstände in der Umgebung zu markieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Wenn du die Försterhütte bei deiner Festung baust, erhältst du Zugang zu zahlreichen Kopfgeldaufträgen. Kopfgeld-Quests sind herausfordernde Kampfbegegungen, die wertvolle Belohnungen einbringen kann, darunter auch einzigartige Gegenstände.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

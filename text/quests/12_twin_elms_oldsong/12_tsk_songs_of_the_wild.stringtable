@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\12_twin_elms_oldsong\12_tsk_songs_of_the_wild</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Gesang der Wildnis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde und fange drei seltene Singvögel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu Delem in Altlied zurück</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Delem, der Sänger von Altlied, sucht nach seltenen Singvögeln. Er glaubt, indem er diese exotischen Vögel verspeist, könne er ihr musikalisches Wesen absorbieren. Er hofft, dass ihn dies dazu befähigt, ein solch wunderbares Lied zu komponieren, dass der kalte Wind verschwindet, der sich über Altlied gelegt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Delem, ein Orlaner im Bezirk Altlied, vermisst die lebhafte Menge, die auf dem Platz tanzte und sang, bevor die Kälte von Mittagsfrost sie vertrieb. 
+Delem glaubt, wenn er das Fleisch von drei seltenen Singvögeln isst, stärken sie seinen Geist und er kann die Menge zurückholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe drei besondere Singvögel für Delem gesammelt. Ich sollte zu ihm zurückkehren, in den Bezirk Altlied in Zwillingsulmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Delem hat mir nützliche Informationen über die Vögel gegeben, die er sucht.
+
+Der Tîam ist unter Glanfathanern sehr beliebt und wird meist in Käfigen gehalten - ist aber dennoch schwer zu finden.
+
+Der Scherbenflügel ist ein kleiner Vogel, der meist im Unterholz in der Nähe von großen Adra-Gebilden lebt, wo sein leuchtend türkises Gefieder ihm eine gute Tarnung verschafft.
+
+Schließlich will Delem einen Wolkensinger, einen äußerst seltenen und schwer zu findenden Vogel, der nur in den Felsen der höchsten Berge von Eir Glanfath nistet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe in der Wildnis vor Zwillingsulmen einen Scherbenflügel gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe in einem Haus im Bezirk Herdlied einen Tîam-Singvogel gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe auf einem Berg beim Hylea-Tempel einen wunderschönen Wolkensinger gefangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe drei Singvögel für Delem beschafft. Er war sehr zufrieden mit meiner Arbeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Nachdem ich mit den Hylea-Priestern gesprochen habe, konnte ich Delem überzeugen, dass es ein Irrglaube ist, er könnte die Macht der Vögel auf sich übertragen, indem er sie isst. Er wirkte etwas enttäuscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Nachdem ich mit Llensi sprach, der Besitzerin eines der seltenen Singvögel, erfuhr ich, dass Delems Plan auf dem Aberglauben wilder Orlaner basiert. Ich konnte ihn überzeugen, dass sein Plan Unsinn ist, auch wenn er es nur zögerlich akzeptiert hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Quest gescheitert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tutorial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Willkommen zu Pillars of Eternity! Wenn du die Welt von Eora zum ersten Mal besuchst, solltest du diese Fenster studieren, um dich mit dem Spiel, der Benutzeroberfläche und den verfügbaren Werkzeugen vertraut zu machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Deine Gruppe besteht immer aus deinem Charakter und bis zu fünf zusätzlichen Gefährten oder Abenteurern. Solange die Karawane vor den glanfathanischen Ruinen kampiert, hat Odema dir Calisca zur Seite gestellt, damit sie dir hilft. Calisca ist Kämpferin, eine Klasse, deren Stärkung vor allem in der Verteidigung in Nahkämpfen liegen. Nutze ihre Fähigkeiten, um deine eigenen zu ergänzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Um ein Mitglied deiner Gruppe auszuwählen, klicke auf seinen Auswahlkreis oder sein Porträt oder drücke die Zifferntaste, die seiner Position in der Gruppe entspricht - beginnend auf der linken Seite mit der 1. Um mehrere Gruppenmitglieder auszuwählen, klicke auf einen beliebigen Punkt auf dem Bildschirm, halte die Maustaste gedrückt und ziehe den Cursor über die Kreise der Mitglieder, die du auswählen möchtest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Um ausgewählte Charaktere zu bewegen, klicke auf einen beliebigen Punkt auf den Bildschirm, an dem Cursor sich in einen Kreis aus vier Keilen verwandelt. Alle ausgewählten Charaktere bewegen sich am gewählten Ziel an ihren Platz in der Formation. Wenn du einen durchgestrichenen roten Kreis siehst, kannst du dich auf diesem Teil der Karte nicht fortbewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die meisten Leute, denen du in der Welt begegnest, sind entweder neutral oder freundlich. Du kannst mit ihnen interagieren, indem du auf ihren Auswahlkreis klickst. Viele Charaktere grüßen dich einfach und gehen dann ihres Weges. Mit einigen kannst du aber auch längere Gespräche führen. Der Händler, Heodan, besitzt eine Dialog-Option, durch die sich ein Laden öffnet, in dem du Ausrüstung kaufen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>In Läden kannst du deine Gegenstände gegen Kupferstücke (KP) oder Gegenstände aus dem Inventar des Ladens tauschen oder verkaufen. Händler kaufen dir Gegenstände zu einem deutlich reduzierten Preis ab. Wenn du etwas verkaufst, wird es kurz danach vielleicht sehr viel teurer im Inventar des Ladens angeboten. Die Läden erneuern ihr Inventar von Zeit zu Zeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>An einem Gespräch nehmen du und ein anderer Charakter teil. Manchmal werfen auch umstehende Personen oder Gefährten etwas ein. Die Dialogauswahl, die du triffst, beeinflusst den Verlauf der Geschichte und wirkt sich mit der Zeit auf den Ruf deines Charakters aus. Die Charaktere in der Spielwelt hören von deinem Ruf - gut oder schlecht - und reagieren entsprechend auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die Attribute, die Fähigkeiten, die Klasse, das Volk, die Kultur und das Geschlecht deines Charakters können sich alle auf die verfügbaren Dialogoptionen auswirken. Diese Optionen sind nicht unbedingt "besser" als die anderen Antworten, sie bieten dir nur eine größere Auswahlmöglichkeit. Wie jemand auf deine Auswahl reagiert, hängt von seiner Persönlichkeit und Einstellung ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Erkundung der Spielwelt ist ein Pillars of Eternity ein entscheidender Faktor. Öffne während deiner Reise durch Östlichen Abschnitt die Gebietskarte, um festzustellen, welche Teile der Karte du bereits besucht hast und welche Gebiete du noch erkunden kannst. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Wenn du Quests erhältst, wird dein Tagebuch mit den relevanten Informationen aktualisiert. Wenn du einmal nicht weiterkommst, öffne das Tagebuch, um deine Notizen zu lesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Pillars of Eternity verwendet für den Kampf ein pausierbares Echtzeitsystem. Weil du oft mehrere Charaktere gleichzeitig kontrollieren musst, ist es ratsam, das Spiel zu pausieren, Befehle zu erteilen und dann das Spiel in Echtzeit fortzusetzen, um zu sehen, wie die Befehle ausgeführt werden. Das Optionsmenü enthält auch viele Möglichkeiten, das Spiel automatisch pausieren zu lassen, wenn bestimmte Ereignisse eintreten (beispielsweise zu Beginn des Kampfs).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Alle Charaktere im Spiel - Freund wie Feind - haben vier primäre Verteidigungen gegen Angriffe: Abwehr, Tapferkeit, Reflexe und Wille. Diese Verteidigungen basieren auf den Attributen des Charakters, seiner Stufe, seinen Gegenständen und anderen Effekten. Erfolgt ein Angriff, wird die Genauigkeit mit den jeweiligen Verteidigungen verglichen. Wenn die Genauigkeit unter der entsprechenden Verteidigung liegt, wird der Angriff mit einem Malus belegt und verfehlt mit höherer Wahrscheinlichkeit sein Ziel. Liegt die Genauigkeit über der entsprechenden Verteidigung, führt der Angriff mit einer höheren Wahrscheinlichkeit zu einem kritischen Treffer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Alle Angriffe, die Schaden verursachen, müssen die Schadensreduktion (SR) des Ziels überwinden. Die SR eines Feindes reduziert den erlittenen Schaden um die angegebene Menge, bis zu einem Mindestprozentsatz. Wenn es dir nicht gelingt, einen Feind zu verletzen, versuche es mit anderen Waffen oder Angriffen, die eine andere Art von Schaden verursachen. Die meisten Feinde sind relativ immun gegen ein bis zwei Schadensarten - und anfällig gegen eine ähnliche Anzahl an Schadensarten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Manchmal sind eine Waffe oder ein Zauber einfach nicht geeignet, um die Schadensreduktion eines Feindes zu durchdringen. Wenn der Angriff ein Treffer ist, hebt die SR den gesamten theoretisch erlittenen Schaden bis auf einen kleinen Prozentsatz auf. Du hörst, wie deine Charaktere sich beschweren, wenn das passiert. Halte die Ohren offen, achte darauf, welche Schadensart abgeblockt wurde, und versuche es mit einer anderen Waffe oder einem anderen Zauber noch einmal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du hast einen kritischen Treffer gelandet! Ein kritischer Treffer ist ein besseres Ergebnis als ein Treffer. Die Wahrscheinlichkeit, dass du einen kritischen Treffer landest, ist höher, wenn die Genauigkeit des Angriffs über der Verteidigung des Ziels liegt. Angriffe, die Schaden anrichten, richten höheren Schaden an, wenn sie als kritischer Treffer landen. Angriffe, die Statuseffekte oder Wirkungen auslösen, haben eine längere Dauer, wenn sie als kritischer Treffer landen. Leichte Treffer sind schwächer als Treffer - ihr Schaden ist niedriger, Effekte und Wirkungen halten weniger lang an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du greifst gerade einen Feind mit mindestens einer Verteidigung (Abwehr, Tapferkeit, Reflexe, Wille) an, die deutlich über der Genauigkeit des angreifenden Charakters liegt. Wenn die Verteidigung deutlich über der Genauigkeit liegt, kann es sehr schwer sein, einen Treffer zu landen - und unmöglich, einen kritischen Treffer zu landen. Versuche, die Genauigkeit des Angreifers zu erhöhen, oder verwende Zauber oder Fähigkeiten, die eine andere Verteidigung angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Wenn ein Gruppenmitglied Schaden erleidet, beginnt es, Ausdauer und Gesundheit zu verlieren. Sein Porträt beginnt sich rot zu färben und die Gesundheitsanzeige links neben dem Porträt fängt langsam an sich zu leeren. Wenn das Porträt vollständig rot gefärbt ist, wird der Charakter bewusstlos. Die Ausdauer kann mit Tränken und Zaubern regeneriert werden, um Charaktere kampffähig zu halten - die Gesundheit kann aber nur durch eine Ruhephase wieder aufgefüllt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Autsch! Wenn die Ausdauer eines Gruppenmitglieds auf 0 sinkt, wird es bewusstlos. Es kann dann nicht länger kämpfen. Gewinnt eure Gruppe aber den Kampf, regeneriert das Mitglied nach dem Kampfende seine Ausdauer. Die Ausdauer regeneriert sich zwar nach dem Kampf, die Gesundheit jedoch nicht. Behalte die Anzeige links neben dem Charakterporträt im Auge, um zu verhindern, dass du Verstümmelt oder Getötet wirst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Viele Zauber und Fähigkeiten in Pillars of Eternity können nur begrenzt oft eingesetzt werden. Eine Fähigkeit, die ein Limit "pro Begegnung" hat, wird nach dem Ende des Kampfes wieder auf die maximale Anzahl der Verwendungen zurückgesetzt. Fähigkeiten, die ein Limit "pro Ruhephase" haben, werden erst wieder zurückgesetzt, wenn du dich in einem Gasthaus ausruhst oder Rastvorräte verwendest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du hast Rastvorräte gefunden. Damit kannst du dich in der Wildnis oder in Verliesen ausruhen, um die Fähigkeiten und die Gesundheit deiner Charaktere voll zu regenerieren. Im leichten Schwierigkeitsgrad kannst du mehrere Rastvorräte mit dir führen, im schweren Schwierigkeitsgrad ist die maximale Anzahl stark eingeschränkt. Wenn dir die Rastvorräte ausgehen, versuche ein Gasthaus zu finden. In den meisten Gasthäusern kannst du dir billig ein Zimmer mieten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>In Gasthäusern können Charaktere sich ausruhen, ohne Rastvorräte zu verbrauchen. Meistens sind billige Zimmer verfügbar. Wenn du das nötige Kupfergeld besitzt, solltest du jedoch überlegen, dich für eine der teureren Alternativen zu entscheiden. Die Boni, die sie bieten, halten lange Zeit an und wirken sich auf die gesamte Gruppe aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Oh-oh. Wenn die Gesundheitsanzeige eines Charakters anfängt rot zu blinken, ist das ein Zeichen, dass er bald Verstümmelt oder Getötet wird. Ruhe dich in einem Gasthaus aus oder setze Rastvorräte ein, um deine Gesundheit voll zu regenerieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Wenn die Gesundheit auf 0 sinkt, fällt der Charakter sofort zu Boden. Je nach Schwierigkeitsgrad wird der Charakter entweder Verstümmelt oder Getötet. Ein Verstümmelter Charakter wird mit einem schweren Kampfmalus belegt und stirbt, wenn er zusätzlichen Schaden erleidet. Getötete Charaktere sind einfach tot ... und in Pillars of Eternity ist der Tod endgültig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Der Östliche Abschnitt ist ein gefährlicher Ort voller lauernder Feinde und sorgfältig verborgener Geheimnisse. Aktiviere den Spähmodus, um dich unauffällig zu bewegen und nach verborgenen Objekten wie Fallen und Geheimtüren zu suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Der Spähmodus dient sowohl zur Tarnung als auch zum Finden verborgener Objekte wie Fallen und geheimer Behälter. 
+
+Im Spähmodus beginnen die Auswahlkreise deiner Charaktere, sich gelb zu füllen, wenn ein anderer Charakter anfängt sie zu bemerken. Wenn der Kreis vollständig gelb ist, wird der andere Charakter misstrauisch und sieht sich um - der Kreis füllt sich dabei rot. Ist der Kreis vollständig rot gefüllt, werden deine Charaktere entdeckt.
+
+Die Fähigkeit eines Charakters, verborgene Objekte zu finden, basiert auf seiner Mechanik-Fähigkeit. Je höher die Mechanik-Fähigkeit, desto größer die Entfernung, auf die der Charakter Objekte finden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Wenn du dich auf einen anderen Charakter zubewegst, entdeckt er dich schneller. Wenn der Auswahlkreis deines Charakters den eines anderen Charakters berührst, wirst du sofort entdeckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du hast einen neuen Zauberspruch gelernt! Denk daran, dass du neue Zaubersprüche zu einem Zauberbuch hinzufügen musst, bevor du sie einsetzen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du hast ein neues Zauberbuch gefunden! Zauberbücher enthalten oft Zaubersprüche, die deine Zauberer vielleicht noch nicht kennen. Gegen einen geringen Preis kannst du diese Zauber im Beschreibungsfenster lernen. Du kannst auch zusätzliche Zauberbücher mit unterschiedlichen Zaubern füllen. Platziere sie in der Schnellauswahl deiner Zauberer, um zwischen ihnen zu wechseln, aber sei vorsichtig: Beim Wechseln des Zauberbuchs kannst du mehrere Sekunden lang keine Zauber wirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Zauberer haben die Fähigkeit, eine atemberaubende Zahl von Zaubersprüchen zu lernen - sie werden aber immer von der Kapazität ihrer Zauberbücher beschränkt. Ein Zauberbuch kann immer nur vier Zaubersprüche jeder Stufe enthalten. Klicke im rechten Fenster auf einen Zauberspruch, um ihn aus dem Zauberbuch zu entfernen. Füge Zaubersprüche zu leeren Plätzen hinzu, indem du im linken Fenster auf den Zauberspruch klickst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Sänger verbringen im Kampf die meiste Zeit damit, Gesänge zu sprechen. Gesänge sind arrangierte Ketten magischer Phrasen, die unterschiedliche Effekte hervorbringen. Wenn eine Phrase endet, verweilt ihr Effekt für kurze Zeit und überlappt sich mit dem Effekt der nächsten Phrase. Wenn ein Gesang das Ende der letzten Phrase erreicht, beginnt er wieder von vorne. Durch das sorgfältige Arrangieren von Phrasen können mächtige Sequenzen passiver Effekte entstehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Klicke auf einen Gesang, um ihn auszuwählen. Phrasen, auf die du im linken Fenster klickst, werden dem gewählten Gesang hinzugefügt. Wenn du eine Phrase entfernen willst, klicke im Gesag auf die Phrase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Du kannst zu neuen Waffensets wechseln, indem du in der Aktionsleiste eines einzelnen Charakters auf das Waffensymbol klickst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Wenn mehrere Gruppenmitglieder ausgewählt sind, ist die Aktionsleiste ausgeblendet. Um die Optionen eines einzelnen Charakters anzuzeigen, wähle nur diesen Charakter aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Wenn ein Charakter aus der Gruppe entfernt wurde, kehrt er entweder in die Schänke zum Schwarzen Hund in Goldtal zurück oder - wenn du sie bereits besitzt - in deine Festung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Dein Charakter hat genug Erfahrung gesammelt, um in eine höhere Stufe aufzusteigen. Klicke auf das Symbol auf dem Porträt des Charakters, um in die nächste Stufe aufzusteigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Nach dem Stufenaufstieg solltest du dir die Statistiken des Charakters ansehen. Öffne den Charakterbogen, um die Attribute, Fertigkeiten, Fähigkeiten und Talente im Detail anzusehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>In diesem Bildschirm verwaltest du deine Festung. Als neuer Wächter von Caed Nua bist du mit der Seele der Burgvogtin verbunden, die deine Lande überwacht. Sie spürt deinen Willen und kann selbst über große Entfernungen Befehle ausführen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Zwei Statistiken bestimmen die Ereignisse in deiner Festung: Prestige und Sicherheit. Das Prestige steht für den allgemeinen Ruf der Festung im ganzen Dyrwald. Wenn dein Prestige hoch ist, ist Caed Nua angesehen und es geschehen mehr positive Ereignisse. Die Sicherheit spiegelt wider, wie gut Caed Nua und die dazugehörigen Ländereien beschützt sind. Bei hoher Sicherheit verlierst du weniger Steuereinnahmen an Banditen, außerdem sind Entführungen und Angriffe auf die Festung seltener.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Ausbauten deiner Festung kosten Geld - und brauchen Zeit. Ausbauten können die Sicherheit oder das Prestige deiner Festung erhöhen oder ihr zusätzliche Funktionalitäten verleihen, beispielsweise Ruhephasenboni, regelmäßige kostenlose Herstellungsmaterialien oder neue Läden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Im Laufe der Zeit geschehen in der Festung Ereignisse. Je höher das Prestige deiner Festung, desto positiver sind die Ereignisse im Allgemeinen. Eine hohe Sicherheit ist jedoch auch wichtig, denn sie kann Diebstahl und Entführungen verhindern. Abenteuer sind Gelegenheiten für deine Gefährten und Abenteurer, Erfahrung zu sammeln, während sie nicht Teil deiner Gruppe sind. Besucher können sich auf Sicherheit und Prestige der Festung auswirken. Bei einigen Ereignissen stehen sogar für kurze Zeit besonders seltene Gegenstände zum Verkauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Gefolgsleute helfen im unglücklichen Falle eines Angriffs auf deine Festung, teure Kollateralschäden zu vermeiden. Sie kosten zwar Geld, doch die Kosten werden meistens durch die Vermeidung potenzieller Schäden ausgeglichen. Gefolgsleute tragen auch zur Sicherheit und Prestige der Festung bei - manchmal auch negativ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Im Bildschirm 'Gruppenverwaltung' siehst du, was deine Verbündeten treiben, wenn sie gerade nicht Mitglied deiner Gruppe sind. Wenn du sie auf ein Abenteuer geschickt hast, siehst du, wie lange es dauert, bis sie den Auftrag ausgeführt haben. Rufst du einen Gefährten oder Abenteurer von einer Mission zurück, bevor diese abgeschlossen ist, verlierst du die potenziellen Belohnungen für die Mission.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du hast nun einen Rang in einem Gesinnungsruf. Dieser Ruf spiegelt wider, wie deine Persönlichkeit in der Spielwelt wahrgenommen wird. Selbst ein offenbar schrecklicher Ruf wird einigen Leuten gefallen, und ein gutmütiger Ruf kann bestimmte Personen anwidern. In Pillars of Eternity ist keine Gesinnung ausschließlich gut oder schlecht, aber wenn dein Hauptcharakter ein Priester oder Paladin ist, musst du aufpassen, dass seine Gesinnung nicht den Vorlieben ihrer Gottheit oder ihres Ordens widerspricht. Ausschließlich für den Hauptcharakter beeinflusst die Gesinnung die Effekte von Heiliger Glanz (Priester) und Glaube und Überzeugung (Paladin).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Du hast dir einen Ruf verdient! Du kannst bei Gemeinschaften oder Fraktionen im Östlichen Abschnitt einen gewissen Ruf besitzen, der sich darauf auswirkt, wie Mitglieder dieser Gruppe auf dich reagieren. Manchmal reagieren auch Freunde oder Feinde dieser Gruppen entsprechend auf deinen Ruf. Wenn du einer Gruppe hilfst, stärkst du deinen positiven Ruf bei ihr. Schadest du einer Gruppe, erhöhst du deinen negativen Ruf bei ihr. Du kannst bei einer Gruppe auch eine Mischung aus positivem und negativem Ruf genießen, wenn du ihr in gleichem Maße hilfst und schadest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Einer deiner Charaktere wurde im Nahkampf per Angriffsbindung angegriffen. Wenn sich Charaktere in Angriffsbindung befinden, bleiben sie augenblicklich stehen. Falls sie sich wieder bewegen, provozieren sie einen Absetzangriff von den Feinden, die sie in Angriffsbindung halten. Wenn deine Charaktere Feinde mit Nahkampfwaffen attackieren, belegen sie sie darüber hinaus automatisch mit einer Angriffsbindung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Einer deiner Charaktere hat sich erschöpft. Erschöpfung steht für die körperlichen und psychologischen Auswirkungen anstrengender Aktivitäten auf einen Charakter. Die Erschöpfung baut sich mit der Zeit auf, während der Charakter reist, Gebiete erforscht und vor allem kämpft. Einige geskriptete Interaktionen führen auch zu Erschöpfung, wenn sie besonders anstrengend sind. Die Athletik-Fähigkeit verlangsamt automatisch die Entstehung von Erschöpfung aus allen Quellen.
+
+ Erschöpfung durchläuft mehrere Phasen. Anfänglich wird der Charakter nur mit kleinen Mali belegt, doch mit der Zeit werden diese immer ernster.
+
+ Am einfachsten lassen sich die Effekte der Erschöpfung aufheben, indem der Charakter rastet. Einige Verbrauchsgegenstände können die Erschöpfung eines Charakters aber auch verringern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Deine Festung steht jetzt zur Verfügung! Du kannst deine Festung jederzeit über das Burgsymbol verwalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Verwende die Tab-Taste, um interaktive Gegenstände in der Umgebung zu markieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

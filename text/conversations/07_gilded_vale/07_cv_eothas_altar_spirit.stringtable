@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_eothas_altar_spirit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Kristalle um dich herum erleuchten den gesprungenen Mosaikboden in verschiedenen Orangetönen, und aus bestimmten Blickwinkeln glänzt das metallische Symbol unter deinen Füßen golden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Während du hinschaust, flimmert die Luft wie bei Sommerhitze. Der Staub und die Luft scheinen sich zusammenzuziehen, bis vor dir ein dünner, leuchtender Nebel erscheint. In seinem sich kräuselnden Glanz glaubst du, die Gestalt eines Mannes zu erkennen, deren Grundzüge aus Luft und Rauch zu bestehen scheinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Zurückweichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Nach der Gestalt schlagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Deine Stimme löst Bewegungen aus. Begleitet von plötzlichem, aufbrausendem Licht schießt der Geist empor, und im nächsten Augenblick befindest du dich an einem anderen Ort, wo dein Verstand von einer unmittelbaren Welle aus Angst und Lärm attackiert wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du befindest dich im Kapitelsaal. Priester und Gläubige haben sich in einer großen Menge versammelt und strömen in den Saal. Andere drücken gegen dich, als sie zum Zuhören nach vorne drängen. Deine eigene Trauer spiegelt sich auf den Gesichtern um dich herum. Einige der Initiierten weinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Da jemand die Kerzen gelöscht hat, ist der Raum bis auf das Podium, das von hinten beleuchtet wird, dunkel. Zwei Gestalten, deren Silhouetten du im Licht sehen kannst, stehen davor. Ein Mann schreit, aber seine Stimme ist so angstverzerrt, dass du seine Worte nicht verstehen kannst. Die Rectrix aber steht ruhig und unbewegt da.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ihre Stärke wird euch alle durch diese dunklen Zeiten leiten. Diese Hoffnung spürst du wie einen Funken hinter deinen Rippen. Hinter dir beginnt jemand zu singen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Der Geist reißt sich mit einer abrupten, schwindelerregenden Kraft von dir los, und du findest dich taumelnd vor dem zerstören Altar wieder. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Vorsichtig gehst du einen Schritt nach hinten. Der Geist folgt dir nicht. Er treibt einen Moment lang in der Luft, bevor er so plötzlich, wie er erschienen ist, wieder verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du schlägst nach ihm, spürst aber nichts - deine Hand zischt durch die Luft. Im Moment des Aufpralls aber festigt sich der Geist plötzlich und stürzt nach vorne. Du wirst mit verschwimmendem Blick aus deiner Umgebung gerissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Hast du das nicht gesehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich habe etwas gesehen, ich glaube einen Geist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Lügen.] "Nichts. Lass uns weiterziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Das Gruppenmitglied hat nichts gesehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Das Gruppenmitglied reagiert.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Der Geist verschwindet so plötzlich, wie er erschienen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Sieht ... sieht das noch jemand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

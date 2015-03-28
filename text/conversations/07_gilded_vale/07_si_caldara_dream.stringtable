@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_si_caldara_dream</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du schläfst ruhelos und fieberhaft, und im Schlaf wirst du von Gezische und Geflüster attackiert, über das sich ein erstickendes Angstgefühl wie eine Decke legt.
+
+Du öffnest deine Augen, um aufzuwachen, und findest dich vor dem Galgenbaum in Goldtal wieder. Das Knarzen der Seile wird in deinem Verstand immer lauter, bist das Geräusch ohrenbetäubend ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Am Baum hängt eine alte Zwergin, deren Gesicht wie eine zerfallende Frucht nach innen gesunken ist. Ihr Kopf hängt schlaff zur Seite. Als du sie ansiehst, wird sie in deinem Verstand immer größer und größer, bis sie schließlich nur noch weniger Zentimeter von deinem Gesicht entfernt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du reißt dich aus dem Traum, aber der üble Geruch der Zwergin steht dir immer noch in der Nase. Der Schweiß läuft dir in dicken Tropfen von der Stirn, und deine Haut ist von Kopf bis Fuß schweißnass.
+
+Du erinnerst dich an die Frau. Du erinnerst dich daran, ihr verfallendes Gesicht gesehen zu haben, als du mit dem Magistrat sprachst. Beseelerin, so hatte er sie genannt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Urplötzlich reißt sie ihre Kopf nach oben und ihre leeren Augen auf. Die dahinterliegende, riesige Leere lässt dir den Magen in die Knie sinken. Sie öffnet langsam den Mund, und begleitet von einem widerlichen Luftstoß dringt ein einzelnes Wort an deine Ohren: "Wächter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Obwohl dich das mit einer mulmigen Ahnung erfüllt, spürst du einen merkwürdigen Drang, diese Frau noch einmal zu treffen ... auch wenn du nur sichergehen willst, dass sie wirklich tot ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

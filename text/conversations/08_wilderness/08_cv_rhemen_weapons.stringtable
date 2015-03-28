@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_cv_rhemen_weapons</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du zerreißt das dicke Netz und findest mehrere Bronzewaffen, die meisten davon in erstaunlich gutem Zustand. Wenan sollte mehr als zufrieden über diese Artefakte sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Am Fuß des Haufens liegt ein großer, bronzener Speer. Er sieht älter und besser aus als die Waffen, die du gerade an dich genommen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Den Speer nehmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Den Speer untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Diese Waffe scheint mit großer Sorgfalt angefertigt worden zu sein. Sie besteht vollständig aus Bronze, vom Griff bis zur Spitze, und trotz seines Alters ist der Speer erstaunlich scharf. 
+
+Am unteren Ende des Schafts befindet sich eine große ovale Öffnung. Sie dient offensichtlich dazu, etwas Wichtiges aufzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du hast alle anderen Artefakte an dich genommen. Nur ein einzelner Bronzespeer bleibt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du nimmst den Speer. Sobald du ihn berührst, spürst du ein sanftes Summen in deinen Knochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Als du den Speer berührst, beginnt das Adra-Gefäß in deinem Besitz zu leuchten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

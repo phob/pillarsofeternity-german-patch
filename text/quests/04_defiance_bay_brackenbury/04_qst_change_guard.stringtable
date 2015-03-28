@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\04_defiance_bay_brackenbury\04_qst_change_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der Wachwechsel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ermorde Eldrid Wenfeld auf Burg Schmelztiegel in Urfeuer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu Gedmar Doemenel zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Marschall Wenfeld, ein Schmelztiegelritter, hat es zu seinem persönlichen Kreuzzug gemacht, die Geschäfte der Doemenels in Trutzbucht zu stören und zu ZERstören. Gedmar möchte ihn tot sehen, und er möchte, dass man den Dutzenden die Schuld daran gibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Gedmar will Marschall Wenfeld tot sehen, bevor dieser die Schmelztiegelritter gegen das Haus Doemenel aufhetzen kann. Gedmar sagte, ich könne mein Ziel in der Kapelle allein antreffen.
+
+Fürst Doemenel will, dass den Dutzenden die Schuld an dem Mord gegeben wird. Er gab mir ein Symbol der Dutzenden, das ich auf den Altar der Kapelle legen soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Wenfeld ist beseitigt. Fürst Doemenel wird von meinem Erfolg hören wollen. Er hat mir jedoch auch aufgetragen, das Symbol der Dutzenden auf den Altar in der Kapelle der Burg zu legen.
+
+Abrecan dagegen möchte, dass ich nichts hinterlasse, was die Dutzenden mit dem Mord in Verbindung bringen würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Abrecan hat mich angesprochen und mich gebeten, den Dutzenden nicht die Schuld für den Mord in die Schuhe zu schieben. Er hält seinen Vater für zu vorsichtig und möchte dafür sorgen, dass der Name Doemenel in der ganzen Stadt gefürchtet wird, wie es früher einmal der Fall war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe das Symbol wie von Gedmar Doemenel gewünscht auf den Altar gelegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Gedmar war beeindruckt, dass ich Eldrid unbemerkt ermordet habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Eldrid ermordet, aber Gedmar war nicht erfreut über die Kollateralschäden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe Eldrid gewarnt, dass Gedmar Doemenel ihn ermorden lassen will. Er hat mich dafür belohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe Wenfeld ermordet und Beweise hinterlassen, die auf die Dutzenden hinweisen. Das dürfe den Konflikt zwischen den Dutzenden und den Schmelztiegelrittern eskalieren lassen, genau wie Gedmar Doemenel es geplant hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich habe Wenfeld ermordet, das Symbol der Dutzenden aber nicht am Tatort zurückgelassen. Die Schmelztiegelritter werden vermutlich das Haus Doemenel verdächtigen, aber die Leute in der Stadt werden den Clan auch fürchten, genau, wie Abrecan es wollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich habe Fürst Doemenel getötet und mir das Haus Doemenel zum Feind gemacht. Jedenfalls das, was davon noch übrig ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

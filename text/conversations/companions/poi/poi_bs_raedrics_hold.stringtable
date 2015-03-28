@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\poi\poi_bs_raedrics_hold</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hier lebt der Mann, der für all diese baumelnden Leichen verantwortlich ist. Du willst doch nicht etwa anklopfen, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Das sind aber hohe Mauern ... aber von hier aus sehen sie gar nicht sicher aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Eine beeindruckende Burg! Ich bezweifle aber, dass man uns im Inneren willkommen heißen wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Der Einzige, den ich hier im Auge behalten würde, bist du, Wächter ... also sei auf der Hut."</DefaultText>
+      <FemaleText>Die Einzige, die ich hier im Auge behalten würde, bist du, Wächterin ... also sei auf der Hut.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Dieser Ort ist mit dem Blut der Seelen getränkt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich hätte nichts dagegen, mit unserem ehrwürdigen Fürsten zu plaudern, wenn wir schon hier sind. Ich habe einige Vorschläge für ihn."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_prologue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Keine Antwort, nur Stille. In einer sternlosen Nacht versuchen fünf Wagen, ohne Sicht nicht vom Pfad abzukommen. Der Anführer wirft immer wieder einen Blick in den Himmel, um sich abzusichern, dass er sich auf dem richtigen Kurs befindet. Eine trübe Laterne ist sein einziger Schutz gegen die aufkommende Dunkelheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Karawane besteht aus Reisenden auf dem Weg in das kleine Grenzdorf Goldtal. Du bist einer von ihnen. Ein ansässiger Adliger hat Siedlern von weit her Land und Wohlstand für einen Neubeginn angeboten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du bist plötzlich erkrankt, schwitzt und zitterst, und einer der anderen Reisenden signalisiert dem Karawanenführer, deinetwegen anzuhalten. Er hält gerade rechtzeitig an, um nicht gegen den Stumpf eines umgefallenen Baums zu fahren, der den weiteren Weg versperrt. Heute Nacht werdet ihr nicht weiterreisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Doch der Himmel spendet keinen Trost und kein Licht und verrät nicht das Mindeste seines Wissens.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

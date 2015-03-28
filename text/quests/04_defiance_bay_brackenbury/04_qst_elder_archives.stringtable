@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\04_defiance_bay_brackenbury\04_qst_elder_archives</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Lehrsätze von Pandgram</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Geh zur Halle der aufgedeckten Geheimnisse in Kupferweg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde das Ältestenarchiv.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Beschaffe die Lehrsätze von Pandgram.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Beschaffe für Grimda die Schriftrolle von Wael.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre zu Nedyn vor dem Sanatorium von Farnheim zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Nedyn, eine Beseelerin, der ich vor dem Sanatorium von Farnheim begegnet bin, hat mir von dem Ältestenarchiv und den seltenen Manuskripten dort erzählt. Insbesondere von einem Text eines Beseelers namens Pandgram.
+
+Sie benötigt die Lehrsätze von Pandgram, um ihre Forschungen fortzusetzen, doch die Archivare gewähren ihr keinen Zugang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Das Ältestenarchiv liegt verborgen in der Halle der aufgedeckten Geheimnisse in Kupferweg. Ich finde das Ältestenarchiv irgendwo in der großen Bibliothek dort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe einen Weg in die Halle der aufgedeckten Geheimnisse gefunden, aber das Ältestenarchiv liegt hinter weiteren versperrten Türen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe mir Zugang zum Ältestenarchiv verschafft. Das Manuskript, das Nedyn braucht, muss hier irgendwo sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Grimda hat mich gebeten, eine gestohlene Schriftrolle von Wael zurückzubeschaffen. 
+
+Wenn mir das gelingt, erhalte ich vielleicht Zugang zum Ältestenarchiv.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe die Lehrsätze von Pandgram im Ältestenarchiv gefunden. Nedyn wird freudig überrascht sein, wenn sie sie sieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe erfahren, dass nur Grimda Zugang zum Ältestenarchiv gewähren kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Grimda hat mit Zugang zu den Ältestenarchiven gewährt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die Lehrsätze von Pandgram für Nedyn beschafft, die völlig aus dem Häuschen war, sie endlich in der Hand zu halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe die Lehrsätze von Pandgram für Nedyn beschafft. Sie war nicht sehr erfreut über das Blutvergießen in der Halle der aufgedeckten Geheimnisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe Grimda von Nedyns Interesse an den Lehrsätzen von Pandgram berichtet. Grimda hat mir für die Warnung gedankt und Maßnahmen ergriffen, das Buch gegen weitere Diebstahlversuche zu schützen. Sie hat mich für meine Ehrlichkeit belohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Nedyn ist tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

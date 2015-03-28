@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_2\cp_qst_ducal_palace</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der Einsiedler vom Hause Hadret</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sprich mit Fürstin Webb im Haus Hadret.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Lass dich einladen, um einer der Delegationen bei der Anhörung der Beseelung anzugehören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre nach Farnheim zurück und sprich mit Fürstin Webb im Haus Hadret über eine Teilnahme an den Anhörungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Nimm an den Anhörungen im Palast des Ducs in Urfeuer teil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre nach Farnheim zurück und berichte Fürstin Webb im Haus Hadret, was geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Sage Fürstin Webb im Haus Hadret, dass du keine Einladung zu den Beseelungsanhörungen beschaffen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Informiere Lady Webb über die Aktivitäten des Bleiernen Schlüssels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich wurde von Lady Webb in die Dunrydstraße berufen - einer öffentlichkeitsscheuen Frau, die mehr über mich zu wissen scheint als ich über sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich wurde in das Haus Hadret in Farnheim bestellt, um Lady Webb zu treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Um an den Anhörungen zur Beseelung in der Herrenhalle teilzunehmen, muss ich von einer der drei Hauptfraktionen, die bei den Anhörungen anwesend sind, gefördert werden: Die Schmelztiegelritter, Haus Doemenel oder die Dutzenden.
+
+Die Schmelztiegelritter besitzen eine Burg in Urfeuer.
+
+Haus Doemenel hat ein Gut in Farnheim.
+
+Die Dutzenden lagern außerhalb der Expeditionshalle in Kupferweg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Jetzt, da ich formell zu den Anhörungen der Beseelung eingeladen wurde, sollte ich zu Lady Webb zurückkehren und sie über meinen Fortschritt unterrichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich sollte mich zur Herrenhalle in Urfeuer begeben und sobald wie möglich an den Anhörungen teilnehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Der Duc wurde ermordet, und auf den Straßen in Trutzbucht herrscht Panik. Lady Webb könnte die einzige Person sein, die wieder für Ordnung sorgen kann. Ich muss mich zum Hause Hadret begeben, um ihr zu erzählen, was passiert ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe es mir mit den Doemenels, den Rittern und den Dutzenden verscherzt - von ihnen habe ich also keine Einladung zu den Beseelungsanhörungen zu erwarten. Ich sollte Fürstin Webb im Haus Hadret von meiner Lage berichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Lady Webb hat mich gebeten, sie jederzeit auf dem Laufenden zu halten, wenn ich mehr über die Aktivitäten des Bleiernen Schlüssels im Dyrwald erfahre. Alles, was ich beim Verfolgen der Spuren in den Katakomben der Kirche von Woedica herausfinden kann, würde für sie nützlich sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe einige Aufgaben für das Haus Doemenel erledigt, es ist jedoch Fürst Doemenel persönlich, den ich beeindrucken muss, um ihrer Delegation beitreten zu können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Wenan, der Anführer der Dutzenden, ist bereit, mich in ihrer Delegation aufzunehmen, wenn ich genügend Aufgaben im Auftrag der Dutzenden erledige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Kommandant Clyver von den Schmelztiegelrittern wird mich zu den Anhörungen lassen, wenn ich mich im Gegenzug ihrer Sache anschließe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich wurde eingeladen, der Delegation von Haus Doemenel beizutreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich wurde eingeladen, der Delegation der Dutzenden beizutreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich wurde eingeladen, der Delegation der Schmelztiegelritter beizutreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe den Zorn der Doemenels auf mich gezogen und sie werden eine weitere Zusammenarbeit nicht in Erwägung ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Meine Handlungen haben mein Verhältnis zu den Dutzenden irreparabel geschädigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Die Schmelztiegelritter sind nicht mehr bereit, mit mir zu arbeiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Lady Webb hat mich gebeten, sie auf dem Laufenden zu halten, wenn ich mehr über die Aktivitäten des Bleiernen Schlüssels in Dyrwald erfahre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Ich berichtete Lady Webb über das Werk des Bleiernen Schlüssels in Erbhügel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Ich informierte sie darüber, was ich aus der Seele des toten Mitglieds des Bleiernen Schlüssels in Clîaban Rilag sammeln konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Nachdem ich im Sanatorium von Farnheim auf Thaos gestoßen bin, ließ ich Lady Webb wissen, der er anscheinend versuchte, den Ruf der Beseeler zu ruinieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Lady Webb wurde von Thaos in ihrem eigenen Bett ermordet. Doch zuvor konnte sie in Erfahrung bringen, wohin er unterwegs war. Sie hat mir einen großen Dienst erwiesen und ich vermute, sie war sich dessen sehr bewusst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Durch den Mord an Lady Webb habe ich eine wichtige Beziehung zerstört. Ohne ihre Führung und Verbindungen hat meine Quest keine Aussicht auf Erfolg.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

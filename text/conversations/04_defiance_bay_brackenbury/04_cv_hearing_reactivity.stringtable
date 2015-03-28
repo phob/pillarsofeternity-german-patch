@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_hearing_reactivity</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ich erkenne dich. Du bist der, der bei der Anhörung den Mund aufgemacht hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Du warst heute bei der Anhörung, und du hast dort gut gesprochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Was hast du da gerade gemacht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Gehörst du nicht zu den Dutzenden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich konnte ein paar Beseeler durch den Hintereingang aus dem Gebäude bringen. Viele von ihnen aber haben es nicht hinaus geschafft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich schon. Aber die Dinge, die ich heute während der Anhörung erfahren habe ... " Er schüttelt den Kopf.
+
+"Ich hatte es ganz falsch verstanden. Wenn es gut genug für den Duc war, dann ist es auch gut genug für mich. Mir ist es egal, dass er von einem Beseeler umgebracht wurde - das bedeutet aber nicht, dass wir sie alle dafür zur Verantwortung ziehen müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"So sollten wir uns nicht verhalten", sagt er, auf die Flammen hinter ihm deutend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Weggehen] "Ich muss gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Er nickt. "Du musst verschwinden, das hier aussitzen. Viel Glück, Freund."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Du solltest besser untertauchen, bis Gras über die Sache gewachsen ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Das ist nur zum Besten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Was ist hier passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Warum hast du das getan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Weggehen] "Ich muss gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Die Beseeler. Einige von ihnen versuchten, durch eins der Fenster auf der Rückseite des Sanatoriums zu entkommen. Ich konnte sie nicht gehen lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Der Duc ... er versuchte, das Beste zu tun, und dafür haben sie ihn umgebracht. Ist direkt vor meinen Augen passiert."
+
+"Ich weiß, dass wir die Ordnung wahren sollen, aber die Ritter stehen bei dieser Sache auf der falschen Seite. Die Beseelung ist zu gefährlich. Es ist genau so, wie du gesagt hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Er nickt. "Auf den Straßen ist es nicht sicher. Viel Glück, Fremder. Ich werde hierbleiben und dem Feuer zusehen. Ich möchte mich daran erinnern, was wir heute hier erreicht haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_stronghold\06_tsk_boss_menpwgra</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld: Devŵen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte die Menpwgra namens Devŵen und nimm ihren Kopf an dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bringe Devŵens Kopf zu Oberwärter Fyrgen in Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein seltsamer, mörderischer Kult von Druiden hat sich um eine Menpwgra namens Devŵen gebildet. Die Gruppe nutzt eine Höhle in der Nordlandschaft als ihr Hauptquartier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>In der Nordlandschaft hat sich ein Druidenkult um eine Menpwgra herum gebildet. Ich muss die Höhle des Kults finden und dort Devŵen töten, die Anführerin. Ihr Kopf wird als Beweis ihres Ablebens dienen. Ohne Devŵen wird der Kult auseinanderfallen.
+
+
+Der Druidenkult von Devŵen haust in der Nordlandschaft-Höhle. Ich muss Devŵen töten und ihren Kopf als Beweis an mich nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Devŵen ist tot und ich muss ihren Kopf zu Oberwärter Fyrgen nach Caed Nua bringen, um meine Belohnung zu erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe das Kopfgeld für die Menpwgra namens Devŵen eingefordert.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

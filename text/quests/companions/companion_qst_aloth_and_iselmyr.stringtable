@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_aloth_and_iselmyr</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Zweiseitig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde einen Erweckungsexperten irgendwo in Trutzbucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Aloth offenbarte, dass in ihm Iselmyr lebt, eine erweckte Seele. Er bat mich um Hilfe, einen Experten zu suchen, der sein Dilemma versteht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Aloth erwähnte, dass es in Trutzbucht eine ganze Einrichtung gibt, die dem Studium seelischer Krankheiten gewidmet ist. Das muss derselbe Ort sein, den ich in der Vision des Akolythen gesehen habe.
+
+Vielleicht könnte ich dort jemanden finden, der etwas über erweckte Seelen weiß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Mir wurde gesagt, dass ich nach jemandem namens Bellasege suchen soll. Sie arbeitet auf der unteren Ebene des Sanatoriums.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Anscheinend haben wir im Sanatorium von Farnheim die größten Chancen, Aloth zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich bin bereit, an der Beseelungsanhörung des Ducs teilzunehmen. Wenn ich Aloth wegen Iselmyr helfen will, sollte ich ihn wahrscheinlich zuerst zu diesem Experten im Sanatorium bringen. Wie diese Anhörungen die Ausübung der Beseelung in Trutzbucht beeinflussen werden, ist unklar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Nachdem ich erfahren hatte, wie Iselmyr Aloths missbrauchendem Vater die Stirn bot, erwähnte ich, dass sie hilfreicher sein könnte, als es Aloth bewusst ist. Er benahm sich misstrauisch, aber ich glaube, dass er über die Angelegenheit nachdenkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Nachdem ich erfahren hatte, wie Iselmyr in brenzligen Situationen die Kontrolle übernimmt, riet ich Aloth, sich vor ihr in Acht zu nehmen. Er sollte niemand anderem die Kontrolle überlassen, nicht einmal einem Teil seiner Seele. Er schien mir zuzustimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Anscheinend kann Iselmyr für Aloth ein Quell der Hilfe und des Leids sein. Einerseits schreitet sie ein, wenn er unter Druck gerät, andererseits aber löst sie Situationen nicht immer so, wie er es gerne hätte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Wir fanden keinen Beseeler mit der Art von Wissen, den Aloth braucht. Er wird damit einfach allein umgehen müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

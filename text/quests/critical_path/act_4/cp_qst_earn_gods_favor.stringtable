@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_4\cp_qst_earn_gods_favor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Rat der Sterne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bete in Teir Evron zu den Göttern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Verdiene dir die Gunst der Götter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Steige auf der Grabinsel in die Grube nach Breith Eaman hinab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Sîdha und Rîhenwn, die Delemgan von Ulmenkap, haben mir berichtet, dass Thaos den Weg von Teir Evron nach Breith Eaman zerstört hat. Um ihn zu erreichen, muss ich durch die Grube auf der Grabinsel steigen.
+
+Dazu benötige ich die Hilfe der Götter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Delemgan-Schwestern erläuterten, dass kein Sterblicher den Abstieg nach Breith Eaman überleben kann. Die Götter aber können mir sicheres Geleit gewähren.
+
+Um ihre Gunst zu gewinnen, muss ich in Teir Evron zu ihnen beten, wo sie angeblich Zwiesprache mit Sterblichen halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Es scheint, als würden die Götter auch etwas von mir wollen. Um ihre Gunst zu gewinnen, muss ich die Aufgabe abschließen, die mir in der Vision übertragen wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Nun, da ich die Gunst der Götter genieße, kann ich auf die Grabinsel reisen und Thaos verfolgen.
+
+Allerdings scheinen die Götter bereit zu sein, große Macht anzubieten, im Austausch gegen das Versprechen, mit den verlorenen Seelen so vorzugehen, wie die Götter es wünschen. Ein Verrat hätte jedoch einen Preis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Berath sandte mir eine Vision eines Zwerges und einer Elfin auf einer unheimlichen Straße. Beide starben, als ich sie berührte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Galawain zeigte mir einen Kampf zwischen einer großen Löwin und einem mächtigen Bären.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Hylea offenbarte mir einen Bergtempel, der von einer schrecklichen Gefahr bedroht wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Bei Rymrgands Schrein sah ich eine Prozession von Bleichelfen, die vor einer Wand aus Eis ihr Leben ließen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich versprach, die Seelen in den Kreislauf zurückkehren zu lassen, im Tausch gegen Beraths Macht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich erklärte mich einverstanden, die Seelen zu nutzen, um den Dyrwald zu stärken, im Tausch gegen Galawains Macht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich schwor Hylea, dass ich die Seelen in hohlgeborene Kinder setzen würde. Sie gab mir im Gegenzug ihre Macht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich gelobte, die Seelen in Rymrgands Entropie zu übergeben, im Tausch gegen seine Macht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich habe erfahren, dass man die Grabinsel von Altlied aus erreichen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Thaos nach Breith Eaman verfolgt. Nun gibt es kein Zurück mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

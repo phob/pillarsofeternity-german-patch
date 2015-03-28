@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_bs_gramrfel_prisoner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hmmh. Ein schöner Ort für meine Selbstfindung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich könnte dich wohl nicht überzeugen, mich aus lauter Güte freizulassen, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wenn du all deine Gefangenen niedermachst, wirst du hier unten ziemlich alleine sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Du ... verspürst monströse Lust daran, Schmerzen zuzufügen. Ich erkenne das Leiden, musst du wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Wirst du mich hier drin vergammeln lassen? Lass mich frei! Das soll nicht zu deinem Schaden sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Sie ... treffen mich zu einer schlechten Zeit an ... mein Fürst."</DefaultText>
+      <FemaleText>"Sie ... treffen mich zu einer schlechten Zeit an ... meine Fürstin."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

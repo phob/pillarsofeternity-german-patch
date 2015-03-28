@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\12_twin_elms_oldsong\12_qst_old_queen_new_king</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die alte Königin und der neue König</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise zu dem Steinrachen aus Galawains Vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde in Galawains Rachen die alte Löwin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Beende das Patt zwischen Sul und Oernos in Galawains Rachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kehre zu Galawain in Teir Evron in Ulmenkap zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre zu Desthwn im vorderen Teil von Galawains Rachen zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Finde einen Weg, Galawain anzubeten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Zwei mächtige Jäger - eine Löwin und ein Bär - belauern sich in einem Patt. Sie stehen sich gegenüber, kämpfen aber nicht. Es ist an mir, diesen Konflikt irgendwie zu beenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Galawain hat mir eine Vision eines Kampfes zwischen einer Löwin und einem Bären gezeigt. Doch es herrscht Stillstand. Die Löwin lauert, der Bär umkreist sie. 
+
+Er hat außerdem eine Höhle offenbart, die wie der Rachen eines Wolfs aussieht - in einem Gebiet, das wohl der Tempelbezirk ist. Dort erfahre ich vermutlich mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Der größte Räuber in Eir Glanfath lebt traditionellerweise als Galawains Günstling im Rachen. Sul, eine Löwin, hält diese Position seit Jahrzehnten inne. Oernos, ein Bär, ist gekommen, um sie herauszufordern, doch Sul weigert sich, ihm entgegenzutreten.
+
+Ohne einen klärenden Kampf sind die Reißzähne sich uneins darüber, welches Tier der rechtmäßige Meister ist. Desthwn, der Anführer, hofft, dass ich Sul zu einem offenen Kampf bringen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Irensî hat erklärt, dass Sul sich den Vorteil, den sie im Rachen genießt, verdient hat - und dass keine Jägern von ihrer Gerissenheit ihn aufgeben würde. Wenn Oernos ihre Position begehrt, muss er sie in ihrem Versteck bekämpfen.
+
+Zudem hat Sul Junge geboren, die eines Tages mächtiger als beide Tiere sein könnten, wenn man ihnen Gelegenheit gibt aufzuwachsen.
+
+Wenn keines der Tiere sich dem anderen nähert, muss ich die Angelegenheit selbst klären.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe das Patt zwischen den Bestien beendet. Ich kann nun meinen Segen vom Suchergott höchstselbst empfangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe das Patt zwischen den Bestien beendet. Desthwn wird erfahren wollen, wie es ausgegangen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe das Patt zwischen den Bestien beendet. Desthwn ist tot, doch es scheint, als hätten meine Taten letztlich Galawain gedient. Vielleicht gibt es doch einen Weg, die Gunst des Suchergotts zu erbeten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Einden, ein Barbar, der Oernos unterstützt, hat erläutert, dass Sul gegen Galawains Gesetze verstoße, indem sie in ihrer Höhle bleibt. Er glaubt, dass sie entfernt werden muss - um jeden Preis. Ein Mangel an Konflikt führt zur Stagnation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Einden glaubt, dass Sul eliminiert werden muss, wenn sie sich Oernos nicht im offenen Kampf stellt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Irensî glaubt, dass Sul und ihre Jungen das beste Vermächtnis für Galawains Rachen hinterlassen werden. Wenn Oernos nicht stark genug ist, um Sul dort anzugreifen, wo sie ist - dann ist er wohl nicht der wahre Meister, argumentiert sie. Sie will, dass er eliminiert wird - egal wie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Desthwn schlug vor, dass ich den Suchergott um seinen Segen bitte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Es klingt, als wären beide Seiten bereit, unter bestimmten Bedingungen zu kämpfen. Irensî erklärte, dass Suls Rudel gehen würde, wenn ihren Jungen gemeinsam mit den übrigen Löwen sicheres Geleit gewährt wird. Dann könnte Oernos im hinteren Teil des Rachens im Duell gegen Sul antreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Der Ort in der Vision ist ein Tempel in Altlied, der nur "der Rachen" genannt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe den Rachen erreicht. Diese Bestien sollten nicht schwer zu finden sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Desthwn hat mir seinen Segen gegeben, eines der Tiere zu töten. Die Reißzähne werden das andere als Meister anerkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Sul als den etablierten Meister Galawains unterstützt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Oernos als Galawains neuen Meister unterstützt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe sowohl Sul als auch Oernos getötet. Nun kann jedes Tier in Eir Glanfath die Höhle in Galawains Rachen für sich beanspruchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe beide Seiten überzeugt, einen Kampf zwischen den zwei großen Bestien zuzulassen. Nur so ließ sich der wahre Meister finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

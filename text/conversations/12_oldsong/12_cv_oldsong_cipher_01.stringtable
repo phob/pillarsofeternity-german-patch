@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_oldsong\12_cv_oldsong_cipher_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ich bin belehrend, Estramor. Was brauchst du?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die stählerne Sonne zeigen.] "Bist du ein Medium? Ich muss etwas über jemand erfahren, der dies hier vielleicht berührt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Nichts. Leb wohl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Augen des Orlaners verfolgen die Konturen der verzierten Sonne. Hier und da bringt ihn ein verborgenes Detail zum Grunzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Demonstrationen finde ich viel lehrreicher als Vorträge. Vielleicht werden wir heute also doch noch Fortschritte erzielen."
+
+Er schaut seinen Schüler an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Pass auf."
+
+Er nimmt die Reliquie in seine Hand, und seine Augenlider beginnen über gestreckten Pupillen unfreiwillig zu zucken. Einen Moment lang fühlt es sich so an, als würde sich ein glattes Insekt durch deinen Gehörgang schlängeln, und als es vorbei ist, kannst du spüren, wie die Präsenz des Verstandsjägers über deinem Bewusstsein schwebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Komm. Ich werde dir den Weg zeigen. Die Stimme hallt in den Kanälen deines Verstands wider.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ein willkommene Lektion für meinen jungen Schüler. Ich bin dankbar, dass du mich aufgesucht hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

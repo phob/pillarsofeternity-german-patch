@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_glanfathan_palisade_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Krieger schreitet herüber. Ein höhnisches, misstrauisches Lächeln ist unter seiner Kriegsbemalung zu sehen. Er blickt auf deine Ausrüstung, ehe er dich lange mustert.
+
+"Noch ein Flüchtling aus der brennenden Stadt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Die sechs Stämme von Eir Glanfath heißen dich in Zwillingsulmen willkommen. Vor dir liegt der Bezirk Herdlied. Du darfst ihn frei erkunden, aber deine Füße dürfen die anderen Bezirke nicht betreten. Der Zutritt ist für Estramorwn verboten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Was kannst du mir über Zwillingsulmen sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Warum ist es verboten, die übrigen Bezirke von Zwillingsulmen zu betreten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich werde mir deine Worte merken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Estamor, still!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Die heilige Stadt ist in vier Bezirke aufgeteilt: Herdlied, den Bezirk für die einfachen Bürger; Altlied, wo sich unsere Tempel befinden; Ulmenkap, Wohnort der Delemgan und der Druiden; und die Grabinsel, den heiligsten Ort der Stadt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Zwillingsulmen ist eine heilige Stadt, errichtet an dem Ort, an dem die ersten Hüter des Steins auf die Erbauer trafen. Sie besteht neben den Werken der Erbauer und ist der einzige Ort in ganz Eir Glanfath, an dem es erlaubt ist, diese heiligen Stätten zu betreten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Von den Hütern der Steine habe ich noch nie gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Wer sind die Erbauer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Der Älteste der sechs Stämme." Er deutet mit seiner Schwertspitze auf eine lange Hütte hinter sich. "Die Treppen hinauf und in die Passage der Sechs hinein. Dort versammeln sich unsere Anamfatha. Bethwl, die Anamenfath des Kompasses der Führung, kann euch mehr sagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Du kennst sie als die Engwithaner. Für uns sind sie die Erbauer, die Schaffer der heiligen Stätten, die wir bis heute bewachen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich möchte mehr über Herdlied erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Welche Tempel liegen in Altlied?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Erzähl mir etwas über Ulmenkap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Weißt du etwas über die Grabinsel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Wir sind hier in Herdlied. Hier dürfen Glanfathaner und Estramorwn sich gemeinsam aufhalten. Außerdem liegt hier die Passage der Sechs, wo sich unsere Stammesanführer, die Anamfatha, versammeln." 
+
+Er deutet auf ein langes, rundes Gebäude am anderen Ende des Bezirks. "Dort drüben liegt der Markt. Du solltest dort auf deinen Geldbeutel aufpassen - niemand feilscht so wie ein Glanfathaner. Und wenn du einen Platz zum Schlafen suchst, folge dem Zaun nach Osten. Du findest dort den Weg zum Himmlischen Bäumchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Dort werden unsere Anamfatha zur Ruhe gebettet, zwischen Steinen, die von den Erbauern aufgestellt wurden. Es heißt, die Seelen einiger Anamfatha würden dort noch verweilen."
+
+"Der Weg führt durch Altlied, den heiligsten Ort in ganz Zwillingsulmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Das ist alles, was ich über die Stadt wissen wollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Es gibt Mittagsfrost, der Rymrgand geweiht ist. Eine Gruppe von Bleichelfen aus den gefrorenen Südlanden sind vor nicht langer Zeit eingetroffen, um ihn zu beaufsichtigen."
+
+"Und es gibt das Nest, einen Hylea-Tempel, und Galawains Rachen, eine Höhle von Bestien, die dem Jägergott gewidmet ist. Der Weg zur Grabinsel liegt ebenfalls dort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Teir Evron liegt dort, einer der wenigen Türme der Erbauer, die noch makellos erhalten sind. Zwei große Ulmen winden sich um ihn - selbst die mächtigsten Werke der Götter beschützen die Werke der Erbauer. Zwei Delemgan-Schwestern wohnen heute dort."
+
+"Die Halle der Krieger steht am anderen Ende des Bezirks. Gerüchten zufolge hält sich Anamfath Simoc von den Drei-Stoßzahn-Stelgaer im Moment dort auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Möchtest du noch etwas erfahren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Die Estramorwn allerdings lassen den nötigen Respekt für die Steine hier vermissen."
+
+Seine Worte lösen Erinnerungen in deinem Verstand. Du siehst das Bild eines perfekten Adra-Würfels. Es verblasst so schnell, wie es gekommen war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Bank Node 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Mein Wächter-Freund", sagt Hiravias hinter dir. "Es wäre mir eine Ehre, dich nach Ulmenkap zu begleiten, um diese Druiden zu treffen - auch, wenn mir ein wenig unwohl bei dem Gedanken an einen Zirkel ist, der für brutale Opferrituale bekannt ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Hast du noch andere Fragen über Zwillingsulmen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ein Anführer von einem der Stämme könnte dir die Erlaubnis erteilen, die Stadt zu erkunden. Nur Anamenfath Bethwl ist heute in der Passage der Sechs zugegen, und sie hat ihre eigenen Sorgen." Er deutet mit seinem Kopf auf die Hütte in der Mitte des Bezirks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"In Ulmenkap befinden sich auch die Hallen der Druiden. Es gibt die Ovaten des Goldenen Hains und die Ethik Nôl des Blutigen Sands. Viele erschaudern vor den brutalen Opferritualen der Ethik Nôl, aber Hoheovatin Erona ist auf ihre eigene Art ebenso mächtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Die Stadt ist allen Glanfathanern heilig, da unsere Ahnen hier das erste Mal auf die Erbauer getroffen sind. Diese schicksalhafte Begegnung gab unserem seit Generationen herumirrenden Volk ein dauerhaftes Zuhause zwischen den Relikten der Erbauer."
+
+"Als die Erbauer uns befahlen, uns hier niederzulassen, gestatteten sie uns das einzigartige Privileg zwischen ihren Gebäuden hier zu leben. Es ist der einzige Ort in Eir Glanfath, an dem dies gestattet ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Halte deinen Besuch lieber kurz. Uns ist zu Ohren gekommen, dass die Aufstände geendet haben und die Tore von Trutzbucht wieder offenstehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

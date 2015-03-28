@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_cv_trial_vision</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Noch eine Drehung, Inquisitor." Thaos gibt einem Helfer, der hinter einer großen Kurbel steht, ein Zeichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Schreie]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich frage nochmals. Iovara ix Ensios, gestehst du diese Ketzereien, derer du angeklagt bist?"
+
+Er wartet, doch Iovara blickt nur stur geradeaus, mit steinerner Miene. Das einzige Geräusch ist das Knarzen ihrer Fesseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Gestehst du die Abtrünnigkeit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Sie öffnet den Mund zum Sprechen. Dünne Speichelfäden erstrecken sich von einer Lippe zur anderen wie das Netz einer Spinne. "Ich gestehe  ... einen Fehler verleugnet zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Gestehst du die Verschwörung gegen den einen wahren Glauben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich gestehe ... Augen geöffnet zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Gestehst du die falsche Prophezeiung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Thaos hält inne, sein Blick verengt sich. "Wirklich? Und wo finden wir diesen Ketzer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Er trägt die Roben eines Großinquisitors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Thaos spitzt die Lippen. "Du hast hier keine Anhänger, Ketzer. Deine Lügen haben im Hof der Büßer keine Kraft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Iovara scheint dich direkt anzublicken. "Nur meine Wahrheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Thaos nickt dem Inquisitor an der Kurbel zu. "Noch eine Drehung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Schreie]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Nein! Warte  ... warte. Ich bin bereit  ... Ich bin bereit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Thaos bedeutet dem Inquisitor zu warten. "Du bist bereit, dein Geständnis abzulegen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Iovara japst nach Luft und sammelt ihre letzte Kraft zusammen, um zu sprechen. "Ich bin bereit ... ein Geständnis ... zu hören ... von dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich gestehe, einem falschen Propheten gefolgt zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Thaos schüttelt den Kopf und deutet auf den Inquisitor. Das kratzende Knarzen rostiger Zahnräder hallt in deinen Gedanken wider, während die Erscheinungen verblassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

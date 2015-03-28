@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_oldsong\12_cv_sky_dragon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als du den Gipfel des Berges erreichst, bewegt ein Windstoß die Luft. Du hörst ein Geräusch wie flatternde Segel und der Himmel verdunkelt sich kurz. Ein Drache landet vor dir. Der Boden unter deinen Füßen bebt.
+
+Er richtet sich zu seiner vollen Größe auf und breitet seine Flügel aus, um dir den Weg zu versperren. Sein Hals, sein Rücken und der Kamm seines Rückgrats sind mit wunderschönem Gefieder bedeckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Du hast hier ein Junges?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Angreifen] "Nicht, wenn ich euch beide töte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Der Drache senkt langsam seine Flügel und beobachtet dich vorsichtig. Er schnaubt und legt sich auf alle Viere. 
+
+"So sei es. Dann geh, und mit meinem Dank."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Hitze des Drachengebrülls versengt dein Gesicht. Er schlägt aus, ein Wirbelwind von Schuppen und Federn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ungeziefer, das in mein Nest eindringt. Mein Junges bedroht." Er stößt einen Strahl Schwefeldampf aus. "Du wirst mein Junges nähren."
+
+Ein kleiner Lindwurm kauert in einer Ecke des Tempels hinter dem Drachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Dies ist ein Tempel, der einer Göttin gewidmet ist, nicht dein Brutnest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich wurde geschickt, um dich zum Gehen zu bewegen, damit Hyleas Anhänger zurückkehren können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Bestie faucht. Rauch strömt aus ihren Nüstern. "Ich werde meinen letzten Jungen bis zum Tod verteidigen. Und dieser Tod wird der deine sein, Ungeziefer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Hylea ist die Göttin der Mutterschaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Du solltest einen anderen Ort für dein Nest suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ein tiefes Grollen entweicht der Kehle des Drachens und er stellt seinen Kamm auf. "Und des Himmels und aller geflügelten Kreaturen." Rauchwolken steigen von zwischen den Zähnen der Kreatur auf. "Selbst meinesgleichen weiß von ihr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Dann solltest du ihren Tempel respektieren und gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Bist du deswegen gekommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Der Drache lässt seine federbesetzte Schwanzspitze zucken. "Ich bin gekommen, um mein verbleibendes Junges zu beschützen. Meinesgleichen braucht ein Revier. Wenige Orte sind für unsere Jungen sicher."
+
+Der Drache lässt eine gespaltene Zunge über Zähne gleiten, die so groß sind wie Kurzschwerter. Ein Stück Fleisch hängt zwischen zwei seiner Eckzähne. 
+
+"Diese Lektion hat mich den Rest meiner Brut gekostet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Der Drache wirft dir einen vorsichtigen Blick zu, ehe er seine Aufmerksamkeit wieder dem Lindwurm widmet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Blut kocht aus den Nüstern des Drachen hervor. Er hustet kränkliche, schwarze Rauchwolken aus. "Bitte." Seine Stimme ist wenig mehr als ein knisterndes Zischen. "Du hast gewonnen. Lass mich meine letzte Kraft nutzen, um mein Kind an einen anderen Ort zu tragen, ehe ich sterbe. Lass mich meinem Jungen eine Chance geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Dann solltest du bleiben. Dein Junges hier großzuziehen würde Hylea ehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Du und dein Junges, ihr werdet viele töten, wenn ihr bleibt. Ihr müsst gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Gut. Geh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Das kann ich nicht zulassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Der Drache röchelt Rauch aus, greift sein Junges und breitet seine zerfetzten Flügel aus. Er erhebt sich in die Lüfte, streift die Baumwipfel und verschwindet am Horizont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Der Drache brüllt verzweifelt und greift erneut an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Angreifen] "Ein Jammer, dass ich euch beide töten muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Sei auf der Hut, Wächter. Sie ist leicht reizbar - nicht vor Hunger, sondern vor Furcht."
+
+"Kaum etwas ist gefährlicher als eine Mutter, die ihr Kind verteidigt ... "</DefaultText>
+      <FemaleText>"Sei auf der Hut, Wächterin. Sie ist leicht reizbar - nicht vor Hunger, sondern vor Furcht."
+
+"Kaum etwas ist gefährlicher als eine Mutter, die ihr Kind verteidigt ... "</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Die Augen der Trauerenden Mutter sind warm, wohlwollend. "Du bist wahrlich voller Überraschungen ... und von seltener Klugheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Er zischt dich an, und obwohl das Geräusch keiner Sprache ähnelt, die du je gehört hast, ist unmissverständlich, was die Bestie meint.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_bs_kana_banter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>61</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Edér, du meintest, du hättest im Krieg des Heiligen gekämpft - aber auf welcher Seite?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Dein Bruder ... Habt ihr beiden euch gut verstanden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Also, Kana ... was machen die Leute in Rauatai denn so in ihrer Freizeit? Also, abgesehen davon, einander an die Gurgel zu gehen. Gafft ihr einfach jedes glänzende Objekt an, das euch vor die Augen kommt - oder macht ihr sowas nur im Ausland?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Starrst du meine Augenklappe oder meinen Ohrstummel an?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"'- und machte den Oger mit einem einzigen Schlag nieder.' Na, was meinst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Auf deiner Reise in den Norden musst du einige aufregende Dinge gesehen haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich gestehe dir zu, dass es bei der Beseelung auch einige Versager gegeben hat - Baelreach unter anderem - aber rechtfertigt das wirklich Angriffe auf unschuldige Gläubige? Abergläubige Gestandene haben nicht wenig Blut vergossen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Komm schon, das wird Spaß machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Also wusstest du wirklich nichts über die Aktivitäten des Bleiernen Schlüssels?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"In Ordnung, Kana?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich habe oft von einem Besuch in den Republiken geträumt. Die Leute wissen dort wenigstens den Handel zu schätzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Wohl zu Scherzen aufgelegt, großer Mann?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Du denkst, ich ... schau mal, ich wusste nichts von ihren Mordanschlägen auf dich, das schwöre ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Was? Nein, nein- ... ich frage mich nur, wie der Bleierne Schlüssel Informationen ausgibt. Mir ist aufgefallen, dass die Jüngeren von ihnen nicht oft von ihren Vorgaben abweichen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>" ... Oh. Das würdest du interessanter finden, nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ach, bloß täglich. Du wirst dich daran gewöhnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Das ist kein Vergleich! Beseeler genießen den Vorteil der Bildung, und damit einhergehend ist die Autorität. Und Verantwortung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Tâkowa mag ja traditioneller sein, aber auch dort gibt es einige Feste. Ein bisschen Wein trinken, jemanden zum Tanzen finden ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Wein und Gesang? Dann habe ich es wohl ganz falsch verstanden. Also keine Hai-Rennen und Unterwasser-Orgien?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Nein, das ist alles wahr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Der, der meinen Gott in die Luft gejagt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ich habe gar nichts Böses damit gemeint. Ich kann mir vorstellen, dass ein Mann mit einem Kopf aus Feuer und Licht äußerst überzeugend sein kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Wir haben uns so verstanden, wie es Brüder tun. Er machte sich einen Spaß daraus, mich am Morgen mit Wasser aufzuwecken, und ich füllte seine Stiefel mit beißenden Ameisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Zuhause in Tâkowa haben sich meine eigenen Brüder und Schwestern ein ziemlich gutes Leben gemacht. ... Ich weiß nicht, ob sie nach mir suchen würden, stürbe ich so fern der Heimat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Das Komische an den Dyrwäldlern: Angesichts all des Feuers und Lichts behandelten sie ihn nur wie eine weitere Autoritätsperson."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>" ... Hast du schon mal aufgeschaut und warst plötzlich überrascht, wo du dich befandst? Ich glaube, ich habe jetzt gerade erst begriffen, dass ich ein Jahr von meiner Heimat weg bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Der Handel vor allem, es ist wahr, und die Konkurrenz zwischen den Republiken hält uns stark."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Es tut mir leid. Es ist nur ... als du zu schreien anfingst, sah dieser arme Mann so aus, als würde er sich gleich in die Hosen machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Kana, dich scheint ja kaum etwas zu belasten, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Vielleicht sieht das alles für einen Aumaua unbedeutend aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Rauatai ist eine vereinigte Nation mit schnelleren Schiffen ... Eines Tages könnte sie sich als würdiger Gegner erweisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Die Dominierung des Handels hängt aber nicht nur an schnellen Schiffen. Vielleicht könntest du ein Gedicht schreiben, dass deinen Landsleuten hilft, das zu kapieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Oh, ich weiß nicht. Ich fand es nie besonders hilfreich, mich über die kleinen Dinge aufzuregen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Kana, deine Farbe ... du bist ein Insel-Aumaua, oder? Wie ist es denn so in Todesfeuer? Ich habe darüber nur unglaubliche Geschichten gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ich weiß es eigentlich nicht. Ich bin nie in einer der Todesfeuer-Siedlungen gewesen, und meine Eltern haben mir nur sehr wenig erzählt. Hauptsächlich Piratengeschichten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Tut mir leid. War nur so ein Gedanke. Das Augenlose Gesicht scheint mich zu verfolgen. Man sagt, er löse Rätsel so gut wie er sie verbirgt, aber ich beginne, daran zu zweifeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Wael löst gar nichts, aber er hilft dabei, dich auf den rechten Weg zu führen, damit du selbst lernen kannst. Wenn er uns Antworten gab, so war das daraus resultierende Wissen ohne jeden Wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Und das hat dich niemals frustriert? Ich meine, all diese Rätsel und stumpfsinnigen Prophezeiungen? Nur ein einziges Mal hätte ich gerne eine klare Antwort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Großartig. Wunderbar. Was? Tut mir leid, aber ich bin nicht mehr mitgekommen, als du zum ... Teil über ... als du dieses Ding erwähntest ... äh ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Hättest du es lieber, dass Nirawa einem Stelgaer gegenüber stünde? ... Ganz nackt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Wie wäre es mit halbnackt? Kettenhemd oben, unten nichts ... SO musst du die Geschichte nächstes Mal erzählen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Und nur ein einziges Mal würde ich gerne eine Frau treffen, die beim ersten Hauch von Stelgaer-Urin sofort heiß wird, aber auch das wird nicht passieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Brüder können lustig sein. Du würdest wohl überrascht sein, wie weit sie gehen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Sicher. Im Archipel treibende Piratenstädte, die Berghallen dieser Nordzwerge ... Jede Menge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Weiter südlich als im Dyrwald bin ich selbst noch nie gewesen. Vielleicht werde ich zurückkommen, nachdem ich den Ranga Nui überzeugt habe, und mir all diese Dinge alle selbst ansehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Das ... hoffe ich wirklich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ich muss sagen, es ist wunderbar, jemanden zum Diskutieren zu haben! Man möchte meinen, dass sie das an der Sagenakademie eher zu schätzen wüssten ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Wir könnten auch ein Glas Wein und behagliche Stille genießen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"In Tâkowa haben wir ein Denkmal für den Krieg des Heiligen. Man sagt, ein Rauatai-Artilleriemeister hätte zu der Götterhammerbombe beigetragen. Ich habe mich gefragt -"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Natürlich. Du möchtest, dass Rauatai ein Teil dieser Geschichte wird. Darüber frohlocken, wie dein Volk dem Dyrwald geholfen hat. Vielleicht hat dein 'Ranga Nui' gelogen, Aumaua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ich habe es mir anders überlegt, ich werde Edér fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Nicht mal ein einzelner-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ich werde Iselmyr nicht herausrufen, nur damit du Hylisch lernen kannst. ... ich werde ein paar Wörter niederschreiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Also wirst du zu deinem König gehen - und dann was? Ihn anflehen, seine gewalttätigen Impulse zu unterdrücken? Auf das Wort eines heroischen Akademikers hin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Normalerweise beehrst du mich nicht mit deiner Schmeichelei, Priester. Welchem Umstand habe ich diese Aufmerksamkeit zu verdanken?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Die ganze Geschichte von Rauatai dreht sich um Krieg, wie bei jedem anderen Land auch. Wäre es nicht toll, wenn die Welt von sanftmütigen Riesen geführt würde, die ihre Muskelkraft aufs Streicheln ihrer eigenen Federn verschwendeten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ich bin zufrieden damit, dir ein Dorn im Auge zu sein. Hier aber - wenn man bloß auf den Docks stünde, könnte man eigenhändig dafür sorgen, dass niemand jemals wieder zum Dyrwald segelt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ich habe es mir anders überlegt, ich werde ... jemand anderen fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Von Zeit zu Zeit sagt meine Mutter, dass sie die Stille des Dorflebens vermisst, sonst aber kaum etwas. Sie trieb meine Schwestern immer dazu an, das zu tun, zu was sie als Kind nicht in der Lage war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ich vermisse mein Dorf nicht. Für mich ist es jetzt nicht mehr als schlechte Erinnerungen und der Gestank von Fischinnereien."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

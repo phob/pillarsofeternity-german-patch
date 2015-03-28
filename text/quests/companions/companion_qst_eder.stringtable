@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_eder</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Fragmente eines zertrümmerten Glaubens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bring Edér dazu, mit Maerwald zu sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Reise mit Edér zum Archiv.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Besuche mit Edér das Schlachtfeld vom Krieg des Heiligen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Durchsuche das Schlachtfeld auf Spuren vom Krieg des Heiligen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bring das Artefakt der Schlacht zu einem Medium.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Edér hat zugestimmt, mit mir zu reisen. Er schien einige Fragen zu haben, von denen er meint, ein Wächter könnte sie vielleicht beantworten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Nachdem ich Edér sagte, dass ich unterwegs nach Caed Nua sei, um dort seinen Fürsten aufzusuchen, einen alten Wächter namens Maerwald, sagte er, dass auch er Maerwald gerne einige Dinge fragen würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Edér glaubt, dass er mehr über die Umstände des Todes seines Bruders in Trutzbucht herausfinden könnte. Er vermutete, dass es in einem Archiv im Palast des Ducs Aufzeichnungen zum Krieg des Heiligen geben könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Edér Bruder kämpfte für Readceras und starb in einer Schlacht bei Clîaban Rilag. Er möchte das Schlachtfeld sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Edér gibt zu, dass er sich nicht sicher ist, nach was genau er hier sucht. Er hofft hier, eine Spur der Gegenwart seines Bruders zu finden, die ihm einen Hinweis darauf geben könnte, warum sein Bruder für Readceras gekämpft hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich fand ein Zierelement aus Stahl, das während des Krieges des Heiligen einst auf ein Standarte von Readceras gepflanzt war. Der Gegenstand selbst ist nutzlos, aber in den Händen eines Mediums könnte er mehr preisgeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Der Archivar weigerte sich, uns die Aufzeichnungen vom Krieg des Heiligen zu zeigen, was er mit Bedenken über rachsüchtige Dyrwäldler begründete, die Jagd auf readceranische Flüchtlinge machen. Er sagte, dass es sich anders verhalten würde, wenn ich in der Stadt einen besseren Ruf hätte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Die Dunrydstraße scheint mit ein vielversprechender Ort zu sein, da sich die dortigen Medium-Agenten auf diese Art von Arbeit spezialisiert haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Da die Dunrydstraße keine Option mehr darstellt, muss ich wahrscheinlich in Zwillingsulmen nach Hilfe suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Als wir Maerwald fanden, war er in einem Zustand, in dem er keine Fragen beantworten konnte. Edér muss entscheiden, was wir nun tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe den Archivar angesprochen, aber der Aufstand direkt vor dem Palast schien in ganz auszufüllen. Ich werde auf einen besseren Zeitpunkt warten müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Wir konnten bestätigen, dass Edérs Bruder Woden für Readceras kämpfte und vor seiner Verpflichtung sogar Waidwen getroffen hat. Seine tatsächlichen Gründe dafür aber sind verlorengegangen. Wahrscheinlich wird Edér nie erfahren, was seinen Bruder zum Fahnenwechsel beflügelte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Edér ist gestorben, und mit ihm seine Sorgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Es ist unwahrscheinlich, dass wir ein Medium finden können, das die Standartenspitze lesen kann, wie wir in Clîaban Rilag gefunden haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_si_broken_bridge_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein einziges Segment der Brücke erhebt sich über die Ruinen einer uralten Stadt. Es sieht recht stabil aus, doch die breite Lücke lässt wenig Raum für Fehler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Auf das freistehende Segment springen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du nimmst Anlauf und springst auf die andere Seite. Als du über die Lücke fliegst, riskierst du einen kurzen Blick nach unten und siehst die verlassene Stadt unter dir strahlen.
+
+Du landest auf dem Brückenfragment und bremst rasch deine Landung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Mit Anlauf springt [SkillCheck 0] über die Lücke. Bei der Landung schreit [SkillCheck 0] jedoch auf und landet in einem Knäuel von Gliedern auf dem Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

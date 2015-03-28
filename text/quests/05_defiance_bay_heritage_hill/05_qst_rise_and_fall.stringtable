@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_defiance_bay_heritage_hill\05_qst_rise_and_fall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Aufstieg und Fall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Suche in Erbhügel nach Icantha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre mit den Worten nach Teir Nowneth zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde ein Opfer für Aldhelm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Beende den Fluch von Teir Nowneth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Locke Saeda aus dem Valtas-Herrenhaus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Beschaffe ein Fragment der Götterhammerbombe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Lege das Fragment von Magrans Ewigem Stein in die Seelenmaschine in Teir Nowneth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Bring Saeda zu Aldhelm in Teir Nowneth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Bediene die uralte Maschine auf Teir Nowneth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ergründe das Rätsel des Fluchs von Erbhügel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Flucht vor der Explosion von Teir Nowneth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein uralter engwithanischer Turm in Erbhügel hat den Bezirk in das Chaos gestürzt und die Bewohner in blutrünstige Monster verwandelt. Vielleicht kann ich den Bezirk retten, aber ich brauche Hilfe von jemandem, der mit dem Turm vertraut ist und weiß, wie man ihn kontrollieren kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Icantha scheint von dem Turm zu wissen und die engwithanische Sprache zu sprechen. Vielleicht hilft sie mir dabei, die Magie des Turms zu stören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich verstehe nun Engwithanisch - und damit die uralten Worte, mit denen man Teir Nowneth steuert. Nun kann ich versuchen, den Fluch zu beenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Der Zustand des Beseelers hat sich noch weiter verschlechtert. Wenn er lange genug bei Verstand bleiben soll, um mir mit Teir Nowneth zu helfen, muss ich seinem unnatürlichen Hunger ein Leben opfern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Aldhelm Graeg ist tot. Ich muss einen Weg finden, den Fluch ohne seine Hilfe zu beenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich bin einem jungen Mädchen namens Saeda Valtas begegnet. Wenn ich es schaffe, sie aus dem Haus ihrer Familie zu locken, kann ich sie Aldhelm überlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Icantha hat mir erklärt, dass ein Artefakt voller Essenz den Turm zerstören könnte - und damit verhindern, dass der Fluch in Zukunft erneut ausgelöst wird.
+
+Sie sagte, im Magran-Tempel in Trutzbucht befände sich ein Fragment der Götterhammerbombe - der Waffe, die den Krieg des Heiligen beendete.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Der Turm ist eine riesige Maschine, die errichtet wurde, um alte Engwithaner als ewige Krieger wieder zum Leben zu erwecken. Ich kann Erbhügel vor dieser Macht retten, indem ich ein Fragment von Magrans Ewigem Stein auf den Altar auf Teir Nowneth lege.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Saeda ist jetzt bei mir. Wenn ich sie Aldhelm opfere, müsste er mir helfen können, Teir Nowneth zu kontrollieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Aldhelm hat sich genug erholt, um mir zu helfen, die Maschine zu bedienen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Eine Beseelerin namens Icantha hat vielleicht eine Erklärung für den Fluch - und weiß unter Umständen sogar, wie man ihn beendet. Sie befindet sich irgendwo in Erbhügel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Das Fragment von Magrans Ewigem Stein hat mit der immensen Seelenenergie reagiert, die sich in Teir Nowneth gesammelt hat. Eine Explosion steht unmittelbar bevor. Ich muss mich in Sicherheit bringen, bevor alles um mich herum zerstört wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die Maschinen auf Teir Nowneth verwendet, um die Magie zu zerschlagen, welche die Seelen an den Bezirk gebunden hatte. Erbhügel ist von dem Fluch der Untoten befreit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe das Fragment der Götterhammerbombe benutzt, um Teir Nowneth zu zerstören. Der Fluch von Erbhügel ist aufgehoben und ich habe dafür gesorgt, dass niemand je wieder die Magie des Turms nutzen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe die Maschinen auf Teir Nowneth verwendet, um die Magie des uralten engwithanischen Turms auf Caed Nua zu bündeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

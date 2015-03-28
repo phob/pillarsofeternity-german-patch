@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\prot2_rumbald</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Not eines Bauern </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde das Oger-Nest in der Wildnis vor dem Dorf Dyrfurt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre zu Rumbald im Dorf Dyrfurt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Durchsuche die Höhle bei der Dyrfurt-Kreuzung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Rumbald, ein Schweinebauer in Dyrfurt, sagte mir, ein Oger hätte sich mit seiner Herde davongemacht. Er möchte den Oger tot sehen und will, dass ich ihm seinen Kopf bringe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Rumbald erwähnte, dass der Oger in der Gegend um Dyrfurt gesehen worden wäre, aber er war sich nicht ganz sicher, wo er lebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Da ich mich nun um den Oger gekümmert habe, kann ich nach Dyrfurt und zu Bauer Rumbald zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Östlich des Flusses Bael fand ich eine Höhle. Sie riecht nach verfaulten Leichen. Hier muss irgendwas Hungriges leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Rumbald informierte mich, dass Tyrgil etwas über den Verbleib des Ogers wissen könnte. Sein Laden befindet sich vor einem zur Hälfte eingestürzten Turm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Trygil sagte mir, dass der Oger höchstwahrscheinlich nahe des Flusses Bael östlich des Dorfes Dyrfurt lebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich tötete Korgrak. Rumbald wird zufrieden sein, den Kopf des Biests zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Korgrak versprach, das Dorf zu verlassen. Das sollte für Rumbald genug sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Ich sagte Korgrak, dass er in Dyrfurt bleiben könnte, wenn es ihm gelänge, keine Aufmerksamkeit mehr zu erregen. Er schien die Idee in Betracht zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Korgrak schien mein Vorschlag zu gefallen, dass er Rumbald töten sollte. Ehrlich gesagt bin ich mir nicht sicher, was mich bei meiner Rückkehr nach Dyrfurt erwarten wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Ich bot Korgrak eine Stelle in meiner Festung an. Diese Idee schien ihn zu interessieren - ich könnte ihn wahrscheinlich anwerben, wenn ich das wirklich wollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Trygil ist tot und mir nicht länger von Nutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich tötete den Oger und brachte Rumbald seinen Kopf. Der Bauer war für meine Hilfe derart dankbar, dass er mir seine Donnerbüchse namens Bleispucker und ein Ferkel schenkte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Rumbald war enttäuscht, dass ich den Oger nicht getötet hatte, aber er gab mir trotzdem eins seiner Ferkel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich gab Rumbald etwas Geld, um ihn dafür zu entschädigen, was der Oger gestohlen hatte. Er war mir derart dankbar dafür, dass er mir seine Donnerbüchse namens Bleispucker und ein Ferkel schenkte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich sagte Korgrak, dass Dyrfurt für ihn viel sicherer wäre, wenn er den Bauern beseitigte, der seinen Kopf forderte. Und tatsächlich: Kaum war ich wieder im Dorf angekommen, sagte mir Rumbalds Frau, dass er vom Oger getötet worden sei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich habe Rumbalds Schweine angegriffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

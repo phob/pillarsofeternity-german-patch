@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_verzano</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein Mann steht in der Ecke des Lagerhauses und regelt den Verkehr. Während er herumdeutet und den Arbeitern zuwinkt, blitzen Juwelen von den vielen Ringen an seinen Fingern. 
+
+Seine Seidenkleidung ist zwar fein bestickt, aber keineswegs neu - du bemerkst einige ausgebesserte Nähte und einen dezenten Flicken an einem Ellbogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ah, wie ich sehe, bist du zurück! Sicherlich bist du wegen der Zustellungsarbeit gekommen, richtig? Heutzutage ist Arbeit in Trutzbucht ja nur noch schwer zu finden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Konntest du das Paket zustellen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Er wischt sich den Schweiß von der Stirn und sieht sich mit den weit aufgerissenen, ängstlichen Augen eines gejagten Tiers im Lagerhaus um. "Aimico, ich kann dir gar nicht genug danken, aber das wird die Doemenels nicht lange aufhalten. Ich muss von hier verschwinden, und dasselbe würde ich auch dir empfehlen."
+
+Mit zitternden Händen übergibt er dir seine Pistole und einen Münzbeutel. "Das ist alles, was ich nach dieser unglückseligen Unternehmung noch übrig habe. Vielen Dank, und bitte pass auf dich auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Was soll zugestellt werden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Erzähl mir mehr darüber, was es hier zu tun gibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Er zieht an seinem Bart. "Dann muss ich annehmen, dass du nicht zu der Firma gehörst, die ich über die Expeditionshalle kontaktiert habe." Er winkt mit einer Hand. "Aber egal - du bist schließlich hier, sie nicht."
+
+"Es geht um einen Beutel Bittergurkensamen, die für ihre medizinischen Eigenschaften geschätzt werden. Damit handeln nur wenige Kaufleute in Trutzbucht ... und die sind sich ihres Werts sehr bewusst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Als er dich sieht, breitet er seine Arme zu einem überschwänglichen Willkommen aus. "Sei gegrüßt! Du befindest dich im Lagerhaus und Hauptquartier der Vailianischen Handelsgesellschaft." 
+
+Er sieht auf eine Taschenuhr. Ein Teil des Goldfiligrans ist abgeplatzt. "Aber du bist spät dran, denn ich habe die Expeditionshalle schon gestern benachrichtigt. Diese Zustellung kann nicht aufgeschoben werden." Er klappt die Taschenuhr wieder zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich bin ein Kaufmann aus Ancenze, der schönsten der Vailianischen Republiken. Hier in Trutzbucht leite ich die Vailianische Handelsgesellschaft."
+
+Er deutet auf die gestapelten Kisten. "Wir transportieren Fracht in die Republiken und von dort hierher. Wir sind ein Teil des größten Kaufmannsunternehmens der Welt. Wir können alles transportieren, was man sich vorstellen kann." Er grinst. "Gegen einen kleinen Obolus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich werde das übernehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Nein, nicht jetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Er steckt sich die Uhr zurück in seine Tasche. "Komm zurück, falls du deine Meinung änderst. Arbeit habe ich immer mehr als genug."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Er klatscht seine Hände zusammen. "Hervorragend! Bitte stelle dieses Paket einem Mann namens Gareth im Fuchs und Gans in Kupferweg zu. Er wird wissen, was damit zu tun ist." Er gibt dir einen Beutel mit kieselgroßen Samen in die Hand.
+
+"Kehre zu mir zurück, wenn du fertig bist, dann werde ich mich um deine Bezahlung kümmern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ich würde gerne mehr über die Vailianische Handelsgesellschaft erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Wir sind eine Konföderation von Kaufleuten und Händlern aus den Republiken." Er sieht sich stolz im Lagerhaus um. "Wir verkaufen allerlei Waren und Ausrüstungsgegenstände. Schon seit Jahren haben wir lukrative Verträge mit vielen Läden, Schänken und Rüstkammern in ganz Trutzbucht." Er schmunzelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Stimmt etwas nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ich möchte etwas anderes fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ach, nichts Schlimmes." Er winkt mit einer Hand ab. "Während der letzten Monate ist unsere Konkurrenz besonders heftig geworden, aber ich glaube, das konnte angesichts des Vermächtnisses, wie es die Einheimischen nennen, erwartet werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Du solltest mir besser erklären, warum du mir eine Falle gestellt hast - und zwar zackig!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Wenn du mir gesagt hättest, dass die Doemenels hinter dir her sind, hättest du uns beiden viel Ärger ersparen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Wie kann ich dir noch trauen, nachdem du mich so manipuliert hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Du hast mir nicht gesagt, dass es chaotisch werden würde. Das kostet dich extra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Scheint ziemlich einfach zu sein. Was willst du dann von mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Ein Stirnrunzeln verzerrt seinen akribisch gepflegten Spitzbart. "Während der letzten Wochen sind meine eigenen Kuriere ausgeraubt und geschlagen worden. Anscheinend verübeln mir einige meiner Konkurrenten meinen Erfolg. Wie auch immer: Du wirst nicht mit mir in Verbindung gebracht werden, und man wird dich in Ruhe lassen. Falls nicht ..." Er zuckt mit den Achseln und grinst. "Du siehst aus, als wärest du recht fähig."
+
+"Und was deine Integrität angeht ... nun, da werde ich dir wohl vertrauen müssen. Und du musst meinen Versicherungen vertrauen, dass du außer meinem Kontakt keinen Käufer dafür finden würdest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ja, jetzt aber wollen die Doemenels deinen Tod."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Wie, die Doemenels waren da?" Verzano reißt seine Augen auf und zupft an seinem Bart. "Ich war doch so vorsichtig und folgte immer der Verlavita. Sie können unmöglich davon gewusst haben ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Er neigt seinen Kopf. "Was möchtest du denn wissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ich werde an Bord des nächsten Schiffes zurück zu den Republiken gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Aprettaz, mach mal mit diesen Kisten weiter!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Wer war diese gefiederte Frau?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ah, du musst Pallegina meinen. Sie ist ein Paladin in Diensten der Vailianischen Botschaft." Er kichert. "Sie ist eine gute Soldatin, aber beim Befolgen von Befehlen nicht ganz so gut. Ich fürchte, ihr Temperament ist zu hitzig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Sie schien wütend zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Aha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Er lacht erneut. "Das überrascht mich gar nicht, denn sie ist ziemlich leicht reizbar. Eine Frau in einer Paladin-Bruderschaft, noch dazu eine, die von den Göttern auf solch ungewöhnliche Weise berührt wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Verzano wirft einen Blick auf seine ramponierte Taschenuhr. "Sieh besser zu, dass du das Paket zustellst! Solcherlei Aufgaben sollte man besser schnell ausführen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Du kannst sicherlich auch sehen, dass ich keine Zeit habe, mich mit ihren Wutanfällen abzugeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Kann ich dir sonst noch mit etwas helfen oder soll ich mit meinen Geschäften fortfahren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Genau wie du bin ich Kaufmann. Aber ich stamme aus Ancenze, der schönsten der Vailianischen Republiken. Hier in Trutzbucht leite ich die Vailianische Handelsgesellschaft."
+
+Er deutet auf die gestapelten Kisten. "Wir transportieren Fracht in die Republiken und von dort hierher. Wir sind ein Teil des größten Kaufmannsunternehmens der Welt. Wir können alles transportieren, was man sich vorstellen kann." Er grinst. "Gegen einen kleinen Obolus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Ein Stirnrunzeln verzerrt seinen akribisch gepflegten Spitzbart. "Während der letzten Wochen sind meine eigenen Kuriere ausgeraubt und geschlagen worden. Anscheinend verübeln mir einige meiner Konkurrenten meinen Erfolg. Wie auch immer: Du wirst nicht mit mir in Verbindung gebracht werden, und man wird dich in Ruhe lassen. Falls nicht ... " Er zuckt mit den Achseln und grinst. "Du siehst aus, als wärest du recht fähig."
+
+"Außerdem weiß ganz Trutzbucht um deine Integrität. Und du musst meinen Versicherungen vertrauen, dass du außer meinem Kontakt keinen Käufer dafür finden würdest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Also, was wirst du jetzt mit mir machen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Verzano, zu deinem Glück habe ich mich bereits um Danna Doemenel gekümmert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Sie ist tot? Aimico, ich kann dir gar nicht genug danken, aber das wird die Doemenels nicht lange aufhalten. Ich muss von hier verschwinden, und dasselbe würde ich auch dir empfehlen."
+
+Mit zitternden Händen übergibt er einen Münzbeutel. "Das ist alles, was ich nach dieser unglückseligen Unternehmung noch übrig habe. Vielen Dank, und bitte pass auf dich auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Angreifen] "Die Doemenels sind es nicht, um die du dir Sorgen machen musst ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

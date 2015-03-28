@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_master_ambient</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>51</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Dir soll ein Herrenhaus gehören, das es mit allen anderen in Farnheim aufnehmen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Stammst du aus dem Land der Lebenden? Du musst einige ziemlich verrückte Sachen gesehen haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Stimmt es, dass du aus dem Ewigen Weiß stammst? Muss ganz nett sein, der Kälte mal zu entkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ein Plünderer vom Todesfeuer-Archipel, Anscheinend ist an dem Klischee doch was dran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Zuerst waren es nur ein paar wütende Kerle von den Dutzenden. Dann die Aufstände ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wir konnte es hier in Trutzbucht zu so massiven Zerstörungen kommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Die Nachbarn sagen, dass das Vermächtnis nach der Zerstörung des Sanatoriums enden wird. Das glaube ich erst, wenn ich es sehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich will keine Schwierigkeiten mir dir, verstanden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich halte mich von dir fern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Wie schön zu sehen, dass sich jemand um die Probleme des Dyrwalds kümmert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Heutzutage findet man kaum noch jemand, der bereit ist, für Fremde so viel zu tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Bist wohl der starke, stille Typ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Na komm schon, zeig ein paar Gefühle. So kannst du doch nicht durchs Leben gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich wünschte, heutzutage wüssten mehr Leute, wie man einen kühlen Kopf bewahrt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ab und zu muss man doch ein bisschen lachen, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Welch düstere Zeiten. Wie schön, dass nicht alle die Dinge so ernst nehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Du kannst doch nicht wirklich erwarten, dass ich dir auch nur ein Wort abnehme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"In Trutzbucht gibt es nicht mehr viele, die es mit der Wahrheit so genau nehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Wir brauchen in Trutzbucht mehr vernünftige Leute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Probleme kann man nur mit sanfter Zunge lösen, nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Was auch immer mit diesem Theaterhaus in Kupferweg passiert ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Schon gehört? Die Dutzenden haben Marschall Wenfeld umgebracht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Schon gehört? Die Doemenels haben Marschall Wenfeld umgebracht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Mir ist ein Gerücht über Fürst Harond zu Gehör gekommen. Es ist viel zu fürchterlich, um es zu wiederholen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Man sagt, du seist ein Freund der Doemenels. Ich will keine Schwierigkeiten mit ihnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Die Ritter gehören zu den aufstrebenden Mächten in Trutzbucht. Solche Verbündeten zu haben, schadet nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Eines Tages wird sich Wenan wirklich in Schwierigkeiten bringen. Pass auf, dass er dich dann nicht mitzieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Schön, dich zu sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Es ist mir wirklich eine Ehre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Du hast dir aber einen ordentlichen Namen gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"In Trutzbucht kannst man es ungeachtet seines Hintergrunds nach oben schaffen. Dafür bist DU doch der lebende Beweis, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Leibhaftig! Das werden mir meine Freunde niemals glauben ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Bitte entschuldige mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich kann jetzt nicht sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Wir haben auch ohne dich schon genug Probleme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Kein Wunder, dass du dein Heimatland verlassen musstest. Du stiftest nur Unruhe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Wenn du dich so aufführen willst, dann solltest du in die Wildnis ziehen. DORT gibt es mehr als genug Platz für dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ich fürchte, auf dem Kupferweg-Markt gibt es keinen Platz für weitere Stände."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Der Dyrwald hat eine reiche Kolonialgeschichte. Du hast einen guten Ort zum Niederlassen gewählt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Hast du das Getöse aus der Burg gehört? Da muss es aber ziemlich abgegangen sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Im Admeths Lager könnte es für jemand mit deinem Hintergrund Arbeit geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ich bin keiner von diesen Intellektuellen, aber die Halle der aufgedeckten Geheimnisse könnte dir wahrscheinlich gefallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"In der Wildnis gibt es Wild ohne Ende. Dir wird es dort gut ergehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"In Eir Glanfath gibt es viel zu entdecken ... falls dich die Einheimischen nicht vorher erwischen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Also haben die Schläger das Bordell jetzt verlassen? Ich frage nur für einen Freund ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Gut, dass jemand den Leuchtturm repariert. Ondras Geschenk könnte etwas Klasse vertragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Niemand weiß, was er von dir halten soll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ich habe viel von dir gehört - Gutes und Schlechtes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Nimm es mir nicht übel, aber ich halte lieber Abstand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Es war katastrophal fürs Geschäft, als die Minen von Stalwart versiegten."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

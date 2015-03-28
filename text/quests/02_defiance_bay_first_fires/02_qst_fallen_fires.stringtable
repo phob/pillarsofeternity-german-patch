@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_defiance_bay_first_fires\02_qst_fallen_fires</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Asche des Glaubens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise zur Höhle aus Fyrgas Vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Finde das Zeichen von Magran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Bringe den "Funken" zu Fyrga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Fyrga, Ruhige Begeisterte Magrans, wurde durch die Hohlgeburten-Krise in Trutzbucht in ihrem Glauben erschüttert. Dementsprechend war sie nicht in der Lage, die heiligen Feuer der Stadt am Brennen zu halten. Sie sind ein Symbol für Triumph und Schutz und waren noch nie so wichtig wie heute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Fyrga hatte Visionen über eine Höhle an einem Ort mit mehrfarbigen Becken und einem steilen Wasserfall. Sie glaubt, dass dort etwas ihren Glauben wiederherstellen würde, doch sie glaubt auch, dass etwas anderes dort versuchen wird, sie zu töten. 
+
+Wenn ich diesen Gegenstand für sie finden kann, dann könnte sie ihren Aufgaben wieder nachgehen und die heiligen Feuer von Trutzbucht wieder zum Leben erwecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe die Höhle hinter dem Wasserfall gefunden. Hier drinnen ist es drückend heiß, doch Fyrga war sicher, dass ich hier ein Zeichen ihrer Göttin finde.
+
+Sie war auch sicher, dass ich etwas unglaublich Gefährliches finden würde. Ich sollte vorsichtig sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Fyrga lag mit beiden Vorhersagen richtig – ich habe einen merkwürdigen, glühenden Stein gefunden, und einen großen Jungdrachen, der ihn bewachte. Die Bestie schien seinem "Funken" beinahe ehrerbietig zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Durance erklärte, dass der glühende Stein tatsächlich ein Fragment der Götterhammerbombe sei, einer mächtigen Waffe, die mit Magrans göttlicher Hilfe erbaut wurde. Ich kann verstehen, warum Fyrga das als bedeutungsvoll erachtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Fyrga wusste nicht, wo sich der Ort aus ihrer Vision befinden könnte. Doch jemand in der Expeditionshalle könnte das wissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe eine Karte gefunden, auf der ein Ort namens Feuerfälle markiert wurde. Es ist eine weite Reise, doch wenigstens weiß ich jetzt, wo der Ort liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Wenan von den Dutzenden zeigte mir, wo ich Feuerfälle, den Ort aus Fyrgas Vision, finde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Fyrga daran erinnert, dass das Götterhammer-Fragment selbst Beweis für Magrans Macht und Wunder ist. Fyrga schöpfte daraus Mut und war in der Lage, die heiligen Feuer wieder zu entfachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Fyrga daran erinnert, dass Magran ihre Anhänger auf die Probe stellte, und dass Waidwens Vermächtnis eine solche Probe sei. Fyrga schöpfte daraus Mut und war in der Lage, die heiligen Feuer wieder zu entfachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Das Götterhammer-Fragment war für Fyrga bedeutungslos, da sie nichts dafür getan hatte, es aufzuspüren. Fyrga erkannte, dass sie sich als Magran unwürdig erwiesen hatte, indem sie mir ihre Last auferlegt hatte. Sie wird ihre Funktion als Ruhige Begeisterte schlussendlich niederlegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Obwohl Fyrga ein Fragment der Götterhammerbombe in den Händen hielt, wurde ihr Glauben nicht wiederhergestellt. Ich hatte keine Antwort für sie. Sie wird ihre Funktion als Ruhige Begeisterte schlussendlich niederlegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

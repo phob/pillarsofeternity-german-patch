@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\areanotifications</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>In einer sternenlosen Nacht versuchen fünf Wagen, ohne Sicht nicht vom Pfad abzukommen. Der Anführer wirft immer wieder einen Blick in den Himmel, um sich abzusichern, dass er sich auf dem richtigen Kurs befindet. Eine trübe Laterne ist sein einziger Schutz gegen die aufkommende Dunkelheit.
+
+Doch der Himmel spendet weder Trost noch Licht und verrät nicht das Mindeste seines Wissens.
+
+Die Karawane besteht aus Reisenden auf dem Weg in das kleine Grenzdorf Goldtal. Du bist einer von ihnen. Ein ansässiger Adliger hat Siedlern von weit her Land und Wohlstand für einen Neubeginn angeboten.
+
+Du bist plötzlich erkrankt, schwitzt und zitterst, und einer der anderen Reisenden signalisiert dem Karawanenführer, deinetwegen anzuhalten. Er hält gerade rechtzeitig an, um nicht gegen den Stumpf eines umgefallenen Baums zu fahren, der den weiteren Weg versperrt. Heute Nacht werdet ihr nicht weiterreisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>In einer sternlosen Nacht versuchen fünf Wagen, ohne Sicht nicht vom Pfad abzukommen. Der Anführer wirft immer wieder einen Blick in den Himmel, um sich abzusichern, dass er sich auf dem richtigen Kurs befindet. Eine trübe Laterne ist sein einziger Schutz gegen die aufkommende Dunkelheit.
+
+Doch der Himmel spendet weder Trost noch Licht und verrät nicht das Mindeste seines Wissens.
+
+Die Karawane besteht aus Reisenden auf dem Weg in das kleine Grenzdorf Goldtal. Du bist einer von ihnen. Ein ansässiger Adliger hat Siedlern von weit her Land und Wohlstand für einen Neubeginn angeboten.
+
+Du bist plötzlich erkrankt, schwitzt und zitterst, und einer der anderen Reisenden signalisiert dem Karawanenführer, deinetwegen anzuhalten. Er hält gerade rechtzeitig an, um nicht gegen den Stumpf eines umgefallenen Baums zu fahren, der den weiteren Weg versperrt. Heute Nacht werdet ihr nicht weiterreisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Nach einer gefühlten Ewigkeit kommt dein rasanter Abstieg zu einem abrupten Ende. Für einen Moment verweilst du regungslos, während dein Herz sich beruhigt und deine Augen sich anpassen, und du atmest abgestandene, vergessene Luft. 
+
+Ehe du dich versiehst, wird ein schmaler und erodierter Weg im trüben Licht sichtbar, der einen gewundenen Pfad zu einer Höhle freigibt, die derart groß ist, dass sie wie eine eigene Welt für sich wirkt. In der Ferne erkennst du den kalten Schimmer von Adra-Venen, die sich sichtbar und unsichtbar in der Tiefe verästeln und vereinen. Ihr Leuchten dient als flüchtige Orientierung entlang des alten Pfads.
+
+Du schaust nach oben zur Öffnung, durch die du gesprungen bist. Diese ist jetzt gerade noch ein Lichtfleck wie ein entfernter Stern, alleine im Weltraum und für immer außer Reichweite. Dein einziger Weg liegt vor dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Trutzbucht. Einst war die Stadt das Zentrum der Revolution im Dyrwald - heute scheint sie kurz vor einer weiteren Revolution zu stehen.
+
+Flüchtlinge säumen die Straßen, obdachlos und hungrig. Sie kommen in die Stadt, um Waidwens Vermächtnis zu entgehen und Hilfe zu finden - doch sie finden keine.
+
+Dissidenten versammeln sich, um zu protestieren, das Ende der Beseelung und den Sturz des Ducs fordern. Die Soldaten der Stadtmiliz patrouillieren die Straßen mit Furcht in den Augen. Ihre Hände zittern an den Griffen ihrer Waffen.
+
+Die Hauptstadt eines Landes, das vor nicht allzu langer Zeit einen Gott verbrannt hat, scheint nur einen einzigen Funken davon entfernt zu sein, sein Schicksal zu teilen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Rauch steigt in schwarzen Schwaden über den Stadtmauern auf und verdunkelt den Himmel wie ein Sturm. Hinter den Mauern tobt der Aufstand weiter.
+
+Unterstützer der Beseelung müssen sich in Verstecke flüchten - der Mob plündert ihre Häuser und raubt ihren Besitz. Beseeler werden von ihren Familien und aus ihren Häusern weggezerrt, um auf der Straße zu Tode gesteinigt zu werden.
+
+Das Gerücht war umgegangen, dass Duc Aevar von einem Beseeler ermordet worden war. Die Stadt vergeudete keine Zeit, Rache zu nehmen - und keine Mühen darauf, den Wahrheitsgehalt des Gerüchts zu überprüfen.
+
+Inmitten des Chaos steht das Sanatorium von Farnheim und brennt lichterloh. Ein Stück weiter die Straße hinab ist das Haus Hadret, die letzte Bastion der Stabilität im Dyrwald, plötzlich verstummt.
+
+Du hast das Stadtor hinter dir gelassen und bist vorerst in Sicherheit. Dein Pfad führt dich ostwärts, nach Zwillingsulmen. Thaos ist an diesen Ort gebunden, aus Gründen, die so geheimnisvoll sind wie der Bleierne Schlüssel selbst.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

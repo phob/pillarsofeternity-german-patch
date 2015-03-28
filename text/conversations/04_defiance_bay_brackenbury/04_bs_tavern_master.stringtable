@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_tavern_master</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Die Vorstellungen lenken mich von einigen der Schwierigkeiten in der Stadt ab."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Einen ruhigeren Ort in Trutzbucht, um ein Glas guten Wein zu genießen, findet man trotzdem nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Niemand macht eine bessere Taubenpastete als Skerrions Koch. Man merkt sofort, das er ausgezeichnete Zutaten dafür verwendet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Skerrion sorgt normalerweise für Ruhe und Ordnung, aber vor dem Piraten im Obergeschoss hütest du dich besser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich fürchte, in letzter Zeit ist die Unterhaltung ein bisschen ... populistisch geworden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wir alle haben unsere Schwierigkeiten, aber ich wünschte, dieser protzige Elf hätte seine nicht an die große Glocke hängen müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Der schrille junge Elf ist endlich gegangen. Der arme Narr hat die Vorstellungen unerträglich gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Hast du den Weinkeller gesehen? Dort gibt es Weine aus ganz Eora."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

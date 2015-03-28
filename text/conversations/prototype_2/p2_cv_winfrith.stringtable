@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\prototype_2\p2_cv_winfrith</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein beleibter, grinsender Mann steht hinter einem windschiefen Holztresen und poliert einen Faustschild. Er schaut hoch. "Hab dich noch nie hier gesehen. Freue mich immer, ein neues Gesicht im Dorf zu sehen. Gesellschaft ist gut fürs Geschäft und Plauderei ist gut für die Seele, sage ich immer. Wie auch immer, was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Willkommen zurück. Was kann Winfrith für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Zeig mir, was du zu verkaufen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich suche nach einer jungen Frau namens Aelys."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Leben Sie wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Er schüttelt seinen Kopf und kichert. "Das ist eben das Problem mit diesen Fürsten: Sie denken, dass sie aufgrund ihres Geldes und ihres Familiennamens das Anrecht auf eine Sonderbehandlung hätten. Sie erwarten, dass jeder wie ihre Diener um sie herumschwänzelt. Nein, mein Herr! Solche Leute haben wir hier im Dyrwald nicht. Wir haben uns schließlich von Aedyr abgespalten, um solchem Unsinn zu entgehen! Wenn sie denken ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Natürlich, natürlich, ich wollte gerade von ihr sprechen." Er räuspert sich. "Ich habe sie nicht gesehen. Zumindest nicht, seit sie verschwunden ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Hendyna?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Eine Alchemistin. Betreibt einen kleinen Stand in der Dorfmitte. Begabte Dame, aber sie hatte vor nicht allzu langer Zeit ein Aufeinandertreffen mit Lindwürmern. Sie hatte Glück, dass es nicht der große Oger war, der in letzter Zeit hier durch die Gegend streift. Hast du schon gehört? Vor ein paar Tagen hat er Rumbald alle Schweine gestohlen. Sprich ihn bloß nicht darauf an. Das Thema ist für ihn immer noch ein wunder Punkt, und wenn man ihn erstmal wegen diesem Oger und seinen Schweinen in Rage gebracht hat, hört er mit dem Reden gar nicht mehr auf ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Winfrith, konzentriere dich. Ich suche nach dem Mädchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Entschuldige, aber was hat irgendwas davon mit Aelys zu tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich verstehe schon, warum du dich so fühlst, aber momentan suche ich nur nach seiner Tochter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vergiss es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Er blinzelt dich mit offenem Mund an und kichert. "Entschuldige, manchmal schweife ich etwas ab. Brauchst du sonst noch was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Komm zum Punkt, bevor ich meine Geduld verliere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Aber wie ich dir und diesen Soldaten schon gesagt habe, so wird das bei uns nicht gemacht. Der letzte Mann, der dachte, er könnte uns herumkommandieren, war ein Kaiser, und auch ihm sagten wir gleich, wohin er sich seine Befehle schieben kann, wenn du meine Ausdrucksweise entschuldigen möchtest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Egal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Was ist in Dyrfurt vor sich gegangen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Oh, wir sind ein nettes kleines Dorf, hier passiert nicht viel. Besonders nicht, seit das Vermächtnis zugeschlagen hat. Den Leuten wurde klar, dass sie keine Kinder haben können, also probieren sie es gar nicht mehr. Nicht schwer vorzustellen, dass das dem Alltag ziemlich viel Spannung nimmt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Der Fürst lässt dich auch herumfragen, was?" Er grunzt. "Naja, wenigstens fragst du freundlich. Schon schlimm genug, dass eine kleine Armee ins Dorf einrückt, aber nein, dann müssen sie sich auch noch wichtig machen und einem sagen, was man zu tun und lassen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Sie ist meistens für sich alleine geblieben." Er zuckt mit den Schultern und poliert den Faustschild weiter. "Aber du weißt ja, wie Frauen so sind. Sobald man zwei von ihnen zusammenbringt, gibt es endloses Getue und Gerede. Was wohlgemerkt gar nicht schlimm ist, das soll keine Kritik sein. Man hat halt nur den Eindruck, als ob ihnen nie die Themen ausgehen würden. Das Mädchen schien ziemlich still, richtig schüchtern, will ich meinen, aber selbst Hendyna hat sie zum Reden gebracht. Was einem zeigt, wie sehr man sich irren kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Er deutet auf dich, wobei seine Hand vor Aufregung und Gefühlsüberschwang zittert. "Da! Das ist genau die Art von Einstellung, von der ich gesprochen habe! Du schlenderst hier in dieses Dorf herein, zeigst keinen Respekt für irgendjemand und erwartest dann, dass man auf deinen Befehl hin alles für dich tut."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

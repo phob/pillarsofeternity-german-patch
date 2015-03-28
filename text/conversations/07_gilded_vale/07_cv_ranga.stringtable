@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_ranga</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>80</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du stehst einer turmhohen Aumaua-Frau gegenüber. Ihre Haut hat die warm-goldbraune Färbung eines ausgehenden Sonnenuntergangs, nur an Hals und Händen finden sich fischweiße Flecken. Ihr welliges, rotbraunes Haar wurde in engen Zöpfen um einen Streifen nackter Haut geflochten, der der Rundung ihres Kopfes folgt, und fällt ihr über ihre breiten Schultern hinab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ranga grüßt dich mit einem stoischen Nicken. "Brauchst du etwas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ist es vollbracht? Bin ich das endlose Gekrächze der Xaurips endlich los?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vorsicht mit diesen Sporlingen. Sie kommen einem schnell in den Verstand." Ranga tippt sich leicht gegen die Schläfe. "Das ist eigentlich der Hauptgrund, warum die Sporen so nützlich sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Gut, dich wohlauf zu sehen. Gab es sonst noch etwas, das ich für dich tun kann?" Sie lacht. "Ich versichere dir, nicht alle meine Arzneien sind derart schwierig zu erlangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Weggehen.] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Aufra hat mich hierher geschickt. Sie sagt, du wüsstest einen Weg, um sicherzugehen, dass ihr Kind keine Hohlgeburt wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ah. Noch mehr von Fürst Raedrics verängstigter Schar." Sie nickt langsam. "Ich weiß, wovon sie spricht." Da sie dich hier herausschickt, scheint sie mir etwas verzweifelt zu sein. Vermutlich hat sie dir auch meine Bezahlung mitgeschickt?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Auf dem Weg hierher musste ich die Xaurips erledigen. Sie werden dich nicht mehr belästigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"In Ordnung. Ich komme wieder, wenn sie fertig ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Kann ich dir nicht einfach ein paar Kupfer-Pand geben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Wirklich? Du gehst mit deinen Gefallen sehr effizient um. Hier - etwas für deine Mühen." Sie nickt und klatscht einmal ihre Hände zusammen. "Gut. Dann werde ich jetzt meine volle Aufmerksamkeit auf das Heilmittel für Aufra richten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich werde mit der Zubereitung der Mixtur beginnen ... aber dazu brauche ich noch eine Zutat: einige Sporen von den Kreaturen in der Höhle dort." Sie deutet auf einen Ort gleich nördlich ihres kurzen Strandabschnitts. "Sporlinge nennt man sie. Sie stellen ein recht gutes Material dar, und ich brauche einen für die Mixtur. Wenn dir noch andere in die Hände fallen, umso besser!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Gut, gut. Ich glaube, sie zu finden, wird dir nicht schwerfallen." Sie lächelt und zeigt ihre spitzen Zähne. "Viel Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Ranga lacht leise. "Das Lustige an einem Umzug so weit hinaus - Kupfermünzen sind nicht annähernd so nützlich wie früher. Gefallen dagegen, die weiß ich zu schätzen. Wenn du das für mich tust, kannst du dein Geld behalten. Du wirst merken, dass man mit mir viel besser handeln kann als mit den Xaurips."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Du erwähntest eine Bezahlung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Was sollte ich nochmal aus der Höhle holen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich heiße Ranga. Ich habe eine Zeitlang in Goldtal gelebt und dort als Heilerin und Hebamme gearbeitet. Vielleicht hast du diesen Ort ja schon mal besucht? Wenn ja, dann wirst du wohl verstehen, warum ich in den Süden gezogen bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ja." Ranga deutet mit einem Finger ins Landesinnere. "Das Xaurip-Lager da im Nordosten ... Ich möchte, dass du es ausradiert. Vielleicht kann Tana hier dann in Ruhe schlafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich brauche ein paar Sporen von den Kreaturen dort drin. Garstige kleine Dinger. Du wirst sie sicher erkennen, wenn du sie siehst." Sie grinst breit. "Atme bloß nicht zu tief ein, kapiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ich habe hier ein paar Sporen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich gehe sie suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Muss ich dir hiernach noch einen dritten Gefallen erfüllen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Ranga lächelt. "Ich brauche das zur Herstellung des Tranks, um den Aufra gebeten hat. Wenn du nicht helfen möchtest, dann ... Daran kann ich doch auch nichts ändern, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Gut. Ich werde den Rest vorbereiten, während du weg bist. Nach deiner Rückkehr sollte die Fertigstellung nicht mehr lange dauern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"In der Tat. Hervorragend. Gib mir mal einen her, dann gebe ich ihn in den Kessel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Das sollte nicht lange dauern ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Sie sind alle tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Weggehen.] "Noch nicht, Ich komme wieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Gut. Ihre schwächlichen Versuche, uns zu überraschen, gingen mir wirklich auf die Nerven. Hier, für dich." Sie gibt dir drei Fläschchen. "Für deine Mühen. Und jetzt können wir meinen Teil des Geschäfts in die Wege leite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ich habe hier ein paar Sporen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Weggehen.] "Ich werde mich um sie kümmern und dann zurückkehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"In der Tat. Hervorragend. Gib mir mal einen her, dann gebe ich ihn in den Kessel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Die Mixtur ist fertig. Bring sie zu Aufra. Sag ihr, sie soll sie vor dem Einschlafen, denn sie wirkt einschläfernd. Am Morgen sollte sie sich dann vitaler fühlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Sag ihr, sie soll mehr Fisch essen. Käse auch. Der Trank wird für einen gesunden Appetit sorgen und sie kräftigen. Wenn ich mich recht erinnere, ist sie eine ziemlich zerbrechliche Frau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Wie versprochen habe ich alles in meiner Macht Stehende getan. Bitte bestelle Aufra meine besten Grüße."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Könnte ich deine Waren sehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Weggehen.] "Nein, momentan nichts. Ich gehe wieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Gewiss. Hier, bitte sehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Hast du etwas zum Verkauf?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Gewiss. Sieh dich um."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Sie betrachtet dich ruhig und ist offensichtlich gar nicht überrascht, dich hier in ihrem Lager am Rand des Wassers zu finden. "Bist du wegen Arzneien und Kunsthandwerk gekommen, oder möchtest du mit mir am Feuer sitzen?" Sie deutet auf den großen Kessel in der Nähe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Was macht der Xaurip denn da?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Wer, Tana?" "Er hilft mir beim Sammeln von Zutaten, behält den Kessel im Auge, so Sachen halt. Er hat mir hier ziemlich viel geholfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Der Xaurip lässt ein rasselndes Schnalzen los und fletscht die Zähne, was deiner Ansicht nach ein freundlicher Gesichtsausdruck sein soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Egal wieviel, behalte es. Münzen kann ich nicht gebrauchen. Stattdessen musst du etwas anderes für mich tun." Ranga deutet ins Landesinnere. "Im Nordosten gibt es einen Xaurip-Stamm, der von einem ihrer Priester angeführt wird. Vor einiger Zeit haben sie Tana ausgestoßen, und ihre Späher liegen bis heute hier auf der Lauer, um seinem Leben ein Ende zu setzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Eines Tages werde ich Vorräte holen gehen müssen und meinen Gehilfen bei meiner Rückkehr erschlagen vorfinden. Wie soll ich dann noch irgendjemand helfen?" Sie schüttelt den Kopf. "Wenn du diese Plage für mich beseitigst, werde ich alles in meiner Macht Stehende für Aufra tun. Und für dich wird auch etwas dabei sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"In jedem Falle ist es hier an der Küste, wo ich das Wasser hören kann, viel gemütlicher. Und von Zeit zu Zeit bekomme ich immer noch Besucher. Vielleicht kann ich dir ja mit etwas helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Moment - ich dachte, das wäre ein Heilmittel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Was ist denn überhaupt in diesem 'Trank'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Leiden des Körpers kann ich wohl versorgen, bei Gebrechen der Seele aber bin ich machtlos, vor allem, wenn die Götter dafür verantwortlich sind." Ranga verschränkt ihre Arme. "Ich habe es viele Male erklärt. Die Leute werden glauben, was ihnen gefällt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ich kann nicht alle meine Geheimnisse offenlegen." Ranga lächelt. "Ein paar Feuchtsporen, aber das weißt du ja schon. Sie werden ihre Seele stärken, und ihr die Energie zurückgeben, die sie ihr einst stahlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ranga, du bist nichts weiter als eine Scharlatanin!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Also lass sie glauben, vielleicht wird ihr das helfen. Der Glaube ist eine mächtige Angelegenheit. In der Zwischenzeit wird sie sich viel besser fühlen, und wenn das Vermächtnis ihr Kind nicht fordert, dann wird es gesund geboren werden. Das zumindest kann ich versprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Unsinn. Viele Jahre schon bin ich Hebamme. Was ich nicht bin, ist eine Wirkerin unmöglicher Wunder. Wenn du etwas gegen das Vermächtnis unternehmen möchtest, dann solltest du dich besser um Fürst Raedric kümmern, denn seine Bestrafung ist es, was diese Frauen zu mir treibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Er wird das Vermächtnis nicht heilen, das kann ich dir ganz frei heraus sagen. Leiden des Körpers kann ich wohl versorgen, aber bei Gebrechen der Seele bin ich machtlos, vor allem, wenn die Götter dafür verantwortlich sind." Ranga verschränkt ihre Arme. "Das habe ich auch erklärt, aber ... die Leute glauben, was ihnen gefällt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Weggehen.] "Also gut. Dann gehe ich besser mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Ich werde ihn zu ihr bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Ranga betrachtet dich einen Augenblick. "Du weißt natürlich, dass dies kein Heilmittel gegen das Vermächtnis ist? Leiden des Körpers kann ich wohl versorgen, aber bei Gebrechen der Seele bin ich machtlos, vor allem, wenn die Götter dafür verantwortlich sind." Ranga verschränkt ihre Arme. "Das habe ich auch erklärt, aber ... die Leute glauben, was ihnen gefällt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ranga, richtig?" Kana kichert. "Und von was bist du Ranga Nui, Cousin? Warum segelst du nicht nach Norden und schließt dich uns in Rauatai an?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Hast du dir da diesen Akzent angeeignet, Insulaner?" Ranga grinst. "Behalte dein Rauatai. Lieber wäre ich König dieser kleinen Insel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Hmmh. Mehr wie eine kleine Halbinsel, würde ich sagen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Hat sich herausgestellt, dass ich die Mixtur nicht mehr brauche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Ranga wirft dir einen misstrauischen Blick zu und zuckt dann mit den Achseln. "So soll es sein. Wenn du diese Xaurips für mich erledigt hast, werde ich dir trotzdem ein paar Tränke geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Eigentlich brauche ich die Mixtur gar nicht mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Gut. Ihre schwächlichen Versuche, uns zu überraschen, gingen mir wirklich auf die Nerven. Hier, für dich." Sie gibt dir drei Fläschchen. "Für deine Mühen. Gibt es sonst noch etwas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Ranga schaut dich einen Augenblick lang misstrauisch an, dann zuckt sie mit einer Achsel. "So soll es sein. Solltest du auf deinen Reisen ein paar Sporen sammeln, dann wisse, dass sie nützliche Zutaten sein können. Gibt es sonst noch etwas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Behalte es. Hat sich herausgestellt, dass ich sie nicht brauche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Was?" Ranga kneift die Augen misstrauisch zusammen. "Du hast mich all diese Arbeit umsonst machen lassen?" Sie schnaubt. "So soll es sein. Ich werde sie für jemand aufbewahren, der sie gebrauchen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ranga, Entschuldigung. Die Umstände haben sich geändert." Kana zieht eine Grimasse und schaut auf den Sand hinab. "Leider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Sie sind alle tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Wächter ... in ihren Worten klingt die Wahrheit. Ist es nicht besser, ihr Hoffnung zu geben? Und wenn solche Hoffnung ihr Kind stärken kann, dann ... sollte sollte nichts unversucht gelassen bleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Der Xaurip stößt mit herabhängendem Kopf ein rasselndes Krächzen aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>*Krächz?*</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Nein, Tana, deins macht mir gar nichts aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Falls es dir nichts ausmacht, dein Lager zu teilen ... ich könnte eine Rast gebrauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Nach all dem, was du für mich getan hast, bist du mir sehr willkommen. Schlafe ein wenig am Feuer, während ich die Gezeiten im Auge behalte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Ah. Noch mehr von Fürst Raedrics verängstigter Schar." Sie nickt langsam und lässt ihren Blick über dich gleiten. "Eine grausame Sache, die sie mir da schickt ... Die arme Aufra muss wirklich verzweifelt sein. Sie hat dir viele Münzen gegeben, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ah. Noch mehr von Fürst Raedrics verängstigter Schar." Sie nickt langsam. "Wie nett von dir, den ganzen Weg hierher zu kommen. Die arme Aufra muss ja völlig neben sich stehen. Sicherlich hat sie dir etwas als Bezahlung mitgegeben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

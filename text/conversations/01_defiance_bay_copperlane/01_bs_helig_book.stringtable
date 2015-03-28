@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_helig_book</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Heligs Tod war nicht gut für seine Handschrift. Die wie im Wahn niedergekritzelten Notizen beschreiben verschiedene Riten und Verfahren der Beseelung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das Amulett, das du bei Heligs Leiche gefunden hast, beginnt hell zu leuchten, als du dich dem Buch näherst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Nachdem du ein paar Seiten durchgeblättert hast, findest du ein hastig gezeichnetes Bild des Amuletts. Daneben stehen Notizen über das Verfahren, mit dessen Hilfe Helig Rowynas Seele in das Amulett gebannt hat - und es dadurch mit großer Macht getränkt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Das Buch untersuchen]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

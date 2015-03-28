@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_4\cp_qst_hunt_down_lka</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der flüchtige Mörder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise nach Zwillingsulmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Erhalte eine Audienz mit den Anamfatha in der Passage der Sechs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Suche in Zwillingsulmen nach Spuren von Thaos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Sprich in Teir Evron in Ulmenkap mit den Delemgan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Thaos hat den Duc und Fürstin Webb getötet und Trutzbucht ins Chaos gestürzt. Fürstin Webb sah aber, wohin er als nächstes gehen würde - in die Stadt Zwillingsulmen. Dorthin muss ich reisen, um ihn einzuholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich habe Fürstin Webbs letzte Augenblicke gesehen. Thaos hat sie in ihrem Bett getötet. Sie hat ihn jedoch dazu gebracht, zuzugeben, dass er auf dem Weg nach Zwillingsulmen war. Ob sie das wohl getan hat, weil ich wusste, dass ich es sehen würde?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Man sagte mir, dass Fremde über Herdlied hinaus keinen Zugang zur Stadt hätten. Ich muss mit dem vorsitzenden Anamenfath in der Passage der Sechs sprechen, um die Erlaubnis zu erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe Zwillingsulmen erreicht. Die Stadt hat ein Haupttor. Mit etwas Glück hat ihn jemand gesehen, als er es durchquert hat. Ich muss mich umhören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Anamenfath Bethwl hat mir Zugang zu den Bezirken Altlied und Ulmenkap gewährt. Sie schlug vor, dass ich mit den Delemgan-Schwestern in Ulmenkap spreche, in der Nähe eines Orts namens Teir Evron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Fremden ist es untersagt, weiter in das Innere der Stadt zu gehen. Sie sagten, Anamenfath Bethwl, die momentan der Passage der Sechs in der Mitte von Herdlied vorsteht, könnte mir Zugang zu den anderen Bezirken gewähren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Die Glanfathaner von Zwillingsulmen haben von einem rätselhaften Mann gehört, einem Fremden, der kürzlich in einen der verbotenen Bezirke der Stadt eingedrungen sei, Ulmenkap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Die Glanfathaner haben mir berichtet, dass ich die Delemgan-Schwestern unter den riesigen Bäumen von Zwillingsulmen finden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Anamenfath Bethwl ist tot. Da ich mich bezüglich Informationen über Thaos oder eine Genehmigung für freies Geleit in Zwillingsulmen nicht mehr auf sie verlassen kann, muss ich die Antworten selbst finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Anamenfath Bethwl ist tot. Da ich mich bezüglich Informationen über Thaos oder eine Genehmigung für freies Geleit in Zwillingsulmen nicht mehr auf sie verlassen kann, muss ich die Antworten selbst finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Die Delemgan-Schwestern haben mich nach Teir Evron geschickt, um dort um die Gunst der Götter zu bitten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

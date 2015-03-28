@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_calisca_background</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>297</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Und du stammst angeblich aus einer angesehenen Adelsfamilie, stimmt das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Das stimmt. Durch meine Adern fließt königliches Blut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ach ja? Und wie bist du dann hier gelandet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Jemand hat versucht, mich zu vergiften."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ist wohl ein Risiko deines Lebensstils. Du musstest es als Möglichkeit anerkennen, egal wie sehr du dir wünschtest, dass es anders sei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Calisca nimmt ihre Umgebung in sich auf. "Ist schon viel Zeit vergangen, seit ich das letzte Mal so war. Aber gefallen hat es mir immer."
+
+"Fürst Raedrics Angebot ... es bringt ein Mädchen zum Nachdenken, das muss ich ihm zugestehen. Und Du? Willst du dich hier wie alle anderen niederlassen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich werde mich hier niederlassen und ein neues Leben beginnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Naja, wer weiß das schon. Vielleicht werden letztendlich Nachbarn, wenn Raedric genug bezahlt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Egal, ich verschwende hier meine Zeit. Odema wird mich ganz schön zusammenstauchen. Lass uns aufbrechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Warum bist du hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Calisca seufzt ungleichmäßig. Ihre Augen suchen den Boden bei ihren Füßen ab.
+
+"Vor einer Weile ist meine Schwester hier hinaus gezogen. Sie schrieb mir einen Brief, und schien ... besorgt zu sein. Aber so ist sie schließlich immer.
+
+Dieses Mal aber bat sie mich, sie aufzusuchen, und das hat MICH etwas besorgt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich habe sie schon eine Ewigkeit nicht mehr gesehen - ich hatte in Ixamitl zu tun. 
+
+Und dennoch: Ich würde alles für sie tun, weil sie ... nun, sie ist eine viel bessere Frau als ich. Deswegen bin ich jetzt hier und wir werden sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich habe schon früher mit Odema gearbeitet. Normalerweise führt er keine Karawanen auf dieser Route, er tut es nur mir zuliebe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Erzähle mir etwas über dich selbst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Oh, ich habe geringe Ansprüche. Ich mag den freien Himmel und weite Horizonte. Ich suche mir immer Arbeit, bei der ich auf diese Weise leben kann."
+
+"Auch meine Familie ist auf Wanderschaft. Wir brachen im Dyrwald auf, meine Eltern aber zogen schließlich ins Land der Lebenden. Einer meiner Brüder lebt in Rauatai, ein anderer in Aedyr. Meine Schwester in Goldtal ist die einzige echte Stubenhockerin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Was kannst du mir über den Dyrwald sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Von Geschichte habe ich nicht viel Ahnung, aber ich weiß, dass er einst zum Aedyr-Reich gehörte. Nach einem Krieg vor ein paar Jahren hat er sich abgespalten. Die hiesigen Einheimischen sind ein ziemlich streitsüchtiger Haufen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich bin nicht ganz auf dem Laufenden gewesen, aber in letzter Zeit kamen mir seltsame Dinge darüber zu Ohren. Die Leute haben wohl Probleme, Kinder zu gebären. Und zwar viele Leute. Das geht jetzt schon seit Jahren so, aber irgendwie wird es immer schlimmer."
+
+Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine Schwester genauer darüber befragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"In Ordnung, dann lass uns mal ins Lager zurückgehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich an deiner Stelle würde mich nicht darauf verlassen, dass dir Sparfel irgendwann demnächst Wasser bringt. Er macht was er will und wann er will. Wir sollten ihn zuerst aufsuchen, und ihm ein bisschen Vernunft einbläuen. 
+
+Der Strom ist gleich da unten. Komm schon. Lass uns dein Wasser holen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich werde hier für eine Weile untertauchen und versuchen, nicht zu viel Aufmerksamkeit auf mich zu ziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Dann hast du dir den richtigen Ort ausgesucht. Goldtal ist mehrere Tagesreisen von jeglicher erntzunehmenden Zivilisation entfernt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Hoffentlich werde ich jemanden treffen und mich verlieben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ich will dich ja nicht verängstigen, aber so wie manche dieser Landeier aussehen, würde ich mir das an deiner Stelle nochmal überlegen. Die Zähne stehen ihnen reihenweise krumm und sie haben Haare an Stellen, an denen man es nicht erwarten würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Wahrscheinlich dieselben Dinge, die ich früher getan habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Dann wird wohl nur die Landschaft neu sein. Manchmal braucht man nicht mehr als das."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Eigentlich bin ich nur auf der Suche nach einem Abenteuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Du solltest dich einer Expedition anschließen. Manche der größeren Städte schicken regelmäßig Gruppen zu unbekannten Orten los. Sofern du nichts gegen ein bisschen Gefahr einzuwenden hast, wäre das für dich doch wie geschaffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"In Schwierigkeiten zu geraten, das erwarte ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ha! Dann bist du in das richtige Land gekommen. Hier wimmelt es überall vor Unruhestiftern. Für sie hat das was mit Stolz zu tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ich werde ein paar neue Freunde finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Das ist vielleicht gar keine schlechte Idee. Wenn man hier draußen überleben will, geht es weniger darum, was man weiß, sondern über wen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Oh, nirgendwo besonderes. Ich will nur so viel Zeit und Abstand wie möglich zwischen mich und mein altes Leben bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Angesichts der Tatsache, dass wir hier mitten im Nirgendwo sind, würde ich sagen, dass du dafür den richtigen Ort ausgewählt hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Stinkreich werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ah, ein Mann ganz nach meinem Geschmack. Auf dass du mehr Glück haben wirst als ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich werde weiter zur Stadt ziehen und sehen, wohin mich das bringt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Die nächste ist Trutzbucht, die Hauptstadt. Ein paar Tage weit weg. Wie in jeder anderen Stadt auch gibt es da ein paar schöne und ein paar nicht so schöne Ecken. Aber nach dem zu schließen, was man so hört, scheint der Duc ein guter Mann zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Wahrscheinlich werde ich ein Weilchen umherziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Das könnte ich nicht gegen dich halten. Mein halbes Leben bin ich unterwegs gewesen. Pass nur auf dich auf und entferne dich nicht zu weit von den Pfaden. Diese Lande sind wild, und nicht nur auf eine Weise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich habe keine Ahnung, was ich als nächstes tun werde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Absolut spontan, was? Interessant. Naja, wahrscheinlich ist es nicht besonders dringend, dass du es dir anders überlegst. In der Schänke in Goldtal kannst du bestimmt so lange unterkommen, wie du möchtest. Zumindest hat mir das meine Schwester erzählt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ich weiß, wie sich das anfühlt. So richtig kann man eigentlich niemandem trauen, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Das ist aber eine verdammte Pechsträhne. Vielleicht wird der Neuanfang die Dinge für dich zum Guten wenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Du musst tun, was notwendig ist, um zu überleben. Was soll denn noch von einem erwartet werden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Dann hast du aber viel auf dem Herzen. Hoffentlich läuft letztendlich alles gut für dich hinaus. Meiner Erfahrung nach ist das aber nicht immer der Fall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Naja, wir haben doch alle etwas, dass wir gerne zurücklassen würden. Ich jedenfalls schon, bei den Göttern, DAS kann ich dir sagen! Lass uns hoffen, dass sie uns niemals aufspüren werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Manche Dinge liegen einfach nicht in den Sternen und man kann sie auch nicht ändern. Da fragt man sich doch, ob uns die Götter nicht ABSICHTLICH in manche Situationen manövrieren, um sich anzusehen, wie wir damit umgehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Entschuldigung, aber du hast es wahrscheinlich nicht anders verdient. Man sagt, dass die Götter schon dafür sorgen, dass jeder seinen Teil abkriegt. Ich weiß nicht, ob ich das glauben soll, dich aber haben sie ganz schön übers Ohr gehauen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Dann war es für dich an der Zeit zum Weiterziehen. Bei mir passiert das ungefähr einmal wöchentlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Bestimmte eifersüchtige Familienmitglieder setzten meinem Vater einen Floh ins Ohr, worauf er mich enterbte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Meine Familie verlor ihre Macht. Manche hält man immer noch in Geiselhaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ich möchte nicht herrschen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Wir verbargen die Wahrheit über unsere Herkunft, letztendlich aber wurde sie aufgedeckt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Meine Familie fiel durch die Lügen eines Rivalen in Ungnade. Unser Ruf ist ruiniert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Egal, wieviel Status meine Familie erlangt, der Adel wird sie niemals mehr akzeptieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Unser Familienvermögen wird im Geheimen verprasst. Ich muss es wieder aufbauen, wo man mich nicht erkennt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Meine Familie betrachtet mich als Peinlichkeit und möchte nichts mit mir zu tun haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ich schäme mich wegen meiner Familie und würde gerne woanders sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Meine Schauspieltruppe löste sich auf, und die Situation eskalierte. Dabei wurden Dinge gesagt, die man nie mehr zurücknehmen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Es war schrecklich. Ich werde nie wieder vor meinem Heimpublikum auftreten können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Es gab einen Unfall, eine Tragödie. Ich bin nicht mehr willkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Der dortige Fürst füllte sich die Taschen mit skandalösen Steuern, und ich hatte nicht mehr genug für meinen Lebensunterhalt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Mein Meister war sehr kleinlich. Ich verlor meine Lehrstelle, und man stimmte dagegen, dass ich den Handel woanders betreibe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Einer meiner Rivalen sabotierte mich, wodurch mein Geschäft in den Ruin ging."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Niemand verstand meine Arbeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ich lebte in einem Armenviertel, und meine Arbeit wurde von Dieben gestohlen. Ich benutze mein letztes Geld dazu, diesem Ort zu entkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ich fühle mich nicht mehr inspiriert. Ich weiß nicht warum, aber ich habe das irgendwie eingebüßt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Dort gab es kein Glück zu finden, nur viel Arbeit ohne Lohn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Die Quellen des Reichtums waren versiegt. Ich kannte dort nur Mühsal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ich dachte, das wäre, was ich wollte. Letzten Endes stellte sich heraus, dass ich damit falsch lag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Die Leute, vor denen ich auf der Flucht war, fanden uns schließlich. Ich konnte fliehen, aber nicht alle hatten so viel Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Der Ort, an dem ich landete, war genau so schlecht wie der, den ich verlassen hatte. Wieder eine Sackgasse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Dort sah ich mir immerzu über meine Schulter. Ich musste einen neuen Ort finden, einen weiter entfernten Ort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Manche der Einheimischen nahmen unsere Bemühungen nicht einfach so hin. Sie brannten unsere Siedlung nieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ich habe dort einige Dinge getan, mit denen ich nur schwer leben kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Letztendlich hat uns das Land befriedet. Eine fürchterliche Krankheit. Hat die meisten von uns erledigt. Ich hatte Glück, dass mir noch die Flucht gelang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Wir verloren. Ich wurde aus meinem eigenen Heimatland verbannt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Wir gewannen den Krieg, aber die neue Regierung, für die wir unser Blut vergossen hatten, war noch viel schlimmer als die alte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Ich hatte genug von Krieg und Blutvergießen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Ich wurde verhaftet, aber mir gelang die Flucht. Einige alte Freunde schleusten mich hinaus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ich hinterging meinen Arbeitgeber, und mächtigere Arbeitgeber gibt es kaum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Sie gaben mir einen Auftrag, dessen Ausführung ich nicht über mich bringen konnte. Damit waren sie überhaupt nicht einverstanden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ich habe meine Zeit abgesessen, und wollte keine weitere Minute an diesen Ort erinnert werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ich kam frei. Soweit ich weiß suchen sie immer noch nach mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Man ließ mich frei. Ich sollte mich alle paar Tage melden, sonst würden sie mich wieder in die Zelle werfen. Das ist nur eine andere Art von Kerkerhaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ich brannte das Waisenhaus nieder und verschwand dort, solange ich noch konnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ich hatte noch nie einen Ort, den ich Zuhause nennen konnte. Bin immer noch auf der Suche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Ich bin ein selbstgemachtes Waisenkind. Meine Eltern haben das bekommen, was sie verdienten, und jetzt lasse ich all das hinter mir zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Schließlich aber kamen sie dahinter und verjagten mich aus der Stadt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ich glaube, es wurde mir einfach langweilig, Leute zu betrügen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Einer der Narren stellte sich als äußerst gefährliche und einflussreiche Person heraus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Sie glauben, dass ich etwas hätte, das ihnen gehört, etwas Schönes, das sie sich ziemlich entschlossen zurückholen wollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ich habe gefährliche Leute hintergangen und konnte nicht mehr bleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ich weiß nicht, warum sie nach mir suchen, und ich beabsichtige auch nicht, es herauszufinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Wir wurden auf hoher See von Piraten angegriffen. Dabei wurde unser Schiff zerstört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ich fand nicht, nach was ich gesucht hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Die See ist ein einsamer Ort, um dort sein Leben zu verbringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Es war ein rauer Ort zum Leben. Dort draußen war ich vom Tod umzingelt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Es war ein zu ruhiges Leben, ich war auf der Suche nach mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Plünderer zerstörten mein Zuhause und nahmen mir alles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Plündern und zerstören, mehr taten wir nicht. Dadurch wurde nichts erreicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Wenn man genügend Orte erobert, dauert es nicht lange, bis sie gegen dein Heimatland vorrücken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Ich konnte noch so extensiv plündern, meinen Blutdurst hat es nicht gestillt. Ich frage mich, ob irgendetwas dazu in der Lage ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Die Zivilisation kam und verdarb das Land."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Durch ein großes Feuer wurde alles vernichtet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Ich überzog ihre Duldung, worauf sie mich von meinem Land jagten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Wir gingen auf eine gefährliche Jagd. Ich wollte zuviel und wir waren nicht bereit dafür. Die meisten der anderen sind jetzt tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Ich habe mein Leben riskiert, dass viele Leute sicher in ihren Betten schlafen können, und niemand hat mir jemals auch nur dafür gedankt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Eine halbe Ewigkeit spürten wir einem Monster nach. Es zur Strecke zu bringen hätte uns berühmt gemacht. Als wir es fanden, war es schon lange eines natürlichen Todes gestorben. Danach gab es für uns keinen Grund zum Verweilen mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Wir hatten eine schlechte Jahreszeit, und viele von uns verhungerten. So etwas will ich nie wieder sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Wir hatten einen Unfall, und man machte mich für den Tod eines anderen Jägers verantwortlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Ich hatte gehofft, mehr mit meinem Leben zu erreichen. Mein Entscheidung, sie zu verlassen, beschämte mein Dorf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Größere Schiffe schöpften alle Fische ab, die es zu fangen gab. Es galt: entweder weggehen oder verhungern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Mein Schiff ging während eines großen Sturms unter. Es war alles, was ich hatte. Ich musste wieder ganz neu anfangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Zuhause hatte ich eine Familie. Alle hingen von mir ab, und ich hatte nur den Wunsch, frei von ihnen zu sein. Also ging ich eines Tages einfach fort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Mein Meister war ein neidischer Mensch. Sobald ich meine Lehre abgeschlossen hatte, kümmerte er sich darum, dass ich ihm niemals zum Konkurrenten geraten könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Mein Meister starb mitten während meiner Ausbildung. Danach gab es dort nichts mehr für mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"An diesem Ort konnte ich meine Fähigkeiten nicht entfalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ich machte einen Fehler bei meinen Planungen, und eins meiner Gebäude kollabierte. Das war das Ende meiner kurzen Karriere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Ich erlernte das Handeln, als die Zeiten gut waren. Nun, da die Zeiten schlecht sind, hat niemand mehr Verwendung für mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Mein Geschäftspartner setzte sich mit meinem Geld ab und stieg seinerseits ins Geschäft ein. All die Leute, die ich für loyal hielt, hatten andere Vorstellungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Ich arbeitete für ein unausstehliches Arschloch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Ich spie in das Essen eines Adligen und er reagierte darauf, indem er mein Leben ruinierte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Ich hatte eine Affäre mit der Ehefrau eines reichen Mannes, der daraufhin ein Kopfgeld auf mich aussetzte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Ich hatte eine Affäre mit dem Ehemann einer reichen Frau, die daraufhin ein Kopfgeld auf mich aussetzte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Meine Fähigkeiten waren in dieser Küche viel zu lange dahingewelkt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Ich kämpfte für die falsche Seite. Die Erinnerung brauchte ich gar nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ich kämpfte neben Leuten, die viel besser waren als ich, aber aus irgendeinem Grund habe nur ich überlebt. Das kann ich einfach nicht verwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Ich kenne nur den Krieg. Vielleicht ist dies mein Ausweg, vielleicht ist es nur der Weg in den nächsten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Für etwas anderes war ich nie gut zu gebrauchen, aber ich muss dorthin gehen, wo es bezahlte Arbeit gibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Ich habe hohe Schulden bei jemandem, dem man eigentlich nichts schulden möchte. Ich muss sie irgendwie zurückzahlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Lass es mich so sagen: Ich genieße Zuhause nicht unbedingt den besten Ruf, hier aber bin ich anonym."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Ich bin mit jemandem in eine Kneipenschlägerei geraten, der die Freizeit und die Ressourcen hat, um mich den Rest meines Lebens dafür zu bestrafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Einer meiner Aufträge ist schiefgegangen, es gab einige Tode, die unnötig waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Ich habe einen Auftrag angenommen, von dem ich besser die Finger gelassen hätte. Mir wurde erst klar, dass mich alle dafür hassen würden, als ich ihn schon ausgeführt hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Ich hatte einfach genug davon. Es war an der Zeit, ein ruhigeres Leben zu führen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Eine Gruppe Briganten überwältigte uns und eroberte die Stadt. Dort herrscht jetzt ihr 'Gesetz'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Viele Kupferstücke waren damit nicht zu verdienen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Egal was ich tat, immer noch kamen Leute zu Schaden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Ein Konkurrent verriet mich an die Behörden, aber ich konnte der Verhaftung entgehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Man legte mich herein und ich transportierte etwas, was ich sonst niemals getan hätte. In solch eine Position werde ich mich nie mehr manövrieren lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Beim Abschluss eines Geschäfts wurde ich hintergangen. Sie haben sich mit dem ganzen Geld davongemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Wir wurden von Freibeutern angegriffen. Sie eroberten unser Schiff und setzten uns auf hoher See zum Sterben aus. Ich habe es geschafft, dabei aber die Lust auf diese Art von Leben verloren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Ich wurde im Rahmen einer Meuterei ausgesetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Ich hatte mit meinen Vorgesetzten eine heftige Auseinandersetzung über die Führungsweise des Schiffes. Sie haben sich meiner entledigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Mein Geschäft wurde von Banditen angegriffen, und sie nahmen alles mit, für das ich gearbeitet hatte. Zu bleiben machte nicht mehr viel Sinn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Ich war nicht gut in meiner Arbeit. Ich führte das Geschäft in den Ruin, und die Männer, die es finanziert hatten, sorgten dafür, dass ich keine weitere Chance bekommen werde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Die Konkurrenz warb Männer an, um mein Geschäft zu zerstören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Ich bin inzwischen der Meinung, dass Theologie eher gelebt als studiert werden muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"All die Dinge, die wir immer noch nicht über die Götter und die Geschicke der Welt wissen, haben mich desillusioniert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Ich fand einige provokative Dinge, die meine Kollegen in Schwierigkeiten brachten. Sie brachten mich in Verruf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Ich hatte eine Vision, dich mich hierher schickte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Manche Leute versuchten, mich für ihre eigenen Zwecke zu missbrauchen. Ich brauche Anonymität."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Ich wurde der Ketzerei beschuldigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Ich wählte die falsche Art von Leben. Ich gab alles auf, um auf falschen Wegen zu wandeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Ich verliebte mich. Ich begann, alles zu überdenken. Und dann zerbrach die Beziehung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Ich lernte dort, soviel ich konnte. Es war an der Zeit, die Welt zu erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Ich kam hierher, um meine Theorien in die Praxis umzusetzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Mir wurde klar, dass alles nur eine gigantische Zeitverschwendung gewesen war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Es frustrierte mich, dass es anscheinend keinen Weg gab, irgendetwas davon zu beweisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Ich hatte eine Affäre mit einer Schüler, und dann wurde ich von dem Schüler UND meinem Ehemann sitzengelassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Ich hatte eine Affäre mit einer Schülerin, und dann wurde ich von der Schülerin UND meiner Ehefrau sitzengelassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ich lebte in einer Stadt voller Schwachsinniger, die sich nicht um meine Lehren kümmerten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Ich dachte immer, dass ich mehr erreichen könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Die Religiösen verfolgten mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"An nichts zu glauben stellte sich als unfassbar langweilig heraus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Warum denn irgendetwas tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Calisca kneift die Augen zusammen. "Oh nein, oh nein! Du wirst mich nicht in die schwarze Leere deiner Verzweiflung mit hineinziehen. Wir werden über ein normales Thema sprechen - ob es dir gefällt oder nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Als ich ihn brauchte, war mein Gott nicht für mich da."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Ich beging eine schreckliche, unentschuldbare Gotteslästerung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Es gab da gewisse Eide, mit denen ich nicht leben konnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Zuhause schien niemand meinen Predigten zuzuhören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Es kam zu ... Verabredungen mit ergebenen Mitgliedern meiner Gemeinde, die dann begannen, sich untereinander auszutauschen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Die Stadt, in der ich meinen Glauben praktizierte, wurde geplündert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Mir wurde klar, dass der Glaube allein nicht die Antwort auf die Gebete der Leute war, denen ich helfen sollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Ich wurde von denen im Stich gelassen, die vermeintlich meine Überzeugungen teilten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Ich hoffe, meinen Glauben im Ausland verbreiten zu können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Sie fanden heraus, dass ich alles nur erfunden hatte. Mir blieb keine andere Wahl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Zu viele Leute wissen über mein Schauspiel Bescheid. Ich muss zu einem Ort gehen, wo mich niemand kennt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Ich bin nicht stolz auf meine Taten. Das hier ist ein neuer Anfang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Ich bin ein gesuchter Mann. Wenn sie mich nochmal beim Stehlen erwischten, würden sie mich hängen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Mein Partnerin hinterging mich bei einem Auftrag. Sie bekam das Geld, ich die Schuld in die Schuhe geschoben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Ich stahl von der Art von Leuten, die weder vergibt oder vergisst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Ich verliebte mich in eine Person, die ich niemals haben könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Ich hinterging einige meiner Schiffskameraden, worauf sie mich über Bord warfen. Ich überlebte nur mit viel Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Schließlich begannen Regierungen damit, uns ihre Schiffe hinterher zu schicken, und wir wurden versenkt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Sagen wir einfach, dass ich nicht mehr in der Gunst meines Kapitäns stehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Bei dieser Art von Arbeit werden viele Leute umgebracht, die es meistens nicht verdient haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Die Leute, mit denen ich mich zusammengetan hatte, waren Kleingeister. Ich aber habe Größeres im Sinn, und dazu brauche ich bessere Leute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Wir zogen die Aufmerksamkeit der Armee auf uns, und wir hatten keine Chance gegen sie. Wir lösten uns auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Unser Schiff erlitt Schiffbruch. Die meisten von uns wurden von ihren Ketten in die Tiefe gezogen. Ich dagegen hatte Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Wir verschworen uns gegen unsere Herren. Als sich die Gelegenheit ergab, übernahm wir das Schiff und ließen sie über die Planke gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Jemand hat mich aus der Sklaverei herausgekauft. Das ist etwas, das ich niemals zurückzahlen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Ich lief davon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Die örtlichen Gesetze änderten sich, worauf man uns die Freiheit schenkte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Ich tötete meinen Herren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Ich habe lange Zeit dafür gebraucht, aber nun ist meine Schuld beglichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Wir wurden von Invasoren befreit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Ich floh. Musste meine Familie zurücklassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Ich wollte mit eigenen Augen sehen, was ich nur in Textform kannte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Ich beschloss, dass es besser sei, Teil der Geschichte zu sein, als nur darüber zu lesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Mir wurde klar, dass Geschichte immer aus einem bestimmten Blickwinkel geschrieben wird. Das wirklich Geschehene herauszufinden ist unmöglich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Ich traf eine schlechte Entscheidung und wurde dafür ausgeschlossen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Sie wollten mir nicht die Freiheit gewähren, das zu studieren, was ich wollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Es war reine Zeitverschwendung. Meine Lehrer waren Kräuterhexen, ihre Lektionen simple Zaubertricks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Ich brach ein paar Regeln, wofür sie mich ausschlossen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Ich hatte genug darüber gelernt, um zu wissen, dass ich damit nichts zu tun haben wollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Ich tötete einen anderen Studenten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Ich stellte meine Lehrer in den Schatten. Es gab nichts mehr, das ich in einer Schule hätte lernen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Ich machte Fehler. Einige der Leute, die deswegen in Schwierigkeiten gerieten, waren nicht die richtigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Ich stieß auf etwas, das ich nicht lösen konnte, und das bereitete mir mehr Schwierigkeiten, als ich gedacht hätte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Ich fand über jemanden, der mir viel bedeutete, mehr heraus, als mir lieb war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Im Laufe der Zeit sah ich die schrecklichen Dinge, die sie mit den Leben der Leuten anstellten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Bei meinen Transaktionen ging ich weniger scharfsinnig vor und wurde von den Behörden ertappt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Meine Konkurrenz hat mich aus dem Geschäft gekegelt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Die Alchemie ist gefährlich. Ein Unfall kostete mich fast das Leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Mein Lehrer war ein Betrüger, der die Leute um ihr hartverdientes Geld brachte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Ich fand sie beschränkt. Ihre Geheimnisse waren nicht die Geheimnisse, für die ich Antworten haben wollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Nur für manche. Unsere Titel waren gekauft, nicht geerbt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Es ist wahr, meine Familie hat einigen Einfluss in der Elite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Das geht dich nichts an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Calisca zuckt mit den Achseln. "Wie du willst. Ich kann dich ja schlecht dazu zwingen, eine Persönlichkeit zu haben, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Die Leute sagen, du seist eine Art Künstler. Stimmt das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Eigentlich eher ein Darsteller."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Ich verdiente mir meinen Lebensunterhalt als Handwerker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Ja, im traditionellen Sinne. Ich versuche das Leben so darzustellen, wie ich es wahrnehme ... etwas Neues zu schaffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Odema sagte, du seist eine Art Kolonist gewesen, bevor du hierher gekommen bist. Wenn das stimmt, dann bist du hier genau richtig - das ganze Land besteht aus einem Haufen Kolonisten. Dir scheint das Leben an der Grenze ja zu gefallen, was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Dort, wo ich war, gab es ein Vermögen zu machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Es geschah nicht absichtlich, ich floh vor der Verfolgung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Ich war dort, um das Land zu befrieden - und die dortigen Einheimischen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Ich weiß aus guter Quelle, dass du eine Art Unruhestifter bist. Oder dass du zumindest in deinem alten Leben einer warst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Für einige war ich das. Ich kämpfte für eine Rebellion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Das könnte man so behaupten. Eine Zeit lang diente ich als Spion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Das ist der Grund, weshalb sie mich in den Kerker warfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Für den Rest der Karawane bist du eine Art Geheimnis. Nach dem, was ich so höre, bist du nur sowas wie eine Nomadin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Die Art von Ding, das meistens mit Waisen geschieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Sicher. Ich spaziere in die Leben von Narren, schwatze ihnen ihr Geld ab und ziehe mich dann wieder zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Muss man auch sein, wenn Leute nach einem suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Odema sagt, dass du einige interessante Reisen bestritten hättest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"In die Wasserregionen dieser Welt. Ich war ein Seefahrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Eine Zeit lang lebten ich weit draußen an einer Grenze."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Interessant ist schwerlich ein passender Begriff. Ich segelte mit kaltblütigen Eroberern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Wie ich höre, bist du ein ziemlich guter Jäger. Sag das bloß nicht Sparfel, sonst wird er dich bis nach Goldtal beschwafeln, um dir weiszumachen, wie viel besser er ist als du."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Ich habe lange Zeit alleine in der Wildnis gelebt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Für meinen Lebensunterhalt machte ich Jagd auf Monster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"In meinem Dorf war ich für das Jagen und Sammeln verantwortlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Eigentlich war ich ein Fischer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Odema sagt, du seist ein Mann der Arbeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Und noch dazu der schweren Arbeit. Ich war ein Schmied."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Das stimmt. Ich verdiente mir meinen Lebensunterhalt als Bauarbeiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Gewissermaßen. Ich war ein Koch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Du siehst so aus, als wärst du schon in vielen Kämpfen gestanden. Was hast du getan, bevor du hier heraus kamst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Ich bin ein Kriegsveteran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Ich verdingte mich als Söldner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Ich schloss mich Abenteuern und Expeditionen an - für was halt gerade gezahlt wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Ich war ein Wachmann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Odema sagte etwas von wegen dass du selbst im Geschäft wärst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Ich transportierte Dinge, die meine Auftraggeber geheimhalten wollten. Waren, Leute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Ich stand am Steuerrad von Frachtschiffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Ich führte ein Geschäft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Ich habe gehört, dass du ziemlich spirituell wärst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Ich habe meine Zeit mit dem Studium der Theologie verbracht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Ab und zu habe ich Visionen, die mich auf meinem Weg leiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Spiritualität war mein Leben, ich war ein Asket."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Die Karawanenteilnehmer sagten, dass du mit ihnen allerlei tiefgründige Gespräche geführt hättest. Was ist dein Standpunkt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Früher verbrachte ich viel Zeit damit, über Gut und Böse, Richtig und Falsch nachzudenken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Es gehört zu meiner Natur. Bevor ich hierher kam, war ich ein Lehrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Ich glaube an gar nichts, und ich habe viel Zeit damit verbracht, die Überzeugungen anderer anzufechten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Also bist du ein heiliger Mann."</DefaultText>
+      <FemaleText>"Also bist du eine heilige Frau."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Ja, früher. Ich habe das alles zurückgelassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Einst stand ich einer Gemeinde vor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Ich war ein Missionar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Eigentlich nicht. Das ist nur eine Lüge, die ich den Leute erzähle, damit ich sie manipulieren kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Ich will dich ja nicht beleidigen, aber ich kenne genügend gefährliche Leute, und du erinnerst mich an einen von ihnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Ich war dafür bekannt, bestimmte, zu wenig geschätzte Wertgegenstände aus den Heimen ihrer Besitzer zu befreien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Auf See wärst du nur ungern auf mich getroffen, glaub mir. Wir enterten und plünderten Schiffe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"In meinem alten Leben war ich ein Wegelagerer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Also was hat ein Sklave im Freien Palatinat des Dyrwalds zu suchen? Diese Spuren auf deinem Rücken kommen wohl nur schwerlich von Liebkosungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Ich ruderte auf einer Hochseegaleere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Ich arbeitete auf einem großen landwirtschaftlichen Anwesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Ich war ein Schuldknecht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Die Leute im Lager sagen sich, du würdest enormes Wissen verbergen. Welche Bereiche hast du studiert, bevor du hierher kamst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Ich war ein Historiker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Alle arkanen Angelegenheiten interessierten mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Ich studierte den Krieg und den Kampf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Nach dem, was ich so höre, bist du eine Art Wissenschaftler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Ich lernte, es zum Aufdecken von Verbrechen zu nutzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Es herrscht große Nachfrage nach bewusstseinsverändernden Substanzen. Um dieser Anfrage zu entsprechen, kommt man mit ein bisschen Wissenschaft sehr weit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Ich habe viel Zeit damit verbracht, das von der Alchemie in Aussicht gestellte Wissen zu verfolgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Es ist ein Angebot, das man sich nur schwer entgehen lassen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Nein, ich bin nur auf der Durchreise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Ich hatte nicht viel darüber nachgedacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Hierzulande wirst du nicht viele derartige Angebote bekommen, glaub mir. Hast du einen großen Plan in der Hinterhand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Das ist normalerweise bei der großen Stadt der Fall, die nur ein bisschen weiter die Straße hoch liegt. Wohin bist du unterwegs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Damit ist kein Schaden verbunden. Man könnte den Ort auch zuerst besuchen." 
+
+"Da du hierher gekommen bist, musst du einen anderen Plan im Sinn haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Irgendwo, wo ich etwas Geld machen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

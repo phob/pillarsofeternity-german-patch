@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_rhanet</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Du siehst aus wie ein Jäger, Estramor. Derwns Waffen beschützen vielleicht den Mann, der das Missgeschick sucht - aber meine Waren helfen dir, in der Wildnis zu überleben."</DefaultText>
+      <FemaleText>"Du siehst aus wie eine Jägerin, Estramor. Derwns Waffen beschützen vielleicht die Frau, der das Missgeschick sucht - aber meine Waren helfen dir, in der Wildnis zu überleben."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Eine klug platzierte Falle kann das Blatt jeder Jagd wenden. Das weiß ich gewiss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Darf ich deine Waren sehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Rhanet nickt und deutet mit einer ausladenden Geste auf seine Waren.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

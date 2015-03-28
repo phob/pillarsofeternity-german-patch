@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_1\cp_qst_cilant_lis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Ruinen von Cilant Lîs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Entkomme aus dem Ruinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Erreiche Goldtal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich bin dem merkwürdigen, tödlichen Wind, der durch das Tal gewütet ist, knapp entkommen. Jetzt aber bin ich in den uralten Ruinen gefangen, von denen uns der Karawanenmeister deutlich gewarnt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich werde einen Weg durch die Ruinen finden müssen, um mich in Sicherheit zu bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe einen Weg aus den Ruinen gefunden. Hoffentlich kann ich irgendwo hier die Straße - und den Weg nach Goldtal - finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Gut möglich, dass ich hier nicht alleine bin. Vielleicht kann ich irgendeine Waffe finden ... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Heodan muss rasten. Vielleicht gibt es irgendwo in den Ruinen einen ruhigeren Ort, wo wir ein Lager aufschlagen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich bin auf eine Gruppe merkwürdiger, verhüllter Gestalten getroffen, die sich um eine Art Maschine versammelt hatten. Ein weiterer Mann dort sprach rituelle Worte - war er ihr Anführer? Mittlerweile ist er gegangen, die anderen aber blockieren den Weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Heodan muss rasten. Vielleicht gibt es irgendwo in den Ruinen einen ruhigen Ort, wo wir ein Lager aufschlagen können. Calisca ist dagegen der Ansicht, dass wir weiterziehen sollten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Heodan hat nicht überlebt. Anscheinend müssen Calisca und ich alleine weitergehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Meine Gefährten von der Karawane haben nicht überlebt. Ich werde alleine einen Weg aus den Ruinen finden müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Calisca hat nicht überlebt. Anscheinend müssen Heodan und ich alleine weitergehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich habe einen Abschnitt mit Fliesen erreicht, auf denen sich seltsame Symbole befinden. Vielleicht gibt es in der Nähe Hinweise über ihre Bedeutung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich bin aus den Ruinen entkommen. Hoffentlich kann ich irgendwo hier die Straße - und den Weg nach Goldtal - finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

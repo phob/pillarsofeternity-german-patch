@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_cv_machine_ending</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mit deinen Gefährten als Augenzeugen begibst du dich auf die Stelle, wo vor langer Zeit Thaos vor seinen Leuten stand. Die große Maschine liegt untätig und betriebsbereit vor dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du hast diese Maschine und andere wie sie im Betrieb gesehen. Du verstehst ihre Funktionsweise. Es ist ein Apparat zum Umleiten von Seelen. 
+
+Für einen Wächter wäre es ein Leichtes, die Umleitungsrichtung zu beeinflussen, doch angesichts der Größe der Maschine könnte es das Letzte sein, das du tust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du begibst dich auf die Stelle, wo vor langer Zeit Thaos vor seinen Leuten stand. Die große Maschine liegt ruhend und betriebsbereit vor dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Sprich den Befehl zur Aktivierung der Maschine aus.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Noch nicht.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Abermals stehst du vor der großen engwithanischen Maschine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Als sich alte Zahnräder lockern und zu drehen beginnen, hörst du ein kreischendes Mahlgeräusch von Stein auf Stein. 
+
+Dir bleiben nur Sekunden, bevor die Seelen in die Adra-Ader geschickt werden. Dies ist deine einzige Chance, sie umzuleiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Die Seelen zurück in den Reinkarnationskreislauf schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Die Seelen zurück in die vorgesehenen Körper leiten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Die Seelen entropisch auflösen und ihre Existenz beenden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Die Essenz auf im Dyrwald existierende Seelen verteilen, um sie zu stärken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Den Seelen gestatten, durch die Ader zurück zu Woedica zu gelangen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Die Seelen zu einem unbekannten Ort zerstreuen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du schließt deine Augen und erweiterst deine Wahrnehmung nach außen. Du nimmst die immense Gesamtheit zehntausender Seelen auf, die um die Kammer kreisen. Du hast die Seelen kaum im Griff. Bevor es dir bewusst wird, musst zu kämpfen, um sie alle unter deinem Einfluss zu behalten, und als die Maschine an Geschwindigkeit zunimmt, kannst du spüren, wie sie deinem Griff entgleiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Einen kurzen Moment lang fühlt es sich so an, als hättest du sie alle gleichzeitig im Griff, und ihre Kraft ist derart stark, dass sie dich zu zerreißen droht.
+
+In diesem Moment widmest du dein ganzes Wesen der Änderung ihres Umlaufs und lenkst ihren Fluss in eine neue Richtung ... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

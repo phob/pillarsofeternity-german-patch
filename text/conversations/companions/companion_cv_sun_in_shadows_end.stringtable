@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_sun_in_shadows_end</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"[Player Name], was mit ihnen geschieht, das können wir eigentlich nicht kontrollieren, und versuchen sollten wir das auch nicht. Um das zu verstehen, musste ich erst dieses Monster Thaos sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"So viele Hoffnungen und Träume, die alle aus dem Zyklus gerissen und ... Wael weiß wie lange gefangen waren!"
+
+Hiravias kratzt sich am Kinn und betrachtet dich von oben bis unten. "[Player Name], jetzt ist deine Chance gekommen, sie zu befreien. Stell dir nur vor, wie viele neue Leben und Reisen just in diesem Moment beginnen könnten - all das liegt nun in deinen Händen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Egal, was war, ganz gleich, welche Geheimnisse uns hierher führten ... Du kannst deine ganz eigene Bedeutung aus all dem ziehen." Kana lächelt schwach. "Lass uns dasselbe tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Wenn man sich vorstellt, dass die Entscheidungen, die die Engwithaner vor tausenden Jahren getroffen haben, unsere Leben heute noch immer formen ..." Sie schüttelt den Kopf. "Es wäre eine Schande, diesen Seelen die Chance zu verwehren, ihren eigenen Weg und ihre eigene Bestimmung zu finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Wir sollten den Dyrwald stärken. Sie haben genug gelitten." Sie seufzt. "Ich weiß, dass die Ducs den Dyrwald schwach halten wollen, aber es wird die Republiken auf mehrere Generationen hin schwächen. Ich weiß, dass dies am besten für uns ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Trauernde Mutter schließt die Augen und nickt dir einmal kurz zu. "Es war mir eine Ehre, mit dir zu reisen ... und dabei zu helfen, den Dyrwald von Thaos' bösen Taten zu säubern."
+
+Die Glocken an ihren Handgelenken klingen, als sie die Finger wringt. "Und nun steht du vor einer weiteren Entscheidung. Bitte, Wächter - bringe diese Seelen zurück in ihre Zuhause, zu ihren Familien. Gib den Leuten die Erinnerung an die Heilung, die auf das Vermächtnis folgte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Bank Node 10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"[Player Name], das übersteigt uns beide. Die Gewissheit der Götter ist eine Gnade. Sieh nur, wie Thaos unter der Last seiner eigenen Situation zerschmettert wurde." Er richtet seinen Blick auf dich. "Das ist nicht etwas, was ich anderen wünschen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"All diese Ideen darüber, wer wir sind, was uns formt ..." Sie schüttelt den Kopf. "Nichts davon spielt doch eine Rolle, oder?" Und dennoch: Könnten wir diese gebrochenen Familien heilen, würde unsere Reise dann nicht etwas wert sein?" Itumaak leckt ihre Finger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Es ist wirklich bitter, so weit gekommen zu sein, nur um herauszufinden, dass alles umsonst war. Irgendwie finde ich nicht, dass wir mit unserem Wissen auch nur ein bisschen besser dran sind." Sie starrt die Adra-Säule reumütig an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Hiravias gibt dir mit einem strahlenden Lächeln einen Klaps auf die Seite. "Gut gemacht, [Player Name]. Nimm dir nur einen Augenblick, um den Sieg auszukosten - du hast dir diesen Augenblick verdient. Außerdem hast du das Recht gewonnen, diese Seelen, solltest du es wünschen, zum Stärken der Lebenden zu benutzen. Ein wahrer Jäger verschafft dem gesamten Stamm Stärke und Nahrung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Unsere Suche hat uns hierher geführt, eine Jagd nach der Wahrheit, mit einer Zugkraft wie das Schicksal selbst." Vielleicht haben Mysterien ja doch etwas." Kana schaut dich an. "Aber es ist deine Entscheidung, mein Freund."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"[Player Name], nach all dem, was wir gesehen haben ... wäre es nicht grausam, wenn wir zu ihren früheren Existenzen zurückbringen würden? Wir haben ja gesehen, welche Antworten auf sie warten. Welche Bestimmung können sie schon finden, wenn es keine gibt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Du Ducs würden den Dyrwald gerne schwach halten, damit wir den Handel mit den Glanfathanern übernehmen können." Sie scheint im Zwiespalt zu stehen, nickt aber schließlich resigniert. "Ich muss Vertrauen in ihr Urteil haben. Die Seelen der Entropie zu übergeben, ist der beste Weg." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Die Trauernde Mutter schließt die Augen und nickt dir einmal kurz zu. "Es war mir eine Ehre, mit dir zu reisen ... und dabei zu helfen, den Dyrwald von Thaos' bösen Taten zu säubern."
+
+Die Glocken an ihren Handgelenken klingen, als sie die Finger wringt. "Und doch ... wenn wir uns von diesem Vermächtnis befreien wollen, musst du zunächst die Seelen befreien, die er gefangen hat. Seine Arbeit kann nicht ungeschehen gemacht werden ... diese Seelen an gebrochene Leben zu ketten wird sie nur verlängern."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

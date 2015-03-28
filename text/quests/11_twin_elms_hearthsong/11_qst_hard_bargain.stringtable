@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\11_twin_elms_hearthsong\11_qst_hard_bargain</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Harte Verhandlungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sprich mit Alarhî auf dem Markt von Herdlied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Gib das Geld Rinatto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Überzeuge Rinatto, Zwillingsulmen zu verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Sage Alarhî, dass du dich um Rinatto gekümmert hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Finde Alarhî in ihrem Haus im Bezirk Herdlied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Nimm Alarhî das Geld von Rinatto ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich bin in Herdlied einem zornigen vailianischen Kaufmann namens Rinatto begegnet. Wie es scheint, hat er für viel Geld Elardh Golah gekauft, eine Pflanze mit aphrodisierender Wirkung, die tief in den Dschungeln von Eir Glanfath gesammelt wird. Allerdings ist er überzeugt, dass Alarhî, die glanfathanische Kräuterkundlerin, ihm wertlose Ware verkauft hat. Rinatto hat vor, sein Geld zurückzuholen - mit allen Mitteln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Rinatto hat mir berichtet, dass ihm Alarhî, eine Händlerin auf dem Markt von Herdlied, Elardh Golan von schlechter Qualität verkauft hat. Ich sollte mit dieser Glanfathanerin sprechen und sie überzeugen, dem Vailianer sein Kupfer zurückzugeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe das Geld zurückgeholt, das Rinatto Alarhî für das Elardh Golan bezahlt hatte. Ich sollte Rinatto in Herdlied aufsuchen, beim Aufzug zum Himmlischen Bäumchen, und ihm das Geld geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Alarhî behauptet, der Vailianer habe das Elardh Golan zum Eigengebrauch gekauft, nicht zum Weiterverkauf - und habe sie öffentlich beleidigt, nachdem er bemerkt habe, dass die Kräuter ihm nicht helfen können.
+
+Die Glanfathaner sind aber auf anhaltenden Handel angewiesen und wollen eine direkte Konfrontation mit Rinatto vermeiden. Alarhî glaubt, dass der Vailianer freiwillig geht, wenn ich ihm damit drohe, er werde wegen des Handels mit engwithanischen Relikten angeklagt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Sage Alarhî, dass du dich um Rinatto gekümmert hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Iŵen, Alarhîs Lehrling, hat mir berichtet, dass die Kräuterkundlerin sich in ihrem Haus im Bezirk Herdlied befindet. Ich sollte Alarhî dort aufsuchen, wenn ich sie zur Rede stellen will, weil sie Rinatto um sein Geld gebracht hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>In Alarhîs Haus in Herdlied entschied ich, sie zu bekämpfen und mir Rinattos Geld mit Gewalt zu nehmen. Ich sollte das Geld aus ihrem Beutel nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Alarhî hat den Markt von Herdlied verlassen, vielleicht, weil sie erfahren hat, dass Rinatto mich beauftragt hat, sein Geld zurückzuholen. Ich sollte herausfinden, wohin die Kräuterkundlerin geflohen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Iŵen hat mir berichtet, dass Alarhî in einem Haus am Nordrand von Herdlied lebt, am Ende der Treppe, die vom Marktplatz nach oben führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe Alarhî in ihrem Haus in Herdlied gefunden. Sie ist von glanfathanischen Kriegern umgeben, die offenbar bereit sind, sie um jeden Preis zu verteidigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich konnte Rinattos Geld von Alarhî zurückholen, der glanfathanischen Kauffrau, die ihm ein gefälschtes Aphrodisiakum verkauft hat. Ich habe Rinatto das Geld gebracht. Er hat mir angeboten, mir als Dank für seine Mühen seine besonderen Waren zu verkaufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe beschlossen, Alarhi dabei zu helfen, Rinatto loszuwerden - und habe den vailianischen Kaufmann konfrontiert. Er ist unter dem Druck zusammengebrochen und hat die glanfathanische Stadt überstürzt verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe beschlossen, Alarhi zu helfen - und habe den vailianischen Kaufmann konfrontiert. Rinatto ist tot, er wird den Glanfathanern keinen Ärger mehr machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Alarhî und Rinatto sind tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_defiance_bay_coppleane\01_qst_mercenaries_for_hire</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Bronze unter dem See</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Triff dich in den Waldend-Ebenen mit den Riesentötern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Betritt über die Sturmwallschlucht die Ruinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde die Waffen von Lhe a Rhemen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Bringe die Waffen zu Wenan in der Expeditionshalle in Kupferweg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Wenan fürchtet, dass die Schmelztiegelritter etwas im Schilde führen, und sucht nach mächtigen Waffen, um sich gegen sie zu verteidigen. Er hat mich gebeten, in den Ruinen von Lhe a Rhemen mächtige engwithanische Waffen zu finden.
+
+Eine Gruppe von Abenteurern, die sich Bynes Riesentöter nennt, wurde bereits ausgesandt, war jedoch nicht erfolgreich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Laut Wenan konnten die Riesentöter keinen Weg in die Ruinen finden. Ich soll sie in ihrem Lager in den Waldend-Ebenen aufsuchen und herausfinden, ob sie etwas Nützliches über die Ruinen in Erfahrung gebracht haben, die in der Sturmwallschlucht im Osten liegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Die Riesentöter haben etwas gefunden, was sie für einen "Schlüssel" aus Adra halten, der die Ruinen in der Sturmwallschlucht östlich der Waldend-Ebenen öffnet. Sie konnten aber nicht herausfinden, wie man ihn verwendet. Nun, da ich ihn habe, kann ich mein Glück versuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Wenn Wenan Recht hat, enthalten die Ruinen von Lhe a Rhemen ein Lager mächtiger Waffen. Ich werde sie sicher erkennen, wenn ich sie sehe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe die antiken Waffen gefunden, nach denen Wenan in Lhe a Rhemen suchte. Sie sind nicht unbedingt das, was ich erwartet hätte.
+
+Sie sind so mitgenommen, dass sie sich nicht mehr restaurieren lassen, und sie scheinen die Überbleibsel einer Art Seelenenergie zu enthalten. Ich kann Wenan all das in der Expeditionshalle erklären.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Die Riesentöter haben erwähnt, dass in der Sturmwallschlucht mehr Patrouillen der Schmelztiegelritter unterwegs seien als gewöhnlich. Ich muss vorsichtig sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe einen Speer gefunden, der noch in makellosem Zustand ist. Eine Waffe ist vielleicht nicht genug, um Wenans Interesse zu wecken, aber ich könnte sie möglicherweise mit meiner eigenen Essenz tränken und behalten. Vor langer, langer Zeit scheint jemand in diesen Ruinen genau das getan zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die engwithanischen Waffen für Wenan beschafft, aber ich musste dabei eine Patrouille der Schmelztiegelritter töten. Zumindest konnte ich das Vertrauen der Dutzenden gewinnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe die engwithanischen Waffen für Wenan beschafft, aber ich musste dabei eine Patrouille der Schmelztiegelritter und die Riesentöter töten. Zumindest konnte ich das Vertrauen der Dutzenden gewinnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Wenan ist tot. ich weiß nicht, wer sonst noch Interesse an den engwithanischen Waffen haben könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

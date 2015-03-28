@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_ridai</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>62</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als er spürt, dass du dich näherst, beendet ein aufgeregter elfischer Jäger plötzlich sein Gespräch und wendet sich zu dir um. "Hast du in deiner dreckigen Heimat denn keine Manieren beigebracht bekommen?" Ein roter Streifen Farbe glänzt, feucht von Schweiß, von Wangenknochen zu Wangenknochen. "Wir sprechen über glanfathanische Angelegenheiten. Verschwinde!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rîdaî wendet sich dir zu, sein blutroter Streifen Kriegsbemalung vor Zorn verzerrt. "Ja, Estramor ... Wir sprechen noch immer über das Schicksal meines Bruders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Du bist zurück." Er blickt auf die Jägerin in der Gruppe. "Wir hoffen, du hast die Wahrheit über das Schicksal meines Bruders ergründet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich bin bereit, mich der Wahrheit zu stellen. Lass die Anamenfath nicht warten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Estramor, ich habe Worte mit dir zu wechseln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Was ist mit deinem Bruder geschehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Erzähl mir von deinem Stamm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Auf Wiedersehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Mein Bruder." Der schwere Atem des Jägers stockt kurz. "Mein Bruder Fîorm ist der größte Jäger unseres Stammes. Er ist zu einer Blutjagd aufgebrochen, ist aber nicht zurückgekehrt. Und nun sagt Arthwn, dieser widerwärtige Lügner! Er sagt, mein Bruder ... " Rîdaî ballt die Fäuste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich verspreche nichts, aber wenn ich etwas herausfinde, lasse ich es dich wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich habe meine Aufgabe abgeschlossen - es ist an der Zeit, mit den Anamenfath zu sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Rîdaî zögert einen Augenblick. Er wischt sich den Schweiß vom Gesicht. Rote Farbspuren bleiben auf seinen Händen zurück. "Ich bin bereit, die Wahrheit mit den Anamenfath zu teilen." Er schaut hoch. "Und ich sorge dafür, dass auch Arthwn das ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich habe nichts mit dir zu teilen, Estramor. Deine Wahrheit war genug ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>" ... Mein Bruder, vor Schmach geflohen? Ich glaube kein Wort!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Arthwn lügt! Das sage ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Rîdaî blickt grimmig drein. Seine Kriegsbemalung krümmt sich wie eine entzündete Wunde. "Im Exil! Verstoßen! Aus Schmach! Weil er während der Blutjagd gegen ihn verloren habe! Kann man ihm glauben, diesem ... Lügner?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Rîdaî starrt ins Leere. Er bricht das Schweigen mit ernster Stimme. "Ich bleibe hier und warte, bis die Anamfatha uns rufen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Als Estramor kann ich der Sache nachgehen, ohne Spannungen zwischen euren Stämmen zu riskieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich werde herausfinden, was mit deinem Bruder geschehen ist. Ich werde die Wahrheit ergründen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Was scheren mich deine albernen Sorgen? Ich habe in dieser Stadt wichtigere Dinge zu erledigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Rîdaî fixiert dich mit seinen Augen, zwei glühenden Kohlen über dem blutroten Streifen, der über sein Gesicht gemalt ist. "Estramor, ich erwarte keine Hilfe ... aber ich tue alles, um zu erfahren, was meinem Bruder widerfahren ist. Und um den Makel reinzuwaschen, den Arthwn über unseren Stamm gebracht hat." Er wirft sein Kinn nach hinten. "Alles ... Das sage ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Rîdaî dreht sich zu dir um. Seine harten Gesichtszüge zeigen keinerlei Emotionen. Er nickt. "Du hast Recht, das zu sagen. Die Anamfatha würden zuhören. Es gibt keine Verbindung zwischen dir und unseren Stämmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Rîdaîs harte Gesichtszüge werden vor Überraschung sanfter. "Du sprichst mit dem Geist eines glanfathanischen Jägers." Er nickt. "Die Anamfatha würden zuhören. Es gibt keine Verbindung zwischen dir und unseren Stämmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Rîdaîs höhnisches Grinsen verbiegt den geraden roten Streifen unter seinen Augen. "Wie typisch für die Estramorwn, sich für so erhaben und frei von jedem Tadel zu halten." Er atmet tief ein. "Wenn du so wichtig bist, dürfte es doch eine einfache Sache sein, das Schicksal meines Bruders in Erfahrung zu bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Rîdaî blickt weg und atmet tief durch, um nicht die Beherrschung zu verlieren. "Die Ahnen werden mir verzeihen, und meinem Bruder, wenn ich die Schande von seinem Namen reinwasche." Er blickt die Jägerin an. " ... und von dem Makel, den all das auf unseren Stamm gebracht hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Rîdaîs Stimme schwillt vor Stolz an und dämpft seinen Zorn vorübergehend. "Wir sind die Hüter der Steine." Er lässt den Namen im Raum widerhallen. "Wir sind der erste Stamm. Unsere Geschichte reicht zurück durch die Zeiten bis in die Zeit der Erbauer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Rîdaî, den Kopf zwischen zusammengesunkene Schultern gebeugt, blickt auf. Dünne Farbspuren fließen von dem Streifen unter seinen traurigen Augen hinab. "Mein Bruder ... wo er auch ist-" Der Jäger räuspert sich. "Er hätte dich voller Stolz Freund und Verwandten unseres Stammes genannt."</DefaultText>
+      <FemaleText>Rîdaî, den Kopf zwischen zusammengesunkene Schultern gebeugt, blickt auf. Dünne Farbspuren fließen von dem Streifen unter seinen traurigen Augen hinab. "Mein Bruder ... wo er auch ist-" Der Jäger räuspert sich. "Er hätte dich voller Stolz Freundin und Verwandte unseres Stammes genannt."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Die Jägerin in der Gruppe hebt ihre schwielige Hand. "Beruhige dein Herz, Rîdaî. Vergiss nicht, wo du stehst." Sie teilt ihre feinen goldenen Haarsträhnen, die vor ihrem Gesicht schweben, und nickt dir zu. "Im Haus unserer Ahnen, und der sechs Stämme, sprechen wir als ein Volk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Rîdaî blickt weg. Die Jägerin sieht ihn an und wendet sich dann zu dir. "Wir wünschen dir alles Gute, Estramor. Wenn du wieder einmal mit uns Zwiesprache halten möchtest ... " Sie blickt zurück zu dem stolzen Jäger. "Wisse, dass wir deine Hilfe begrüßen würden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Die Elfenjägerin bricht das Schweigen. "Arthwn gehört zu einem anderen Stamm. Er ist der Jäger, der während der Blutjagd gegen Fîorm antrat." Sie blickt Rîdaî eiskalt an. "Arthwn behauptet, Fîorm habe sich selbst verstoßen und entschieden, nicht nach Zwillingsulmen zurückzukehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Die Jägerin nickt. "Wir sind eins mit der Vergangenheit, mit unseren Traditionen und unserer Geschichte. Die beste Handwerks- und Jagdkunst stammt von unseren eigenen Leuten. Andere Stämme blicken zu uns auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Sie verzehren sich vor Neid." Rîdaî runzelt die Stirn. "Deswegen verbreitet Arthwn Lügen über meinen Bruder! Sein Stamm hat keine Geschichte, keinen Ruhm. Aber nun beansprucht er ihn für die Zweimal Gespalteten Pfeile, während wir falsche Schmach ertragen müssen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Wie willst du Fîorms Namen reinwaschen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Eine Schweißperle rollt Rîdaîs Stirn hinab und hängt von seinem rot bemalten Wangenknochen wie ein Blutstropfen. Sie zittert, als die Muskeln des Jägers zucken. "Ich kann hier nicht zaudern, so lange das Schicksal meines Bruders nicht bekannt ist. Die Anamfatha müssen mich gehen lassen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Auch, wenn Arthwn mit dem Reißzahn des riesigen Stelgaer als Beweis zurückgekehrt ist - es ist schwer zu glauben, dass es Fîorm nicht gelungen sein soll, die Beute zuerst zu erlegen." Die Jägerin gräbt ihre Fersen in die dunkle Erde ein. "Aber das kannst du noch nicht sagen, Rîdaî. Nicht, bis die Anamfatha die Wahrheit beurteilt haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Arthwn ist schwach! Er gehört zu einem niederen Stamm!" Rîdaî fletscht die Zähne. "Er lügt! Ich werde die Wahrheit in Erfahrung bringen und den Namen meines Bruders reinwaschen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Mein Bruder ist verschwunden, nachdem er mit Arthwn zu einer Blutjagd aufgebrochen ist. Dieser Schwächling von Jäger kam alleine zurück und behauptet, Fîorm habe sich freiwillig ins Exil begeben, aus Schmach, weil er bei der Jagd verloren habe. Lügen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Um über Arthwn zu urteilen und den Namen unseres Stammes reinzuwaschen können sie nicht allein deine Wahrheit hören." Die Jägern senkt den Kopf und blickt dich an. "Vor den Anamfatha kann nur eine unvoreingenommene Stimme berichten, was geschehen ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Rîdaî wischt sich den Nacken ab. Der Schweißtropfen, der an seinem Wangenknochen hing, fliegt in deine Richtung. "Du willst einen Fremden miteinbeziehen? Einen Estramor?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Sie deutet auf ihn, ihr schwieliger Finger wie eine Kralle gebogen. "Hör mir zu. Arthwn ist zurückgekehrt. Mit einem Beweis! Dein Bruder ist nicht einmal zurückgekommen." Die Jägerin pustet gegen die dünnen Haare, die vor ihrem Gesicht schweben. "Die Stämme sind gespalten. Es muss etwas getan werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Du hast eine Blutjagd erwähnt. Was ist das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Mit einer Blutjagd beweisen wir, dass wir würdig sind. Wir ziehen aus, um eine Beute zu jagen, immer eine gefährliche Kreatur. Und nur einer tötet die Beute zuerst ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Die Elfenjägerin unterbricht mit einem angestrengten Seufzen. "Ja, aber wir jagen als Paar, um eine Verbindung aufzubauen, als Glanfathaner, als Einheit, nicht als Feinde. Zwei Jäger, zwei Stämme, ein Geist. Das ist unsere Natur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Rîdaî reagiert mit einem grimmigen Gesichtsausdruck. "Es ist nicht unsere Natur zu lügen! Wir verraten unsere Brüder und Schwestern nicht zu unserem eigenen Vorteil!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Die Blutjagd zwischen deinem Bruder und Arthwn hat die Einheit unserer Stämme durchbrochen, Rîdaî. Bohre nicht in dieser Wunde herum, bis du die Wahrheit für dich beanspruchen kannst." Sie wendet sich wieder dir zu. "Vielleicht erscheinen dir unsere Bräuche seltsam. Doch trotz allem, was du heute siehst, sind uns Glanfathanern unsere Verbindungen heilig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Die Jägerin nickt dir zu. "Fîorm und Arthwn sind in den Wald der Nordlandschaft gezogen, jenseits des Altlied-Passes, um einen riesigen Stelgaer zu jagen. Suche dort und kehre mit der Wahrheit zu uns zurück, wenn du es vermagst. Doch sei auf der Hut. Stelgaer von dieser Größe, um ein Vielfaches größer als ihre kleineren Verwandten, scharen meist eine großes Rudel um sich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Die Elfenjägerin nickt. Die feinen Strähnen goldener Haare, die ihr Gesicht wie ein Schleier bedecken, bewegen sich leicht, als sie spricht. "Du hast den Makel von unserem Namen gewaschen. Unsere Geschichte wird sich an deine Tat erinnern." Sie wendet sich Rîdaî zu. "Aber du sollst mehr haben als unsere Erinnerung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Er wickelt aus einem Lederbündel einen langen Speer aus. Sein hölzerner Schaft spiegelt das Licht wider, als bestünde er aus poliertem Stein. Eine gezackte Klinge krönt die Spitze. Sie strahlt funkelnd. "Er gehörte immer den Hütern des Steins. Nun soll deine Hand ihn führen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Danke, Freund. Gehe mit sicheren Schritten, auf dass wir uns wieder begegnen." Die Gruppe von Jägern verneigt sich, bevor sie davongeht - mit aufrechtem Haupt und neu gewonnenem Stolz. Das Gewicht und die handwerkliche Perfektion des Speers in deiner Hand lässt keinen Zweifel - ein Geschenk, das der Besten von Eir Glanfath würdig ist.</DefaultText>
+      <FemaleText>"Danke, Freundin. Gehe mit sicheren Schritten, auf dass wir uns wieder begegnen." Die Gruppe von Jägern verneigt sich, bevor sie davongeht - mit aufrechtem Haupt und neu gewonnenem Stolz. Das Gewicht und die handwerkliche Perfektion des Speers in deiner Hand lässt keinen Zweifel - ein Geschenk, das der Besten von Eir Glanfath würdig ist.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Vielleicht weiß ich schon etwas. Ich gebe dir Bescheid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Warum sollte Arthwn lügen, was deinen Bruder angeht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Rîdaî wirft die Arme in die Luft. "Warum?!" Er blickt dich an, als wäre die Antwort offensichtlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Rîdaî, bitte, zügle deinen Zorn. Er kennt unsere Bräuche nicht." Die Jägerin wendet sich zu dir und nickt. "Arthwn hat viel zu gewinnen, indem er einen Sieg über Fîorm für sich beansprucht. Er würde seinem Volk, dem niederen Stamm der Zweimal Gespaltenen Pfeile, Ruhm und Ehre einbringen."</DefaultText>
+      <FemaleText>"Rîdaî, bitte, zügle deinen Zorn. Sie kennt unsere Bräue nicht." Die Jägerin wendet sich zu dir und nickt. "Arthwn hat viel zu gewinnen, indem er einen Sieg über Fîorm für sich beansprucht. Er würde seinem Volk, dem niederen Stamm der Zweimal Gespaltenen Pfeile, Ruhm und Ehre einbringen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Arthwn hat keine Geschichte, keinen Namen. Und nun kehrt er als Held zurück, während mein Bruder ... " Rîdaîs Gesicht wird zu einer Maske des Zorns. "Hereingelegt, vielleicht noch Schlimmeres!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Was hast du gesehen? Wo ist Fîorm?" Rîdaî macht einen Schritt nach vorne. "Sag es mir!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Rîdaî!" Die Jägerin hält ihre Hand zwischen dich und ihren Begleiter. "Die Wahrheit gehört uns allen, selbst Arthwn. Das weißt du."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Sie deutet auf ihn, ihr schwieliger Finger wie eine Kralle gebogen. "Hör mir zu. Arthwn ist zurückgekehrt. Mit einem Beweis! Dein Bruder ist nicht einmal zurückgekommen." Die Jägerin pustet gegen die dünnen Haare, die vor ihrem Gesicht schweben. "Die Stämme sind gespalten. Es muss etwas getan werden."
+
+Sie blickt dich an. "Und er ist dafür bekannt, die Wahrheit zu sagen."</DefaultText>
+      <FemaleText>Sie deutet auf ihn, ihr schwieliger Finger wie eine Kralle gebogen. "Hör mir zu. Arthwn ist zurückgekehrt. Mit einem Beweis! Dein Bruder ist nicht einmal zurückgekommen." Die Jägerin pustet gegen die dünnen Haare, die vor ihrem Gesicht schweben. "Die Stämme sind gespalten. Es muss etwas getan werden."
+
+Sie blickt dich an. "Und sie ist dafür bekannt, die Wahrheit zu sagen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Sie deutet auf ihn, ihr schwieliger Finger wie eine Kralle gebogen. "Hör mir zu. Arthwn ist zurückgekehrt. Mit einem Beweis! Dein Bruder ist nicht einmal zurückgekommen." Die Jägerin pustet gegen die dünnen Haare, die vor ihrem Gesicht schweben. "Die Stämme sind gespalten. Es muss etwas getan werden."
+
+Sie blickt dich an. "Doch seine Worte bewegen selbst Stein."</DefaultText>
+      <FemaleText>Sie deutet auf ihn, ihr schwieliger Finger wie eine Kralle gebogen. "Hör mir zu. Arthwn ist zurückgekehrt. Mit einem Beweis! Dein Bruder ist nicht einmal zurückgekommen." Die Jägerin pustet gegen die dünnen Haare, die vor ihrem Gesicht schweben. "Die Stämme sind gespalten. Es muss etwas getan werden."
+
+Sie blickt dich an. "Doch ihre Worte bewegen selbst Stein."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Sie deutet auf ihn, ihr schwieliger Finger wie eine Kralle gebogen. "Hör mir zu. Arthwn ist zurückgekehrt. Mit einem Beweis! Dein Bruder ist nicht einmal zurückgekommen." Die Jägerin pustet gegen die dünnen Haare, die vor ihrem Gesicht schweben. "Die Stämme sind gespalten. Es muss etwas getan werden."
+
+Sie blickt dich an. "Und er ist für Leidenschaft und Inbrunst bekannt. Eine solche Stimme könnte die Wahrheit selbst zu den Anamfatha tragen."</DefaultText>
+      <FemaleText>Sie deutet auf ihn, ihr schwieliger Finger wie eine Kralle gebogen. "Hör mir zu. Arthwn ist zurückgekehrt. Mit einem Beweis! Dein Bruder ist nicht einmal zurückgekommen." Die Jägerin pustet gegen die dünnen Haare, die vor ihrem Gesicht schweben. "Die Stämme sind gespalten. Es muss etwas getan werden."
+
+Sie blickt dich an. "Und sie ist für Leidenschaft und Inbrunst bekannt. Eine solche Stimme könnte die Wahrheit selbst zu den Anamfatha tragen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Sie deutet auf ihn, ihr schwieliger Finger wie eine Kralle gebogen. "Hör mir zu. Arthwn ist zurückgekehrt. Mit einem Beweis! Dein Bruder ist nicht einmal zurückgekommen." Die Jägerin pustet gegen die dünnen Haare, die vor ihrem Gesicht schweben. "Die Stämme sind gespalten. Es muss etwas getan werden."
+
+Sie blickt dich an. "Und er ist unter all unseren Völkern hier bekannt und angesehen."</DefaultText>
+      <FemaleText>Sie deutet auf ihn, ihr schwieliger Finger wie eine Kralle gebogen. "Hör mir zu. Arthwn ist zurückgekehrt. Mit einem Beweis! Dein Bruder ist nicht einmal zurückgekommen." Die Jägerin pustet gegen die dünnen Haare, die vor ihrem Gesicht schweben. "Die Stämme sind gespalten. Es muss etwas getan werden."
+
+Sie blickt dich an. "Und sie ist unter all unseren Völkern hier bekannt und angesehen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Sie deutet auf ihn, ihr schwieliger Finger wie eine Kralle gebogen. "Hör mir zu. Arthwn ist zurückgekehrt. Mit einem Beweis! Dein Bruder ist nicht einmal zurückgekommen." Die Jägerin pustet gegen die dünnen Haare, die vor ihrem Gesicht schweben. "Die Stämme sind gespalten. Es muss etwas getan werden."
+
+Sie blickt dich an. "Und er ist für seinen schnellen und klugen Verstand bekannt. Ein solcher Estramor könnte die Wahrheit selbst zu den Anamfatha tragen."</DefaultText>
+      <FemaleText>Sie deutet auf ihn, ihr schwieliger Finger wie eine Kralle gebogen. "Hör mir zu. Arthwn ist zurückgekehrt. Mit einem Beweis! Dein Bruder ist nicht einmal zurückgekommen." Die Jägerin pustet gegen die dünnen Haare, die vor ihrem Gesicht schweben. "Die Stämme sind gespalten. Es muss etwas getan werden."
+
+Sie blickt dich an. "Und sie ist für ihren schnellen und klugen Verstand bekannt. Ein solcher Estramor könnte die Wahrheit selbst zu den Anamfatha tragen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Der Jäger schaut weg, während Hohn unter seiner kalten Geringschätzung brodelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

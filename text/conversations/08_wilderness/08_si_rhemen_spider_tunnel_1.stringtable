@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_si_rhemen_spider_tunnel_1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser große Tunnel verschwindet unter dem Boden und führt dann weiter nach Osten. Er wird von einem Netz aus glitzernden, seildicken Fäden versperrt, unter denen du vielleicht hindurchrutschen kannst.
+
+Die Wände unter dem Netz fühlen sich schwach und brüchig an. Mit dem richtigen Werkzeug kannst du den Durchgang vielleicht erweitern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Den Tunnel mit Hammer und Meißel erweitern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Das Netz durchbrechen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Als du einen Gang freilegst, gräbt sich die nadelspitze Stimme wieder in deinen Schädel. "Eindringen, verfolgen! Du bekommst es nicht." Du hörst ein hungriges Rascheln. "Jetzt. Fresst."
+
+Krabbelnde Kreaturen mit mahlenden Mundwerkzeugen strömen aus den Wänden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Klebrige Netzfäden baumeln vom Tunneleingang herab. Der Gang ist jetzt passierbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[[Slot 0] das Netz entfernen lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du betrachtest die dicken, klebrigen Fäden. Sie lassen sich nur mit beträchtlicher Kraft durchtrennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[[Slot 1] das Netz entfernen lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[[Slot 2] das Netz entfernen lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[[Slot 3] das Netz entfernen lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[[Slot 4] das Netz entfernen lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[[Slot 5] das Netz entfernen lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Slot 0] durchtrennt das schwere Netz durch Hacken und Schlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Slot 0] versucht, die Spinnenseide zu durchtrennen, kann die dicken Schichten jedoch nicht durchbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Nicht versuchen, das Netz zu entfernen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Slot 1] durchtrennt das schwere Netz durch Hacken und Schlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Slot 1] versucht, die Spinnenseide zu durchtrennen, kann die dicken Schichten jedoch nicht durchbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Slot 2] durchtrennt das schwere Netz durch Hacken und Schlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Slot 2] versucht, die Spinnenseide zu durchtrennen, kann die dicken Schichten jedoch nicht durchbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Slot 3] durchtrennt das schwere Netz durch Hacken und Schlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Slot 3] versucht, die Spinnenseide zu durchtrennen, kann die dicken Schichten jedoch nicht durchbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Slot 4] durchtrennt das schwere Netz durch Hacken und Schlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Slot 4] versucht, die Spinnenseide zu durchtrennen, kann die dicken Schichten jedoch nicht durchbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Slot 5] durchtrennt das schwere Netz durch Hacken und Schlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Slot 5] versucht, die Spinnenseide zu durchtrennen, kann die dicken Schichten jedoch nicht durchbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du findest eine Schwachstelle im Felsen und hämmerst gegen die Wände des Gangs. Der brüchige Stein bröckelt ab. Nach wenigen Minuten hast du genügend Platz geschaffen, um durch den Tunnel zu schlüpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Das Netz selbst entfernen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du durchtrennst das schwere Netz durch Hacken und Schlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Du versuchst, die Spinnenseide zu durchtrennen, kannst die dicken Schichten jedoch nicht durchbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Den Tunnel betreten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Unter dem Netz durchkriechen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Du kriechst auf Händen und Knien langsam vorwärts. Das schleimige Netz klebt an deinem Rücken fest. Du kannst dich nur noch langsam und mühsam bewegen und brauchst all deine Kraft, um dich loszureißen.
+
+Als du schließlich aus dem Tunnel kriechst, bist du mit den dicken Fäden überzogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

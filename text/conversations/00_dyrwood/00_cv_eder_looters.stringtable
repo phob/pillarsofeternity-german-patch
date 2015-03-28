@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_cv_eder_looters</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Diese Gesichtsschmierer können diesen Ort ja nicht für immer bewachen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ruh dich etwas aus. Gleich morgen Früh gehen wir rein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Diese Ruinen sind beansprucht, mein Freund. Zieh besser weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Paeg, schau dir sein Amulett an." Er deutet auf Edér.
+
+"Eothasisch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Jungs, kein Grund, sich aufzuregen. Wir sind nur auf der Durchreise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Der Duc hat nur wegen des Vermächtnisses nicht genügend Mumm in den Knochen, euch alle abschlachten zu lassen. Die Götter wollen euren Tod."
+
+Er greift zu seinem Säbel.
+
+"Ich und Paeg aber haben während der Säuberungen unseren Teil beigetragen. Stimmt doch, Paeg, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Edér ist außer sich vor Wut. Er öffnet seinen Mund um etwas zu sagen, schließt ihn dann aber wieder. Schnell weicht ein höfliches Lächeln seinem Stirnrunzeln.
+
+"Den Körper haben wir tatsächlich niemals gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Na was haben wir denn da? Einen gottlosen Sack Scheiße. Vor uns steht ein verdammter Leichenhuldiger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Näherinnen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Mach du ruhig noch deine Witze. Kein Gott oder Heimatland wird dich rächen. Bei Magran, mit dir mache ich kurzen Prozess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Das hat mit den Göttern nichts zu tun, nur mit Ignoranz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Schwörst du immer auf deinen Gott, wenn du die Arbeit eines Teufels verrichtest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Magran findet großen Gefallen an Beharrlichkeit, nicht an Gemetzel. Säuberungen oder Exekutionen sind nicht Magrans Werk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Sicherlich möchten die Götter doch Frieden zwischen uns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Der Mann wirft seinen Kopf in den Nacken und lässt ein raues Lachen los.
+
+"Und welcher Teil einer Kriegsgöttin wünscht sich denn den Frieden? Na?"
+
+"Nein, mein Freund. Der Durst unserer Göttin wird nur durch das Blut unserer Feinde gestillt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Durance schnaubt. "Ist ein Feuer nicht zuallererst ein Werkzeug zum Auslöschen des Scheußlichen? Hmmh? ALLE von ihnen sind ihr Werk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Spielt eh keine Rolle mehr, für wen sie waren. Das Land ist nach den Säuberungen besser dran als vorher."
+
+"Vielleicht sollten wir gleich hier eine neue Säuberung beginnen." 
+
+Er macht seine Waffe bereit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Deine dämlichen Analogien und dein erfundenes Dogma kann die Weisheit der Schrift nicht ersetzen, der wir schon seit tausenden Jahren folgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"'Suche nicht, die Flamme zuzufügen, sondern vertraue ihr, denn ihre Weisheit trägt die Autorität der Prüfung.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Durance knurrt leise etwas vor sich hin, sagt aber nichts Hörbares. Er spuckt auf den Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Gutes Argument."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Das ist eine total verdrehte Interpretation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Kein Gott würde solche Taten billigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

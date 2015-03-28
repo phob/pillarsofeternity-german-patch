@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_stronghold\06_tsk_boss_xaurip</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld: Kriegshäuptling Iklak</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte Kriegshäuptling Iklak und nimm seinen Kopf an dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bringe den Kopf von Kriegshäuptling Iklak zu Oberwärter Fyrgen in Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Kriegshäuptling Iklak ist ein Xaurip-Anführer, der häufig im Talholz zu sehen ist. Die Einheimischen haben ein Kopfgeld auf ihn ausgesetzt, damit er sie nicht länger behelligt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Kriegshäuptling Iklak hat sein Lager im Talholz aufgeschlagen. Ich kann mir ein Kopfgeld verdienen, wenn ich ihn töte und seinen Kopf als Beweis bringe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe Kriegshäuptling Iklak getötet. Nun muss ich nur noch seinen Kopf zu Oberwärter Fyrgen bringen, um das Kopfgeld einzufordern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe das Kopfgeld für Kriegshäuptling Iklak eingefordert.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

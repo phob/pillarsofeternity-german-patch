@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_eder_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>104</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Dieser alte Wächter ... " Er schüttelt seinen Kopf und kichert. "Ich weiß nicht, was ich erwartet hatte, aber DAS bestimmt nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Du sagtest, du hättest einige Dinge, die du ihn gerne fragen würdest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Nee, es ... na ja, jetzt ist es mir ein bisschen peinlich. Ich habe nur eine dumme Idee in meinem Kopf, das ist alles. Ich weiß auch nicht, warum ich dachte, dass sie funktionieren könnte.
+
+Schon lustig, das ist vermutlich das erste Ding, das mir seit ... ach, ich weiß auch nicht .... das mir seit Jahren Hoffnung gemacht hat. Wenigstens konnte ich das für mich herausholen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Um was ging es?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Jetzt komm schon, ich mag keine Spannung!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Es gibt keinen Grund, sich zu schämen. Ich werde nicht über dich urteilen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Da du ihn eh in meiner Anwesenheit fragen wirst, kannst du es mir auch jetzt gleich erzählen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Er seufzt. "In Ordnung. Ist wohl nur gerecht, schließlich hast du mich zu ihm gebracht.
+
+Diese Gerüchte in Goldtal über meinen Bruder Woden. Darüber, wie er sich gegen uns wandte und für Waidwen kämpfte. Spuken schon seit einiger Zeit in meinen Gedanken herum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Warum hast du mich nicht um Hilfe gebeten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich glaube nicht, dass das so funktioniert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Du hast Recht, du solltest dich wirklich schämen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich glaube, weil ich dich nicht kannte. Es ist nicht leicht, einem Fremden zu vertrauen, der von sich behauptet, ein Wächter zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Natürlich kannte ich tief in meinem Inneren die Wahrheit. Ein Wächter kann keine Gedanken lesen."
+
+"Ich hatte wohl einfach diese Idee, und wie ich mich durch diese Idee fühlte, das wollte ich nicht verlieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Wenn ich wirklich etwas über meinen Bruder herausfinden wollte, sollte ich nicht mit den Wächtern beginnen, sondern mit Aufzeichnungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich dachte mir ... vielleicht wüsste dieser alte Wächter, wie mein Bruder gestorben ist, damit ich sehen konnte, ob es stimmt´. Als ob er ... ach, ich weiß nicht ... als ob er es in meiner Seele lesen könnte oder sowas. Unsere Verbindung nutzen."
+
+"Ich habe dir ja gesagt, dass es dumm war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Woden war sich immer sicher, was richtig war, und so handelte er auch. Eines Tages machte er sich auf, für den Dyrwald gegen einen Mann zu kämpfen, der behauptete, unser Gott zu sein. Deshalb wusste ich, dass auch ich das zu tun hatte. Es war richtig.
+
+Die Behauptungen zu hören, er sei im Kampf für Readceras gefallen, machten mir Sorgen. Nicht, dass er die falsche Seite gewählt hätte, sondern ich. Was Waidwen auf Lager hatte, erschien mir falsch, aber wenn er wirklich Eothas war ... " Er schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Und, warum machst du es dann nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Du hast fünfzehn Jahre gebraucht, um darauf zu kommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Du solltest dich darauf gefasst machen, dass es keine Aufzeichnungen über den Tod deines Bruders gibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Er lächelt. "Mir kam nie der Gedanken, einmal dort nachzusehen. Nicht bis du mir ein paar verrückte Dinge über Wächter in den Kopf gesetzt hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Dann wäre es mir wohl auch nicht schlechter ergangen, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Edér denkt einen Moment lang nach, während seine Lippen in eine Richtung zucken. Er hebt seine Augenbrauen. "Wenn es irgendwelche schriftlichen Aufzeichnungen darüber gibt, dann müssen sie sich in Trutzbucht befinden. Im dortigen Palast haben sie ein Archiv."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ich weiß, du hast schon viel für mich getan, aber wenn du es für angebracht hieltest, diesem Archiv mit mir einen Besuch abzustatten ... naja, du weißt schon."
+
+"Bei meinem Glück wird der Urkundsbeamte durchdrehen und versuchen, mich umzubringen. Ich glaube, mit dir an meiner Seite werde ich dort mehr Glück haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Das ist der Ort. Die letzte Schlacht meines großen Bruders."
+
+Edér überprüft die üppige Landschaft vor euch in allen Richtungen. Er presst seine Lippen zusammen.
+
+"Ich wünschte, ich könnte dir sagen, nach was wir suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Wohl irgendein Überbleibsel der Schlacht. Irgendwas, was von fünfzehn Jahren Regen nicht beerdigt worden ist."
+
+Er sieht dich an. "Ruf mich zu dir, wenn du den Geist meines Bruders siehst, in Ordnung?" Er zwinkert dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"He, da drüben bei dem Boot ist etwas Metallisches im Boden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Nicht viel hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ich glaube, ich sehe- Nein, doch nicht. Egal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Hier drüben ist nichts. Nach der Schlacht haben sie wohl wirklich gut aufgeräumt. Das ist ... peinlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Hah, zu frisch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Sie hatten Recht, das WAR kurzer Prozess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Die Spitze eines metallischen Objekts ragt aus einem verwaschenen Haufen Flussschlamm heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Du umschließt es mit deiner Hand und ziehst es aus der nassen Erde. 
+
+Bei dem Objekt handelt es sich um einen stählernen, halbrunden Rahmen, der ungefähr so groß wie deine Faust ist. In gleichmäßigen Abständen ragen aus dem Halbrund gezackte Spitzen heraus, die wie die Zungen einer Flamme aussehen - die Strahlen einer aufgehenden Sonne.
+
+Im Mittelpunkt der Sonne befindet sich die eingravierte Silhouette einer Vorlas-Pflanze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Sowas habe ich schon mal gesehen. Sie werden auf der Spitze der Standarten von Readceras befestigt. Oder wenigstens war das so, als Waidwen noch am Leben war."
+
+Er nimmt dir den Gegenstand ab und betrachtet ihn, wobei er ihn in seiner Hand immer wieder umdreht. "Na ja, wenigstens etwas. Ich weiß nur nicht, was es mir bringen wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ich kann gut mit Objekten umgehen. Vielleicht kann ich etwas in Erfahrung bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Wir sollten es zu einem Experten bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Die Dunrydstraße sollte etwas damit anfangen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ein Medium sollte etwas damit anfangen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Er zuckt mit den Achseln. "Könnte gut sein. Dieses Objekt haben sicherlich viele Leute berührt. In den meisten Truppen ist der Posten des Standartenträgers sehr ehrenvoll, aber nach dem, was ich gehört habe, kämpften die Readceraner sogar darum. Ein gefährlicher Haufen."
+
+"Viel Hoffnung sollte ich nicht darauf verwenden, aber wir hatten wohl viel Glück, überhaupt etwas zu finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Er reicht dir das Schmuckstück.
+
+"Ich bin gespannt, was du sehen kannst."
+
+"Zieh dir aber nichts aus den Fingern, sonst könntest du eines Morgens mit Schlangen in deinem Bettzeug aufwachen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Dann heißt es wohl 'Zurück nach Trutzbucht', es sei denn, wir finden auf dem Rückweg noch die Knochen meines Bruders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Das wäre natürlich einfacher, wenn dein Freund Thaos nicht alle Medien umgebracht hätte, die wir kannten ... 
+
+In Zwillingsulmen sollte es trotzdem noch welche geben. Die Medien sind angeblich in diese Richtung aufgebrochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Du hältst die Stahlsonne und greifst dir mit deiner anderen Hand Edérs Hand, wobei du seinen unsicheren Blick ignorierst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Unter den lärmenden, unverschämten und ernsthaften Stimmen fällt dir eine auf, die zwar ein wenig heller als die von Edér ist, aber unverkennbar dieselbe Struktur hat.
+
+Du hast kein Bild vom Besitzer der Stimme, aber in den Spitzen und Kurven der Stahlsonne findet sich ein Abdruck seiner Reise, die sich in deinem Verstand wie ein Weg darstellt, der sich in südlicher Richtung nach Goldtal und in nördlicher Richtung über das unebene Gelände erstreckt, dass den Dyrwald mit Readceras verbindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Du verfolgst den Weg zurück zu seinem Ursprung. Dabei gehst du so weit zurück wie möglich und gleitest über Ebenen und Hänge zu einem Ein-Zimmer-Haus in Goldtal mit Strohdach und Erdboden. Der Weg ist hier schwach, und aufgrund seiner zeitlichen Entfernung sind die Bilder verschwommen und Einzelheiten sind kaum zu erkennen.
+
+Von Goldtal folgt er einer Straße zur Madhmr-Brücke, erreicht die Tore von Trutzbucht, bevor er abrupt in nördlicher Richtung abbiegt und auf der kürzesten Strecke nach Readceras führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Der Weg führt zu einer readceranischen Stadt, die majestätisch und streng im aedyranisch-kaiserlichen Stil gehalten ist. Er windet sich durch die Straßen und erklimmt prachtvolle Treppenstufen, die in ein stattliches Gebäude führen, wobei er auf dem Weg in einen vermeintlichen Thronsaal spitz zulaufende Torbögen durchquert.
+
+Auf dem Thron sitzt ein Mann, dessen Kopf aus reinem, blendenden Licht besteht ... und als er dir seinen Blick zuwendet, kannst du außer dem Licht nichts mehr sehen. Der Stimme wohnt die Wucht des Donners inne, aber in dem Abdruck, der aus Echos von Echos besteht, kannst du die Worte unmöglich verstehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Die Stimme und das Licht verblassen und der Weg kehrt um. Er führt dich eine Kaserne entlang und dann wieder nach Süden, wobei es auf dem Marsch in den Dyrwald immer wieder zu Scharmützeln kommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Auf einem Schlachtfeld ist der Abdruck sehr kräftig und du kannst eine readceranische Standarte sehen, auf der sich eine Stahlsonne befindet ... und die von den Händen eines gefallenen Soldaten umklammert werden.
+
+Du siehst einen jungen Mann mit Edérs strohfarbenem Haar auf die Standarte zurennen und sie aufheben. Der Weg, dem du gefolgt bist, ist unter seinen Füßen deutlich zu sehen, und als seine Hand die Stahlspitze streift, kannst du seine Gedanken hören, die sich in einem verschwommenen Durcheinander um seinen Gott, sein Land und einen Bruder drehen, von dem er hofft, dass er weit von diesem Ort entfernt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Ein Augenblick später sind die Gedanken wie auch der Mann selbst verschwunden, und die Standarte wird an einen anderen Soldaten weitergereicht. Du greifst den Weg wieder auf, als er sich nach Süden schlängelt und schließlich im Schatten von Clîaban Rilag verschwindet. 
+
+Du öffnest die Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Und? Du sahst so aus, als ob du dich wirklich sehr anstrengen würdest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Dein Bruder ist bis nach Trutzbucht gekommen, bevor er stattdessen nach Readceras gegangen ist. Dort hat er Waidwen getroffen, und dann hat er sich verpflichtet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Edérs Augen weiten sich. "Über was hat er mit Waidwen gesprochen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Waidwens Kopf war ein Lichtstrahl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ich weiß es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Lügen] "Waidwen sagte ihm, er solle an ihn glauben. Dein Bruder willigte ein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Habe ich mir gedacht. Woden und ich hatten genügend Geschichten über seinen Aufstieg gehört, um zu wissen, dass es sich nicht um eine Lügengeschichte handelte. Heißt aber nicht, dass er Eothas war. Hätte auch eine Art Zaubertrick sein können."
+
+"Wichtig ist das, worüber sie gesprochen haben. Was haben sie gesagt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Nein. Das macht keinen Sinn. Er hatte keinen Grund, Waidwen zu glauben."
+
+"Was ist dort passiert? Was hat er wirklich gesagt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Edér runzelt die Stirn. "Das ist nicht lustig. Ich bitte dich. Diese metallene Sonne. Mein Bruder hat sie berührt. Du hast gesehen, wohin er gegangen ist. Also, über was hat er mit Waidwen gesprochen? Warum hat mein Bruder für Readceras gekämpft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ich weiß es wirklich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ich wünschte, ich könnte dir etwas Besseres berichten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Bist du TAUB? Ich sagte, ich WEISS es nicht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Edérs Mund steht auf und seine Augen wirken glasig, seine Stirn ist zwischen den Augenbrauen in Falten gelegt. Er zieht seine Unterlippe hinter seine Zähne zurück.
+
+Seine Stimme ist kaum mehr als ein Flüstern.
+
+"Das war's wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Wir werden auf einem anderen Weg den Grund für seine Taten herausfinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Mehr als reine Spekulation war das eh nie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ich wusste, dass das reine Zeitverschwendung wäre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ich glaube nicht, dass wir das werden." Edérs Gesichtsausdruck ist jetzt leblos und trist wie Asche.
+
+"Was sollten wir denn tun? Nach weiteren Kriegsreliquien suchen? Wir hatten schon Glück, die eine zu finden.
+
+Die Soldaten, die an seiner Seite kämpften, sind schon lange tot. Die Schlacht war ein Massaker. Und egal was Eothas weiß, er spricht mit niemandem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Er nickt langsam und starrt in die Leere. Sein Gesichtsausdruck ist jetzt leblos und trist wie Asche.
+
+"Ach, wie lustig. Man kann sich das auf hundert verschiedene Arten sagen, aber letztendlich macht es doch keinen Unterschied."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Wir können jetzt gehen. Ich habe gesehen, was ich sehen musste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Hoffentlich erschien ich dir da hinten auf dem Schlachtfeld nicht undankbar. Du hast schließlich keine Mühen gescheut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Das habe ich bemerkt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Du hattest viel auf dem Herzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Das ist schon besser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Das war wichtig für dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Er lächelt reumütig. "Wir sind so nah gekommen, das hatte ich nicht erwartet. 
+
+Eine Sekunde lang dachte ich, dass ich endlich einige Antworten bekommen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Das war natürlich töricht. Warum sollte ich Antworten bekommen? Da draußen gibt es eine ganze Welt voller Eothasianer, die nicht wissen, ob man ihren Gott in die Luft gejagt hat.
+
+Trotzdem, man kann das Zurückblicken einfach nicht sein lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Edér starrt in die Ferne, auf irgendetwas Ungesehenes und Unerkanntes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Was würde dein Bruder wohl darüber zu sagen haben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Du hast getan, was du tun musstest. Selbst wenn Waidwen Eothas war, so handelte er doch zerstörerisch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Es scheint mir in der Tat, als hättest du deinen Glauben der falschen Seite geschenkt. Er hätte allen Einigkeit gebracht, wenn auch mit Gewalt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Dein Fehler bestand darin, dass du auf jemand anderen gewartet hast, um dir zu sagen, was richtig ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Edér scheint die Frage zu überraschen. Er denkt einen Augenblick lang nach.
+
+"Er würde zu mir sagen, ich solle ihm vertrauen."
+
+Er zieht eine Augenbraue in die Höhe, der ein Mundwinkel folgt. "Natürlich wäre es viel einfacher, würde ich seine Gedanken kennen. Aber vielleicht muss ich das nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Seine Taten schienen mir für einen Gott nicht rechtschaffen genug zu sein. Aus diesem Grund hielten Woden und ich ihn für einen Heuchler.
+
+Kam mir nicht in den Sinn, dass mein Gott tatsächlich den Seinen schaden wollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Ich glaube, hätte er gewonnen, wären viele Dinge besser geworden. Die Säuberungen hätten nie stattgefunden. Goldtal wäre heute ... anders. Die Bäume würden besser aussehen, das weiß ich bestimmt. Selbst meine Familie wäre vielleicht noch hier."
+
+"Vielleicht gäbe es sogar kein Vermächtnis. Wenn sie gewusst hätten, was sie erwartet, hätte es wohl eine lange Schlange kapitulationsbereiter Dyrwäldler gegeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Er denkt darüber nach und kneift die Augen zusammen.
+
+Er lacht. "Wenn ich es niemals genauer wissen werde, dann kann ich mir auch etwas aussuchen, was mir zusagt.
+
+Das Beste an der Huldigung eines toten Gottes ist das Ausbleiben von Bestrafungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Darüber könnte man wohl nachdenken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Er klatscht dir auf die Schulter. "Das solltest du wohl so gut wie alle anderen verstehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Dieser alte Wächter ... du hast ihn getroffen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Er hat den Verstand verloren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Alles?" Er blickt dich mit einem halb hoffnungsvollen Lächeln an.
+
+Nachdem er keine Antwort erhält, nickt er. Er erkennt die Wahrheit. "Das erklärt, warum wir seit einiger Zeit nichts von ihm gehört haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Du und Edér beginnen mit beiden Händen im Schlamm zu graben, bis ihr das Objekt freibekommen habt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Du beginnst mit beiden Händen im Schlamm zu graben, bis du das Objekt freibekommen habt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Du umschließt es mit deiner Hand und ziehst es aus der nassen Erde. 
+
+Bei dem Objekt handelt es sich um einen stählernen, halbrunden Rahmen, der ungefähr so groß wie deine Faust ist. In gleichmäßigen Abständen ragen aus dem Halbrund gezackte Spitzen heraus, die wie die Zungen einer Flamme aussehen - die Strahlen einer aufgehenden Sonne.
+
+Im Mittelpunkt der Sonne befindet sich die eingravierte Silhouette einer Vorlas-Pflanze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Der Trauernden Mutter zeigt] "Meinst du, dass du uns damit helfen kannst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Schau mal, ich finde es ja gut, dass du die Initiative ergreifst, aber ich glaube kaum, dass diese nette fremde Dame tatsächlich ein Medium ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Die Trauernde Mutter blickt dich an. "Ich werde tun, was ich kann. Aber wir brauchen die Fähigkeiten eines Wächters als Unterstützung meiner eigenen ... um die Seelen zu identifizieren, wenn ich ihre Spuren gefunden haben."
+
+Sie wendet sich mit ausgestreckter Hand Edér zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Edér reicht ihr die stählerne Sonne. Die Bewegung ist mechanisch, unbewusst.
+
+Die Trauernde Mutter nimmt die Sonne in eine Hand und deine in die andere. Du spürst sie in deinem Verstand, ihre Gedanken fordern dich auf, dich zu entspannen. "Konzentriere dich", sagt sie, und die Welt dröhnt und hallt wider wie in einer endlosen Schlucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Du schließt deine Augen und konzentrierst dich. Die Sonne strahlt vor deinem geistigen Auge, warm vom Puls der kollektiven Erfahrung und laut mit den Gedanken der Vergangenheit - über die Schlacht, über den Glauben, über die Heimat.
+
+Du treibst von Stimme zu Stimme, von Gedanke zu Gedanke. Edérs Seele ist dir dabei ein kräftiges Zeichen, dessen Abbild du suchst - seinen Bruder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Wir müssen nicht mehr hier warten. Ich habe, was ich brauchte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Er schaut Lady Webb an. "Mehr musste ich nicht wissen. Entschuldige, dass ich deine Zeit verschwendet habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Lady Webb sagt nichts. Sie nickt ihm mit gespitzten Lippen, aber nicht im Zorn, leicht zu. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Ich ... wünschte, ich hätte mehr hilfreicher sein können. Mein Beileid. Gegenstände enttäuschen und ebenso oft, wie sie uns zeigen, was wir wissen wollen."
+
+"Meine Akten sind voller Fälle, die im Sande verlaufen sind. An schlechten Tagen denke ich oft an Aufbruch, und daran, meine Fähigkeiten auf etwas weniger ... Verwirrendes anzuwenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Oh, würde es nur Worte geben, um solch Leere zu füllen ... oder besser noch, um ihm seine Zweifel, seine Fragen zu nehmen.
+
+Ich bereue es, dass meine Antworten seinen Schmerz nur noch vertieft haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Vielleicht habe ich meinem Gott den Rücken zugedreht, als er mich brauchte. Mehr als das werde ich niemals erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Ich ... wünschte, ich hätte hilfreicher sein können. Mein Beileid. Gegenstände enttäuschen uns ebenso oft, wie sie uns zeigen, was wir wissen wollen. 
+
+"Meine Akten sind voller Fälle, die im Sande verlaufen sind. An schlechten Tagen war ich oft versucht aufzugeben, meine Fähigkeiten auf etwas weniger ... Verwirrendes anzuwenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

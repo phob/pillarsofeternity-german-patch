@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\10_od_nua\10_tsk_cannibal_ogres</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Verzweifelte Maßnahmen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte Zolla, die Oger-Anführerin und bringe ihre zeremoniellen Wendelring zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bringe Thulgar den Wendelring zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein Ogerclan, der in einem Abschnitt der Endlosen Pfade von Od Nua gefangen ist, hat zum Überleben auf Kannibalismus zurückgegriffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Einer der Oger, auf den ich traf, zeigte sich gesprächsbereit. Thulgar behauptet, einer der wenigen - wenn nicht der einzige - Oger zu sein, der noch bei Verstand ist. Die anderen haben sich den Befehlen ihrer Anführerin Zolla gefügt, die - vom Hunger und sonderbaren Albträumen gleichermaßen in den Wahnsinn getrieben - zum Überleben auf Kannibalismus zurückgegriffen hat. Thulgar bat mich, etwas zu tun, was ihm nicht möglich ist: Zollas Leben auslöschen und damit dieser brutalen Existenz ein Ende setzen. Er bat mich, ihm zum Beweis ihren Wendelring zurückzubringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe die Oger-Anführerin Zolla erschlagen. Jetzt muss ich nur noch Thulgar berichten, dass es getan ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich informierte Thulgar, dass das düstere Werk vollbracht ist und Zolla nicht mehr lebt. Dadurch schien er einen gewissen Frieden gefunden zu haben, obwohl es ihn auch sehr mit Trauer erfüllte. Mit etwas Glück wird er weit weg von hier einen neuen Platz zum Leben finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich entschied, dass es kaum Sinn machte, einem menschenfressenden Oger zu helfen und setzte seinem Leben ein Ende.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich informierte Thulgar, dass das düstere Werk vollbracht ist und Zolla nicht mehr lebt. Dies schien ihn traurig zu stimmen, obwohl er auch erleichtert schien, dass die Angelegenheit nun erledigt war. Er beschloss, ihr früher oder später ins Nachleben zu folgen. Trotzdem dankte er mir für meine Unterstützung.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

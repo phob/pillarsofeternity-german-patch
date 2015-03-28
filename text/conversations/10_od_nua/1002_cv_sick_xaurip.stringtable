@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1002_cv_sick_xaurip</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser Xaurip liegt in einer Ecke der Kammer. Unter seiner schuppigen Haut zeichnen sich deutlich die Rippen ab und er atmet angestrengt. Jeder pfeifende Atemzug bereitet ihm offensichtlich Unbehagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Sagani blickt die Kreatur mit zusammengekniffenen Augen an. "Dieser hier ist krank. Siehst du, wie stumpf die Augen sind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Er scheint nicht auf deine Gegenwart zu reagieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Den Xaurip untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Dem Xaurip die Kehle durchschneiden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Ihn in Ruhe lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Der Xaurip gibt kaum ein Geräusch von sich - du hörst ein gedämpftes, nasses Gurgeln, und dann liegt die Kreatur reglos da, während sich neben dem ausgetrockneten Körper eine Blutpfütze bildet. Bald darauf werden seine Augen leblos und glasig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Du hast getan, was du tun musstest. Wenn man lange genug auf einem Bauernhof arbeitet, versteht man es. Auch, wenn es nie leicht ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Sagani nickt. "Ein schneller Tod."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Hiravias beugt sich vor und untersucht den leblosen Körper des Xaurips. "Eine gnadenvolle Entscheidung ... das arme Geschöpf ließ sich nicht retten." Er blickt dich an und nickt ernst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du inspizierst die kranke Kreatur und bemerkst, dass ihre Haut hier und da mit hässlichen gelben und fahl-violetten Flecken verfärbt ist. Du bemerkst, dass diese Flecken mit der Platzierung der rituellen Farbe, die auf die Kreatur geschmiert wurde, übereinzustimmen scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du inspizierst die Kreatur. Ihre Haut ist an mehreren Stellen merkwürdig verfärbt, aber du kannst keine Anzeichen auf die Krankheit erkennen, die den Xaurip plagt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du inspizierst die kranke Kreatur und bemerkst, dass ihre Haut hier und da mit hässlichen gelben und fahl-violetten Flecken verfärbt ist. Dies scheint sich mit dem Symptomen von Mocgas Tränen zu decken, einem herkömmlichen Gift.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Außerdem bemerkst du, dass die Verfärbungen unter den Symbolen, die mit Farbe auf die Haut der Kreatur geschmiert wurden, schlimmer sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

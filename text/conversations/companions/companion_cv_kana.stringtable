@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_kana</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>77</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Gleich neben dem Weg nach Caed Nua steht eine imposante Gestalt: ein großer, untersetzter Aumaua in einer abgenutzten Rüstung, der die Außenmauern der Burg hinaufspäht. Er hat ein kleines Stück Holzkohle in der Hand, mit dem er fieberhaft Notizen auf einem kleinen Stück Papier macht. Mehr als einmal muss er seine farbenfrohe Kappe davon abhalten, ihm beim Hinaufschauen vom Kopf zu rutschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich könnte unterwegs etwas Gesellschaft vertragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Um ehrlich zu sein, vertreibe ich mir nur die Zeit! Ich bin schon zweimal um die Burg gegangen." 
+
+"Gleich da drüben wurden auf die Ziegelsteine ein paar Namen eingeritzt. Vermutlich Arbeiter und Steinmetze, die sich verewigen wollten." Mit liebevollen Gesichtsausdruck schaut er abermals die Mauer hoch. "Caed Nua ist eine gute Burg. Zweihundert Jahre ist ihr Name alt ... und fast so lange war sie verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Was machst du denn da drüben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Kana singt leise ein fröhliches Lied. Da, wo er sich ins Gesicht gefasst hat, ist es mit Kohle verschmiert. Als du dich ihm näherst, wendet er sich dir zu und zeigt abermals ein fröhliches und beunruhigendes Lächeln. 
+
+"Hallo mal wieder! Na, läuft alles gut für dich? Ich habe etliche Namen katalogisiert - aber sonst kaum etwas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"[Player Name], bist du sehr weit herumgekommen? Ich hoffe, du wirst uns eines Tages die ganze Geschichte erzählen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Was machst du denn da drüben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Weggehen]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Um ehrlich zu sein, vertreibe ich mir nur die Zeit! Ich bin schon zweimal um die Burg gegangen." 
+
+"Gleich da drüben wurden auf die Ziegelsteine ein paar Namen eingeritzt. Vermutlich Arbeiter und Steinmetze, die sich verewigen wollten." Mit liebevollen Gesichtsausdruck schaut er abermals die Mauer hoch. "Caed Nua ist eine gute Burg. Zweihundert Jahre ist ihr Name alt ... und fast so lange war sie verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Warum kommst du nicht dieses Mal mit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Das modrige Mauerwerk muss ja faszinierend sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Der wirklich interessante Teil aber ist da drin." Er deutet mit dem Stück Holzkohle auf die Tore. " ... und viel Glück beim Erreichen der Burg selbst hatte ich auch nicht. Ich hoffe, den Herren dieses Orts zu finden - einen Mann namens Maerwald - aber entweder liegt ihm seine Privatsphäre sehr am Herzen, oder er wurde von seinen Hausgästen verschlungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich bin auch hierher gekommen, um nach Maerwald zu suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Was willst du denn von Maerwald?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Warum bist du nicht hineingegangen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"In der Tat! Naja, die Mauer selbst vielleicht nicht. Der Bau ist sehr traditionell." 
+
+"Gleich da drüben wurden auf die Ziegelsteine ein paar Namen eingeritzt. Vermutlich Arbeiter und Steinmetze, die sich verewigen wollten." Mit liebevollen Gesichtsausdruck schaut er abermals die Mauer hoch. "Caed Nua ist eine gute Burg. Zweihundert Jahre ist ihr Name alt ... und fast so lange war sie verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren - du aber scheinst mir mehr als fähig zu sein. Zusammen könnten wir es sicher schaffen! Und dann können wir beide unsere Maerwald-Fragen stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich suche einen großen Schatz, musst du wissen. Kein Gold oder Silber, sondern das Tanvii ora Toha. Man könnte es auch das 'Buch der Tugenden' nennen."
+
+"Es enthält heilige Texte von Rauatai - aber wir besitzen nur ein Fragment davon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ich suche einen großen Schatz, musst du wissen. Kein Gold oder Silber, sondern das Tanvii ora Toha. Das heilige Buch unseres Volkes, mein Freund ... und es ist dort ... zumindest irgendwo da drin. Unter der Burg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren, aber zwei Söhne von Rauatai zusammen - wir könnten es sicher schaffen! Und dann können wir beide unsere Maerwald-Fragen stellen."</DefaultText>
+      <FemaleText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren, aber zwei Kinder von Rauatai zusammen - wir könnten es sicher schaffen! Und dann können wir beide unsere Maerwald-Fragen stellen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Warum sollte dieses Tanvii ora Toha hier im Dyrwald sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Exakt! Genau dieses Frage stellt sich." Er lacht. "Mein Freund, das ist eine lange und verwobene Geschichte, wie es alle guten Lieder sein sollten. Mit der Zeit kann ich dir mehr dazu erzählen, wenn du möchtest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Naja ... es ist halt so, dass sich zwischen der Burg und mir viele gefährliche Kreaturen befinden. Versucht habe ich es natürlich ... und ich wurde von finsteren Geistern vertrieben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Wissen." Er grinst. "Oder, mit einfacheren Worten: einen bestimmten Text. Ich bin auf der Suche nach einem großen Schatz hierher gekommen, musst du wissen. Kein Gold oder Silber, sondern das Tanvii ora Toha. Man könnte es auch das 'Buch der Tugenden' nennen." 
+
+"Es enthält heilige Texte von Rauatai - aber wir besitzen nur ein kleines Fragment davon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ein Jahr war ich nach dem Rest auf der Suche, und ich habe Beweise aufgedeckt, die mich glauben lassen, dass sich das Original gleich da drüben befindet - unterhalb der Burg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Dann müssen wir es finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ein Jahr war ich nach dem Rest auf der Suche, und ich habe Beweise aufgedeckt, die mich glauben lassen, dass sich das Original gleich da drüben befindet - unterhalb der Burg. Ich möchte Maerwald fragen, was er darüber weiß."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Und du, mein Freund? Warum bist du hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Anscheinend bin ich etwas, das man einen Wächter nennt - und Maerwald kann mir sagen, was das zu bedeuten hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Kein besonderer Grund."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ein Wächter?" Er blickt dich mit unverhohlener Neugier an. "Hast du mit Geistern gesprochen? Wenn ich dasselbe tun könnte, hätte ich viele Fragen zu stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Dann lass uns Maerwald treffen gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich bin nicht hier, um alte Reliquien auszugraben. Du bist auf dich selbst gestellt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Hervorragend! Geh voran, mein Freund, ich werde dir auf dem Fuße folgen ... oh, Moment: Wo wir gerade dabei sind, sollte ich dich zuerst warnen. Bei Ondras Zähnen, das habe ich fast vergessen."
+
+"Manchmal ist mir jemand gefolgt - es begann in Aedyr, und in Ixamitl haben sie mich gleich angegriffen ... ich glaube, sie wollen nicht, dass ich finde, nach was ich suche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Das ist nicht deine Sorge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich möchte auch mit Maerwald sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren, aber zwei Söhne von Rauatai zusammen - wir könnten es sicher schaffen! Und dann können wir beide unsere Maerwald-Fragen stellen."</DefaultText>
+      <FemaleText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren, aber zwei Kinder von Rauatai zusammen - wir könnten es sicher schaffen! Und dann können wir beide unsere Maerwald-Fragen stellen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Oh. Ich ... ich verstehe." Er blick niedergeschlagen zu Boden. "Ich verstehe. Naja, ich werde es weiter versuchen. Vielleicht werden wir uns wiedersehen und dann andere Geschichten austauschen können. Ich wünsche dir viel Glück auf deiner eigenen Reise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ach, dann ein umherstreifender Reisender? Du hast einen guten Geschmack für Landschaften. Das könnte mir zum Vorteil gereichen - vielleicht würdest du es in Betracht ziehen, mit mir zu reisen? Mit vereinten Kräften könnten wir die Burg sicherlich ohne Schwierigkeiten erreichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich fürchte, momentan kann ich dir nicht helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Oh. Ich wollte dich nicht beleidigen! Ich dachte nur, wir könnten einander helfen. Mit vereinten Kräften könnten wir die Burg sicherlich ohne Schwierigkeiten erreichen. Oder zumindest mit äußerst kurzen Schwierigkeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren - du aber scheinst mir fähig zu sein. Zusammen könnten wir es sicher schaffen! Und dann können wir beide unsere Maerwald-Fragen stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ich sage, ich 'glaube' es, aber das hat mir einer meiner Möchtegern-Mörder erzählt ... " Er schnaubt. 
+
+"Ich beachte sie kaum. Humorlose Kerle in langen Roben. Aber weißt du, aus diesem Grund habe ich das Schwert mitgebracht, und es ist nur gerecht, dass du es auch erfährst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Das scheint dich ja nicht sonderlich aufzuregen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ich möchte daran nicht teilhaben. Ich werde meinen eigenen Weg gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Was sind schon ein paar Mörder zwischen Freunden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ich werde ein Auge offenhalten. Lass uns aufbrechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Naja, es ist ja nicht so, als würde ich mich auf ihr Andringen hin umdrehen und nach Hause gehen! Ihren früheren Bemühungen nach zu urteilen, sollten wir wohl wenig Grund zur Sorge haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Er lacht. "Ich freue mich, dass du dich nicht entmutigen lässt. Also komm. Wer weiß, was wir im Inneren vorfinden werden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Das trifft auch auch mich zu! Der Dyrwald ist ein aufregender Ort ... aber manchmal etwas seltsam."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Gerne! Still an einem Ort zu sitzen, ist nicht gerade mein Fall. Lass mal sehen, was wir finden können!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Gleich neben dem Weg nach Caed Nua steht eine imposante Gestalt: ein großer, untersetzter Aumaua in einer abgenutzten Rüstung, der die Außenmauern der Burg hinaufspäht. Er hat ein kleines Stück Holzkohle in der Hand, mit dem er fieberhaft Notizen auf einem kleinen Stück Papier macht. Mehr als einmal muss er seine farbenfrohe Kappe davon abhalten, ihm beim Hinaufschauen vom Kopf zu rutschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Das modrige Mauerwerk muss ja faszinierend sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Weggehen]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ich hoffe, den Herren dieses Orts zu finden - einen Mann namens Maerwald, aber man sagte mir, dass ich zu spät gekommen sei ... " 
+
+"Ich würde gerne mit seinem Nachfolger sprechen. Bist du da?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Maerwald ist tot, das stimmt auf jeden Fall. Was hattest du denn mit ihm vor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ich bin der neue Fürst von Caed Nua. Kann ich dir helfen?"</DefaultText>
+      <FemaleText>"Ich bin die neue Fürstin von Caed Nua. Kann ich dir helfen?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Anscheinend habe ich eine Festung, was mir das auch einbringen wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"In der Tat! Naja, die Mauer selbst vielleicht nicht. Der Bau ist sehr traditionell." 
+
+"Gleich da drüben wurden auf die Ziegelsteine ein paar Namen eingeritzt. Vermutlich Arbeiter und Steinmetze, die sich verewigen wollten." Mit liebevollen Gesichtsausdruck schaut er abermals die Mauer hoch. "Caed Nua ist eine gute Burg. Zweihundert Jahre ist ihr Name alt ... und fast so lange war sie verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ah. Wie schade." Er stockt. "Ich hatte darauf gehofft, dass du mir einige Informationen geben könntest. Ich bin auf der Suche nach einem großen Schatz hierher gekommen, musst du wissen. Kein Gold oder Silber, sondern das Tanvii ora Toha. Man könnte es auch das 'Buch der Tugenden' nennen." 
+
+"Es enthält heilige Texte von Rauatai - aber wir besitzen nur ein kleines Fragment davon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ah. Wie schade." Er stockt. "Ich bin hierher gekommen, um ihn zu fragen, ob er etwas darüber weiß, was ich suchte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Dann beglückwünsche ich dich zu deinem Erfolg. Eine Festung erbt man schließlich nicht jeden Tag." Er stockt.
+
+"Ich bin hierher gekommen, um ihn zu fragen, ob er irgendetwas darüber weiß, was ich suche. Ich suche einen großen Schatz, musst du wissen. Kein Gold oder Silber, sondern das Tanvii ora Toha. Man könnte es auch das 'Buch der Tugenden' nennen." 
+
+"Es enthält heilige Texte von Rauatai - aber wir besitzen nur ein kleines Fragment davon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Dann beglückwünsche ich dich zu deinem Erfolg. Eine Festung erbt man schließlich nicht jeden Tag." Er stockt.
+
+"Ich bin hierher gekommen, um Maerwald zu fragen, ob er irgendetwas darüber weiß, was ich suche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Kana singt leise ein fröhliches Lied. Da, wo er sich ins Gesicht gefasst hat, ist es mit Kohle verschmiert. Als du dich ihm näherst, wendet er sich dir zu und zeigt abermals ein fröhliches und beunruhigendes Lächeln. 
+
+"Hallo mal wieder! Ich hoffe, Caed Nua behandelt dich gut. Ich habe etliche Namen katalogisiert - aber sonst kaum etwas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Reise mit mir, dann werden wir es vielleicht finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Naja, es ist ja nicht so, als würde ich mich auf ihr Andringen hin umdrehen und nach Hause gehen! Ihren früheren Bemühungen nach zu urteilen, sollten wir wohl wenig Grund zur Sorge haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Er lacht. "Ich freue mich, dass du dich nicht entmutigen lässt. Also komm. Wer weiß, was wir im Inneren vorfinden werden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Vielleicht können wir einander helfen. Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren, aber zwei Söhne von Rauatai zusammen - wir könnten es sicher schaffen! Und dann können wir beide unsere Maerwald-Fragen stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Naja, vielleicht können wir einander vielleicht helfen. Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren - du aber scheinst mit fähig zu sein. Zusammen könnten wir es sicher schaffen! Und dann können wir beide unsere Maerwald-Fragen stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Das trifft auch auch mich zu! Der Dyrwald ist ein aufregender Ort ... aber manchmal etwas seltsam."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Der Mann blickt zu dir herüber und blinzelt überrascht. Sein Gesicht lockert sich zu einem sehr breiten Grinsen auf und er winkt dir über das Pergament hinweg zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Der Mann blickt zu dir herüber und blinzelt überrascht. Sein Gesicht lockert sich zu einem sehr breiten Grinsen auf und er winkt dir über das Pergament hinweg zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Der Mann blickt zu dir herüber und blinzelt überrascht. Sein Gesicht lockert sich zu einem sehr breiten Grinsen auf und er winkt dir über das Pergament hinweg zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Der Mann blickt zu dir herüber und blinzelt überrascht. Sein Gesicht lockert sich zu einem sehr breiten Grinsen auf und er winkt dir über das Pergament hinweg zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

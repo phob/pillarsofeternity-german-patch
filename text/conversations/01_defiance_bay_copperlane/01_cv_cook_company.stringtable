@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_cook_company</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein gepflegter Mann geht mit selbstbewusstem Gang durch den Raum, ein selbstgefälliges Grinsen ins Gesicht gemeißelt. Er wird von fünf anderen abgehärtet aussehenden Personen umgeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Einer seiner Gefährten blickt dich kurz an, bevor er seinen Kautabak vor deine Füße spuckt. "Wieder so ein Frischling, was? Merk dir einfach, dass Bynes Riesentöter hier das Sagen haben, dann passiert dir nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ganz, wie du meinst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Das ist ein guter Ratschlag. Hier ist der Rest. Eins - die besten Kopfgelder gehören uns. Zwei - die Riesentöter teilen nicht. So einfach ist das."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Noch nie gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Er kneift seine Augen zusammen. "Jetzt schon. Wenn du in Trutzbucht bleibst, wirst du das noch häufig tun. Es gibt jede Menge Kopfgelder, aber es gibt einen Grund, warum die Riesentöter den Löwenanteil davon bekommen. Merk dir das."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Eine Stimme bellt durch den Raum. "Genug geplaudert, Byne. Willst du den Auftrag erledigen oder darüber reden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Er beißt den Kiefer zusammen. "Wenan hat Recht. Das Geld sammelt sich nicht von alleine ein." Er blickt seine Kameraden an und nickt in Richtung Tür. "Wir sehen uns, Frischling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Kann ich mitkommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Er lacht. "Wir haben die freie Auswahl aus den besten Abenteurern - und wir spielen nicht Kindermädchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Aus dem Weg, Frischling."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

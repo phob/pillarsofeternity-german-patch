@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_si_weak_wall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bei dieser Mauer zieht sich ein Spalt vom Boden bis zur Decke. Durch den Spalt weht ein leichter Luftzug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Gegen die Mauer drücken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Nach mehreren langen Momenten beginnst du, auf der anderen Seite Licht zu erkennen. Nach einem letzten Schlag wackeln mehrere Steinblöcke und fallen schließlich heraus. Der dadurch entstehende Spalt ist gerade breit genug, dass du dich durchzwängen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Die Mauer mit Hammer und Meißel schwächen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Calisca! Meinst du, du könntest die Mauer eindrücken?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Calisca betrachtet die beschädigte Mauer und nickt dann einmal. Sie tritt vor und drückt gegen die Steine. Mehrere Augenblicke der Anstrengung später stürzt die Mauer ein und gibt den Blick auf einen dunklen, kreisrunden Raum frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Trotz der Beschädigung sieht der Stein schwer uns massiv aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[[Slot 0] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[[Slot 1] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[[Slot 2] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Slot 0] drückt mit Leibeskräften, worauf der Spalt breiter zu werden beginnt. Letztendlich gibt das uralte Mauerwerk nach. Die Mauer stürzt ein und gibt den Blick auf einen kreisrunden Raum frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Slot 0] drückt mit Leibeskräften gegen die Mauer, die aber nicht nachgibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Slot 0] drückt mit Leibeskräften, worauf der Spalt breiter zu werden beginnt. Letztendlich gibt das uralte Mauerwerk nach. Die Mauer stürzt ein und gibt den Blick auf einen kreisrunden Raum frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Slot 0] drückt mit Leibeskräften gegen die Mauer, die aber nicht nachgibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Slot 1] drückt mit Leibeskräften, worauf der Spalt breiter zu werden beginnt. Letztendlich gibt das uralte Mauerwerk nach. Die Mauer stürzt ein und gibt den Blick auf einen kreisrunden Raum frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Slot 1] drückt mit Leibeskräften gegen die Mauer, die aber nicht nachgibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Slot 1] drückt mit Leibeskräften, worauf der Spalt breiter zu werden beginnt. Letztendlich gibt das uralte Mauerwerk nach. Die Mauer stürzt ein und gibt den Blick auf einen kreisrunden Raum frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Slot 1] drückt mit Leibeskräften gegen die Mauer, die aber nicht nachgibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Slot 2] drückt mit Leibeskräften, worauf der Spalt breiter zu werden beginnt. Letztendlich gibt das uralte Mauerwerk nach. Die Mauer stürzt ein und gibt den Blick auf einen kreisrunden Raum frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Slot 2] drückt mit Leibeskräften gegen die Mauer, die aber nicht nachgibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Slot 2] drückt mit Leibeskräften, worauf der Spalt breiter zu werden beginnt. Letztendlich gibt das uralte Mauerwerk nach. Die Mauer stürzt ein und gibt den Blick auf einen kreisrunden Raum frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Slot 2] drückt mit Leibeskräften gegen die Mauer, die aber nicht nachgibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Niemand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[[Slot 3] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[[Slot 4] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[[Slot 5] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Slot 3] drückt mit Leibeskräften, worauf der Spalt breiter zu werden beginnt. Letztendlich gibt das uralte Mauerwerk nach. Die Mauer stürzt ein und gibt den Blick auf einen kreisrunden Raum frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Slot 3] drückt mit Leibeskräften gegen die Mauer, die aber nicht nachgibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Slot 3] drückt mit Leibeskräften, worauf der Spalt breiter zu werden beginnt. Letztendlich gibt das uralte Mauerwerk nach. Die Mauer stürzt ein und gibt den Blick auf einen kreisrunden Raum frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Slot 3] drückt mit Leibeskräften gegen die Mauer, die aber nicht nachgibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Slot 4] drückt mit Leibeskräften, worauf der Spalt breiter zu werden beginnt. Letztendlich gibt das uralte Mauerwerk nach. Die Mauer stürzt ein und gibt den Blick auf einen kreisrunden Raum frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Slot 4] drückt mit Leibeskräften gegen die Mauer, die aber nicht nachgibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Slot 4] drückt mit Leibeskräften, worauf der Spalt breiter zu werden beginnt. Letztendlich gibt das uralte Mauerwerk nach. Die Mauer stürzt ein und gibt den Blick auf einen kreisrunden Raum frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Slot 4] drückt mit Leibeskräften gegen die Mauer, die aber nicht nachgibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Slot 5] drückt mit Leibeskräften, worauf der Spalt breiter zu werden beginnt. Letztendlich gibt das uralte Mauerwerk nach. Die Mauer stürzt ein und gibt den Blick auf einen kreisrunden Raum frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Slot 5] drückt mit Leibeskräften gegen die Mauer, die aber nicht nachgibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Slot 5] drückt mit Leibeskräften, worauf der Spalt breiter zu werden beginnt. Letztendlich gibt das uralte Mauerwerk nach. Die Mauer stürzt ein und gibt den Blick auf einen kreisrunden Raum frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Slot 5] drückt mit Leibeskräften gegen die Mauer, die aber nicht nachgibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Selbst dagegendrücken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Du drückst mit Leibeskräften, worauf der Spalt breiter zu werden beginnt. Letztendlich spürst du, wie das uralte Mauerwerk nachgibt. Die Mauer stürzt ein und gibt den Blick auf einen dunklen, kreisrunden Raum frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Du drückst mit Leibeskräften gegen die Mauer, die aber nicht nachgibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du machst dich an die Arbeit. Durch deine Bemühungen werden die Spalten länger und breiter, aber es geht schwieriger, als du erwartet hättest. Auf deiner Stirn bildet sich Schweiß und deine Muskeln beginnen zu schmerzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Weiter an der Wand meißeln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Etwas anderes probieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

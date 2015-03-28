@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_2\cp_qst_ruins</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ruinen - Kritischer Weg</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Begib dich zum Tempel von Woedica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde einen Weg in den Tempel von Woedica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bringe in Erfahrung, was der Bleierne Schlüssel vorhat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ruinen - Kritischer Weg</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Der Woedica-Tempel befindet sich im Viertel Urfeuer von Trutzbucht. Ich sollte meine Nachforschungen über den Bleiernen Schlüssel dort beginnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Der Tempel von Woedica liegt in Ruinen, zumindest über der Erde. Ich hatte eine Vision von Seelen, die über eine ruinierte Treppe in eine Kammer unterhalb des Tempels hinabgingen. Die Treppe kann nicht mehr benutzt werden, aber möglicherweise gibt es durch die Katakomben von Trutzbucht noch einen anderen Weg zum Tempel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe den unterirdischen Bereich des Woedica-Tempels erreicht. Jetzt muss ich den Ort nur noch untersuchen und herausfinden, was der Bleierne Schlüssel in Trutzbucht tut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich gab mich als vom Bleiernen Schlüssel angeworbener Söldner aus, und kann mich nun frei in den Ruinen bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

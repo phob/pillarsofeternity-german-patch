@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\13_cv_glanfathan_elms_locals_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Wenn wir dir helfen können, tun wir es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Kein Glanfathaner. Ist in den Turm eingebrochen. Hier, in Ulmenkap, und niemand hat ihn kommen sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Er hat sich lautlos bewegt, wie ein Stelgaer in den Schatten. Unsere Jäger haben ihn erst bemerkt, als es schon zu spät war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Sie haben die Steine knacken hören, als er Teir Evron betrat ... Ein dunkles Omen, das sage ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Erzähl mir von dem Mann, von dem du sprichst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Was sind Delemgan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Sie sind die uralten Kinder der riesigen Ulmen. Unser Volk lebt mit den Dryaden in Frieden, seit wir vor Hunderten von Sonnenkreisläufen hier angelangten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Die Delemgan nennen uns Freunde. Wir nennen sie unsere Verwandten. Unser Schutz und ihre Weisheit, gemeinsam teilen wir eine starke Verbindung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Sie haben schon immer im Schatten der großen Ulmen gelebt. Gehe, bis du den Strom überquerst, dort findest du die Dryaden-Schwestern."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

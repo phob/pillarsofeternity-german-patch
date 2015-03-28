@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_defiance_bay_coppleane\01_tsk_unwanted</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Unerwünscht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde Eorn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Entscheide über Eorns Schicksal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Erstatte Burg Schmelztiegel Bericht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Schmelztiegelritter fordern die Verhaftung eines Orlaners namens Eorn. Offenbar konnte er sich ihnen bisher entziehen, doch die Ritter jagen weiter nach ihm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Haftverordnung, die ich gefunden habe, ist neueren Datums. Eorn kann nicht weit gereist sein, und es ist unwahrscheinlich, dass er an den Wachen an den Toren vorbeigelangt ist. Ich sollte in der Stadt nach ihm suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich bin in den Katakomben einem Orlaner namens Eorn begegnet. Er hat mir berichtet, dass die Schmelztiegelritter ihn wegen Mordes suchen. Er versucht, aus Trutzbucht zu fliehen, doch er hat nicht genügend Pand, um aus der Stadt zu gelangen. Er hat mich angefleht, sein Geheimnis so lange zu bewahren, bis er das nötige Geld aufgetrieben hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe Eorn getötet, einen gesuchten Mörder. Die Schmelztiegelritter auf Burg Schmelztiegel werden bestimmt gerne erfahren, dass ich dieses Problem für sie gelöst habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe Eorn gefunden, er hatte sich in den Katakomben versteckt. Er versucht, aus Trutzbucht zu fliehen, doch er hat nicht genügend Pand, um aus der Stadt zu gelangen. Ich muss entscheiden, was mit ihm geschehen soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Aldmar hat mir von einem Gerücht erzählt, nach dem Eorn sich in den Katakomben unter Kupferweg versteckt hält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich erinnere mich daran, in den Katakomben von Kupferweg einen Orlaner getroffen zu haben. Vielleicht will Aldmar davon erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe den Flüchtling Eorn in den Katakomben gefunden, wo er sich vor den Schmelztiegelrittern versteckt hatte. Ich habe ihn im Auftrag der Stadtwache getötet und Aldmar davon berichtet. Er hat mir für meine Dienste für die Stadt - und besonders für die Ritter - gedankt und mir eine stattliche Belohnung überreicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe den Flüchtling Eorn in den Katakomben gefunden, wo er sich vor den Wachen versteckt hatte. Er hat mich angefleht, ihn nicht zu verraten, aber ich habe entschieden, ihn den Behörden zu übergeben. Aldmar hat eine Gruppe von Schmelztiegelrittern in die Katakomben geschickt, um ihn zu töten, und hat mir eine stattliche Belohnung überreicht, weil ich den Flüchtigen gefunden hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe in den Katakomben einen Orlaner namens Eorn getroffen. Die Wachen machten Jagd auf ihn wie auf ein wildes Tier. Er versuchte, genügend Geld zusammenzukratzen, um aus Trutzbucht zu fliehen. Ich habe ihm Geld gegeben, damit er aus der Stadt entkommen kann. Er hat mir gedankt und mir gesagt, er werde meine Güte niemals vergessen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe den Flüchtling Eorn in den Katakomben gefunden, wo er sich vor den Wachen versteckt hatte. Er hat mich gebeten, ihn nicht zu verraten. Er fürchtete, die Schmelztiegelritter würden fürchterliche Rache an ihn nehmen, bevor er je einen Galgenstrick zu sehen bekäme. Ich habe entschieden, dass er das nicht verdient hat. Allerdings auch nicht, ungeschoren davon zu kommen. Ich habe ihn daher selbst als Gefangenen genommen und ihn in den Kerker in der Festung gesperrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

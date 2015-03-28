@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\13_twin_elms_elms_reach\13_bs_glanfathan_elms_warriors_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Aber die Estramorwn werden ihre Angriffe nicht einstellen, wir müssen die Krieger aller Stämme zusammenrufen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Sei vorsichtig, Bruder. Ihre Lande würden rot getränkt werden ... und auch unsere Seelen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Die Fremden leben und atmen Gewalt, sie verstehen nichts Anderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Sie scheren sich nur um ihresgleichen, ja, doch wir dürfen nicht vergessen, dass wir uns um mehr scheren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Selbst die mächtigsten Stelgaer töten das schwächste Ungeziefer, wenn ihre Jungen bedroht sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wären wir dann nicht auch nichts als Bestien?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Besser, frei als Tier zu leben, anstatt als Sklave des Mitgefühls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Die Geschichte wird es nicht ehren, wenn die Starken die Schwachen niedermetzeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Wie sonst können wir unser Volk verteidigen - und unser Vermächtnis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

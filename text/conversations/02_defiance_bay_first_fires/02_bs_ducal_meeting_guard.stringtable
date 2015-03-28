@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_bs_ducal_meeting_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"[Player Name], Fürst Doemenel hat uns von Ihrer Teilnahme unterrichtet. Die Galerie steht Ihnen nun offen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"[Player Name], Kommandant Clyver hat uns von Ihrer Teilnahme unterrichtet. Die Galerie steht Ihnen nun offen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"[Player Name], Wenan hat uns von Ihrer Teilnahme unterrichtet. Die Galerie steht Ihnen nun offen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"[Player Name], die Anhörung hat bereits begonnen. Lady Webb hat uns jedoch angewiesen, einen Platz für Sie auf der Galerie zu reservieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Während der Rat Sitzung hält, dürfen Sie das Audienzzimmer nicht ohne Einladung betreten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Gehen Sie weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

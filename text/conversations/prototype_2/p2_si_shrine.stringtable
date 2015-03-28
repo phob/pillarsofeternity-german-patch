@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\prototype_2\p2_si_shrine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du scheinst in der Ruine eines Schreins zu stehen. Vor dir liegen die moosbedeckten Überreste einer uralten Statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Statue untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Nur die zerbrochenen Beine und Füße der Statue sind übrig. Lange Rillen neben ihr legen nahe, dass sie bewegt werden kann. 
+
+Nahe des Fußes der Statue entdeckst du einen in den Stein geritzten Totenschädel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Den Totenschädel untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Nach mehreren Versuchen kommst du zu dem Schluss, dass das Knacken des verrosteten Schlosses deine Fähigkeiten übersteigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Die Statue schieben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>In den Stein wurde mit kompliziertem Relief ein Totenkopf mit geöffnetem Mund geritzt. Du siehst ihn dir genauer an und bemerkst zwischen seinen Kiefern ein verrostetes Schlüsselloch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Den Schlüssel mit Totenkopfgriff ausprobieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Das Schloss knacken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Mit rostigem Klicken und Kreischen schiebt [SkillCheck 0] mehrere Zuhaltungen auf Position. Die zerstörte Statue beginnt sich plötzlich zu bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Nach mehreren Versuchen kommst du zu dem Schluss, dass das Knacken des verrosteten Schlosses deine Fähigkeiten und die deiner Gefährten übersteigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Der verschobene Sockel der Statue gibt den Blick auf einen dunklen Weg in die Erde frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Der Schlüssel gleitet mit Leichtigkeit ins Schloss. Du drehst ihn um, worauf sich die zerstörte Statue zu bewegen beginnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Der steinerne Sockel der Statue scheint mehrere hundert Kilo schwer zu sein. Du überlegst, wer versuchten sollte, sie zu verschieben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[[Slot 0] bitten, gegen sie zu drücken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[[Slot 1] bitten, gegen sie zu drücken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[[Slot 2] bitten, gegen sie zu drücken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[[Slot 3] bitten, gegen sie zu drücken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[[Slot 4] bitten, gegen sie zu drücken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[[Slot 5] bitten, gegen sie zu drücken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Slot 0] lehnt sich gegen die Statue und drückt dagegen. Mit mächtigem Stöhnen beginnt der große Steinbrocken, langsam die Rillen entlang zu gleiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Slot 0] drückt mit zitternden Armen gegen die Statue und versucht verzweifelt, mit den Füßen genügend Hebelwirkung zu entfalten. Sie bewegt sich keinen Millimeter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Slot 1] lehnt sich gegen die Statue und drückt dagegen. Mit mächtigem Stöhnen beginnt der große Steinbrocken, langsam die Rillen entlang zu gleiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Slot 1] drückt mit zitternden Armen gegen die Statue und versucht verzweifelt, mit den Füßen genügend Hebelwirkung zu entfalten. Sie bewegt sich keinen Millimeter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Slot 2] lehnt sich gegen die Statue und drückt dagegen. Mit mächtigem Stöhnen beginnt der große Steinbrocken, langsam die Rillen entlang zu gleiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Slot 2] drückt mit zitternden Armen gegen die Statue und versucht verzweifelt, mit den Füßen genügend Hebelwirkung zu entfalten. Sie bewegt sich keinen Millimeter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Slot 3] lehnt sich gegen die Statue und drückt dagegen. Mit mächtigem Stöhnen beginnt der große Steinbrocken, langsam die Rillen entlang zu gleiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Slot 3] drückt mit zitternden Armen gegen die Statue und versucht verzweifelt, mit den Füßen genügend Hebelwirkung zu entfalten. Sie bewegt sich keinen Millimeter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Slot 4] lehnt sich gegen die Statue und drückt dagegen. Mit mächtigem Stöhnen beginnt der große Steinbrocken, langsam die Rillen entlang zu gleiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Slot 4] drückt mit zitternden Armen gegen die Statue und versucht verzweifelt, mit den Füßen genügend Hebelwirkung zu entfalten. Sie bewegt sich keinen Millimeter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Slot 5] lehnt sich gegen die Statue und drückt dagegen. Mit mächtigem Stöhnen beginnt der große Steinbrocken, langsam die Rillen entlang zu gleiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Slot 5] drückt mit zitternden Armen gegen die Statue und versucht verzweifelt, mit den Füßen genügend Hebelwirkung zu entfalten. Sie bewegt sich keinen Millimeter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Nicht versuchen, den Sockel zu verschieben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du gehst einen Schritt zurück und siehst dir die Statue noch mal an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Mit Hammer und Meißel versuchen, neben der Statue ein Loch zu schlagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Du meißelst am Sockel der Statue herum. Als deine Arme schon taub von den tönenden Hammerschlägen sind, hast du lediglich ein Loch herausgekratzt, das groß genug für drei Finger ist. Luft pfeift durch den Spalt hindurch, aber was auch immer auf der anderen Seite liegt, du wirst dich nicht hindurchgraben können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Ein Brecheisen unter die Statue keilen, um sie zu bewegen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du steckst ein Brecheisen durch das gemeißelte Loch. Du lehnst dich mit deinem gesamten Gewicht hinein, worauf die Statue beginnt, knirschend die Rillen entlang zu gleiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Selbst gegen sie drücken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Du lehnst Dich gegen die Statue und drückst dagegen. Mit mächtigem Stöhnen beginnt der große Steinbrocken, langsam die Rillen entlang zu gleiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Du drückst mit zitternden Armen gegen die Statue und versuchst verzweifelt, mit den Füßen genügend Hebelwirkung zu entfalten. Sie bewegt sich keinen Millimeter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

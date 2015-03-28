@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_oldsong\12_bs_oldsong_locals_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Das heißt es, ja. Die Hoheovatin steht nur noch selten im Schatten von Ulmenkap."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Nach unzähligen Jahreszeiten als die Anführerin der Druiden nimmt es mich Wunder, dass sie ihrer Gemeinschaft nun den Rücken kehrt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich erinnere mich noch, dass Erona immer für ihr Volk einstand, selbst, als ich noch ein Kind war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Was auch ihre wahren Absichten sein mögen, ich rieche Furcht in der Luft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Die Hoheovatin soll entschieden haben, ihr eigenes Schicksal zu beenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Es soll ein Estramor gewesen sein, der sie überzeugt hat, zu sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Eronas Seele soll in den Kreislauf zurückgekehrt sein, heißt es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Iswld wird die Ovaten nun anführen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Anscheinend hat ein Estramor sich im Namen von Berath höchstselbst um sie gekümmert."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

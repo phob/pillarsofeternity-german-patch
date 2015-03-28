@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_stronghold\06_tsk_boss_rogue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld: Kapitän Muārumi</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte Muārumi in Anslögs Kompass und nimm seinen Kopf an dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bringe Kapitän Muārumis Kopf zu Oberwärter Fyrgen in Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Der berüchtigte Rauatai-Pirat Kapitän Muārumi hat in Anslögs Kompass angelegt. Das ist eine seltene Gelegenheit, sich das Kopfgeld zu verdienen, das seit langem auf ihn ausgesetzt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Es ist ein stattliches Kopfgeld auf den Piraten Kapitän Muārumi ausgesetzt. Ich habe die seltene Gelegenheit, mir das Kopfgeld zu verdienen - denn er wurde in Anslögs Kompass gesichtet. Wenn ich ihn töte und seinen Kopf zurückbringe, gehört das Kopfgeld mir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Kapitän Muārumi ist tot. Wenn ich Oberwärter Fyrgen seinen Kopf bringe, kann ich meine Belohnung einfordern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe das Kopfgeld für Kapitän Muārumi eingefordert.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

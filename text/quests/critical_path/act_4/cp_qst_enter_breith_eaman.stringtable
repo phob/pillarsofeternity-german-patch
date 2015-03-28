@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_4\cp_qst_enter_breith_eaman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Hof der Büßer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise zur Grabinsel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde den Hof der Büßer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Spring in die Grube.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Delemgan-Schwestern von Zwillingsulmen wissen, dass Thaos über einen unterirdischen Pfad an einen engwithanischen Ort namens Sonne im Schatten geflohen ist - und den Zugang hinter sich blockiert hat. 
+
+Die Schwestern offenbarten mir einen anderen Weg, auf dem ich ihn erreichen kann - vielleicht sogar überholen. Die Grabinsel bietet einen Weg durch die Ruinen eines antiken engwithanischen Gefängnisses, Breith Eaman. Der Weg ist gefährlich, doch er ist wohl die schnellste Art, Sonne im Schatten zu erreichen - denn er beinhaltet einen tiefen Fall.
+
+Meine halluzinierten Erinnerungen werden nun immer häufiger. Ich kann sie kaum noch von der wachen Welt unterscheiden. Mir geht die Zeit aus. Ich muss wissen, woran Thaos sich aus unserer gemeinsamen Vergangenheit erinnert, damit ich zur Ruhe betten kann, was meine Seele plagt - was es auch ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich habe von Sîdha und Rîhenwn erfahren, dass der Weg nach Sonne im Schatten auf der Grabinsel liegt. Dort gibt es einen alten Hof, der mich zu Thaos führen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe die Küste der Grabinsel erreicht. Irgendwo auf der Insel bietet der Hof der Büßer einen weg nach Breith Eaman, und nach Sonne im Schatten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>In der Mitte des Hofs der Büßer liegt eine Grube, die so tief ist, dass der Boden nicht zu sehen ist und kein Geräusch zu hören ist, wenn man einen Stein hineinwirft. Der Sturz wäre mit Sicherheit tödlich für jeden, der hineinspringt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Dorvahl, Wächter und Fährmann von Altlied, hat mir gesagt, dass die Grabinsel sich von allen anderen Bezirken von Zwillingsulmen unterscheidet. Die Insel ist ein Friedhof für die Anamfaths der Sechs Stämme - und ein gefährlicher Ort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe eine Abkürzung zu dem Hof gefunden, die mir eine gefährliche Reise zu ersparen scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Vermutlich wäre göttliche Intervention nötig, um den Boden der Grube ungefährdet zu erreichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe den Sturz zum Boden der Grube im Hof der Büßer überlebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

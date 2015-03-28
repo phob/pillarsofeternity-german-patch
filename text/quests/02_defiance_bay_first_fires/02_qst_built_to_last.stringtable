@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_defiance_bay_first_fires\02_qst_built_to_last</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Für die Ewigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Gehe zum Schreiber-Schlafsaal in Kupferweg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde Vianna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Suche nach Vianna in Ondras Geschenk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Erlange Viannas Forschungsunterlagen von den Dutzenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Gib Dunstan Viannas Forschungsunterlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Kommandant Clyver von den Schmelztiegelrittern hat einen Plan, um den Mangel an ausgebildeten Soldaten anzugehen. Er hat Schmiedemeister Dunstan gebeten, Schmiederitter zu bauen – Soldaten, die aus Panzerrüstungen gebaut sind. Dunstan hat die Rüstung hergestellt und braucht jetzt nur noch Viannas Forschungsunterlagen, um das Projekt abzuschließen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Clyver bat mich, mich mit Vianna, einer Schülerin der Beseelung, zu treffen. Sie hat Forschungsergebnisse zusammengestellt, die Dunstan dabei helfen sollten, die Schmiederitter fertigzustellen. Clyver meinte, sie lebe im Schlafsaal mit den anderen Schreibern, doch seine Novizen konnten sie neuerdings nicht ausfindig machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe den Schreiber-Schlafsaal gefunden. Angesichts dessen, was Clyver mir sagte, sollte Vianna – und ihre Forschungsunterlagen – hier irgendwo sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe erfahren, dass Vianna eine Frau namens Clessia in Ondras Geschenk treffen wollte. Sie hatten vor, sich in einem leer stehenden Haus an der nördlichen Grenze des Bezirks zu treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Vianna wurde von Mitgliedern der Dutzenden hintergangen. Jetzt wird sie von ihnen über ihre Forschung für die Schmelztiegelritter verhört. Der Anführer muss ihre Notizen beschlagnahmt haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe Viannas Notizen zurückerhalten. Dunstan wartet in Burg Schmelztiegel in Urfeuer darauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe Dunstan zu den Schmiederittern, an denen er arbeitet, befragt. Er scheint Vorbehalte gegenüber dem Projekt zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe das Gespräch einiger Schreiber aufgeschnappt, die über Viannas kürzliches Verschwinden sprachen. Wie es scheint, war ihr Raum der Letzte auf der rechten Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Dunstan Viannas Forschungsunterlagen überbracht. Jetzt kann er die Schmiederitter fertigstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Dunstan ist tot. Er wird die Schmiederitter nicht mehr für die Schmelztiegelritter fertigstellen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

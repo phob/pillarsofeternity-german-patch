@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_defiance_bay_heritage_hill\05_cv_saeda_valas</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>54</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein kleines Mädchen kauert im hinteren Teil des Grabs. Ihr Gesicht ist dreckverschmiert und selbst in den Schatten siehst du, dass sie viel zu dünn ist. Sie beobachtet dich mit angehaltenem Atem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Saeda sieht aus, als habe sie gebadet und sich ordentlich sattgegessen. Sie lächelt schüchtern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Sag mir, was mit dir geschehen ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Wer sind die 'hungrigen Leute'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ist es sicher? Sind die hungrigen Leute da draußen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Es ist immer noch gefährlich, aber der Weg zum Haupttor sollte frei sein. Lauf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Sie kommt langsam in den Schein der Kerzen. Ihre Kleider sind nur noch schmutzige Fetzen, aber der zerrissene und fleckige Stoff sieht aus wie bestickte Seide. "Du musst leise sein. Lärm lockt die hungrigen Leute an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich heiße Saeda. Versteckst du dich auch vor ihnen?" Sie beobachtet den Eingang mit weit geöffneten, vorsichtigen Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Wo ist deine Familie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Sie flüstert und ihre Augen sind rund vor Schrecken. "Die da draußen. Sie schlafen nicht und sterben nicht, aber sie essen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Im Haus. Mutter hat gesagt, ich solle mich verstecken und niemanden einlassen. Dann habe ich viel Lärm gehört. Sie haben gekämpft und geschrien und ... " Ihre Augen werden glasig. "Und dann sagte Mutter, ich solle die Tür wieder öffnen. Aber sie klang nicht wie sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Sie blickt abwesend in die Ferne. Ihre Beine fangen an zu zittern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Sie atmet tief ein und starrt auf den Steinboden. "Es gab einen gewaltigen Lärm und ein Licht am Himmel. Jeder dachte, es wäre ein Gewitter, aber dann fingen die Leute an aufzuwachen. Nachdem sie gestorben waren, meine ich. Sie ... " Sie wringt ihre zerfetzten Ärmel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Mutter und Vater und Emilo haben die Tür zugenagelt. Aber die hungrigen Leute haben unser Haus gefunden." Sie fingert immer nervöse an ihren Kleidern herum. "Sie haben kämpft, aber die hungrigen Leute stehen immer wieder auf. Sie haben die Tür eingebrochen und Mutter hat gesagt, ich solle mich verstecken."
+
+"Also habe ich mich hier versteckt. Aber die Tür wurde eingeklemmt und ich wusste nicht, wann es draußen wieder sicher ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Du bist Saeda? Ich habe in einem Haus einige Darguls gesehen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Die Augen des Mädchens weiten sich. "Du hast Mutter und Vater gesehen? Und Emilo? Wie bist du entkommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Du musst hier weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ich lasse mich nicht fangen, versprochen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Da! Das ist der nette Mann, der mir geholfen hat."</DefaultText>
+      <FemaleText>"Da! Das ist die nette Frau, die mir geholfen hat."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Und dem Eisernen Arm sei Dank dafür. Wir kümmern uns in der Burg um dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Was hast du hier drin verloren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Es ist alles gut. Du bist in Sicherheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Macht ihr Kinder das heutzutage, um euch zu amüsieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Sei stark. Denk daran, wie all das angefangen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Du hast Angst und warst zu lange hier gefangen. Aber versuch dich zu erinnern, was davor geschehen ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Egal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Lügen] "Steig auf den großen Turm. Dort kannst du warten, bis es sicher ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Oh, gut. Ich hoffe, du kommst mich bald holen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Ich habe sie getötet. Ich hatte keine Wahl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[Lügen] "Sie haben mich nicht gesehen. Ich war ganz leise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Sie spielt an ihrem Daumennagel herum und beobachtet dich. Sie nickt langsam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Sie spielt an ihrem Daumennagel herum und beobachtet dich. Es ist nicht klar, ob sie dir nicht glaubt oder nur unter Schock steht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Das sind nicht mehr deine Eltern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Sorgen wir uns jetzt nicht darum. Wir müssen dich erst einmal hier wegbringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Warte!" Sie eilt an deine Seite. "Ich kann hier nicht bleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Ich habe die Maschine ausgeschaltet, wegen der die hungrigen Leute immer wieder aufgestanden sind. Du kannst gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Danke!" Sie umarmt dich schnell und rennt zur Tür.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Sagani steht stocksteif da und blickt auf das Mädchen wie auf einen verwundeten Hasen. "Aurochs' Schatten. Sie muss wochenlang auf sich allein gestellt gewesen sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Wenn sie Angst vor hungrigen Leuten hat, sollte ich vielleicht lieber gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Maddicho! Wie konnte sie hier überleben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Das arme Kind. Sie muss sich monatelang versteckt haben. Wir müssen ihr helfen, ihr Zuhause zu finden. Oder zumindest etwas zu essen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"War sie die ganze Zeit hier drin? Um sich vor diesen ... Kreaturen zu verstecken?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Schlimm, dass ein Kind das durchmachen muss. Das arme Mädchen. Wie lange sie wohl schon hier ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Die Trauernde Mutter hält sich die Hand vor das Herz. Du hörst Glockengeläut. "So jung und so mutig. Doch ich spüre, dass Furcht ... Verzweiflung ... ihren Verstand zu füllen beginnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Durance runzelt die Stirn. "Wächter, das Kind hat schon eine Prüfung ertragen. Warum willst du ihr so bald schon die nächste aufbürden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Edér schaut dich blinzelnd und mit hängendem Unterkiefer an. "Naja, SO kann man sich seiner Probleme wohl auch entledigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Hiravias zuckt mit den Achseln. "Die Starken müssen die Schwachen als Beute betrachten, so siehst es wenigstens Galawain. Wenn sie nicht mal einen mickrigen, verrottenden Wahnsinnigen im Zweikampf besiegen kann, dann hätte es wohl eh nicht mehr lange gedauert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

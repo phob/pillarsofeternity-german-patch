@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_gilded_vale\07_qst_deathguard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Beraths Held</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Kehre zu Raedrics Festung zurück und finde deinen Herausforderer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Besiege Raedric VII.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Raedrics Festung zurück und finde deinen Herausforderer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Indem ich Fürst Raedric erschlug, dachte ich, Goldtal von seinem Einfluss befreit zu haben, aber anscheinend ist in der großen Burg noch etwas anderes im Gange. Dies könnte das Werk eines neuen Thronräubers sein ... oder purer Aberglauben. Wie auch immer, es könnte sich lohnen, dem nachzugehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Als ich im Himmlischen Bäumchen in Zwillingsulmen war, traf ich auf einen früheren Wächter aus Goldtal, der behauptete, Fürst Raedric selbst sei in seine Burg zurückgekehrt - obwohl er durch meine Hand gefallen ist. 
+
+Anscheinend will sich Raedric für die Beendigung seines Lebens an mir rächen, und hat mir eine Herausforderung gestellt. Es könnte sich in jedem Falle, dem nachzugehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Anscheinend hat Raedric über seine Entschlossenheit eine Verbindung zu seinem sterblichen Körper und diesem Zyklus aufrecht erhalten. Ihn abermals davon zu trennen, wir kein leichtes Unterfangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Anscheinend wurde mir eine Herausforderung gestellt - von Fürst Raedric VII., den ihn für erschlagen hielt.
+
+Raedric verlangt, dass ich ihn in seiner Burg für einen letzten Entscheidungskampf aufsuche - ansonsten würde ich weitere Angriffe auf meine eigene Festung riskieren. Egal, welche fürchterlichen Künste oder Täuschungen für seine scheinbare Wiederauferstehung verantwortlich sind ... die Antworten darauf scheinen in Raedrics Festung auf mich zu warten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Nedmar scheint den Regimewechsel überlebt zu haben. Er sagte mir, dass Fürst Raedric oben auf dem Turm auf mich warten würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Anscheinend hat Osrya das Chaos im Zuge von Raedrics Rückkehr überlebt und wieder ihre Lieblingsposition bezogen. Gleichwohl sagte sie mir ziemlich schnell, wo er sich befindet: Er wartet am höchsten Punkt der Burg auf mich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Fürst Raedric VII. ein für alle Mal besiegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_aloth_act_3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>113</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Aloth sieht nach unten. "Ich habe mich schon ... gewundert, wann du vorbeikommen würdest. Hast du dich entschieden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Du könntest dich mir wieder anschließen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vergiss bloß nicht, wer das Kommando hat. Ab jetzt werde ich dich genau im Auge behalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Aloth, ich vergebe dir, aber ich will, dass du neben mir gehst, nicht hinter mir. Ich verlange nicht von dir, dass du einen Herrn gegen den anderen tauschst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Scher dir weg! Wenn ich dich nochmal sehe, werde ich dich umbringen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Noch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Hast du das gehört? Von wegen, dass unsere Erweckungen permanent sind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Falls diese Delemgan Recht haben, sitzen du und ich mit unseren Erweckungen fest. Das sind nicht gerade die Neuigkeiten, auf die ich gehofft hatte ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Das bedeutet nur, dass wir uns darauf konzentrieren müssen, Thaos zu finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Mit den Schultern zucken.] "Sich Sorgen machen wird auch nichts ändern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Das betrübt mich auch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich mache mir Sorgen um dich. Wie kommst du damit zurecht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Das ist ungerecht. Wir sitzen mit Erinnerungen und Persönlichkeiten lange vergangener Zeiten fest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Oh, das Wissen darum, dass ein halbzivilisierter Bauerntölpel für den Rest meines Lebens meinen Verstand und Körper mit mir teilen wird? Das ist aber nett, dass du fragst." 
+
+Er verschränkt die Arme. "Ich hatte immer geglaubt, Iselmyr sei eine Krankheit, die ich eines Tages selbst heilen könnte. Wenn ich mir jetzt aber überlege, dass sie immer und ewig da sein wird ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Wenigstens sind das für einen von euch gute Nachrichten. Ist doch so, Iselmyr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Mochst an Witz oder wia? Das heißt, dass ich in den Schädel von dem da zwängt bin, bis er er ins Gras beißt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Aloth schüttelt den Kopf. "Bitte ... tu das nicht. Es ist schon schlimm genug, dass ich jetzt weiß, dass ich sie wirklich nicht mehr wegkriege. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Er nickt. "Ja, konzentriere dich auf das Ziel. Eine vernünftige Perspektive, vor allem inmitten solcher Ungewissheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Er lächelt dich dünn an. "Ja, Wenn dieses Wissen es nur verhindern könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Er lächelt dich dünn an. "Du meinst das Wissen darum, dass dein Verstand ein sich aufdröselnder Faden ist, dessen anderes Ende von einem tausende von Jahre alten Priester gehalten wird? Deine Sorge ist verständlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Und wir latschen durch die Wildnis, obwohl es besser wäre, unsere Füße an einem Lagerfeuer auszuruhen und es uns mit aedyranischen Pflaumenwein gemütlich zu machen. Wahrlich ungerecht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Er spitzt seine Lippen. "Und obwohl ich es hasse, das Thema wieder auf mich selbst zu richten ... all das lässt mich an Iselmyr denken, wie ich jetzt mit ihr festsitze."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Du wurdest schon vor Jahrzehnten erweckt. Hast du wirklich geglaubt, dass sich irgendetwas ändern würde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"So schlimm ist sie doch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ich kann mir nicht vorstellen, sie in meinem Kopf zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ich glaube nicht, aber die Hoffnung ist eine unkeusche Geliebte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Aloth, es ist an der Zeit, dass du dich darum kümmerst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Du meinst, wie sie jetzt mit dir festsitzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ich weiß."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ich glaube, tief in meinem Inneren hatte ich immer gehofft, woanders eine Lösung zu finden. Als ich ein Kind war, dachte ich immer, meine Mutter würde mit einem mysteriösen Heilmittel nach Hause kommen, oder dass sie mein Vater ohne es zu wissen auf dieselbe Weise fortschicken könnte, wie er sie herbeigerufen hat. 
+
+"Nun, ich kann nicht leugnen, dass ich nicht Jahre meiner arkanen Ausbildung mit der Hoffnung verbrachte hätte, im Zauberbuch eines meiner Lehrmeister die Antwort zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Als ich dem Bleiernen Schlüssel beitrat, hoffte und glaubte ich, dass ich, genügend loyale Dienste vorausgesetzt, das Gehör von jemand in der Organisation finden würde, der mir helfen könnte. Selbst als ich dich traf und mir deine einzigartigen Talente gewahr wurde ... hoffte ich, dass du in der Lage sein würdest, in meine Seele zu greifen, wie ich es dich bei so vielen anderen tun habe sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Er lacht humorlos. "Zu stark gebügelte Waffenröcke. Verbrannter Toast. Rauatai-Sherry. Das alles ist 'nicht so schlimm.' Aber jemand Fremdes, der nach Lust und Laune in deinen Kopf hinein kann? Sehr unangenehm, das kann ich dir sagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>" ... Du erinnerst dich an das Sanatorium von Farnheim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Aloth schüttelt den Kopf. "Ihr beide habt einander verdient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ich hatte nach jemand anderem gesucht, um mein Problem zu lösen. Und jetzt begreife ich, dass ich mich ihm alleine stellen muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"So soll es uns auch vorgegeben. Man sucht die Antworten an anderen Orten und findet sie in sich selbst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Die meisten Leute brauchen diese Art von Führung, du aber nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ich war die ganze Zeit an deiner Seite, und bin es immer noch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Du bist nicht alleine gewesen. Ich habe dich durch Farnheim gebracht, weißt du noch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Er lächelt. "Das ist eine charmante Sichtweise der Dinge, und auch keine unangenehme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Er hebt eine Augenbraue. "Du bist anderer Meinung, was? Dass all das, was wir durchgemacht haben, einem Zweck diente, ist eine beruhigende Vorstellung. Trotzdem lässt es mich darüber nachdenken, wo wir sein werden - wo alle anderen sein werden - wenn wir Thaos letztendlich aufspüren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Er lächelt. "Das bedeutet mir sehr viel. Wirklich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Daran erinnere ich mich gut. Dieser Expedition bist du ein fähiger Anführer, und mir ein unschätzbarer Mentor gewesen. Was ich von dir gelernt habe, werde ich nicht vergessen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Ein vorsichtiger, nachdenklicher Ausdruck gleitet über sein Gesicht. "Das erinnert mich an etwas Anderes, was die Delemgan sagten. Darüber, dass die Götter nicht existieren." Er spricht das leise aus, als ob er Angst hätte, dass ihn jemand hören könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ich weiß nicht, was sie damit meinten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Die sagten uns doch, wir sollten zu den Göttern beten, also kann das nicht gänzlich wahr sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ich vermute, irgendwann werden wir herausfinden, was das bedeutet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Jetzt sag mir nicht, dass du dir wegen etwas Neuem ins Hemd machst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ja, ich glaube schon. Trotzdem kann ich nicht aufhören, mir Sorgen darüber zu machen, in welchem Zustand wir wären, wenn das auf irgendeine Weise wahr ist. Wenn es keine Macht gäbe, die uns in diesem Leben leitet, und uns ins nächste führt." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Dann denk nicht darüber nach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ich bin mir sicher, dass wir unseren eigenen Weg finden werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Lass uns nur hoffen, dass das nicht der Fall ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Unter seiner Kapuze legt sich seine Stirn in Falten. "Wahrlich, ein guter Rat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Unter seiner Kapuze legt sich seine Stirn in Falten. "Ich hoffe, dass du Recht hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Wahrere Worte hat noch niemand gesprochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Dann wäre Iselmyr nur ein glücklicher Zufall und du könntest niemand für sie verantwortlich machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Er schmunzelt. "Ja, das würde den ganzen Sache den Spaß wegnehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Es ist nur so ... ich kann nicht aufhören, mir Sorgen darüber zu machen, in welchem Zustand wir wären, wenn das auf irgendeine Weise wahr ist. Wenn es keine Macht gäbe, die uns in diesem Leben leitet und uns ins nächste führt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Er verdreht die Augen. "Du kannst mich ja gerne dramatisch nennen, aber ist die Existenz oder das Fehlen mächtiger Wesen, die unser Schicksal nach unserem Tod kontrollieren nicht Grund genug, sich zu sorgen? Fragst du dich nicht, in welchem Zustand wir wären, wenn es keine Macht gäbe, die uns in diesem Leben leitet, und uns ins nächste führt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Lass uns über etwas anderes sprechen, während wir Rast machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Wir sollten uns auf den Weg machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Trigger Conv Node 63 </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Er seufzt. "Und die angenehme Seite davon ist, dass ich mir noch viele Tage lang Gedanken darüber machen kann, wie ich mit ihr umgehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Aloth, diese Entscheidung musst du treffen. Na, was meinst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Dein ganzes Leben lang hast du Befehle befolgt. Wenn du dich ihr gegenüber nicht behaupten kannst, wird es dir nirgendwo gelingen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Sie ist ein Teil von dir - ob es dir gefällt oder nicht. Und solltest du lernen, mit ihr zu arbeiten, könnte sie für dich zu einer Kraftquelle werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Er schweigt einige Augenblicke. "Ich habe sie immer als Gegnerin gesehen. Du hast mir gezeigt, dass sie trotz all ihrer Fehler auch eine Verbündete gewesen ist. Wir wollen dieselben Dinge, auch wenn wir ihnen auf verschiedene Weise nachgehen."
+
+"Ich glaube, es ist an der Zeit, dass ich aufhöre, sie zu bekämpfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Er schweigt einige Augenblicke. "In letzter Zeit habe ich viel darüber nachgedacht. Über ihre Leichtsinnigkeit, ihre Unberechenbarkeit. Und darüber, wie meine eigene Unentschlossenheit daran schuld ist."
+
+"Ich muss damit anfangen, die Kontrolle zu übernehmen. Und das beginnt hier und jetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Er legt sich sein Haar hinter die Ohren und streicht seine Kapuze glatt. "Es ist schwierig, sich in seiner eigenen Haut wohlzufühlen, wenn man sie mit jemand anderem teilen muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Er schweigt einige Augenblicke. Letztendlich aber nickt er. "Wie merkwürdig. Ich habe den Großteil meines Lebens mit ihr gelebt, aber ich habe sie immer als Gegnerin gesehen. An dem Tag, als sie sich meinem Vater entgegenstellte, hätte es mir dämmern können ... aber es ist wahr, dass man eine Situation nicht klar sehen kann, wenn man zu sehr darin verstrickt ist."
+
+Er lächelt. "Nicht mehr gegen sie zu kämpfen, wird mir eine Erleichterung sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Selbst als er das sagt, kämpft etwas in ihm. Seine Gesichtsmuskeln zucken und seine Haut erschaudert. Seine Augen rollen nach hinten, bis man nur noch das Weiße sieht. Auf seiner Stirn bilden sich glitzernde Schweißtropfen.
+
+Nach mehreren Sekunden seufzt er und schaut zu dir zurück.
+
+"Das ... war nicht so schwierig, wie ich erwartet hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Dann ... stimmt es also. Die Götter sind ein Schwindel, dem die Leute Tausende Jahre gefolgt sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Aloths Gesicht ist vor Wut und Verzweiflung ganz verzerrt. "Man hat uns angelogen ... unser ganzes Leben, und viele Leben davor. Und das hat uns dazu verleitet, unseren Glauben in einen Pantheon von Göttern zu legen, die ihn zu keiner Zeit verdient hatten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Die Leute brauchen etwas, an das sie glauben können. Und die Götter, wie auch immer sie aufkamen, erfüllten diesen Zweck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Die Engwithaner hatten Recht. Die Leute sind Narren, und ohne irgendeine Form von Autorität, die drohend über ihnen schwebt, kann man ihnen nicht trauen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Was für einen Unterschied macht das denn? Die Leute werden so sein wie sie sind, ganz gleich, ober sie an Götter glauben oder nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Das ist ein Frevel! Leute so hinters Lichts zu führen, dafür gibt es keine Entschuldigung!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Thaos hat Unrecht. Die meisten Leute sind im Grunde anständig. Die Wahrheit zu kennen, kann sie nur noch besser machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Er reißt seinen Kopf nach hinten. "Ich bin überrascht, dich das sagen zu hören. Mir scheint es, als wäre es sehr schädlich, Autorität auszuüben, wo vielleicht keine benötigt wird. Wir haben die Gräueltaten gesehen, die Mitglieder des Bleiernen Schlüssels begangen haben, ohne überhaupt zu verstehen, warum oder für wen sie handeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Er kratzt sich am Kinn und seine Augen starren im verdunkelten Gefängnis auf einen weit entfernten Ort. "In der Tat. Und ich fürchte mich davor, was aus der Welt werden würde, verlören die Leute diese Verankerung im Leben. Selbst der weitverbreitete Glauben an die Götter scheint kaum genug zu sein, um unsere Ziellosigkeit zu korrigieren und unsere Verdorbenheit einzudämmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Er schaut aus seinen Augenwinkeln zu dir zurück. "Ich habe mir auch das Folgende überlegt: Wenn du mit Thaos fertig bist ... falls ich dich richtig einschätze ... dann wird nicht mehr viel von ihm übrig sein." Ein Mundwinkel zuckt zu einem schiefen Grinsen. 
+
+"Das wird den Bleiernen Schlüssel seines Kopfes berauben. Vielleicht ist es das Beste, dass es so bleibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Er schaut aus seinen Augenwinkeln zu dir zurück. "Ich habe mir auch das Folgende überlegt: Wenn du mit Thaos fertig bist ... falls ich dich richtig einschätze ... dann wird nicht mehr viel von ihm übrig sein." Ein Mundwinkel zuckt zu einem schiefen Grinsen.
+
+"Das wird den Bleiernen Schlüssel seines Kopfes berauben. Jemand wird diese Lücke füllen müssen. Jemand, der Ordnung in das Chaos bringen kann, das Thaos hinterlassen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Er kratzt sich am Kinn und starrt im verdunkelten Gefängnis auf einen weit entfernten Ort. "Du hast Recht. Die Leute wären wohl besser dran, wenn sie ihren eigenen Weg fänden, als weiter dieser Farce zu folgen. Außerdem haben die Götter nicht gerade viel getan, um uns daran zu hindern, uns gegenseitig abzuschlachten. Wenn überhaupt, dann haben sie uns Vorwände dafür gegeben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Er reißt seinen Kopf nach hinten. "Wie kannst du das sagen, nach all dem, was wir gesehen haben? Auch wenn man sich vorstellt, dass die Götter über uns wachen und unseren Wiedergeburten den Weg weisen, so ist es doch ein Wunder, dass wir uns nicht alle längst gegenseitig umgebracht haben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Anscheinend haben sie das in letzter Zeit ALLE gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Der halbseelige Elf hat ausnahmsweise mal Recht. Ignorant zu leben, heißt den Göttern zu erlauben, mit uns herumzuspielen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Da hast du Recht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Nein. Jemand sollte in diese Rolle schlüpfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Mach, was du für richtig hältst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Du solltest dich darum kümmern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Aber ja, ich wäre gerne der neue Großmeister des Bleiernen Schlüssels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Nein. Lass ihn sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Aloth nickt einmal. "Dann wollen wir Thaos gegenübertreten. Wenn das hier alles vorbei ist, werde ich dafür sorgen, dass niemand seine Ungerechtigkeiten wiederholen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Mach, was du für richtig hältst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Aloth nickt einmal. "Dann wollen wir Thaos gegenübertreten. Wenn das hier alles vorbei ist, werde ich mich daran erinnern, was wir durchgemacht haben. Ich werde dafür sorgen, dass der Bleierne Schlüssel in eine stärkere, bessere Führung für die Gestandenen umgewandelt wird ... und ich werde Thaos' Fehler nicht wiederholen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Seine Augenbrauen heben sich in die Dunkelheit seiner Kapuze. "Ah ... nicht, dass du während unserer Reisen nicht der bestmöglichste Anführer gewesen wärst, aber ich hatte eigentlich erwartet, selbst Thaos' Platz einzunehmen. Wer auch immer in diese Rolle schlüpft, muss sich mit der Infrastruktur und den Operationen des Bleiernen Schlüssels auskennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Er schüttelt den Kopf. "Das von dir zu hören ... kommt unerwartet. Warum ihn weiterführen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Jemand wird diese Lücke füllen - so oder so. Dann solltest besser du es sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Denke nur an all das Gute, was du mit dieser Macht vollbringen könntest. Die Welt benötigt Führung mehr als je zuvor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Wenn du den Bleiernen Schlüssel führst, dann weiß ich zumindest, dass sie nicht mehr versuchen werden, mich umzubringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Jemand muss uns davon abhalten, uns gegenseitig zu ermorden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Er gestikuliert mit seiner Hand auf das trostlose Gefängnis um euch herum. "Nach all dem? Ohne jemand an der Spitze wird die Welt auseinanderbrechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Du bist aber nicht auseinandergebrochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Wenn die Welt jemand wie Thaos braucht, dann ist sie es vielleicht nicht wert, beschützt zu werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Es mag ja zu Kämpfen kommen, aber die Leute werden dadurch letztendlich besser werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Die Leute sind besser, als du denkst. Wenn man sie ihren eigenen Weg finden lässt, wird die Welt zu einem besseren Ort werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Seine Körperhaltung versteift sich. "Wie du wünschst. Ich wünsche dir alles Gute bei deinem Kampf gegen Thaos - wirklich." Aloth verlässt dich und verschwindet in den Korridoren von Caed Nua, ohne sich auch nur einmal umzusehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Anscheinend kommt es ungeachtet dessen zum Gemetzel, ob ein Gott involviert ist oder nicht. Und wenn kein Gott zu seiner Rechtfertigung herhalten könnte, dann wäre es halt was anderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

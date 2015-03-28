@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_caedman_azo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>65</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ein Mann mit rundem Gesicht und Halbglatze wendet sich zu dir. Seine Oberlippe wird durch seine spitze Nase leicht nach oben gezogen, wodurch seine Zähne zu sehen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Was ist denn JETZT?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ethelmoer hat mir gesagt, du dürftest keine Experimente mehr durchführen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Tja, nun, ETHELMOER hat nichts Vernünftiges mehr bewerkstelligt, seit er seine Seele in einen LEBLOSEN GEGENSTAND übertragen hat, also wüsste ich nicht, warum mich das abhalten sollte."
+
+"Wenn Beseeler alle die Befehle ihrer Anführer befolgen würde, wo wären wir denn dann? Wir wären alle ebenso rückwärts gerichtet und willentlich ignorant wie in Readceras. Wir wüssten NICHTS über Leben und Tod oder gar über uns selbst! Wir wären verloren im Dunkeln und hätten keinen Schimmer warum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Bist du der Beseeler, der die Relikte von Imatl gekauft hat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Versuchst du, mich zu diskreditieren? Geh anderswo im Dunkeln stochern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Hast du deine Experimente auch an anderen Versuchspersonen ausprobiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ich ... ja, habe ich. Zu lügen hätte keinen Sinn, nachdem Ethelmoer nun beteiligt ist. Ich habe unter unseren Patienten Freiwillige gesucht und einige mutige Seelen haben sich gemeldet."
+"Ich stand einmal kurz vor einem Durchbruch. Das wussten sie. Sie wussten, dass ihr Opfer etwas bedeuten würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Du spielst mit Dingen jenseits deiner Vorstellungskraft. Das ist gefährlich und töricht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Mir scheint, wir tappen noch immer im Dunkeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Es gibt doch gewiss andere Wege, bei denen man keine Leben riskieren muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Zumindest in diesem Punkt hast du Recht. Es gibt gewisse Fragen, die gestellt werden müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ich habe kein Interesse, darüber zu streiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Kommst du aus Readceras? Bist du Waidwen selbst? Auferstanden, um mich Ketzer zu richten, weil ich erfahren will, wer ich bin und warum ich existiere? Bitte. Du hast Angst, weil Menschen dir beigebracht haben, Angst zu haben, weil man ihnen beigebracht hat, Angst zu haben."
+
+"Diese Dinge sind nur deshalb jenseits unserer Vorstellungskraft, weil Leute wie du solche Angst haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ist das ein Grund, es nicht zu VERSUCHEN? Sollen wir bis ans Ende aller Zeiten im Dunkeln tappen? Soll der letzte Atemzug des letzten lebenden Menschen in Unwissenheit ausgestoßen werden?"
+
+"Die Götter wollen, dass wir es wissen. Die Hinweise sind überall. Indem wir diese Wahrheiten verstehen, ehren wir ihre Schöpfung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"In der Tat. Viele haben ihr Leben mit diesen Dingen zugebracht. Abhandlungen und Gedichte geschrieben. Aber sag mir eins, wie kann man die Wahrheit eines Gedichts ergründen? Wenn ein Philosoph über die Bedeutung unserer Existenz stolpern würde, wie könnten wir ihn unter all den Irrgeleiteten erkennen?"
+
+"Es sind vergeudete Leben. In der Beseelung liegt der Fortschritt. Dank unserer Arbeit sind wir dem vollständigen Verstehen unendlich viel näher gekommen. Und das gilt so lange, bis unsere Arbeit abgeschlossen ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ganz genau. Ich bin hier unten und widersetze mich meinen Meistern, weil ich hier Gutes tun kann und weil ich nicht zulasse, dass die Bürokratie das verhindert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Wer wird Waidwens Vermächtnis lösen? Eine Kirche? Ein Krieger? Ein Beseeler wird es lösen ... oder niemand wird es lösen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Wie so viele andere, die tatenlos zusehen, während eine ganze Nation langsam zu Staub zerfällt. Apathie und Ignoranz sind der wahre Fluch, der den Dyrwald dem Untergang weiht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ich muss wissen, ob du bei deinen Patienten ungewöhnliches Verhalten beobachtet hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Du wirst viele seltsame Blicke ernten, wenn du in einem Sanatorium für seelisch unausgeglichene Patienten solche Fragen stellst."
+
+"Die Wahrheit ist, ich habe kaum Zeit damit verbracht, sie zu behandeln, seit ich in meinen Fähigkeiten eingeschränkt wurde. Mit einigen unserer weniger stark eingeschränkten Patienten könntest du Glück haben. Sie halten sich meistens im Hauptbereich auf, unmittelbar nach dem Eingang zu den Patientenstationen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Du hast gegen ihren Willen Experimente an Patienten durchgeführt. Ihre Seelen verstümmelt. Ich habe es mit meinen eigenen Augen gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Azos Gesicht verliert auch noch das letzte bisschen Farbe. "Wie ist das MÖGLICH, dass du-?
+
+Es musste getan werden. Ethelmoer und die anderen, sie haben mir alles genommen. Alles, wo ich SO KURZ vor dem Ziel stand! Ich musste es wissen. Ich musste wissen, wo ich fehlgegangen war und warum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Überleg doch, was ein Erfolg bedeutet hätte! Ich hatte einen Weg gefunden, all diese Hohlgeburten in so etwas wie einen echten Menschen mit echter Persönlichkeit zu verwandeln. Und mit einigen Fürsprechern und noch einigen Jahren der Forschung, wer weiß?" 
+
+"Niemand ist der Lösung des Vermächtnisses je so nah gekommen. Deswegen muss ich meine Arbeit fortsetzen. Deswegen muss ich alles riskieren, indem ich hier im Geheimen arbeite. Deswegen musst du für mich Ethelmoer anlügen. Sag ihm, du konntest jeden Verdacht ausräumen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Wir werden sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Wenn sich dadurch vielleicht das Vermächtnis aufhalten lässt, sichere ich dir mein Schweigen zu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Ich werde dich als das entlarven, was du bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Angreifen.] Du musst dich deiner Strafe stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Dann muss ich auch dich aus dem Weg räumen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ich vertraue darauf, dass du tust, was für den Dyrwald richtig ist. Gib nicht allen die Verantwortung für meine Fehler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Azo nickt eifrig. "Gut. Gut. Dann haben wir eine Übereinkunft. Ich verspreche dir, ich werde diese Gelegenheit nicht vergeuden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ich habe gehört, dass du degradiert wurdest. Was ist geschehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Azo schnaubt wütend und fletscht seine Zähne noch mehr.
+
+"Das ist nicht deine Sorge! Hat dich jemand dazu angestachelt? Audmer? Dieser hinterhältige, selbstgefällige Wurm."
+
+"Es ist ... etwas schiefgegangen. Alles. Ich weiß nicht wie. Ich werde es nie wissen." Er spuckt auf den Boden, als müsste er einen bitteren Geschmack loswerden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Wael hat ihn berührt", flötet Hiravias hinter dir, bevor er flüsternd hinzufügt " ... aber ich habe das Gefühl, er weiß es nicht".
+
+Er nickt Azo zu und berührt zum Gruß seine Augenklappe. "Würden wir nur die einfachen Probleme ergründen, würden wir wenig erreichen und noch weniger verdienen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Was, wenn es für immer Hohlgeburten geben wird? Was, wenn Generation um Generation mit diesem Grauen konfrontiert ist? Wenn sich all das aufhalten ließe, indem man ein paar Dyrwäldler auf dem Altar der Wissenschaft opfert ... " Sein Gesicht verzieht sich zu einem gequälten Lächeln. "Dann kann ich an seiner Ethik nichts aussetzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Was hast du GETAN?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Es wird eine Weile brauchen, bis die Dinge hier sich beruhigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Ich suche nach einem Experten auf dem Gebiet der Erweckung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Ich habe keine Zeit, dich herumzuführen. Geh jemand anderen belästigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Weggehen] "Ich habe keine Zeit für so etwas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Ich möchte Zugang zur Nordstation haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Kommt nicht in Frage. Diese Patienten sind nicht ohne Grund isoliert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Ich habe deine Unterlagen gesehen. Ich weiß, was du mit ihnen tust."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Damit du sie zu deinen Experimenten drängen kannst? Freyol hat mir alles erzählt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Deine Stirn wirkt plötzlich so feucht. Vielleicht sollte ich deinen Ungehorsam mit dem Oberwärter besprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Ich habe die Erlaubnis, meine Ermittlungen hier unten durchzuführen. Du solltest lieber kooperieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Das ist privat! Dazu hast du nicht das Recht"!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Sie ist eine Patientin! Dieses unverschämte Weib weiß nichts über meine Experimente!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Du eitler Kretin! Du wagst es, hier herunter zu kommen und dich einzumischen? Du hast keinen Schimmer, wie wichtig meine Forschung ist!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Er ballt die Faust und gräbt seine Zähne in seinen Zeigefinger. Ein Knurren schwelt unter seinem aufgeregten Atem und sein Gesicht legt sich in tiefe Falten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Meine Antwort lautet nein. Wonach auch immer du suchst, diese Patienten können dir dabei nicht helfen. Der Oberwärter wird sich auf meine Seite stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Ich hätte nie geglaubt, dass ich mal mit einer Statue einer Meinung bin, aber Ethelmoer hat Recht, was diesen Burschen angeht."
+
+Er blickt Azo verächtlich an. "Wie leicht Ehrgeiz sich als Besonnenheit tarnt. Gewiss hat er sogar sich selbst getäuscht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Beseeler müssen die Grenzen des Wissens überschreiten, aber du musst vorsichtig sein, Azo. Selbst Trutzbucht ist für die Forschung nicht mehr so sicher wie einst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Unsere Anführer leiten uns - und ohne sie laufen wir Gefahr, vom Weg abzukommen. Wenn dieser Mann sich selbständig machen will, dann lasst alleine auskommen, ohne die Vorzüge des Sanatoriums."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Du vertraust deine Jagd einem tollwütigen Köter an? Der Mann hat wenig Respekt vor seinen Versuchspersonen. Das sagt nichts Gutes über seine Hingabe an die Wissenschaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Sagani runzelt die Stirn und tritt auf der Stelle. "Deswegen ziehe ich die Jagd vor. Töten oder getötet werden ist eine einfache Entscheidung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Nicht über das Urteil von [Player Name] solltest du dich sorgen, sondern über das des Mobs. Er schert sich nicht um gute Absichten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Aloth schüttelt zornig den Kopf. "Dieselben Narren, die für die Grausame Erlösung verantwortlich sind, glaubten, sie hätten das Problem gelöst."
+
+"Einige Jahre des Studiums und ein Forschungslabor verleihen einem nicht die moralische Autorität, an Seelen herumzudoktern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Dieser Mann trägt wenig Wärme in sich ... aber viel Feuer. Aber vielleicht bedarf es Leuten wie ihm ... die bereit sind, alles zu riskieren, um den Dyrwald zu heilen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Was hat das zu bedeuten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Also schön! Sprich mit ihnen. Als würde es dir etwas nützen. Die Gespräche werden gewiss FASZINIEREND sein."
+ 
+Er zieht einen schweren Schlüssel aus einer seiner Taschen und schleudert ihn fast zu Boden, ehe er ihn dir überreicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_hamor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Du hast mich um einen Dolch gebeten und ich sagte nein, erst wenn du älter und verantwortungsbewusster bist. Erinnerst du dich an das Gespräch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Gordys Augen blicken starr auf den Boden vor ihm. "Jawohl, Vater."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Und doch finde ich dich hier draußen mit einer Klinge spielen, die OFFENSICHTLICH den Rittern gehört. Du verstehst, dass mich das wundert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich habe ihn nicht gestohlen, wirklich! Ich habe ihn gegen ein Geheimnis eingetauscht." Er zeigt auf dich. "Frag ihn!"</DefaultText>
+      <FemaleText>"Ich habe ihn nicht gestohlen, wirklich! Ich habe ihn gegen ein Geheimnis eingetauscht." Er zeigt auf dich. "Frag sie!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Hamor wendet sich dir zu. "Stimmt es, was mein Sohn sagt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Er will Schmelztiegelritter werden. Ich dachte, ich könnte ihn so die ersten Schritte auf dem Weg zu einem ehrenwerten Beruf machen lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Lügen] "Ich habe diesen Knaben noch nie zuvor gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ganz recht. Und was tust du jetzt dagegen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Er lügt! Er hat mir doch-"</DefaultText>
+      <FemaleText>"Sie lügt! Sie hat mir doch-"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Du weißt einfach nicht, wann du aufhören musst, was, Junge? Tja, weißt du was? Du wirst drei Wochen lang die Nachttöpfe im Fuchs und Gans säubern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Das ist ungerecht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Nun sind es vier Wochen. Willst du fünf daraus machen? Nur zu, öffne deinen Mund noch einmal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Er starrt dich einen Augenblick an und schüttelt dann den Kopf. "Nun, ich heiße es weiterhin nicht gut, dass mein Junge eine Waffe hat, aber ich bin froh, dass er kein Dieb ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Du kannst die Klinge behalten, aber ich bewahre sie für dich auf, bis du Knappe bei den Rittern bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Komm, Gordy. Du kannst nicht den ganzen Tag hier draußen herumlungern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Er will etwas sagen, überlegt es sich dann aber besser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Er ist noch ein Kind, verstehst du das nicht? Was hast du dir dabei gedacht, ihm eine solche Klinge zu geben? Halt dich in Zukunft von ihm fern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Gordy schluckt, aber bleibt stumm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Gut. Und jetzt geh rüber zum Gasthaus. Deine Strafe beginnt sofort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Es tut mir leid, dass mein Junge dir Schwierigkeiten machen wollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Gordy war schon immer sehr willensstark und stur."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

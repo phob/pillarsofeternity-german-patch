@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_fiorm_dead_memories</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Unter dem tosenden Wasserfall liegt die Leiche eines glanfathanischen Elfenjägers zertrümmert auf den Felsen. Gebrochene Knochen ragen aus der Haut, doch du bemerkst auch tiefe, parallele Schnitte in dem verrottenden Fleisch.
+
+Die Schnitte überdecken fast den gesamten Körper, als wäre er von einem Dutzend Klingen zerfetzt worden. Dieser Mann ist vermutlich schon vor seinem Sturz von den Klippen gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du berührst die Stirn des toten Elfen. Die violette Haut ist mit Wassertropfen bedeckt. Plötzlich durchfährt dich ein Blitz aus der verbliebenen Essenz des Jägers. Die Welt um dich herum verschwindet ... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText> ... du schleichst lautlos durch das Unterholz. Der Mondschein berührt kurz deine Arme und beleuchtet sie fahl, doch du huschst schnell wieder in die Schatten der großen Bäume der Nordlandschaft. Dein Blutsbruder ist weniger geschickt, genau wie du vermutet hast ... 
+
+ ... sieh ihn dir an. Schwach. Blind. Er verdient es nicht, den Ruhm dieser Jagd mit dir zu teilen. Es ist unzählige Jahreszeiten her, dass ein Stelgaer wie dieser, doppelt so groß wie gewöhnlich, durch die Wälder bei Zwillingsulmen streifte ... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText> ... Arthwn ist auf die List hereingefallen. Fast hast du Mitleid mit ihm, doch du bist überzeugt, dass er nur im Weg wäre, wenn das Töten beginnt. Am Fluss ist er sicherer, in dem Glauben, dass wir den Stelgaer flankieren, sobald er hinabkommt, um zu trinken. Aber diese Beute gehört dir allein ... 
+
+ ... Der Stelgaer ist größer, als du dachtest. Er steht furchtlos auf dem Kamm des Wasserfalls, seine Silhouette schneidet ein monströses Loch in den Nachthimmel. Eine legendäre Bestie. Ein wahrer Jäger ... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>... Deine Hand umfasst den Schaft des Speeres fester, den du von deinem Vater hast. Er ist gut ausbalanciert, genau richtig. Du setzt zum Wurf an. Du legst all deine Kraft hinein. Der Speer fliegt schnurgerade und trifft sein Ziel. Der Stelgaer hat nicht einmal etwas gehört. Sein Blut spritzt hell auf die Felsen ... doch er scheint nichts zu spüren.
+
+... Die Bestie greift an. Der Mondschein lässt seine riesigen Reißzähne aufblitzen. Deine Hände ziehen deine Klingen, ohne nachzudenken. Du stürzt dich nach vorne, um diesem Monster zu begegnen. Es ist schnell. Es zerfetzt dein Fleisch. Du stichst in die Dunkelheit, die dich umgibt, tief, wieder und wieder. Aber ihre Umarmung lässt sich nicht aufhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

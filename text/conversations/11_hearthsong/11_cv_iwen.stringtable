@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_iwen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Alarhî kümmert sich um alle Geschäfte. Ich gehe nur bei ihr in die Lehre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ein junges Mädchen blickt mit gleichgültigem Blick über den Markt. Als du dich näherst, richtet sie sich auf.
+
+"Willkommen, Estramor!" sagt sie mit einem Knicks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Guten Tag, Estramor. Brauchst du eine Tinktur oder einen Wickel gegen deine Krankheiten?" Das Mädchen streicht mit der Hand über eine Verkaufsvitrine. "Ich habe alles, was der Kräuterkundler sich wünscht - sieh dich ruhig um!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Alarhî ist nicht hier, daher leite ich so lange den Laden." Sie präsentiert mit den Händen die Vitrinen voller Tinkturen und Wickel. "Wenn du nach Kräutern, Tinkturen, Ölen oder Salben suchst, dann habe ich alles, was du jemals brauchst!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Bitte zeig mir deine Waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ihr Lächeln wird breiter. "Natürlich! Sieh dich um ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich suche nach Alarhî - wo finde ich sie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Sie wohnt ganz in der Nähe." Das kleine Mädchen zeigt auf den Ausgang des Markts. "Die Treppen hinauf. Oben steht ein Kreis von Ruinen, kennst du ihn? Auf der Nordseite von Herdlied. Ihr Haus ist gleich dort. Die Tür zeigt auf die Ruinen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Willkommen zurück, Estramor. Wie kann ich dir helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

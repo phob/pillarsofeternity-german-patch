@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_oldsong\12_bs_oldsong_cipher_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Die Absichten des Feindes schlagen wie Wellen gegen die Küste - man sieht sie schon, bevor er überhaupt zuschlägt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>" ... Wenn diese Gedanken Gestalt annehmen und sich bewegen, stören sie die Ruhe des Geistes. Ein See wird zu einem wilden Meer oder zu einem friedlichen Teich, nach deinem Willen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Kanalisiere die Gedanken des Feindes und befehlige so seinen Geist ... Verstehst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>" ... Nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Einen Verstandsjäger kann man nicht belügen, aber spiele zumindest ein wenig mit, ja?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

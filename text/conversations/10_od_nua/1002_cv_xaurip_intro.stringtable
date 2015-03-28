@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1002_cv_xaurip_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als du diese Kammer betrittst, attackiert dich eine Kakofonie aus Gekreische, Geknurre und Gebell. Blutbespritzte Xaurips tanzen mit frenetischen, hüpfenden Bewegungen. Auf einer Seite taucht ein Xaurip seine Hände in einen Eimer voller Blut, um andere Xaurips, die bereitwillig in die Riten einfallen wollen, mit Mustern zu beschmieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Auf der entgegengesetzten Seite des Raumes steht ein Xaurip, der den langen Schädel eines Jungdrachen und kräftige Federn trägt. Mit kreischenden und klickenden Geräuschen schwenkt er einen Stab in Richtung der versammelten Xaurips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Plötzlich hebt der Hohepriester den Stab über seinen Kopf und kreischt mit neuer Kraft. Er schwingt den Stab nach unten, um auf die Grube zu deuten - und dann auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich weiß nicht, ob mir dieser Vorschlag gefällt ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich glaube, wir wurden nur eingeladen teilzunehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

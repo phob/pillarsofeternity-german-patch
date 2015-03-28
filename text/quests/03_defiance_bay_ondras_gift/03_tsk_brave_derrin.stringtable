@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_defiance_bay_ondras_gift\03_tsk_brave_derrin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Tapferer Derrin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde Derrin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Berichte Odda über Derrins Schicksal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Finde Derrins Mörder. (optional)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Berichte Odda, dass du Derrins Mörder umgebracht hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Finde Derrins Familie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein kleiner Junge namens Derrin ist in Ondras Geschenk verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Oddas Sohn Derrin ist schon seit zwei Tagen verschwunden. Da sie sich zu Hause um ihr hohlgeborenes Kind kümmern muss, hat sie mich gebeten, nach ihm zu suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe Derrins Leichnam gefunden. Seine Seele zeigte mir, dass er eine Prostituierte in der Nähe des Salzigen Masts gegen zwei Schläger verteidigte, die ihn ermordeten und seinen Körper unter die Docks warfen.
+
+Odda wird wissen wollen, was sich zugetragen hat.
+
+Natürlich kann ich auch Derrins Mörder ausfindig machen und sie zur Strecke bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Derrins Mörder sind unter den Städtern, die beim Salzigen Mast Prostituierte und Freier belästigen.
+
+Wenn ich Derrin rächen möchte, kann ich sie wahrscheinlich in der Nähe des Bordells finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich konfrontierte Bragan mit Beweisen für seine Rolle bei Derrins Tod. Er und sein Freund griffen mich an, worauf ich sie beide umbrachte.
+
+Zu wissen, dass die Mörder ihres Sohns tot sind, könnte Odda etwas Frieden bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>In den Kanälen in der Nähe des Bordells habe ich die Leiche eines jungen Knaben gefunden. Seine Familie möchte bestimmt über sein Schicksal erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Das letzte Mal sah Odda Derrin, als er mit seinem Vater zu den Docks ging, um dort zu angeln. Vielleicht sollte ich mich mit den Matrosen und Fischern in Ondras Geschenk unterhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe Gerüchte gehört, dass Derrins Vater Stammgast im Salzigen Mast ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe Derrins Vater gefunden. Er ließ den Knaben für ein Met auf die Schnelle allein und fand ihn danach nicht mehr wieder. Jetzt schämt er sich zu sehr, um wieder nach Hause zu gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Der ortsansässige Matrose Marceno erzählte mir, dass Derrin vor ein paar Tagen vorbeigekommen ist und darum gebeten hat, an Deck spielen zu dürfen. Marceno lehnte ab und sah das Kind auf den Salzigen Mast zugehen, ein hiesiges Bordell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Imatl erzählte mir, dass Derring gerne bei den Schiffen in den Docks spielt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich hob einen Dolch auf, in dessen Knauf der Buchstabe 'B' eingraviert wurde. Höchstwahrscheinlich gehörte er Derrins Mörder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe Bragan und seine Schergen getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich konfrontierte Bragan mit Beweisen für seine Beteiligung an Derrins Tod. Ich ließ mich von ihm für mein Schweigen bestechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich nahm den Dolch an mich, auf dem 'B' eingraviert ist. Höchstwahrscheinlich gehörte er Derrins Mörder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich habe Bragan und seine Schergen getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Ich konfrontierte Bragan mit Beweisen für seine Beteiligung an Derrins Tod. Ich ließ mich von ihm für mein Schweigen bestechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Im Salzigen Mast fand ich Weyd, Derrins Vater - er sah so aus, als wäre er schon eine ganze Weilt dort gewesen. Odda, Derrins Mutter, lebt in Ondras Geschenk. Ich sollte sie aufsuchen, damit sie über ihren Sohn erfährt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Odda glaubt irrtümlicherweise, Derrin sei mit einem Schiff davongesegelt, um ein neues Leben zu beginnen. Es ist besser, wenn sie die Wahrheit nicht erfährt - nämlich, dass Derrin tot ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Odda war am Boden zerstört, als sie erfuhr, dass Derrin ermordet wurde. Aber zumindest weiß sie, was ihm widerfahren ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich erzählte Weyd vom Ableben seines Sohnes und zwang ihn, mit der Neuigkeit zu seiner Frau zurückzukehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich fand die Schläger, die Derrin umgebracht hatten und vollendete das Werk des jungen Knaben, indem ich sie umbrachte. Ich erzählte Odda, dass seine Seele in Frieden ruht, worauf sie mir Andenken gab, die sie für Derrin aufbewahrt hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich log Weyd über Derrins Ableben an und erzählte ihm, er wäre an Bord eines Schiffes in ein weit entferntes Land aufgebrochen. Ich zwang ihn, mit dieser Neuigkeit zu seiner Ehefrau zu gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich konnte Derrins Mörder finden, ersparte der Familie aber die Neuigkeiten über den Tod des Sohnes und ermöglichte ihnen, in Unwissenheit seines Schicksals weiterzuleben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Ich brachte Odda um und bereitete all ihren Sorgen damit ein Ende.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

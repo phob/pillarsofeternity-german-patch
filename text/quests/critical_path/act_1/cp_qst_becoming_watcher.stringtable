@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_1\cp_qst_becoming_watcher</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Visionen und Geflüster</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde die Zwergenfrau aus dem Traum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Suche Hilfe wegen deines Zustands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Nachdem ich eine Explosion außerhalb der Ruinen von Cilant Lîs überlebte, bekam ich eine Vision. Seit dieser Zeit höre ich Geräusche aus dem Nichts und sehe Dinge, die nicht da sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich meinem Traum hörte ich die Stimme einer Frau - einer toten Frau, die an einem Baum im Zentrum von Goldtal hängt. Es mag zwar nichts anderes als ein Traum gewesen sein, aber er wirkte merkwürdig real. Ich versuchte, dorthin zurückzukehren und mich selbst davon überzeugen, ob etwas daran war. Mein Zustand ist unverändert und ich kann nicht gut schlafen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Das ist nicht die Krankheit, die mich beim Wagen getroffen hat. Dies ist etwas Neues - vielleicht ein Leiden des Verstands. Mit etwas Glück gibt es in Goldtal jemand, der weiß, was zu tun ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Der Magistrat hat mir geraten, etwas auszuruhen, während ich auf eine dauerhafte Unterkunft warte. Vielleicht ist das auch das Beste, um dieser Krankheit ein Ende zu setzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich kenne jetzt die Bezeichnung dafür, zu was ich geworden bin: ein Wächter. Wenn ich mehr über dieses Leiden erfahren will, muss ich wohl einen Mann namens Maerwald in der alten Burg Caed Nua aufsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

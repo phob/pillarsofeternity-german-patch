@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\prot2_harond</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Vermächtnis des Blutes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Durchsuche Dyrfurt nach Informationen über Aelys' Verschwinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Kehre zu Lord Harond in der Dracogen-Schänke zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Sprich mit Fürst Harond in der Dracogen-Schänke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Lady Aelys Harond ist in dem ruhigen Dorf Dyrfurt verschwunden. Fürst Harond ist außer sich vor Sorge um sie und befürchtet, dass die Dörfler absichtlich etwas vor ihm verborgen halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Fürst Harond hat Jungfürstin Aelys schon seit einigen Tagen nicht mehr gesehen, und anscheinend haben die Dörfler von Dyrfurt ihm auch nicht besonders geholfen. Aber vielleicht bringe ich etwas in Erfahrung, wenn ich mich ein wenig umhöre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Der Beseeler und Skaen-Anhänger Wymund hat mir einige überraschende Details über Aelys ... und ihre Schwangerschaft durch ihren Onkel, Fürst Harond erzählt.
+
+Da ich mich nun um Wymund gekümmert habe, ist Harond an der Reihe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Eine Wache auf der Brücke nach Dyrfurt hat mir berichtet, dass Fürst Haronds Tochter verschwunden ist. Er und alle übrigen, die in Diensten des Hauses Harond stehen, haben das Dorf nach ihr abgesucht - vergebens.
+
+Fürst Harond wartet in der Schänke. Er weiß gewiss mehr über ihr Verschwinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Dengler erklärte mir, dass Aelys mit Trygil, dem örtlichen Gerber, bekannt geworden ist. Sein Laden befindet sich im eingestürzten Turm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Trygil behauptet, dass Aelys irgendwo in der Nähe des Flusses Bael östlich von Dyrfurt von einem Oger entführt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe den Oger gefunden, aber in der Höhle gab es keine Hinweise zu Aelys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Korgrak der Oger stritt ab, Aelys gefressen zu haben. Ich glaube nicht, dass er irgendwas zu verbergen hatte ... aber vielleicht Trygil?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Beim Erkunden einer Höhle östlich des Flusses Bael fand ich eine Leiche mit einer Mitteilung und einem Schlüssel mit Totenkopfgriff. Die Mitteilung erwähnte eine Art Geheimtempel mit einem Eingang in Flussnähe und einem anderen in einem Turm hinter einem Laden. Die Mitteilung war mit Farbklecksen beschmutzt und mit "T." unterschrieben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Als er erkannt hatte, dass ich zu viel wusste, griff mich Trygil an. Natürlich weiß ich immer noch nicht genau, was er verborgen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Unter Dyrfurt habe ich eine Art Ruine gefunden. Um was es sich dabei handelt, ist nicht klar, aber auf die Wände wurden Symbole von Skaen gemalt und auch in die Tunnelwände geritzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Anscheinend hat ein Skaen untergebener Beseeler Aelys für eine Art von Ritual entführt. Er muss sich irgendwo in diesen Ruinen befinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Trygil behauptet, dass Aelys irgendwo in der Nähe des Flusses Bael östlich von Dyrfurt von einem Oger entführt wurde. Ich bezweifle zwar stark, dass sie mit ihm durchgebrannt ist, aber trotzdem könnte es in der Wildnis noch einige Hinweise geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Hendyna sagte mir, dass Aelys schwanger ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Wymund drängte darauf, dass ich mich ganz normal verhalte. So lange ich bei meiner Rückkehr zu Harond nichts über Aelys Zustand sage, wird der Plan der Skaeniten aufgehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Hendyna sagte, sie habe Aelys mit Trygil sprechen sehen. Sein Laden befindet sich in dem zerstörten Turm in der Nähe ihres Karrens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Fürst Harond war über Aelys' Tod entsetzt ... und noch entsetzter darüber, dass ich sein Geheimnis kannte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>VERSTORBEN</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich schickte Aelys zurück zu Fürst Harond, wissend der Tatsache, dass sie ihn ermorden würde, sobald ihr verdorbener Verstand seine Metamorphose abgeschlossen hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Aelys' Verstand vom Einfluss der Skaeniten zu befreien löschte auch ihre Erinnerungen an Fürst Harond und an das, was er ihr angetan hatte. Ich schickte sie in ein neues Leben weit weg von ihrem Onkel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Aelys kehrte zu Fürst Harond zurück, aber ich erklärte ihm, dass die Skaeniten ihren Verstand verdorben hatten. Harond wird sie ins Sanatorium in Farnheim einweisen lassen, wo es ihr hoffentlich besser ergehen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Ich tötete Fürst Harond und ließ seine Leiche im Obergeschoss dieser stinkenden Schänke zurück. Etwas Besseres hatte er nicht verdient.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

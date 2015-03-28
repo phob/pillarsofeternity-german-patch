@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_lendry_soul</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine zerbrochene Gürtelschnalle liegt auf dem Boden. So billig und wertlos sie auch aussieht, es ist Essenz daran gebunden, erwartungsvoll und verwirrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Gürtelschnalle untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Sie in Ruhe lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Als du dich nach der Gürtelschnalle beugst, erfüllt die Seele, die darin wohnt, dich wie ein starker Schnaps. Du hast das Gefühl, du würdest stolpern, aber die Frau, die deine Hand fest umklammert hält, führt dich weiter. Ihre silbrigen Augen durchschneiden den Nebel in deinem Kopf, doch die Stärke des Griffs dieser weichen Finger stürzt dich wieder in den Abgrund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Es ist ein ganzes Leben her, dass dich eine Frau so angesehen hat, erst recht eine Frau wie sie. Du wurdest schon öfter vom Schnaps getäuscht, aber die Art und Weise, wie alle anderen bei Maea sie angeblickt haben, sagt dir, dass sie wirklich atemberaubend ist. Es ist genau, wie du Oly gesagt hast - die Dinge in deinem Leben ändern sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du musst die letzten paar Minuten vergessen haben, aber ihr seid jetzt in ihrem Haus. Du bist ein Mann auf einem schwankenden Deck, aber das Bett am anderen Ende des Raumes ist ein sicherer Hafen. Aber dort führt sie dich nicht hin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Als du wieder zu Bewusstsein kommst, bist du in einem kalten, dunklen Raum. Der Gestank von Müll und Fäulnis wird durch den schweren Geruch von brennendem Talg nur dürftig überdeckt. Im Schein der Kerzen siehst du nichts als alte Ziegelwände und sie, unmittelbar vor dir. Es fühlt sich an wie ein Traum, wäre da nicht der gleißende Schmerz in deiner Brust. Du versuchst, sie zu berühren, um zu sehen, ob sie echt ist - doch wie alles in Träumen kannst du sie nicht fassen. Du fällst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Das war kein Traum. Du bist gestorben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Das kommt davon, wenn man mit einer fremden Frau nach Hause geht, wenn man so betrunken ist, dass man nicht mehr klar sieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Fantasien hinterherzujagen endet immer mit Ärger. Du hättest das einfache Leben zu schätzen wissen sollen, das du hattest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du erlangst dein Bewusstsein zurück und erhebst dich vom Boden. Die Seele aber bleibt in der Gürtelschnalle zurück, gebunden an die Überzeugung, dass sie bald aus diesem seltsamen Traum erwachen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Seele zittert vor vorübergehender Erkenntnis, ist jedoch noch nicht bereit zu gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du erlangst dein Bewusstsein zurück und erhebst dich vom Boden. Die Seele aber bleibt in der Gürtelschnalle zurück, gebunden an die Überzeugung, dass sie bald aus diesem seltsamen Traum erwachen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Du hättest etwas Besseres verdient gehabt. Sei im nächsten Leben gnädiger mit dir selbst. Glaube daran, dass du alles haben kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Seele erfüllt dich eine Sekunde lang mit Wärme, wie schnelle Schlücke eines Schnapses, bevor sie sich zurückzieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

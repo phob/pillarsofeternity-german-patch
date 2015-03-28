@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_giacco</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>73</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Das Gesicht dieses jungen Mannes ist schwer gezeigt, und seine ausgemergelte Gestalt steckt in einem abgenutzten Hemd. Zitternd beobachtet er dich mit einem Hoffnungsschimmer in den Augen. "Ich weiß nicht, wer du bist, aber ... wirst du mir helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Er schaut nervös an dir vorbei zur offenen Zellentür. "I-ich glaube nicht, dass ich mir den Weg freikämpfen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ist es sicher?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Du bist frei. Renn um dein Leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Hier ist es immer noch gefährlich. Warte vorerst hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Du musst Giacco sein. Nedmar hat mich geschickt, dich zu finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Wenn ich es recht verstehe, bist du hier gelandet, nachdem du die Burg zusammen mit Kolsc und seinen Mannen angegriffen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Giacco nickt eilig und schluckt. "Natürlich. Ich werde hierbleiben, bis du mir Bescheid gibst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Nedmar ... ?" Giacco lacht leise wie ungläubig. "Der Priester hat dich geschickt? Ich dachte ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Naja, ich dachte, er würde mich hier vergammeln lassen. Als ich die Burg verließ, war er nicht allzu glücklich darüber. Ich sagte ihm, ein Kämpfer von Kolsc könne viel mehr Gutes tun als ein Akolyth. Einer Bande Gesetzloser würde ich mich anschließen, beschuldigte er mich. "Giacco schaut zu seinen Füßen hinunter. "Vermutlich hatten wir beide Unrecht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ja." Er schaut weg. "Der Plan schien gut zu sein. Wir kamen ohne Zwischenfälle hinein, und ich kannte den Weg. Im Kerker aber überraschten sie uns, und die meisten von uns ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Giacco erschaudert. "Einige von ihnen wirst du schon gesehen haben. Sie bekämpft haben. Zumindest ihre Körper, ihren Verstand aber nicht mehr. Aber ihre Seelen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Die Frau da unten - Raedrics Beseelerin ... Ihr Name ist Osrya. Ich habe sie manchmal ein Heilmittel erwähnen hören. Fürst Raedric ruft sie oft zu sich. Sie aber heilt niemanden, vielmehr verwandelt sie Männer und Frauen nur in Monster." Er schaudert. "Ich sah, wie sie die anderen holte. Ich war mir sicher, der nächste zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"B-bitte lass mich nicht hier zurück." Giacco zittert. "Und was, falls etwas zurückkommt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Was kannst du mir über Nedmar sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Erzähl mir von Osyra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Nedmar ist für mich wirklich wie ein Vater gewesen. Mein leiblicher Vater war ein Kaufmann, aber er starb bei einem Banditenüberfall, als ich noch klein war. Ich habe kaum Erinnerungen an ihn. An die Zeit danach aber erinnere ich mich wohl - wie ich hier in Goldtal festsaß und um Essen bettelte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Damals war Nedmar ein Priester der Zersplitterten Gottes. Er nahm mich zu sich und zog mich in der Kirche auf. Ich war dafür vorgesehen, in seinen Fußstapfen zu folgen, selbst als er konvertierte und wir uns dem Zwillingsgott zuwandten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich aber begann zu sehen, was mit Goldtal geschah - und was Raedric tat. Nedmar aber sagte einfach immerzu, dass letztendlich alles gut werden würde. Dass wir dem Fürsten der Burg beistehen müssten. Kolsc war der Einzige, der gewillt zu sein schien, etwas dagegen zu unternehmen, anstatt ... naja, anstatt zu beten." Er lächelt traurig. "In anderen Worten: Ich habe zwei Väter zurückgelassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Irgendetwas stimmt nicht mit ihr. Ich meine, ich habe ein schlechtes Gefühl. Im Moment ihres Eintreffens wusste ich, dass sich alles verschlimmern würde", sagt er zitternd. "Aus dem Umgang mit Beseelern kann nichts Gutes herauskommen. Unnatürlich sind sie, alle zusammen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Sie ist diejenige, die sie umwandelte, die aus meinen Freunden Monster machte. Sie würde das zum Wohle Goldtals machen, sagte sie." Giacco ballt eine Faust. "Wohl eher zum Wohle ihres Münzbeutels und ihrer kranken Neugier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Sie ist gefährlich, und wer weiß, was sie sonst noch in ihrem Labor hat. Ich würde da nicht reingehen. Sie hat etwas ... Überzeugendes an sich. Zauber - kein Zweifel!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Danke dir, Fremder! Ich muss zurück zur Gabelung ... aber zuerst muss ich wohl etwas essen und mich ausruhen." Er zögert. "Wenn du dich in die oberen Stockwerke traust, sagt Nedmar bitte, dass ich noch lebe. Sag ihm ... sag ihm, dass ich noch immer die Schnitzerei des Bleichen Ritters habe, die er mir gab. Das sollte ihn überzeugen, und vielleicht kann er dir irgendwie helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"He, hier drüben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Bitte, hol mich aus dieser Zelle raus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Kriegst du das Schloss auf? Ich glaube, diese Beseelerin hat den Schlüssel ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Giacco scheint sich seit seiner Befreiung aus dem Kerker gut erholt zu haben, obwohl noch ein paar verblassende blaue Flecken übrig sind. "Es ist gut, dich wiederzusehen. Ich weiß nicht, ob ich dir jemals gebührend für deine Hilfe danken kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Giacco starrt dich düster an. "Warum? Warum hast du das getan? Du weißt doch, zu was Raedric fähig ist. Du hättest alles ändern können, jetzt aber hast du uns alle Hoffnung genommen, die wir noch hatten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Du solltest diesen Ort verlassen. Du möchtest nicht auf das warten, was uns bevorsteht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Was ist das hier für ein Ort?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Keine Sorge. Raedric ist auf dem Weg in sein nächstes Leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Du hast nur noch eine Chance, Giacco. Geh jetzt, jetzt sofort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Angreifen.] "Ich werde mehr als das nehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Aber ... aber das ist noch schlimmer - warum machst du das alles? Um unser Dorf zu verdammen? Jetzt haben wir niemand mehr, an den wir uns wenden können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Bitte ... du hast genug Schaden angerichtet. Lass mich in Frieden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Giacco zögert und wirft einen Blick zur Tür - aber nur kurz. "Möge deine Seele unter dem Rad zersplittern", zischt er dir zu, als er an dir vorbeirennt. "Die Götter mögen es verhindern, dass wir uns wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Was?" Giaccos Lächeln verschwindet. Er schaut Kolsc an, der gerade mit einem seiner Männer spricht. Giacco senkt seine Stimme. "W-was hast du getan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Angreifen.] "Wie schade, dass du dich von Berath abgewendet hast, Priester, denn du wirst schon bald vor ihm stehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Angesichts all der Wölfe war es ein bisschen aufregender als gedacht, hierher zu gelangen. Kolsc und die anderen aber haben mir geholfen. Ich werde bald genug wieder mitten im Getümmel sein." Er lächelt strahlend. "Und vielleicht kann ich mich dann revanchieren, richtig?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Gibt es irgendwelche Neuigkeiten aus der Festung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Weggehen.] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Irgendwann hat dort wohl jemand gelebt. Heutzutage treffen wir uns manchmal da. Kolsc sagt, der Ort war verlassen, als sie ihn fanden. So, äh, geheim ist das dann doch nicht, oder? Aber ich vermute, es ist weit genug von der Festung entfernt ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Osrya ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Überrascht zieht Giacco scharf die Luft ein, bevor er erleichtert zusammensackt. "Gut. Sie hat viel Schlimmeres verdient. Vielleicht können ja die Leute, die sie verändert hat, jetzt, da sie nicht mehr lebt, ins nächste Leben gehen. Das hoffe ich jedenfalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Wie tapfer von dir, es mit ihr aufzunehmen. Diese Beseeler ... Man weiß nie, zu was sie fähig sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Danke dir, Fremder! Ich muss zurück zur Gabelung ... aber zuerst muss ich wohl etwas essen und mich ausruhen. Sag Nedmar ... naja, sag ihm, dass ich noch immer die Schnitzerei des Bleichen Ritters habe, die er mir gab, als ich noch ein Junge war. Und dass ich hoffe, dass es ihm gut geht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Viel Glück, und mögen dich die Götter behüten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Viel Glück, und mögen dich die Götter behüten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Aloth schüttelt den Kopf. "Männer und Frauen wenden sich zur Heilung der Hohlgeburten diesem Übel zu? Oh, dieser Wahnsinn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Sagani starrt ihn mit vor Abscheu zusammengekniffenen Augen an. "Wie abartig muss man sein, um einen Gefangenen so zu behandeln?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Edér scheint Schmerzen zu haben. "Unser edler Fürst am Werk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Merla! Was haben sie ihm angetan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Nur Wael weiß, welche Verdorbenheiten diesem Mann zugefügt wurden ... etwas sagt mir, dass die Verbrechen dieses Mannes, sofern es überhaupt irgendwelche gab, diese Art von Behandlung nicht rechtfertigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Bei den Göttern! Zu was sind die Leute in diesem Ort geworden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Der arme Kerl ist geschlagen worden. Wir dürften eh nicht hier sein - lass uns ihn befreien und uns einmal zusammen für alles ausschimpfen lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Hör auf mit der Fragerei und beweg dich. Wir haben keine Zeit dafür."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Was ich tun musste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Treib es nicht zu weit, Giacco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Giacco am Arm herüberziehen.] "Wenn du nicht selbst gehst, werde ich dich hinauswerfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Bitte, geh einfach. Du musst nicht hier sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Giacco gafft dich trotzdem noch ein paar Augenblicke an. Letztendlich geht er aber doch einen Schritt nach vorne und an dir vorbei. Mit gesenktem Kopf geht er zur Tür - ein bisschen zu schnell, aber Kolsc schaut nur kurz auf und lässt ihn dann vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Giacco starrt dich mit weit aufgerissenen Augen an. Er schüttelt seinen Kopf - erst langsam, dann mit plötzlicher Entschlossenheit. "Nein - nein, ich werde nicht zulassen, dass du das tust!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Kolsc! Kolsc, er ist zurückgekommen! Raedric hat ihn geschickt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Giacco die Kehle durchschneiden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Es ist nicht so, wie es aussieht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Dummer Junge!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Mit einer schnellen Bewegung zieht du dem jungen Mann deine Klinge über den Hals. Er fällt nach hinten, während er nach seiner klaffenden Halswunde greift. Hinter dir hörst du das Geräusch schabenden Metalls, als sich Kolsc bewegt ... allerdings zu spät, um dich aufzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Kameraden, zu den Waffen! Unter uns befindet sich ein Verräter!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Keine Könige, keine Ducs, keine Thayns. Geht euren eigenen Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Giacco starrt dich an. "Du bist ... du bist einer von - du bist verrückt! Bleib weg von mir!" Er rennt an dir vorbei auf die Tür zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Dann musst du es wohl selbst herausfinden, was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

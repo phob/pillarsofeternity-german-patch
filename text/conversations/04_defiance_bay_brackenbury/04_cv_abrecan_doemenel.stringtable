@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_abrecan_doemenel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>171</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein junger Mann lehnt an einer teuer wirkenden Vitrine aus Gal-Glas. Er hält einen juwelenbesetzten Kelch in der einen und eine aufwändig verzierte Pistole in der anderen Hand. Er grinst, die Lippen rot vom Wein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Brief übergeben.] "Ich habe eine Nachricht gefunden, die dich interessieren könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Du hast hoffentlich eine gute Erklärung. Und zwar rasch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich wurde in einem Haus in Kupferweg angegriffen. Nachdem ich meine Angreifer besiegt hatte, fand ich diesen Brief."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Wein ergießt sich über die spiegelglatten Fliesen, als Abrecan seinen Kelch fortschleudert. Er schlägt den geschnitzten Griff seiner Pistole in die antike Vitrine neben sich. Die Männer, die dir am nächsten stehen, blicken von Abrecan wieder zu dir, die Hände bereits an den Waffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Gewiss. Warum hast du nicht erwähnt, dass du Arbeit zu vergeben hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Nein. Ich bin kein Dieb."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Mein Mann hier sagt mir, du warst an dem Scharmützel im Fuchs und Gans beteiligt. Dem Scharmützel, das meine Schwester ihr Leben gekostet hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Abrecan verschränkt die Arme und lässt seinen Wein im Kelch kreisen. "Du hast etwas für mich, hoffe ich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Die Wache hinter Abrecan flüstert ihm etwas ins Ohr. Die Augen des jungen Adligen verengen sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Dann habe ich keine Verwendung für dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Noch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Edelstein übergeben.] "Hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Sag den Wachen, du seist ein entfernter Vetter." Er zwinkert dir zu. "Sie werden es verstehen."</DefaultText>
+      <FemaleText>"Sag den Wachen, du seist eine entfernte Base." Er zwinkert dir zu. "Sie werden es verstehen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Das dürfte die Ritter und die Dutzenden in ihre Schranken weisen." Er holt einen Beutel mit Münzen hervor. "Nimm das für deine Mühe. Und deine Schuld ist beglichen. Halte dich bereit, falls ich deine Dienste wieder einmal benötige."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Was machst du dann hier? Komm wieder, wenn du den Edelstein hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Du stellst meine Geduld auf die Probe. Komm zum Punkt oder geh mir aus den Augen." Er nimmt einen Schluck aus seinem Kelch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Abrecan lässt seine Pistole um seinen Finger kreisen und nippt an seinem Wein. "Hast du den Brief beschafft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ah, mein findiger Verbündeter. Hast du den Edelstein?"</DefaultText>
+      <FemaleText>Ah, meine findige Verbündete. Hast du den Edelstein?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Edelstein übergeben.] "Ja, hier ist er."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Noch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Er fletscht die Zähne. "Das dürfte die Ritter und die Dutzenden in ihre Schranken weisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Abrecan reißt den Edelstein an sich und begutachtet ihn. "So schnell? Und ohne den leisesten Mucks von den Wachen nebenan? Wirklich äußerst diskret." Er blinzelt dich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Abrecan nimmt den großen Edelstein in beide Hände. "Ich habe nebenan einen kleinen Tumult gehört. Hoffen wir, dass Fürst Reymont das nicht falsch deutet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Er nimmt den Edelstein an sich. "Reymont ist auf der Suche nach neuen Wachen, wie ich höre. Um die zu ersetzen, die dir im Weg waren. Wir müssen uns eine Weile still verhalten, aber der Stein war die Mühe wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Dann komm wieder, wenn du ihn hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Er lässt die Pistole um einen Finger kreisen. "Unser Pförtner schien es für wichtig zu halten, dass du mich sprichst. Also sprich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Abrecans Augen weiten sich und er stößt sich von der Vitrine ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Juwel übergeben.] "Wie du wünschst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Vielleicht sollte ich ihn behalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Abrecan hebt seinen Krug. "Du hörst von mir, wenn ich noch mehr Arbeit für dich habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Der junge Adlige mustert den Edelstein und hält ihn in das Kerzenlicht. Lichtreflektionen tanzen über sein Gesicht. Seine Miene verdüstert sich und er schleudert den Stein nach dir. Er schlägt gegen die Vitrine hinter dir und zerschellt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Abrecan fährt sich mit den Fingern durchs Haar und findet seine Fassung wieder. "Du hast Glück, dass Reymont den echten Edelstein noch nicht verkauft hat. Bring mir das echte Herz der Weißmark, und komm nicht eher wieder, bis du es hast!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Du hast meine Geduld das letzte Mal auf die Probe gestellt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ja, hier ist das echte Herz der Weißmark."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Abrecan spannt den Hammer seiner Pistole und stellt seinen Wein auf der Vitrine ab. "Deine Torheit, meine angeheuerten Männer zu töten, hätte ich dir verzeihen können. Aber das nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Er hebt seine Pistole. "Tötet ihn."</DefaultText>
+      <FemaleText>Er hebt seine Pistole. "Tötet sie."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Es war ein Unfall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Sie stand im Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Dein Mann irrt sich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ja, wenn du glaubst, ich lasse mich so leicht täuschen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Abrecan reibt sich die Hände über das Gesicht. "Du hast meine Männer getötet und mich viel gekostet. Aber ich gebe dir eine Gelegenheit, den Verlust wettzumachen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Du wirst die Aufgabe meiner Männer abschließen. Das dürfte für jemanden von deinem ... Ruf ... keine Schwierigkeit darstellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Schließ sie doch selbst ab, Hurensohn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Abrecan lacht. "Du hast Mumm, das gefällt mir. Ein Jammer, dass ich dich nicht nutzen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Sein Lächeln ist gefährlich schmal. "Das ist ein Befehl, kein bezahlter Auftrag. Erledige ihn, dann vergesse ich deinen Fauxpas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Fürst Reymont hat einen Edelstein, so groß wie die Eier eines Aumauas. Man nennt ihn das Herz der Weißmark. Einer meiner Kontakte wird das Fenster im ersten Stock geöffnet lassen. Ich will, dass du dich hineinschleichst und den Edelstein findest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Ihm das Herz der Weißmark zeigen.] "Suchst du vielleicht danach?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Er streckt seine Hand aus. Die vielen Ringe an seinen Fingern verblassen neben dem Edelstein in deiner Hand. "Gut gemacht. Nun gib ihn mir, dann sorge ich dafür, dass du angemessen entschädigt wirst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Er richtet seinen gierigen Blick auf dich. "Mein Vater, Gedmar, wird erfreut sein, dass ich einen solchen Edelstein gefunden habe ... und einen Verbündeten. Er ist oben. Geh und sprich mit ihm. Er sucht nach jemandem mit deinen Fähigkeiten."</DefaultText>
+      <FemaleText>Er richtet seinen gierigen Blick auf dich. "Mein Vater, Gedmar, wird erfreut sein, dass ich einen solchen Edelstein gefunden habe ... und eine Verbündete. Er ist oben. Geh und sprich mit ihm. Er sucht nach jemandem mit deinen Fähigkeiten."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Gibt es denn keine Ehre mehr unter Dieben? Das war von Anfang an mein Raubzug. Das Haus Doemenel bezahlt seine Verbündeten gut, und ich garantiere dir, du bekommst bei keinem Hehler einen besseren Preis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ich behalte ihn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Abrecan seufzt und lässt seine Hand fallen. "Aber nicht lange, fürchte ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Mein Mann hier sagt mir, du hast meiner Schwester im Fuchs und Gans geholfen. Danna hat wohl in hohen Tönen von dir geschwärmt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Um ihretwillen gebe ich dir die Gelegenheit, meinen Verlust wettzumachen. Du wirst die Aufgabe abschließen, die du sabotiert hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Danna sagte, du hättest vielleicht Arbeit für mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Er trinkt einen Schluck Wein. "Wie der Zufall es will, habe ich eine kleine Angelegenheit zu erledigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ich habe kürzlich von einer rechte lukrativen Gelegenheit erfahren. Leider habe ich sie den falschen Leuten anvertraut. Hoffen wir, dass du eher richtig bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Einer meiner Männer hat einen Raub geplant ... und die Anweisungen an die Diebe auf meinem persönlichen Briefpapier verfasst." Er verzieht das Gesicht zu einer Grimasse. "Mit meinen Initialen darauf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Er setzt wieder ein Lächeln auf, doch seine Finger umklammern fest den Pistolengriff. "Ich brauche diesen Brief. Die Diebe verstecken sich in einem Haus in Kupferweg. Beschaffe das Papier, dann werden wir sehen, ob wir im Haus Doemenel einen Platz für dich finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ich suche noch danach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Warum belästigst du mich dann? Komm nicht eher wieder, als bis du ihn hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Brief übergeben.] "Hier ist er."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Er reißt den Brief an sich. Nachdem er ihn inspiziert hat, faltet er ihn zu einem kleinen Rechteck und steckt ihn in sein Wams. "Gut gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Abrecan streicht sich die Tasche glatt. Er blickt dich über seinen Kelch hinweg an. "Und nun habe ich eine weitere Aufgabe, wie du gewiss weißt, nachdem du den Brief gelesen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Natürlich"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Der Inhalt ging mich nichts an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Oh, ein Dieb mit Anstand? Nun, dann will ich dich einweihen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Fürst Reymont sitzt auf einem Edelstein so groß wie die Eier eines Aumauas. Man nennt ihn das Herz der Weißmark."
+
+Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbietens zwischen den Schmelztiegelrittern und den Dutzenden. Sie kämpfen um die Ehre, ihn seinen ursprünglichen zwergischen Besitzern zurückgeben zu dürfen ... die äußerst mächtige Verbündete wären."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Dem Haus Doemenel wäre es natürlich lieber, dass weder die Ritter noch die Dutzenden sich mit den Zwergen der Weißmark anfreunden. Ein solches Ungleichgewicht der Macht wäre nicht in unserem besten Interesse." Er trinkt erneut von seinem Wein.
+
+"Unser Kontakt in Reymonts Haus wird ein Fenster offenstehen lassen. Schleich dich in das obere Stockwerk von Reymonts Villa und finde den Edelstein. Und dann bring ihn mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Ich werde mit dem Edelstein zurückkehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Kein Interesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Dann erläutere ich dir noch einige Einzelheiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Wunderbar. Das Wichtigste ist, dass du nicht bemerkt wirst. Das Letzte, was meine Fa- ... ich meine, was ich will, ist eine Blutfehde mit den Nachbarn." Er räuspert sich.
+
+"Komm wieder, wenn du das Herz der Weißmark hast. Enttäusche mich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Abrecan hält den Edelstein zwischen Daumen und Zeigefinger und wendet ihn im Licht. "Wahrlich ein seltenes Stück. Hier, das hast du dir verdient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Ich habe Fragen zu dem Brief, den ich für dich finden soll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Abrecan gähnt. "Mach es kurz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Wo finde ich diese Diebe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Warum hast du nicht schon deine Männer damit beauftragt, sich darum zu kümmern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Was soll ich mit den Dieben anstellen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Die Röte steigt ihm ins Gesicht. "Ich habe einfach jemanden ... von außen gebraucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Vati sollte nichts von deinem kleinen Malheur erfahren, was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Aha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Sie in Ruhe lassen, natürlich. Sie sind immer noch meine Männer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Abrecan verschluckt sich an seinem Wein. "Was?!" Er knallt den Kelch auf den Tresen und zückt seine Pistole. "Soll das etwa witzig sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Sollte es, war es aber wohl nicht. Verzeihung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Du bist hier der Witz, Abrecan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Wie schon gesagt, sie sind in Kupferweg. Ihr Haus liegt am östlichen Ende, in der Nähe der Expeditionshalle." Er winkt ab, die Hand voller Ringe. "Folge einfach dem Gestank ungewaschener Abenteurer und dem Jammern von törichten Spekulanten, die ihr ganzes Vermögen verloren haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Er nimmt seinen Kelch und hält ihn vor seine Brust. "Wohl wahr." Er lässt seinen Wein im Kelch kreisen und trinkt einen großen Schluck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Ich komme wohl zu einem ungünstigen Zeitpunkt. Ich finde alleine hinaus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Was haben sie gestohlen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Abrecan grinst verschlagen. "Wenn du diesen Auftrag erledigst, verrate ich es dir vielleicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Du wirst die Aufgabe meiner Männer abschließen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Also gut. Ich habe wohl keine andere Wahl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Abrecan schlägt dir auf den Rücken. "Betrachte es als Gelegenheit. Wenn du gute Arbeit leistest, profitierst du vielleicht noch davon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Gibt es denn keine Ehre mehr unter Dieben? Das war von Anfang an mein Raubzug. Das Haus Doemenel bezahlt seine Verbündeten gut, und ich garantiere dir, du bekommst bei keinem Hehler einen besseren Preis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Er mustert dich. "Du hast einen gewissen ... Ruf. Aber ich habe ein Haus voller treuer Gefolgsleute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Erzähl mir mehr über den Reymont-Auftrag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Was willst du wissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Erzähl mir etwas über Fürst Reymont."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Was weißt du über das Herz der Weißmark?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Irgendeinen Rat, wie ich den Edelstein stehlen kann?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Nur, dass es einer der begehrtesten Edelsteine im Dyrwald ist. Wenn du ihn siehst, wirst du wissen, warum. Er leuchtet von innen - eine seltene Eigenschaft von Edelsteinen aus den Bergen in der Weißmark."
+
+"Wenn wir Reymont den Edelstein abluchsen, wird uns das einen schönen Profit einbringen und dem Stand unserer Rivalen innerhalb der Ritter und der Dutzenden schaden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Abrecan stößt ein kehliges Geräusch der Abscheu aus. "Er ist ein aufgeblasener, verspannter Bastard, der noch immer in den Tagen von Duc Hadret lebt. Und er ist einer der reichsten Männer in Farnheim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Nicht, dass ich ihm das vorwerfen würde. Aber welchen Sinn hat es, so viele Kupferpand anzuhäufen, nur um sie irgendwo in einer Geheimkammer verstauben zu lassen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Lass dich im oberen Stock nicht von seinen Wachen sehen. Verschaffe dir durch das Fenster Zutritt, wenn möglich, und bewege dich lautlos. Reymont ist zwar unser Feind, aber auch unser Nachbar. Ich will keinen Ärger provozieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Was du auch tust, du darfst Reymonts Wachen nicht alarmieren. Das Letzte, was ich will, ist eine Blutfehde mit meinem Nachbarn. Ich hoffe, ich habe mich klar ausgedrückt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Das ist eine Fälschung, du Narr! Ich sollte dir dieses wertlose Stück Glas in die Kehle stopfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Er begutachtet den Brief genau. "Ist das ... Blut? Das waren meine Männer, du Narr!" Er streicht mit seinem Finger den Lauf seiner Pistole entlang. "Ich gebe dir eine Gelegenheit, deinen Fehler wettzumachen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Er nimmt den Edelstein an sich. "Reymont ist auf der Suche nach einer neuen Wache, wie ich höre. Wir müssen uns eine Weile still verhalten, aber der Stein war die Mühe wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Ich brauche eine Einladung für das Treffen im Palast des Ducs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Er lächelt höhnisch. "Und du willst dir die Gunst des Hauses Doemenel erschleichen, um das zu erreichen, habe ich Recht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Mehr oder weniger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Das Haus Doemenel wäre ein besserer Verbündeter als jeder andere in Trutzbucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Ich könnte mir einfach die Gunst deiner Feinde erschleichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Egal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Er lächelt kalt. "Wohl wahr, doch die eigentliche Frage ist, ob du auch für uns ein nützlicher Verbündeter wärest. Stellen wir dich auf die Probe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Sein Blick wird hart. "Nur ein äußerst Dummer oder äußerst Mutiger würde in diesem Haus eine solche Drohung aussprechen. Was davon trifft auf dich zu? Ich freue mich, es herauszufinden." Er lächelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Er schnaubt verächtlich. "Mit deiner Dreistigkeit könntest du es in unserem Haus weit bringen ... wenn du nicht vorher deswegen getötet wirst. Also gut - dann wollen wir mal sehen, wie du eine einfache Aufgabe bewerkstelligst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Da musst du mit meinem Vater sprechen." Er gestikuliert mit seinem Kelch. "Oben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Er blickt dich mit eiskalten Augen an. "Du bittest das Haus Doemenel um einen Gefallen, obwohl du noch nicht getan hast, was ich dir aufgetragen habe? Verschwinde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Was die Einladung in den Palast des Ducs angeht ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Ich brauche eine Einladung für das Treffen im Palast des Ducs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Ich habe einige Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Und ich habe keine Antworten. Wenn das alles war, dann auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Abrecan huscht an deine Seite, als du die Treppe hinunterkommst. "Ich habe von deinem neuen Auftrag gehört. Ich habe auch gehört, dass mein Vater möchte, dass du den Dutzenden die Schuld in die Schuhe schiebst. Tu das nicht."
+
+"Mein Vater ist ein kluger Geschäftsmann, doch er ist zu vorsichtig. Ganz Trutzbucht hat uns einst respektiert. Um die bevorstehenden Veränderungen zu überlegen, muss das Haus Doemenel diesen Respekt zurückgewinnen. Lege das Symbol nicht dort ab."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Was ist das hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Du stehst im Hause Doemenel. Du hast dich entweder verlaufen oder du vergeudest meine Zeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Wenn du nichts mit meiner Familie zu besprechen hast, verschwinde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Meine Schwester hat in den höchsten Tönen von dir gesprochen - das will etwas heißen. Wir könnten jemanden wie dich brauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Mehr wollte ich nicht wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Er trinkt noch einen Schluck Wein. "Wenn das alles war, dann auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Mehr wollte ich nicht wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Sagani wirbelt den Kopf zu dir herum. "Du kannst wirklich mit Worten umgehen, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Schon gut, ich war es sowieso leid, mich in Trutzbucht sicher zu fühlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Die Schmach der Schande schmerzt noch viel mehr, wenn sie von jemandem zugefügt wird, der über einem steht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Nun, wenn du vorhast, ihn dazu zu bringen, zuerst zuzuschlagen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Aloths Augen weiten sich, als er dich anblickt. "Manieren ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Kana überdeckt ein Lachen, indem sie hustet. "Wir sind wohl darauf aus, uns überall Freunde zu machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Sagani kratzt sich am Kinn. "Ich habe schon auf vielen Gütern in Privatbesitz gejagt, seit ich in den Norden gekommen bin ... im Grunde ist das hier nichts Anderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Nicht bemerkt zu werden ist das Wichtigste, ja? Dann ziehe ich mal lieber meine leise Rüstung an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Wenn wir es uns durch diese Sache mit den Rittern oder den Dutzenden verscherzen, könnte das katastrophal sein. Wir müssen vorsichtig vorgehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Alten Männern bei ihrem Streit um glänzende Steine helfen?" Hiravias zuckt mit den Achseln. "Immer noch besser, als in engwithanischen Ruinen herumzulungern. Wenn wir dich damit aus noch größerem Schlamassel heraushalten, ist es vielleicht keine schlechte Idee ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Juwelen rauben, während der Dyrwald zerfällt. Schön, dass wir unsere Prioritäten kennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Ich bin schon vielen glanfathanischen Spähern ausgewichen - meistens, äh, indem ich davongelaufen bin ... aber eine schwer bewachte Villa zu durchsuchen ist etwas Anderes, als ein leeres Grab zu durchkämmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Edér flüstert dir zu. "Vielleicht solltest du ihm ein Kompliment machen, um die Wogen zu glätten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Wahrlich ein Verbrechen. Einen guten Rotwein darf man nicht so vergeuden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Dann bist du ein Narr, der zuviel weiß."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Angeblich hat der Mob diesen Schandfleck von Sanatorium eingerissen. Nicht, dass ich ausgegangen wäre, um mir das anzusehen. Hier drinnen ist die Aussicht doch um einiges angenehmer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Apropos, das Chaos da draußen hat dir nicht zufällig die Gelegenheit gegeben, diesen Edelstein zu beschaffen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Unglücklicherweise liegen wir nach einem misslungenen Geschäft im Streit mit unserem Nachbarn Reymont." Er zieht eine Grimasse. "Ich fürchte, wir müssen uns vorerst unauffällig verhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Für gewöhnlich würde ich im Gegenzug einen Gefallen erbitten."
+
+"Unglücklicherweise liegen wir nach einem misslungenen Geschäft im Streit mit unserem Nachbarn Reymont." Er zieht eine Grimasse. "Ich fürchte, wir müssen uns vorerst unauffällig verhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Unglücklicherweise ist es zu riskant, dass wir gemeinsam ... Geschäfte machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Du musst vielleicht gewisse ... Bedenken überwinden, aber du wirst den Auftrag zu Ende bringen, den ich meinen Männern erteilt hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Von einer rentablen Beziehung könnten wir beide profitieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Er lächelt kalt. "Oh ja. Aber sehen wir zuerst einmal, ob du uns nützlich sein kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Welches Interesse hat das Haus Doemenel an den Beseelungsanhörungen des Ducs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Gleichgewicht. Der Duc steckt zwischen ignoranten Fanatikern und machtgierigen Soldaten fest. Aber so ist es in Trutzbucht nun einmal. Wir wollen nur dafür sorgen, dass keine der beiden Gruppen übermäßigen Einfluss gewinnt."
+
+Er reibt die Finger zusammen. "Und es schadet nicht, dass sich durch Zwietracht Gewinn machen lässt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Wie steht das Haus Doemenel zur Beseelung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Kannst du mir etwas über die Anhörungen sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Er lacht. "Gar nicht. Die Dutzenden sagen, sie seien dagegen - aber das hält sie nicht davon ab, die Ruinen zu plündern und Runen und Gerätschaften an das Sanatorium zu verkaufen. Die Ritter sagen, sie seien für den Fortschritt - aber von wessen Fortschritt sprechen sie? Sie haben es auf Geldsäckel und Stellungen hier in Farnheim abgesehen. Und angeblich arbeiten sie heimlich selbst an Beseelungsforschungen.
+
+Du verstehst sicher, warum wir uns heraushalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Glücklicherweise musste ich mir bisher nicht selbst das Fleisch wundsitzen. Es heißt, sie seien wie jedes andere Treffen - es wird viel gebrüllt und intrigiert und wenig erreicht."
+
+"Und während die Ritter und die Dutzenden über etwas streiten, was sie beide nicht verstehen, verlieren sie die wahren Probleme aus den Augen - Glanfathaner, die an unseren Grenzen Ärger machen, das allgegenwärtige Flüchtlingsproblem und die Vailianer, die bereit sind, uns unserem Schicksal zu überlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Mehr wollte ich über die Anhörungen nicht wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Er nimmt einen großen Schluck Wein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Als Abrecan den Brief liest, schwindet sein neugieriges Lächeln aus seinem Gesicht. Er zerknüllt das Papier. Seine zusammengepressten Lippen sind so kalt und dunkel wie die Amethysten auf seinem Kelch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Er lässt die Pistole um einen Finger wirbeln und betrachtet dich von oben nach unten. "Du wirkst, als hättest du dich verlaufen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

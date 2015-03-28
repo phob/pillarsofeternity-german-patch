@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_og_brothel_male_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bei uns hier ist nicht nur der Grog steif, wenn du verstehst, was ich meine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Serel ist die Perle des Geschenks, und auch so teuer wie eine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Man sagt, dass uns dieser kleine Orlaner alle beschämen könnte. Ich weiß nicht, ob ich das glauben kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Die Leute sagen, dass Serel ihre Sachen packte und nach Farnheim umgezogen ist. Ich weiß ja, dass sie viel Geld machte, aber ich wusste nicht, dass ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Hast du das über Serel gehört? In ihrem Zimmer abgeschlachtet. Wer würde denn sowas tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Serel wird hier schwer vermisst werden, so viel ist sicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Das hier ist der beste Ort für ein bisschen Spaß unter Deck."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_glanfathan_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Wachmann versperrt dir mit seinem Speer den Weg.
+
+"Halt, Estramor. Der Zutritt zum Rest der Stadt ist verboten, wenn keine Erlaubnis eines der Anamfatha vorliegt. Auf unbefugtes Betreten steht in Zwillingsulmen der Tod."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hübscher Speer. Musst du vielleicht etwas kompensieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wie erhalte ich die Erlaubnis eines der Anamfatha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Er deutet widerwillig auf eine lange Hütte in der Mitte des Bezirks. "In der Passage der Sechs findest du immer einen der Anamfatha. Vielleicht hört Anamenfath Bethwl dich an, wenn sie deine barbarische Sprache ertragen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Er rammt den Schaft seines Speers in den Boden. "Ich lasse mich nicht von deinesgleichen beleidigen, schon gar nicht in deiner tumben Sprache. Noch ein unziemliches Wort von dir und ich zeige dir, wie die Drei-Stoßzahn-Stelgaer im Schwertkampf ausgebildet werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Stelle meine Geduld nicht auf die Probe, Estramor. Ohne die Erlaubnis der Anamfatha darfst du nicht passieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich komme, um den Eckpfeiler zu sehen, mit dem Segen des Kompasses der Führung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Der Wachmann runzelt zornig die Stirn und blickt seinen Kameraden an, der nickt. Er blickt wieder zu dir. Seine Fingerknöchel werden weiß, weil er seinen Speer so fest umklammert. "Wie üblich zu freundlich zu den Estramorwn. Nun denn, geh. Aber pass auf, wo du bei den heiligen Steinen hintrittst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Sei auf der Hut, Estramor. Der Kompass der Führung mag vertrauensselig sein, ich bin es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich zeige dir, wo du diesen Speer hinstecken kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich suche nach dem Hylea-Tempel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Wo ist Mittagsfrost?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Kennst du einen Ort, den man den 'Goldenen Hain' nennt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Erzähl mir etwas über die Ethik Nôl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Er liegt jenseits der Nordlandschaft, auf einem Berg. Aber die Gläubigen sind geflohen, und die Priester Casfath und Onŵen bleiben allein in Altlied zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"In Altlied, wo fast alle unsere Tempel liegen. Deine Augen können ihn nicht verfehlen, Estramor - er friert den See ein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Am Fluss im Süden von Ulmenkap. Eine Lichtung, die von Bäumen umgeben ist - Erona und ihre Ovaten versammeln sich dort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Sie sind die Druiden des Blutigen Sands, einer Höhle nordwestlich der großen Bäume von Ulmenkap. Für gewöhnlich würde ich jedem Estramor raten, diesen Pfad nicht zu beschreiten ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Kennst du einen Ort, der wie ein Wolfskopf aus Stein aussieht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Alle Glanfathaner kennen den Rachen. Er ist eine Kultstätte zu Ehren Galawains. Er liegt in Altlied und dient den Reißzähnen als Versammlungsort. Auch wenn es zur Zeit wohl Ärger wegen der Tiere gibt, die dort hausen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Wie kann man die Grabinsel erreichen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Der Wächter runzelt die Stirn und betrachtet dich einen Moment lang. "Es ist unüblich, dass Estramorwn dorthin wollen. Sie haben nur wenig Ahnung von ihrer Bedeutung."
+
+"Jene aber, die Respekt zeigen, jene wird Dorvhal übersetzen. Sein Boot fährt von den Docks in Altlied ab."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

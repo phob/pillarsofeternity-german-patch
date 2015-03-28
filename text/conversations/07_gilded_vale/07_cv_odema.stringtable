@@ -56,8 +56,8 @@ Die Frau schaut in aller Seelenruhe zu dir hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Sie muss ein paar Frühlingsbeeren finden. Sieh zu, dass sie nicht tot umfällt."</DefaultText>
-      <FemaleText />
+      <DefaultText>"Er muss ein paar Frühlingsbeeren finden. Sieh zu, dass er nicht tot umfällt."</DefaultText>
+      <FemaleText>"Sie muss ein paar Frühlingsbeeren finden. Sieh zu, dass sie nicht tot umfällt."</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>

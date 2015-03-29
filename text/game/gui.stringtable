@@ -266,12 +266,12 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>{0} {1} {2} für {3} {4}schaden{5}.</DefaultText>
+      <DefaultText>{0} {1} {2} für {3} {4} Schaden{5}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>{0} {1} {2} für {3} {4}schaden beim Absetzen.</DefaultText>
+      <DefaultText>{0} {1} {2} für {3} {4} Schaden beim Absetzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,7 +356,7 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Wucht</DefaultText>
+      <DefaultText>Schmetter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,12 +366,12 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Brand</DefaultText>
+      <DefaultText>Brennen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Frost</DefaultText>
+      <DefaultText>Gefrieren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -381,7 +381,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Zersetzung</DefaultText>
+      <DefaultText>Korrodieren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -496,17 +496,17 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>{1} tötet {0}.</DefaultText>
+      <DefaultText>{1} tötete {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>{1} schlägt {0} bewusstlos.</DefaultText>
+      <DefaultText>{1} schlug {0} bewusstlos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>{0} greift {1} im Nahkampf an.</DefaultText>
+      <DefaultText>{0} griff {1} im Nahkampf an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -621,7 +621,7 @@
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>{2} fügt {0} {1}&#2060;schaden zu.</DefaultText>
+      <DefaultText>{2} fügt {0} {1} Schaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2181,17 +2181,17 @@
     </Entry>
     <Entry>
       <ID>438</ID>
-      <DefaultText>Leichte</DefaultText>
+      <DefaultText>Leicht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>439</ID>
-      <DefaultText>Mittlere</DefaultText>
+      <DefaultText>Mittel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>440</ID>
-      <DefaultText>Schwere</DefaultText>
+      <DefaultText>Schwer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2426,7 +2426,7 @@ Entfernungsvorteil - Waldelfen erhalten einen Bonus auf Genauigkeit, Abwehr und 
       <ID>485</ID>
       <DefaultText>Es ist unklar, wie lange es her ist, dass die Bleichelfen (Glamfellen) in die südlichen Polarregionen der Welt kamen. Basierend auf ihrem durchgehenden Kontakt mit den Aumaua-Händlern leben sie dort bereits seit mindestens 12.000 Jahren. Sie scheinen eine der am stärksten ortsgebundenen ethnischen Gruppen der bekannten Welt zu sein. Sie wandern innerhalb der Polarregion umher, wagen sich aber nur selten in den Norden. Sie sind in allen nördlichen Ländern selten, und die meisten Menschen betrachten sie als exotisch (falls sie überhaupt einen gesehen haben). 
 
-Elementare Geduld - Alle Bleichelfen haben erhöhte Schadensreduktionen gegen Brand- und Frostschaden.</DefaultText>
+Elementare Geduld - Alle Bleichelfen haben erhöhte Schadensreduktionen gegen Verbrennungs- und Frostschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2521,7 +2521,7 @@ Schleichangriff - Erhöht die Waffenangriffe des Schurken im Fern- und Nahkampf 
       <DefaultText>Priester sind Anhänger von Eoras Gottheiten und Praktizierende religiöser Magie. Obwohl alle Priester sich einem spezifischen Gott widmen, rührt die tatsächliche Kraft des Priesters von seinen persönlichen Überzeugungen her. Im Gegensatz zu den meisten Paladinen tendieren Priester dazu, sich auf Philosophie, Lehre und die Beziehung zwischen religiösen Organisationen und dem gewöhnlichen Volk zu konzentrieren. In jedem beliebigen Teil der Welt hängt die Aufnahme von Priestern sehr stark davon ab, wie ihr Gott von den dort ansässigen Menschen, verehrt – oder verschmäht – wird. 
 
 Anfängliche Fähigkeiten:
-Heiliger Glanz - Generiert eine bescheidene Menge an Ausdauer für Verbündete in der Nähe des Priesters. Alle feindlichen Besessenen im Wirkungsbereich erleiden Brandschaden und werden möglicherweise Verängstigt. Im Laufe des Spiels kann die Macht dieser Fähigkeit sich verändern - basierend darauf, wie sehr der Ruf des Priesters mit dem von seiner Gottheit bevorzugten Verhalten im Einklang steht.
+Heiliger Glanz - Generiert eine bescheidene Menge an Ausdauer für Verbündete in der Nähe des Priesters. Alle feindlichen Besessenen im Wirkungsbereich erleiden Verbrennungsschaden und werden möglicherweise Verängstigt. Im Laufe des Spiels kann die Macht dieser Fähigkeit sich verändern - basierend darauf, wie sehr der Ruf des Priesters mit dem von seiner Gottheit bevorzugten Verhalten im Einklang steht.
 Zauber - Priester haben Zugang zu verschiedenen Unterstützungszaubern und einigen Angriffszaubern. Bei jedem zweiten Stufenaufstieg erhält der Priester automatisch Zugang zu neuen Zaubern. Anfänglich können sie ihre Zauber nur begrenzt oft pro Ruhephase einsetzen. Wenn der Priester mächtiger wird, gehen seine schwächeren Zauber nach und nach zu einem Limit pro Begegnung über.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2530,7 +2530,7 @@ Zauber - Priester haben Zugang zu verschiedenen Unterstützungszaubern und einig
       <DefaultText>Die Meister der gelehrten Magie – Zauberer sind Schüler von geheimnisvollen Traditionen, die bis jenseits der aufgezeichneten Geschichte zurückreichen. Zauberer sind eine höchst organisierte Gruppe, die oftmals Akademien oder Gilden bilden, die sich der Forschung und der Ausbildung des magischen Studiums widmen. Sie bevorzugen dabei Umgebungen, in denen Nachforschungen, Experimentieren, Debattieren und die Verbreitung von Wissen gefördert wird. Viele ausgebildete Zauberer wurden schließlich für ihre Exzentrik, ihr Ego und ihr unstillbares Interesse an geheimen und okkulten Dingen bekannt. 
 
 Anfängliche Fähigkeiten:
-Arkaner Angriff - Angriff mit mittlerer Reichweite, der in einem kleinen Bereich direkten Schaden anrichtet und Ziele mit dem Status Benommen belegen kann.
+Arkaner Angriff - Angriff mit mittlerer Reichweite, der in einem kleinen Bereich reinen Schaden anrichtet und Ziele mit dem Status Benommen belegen kann.
 Zauber - Zauberer haben Zugang zu verschiedenen Angriffs- und persönlichen Verteidigungszaubern. Im Gegensatz zu Priestern und Druiden lernen Zauberer einzelne Zaubersprüche, die sie in ihren Zauberbüchern notieren und direkt von dort aus wirken. Zauberbücher können nur jeweils vier Zaubersprüche jeder Stufe beinhalten, weshalb Zauberer mehrere Zauberbücher für unterschiedliche Bedürfnisse mit sich tragen. Bei jedem zweiten Stufenaufstieg erhalten Zauberer Zugang zu neuen Zaubern. Allerdings können sie bei jedem Stufenaufstieg automatisch einen Zauberspruch einer beliebigen Stufe lernen, zu der sie bereits Zugang haben. Zauberer können außerdem Zaubersprüche aus Zauberbüchern lernen, die sie finden oder kaufen. Anfänglich können sie ihre Zauber nur begrenzt oft pro Ruhephase einsetzen. Wenn die Zauberer mächtiger werden, gehen ihre schwächeren Zauber nach und nach zu einem Limit pro Begegnung über.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2875,7 +2875,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>563</ID>
-      <DefaultText>Lager</DefaultText>
+      <DefaultText>Versteck</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4115,37 +4115,37 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>815</ID>
-      <DefaultText>Hieb</DefaultText>
+      <DefaultText>haut</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>816</ID>
-      <DefaultText>Wucht</DefaultText>
+      <DefaultText>schmettert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>817</ID>
-      <DefaultText>Stich</DefaultText>
+      <DefaultText>sticht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>818</ID>
-      <DefaultText>Brand</DefaultText>
+      <DefaultText>verbrennt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>819</ID>
-      <DefaultText>Frost</DefaultText>
+      <DefaultText>gefriert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>820</ID>
-      <DefaultText>Schock</DefaultText>
+      <DefaultText>schockt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>821</ID>
-      <DefaultText>Zersetzung</DefaultText>
+      <DefaultText>korrodiert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4160,12 +4160,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>824</ID>
-      <DefaultText>{0} wirkt {2} auf {1}.</DefaultText>
+      <DefaultText>{0} wirkt auf {1} mit {2}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>825</ID>
-      <DefaultText>{0} wirkt {2} auf {1} für {3} Sekunden.</DefaultText>
+      <DefaultText>{0} wirkt {3} Sekunden auf {1} mit {2}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5605,7 +5605,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1115</ID>
-      <DefaultText>{0} {1}schaden</DefaultText>
+      <DefaultText>{0} {1} Schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5665,7 +5665,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1127</ID>
-      <DefaultText>{0} {1}&#2060;schaden</DefaultText>
+      <DefaultText>{0} {1} Schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5695,7 +5695,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1133</ID>
-      <DefaultText>{0} {1}&#2060;schaden pro Wunde</DefaultText>
+      <DefaultText>{0} {1} Schaden pro Wunde</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6675,7 +6675,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1329</ID>
-      <DefaultText>{0}&#2060;schaden</DefaultText>
+      <DefaultText>{0} Schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7130,17 +7130,17 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1422</ID>
-      <DefaultText>Kleiner</DefaultText>
+      <DefaultText>Klein</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1423</ID>
-      <DefaultText>Mittlerer</DefaultText>
+      <DefaultText>Mittel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1424</ID>
-      <DefaultText>Großer</DefaultText>
+      <DefaultText>Groß</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7350,7 +7350,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1466</ID>
-      <DefaultText>Druiden wählen eine Schadensart (Hieb-, Stich-, Wucht-, Brand-, Zersetzungs-, Frost- oder Schockschaden), die jedem eingesetzten Angriff hinzugefügt wird, der einem Ziel eine dieser Schadensarten zufügt.</DefaultText>
+      <DefaultText>Druiden wählen eine Schadensart (Hieb-, Stich-, Schmetter-, Verbrennungs-, Korrosions-, Frost- oder Elektroschockschaden), die jedem eingesetzten Angriff hinzugefügt wird, der einem Ziel eine dieser Schadensarten zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7682,7 +7682,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1532</ID>
-      <DefaultText>Entzieht {0} {1}&#2060;schaden als Ausdauer</DefaultText>
+      <DefaultText>Entzieht {0} {1} Schaden als Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7942,7 +7942,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1584</ID>
-      <DefaultText>{0} {1}&#2060;schaden erlitten</DefaultText>
+      <DefaultText>{0} {1} Schaden erlitten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8382,7 +8382,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1673</ID>
-      <DefaultText>{0} {1}&#2060;schaden an selbst beim Angriff mit Werkzeugen</DefaultText>
+      <DefaultText>{0} {1} Schaden an selbst beim Angriff mit Werkzeugen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9404,7 +9404,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1878</ID>
-      <DefaultText>Ungern gesehene Gesinnung: {0}</DefaultText>
+      <DefaultText>Ungern gesehene Gesinnung:</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

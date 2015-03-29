@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Kriegsbeil</DefaultText>
+      <DefaultText>Beil</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1033,12 +1033,12 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>Ein Goldband geschnürt mit Akzenten aus Adra.</DefaultText>
+      <DefaultText>Ein Goldband mit eingefädelten Adraakzenten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>Nyfres Schlägers Zauberbuch</DefaultText>
+      <DefaultText>Nyfre's Thugs Zauberbuch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1053,7 +1053,7 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>Stoffbandana</DefaultText>
+      <DefaultText>Kopftuch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1068,7 +1068,7 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>Ein Wälzer, der alle Zaubersprüche des untoten Zauberers Helig enthält.</DefaultText>
+      <DefaultText>Ein Wälzer, der alle Zaubersprüche des untoten Magiers Helig enthält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1078,12 +1078,12 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>Die stumpfe Seite dieses Hammers ist in Bronze gebunden, der Schaft dekoriert mit Adra und Runen. Er sieht eher nach einem Schmiedewerkzeug aus als nach einer Waffe, könnte allerdings auch leicht letzterem Zweck dienen.</DefaultText>
+      <DefaultText>Die stumpfe Seite dieses Hammers ist in Bronze eingefasst, der Schaft dekoriert mit Adra und Runen. Er sieht eher nach einem Schmiedewerkzeug aus als nach einer Waffe, könnte allerdings auch leicht letzterem Zweck dienen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>Sevis' Tagebuch</DefaultText>
+      <DefaultText>Sevis Tagebuch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1162,7 +1162,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>Schlüssel zum Valtas-Herrenhaus</DefaultText>
+      <DefaultText>Schlüssel zu Valtas-Herrenhaus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1252,7 +1252,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>Das einfache Kriegsbeil, eine kleine und schnelle Waffe, ist im Dyrwald extrem verbreitet - als Arbeitswerkzeug von Waldläufern und als Jagdwaffe. Kriegsbeile sind viel kleiner als richtige Streitäxte, der Waffenführer kann mit ihr viele Schläge innerhalb kurzer Zeit ausführen.</DefaultText>
+      <DefaultText>Das einfache Kriegsbeil, eine kleine und schnelle Waffe, ist im Dyrwald extrem verbreitet - als Arbeitswerkzeug von Waldläufern und als Jagdwaffe. Kriegsbeile sind viel kleiner als richtige Streitäxte, der Waffenführer kann mit ihnen viele Schläge innerhalb kurzer Zeit ausführen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1297,7 +1297,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>Streitkolben sind auf der ganzen bekannten Welt der Fluch von Soldaten mit Kettenhemden und im Dyrwald weit verbreitet. Unabhängig von der Form ihrer Flansche bestehen Streitkolben immer aus einem Metallschaft umit einer Reihe symmetrischer Flansche, welche die Schlagkraft der Waffe auf einen kleinen Bereich konzentrieren. Panzerbrecher haben zwar mehr Durchdringungskraft als Streitkolben, letztere allerdings können zusammen mit Schilden verwendet werden.</DefaultText>
+      <DefaultText>Streitkolben sind auf der ganzen bekannten Welt der Fluch von Soldaten mit Kettenhemden und im Dyrwald weit verbreitet. Unabhängig von der Form ihrer Flansche bestehen Streitkolben immer aus einem Metallschaft mit einer Reihe symmetrischer Flansche, welche die Schlagkraft der Waffe auf einen kleinen Bereich konzentrieren. Panzerbrecher haben zwar mehr Durchdringungskraft als Streitkolben, letztere allerdings können zusammen mit Schilden verwendet werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1683,7 +1683,7 @@ Der weise Mann schüttelt seinen Kopf und wischt sich die Tränen aus den Augen.
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>Aloths Zauberbuch </DefaultText>
+      <DefaultText>Aloths Zauberbuch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3625,7 +3625,7 @@ Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei
     </Entry>
     <Entry>
       <ID>738</ID>
-      <DefaultText>Wirksam zum Aufbrechen bestimmter Behälter, an Türen dagegen aufgrund der ungleichmäßig und engen Hebelwirkung nicht.</DefaultText>
+      <DefaultText>Wirksam zum Aufbrechen bestimmter Behälter, an Türen dagegen aufgrund der ungleichmäßigen und engen Hebelwirkung nicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3999,7 +3999,7 @@ Dieses Paar Stiefel soll Fulvano gehört haben, und die in das Leder gebrannten 
     </Entry>
     <Entry>
       <ID>809</ID>
-      <DefaultText>"Fulvano, ich glaube nicht, dass du das hier jemals lesen wirst - aber du hattest Recht. Wir hätten zusammen nach Süden reisen soll, es wäre sicherer für beide gewesen. Gerne würde ich alle Häme der Welt ertragen, würde ich nur überleben, um sie zu hören. Ich habe mich aus der Reichweite der Biester entfernt, die unter mir kreisen, aber ich bin trotzdem erledigt. Ich glaube nicht, dass ich wieder hinaufsteigen werde. Wer auch immer das hier findet - betet für mich. Vielleicht werde ich im nächsten Leben lieber Wölfen nachstellen."</DefaultText>
+      <DefaultText>"Fulvano, ich glaube nicht, dass du das hier jemals lesen wirst - aber du hattest Recht. Wir hätten zusammen nach Süden reisen soll, es wäre sicherer für beide gewesen. Gerne würde ich alle Häme der Welt ertragen, würde ich nur überleben, um sie zu hören. Ich habe mich aus der Reichweite der Biester entfernt, die unter mir kreisen, aber ich bin trotzdem erledigt. Ich glaube nicht, dass ich wieder hinabsteigen werde. Wer auch immer das hier findet - betet für mich. Vielleicht werde ich im nächsten Leben lieber Wölfen nachstellen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6104,7 +6104,7 @@ Doch wieder stand Mabec ungläubig vor dem Baum - er fand weder einen Hohlraum i
     </Entry>
     <Entry>
       <ID>1236</ID>
-      <DefaultText>Rinderbraten ist ein im ganzen Dyrwald weit verbreitetes Gericht, und hunderte Familien haben seit Generationen dieselben Rezepte verwendet. Niemand ist sich sicher, wie er als 'Duc-Rinderbraten' begannt wurde, aber diesbezüglich gibt es zwei Hauptlegenden: Die erste dreht sich um Admeth Hadret, den ersten Duc des Dyrwalds, der angeblich für seinen Gefangenen, den Glanfathaner Galven Rêgd, persönlich einen Rinderbraten zubereitete. Dem Orlaner schmeckte das Gericht angeblich so gut, dass er um das Rezept bat, um es nach seiner Freilassung an seine Verwandten weiterzugeben. Die zweite, wahrscheinlichere Erzählung dreht sich um eine skrupellosen Köchin, der in der altehrwürdigen Schänke Zum Schwarzen Hund in Goldtal arbeitete. Unzähligen Reisenden vertraute sie an, sie hätte das Rezept für den 'Duc-Rinderbraten' -- was einfach nur ihr eigenes, köstliches Rezept war - und verkaufte es Dutzenden für horrende Preise. Jedes Opfer der List bereitete daraufhin Rinderbraten mit dem vermeintlich persönlichen Rezept des Ducs zu, was schließlich zu diesem Gebrauchsnamen führte.</DefaultText>
+      <DefaultText>Rinderbraten ist ein im ganzen Dyrwald weit verbreitetes Gericht, und hunderte Familien haben seit Generationen dieselben Rezepte verwendet. Niemand ist sich sicher, wie er als 'Duc-Rinderbraten' bekannt wurde, aber diesbezüglich gibt es zwei Hauptlegenden: Die erste dreht sich um Admeth Hadret, den ersten Duc des Dyrwalds, der angeblich für seinen Gefangenen, den Glanfathaner Galven Rêgd, persönlich einen Rinderbraten zubereitete. Dem Orlaner schmeckte das Gericht angeblich so gut, dass er um das Rezept bat, um es nach seiner Freilassung an seine Verwandten weiterzugeben. Die zweite, wahrscheinlichere Erzählung dreht sich um eine skrupellosen Köchin, der in der altehrwürdigen Schänke Zum Schwarzen Hund in Goldtal arbeitete. Unzähligen Reisenden vertraute sie an, sie hätte das Rezept für den 'Duc-Rinderbraten' -- was einfach nur ihr eigenes, köstliches Rezept war - und verkaufte es Dutzenden für horrende Preise. Jedes Opfer der List bereitete daraufhin Rinderbraten mit dem vermeintlich persönlichen Rezept des Ducs zu, was schließlich zu diesem Gebrauchsnamen führte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6266,7 +6266,7 @@ Eine schreckliche Waffe, die jeden enttäuscht, der sie verwendet. Auf den erste
     </Entry>
     <Entry>
       <ID>1267</ID>
-      <DefaultText>Dieser blubbernde violette Trank hat eine ebenso sichtbare Wirkung, denn wer ihn trinkt, der verspürt augenblicklich eine Welle der Energie, die selbst die ausgemergeltetsen und müdesten Wanderer wieder lebhaft und frisch werden lässt.</DefaultText>
+      <DefaultText>Dieser blubbernde violette Trank hat eine ebenso sichtbare Wirkung, denn wer ihn trinkt, der verspürt augenblicklich eine Welle der Energie, die selbst die ausgemergeltesten und müdesten Wanderer wieder lebhaft und frisch werden lässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6306,7 +6306,7 @@ Eine schreckliche Waffe, die jeden enttäuscht, der sie verwendet. Auf den erste
     </Entry>
     <Entry>
       <ID>1275</ID>
-      <DefaultText>Diese Schriftrolle ist mit dem geprägten Siegel einer Gewitterwolke versehen. Sie beschreibt einen Zauber, durch welchen der Wirker einen verheerenden Wirbel aus Flammen, Eis, Blitz und Zersetzung schaffen kann.</DefaultText>
+      <DefaultText>Diese Schriftrolle ist mit dem Siegel einer Gewitterwolke geprägt. Sie beschreibt einen Zauber, durch welchen der Wirker einen verheerenden Wirbel aus Flammen, Eis, Blitz und Zersetzung schaffen kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

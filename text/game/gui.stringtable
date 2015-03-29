@@ -676,7 +676,7 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Im Expertenmodus werden einige Hilfefunktionen des Spiels deaktiviert. Spieler, die während des Spiels auf ihre eigenen Fähigkeiten und Intuition vertrauen wollen, sollten den Expertenmodus spielen. Diese Option ist ausgewählt, wenn du ein neues Spiel startest. Sie kann im Spiel nicht aktiviert werden und nach der Deaktivierung im selben Spiel nicht wieder reaktiviert werden.</DefaultText>
+      <DefaultText>Im Expertenmodus werden einige Hilfefunktionen des Spiels deaktiviert. Spieler, die während des Spiels auf ihre eigenen Fähigkeiten und Intuition vertrauen wollen, sollten den Expertenmodus spielen. Diese Option kann ausgewählt werden, wenn du ein neues Spiel startest. Sie kann im Spiel nicht aktiviert werden und nach der Deaktivierung im selben Spiel nicht wieder reaktiviert werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -686,7 +686,7 @@
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Grafische Darstellung der Reichweite von Wirkungsbereich-Sprüchen aktivieren.</DefaultText>
+      <DefaultText>Grafische Darstellung der Reichweite von Zaubersprüchen mit Wirkungsbereich aktivieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -766,7 +766,7 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>In der Schwierigkeitsstufe "Pfad der Verdammten" erhalten Feinde einen Bonus von 50 % auf die meisten Werte, und in Gefechten erscheinen mehr Feinde. Diese Option kann während des laufenden Spiels nicht angepasst werden.</DefaultText>
+      <DefaultText>In der Schwierigkeitsstufe "Pfad der Verdammten" erhalten Feinde einen Bonus auf die meisten Werte, und in Gefechten erscheinen viel mehr Feinde. Achtung: Diese Option kann nach Spielbeginn nicht angepasst werden. Sie ist nur für Spieler gedacht, die die härtesten Begegnungen suchen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -816,17 +816,17 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Die Schwierigkeitsstufe "Einfach" erfordert minimales Mikromanagement und verzeiht Fehler im Gefecht ohne Umstände.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe "Einfach" erfordert minimales Mikromanagement und verzeiht Fehler im Gefecht ohne Umstände. Sie ist DRINGEND EMPFOHLEN für Spieler, die gruppenbasierte Echtzeit-Rollenspiele erstmals spielen, oder seit Längerem nicht gespielt haben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Die Schwierigkeitsstufe "Normal" erfordert Strategie und Effizienz, doch sie verzeiht wenige Fehler im Gefecht.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe "Normal" erfordert Strategie und Effizienz, doch sie verzeiht einige wenige Fehler im Gefecht. Sie ist NICHT empfohlen für neue Spieler gruppenbasierter Echtzeit-Rollenspiele.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>Die Schwierigkeitsstufe "Schwer" ist geeignet für erfahrene Infinity-Engine-Spieler, die nach einer Herausforderung suchen. "Überleben" erfordert Mikromanagement und Werte-Optimierung durch Gegenstände, Zauber und Fähigkeiten.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe "Schwer" ist geeignet für erfahrene Infinity-Engine-Spieler, die nach einer Herausforderung suchen. Überleben erfordert Mikromanagement und Werte-Optimierung durch Gegenstände, Zauber und Fähigkeiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -9404,7 +9404,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1878</ID>
-      <DefaultText>Ungern gesehene Gesinnung:</DefaultText>
+      <DefaultText>Ungern gesehene Gesinnung: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

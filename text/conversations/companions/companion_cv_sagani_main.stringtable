@@ -345,7 +345,7 @@ Ein neckisches Grinsen zaubert ihr Fältchen neben die Augen. "Als mein Großvat
       <ID>156</ID>
       <DefaultText>"Kallu ist ein guter Mann. Während ich auf die Jagd ging, hat unsere Kinder wohl erzogen und uns ein starkes Zuhause gebaut."
 	  
-	  "Unsere Eltern versprachen uns einander, als wir noch jung waren. So läuft es normalerweise nicht bei uns, aber unsere Eltern trafen eine gute Wahl." Sie lächelt. "Anfangs lernten wir, einander als Gefährten zu schätzen, dann als Freunde, und dann ... naja, du weißt ja, wie es läuft." Hinter dem Streifen Gesichtsfarbe deutet sich ein leichtes Erröten an.</DefaultText>
+"Unsere Eltern versprachen uns einander, als wir noch jung waren. So läuft es normalerweise nicht bei uns, aber unsere Eltern trafen eine gute Wahl." Sie lächelt. "Anfangs lernten wir, einander als Gefährten zu schätzen, dann als Freunde, und dann ... naja, du weißt ja, wie es läuft." Hinter dem Streifen Gesichtsfarbe deutet sich ein leichtes Erröten an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -419,7 +419,7 @@ Ein neckisches Grinsen zaubert ihr Fältchen neben die Augen. "Als mein Großvat
       <ID>170</ID>
       <DefaultText>"Naasitaq?" Sie reibt sie mit einem ihrer breiten Finger an der Nase. "Es ist eine große Insel inmitten des Todesfeuer-Archipels, gleich vor der Küste des Ewigen Weiß. Hauptsächlich Tundra, aber in den wärmeren Gegenden gibt es ein paar schneebedeckte Wälder."
 	  
-	  "Die meisten von uns leben in ziemlich kleinen Dörfern - jedenfalls nach hiesigen Standards. Ich stamme aus Massuk."</DefaultText>
+"Die meisten von uns leben in ziemlich kleinen Dörfern - jedenfalls nach hiesigen Standards. Ich stamme aus Massuk."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -442,7 +442,7 @@ Sie zählt an ihren schwieligen Fingern ab. "Karibus, Robben und kleine Wale ver
     <Entry>
       <ID>175</ID>
       <DefaultText>"Vorwiegend Enutanik wie ich. Die Leute hier nennen uns 'Nordzwerge'."
-	  
+
 "Manchmal verbringen Nomadenclans aus Glamfellen aus dem Ewigen Weiß die kälteren Jahreszeiten auf Naasitaq. Wir bekommen aber nicht allzu viele Ausländer zu Gesicht, die mit der Witterung klarkommen."</DefaultText>
       <FemaleText />
     </Entry>
@@ -772,7 +772,7 @@ Als sie es dir hinhält, spürst du schwache Empfindungen. Keine echten Erinneru
     <Entry>
       <ID>241</ID>
       <DefaultText>"Wenn du gesehen hättest, wie er tote Dinge anstarrt, dann wüsstest du, dass er es ernst meint."</DefaultText>
-      <FemaleText />"Wenn du gesehen hättest, wie sie tote Dinge anstarrt, dann wüsstest du, dass sie es ernst meint."</FemaleText>
+      <FemaleText>"Wenn du gesehen hättest, wie sie tote Dinge anstarrt, dann wüsstest du, dass sie es ernst meint."</FemaleText>
     </Entry>
     <Entry>
       <ID>242</ID>

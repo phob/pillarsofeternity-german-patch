@@ -676,7 +676,7 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Im Expertenmodus werden einige Hilfefunktionen des Spiels deaktiviert. Spieler, die während des Spiels auf ihre eigenen Fähigkeiten und Intuition vertrauen wollen, sollten den Expertenmodus spielen. Diese Option kann ausgewählt werden, wenn du ein neues Spiel startest. Sie kann im Spiel nicht aktiviert werden und nach der Deaktivierung im selben Spiel nicht wieder reaktiviert werden.</DefaultText>
+      <DefaultText>Im Expertenmodus werden einige Hilfefunktionen des Spiels deaktiviert. Spieler, die während des Spiels auf ihre eigenen Fähigkeiten und Intuition vertrauen wollen, sollten im Expertenmodus spielen. Diese Option kann ausgewählt werden, wenn du ein neues Spiel startest. Sie kann im Spiel nicht aktiviert werden und nach der Deaktivierung im selben Spiel nicht wieder reaktiviert werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -756,7 +756,7 @@
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Im Eisenurteil-Modus wird nur ein einziger Spielstand für das gesamte Spiel angelegt. Wenn der Spieler getötet wird, wird der Spielstand gelöscht und du musst von vorne beginnen. Diese Option kann während des laufenden Spiels nicht angepasst werden.</DefaultText>
+      <DefaultText>Im Eisenurteil-Modus wird nur ein einziger Spielstand für das gesamte Spiel angelegt. Wenn der Spielercharakter getötet wird, wird der Spielstand gelöscht und du musst von vorne beginnen. Diese Option kann nach Spielbeginn nicht angepasst werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7315,7 +7315,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1459</ID>
-      <DefaultText>Neue Spieleinstellungen</DefaultText>
+      <DefaultText>Neues Spiel - Einstellungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

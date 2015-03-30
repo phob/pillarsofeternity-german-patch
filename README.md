@@ -13,3 +13,5 @@ Credits:
 - LordCrash
 - DarkInside
 - Asmodan
+- Aurelio
+- graf wasili

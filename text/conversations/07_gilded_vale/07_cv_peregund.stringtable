@@ -20,7 +20,7 @@
       <ID>3</ID>
       <DefaultText>"Der Fluss ist aufgrund all der Stürme ziemlich angestiegen. Hier, bei der Flussenge, haben die Fluten den größten Schaden angerichtet."
 
-"Die Orlanerin verschränkt die Arme, während sich ein Stirnrunzeln auf ihrem Gesicht breitmacht. "Hier wohl nicht so gebaut, dass das Zeug auch ein bisschen hält, was? Eine der Steinsäulen ist während einer Blitzflut eingestürzt, worauf der gesamte Mittelteil der Brücke hinaus ins Meer gerissen wurde.</DefaultText>
+Die Orlanerin verschränkt die Arme, während sich ein Stirnrunzeln auf ihrem Gesicht breitmacht. "Hier wird wohl nicht so gebaut, dass das Zeug auch ein bisschen hält, was? Eine der Steinsäulen ist während einer Sturzflut eingestürzt, worauf der gesamte Mittelteil der Brücke hinaus ins Meer gerissen wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -42,7 +42,7 @@ Peregund schüttelt den Kopf, und als sie spricht, zucken ihre Ohren: "Und das w
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ich versuchte, ein paar schnelle Kupferstücke zu machen, aber ..." Sie beißt sich auf die Unterlippe und ihr Gesicht wird rot vor Wut. "Wieder mein verdammte Pech - die verdammten Strömungen warfen meine Fähre auf die Felsen ... und zerschmetterten sie zusammen mit meinen Gewinnen in kleine Stückchen."</DefaultText>
+      <DefaultText>"Ich versuchte, ein paar schnelle Kupferstücke zu machen, aber ..." Sie beißt sich auf die Unterlippe und ihr Gesicht wird rot vor Wut. "Wieder mein verdammtes Pech - die verdammten Strömungen warfen meine Fähre auf die Felsen ... und zerschmetterten sie zusammen mit meinen Gewinnen in kleine Stückchen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -115,12 +115,12 @@ Sie greift eine Tasche ihres Waffenrocks und übergibt dir etwas. "Betrachte die
       <ID>21</ID>
       <DefaultText>Peregund tritt ihre Fußspitze mehrmals in die Erde. "Das hatte ich fast erwartet. Naja, trotzdem danke für deine Unterstützung. Jetzt muss ich mir wohl überlegen, wie ich mir meine Investition zurückholen kann."
 
-Sie hört endlich auf, mit ihrem Fuß auszutreten, und stößt einen langen Seufzer aus. "Danke, dass du es probiert hast. Wenn du man wieder in Trutzbucht bist, dann schau doch in meinem Geschäft vorbei - ich kann jeden Kunden gebrauchen."</DefaultText>
+Sie hört endlich auf, mit ihrem Fuß auszutreten, und stößt einen langen Seufzer aus. "Danke, dass du es probiert hast. Wenn du mal wieder in Trutzbucht bist, dann schau doch in meinem Geschäft vorbei - ich kann jeden Kunden gebrauchen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Dann beeile dich bitte, bevor alles Rettenswertes ins Meer hinausgespült oder von diesen Briganten weggetragen wird."</DefaultText>
+      <DefaultText>"Dann beeile dich bitte, bevor alles Rettenswerte ins Meer hinausgespült oder von diesen Briganten weggetragen wird."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -170,7 +170,7 @@ Sie hört endlich auf, mit ihrem Fuß auszutreten, und stößt einen langen Seuf
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Als ich an der Küste umherstreifte, um nicht gesunkene Frachtkisten zu bergen, wurde ich zu allem Übel auch noch zwei Plünderern angegriffen!" Sie stampft mit einem Fuß auf den Boden. "Diese verdammten Briganten besaßen die Frechheit, anzugreifen! Ich konnte ihnen unverletzt entkommen, aber ... aber jetzt haben sie mit Gewalt alles gestohlen, was von meinem Vermögen übrig ist."
+      <DefaultText>"Als ich an der Küste umherstreifte, um nicht gesunkene Frachtkisten zu bergen, wurde ich zu allem Übel auch noch von zwei Plünderern angegriffen!" Sie stampft mit einem Fuß auf den Boden. "Diese verdammten Briganten besaßen die Frechheit, anzugreifen! Ich konnte ihnen unverletzt entkommen, aber ... aber jetzt haben sie mit Gewalt alles gestohlen, was von meinem Vermögen übrig ist."
 
 Sie äugt dich einen langen Augenblick lang an, während sie ihr Kinn mit einer Hand umfasst. "Ach weißt du ... du siehst so aus, als würdest du dich gegen diese Plünderer viel besser schlagen als ich alte, kleine Frau ... Könnte ich dich zur Unterstützung anwerben?"</DefaultText>
       <FemaleText />

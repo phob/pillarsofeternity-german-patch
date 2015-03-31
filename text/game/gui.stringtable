@@ -4955,7 +4955,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>983</ID>
-      <DefaultText>Farbenblinder Modus</DefaultText>
+      <DefaultText>Farbenblind-Modus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8762,9 +8762,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1750</ID>
-      <DefaultText>Du hast ungenutzte Attributspunkte für deinen Charakter. Alle ungenutzten Punkte gehen verloren.
-
-Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
+      <DefaultText>Du hast ungenutzte Attributspunkte für deinen Charakter. Alle ungenutzten Punkte gehen verloren. Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

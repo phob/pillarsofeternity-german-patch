@@ -1023,7 +1023,7 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>Dieses Silbermedaillon ist verbeult und getrübt. Ein vergilbtes Portrait eines jungen Adligen befindet sich im Inneren. Durch den Zahn der Zeit es verwittert.</DefaultText>
+      <DefaultText>Dieses Silbermedaillon ist verbeult und getrübt. Ein verblasstes Portrait eines jungen Edelmanns ruht darin. Seine Gesichtszüge wurden von der Zeit hinweggewaschen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1033,7 +1033,7 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>Ein Goldring mit Adra-Verzierungen</DefaultText>
+      <DefaultText>Ein Goldband mit eingefädelten Adraakzenten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1078,7 +1078,7 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>Die Schlagseite dieses Hammers ist in Bronze eingefasst, der Schaft dekoriert mit Adra und Runen. Er sieht eher nach einem Schmiedewerkzeug aus als nach einer Waffe, könnte allerdings auch leicht letzterem Zweck dienen.</DefaultText>
+      <DefaultText>Die stumpfe Seite dieses Hammers ist in Bronze eingefasst, der Schaft dekoriert mit Adra und Runen. Er sieht eher nach einem Schmiedewerkzeug aus als nach einer Waffe, könnte allerdings auch leicht letzterem Zweck dienen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1088,7 +1088,7 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>Einige Titel auf der ersten Seite des Tagebuchs sind durchgestrichen: "Die Taten des Brandeisens", "Die Legende des Brandeisens", und "Die glorreichen Heldentaten des Brandeisens".
+      <DefaultText>Einige Überschriften auf der ersten Seite des Tagebuchs sind durchgestrichen: "Die Taten des Brandeisens", "Die Legende des Brandeisens", und "Die glorreichen Heldentaten des Brandeisens".
 
 Der Autor entschied sich letztendlich für "Die Geschichte von Sevis dem Kühnen und dem Brandeisen".
 
@@ -3787,12 +3787,12 @@ Irgendwas summt in ihnen, ein verblichenes Überbleibsel einer Essenz. Welche Ma
     </Entry>
     <Entry>
       <ID>767</ID>
-      <DefaultText>Rastvorräte</DefaultText>
+      <DefaultText>Campingbedarf</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>768</ID>
-      <DefaultText>Zu diesen Rastvorräten gehören Bettrollen, Decken, Essensrationen und andere Annehmlichkeiten, die abgehärtete Entdecker davon abhalten sollen, sich den Elementen zu beugen.</DefaultText>
+      <DefaultText>Zu diesem Campingbedarf gehören Bettrollen, Decken, Essensrationen und andere Annehmlichkeiten, die abgehärtete Entdecker davon abhalten sollen, sich den Elementen zu beugen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

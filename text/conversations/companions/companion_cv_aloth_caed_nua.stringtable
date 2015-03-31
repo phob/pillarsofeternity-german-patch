@@ -53,7 +53,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Seine Lippen zucken zu einem fahlen Lächeln. "Natürlich. Verarbeite nur einige der ... ungewöhnlichen Dinge, die wir kürzlich gesehen haben."</DefaultText>
+      <DefaultText>Seine Lippen zucken zu einem fahlen Lächeln. "Natürlich. Ich verarbeite nur einige der ... ungewöhnlichen Dinge, die wir kürzlich gesehen haben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,7 +118,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Er nickt dir mit plötzlich leerem Gesicht steif zu. "Wie du wünscht. Verzeih meine Störung."</DefaultText>
+      <DefaultText>Er nickt dir mit plötzlich ausdruckslosem Gesicht steif zu. "Wie du wünschst. Verzeih meine Störung."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,7 +133,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Einen Moment bitte. Ich glaube, ich sollte mich erklären."</DefaultText>
+      <DefaultText>"Einen Moment, bitte. Ich glaube, ich sollte mich erklären."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -190,7 +190,7 @@
       <ID>37</ID>
       <DefaultText>Er schließt die Augen und beißt die Zähne zusammen. Seine erbebenden und zuckenden Lippen legen Zeugnis über einen internen Disput ab. 
 
-Mehrere Sekunden später öffnet er wieder seine Augen, die nun tränen und blutunterlaufen sind.</DefaultText>
+Mehrere Sekunden später öffnet er wieder seine Augen, die nun tränen- und blutunterlaufen sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -215,7 +215,7 @@ Mehrere Sekunden später öffnet er wieder seine Augen, die nun tränen und blut
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Naiv. Ungehobelt. Eine Kreatur überstürzter Reaktionen und schwacher Geisteskräfte. Sie ..." Er zuckt zusammen, wobei sein Gesichtsausdruck zwischen Kontrolle und Chaos hin und her wogt. ... schwätzt mit ihrer unverschämten Zunge herum, wenn sie zuhören sollte."</DefaultText>
+      <DefaultText>Naiv. Ungehobelt. Eine Kreatur überstürzter Reaktionen und schwacher Geisteskräfte. Sie ..." Er zuckt zusammen, wobei er die Kontrolle über seine Gesichtszüge zu verlieren droht. ... schwätzt mit ihrer unverschämten Zunge herum, wenn sie zuhören sollte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -320,7 +320,7 @@ Mehrere Sekunden später öffnet er wieder seine Augen, die nun tränen und blut
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Genau so ist es. Erinnerst du dich noch, wie sie diese Dörfler in Goldtal aufgestachelt hat? Sie denkt nicht nach, und sie gibt auch nicht nach. Das zu unterdrücken ist schon seit Jahren ein Problem für mich."</DefaultText>
+      <DefaultText>"Genau so ist es. Erinnerst du dich noch, wie sie diese Dörfler in Goldtal aufgestachelt hat? Sie denkt nicht nach, und sie gibt auch nicht nach. Das zu unterdrücken, ist schon seit Jahren ein Problem für mich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -380,9 +380,9 @@ Mehrere Sekunden später öffnet er wieder seine Augen, die nun tränen und blut
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Bisher bin ich dir gegenüber nicht ganz ehrlich gewesen, was meine Gründe angeht, mit dir zu reisen.
+      <DefaultText>"Bisher bin ich dir gegenüber nicht ganz ehrlich gewesen, was meine Gründe angeht, mit dir zu reisen."
 
-Als ich meine Ausbildung in Aedyr beendete, wurde ich einer Organisation vorgestellt. Ich wusste nur, dass sie gegen die unkontrollierte Verbreitung der Beseelung waren und dass sie mir Aufgaben weit weg vom Cythwald, meinen Vater und seinem Grafen garantieren konnten. Und zu dieser Zeit war mir das genug."</DefaultText>
+"Als ich meine Ausbildung in Aedyr beendete, wurde ich einer Organisation vorgestellt. Ich wusste nur, dass sie gegen die unkontrollierte Verbreitung der Beseelung waren und dass sie mir Aufgaben weit weg vom Cythwald, meinen Vater und seinem Grafen garantieren konnten. Und zu dieser Zeit war mir das genug."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -394,9 +394,9 @@ Er schaut nach unten. "Ich bin vor ein wenig mehr als einem Jahr in den Dyrwald 
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Alle paar Monate traf ich mich mit einer ranghohen Kontaktperson, um meine Berichte abzuliefern und neue Anhaltspunkt zu erhalten. Sie schickte mich nach Goldtal, um ein Auge auf die Ereignisse um den örtlichen Fürsten zu haben, aber kurz danach verlor ich ihre Spur. 
+      <DefaultText>"Alle paar Monate traf ich mich mit einer ranghohen Kontaktperson, um meine Berichte abzuliefern und neue Anhaltspunkt zu erhalten. Sie schickte mich nach Goldtal, um ein Auge auf die Ereignisse um den örtlichen Fürsten zu haben, aber kurz danach verlor ich ihre Spur." 
 
-Ich weiß nicht, ob sie abkommandiert, getötet oder ... auf die Weise, die du gesehen hast, geopfert wurde. Als wir uns getroffen haben, war ich schon ein paar Monate auf mich allein gestellt."</DefaultText>
+"Ich weiß nicht, ob sie abkommandiert, getötet oder ... auf die Weise, die du gesehen hast, geopfert wurde. Als wir uns getroffen haben, war ich schon ein paar Monate auf mich allein gestellt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,7 +411,7 @@ Ich weiß nicht, ob sie abkommandiert, getötet oder ... auf die Weise, die du g
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Ich wusste, dass du kommen würde."</DefaultText>
+      <DefaultText>"Ich wusste, dass du kommen würdest."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -443,7 +443,7 @@ Ich weiß nicht, ob sie abkommandiert, getötet oder ... auf die Weise, die du g
       <ID>91</ID>
       <DefaultText>"Und auf gewisse Weise hatte ich auch Recht. Was wir aber fanden, hatte ich nicht erwartet."
 
-Er atmet tief ein. "Ich wusste, dass der Bleierne Schlüssel versuchte, der Beseelung ein Ende zu bereiten, aber mir war nicht klar, wie weit sie gegangen waren. Mord, Sabotage, ganze Viertel fürchterlichem Schrecken anheim fallen lassen ... und jetzt steht die ganze Stadt in Flammen!"</DefaultText>
+Er atmet tief ein. "Ich wusste, dass der Bleierne Schlüssel versuchte, der Beseelung ein Ende zu bereiten, aber mir war nicht klar, wie weit sie gegangen waren. Mord, Sabotage, ganze Stadtviertel fürchterlichem Schrecken anheim fallen lassen ... und jetzt steht die ganze Stadt in Flammen!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -473,22 +473,22 @@ Er atmet tief ein. "Ich wusste, dass der Bleierne Schlüssel versuchte, der Bese
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Ich werde deine Entscheidung respektieren - wie auch immer sie ausfallen mag." Er nickt dir kurz zu und eilt dann in die Dunkelheit hinein.</DefaultText>
+      <DefaultText>"Ich werde deine Entscheidung respektieren - wie auch immer sie ausfallen mag." Er nickt dir kurz zu und verschwindet dann in der Dunkelheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Mit dir bin ich fertig. Du hast für dieselben Leute gearbeitet, die versuchen, mich zu ermorden ... und jetzt glaubst du auch noch, dass ich dich behalten werde? Du bist noch verrückter, als ich dachte."</DefaultText>
+      <DefaultText>"Mit dir bin ich fertig. Du hast für dieselben Leute gearbeitet, die versuchen, mich zu ermorden ... und jetzt glaubst du auch noch, dass ich mich weiter mit dir abgeben würde? Du bist noch verrückter, als ich dachte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Scher dir weg! Wenn ich dich nochmal sehe, werde ich dich umbringen!"</DefaultText>
+      <DefaultText>"Scher dir weg! Wenn ich dich nochmal sehe, bringe ich dich um!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Seine Körperhaltung versteift sich. "Wie du wünschst. Ich wünsche dir alles Gute bei deinem Kampf gegen Thaos - wirklich." Aloth verlässt dich und verschwindet in der Dunkelheit des Waldes, ohne sich auch nur einmal umzusehen.</DefaultText>
+      <DefaultText>Seine Körperhaltung versteift sich. "Wie du wünschst. Ich wünsche dir alles Gute bei deinem Kampf gegen Thaos - wirklich." Aloth dreht sich um und verschwindet in der Dunkelheit des Waldes, ohne sich auch nur einmal umzusehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -538,7 +538,7 @@ Er atmet tief ein. "Ich wusste, dass der Bleierne Schlüssel versuchte, der Bese
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Trotz seines Betrugs fühle ich mich ihm immer noch irgendwie verbunden. So, wie er die Dinge übelnimmt ... das gefällt mir wirklich. Ziemlich schwierig."</DefaultText>
+      <DefaultText>"Trotz seines Betrugs fühle ich mich ihm immer noch irgendwie verbunden. So, wie er gewisse Dinge übel nimmt ... das gefällt mir wirklich. Schwierige Sache."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

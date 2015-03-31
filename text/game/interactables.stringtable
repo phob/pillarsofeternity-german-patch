@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Dieser Sarkophag wird von einem kunstvollen Wappen dekoriert. Der Name auf dem Deckel wird herausgekratzt.</DefaultText>
+      <DefaultText>Dieser Sarkophag wird von einem kunstvollen Wappen dekoriert. Der Name auf dem Deckel wurde herausgekratzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Vier eiförmige Steine liegen auf kurzen, schmalen Sockeln, und sind alle auf einen Altar in der Raummitte ausgerichtet.</DefaultText>
+      <DefaultText>Vier eiförmige Steine liegen auf kurzen, schmalen Sockeln und sind alle auf einen Altar in der Raummitte ausgerichtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Der Marmor am Boden wurde durch hunderte vorübergelaufene Füße geglättet.</DefaultText>
+      <DefaultText>Der Marmor am Boden wurde durch hunderte darüber gelaufene Füße geglättet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,7 +276,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Auf dieser Totenbahre hat jemand vorsichtig polierte Schädel aufgestapelt. Eine Inschrift besagt: "Hier ruhen die Getreuen Beraths. Geführt an das Ende des einen Weges ... "</DefaultText>
+      <DefaultText>Auf dieser Totenbahre hat jemand polierte Schädel behutsam aufgestapelt. Eine Inschrift besagt: "Hier ruhen die Getreuen Beraths. Geführt an das Ende einen Weges ... "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,7 +466,7 @@
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Fliegen wimmeln um diesen verrottenden Ogerkopf und versammeln sich über seinen toten Augen und dem schlaffen Unterkiefer.</DefaultText>
+      <DefaultText>Fliegen schwärmen um diesen verrottenden Ogerkopf und versammeln sich über seinen toten Augen und dem schlaffen Unterkiefer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -586,7 +586,7 @@
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>Diese Dokument schätzt die Größe des Flüchtlingsstroms der vergangenen drei Monate ein. Die Zahlen steigen Woche für Woche.</DefaultText>
+      <DefaultText>Dieses Dokument schätzt die Größe des Flüchtlingsstroms der vergangenen drei Monate ein. Die Zahlen steigen Woche für Woche.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -716,7 +716,7 @@
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>Überall zwischen diesen eingestürzten Steinen gibt es Höhlen und schmalen Spalten. Klauenspuren und Dung zeigt, dass Biester hier vorbeigekommen sind.</DefaultText>
+      <DefaultText>Überall zwischen diesen eingestürzten Steinen gibt es Höhlen und schmalen Spalten. Klauenspuren und Dung zeigt, dass wilde Tiere hier vorbeigekommen sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -821,7 +821,7 @@
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>Wer auch immer hier saß, ist hastig aufgebrochen. Tinte wurde über die ganze Schriftrolle geschüttet und macht deren Inhalt unkenntlich,</DefaultText>
+      <DefaultText>Wer auch immer hier saß, ist hastig aufgebrochen. Tinte wurde über die ganze Schriftrolle geschüttet und macht deren Inhalt unkenntlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -836,12 +836,12 @@
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>Aus einer dieser Schüssel steigt starker Gewürzgeruch auf. Die anderen sind mit kräftigen Färbemitteln und Getreidekörnern gefüllt.</DefaultText>
+      <DefaultText>Aus einer dieser Schüsseln steigt starker Gewürzgeruch auf. Die anderen sind mit kräftigen Färbemitteln und Getreidekörnern gefüllt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>Schädlinge haben diese Teller fast geleert, aber auf dem ganzen Tisch wächst Schimmel immer noch in schwarzgrünen Klumpen.</DefaultText>
+      <DefaultText>Schädlinge haben diese Teller fast geleert, aber auf dem ganzen Tisch wächst der Schimmel immer noch in schwarzgrünen Klumpen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1051,9 +1051,9 @@ Sie umarmen sich leidenschaftlich, was angesichts der Abneigung auf ihren Gesich
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>"Sie verlassen ihre Körper, um ihre Körper anzubieten und sich der Schwäche
+      <DefaultText>"Sie verlassen ihre Körper, um ihre Seelen anzubieten und sich der Schwäche des Fleisches 
 
-des Fleisches und Entkräftung der Knochen zu entsagen. Endlich haben sich die barbarischen Gottlosen gebeugt."</DefaultText>
+und Entkräftung der Knochen zu entsagen. Endlich haben sich die barbarischen Gottlosen gebeugt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1063,7 +1063,7 @@ des Fleisches und Entkräftung der Knochen zu entsagen. Endlich haben sich die b
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>"Eiserne Kämpfer, unbarmherzig und stürmisch wie die tausende vor Feinde."</DefaultText>
+      <DefaultText>"Eiserne Kämpfer, unbarmherzig und stürmisch wie die tausende Feinde."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1153,7 +1153,7 @@ des Fleisches und Entkräftung der Knochen zu entsagen. Endlich haben sich die b
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText>Das Fuchs und Gans</DefaultText>
+      <DefaultText>Fuchs und Gans</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1340,9 +1340,9 @@ Südlich von Anslogs Kompass
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>"Der Krieger ruft zwei Augenzeugen auf, die vor den Emblemen Stellung beziehen sollen, um Zeugnis über das Wesen seiner Seele abzulegen. Der Krieger besteigt mit dem Seelengefäß in der Hand das Podium besteigen, um sich dem Transfer zu unterwerfen."
+      <DefaultText>"Der Krieger ruft zwei Augenzeugen auf, die vor den Emblemen Stellung beziehen sollen, um Zeugnis über das Wesen seiner Seele abzulegen. Der Krieger besteigt mit dem Seelengefäß in der Hand das Podium, um sich der Übertragung zu unterwerfen."
 
-"Sein Seelengefäß und eine Waffe mit einem Herz aus Adra tragend, darf sich der Krieger dann der Urne nähern. Auf diese Weise formt er einen Arm, der seiner Fähigkeiten und Ambitionen wert ist."</DefaultText>
+"Sein Seelengefäß und eine Waffe mit einem Herz aus Adra tragend möge sich der Krieger dann der Urne nähern. Auf diese Weise forme er einen Arm, der seiner Fähigkeiten und Ambitionen wert ist."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1362,7 +1362,7 @@ Südlich von Anslogs Kompass
     </Entry>
     <Entry>
       <ID>347</ID>
-      <DefaultText>Aus der aufgeschlitzten Kehle der Frau läuft Blut heraus und durchtränkt das Laken, auf dem sie liegt.</DefaultText>
+      <DefaultText>Immer noch feuchtes Blut läuft aus der aufgeschlitzten Kehle der Frau und durchtränkt das Laken, auf dem sie liegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1453,7 +1453,7 @@ Südlich von Goldtal</DefaultText>
     </Entry>
     <Entry>
       <ID>365</ID>
-      <DefaultText>Dieser Stiefel ist so halb im Schlamm des Flussufers begraben, als ob er von flussaufwärts gekommen wäre.</DefaultText>
+      <DefaultText>Dieser Stiefel ist so halb im Schlamm des Flussufers begraben, als ob er von flussaufwärts angeschwemmt worden wäre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1468,7 +1468,7 @@ Südlich von Goldtal</DefaultText>
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>Eine Reihe von Hieroglyphen zeigt in einer Reihe anstehende Männer und Frauen, die in ein Becken hinabsteigen. Die Gestalten, die unter dem Becken herauskommen, stehen mit ausgestreckten Armen und triumphierenden Gesichtsausdrücken da.</DefaultText>
+      <DefaultText>Eine Reihe von Hieroglyphen zeigt in einer Reihe anstehende Männer und Frauen, die in ein Becken hinabsteigen. Die Gestalten, die unter dem Becken herauskommen, stehen mit ausgestreckten Armen und triumphierend gelassenen Gesichtsausdrücken da.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1483,7 +1483,7 @@ Südlich von Goldtal</DefaultText>
     </Entry>
     <Entry>
       <ID>371</ID>
-      <DefaultText>Auf diesem Pfeiler sind Szenen einer Schlacht zu sehen. Hier hat sich eine Armee von Männern in Lendenschürzen und Häuten versammelt, über denen drohend ein Dutzend Rüstungen aufragen. In den nach unten folgenden Bildern wird die Armee von den Rüstungen vernichtet.</DefaultText>
+      <DefaultText>Auf diesem Pfeiler sind Szenen einer Schlacht zu sehen. Hier hat sich eine Armee von Männern in Lendenschürzen und Häuten versammelt, über denen drohend ein Dutzend ganzer Rüstungen aufragen. In den nach unten folgenden Bildern wird die Armee von den Rüstungen vernichtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1493,7 +1493,7 @@ Südlich von Goldtal</DefaultText>
     </Entry>
     <Entry>
       <ID>373</ID>
-      <DefaultText>"Wie kann das Volk der Tugend den Profanen und Gesetzlosen widerstehen?
+      <DefaultText>"Wie kann das Volk der Tugend den Gott- und Gesetzlosen widerstehen?
 
 Wo kann die Ulme so tiefe Wurzeln schlagen, dass die Stürme sie nicht wegreißen können?"</DefaultText>
       <FemaleText />
@@ -1514,9 +1514,9 @@ Rache der Götter, noch vor der Rache ihrer Feinde. Der Tod würde für sie kein
     </Entry>
     <Entry>
       <ID>376</ID>
-      <DefaultText>"Pykos könnte mit ihren Häuptlingen niemals eine Übereinkunft treffen. Wie kann ein Volk die Ordnung finden, wenn die
+      <DefaultText>"Pykos könnte mit ihren Häuptlingen niemals eine Übereinkunft treffen. Wie kann ein Volk Ordnung finden, wenn die
 
-Dunkelheit nie mehr bringt als eine Karte von Sternen am Himmel?"</DefaultText>
+Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himmel?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1556,17 +1556,17 @@ Dunkelheit nie mehr bringt als eine Karte von Sternen am Himmel?"</DefaultText>
     </Entry>
     <Entry>
       <ID>384</ID>
-      <DefaultText>Auf dieses Gemälde wurden augenscheinlich mit Blut ein primitives Symbol geschmiert.</DefaultText>
+      <DefaultText>Auf dieses Gemälde wurde augenscheinlich mit Blut ein primitives Symbol geschmiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>385</ID>
-      <DefaultText>Auf dem Tisch liegt ein Mann in einer blutigen Robe. Sein Mund und seine Augen werden von dick verkrustetem Blut umgeben.</DefaultText>
+      <DefaultText>Auf dem Tisch liegt ein Mann in einer blutigen Robe. Sein Mund und seine Augen sind von dick verkrustetem Blut umgeben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>386</ID>
-      <DefaultText>Diese Vitrine wurde meisterhaft aus dunklem Edelholz angefertigt. Jahre der rücksichtslosen Benutzung habe aber viele ihrer Regale zu Bruch gehen lassen.</DefaultText>
+      <DefaultText>Diese Vitrine wurde meisterhaft aus dunklem Edelholz angefertigt. Jahre der rücksichtslosen Benutzung ließen aber viele ihrer Regale zu Bruch gehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1601,7 +1601,7 @@ Dunkelheit nie mehr bringt als eine Karte von Sternen am Himmel?"</DefaultText>
     </Entry>
     <Entry>
       <ID>394</ID>
-      <DefaultText>Das Wasser dieser Quelle ist gefroren und die kleinen Fische aus dem See sitzen nun unter dem Tempel fest.</DefaultText>
+      <DefaultText>Der Brunnen hat eine zugefrorene Wasseroberfläche, die die kleinen Fische aus dem See unter dem Tempel einschließt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1646,7 +1646,7 @@ Dunkelheit nie mehr bringt als eine Karte von Sternen am Himmel?"</DefaultText>
     </Entry>
     <Entry>
       <ID>403</ID>
-      <DefaultText>Die Frostschicht auf diesen Büchern wurde durch Handabdrücke beschmutzt.</DefaultText>
+      <DefaultText>Eine durch Handabdrücke beschmutzte Frostschicht bedeckt diese Bücher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1656,7 +1656,7 @@ Dunkelheit nie mehr bringt als eine Karte von Sternen am Himmel?"</DefaultText>
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>Die schimmernde Eiswand scheint alle Wärme aus dem Raum zu ziehen. Die Kälte verbrennt dir die Haut, und du ziehst zurück, bevor du es berührst.</DefaultText>
+      <DefaultText>Die schimmernde Eiswand scheint alle Wärme aus dem Raum zu ziehen. Die Kälte verbrennt dir die Haut, und du ziehst zurück, bevor du sie berührst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1718,7 +1718,7 @@ Dunkelheit nie mehr bringt als eine Karte von Sternen am Himmel?"</DefaultText>
     </Entry>
     <Entry>
       <ID>418</ID>
-      <DefaultText>Das aus diesem Eimer verschüttete Blut scheint sich in den Stein gefressen zu haben. Das an den Eimer gebundene Seil sieht lang genug aus, um ihn in die Grube hinablassen zu können.</DefaultText>
+      <DefaultText>Das aus diesem Eimer verschüttete Blut scheint sich in den Stein gefressen zu haben. Das an den Eimer gebundene Seil sieht lang genug aus, um es für den Abstieg nutzen zu können.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1728,7 +1728,7 @@ Dunkelheit nie mehr bringt als eine Karte von Sternen am Himmel?"</DefaultText>
     </Entry>
     <Entry>
       <ID>420</ID>
-      <DefaultText>Dieser Eimer ist mit Blut gefüllt und sondern einen scharfen Gestank ab. Auf der Oberfläche der Flüssigkeit treibt ein dunkler Belag.</DefaultText>
+      <DefaultText>Dieser Eimer ist mit Blut gefüllt und sondert einen scharfen Gestank ab. Auf der Oberfläche der Flüssigkeit treibt ein dunkler Belag.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1858,7 +1858,7 @@ Dunkelheit nie mehr bringt als eine Karte von Sternen am Himmel?"</DefaultText>
     </Entry>
     <Entry>
       <ID>451</ID>
-      <DefaultText>Dieser Eimer ist mit Blut gefüllt und sondern einen scharfen Gestank ab. Du erkennst es als Mocgas Tränen, ein starkes Gift.</DefaultText>
+      <DefaultText>Dieser Eimer ist mit Blut gefüllt und sondert einen scharfen Gestank ab. Du erkennst es als Mocgas Tränen, ein starkes Gift.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1913,7 +1913,7 @@ Dunkelheit nie mehr bringt als eine Karte von Sternen am Himmel?"</DefaultText>
     </Entry>
     <Entry>
       <ID>463</ID>
-      <DefaultText>Die Überreste eines zerbrochenen Schmelztiegels, ein gesprungener Mörser und verschiedene zerschmetterte Flaschen und Ampullen sind von Spinnweben auf den Tisch fixiert.</DefaultText>
+      <DefaultText>Die Überreste eines zerbrochenen Schmelztiegels, ein gesprungener Mörser und verschiedene zerschmetterte Flaschen und Ampullen sind mit Spinnweben an den Tisch geheftet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1943,7 +1943,7 @@ Dunkelheit nie mehr bringt als eine Karte von Sternen am Himmel?"</DefaultText>
     </Entry>
     <Entry>
       <ID>469</ID>
-      <DefaultText>Auf die Wand wurde eine fast unlesbare Reihe von Gotteslästerungen gekratzt.</DefaultText>
+      <DefaultText>Auf die Wand wurde eine fast unlesbare Folge von Gotteslästerungen gekratzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2088,7 +2088,7 @@ Dunkelheit nie mehr bringt als eine Karte von Sternen am Himmel?"</DefaultText>
     </Entry>
     <Entry>
       <ID>505</ID>
-      <DefaultText>Lange und oberflächliche Spuren, die nach Osten führen. Sie sind mit Blut besprenkelt.</DefaultText>
+      <DefaultText>Lange und oberflächliche Spuren führen nach Osten. Sie sind mit Blut besprenkelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2305,7 +2305,7 @@ Dunkelheit nie mehr bringt als eine Karte von Sternen am Himmel?"</DefaultText>
     </Entry>
     <Entry>
       <ID>551</ID>
-      <DefaultText>Dieses grobe wie funktionale Gebäude ist mit dem Schmutz und den Ausdünstungen einer geschäftigen und schnellwachsenden Stadt verunreinigt.</DefaultText>
+      <DefaultText>Dieses grobe wie funktionale Gebäude ist mit dem Schmutz und den Ausdünstungen einer geschäftigen und schnell wachsenden Stadt verunreinigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2360,12 +2360,12 @@ Dunkelheit nie mehr bringt als eine Karte von Sternen am Himmel?"</DefaultText>
     </Entry>
     <Entry>
       <ID>562</ID>
-      <DefaultText>Aus verschiedenen zerlumpten Betten und Kissen wurden ein paar primitive Betten improvisiert. Der Stoff wird von einer herabtropfenden, dunklen Flüssigkeit beschmutzt.</DefaultText>
+      <DefaultText>Aus verschiedenen zerlumpten Decken und Kissen wurden ein paar primitive Betten improvisiert. Der Stoff wird von einer herabtropfenden, dunklen Flüssigkeit beschmutzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>563</ID>
-      <DefaultText>Die Töpfe sind mit einem unidentifizierbaren Glibbler zugekrustet.</DefaultText>
+      <DefaultText>Die Töpfe sind mit einem unidentifizierbaren Schleim zugekrustet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2420,7 +2420,7 @@ Dunkelheit nie mehr bringt als eine Karte von Sternen am Himmel?"</DefaultText>
     </Entry>
     <Entry>
       <ID>574</ID>
-      <DefaultText>Die Seiten dieser alten Bücher sind vom Salz der Meeresbrise spröde und duften fein.</DefaultText>
+      <DefaultText>Die Seiten dieser alten Bücher sind spröde und wohlduftend vom Salz der Meerbrise.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2530,7 +2530,7 @@ Dunkelheit nie mehr bringt als eine Karte von Sternen am Himmel?"</DefaultText>
     </Entry>
     <Entry>
       <ID>596</ID>
-      <DefaultText>Diese Buchungen zeigen die aktuellen Preise für eine Reihe von Gütern; außerdem verfolgen sie den laufen Wechselkurs für den vailianischen Lusce. </DefaultText>
+      <DefaultText>Diese Buchungen zeigen die aktuellen Preise für eine Reihe von Gütern. Außerdem verfolgen sie den laufen Wechselkurs für den vailianischen Lusce. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2545,7 +2545,7 @@ Dunkelheit nie mehr bringt als eine Karte von Sternen am Himmel?"</DefaultText>
     </Entry>
     <Entry>
       <ID>599</ID>
-      <DefaultText>Aus nächster Nähe sie viel bequemer aus, als man gedacht hätte.</DefaultText>
+      <DefaultText>Aus nächster Nähe sehen sie viel bequemer aus, als man gedacht hätte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2592,7 +2592,7 @@ Dunkelheit nie mehr bringt als eine Karte von Sternen am Himmel?"</DefaultText>
       <ID>609</ID>
       <DefaultText>"Geschätzter Mestre Verzano -
 
-Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so kann das von Ihren Methoden nicht behauptet werden. Die Ducs haben Sie schon einmal darum gebeten, die Geschäftsinteressen ALLE Republiken zu vertreten. Ein zweites Mal werden sie nicht darum bitten.
+Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so kann das von Ihren Methoden nicht behauptet werden. Die Ducs haben Sie schon einmal darum gebeten, die Geschäftsinteressen aller Republiken zu vertreten. Ein zweites Mal werden sie nicht darum bitten.
 
 -Vicent Agosti"</DefaultText>
       <FemaleText />
@@ -2624,7 +2624,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>615</ID>
-      <DefaultText>Im Reistopf winden sich Dutzende seltsamer Kreaturen.</DefaultText>
+      <DefaultText>Im Reistopf winden sich Dutzende seltsamer kleiner Kreaturen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2704,7 +2704,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>631</ID>
-      <DefaultText>An der Wand sind Hinweise in einem Fall angebracht, bei dem anscheinend eine Karawane auf dem Weg nach Neu-Heomar verschwunden ist.</DefaultText>
+      <DefaultText>An der Wand sind Hinweise zu einem Fall angebracht, bei dem anscheinend eine Karawane auf dem Weg nach Neu-Heomar verschwunden ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2724,7 +2724,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>635</ID>
-      <DefaultText>"Was dir deine Seele vielleicht mitteilen will"</DefaultText>
+      <DefaultText>"Was Dir Deine Seele Vielleicht Mitteilen Will"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2754,7 +2754,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>641</ID>
-      <DefaultText>Auf diesen verzogenen Brettern befinden sich tiefe Furchen. Ihre Abstände lassen auf die Fingernägel von Menschen oder Elfen zurückschließen.</DefaultText>
+      <DefaultText>Auf diesen verzogenen Brettern befinden sich tiefe Furchen. Ihre Abstände lassen auf die Fingernägel von Menschen oder Elfen rückschließen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2874,7 +2874,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>665</ID>
-      <DefaultText>Dies Schriftrolle enthält ein mit Feder und Tinte gezeichnetes Diagramm des Adra-Geräts, dass sich durch den Turm erstreckt. Trotz zahlreicher Messwerte und sorgfältig gezeichneten Details gibt es keine Hinweise auf den Zweck der Maschine.</DefaultText>
+      <DefaultText>Diese Schriftrolle enthält ein mit Feder und Tinte gezeichnetes Diagramm des Adra-Geräts, dass sich durch den Turm erstreckt. Trotz zahlreicher Messwerte und sorgfältig gezeichneten Details gibt es keine Hinweise auf den Zweck der Maschine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2894,7 +2894,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>669</ID>
-      <DefaultText>"11. Tag: Sind endlich aus dem Turm hinausgekommen, um mal Luft zu schnappen. Die Biester sollen die Kunden packen - wir werden die Studie zu unseren eigenen Bedingungen beenden, nach unserem eigenen Zeitplan. Während ich dasselbe Trindig mitteilte, gab es grelles Streulicht am Himmel. Ich sagte, das wäre ein gutes Omen, aber der arme Kerl ist ganz verängstigt. Das einzige Heilmittel dagegen ist eine gute Mütze voll Schlaf."</DefaultText>
+      <DefaultText>"11. Tag: Sind endlich aus dem Turm hinausgekommen, um mal Luft zu schnappen. Die Kunden mögen von wilden Tieren erwischt werden - wir werden die Studie zu unseren eigenen Bedingungen beenden, nach unserem eigenen Zeitplan. Während ich dasselbe Trindig mitteilte, gab es grelles Streulicht am Himmel. Ich sagte, das wäre ein gutes Omen, aber der arme Kerl ist ganz verängstigt. Das einzige Heilmittel dagegen ist eine gute Mütze voll Schlaf."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2949,7 +2949,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>680</ID>
-      <DefaultText>Ratten wuseln in den gebrochenen Stufen umher.</DefaultText>
+      <DefaultText>Ratten wuseln zwischen den gebrochenen Stufen umher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2996,7 +2996,7 @@ G. Doemenel"</DefaultText>
       <ID>687</ID>
       <DefaultText>In der Schublade liegt eine Notiz mit hellroten Lippenstiftabdrücken. Sie stinkt nach widerlichem Parfüm.
 
-"Nochmal danke für deine Hilfe mit Kolfecg. Ist immer schön, einen Freund zu haben, der weiß, wie man richtig anpackt. Du kannst mich jederzeit besuchen.
+"Nochmal danke für deine Hilfe mit Kolfecg. Ist immer schön, einen Freund zu haben, der weiß, wie man richtig zupackt. Du kannst mich jederzeit besuchen.
 
 -Bricanta"</DefaultText>
       <FemaleText />
@@ -3134,7 +3134,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>714</ID>
-      <DefaultText>Aus den Hälsen dieser Flaschen ragen Dutzende Spinnenbeine heraus.</DefaultText>
+      <DefaultText>Aus den Hälsen dieser Flaschen ragen dutzende Spinnenbeine heraus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3323,7 +3323,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>752</ID>
-      <DefaultText>In staubigen alten Hauptbüchern lassen sich die von Bauernhöfen in Goldtal gezahlten Steuern bis ins Jahr 2632 zurückverfolgen. </DefaultText>
+      <DefaultText>In staubigen alten Bestandsbüchern lassen sich die von Bauernhöfen in Goldtal gezahlten Steuern bis ins Jahr 2632 zurückverfolgen. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3548,7 +3548,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>797</ID>
-      <DefaultText>Die leuchtenden Pilzen verströmen einen schweren, erdigen Moschusgeruch.</DefaultText>
+      <DefaultText>Die leuchtenden Pilze verströmen einen schweren, erdigen Moschusgeruch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3728,7 +3728,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>837</ID>
-      <DefaultText>In der Maschine schwingt die Energie tausender Seelen mit. Neben ihr zu stehen, lässt es dir schwindlig werden.</DefaultText>
+      <DefaultText>In der Maschine schwingt die Energie tausender Seelen mit. Neben ihr zu stehen, lässt ein Schwindelgefühl in dir aufkommen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

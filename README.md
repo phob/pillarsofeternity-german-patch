@@ -15,3 +15,5 @@ Credits:
 - Asmodan
 - Aurelio
 - graf wasili
+- coopmine
+- MadOwlkin

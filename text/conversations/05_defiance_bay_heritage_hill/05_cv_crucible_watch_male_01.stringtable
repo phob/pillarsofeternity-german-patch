@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Die Wache hält eine Hand hoch. "Tut mir leid, aber dieser Bezirk ist gesperrt, auf Anweisung des Ducs."</DefaultText>
+      <DefaultText>Die Wache hebt eine Hand hoch. "Tut mir leid, aber dieser Bezirk ist gesperrt, auf persönliche Anweisung des Ducs."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,7 +90,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Lässt sich das Tor vielleicht durch Münzen öffnen?"</DefaultText>
+      <DefaultText>"Würden vielleicht ein paar Münzen das Tor für mich öffnen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

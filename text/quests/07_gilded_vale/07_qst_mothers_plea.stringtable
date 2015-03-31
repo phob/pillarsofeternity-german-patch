@@ -31,22 +31,22 @@
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Auf Geheiß des Fürsten von Goldtal werden alle Mütter mit hohlgeborenen Kindern aus dem Dorf verstoßen. Aufra befürchtet, dass sich schon bald zu diesen Frauen gehören könnte.</DefaultText>
+      <DefaultText>Auf Geheiß des Fürsten von Goldtal werden alle Mütter mit hohlgeborenen Kindern aus dem Dorf verstoßen. Aufra befürchtet, dass sie schon bald zu diesen Frauen gehören könnte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>In Goldtal traf ich Aufra, Caliscas Schwester. Aufra erwartet ein Kind und macht sich Sorgen, dass auch sie ein Hohlgeborenes zur Welt bringen könnte, wie es schon viele unglückliche Frauen vor ihr erlitten haben. Sie bat mich, in den Süden zu Anslogs Kompass zu reisen, wo ich die Aumaua-Heilerin Ranga aufsuchen soll, von der gesagt wird, sie kenne einen Weg, Aufras Kind seine Seele zu erhalten.</DefaultText>
+      <DefaultText>In Goldtal traf ich Aufra, Caliscas Schwester. Aufra erwartet ein Kind und macht sich Sorgen, dass auch sie ein Hohlgeborenes zur Welt bringen könnte, wie es schon viele unglückliche Frauen vor ihr erlitten haben. Sie bat mich, in den Süden zu Anslogs Kompass zu reisen. Dort soll ich die Aumaua-Heilerin Ranga aufsuchen, von der gesagt wird, sie kenne einen Weg, die Seele von Aufras Kind zu erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Anstatt einer Bezahlung bat mich Ranga, ihren Xaurip-Helfer Tana zu unterstützen, der anscheinend von Mitgliedern seines früheren Stammes gejagt wird. Ihr Lager befindet sich im Nordosten der Lagune, und Ranga hat mich gebeten, sie zu beseitigen.</DefaultText>
+      <DefaultText>Anstatt einer Bezahlung bat mich Ranga, ihren Xaurip-Helfer Tana zu unterstützen, der anscheinend von Mitgliedern seines früheren Stammes gejagt wird. Ranga hat mich gebeten, sie zu beseitigen. Ihr Lager befindet sich im Nordosten der Lagune.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Ich erlangte die Mixtur, um die mich Aufra gebeten hat, aber Mutter Ranga teilte mir mit, dass dieser Trank statt eines Heilmittels lediglich eine Hebammen-Arznei zur Verbesserung von Aufras Gesundheit sei.</DefaultText>
+      <DefaultText>Ich erlangte die Mixtur, um die mich Aufra gebeten hatte, aber Mutter Ranga teilte mir mit, dass dieser Trank statt eines Heilmittels lediglich eine Hebammen-Arznei zur Verbesserung von Aufras Gesundheit sei.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Ich brachte den Trank zu Aufra zurück und ließ sie in dem Glauben, dass er die erwarteten magischen Eigenschaften besitzt. Vielleicht werden sie und ihr Kind ja Glück haben. Die Zeit wird es zeigen.</DefaultText>
+      <DefaultText>Ich brachte den Trank zu Aufra zurück und ließ sie in dem Glauben, dass er die erwarteten magischen Eigenschaften besäße. Vielleicht werden sie und ihr Kind ja Glück haben. Die Zeit wird es zeigen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,12 +86,12 @@
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>Ranga ist umgebracht, und mit ihr sind auch ihre Geheimnisse gestorben.</DefaultText>
+      <DefaultText>Ranga wurde getötet, und mit ihr starben auch ihre Geheimnisse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30005</ID>
-      <DefaultText>Ich brachte den Trank zu Aufra zurück und ließ sie in dem Glauben, dass er die erwarteten magischen Eigenschaften besitzt. Vielleicht werden sie und ihr Kind ja Glück haben. Die Zeit wird es zeigen.</DefaultText>
+      <DefaultText>Ich brachte den Trank zu Aufra zurück und ließ sie in dem Glauben, dass er die erwarteten magischen Eigenschaften besäße. Vielleicht werden sie und ihr Kind ja Glück haben. Die Zeit wird es zeigen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

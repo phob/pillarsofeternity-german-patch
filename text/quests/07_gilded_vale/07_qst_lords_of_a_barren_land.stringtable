@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Fürst eines Ödlands</DefaultText>
+      <DefaultText>Fürst des Ödlands</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Goldtal wird von Fürst Raedric beherrscht, der in der Burg jenseits des Esternwalds lebt. Der der als Waidwens Vermächtnis bekannte Fluch Goldtal fest im Griff hat, griff er zur Ausmerzung der Gründe dafür zu brutalen Maßnahmen. Letztere haben ihm Feinde eingebracht, von denen ihn viele nun gern seiner Macht berauben würden.</DefaultText>
+      <DefaultText>Goldtal wird von Fürst Raedric beherrscht, der in der Burg jenseits des Esternwalds lebt. Da der als Waidwens Vermächtnis bekannte Fluch den Dyrwald fest im Griff hat, griff er zur Ausmerzung der Ursachen zu brutalen Maßnahmen. Letztere haben ihm Feinde eingebracht, von denen ihn viele nun zu gern seiner Macht berauben würden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Ich wurde von einem Mann angesprochen, der sich gegen Fürst Raedrics Grausamkeit aussprach. Er fordert mich, mit ihm gemeinsame Sache zu machen und Raedrics Herrschaft ein Ende zu setzen. Die Burg liegt östliches des Esternwalds und wird schwer verteidigt. Ins Innere zu gelangen, wird eine beträchtliche Herausforderung darstellen.</DefaultText>
+      <DefaultText>Ich wurde von einem Mann angesprochen, der sich gegen Fürst Raedrics Grausamkeit aussprach. Er fordert mich auf, mit ihm gemeinsame Sache zu machen und Raedrics Herrschaft ein Ende zu setzen. Die Burg liegt östliches des Esternwalds und wird schwer verteidigt. Ins Innere zu gelangen, wird eine beträchtliche Herausforderung darstellen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,17 +51,17 @@
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Ich habe mit Fürst Raedric gesprochen, der mir eine ganze andere Version der Geschichte erzählte. Er bat mich, Kolsc wegen dessen Plänen zum Thronraub und der Machtübernahme über Goldtal und den umgebenden Ländereien zu konfrontieren. Raedric sagt, dass Kolsc in der als Magrans Gabelung bekannten Wildnis zu finden ist. </DefaultText>
+      <DefaultText>Ich habe mit Fürst Raedric gesprochen, der mir eine ganze andere Version der Geschichte erzählte. Er bat mich, Kolsc wegen dessen Plänen zum Thronraub und der Machtübernahme über Goldtal und den umgebenden Ländereien zu konfrontieren. Raedric sagte, dass Kolsc in der als Magrans Gabelung bekannten Wildnis zu finden sei.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Ich habe den Ort gefunden, wo sich Kolsc und seine Verbündeten treffen. Kolsc wartet im Inneren. Es fällt mir zu, über sein Schicksal zu entscheiden.</DefaultText>
+      <DefaultText>Ich habe den Ort gefunden, an dem sich Kolsc und seine Verbündeten treffen. Kolsc wartet im Inneren. Es fällt mir zu, über sein Schicksal zu entscheiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Ich habe Kolsc erschlagen und damit die größte Bedrohung für Fürst Raedrics Herrschaft eliminiert. Raedric hat mir für den Erfolgsfall bei meiner Rückkehr eine Belohnung versprochen.</DefaultText>
+      <DefaultText>Ich habe Kolsc erschlagen und damit die größte Bedrohung für Fürst Raedrics Herrschaft eliminiert. Raedric hat mir bei meiner Rückkehr eine Belohnung versprochen, sollte ich Erfolg haben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>Ich habe mit Osrya gesprochen, einer Beseelerin in den Verliesen des Burg. Sie versprach, mit einen Geheimweg in Raedrics Gemächer zu zeigen, wenn ich vorher Nedmar, den Berath-Hohepriester, aus der Welt schaffe. Er lebt in den oberen Stockwerken der Burg.</DefaultText>
+      <DefaultText>Ich habe mit Osrya gesprochen, einer Beseelerin in den Verliesen der Burg. Sie versprach, einen Geheimweg in Raedrics Gemächer zu öffnen, wenn ich vorher Nedmar, den Berath-Hohepriester, aus der Welt schaffe. Er hält sich in den oberen Stockwerken der Burg auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,12 +81,12 @@
     </Entry>
     <Entry>
       <ID>20003</ID>
-      <DefaultText>Kolsc ist der Ansicht, dass ein Frontalangriff auf die Burg unmöglich wäre. Er schlug mir vor, am östlichen Rand des Burggrabens einen Zugang in die Abwasserkanäle zu suchen. Ansonsten könnte ich vielleicht einen Weg in das obere Stockwerk der Burg finden, wo Kolscs Kontaktperson Nedmar lebt.</DefaultText>
+      <DefaultText>Kolsc ist der Ansicht, dass ein Frontalangriff auf die Burg unmöglich sei. Er schlug mir vor, am östlichen Rand des Burggrabens einen Zugang in die Abwasserkanäle zu suchen. Ansonsten könnte ich vielleicht einen Weg in das obere Stockwerk der Burg finden, wo sich Kolscs Kontaktperson Nedmar aufhält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20004</ID>
-      <DefaultText>Kolsc ist der Ansicht, dass ein Frontalangriff auf die Burg unmöglich wäre. Er schlug mir vor, am östlichen Rand des Burggrabens einen Zugang in die Abwasserkanäle zu suchen. Alternativ könnte es mir gelingen, einen Weg in das obere Stockwerk der Burg finden, wo Kolscs Kontaktperson Nedmar lebt.</DefaultText>
+      <DefaultText>Kolsc ist der Ansicht, dass ein Frontalangriff auf die Burg unmöglich sei. Er schlug mir vor, am östlichen Rand des Burggrabens einen Zugang in die Abwasserkanäle zu suchen. Alternativ könnte es mir gelingen, einen Weg in das obere Stockwerk der Burg zu finden, wo sich Kolscs Kontaktperson Nedmar aufhält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>20006</ID>
-      <DefaultText>Ich erschlug Nedmar wie versprochen und teilte dies Osrya mit. Osrya dankte mir für meine Hilfe und öffnete einen Geheimweg für mich, der direkt in Raedrics Gemächer führt. So sollte ich leichter in seinen Thronsaal gelangen können.</DefaultText>
+      <DefaultText>Wie versprochen erschlug ich Nedmar und berichtete Osrya davon. Osrya dankte mir für meine Hilfe und öffnete einen Geheimweg für mich, der direkt in Raedrics Gemächer führt. So sollte ich leichter in seinen Thronsaal gelangen können.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>20008</ID>
-      <DefaultText>Giacco ist erschlagen worden.</DefaultText>
+      <DefaultText>Giacco wurde erschlagen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>20011</ID>
-      <DefaultText>Ich habe Giacco aus seiner Zelle befreit.</DefaultText>
+      <DefaultText>Ich befreite Giacco aus seiner Zelle.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

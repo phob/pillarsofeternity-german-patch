@@ -6,13 +6,13 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Halt, mein Herr. Auf ein kurzes Wort." Er verhüllter Mann in einem grünen Umhang wartet an der Straße auf dich. Als du dich näherst, geht er auf dich zu, und auf kürzerer Entfernung erkennst du die Gesichtszüge eines jüngeren Mannes, die aber von Erschöpfung gezeichnet sind.</DefaultText>
-      <FemaleText>"Halt, meine Dame. Auf ein kurzes Wort." Er verhüllter Mann in einem grünen Umhang wartet an der Straße auf dich. Als du dich näherst, geht er auf dich zu, und auf kürzerer Entfernung erkennst du die Gesichtszüge eines jüngeren Mannes, die aber von Erschöpfung gezeichnet sind.</FemaleText>
+      <DefaultText>"Halt, mein Herr. Auf ein kurzes Wort." Ein verhüllter Mann in einem grünen Umhang wartet an der Straße auf dich. Als du dich näherst, geht er auf dich zu, und auf kürzere Entfernung erkennst du die Gesichtszüge eines jüngeren Mannes, die aber von Erschöpfung gezeichnet sind.</DefaultText>
+      <FemaleText>"Halt, meine Dame. Auf ein kurzes Wort." Ein verhüllter Mann in einem grünen Umhang wartet an der Straße auf dich. Als du dich näherst, geht er auf dich zu, und auf kürzere Entfernung erkennst du die Gesichtszüge eines jüngeren Mannes, die aber von Erschöpfung gezeichnet sind.</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Ah, der hilfsbereite Fremde. Ich bin froh, dass du gekommen bist. Hast du Neuigkeiten für uns?" Kolsc runzelt die Stirn. "Merkwürdig - ich habe noch nichts aus der Burg gehört. Hattest du Erfolg? Ist Raedric tot?"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Ah, die hilfsbereite Fremde. Ich bin froh, dass du gekommen bist. Hast du Neuigkeiten für uns?" Kolsc runzelt die Stirn. "Merkwürdig - ich habe noch nichts aus der Burg gehört. Hattest du Erfolg? Ist Raedric tot?"</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -57,7 +57,7 @@
     <Entry>
       <ID>20</ID>
       <DefaultText>"Nur ein Mann, der dazu entschlossen ist, Goldtal seinen früheren Glanz wiederzugeben. Es gab eine Zeit, Fremder, in der Goldtal seinem Namen alle Ehre machte. Der Weizen auf den Hügeln glänzte gülden, und die Dörfler führten ein gutes Leben."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Nur ein Mann, der dazu entschlossen ist, Goldtal seinen früheren Glanz wiederzugeben. Es gab eine Zeit, Fremde, in der Goldtal seinem Namen alle Ehre machte. Der Weizen auf den Hügeln glänzte gülden, und die Dörfler führten ein gutes Leben."</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Bin ich nicht, und wer wird für seine Taten bezahlen. Das schwöre ich, Kolsc, bei der Flamme."</DefaultText>
+      <DefaultText>"Bin ich nicht, und er wird für seine Taten bezahlen. Das schwöre ich, Kolsc, bei der Flamme."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,7 +201,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"So wie ich es sehe, wird uns der Anblick von Mistgabeln und Fackeln vor unserer Mühle erspart bleiben?" Der Mann grinst schief. "Gute Arbeit bei der Belegung dieser Fehde. Trumbel wird jetzt sicherlich besser schlafen."</DefaultText>
+      <DefaultText>"So wie ich es sehe, wird uns der Anblick von Mistgabeln und Fackeln vor unserer Mühle erspart bleiben?" Der Mann grinst schief. "Gute Arbeit bei der Beilegung dieser Fehde. Trumbel wird jetzt sicherlich besser schlafen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,7 +281,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Das hängst ganz davon ab. Aus reiner Mildtätigkeit helfe ich niemandem."</DefaultText>
+      <DefaultText>"Das hängt ganz davon ab. Aus reiner Mildtätigkeit helfe ich niemandem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -296,7 +296,7 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"So sei es. Es tut mir leid, Freund, dass ich dich nicht überzeugen konnte. Ich werde davor sorgen, dass du ein angemessenes Begräbnis erhältst."</DefaultText>
+      <DefaultText>"So sei es. Es tut mir leid, Freund, dass ich dich nicht überzeugen konnte. Ich werde dafür sorgen, dass du ein angemessenes Begräbnis erhältst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -326,7 +326,7 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Wie viele andere Tyrannen hat er sich aus Angst vor Vergeltung mit stärkeren Männern und Frauen umgeben." Der Mann lächelt dünn. "Wir alle sollten die Unterstützung eines tapferen Zeitgenossen wie dir begrüßen, aber ich glaube immer noch, dass du dir mit einigen Verbündeten leichter tun würdest."</DefaultText>
+      <DefaultText>"Wie viele andere Tyrannen hat er sich aus Angst vor Vergeltung mit stärkeren Männern und Frauen umgeben." Der Mann lächelt dünn. "Wir alle sollten die Unterstützung eines tapferen Zeitgenossen wie dir begrüßen, aber ich glaube immer noch, dass du es dir mit einigen Verbündeten leichter machen würdest."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,12 +356,12 @@
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Ich hoffe, dass du das wirst." Der Gesichtsausdruck des Mannes wird düster. "Denn wir benötigen sehr dringend Hilfe. Du könntest dich mit Pasca im Schwarzen Hund unterhalten. Sie kann dich mit zuverlässigen Leuten in Kontakt bringen. Und sollte dich deine Lage verbessern, so höre meine dringliche Bitte - Fürst Raedric muss aufgehalten werden."</DefaultText>
+      <DefaultText>"Ich hoffe, dass du das wirst." Der Gesichtsausdruck des Mannes wird düster. "Denn wir benötigen sehr dringend Hilfe. Du könntest dich mit Pasca im Schwarzen Hund unterhalten. Sie kann dich mit zuverlässigen Leuten in Kontakt bringen. Und sollte sich deine Lage verbessern, so höre meine dringliche Bitte - Fürst Raedric muss aufgehalten werden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Dann wird es dir vielleicht besser ergehen als uns." Der Gesichtsausdruck des Mannes wird düster. "Hör gut zu - wir haben nicht viel Zeit, und wenn du dein Leben eh gern für deine Neugier aufs Spiel setzt, vielleicht würdest du Dasselbe auch für eine noblere Sache tun."</DefaultText>
+      <DefaultText>"Dann wird es dir vielleicht besser ergehen als uns." Der Gesichtsausdruck des Mannes wird düster. "Hör gut zu - wir haben nicht viel Zeit, und wenn du dein Leben sowieso gern für deine Neugier aufs Spiel setzt, vielleicht würdest du dasselbe auch für eine noblere Sache tun."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -491,7 +491,7 @@
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Bin ich nicht, und wer wird für seine Taten bezahlen. Das schwöre ich bei der Flamme."</DefaultText>
+      <DefaultText>"Bin ich nicht, und er wird für seine Taten bezahlen. Das schwöre ich bei der Flamme."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -506,7 +506,7 @@
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Bin ich nicht, und wer wird für seine Taten bezahlen. Das schwöre ich, Kolsc, bei der Flamme."</DefaultText>
+      <DefaultText>"Bin ich nicht, und er wird für seine Taten bezahlen. Das schwöre ich, Kolsc, bei der Flamme."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,7 +516,7 @@
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Ich wünschte sehr, dass ich das könnte, aber ich würde dich nur zusätzlich behindern. Bevor er fiel, trieb mir einer von Raedrics Speichelleckern einen Dolch ins Bein. Auf das er im nächsten Leben nicht halb so viel Glück hat."</DefaultText>
+      <DefaultText>"Ich wünschte sehr, dass ich das könnte, aber ich würde dich nur zusätzlich behindern. Bevor er fiel, trieb mir einer von Raedrics Speichelleckern einen Dolch ins Bein. Möge er im nächsten Leben nicht halb so viel Glück haben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -526,7 +526,7 @@
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Ich wünschte sehr, dass ich das könnte, aber ich würde dich nur zusätzlich behindern. Bevor er fiel, trieb mir einer von Raedrics Speichelleckern einen Dolch ins Bein. Auf das er im nächsten Leben nicht halb so viel Glück hat."</DefaultText>
+      <DefaultText>"Ich wünschte sehr, dass ich das könnte, aber ich würde dich nur zusätzlich behindern. Bevor er fiel, trieb mir einer von Raedrics Speichelleckern einen Dolch ins Bein. Möge er im nächsten Leben nicht halb so viel Glück haben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -618,7 +618,7 @@ Dieser Spitzname ist jetzt also veraltet, denn Asche strahlt nicht."</DefaultTex
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Du könntest dich mit Pasca im Schwarzen Hund unterhalten. Sie kann dich mit zuverlässigen Leuten in Kontakt bringen. Und sollte dich deine Lage verbessern, so höre meine dringliche Bitte - Fürst Raedric muss aufgehalten werden. Wenn wir ihm nicht die Stirn bieten, wird es niemand tun."</DefaultText>
+      <DefaultText>"Du könntest dich mit Pasca im Schwarzen Hund unterhalten. Sie kann dich mit zuverlässigen Leuten in Kontakt bringen. Und sollte sich deine Lage verbessern, so höre meine dringliche Bitte - Fürst Raedric muss aufgehalten werden. Wenn wir ihm nicht die Stirn bieten, wird es niemand tun."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -634,12 +634,12 @@ Dieser Spitzname ist jetzt also veraltet, denn Asche strahlt nicht."</DefaultTex
     <Entry>
       <ID>169</ID>
       <DefaultText>"Du bist ein aufrichtiger Mann - und bei meiner Ehre, ich werde dich gut behandeln. Wir stehen auf derselben Seite, mein Freund."</DefaultText>
-      <FemaleText>"Du bist eine aufrichtige Frau - und bei meiner Ehre, ich werde dich gut behandeln. Wir stehen auf derselben Seite, mein Freund."</FemaleText>
+      <FemaleText>"Du bist eine aufrichtige Frau - und bei meiner Ehre, ich werde dich gut behandeln. Wir stehen auf derselben Seite, meine Freundin."</FemaleText>
     </Entry>
     <Entry>
       <ID>170</ID>
       <DefaultText>"Egal, welch harmloses Blendwerk ich bewirkt haben mag, ich tat es für einen guten Zweck." Kolsc zieht sein Schwert aus seiner Scheide. "Ich dachte, du würdest die Taktik wiedererkennen, mein Freund. Es tut mir leid, dass wir nicht einer Meinung sein konnten."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Egal, welch harmloses Blendwerk ich bewirkt haben mag, ich tat es für einen guten Zweck." Kolsc zieht sein Schwert aus seiner Scheide. "Ich dachte, du würdest die Taktik wiedererkennen, meine Freundin. Es tut mir leid, dass wir nicht einer Meinung sein konnten."</FemaleText>
     </Entry>
     <Entry>
       <ID>171</ID>

@@ -17,3 +17,4 @@ Credits:
 - graf wasili
 - coopmine
 - MadOwlkin
+- Cynthel Natal

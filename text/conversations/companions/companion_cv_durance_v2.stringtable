@@ -118,7 +118,7 @@ Die Säume seiner Robe sind einschließlich der Ärmel an den Rändern verbrannt
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Seine Hände sind zwar dick und schwielig, tragen aber keine Brandmale. </DefaultText>
+      <DefaultText>Seine Hände sind zwar dick und schwielig, tragen aber keine Brandmale.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -150,12 +150,12 @@ Als du aufblickst, siehst du den Mann, der dich beim Studieren des Stabs beobach
     <Entry>
       <ID>30</ID>
       <DefaultText>"Wenn du unbedingt einen Titel haben musst, Wächter, den du mir anhängen kannst, dann nenne mich Durance. Du beobachtest Seelen, ich dagegen prüfe sie."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Wenn du unbedingt einen Titel haben musst, Wächterin, den du mir anhängen kannst, dann nenne mich Durance. Du beobachtest Seelen, ich dagegen prüfe sie."</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>"Wie hast du erkannt, dass ich ein Wächter bin?"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Wie hast du erkannt, dass ich eine Wächterin bin?"</FemaleText>
     </Entry>
     <Entry>
       <ID>32</ID>
@@ -263,7 +263,9 @@ Aber wie die Flammen schlagen auch die Pocken nicht zweimal zu, und sie sind nic
       <DefaultText>"Du siehst mich als Last?" Durance' Gesicht verzerrt sich zu einem Zähnefletschen. "Ich bin gekommen, um dir zu helfen, Wächter. Du wiederum könntest mir gar nicht mehr helfen, als mich mit dir ziehen zu lassen."
 
 "Die Schlacht ist mir nicht fremd, solltest du diesbezügliche Sorgen haben. Außerdem kann ich Wunden versorgen und mit Rat zur Seite stehen ... aber beides nur, wenn du mich darum bittest."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Du siehst mich als Last?" Durance' Gesicht verzerrt sich zu einem Zähnefletschen. "Ich bin gekommen, um dir zu helfen, Wächterin. Du wiederum könntest mir gar nicht mehr helfen, als mich mit dir ziehen zu lassen."
+
+"Die Schlacht ist mir nicht fremd, solltest du diesbezügliche Sorgen haben. Außerdem kann ich Wunden versorgen und mit Rat zur Seite stehen ... aber beides nur, wenn du mich darum bittest."</FemaleText>
     </Entry>
     <Entry>
       <ID>52</ID>
@@ -273,12 +275,12 @@ Aber wie die Flammen schlagen auch die Pocken nicht zweimal zu, und sie sind nic
     <Entry>
       <ID>53</ID>
       <DefaultText>"Sie?" Durance wirft der Statue einen Blick zu und kichert dann leise. "Mach dir um ihre Eifersucht keine Sorgen." Sein Kichern erstirbt zu einem unverfälschten Lächeln. "Lass uns sehen, was der Weg für uns bereithält, Wächter."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Sie?" Durance wirft der Statue einen Blick zu und kichert dann leise. "Mach dir um ihre Eifersucht keine Sorgen." Sein Kichern erstirbt zu einem unverfälschten Lächeln. "Lass uns sehen, was der Weg für uns bereithält, Wächterin."</FemaleText>
     </Entry>
     <Entry>
       <ID>54</ID>
       <DefaultText>Ein Lächeln zieht über Durance' Gesicht. "Dann lass uns zusammen losziehen, Wächter."</DefaultText>
-      <FemaleText />
+      <FemaleText>Ein Lächeln zieht über Durance' Gesicht. "Dann lass uns zusammen losziehen, Wächterin."</FemaleText>
     </Entry>
     <Entry>
       <ID>55</ID>
@@ -290,7 +292,7 @@ Er sieht aus, als würde er etwas sagen wollen, dann fällt die Anspannung aber 
     <Entry>
       <ID>56</ID>
       <DefaultText>"Wächter." Durance wendet dir sein pockenvernarbtes Gesicht zu und schaut dich mit brennenden, fast schon begierigen Augen an. "Ich dachte, du würdest es anders sehen. Und da wären wir drei also wieder - du, ich und die Hure. Hast du deine Meinung geändert?"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Wächterin." Durance wendet dir sein pockenvernarbtes Gesicht zu und schaut dich mit brennenden, fast schon begierigen Augen an. "Ich dachte, du würdest es anders sehen. Und da wären wir drei also wieder - du, ich und die Hure. Hast du deine Meinung geändert?"</FemaleText>
     </Entry>
     <Entry>
       <ID>57</ID>
@@ -314,7 +316,7 @@ Er sieht aus, als würde er etwas sagen wollen, dann fällt die Anspannung aber 
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Ich hatte einige Fragen, die ich dich fragen wollte."</DefaultText>
+      <DefaultText>"Ich hatte einige Fragen, die ich dir stellen wollte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -335,7 +337,7 @@ Er sieht aus, als würde er etwas sagen wollen, dann fällt die Anspannung aber 
     <Entry>
       <ID>99</ID>
       <DefaultText>Eine Sekunde lang scheint dich Durance nicht zu erkennen, dann blinzelt er und runzelt die Stirn. "Was gibt es, Wächter?"</DefaultText>
-      <FemaleText />
+	  <FemaleText>Eine Sekunde lang scheint dich Durance nicht zu erkennen, dann blinzelt er und runzelt die Stirn. "Was gibt es, Wächterin?"</FemaleText>
     </Entry>
     <Entry>
       <ID>100</ID>
@@ -565,7 +567,9 @@ Sein Gesicht verdunkelt sich. "Woedica ... sie muss ihrer eigenen Gerechtigkeit 
       <DefaultText>Durance schaut dich einen Moment lang an, als seist du verrückt, dann zieht er seine Lippen zurück und fletscht die Zähne. "Mich töten?" Er lacht, laut und harsch.
 
 "Sie ist eine Göttin. Ich trinke immer noch von ihren brennenden Brüsten, Wächter." Sein Gesicht brennt, und seine Hand festigt ihren Griff um den Stab. "Wenn sie meinen Tod wollte, könnte sich mich zu meinen Ursprung zurückverfolgen und mich umbringen."</DefaultText>
-      <FemaleText />
+      <FemaleText>Durance schaut dich einen Moment lang an, als seist du verrückt, dann zieht er seine Lippen zurück und fletscht die Zähne. "Mich töten?" Er lacht, laut und harsch.
+
+"Sie ist eine Göttin. Ich trinke immer noch von ihren brennenden Brüsten, Wächterin." Sein Gesicht brennt, und seine Hand festigt ihren Griff um den Stab. "Wenn sie meinen Tod wollte, könnte sich mich zu meinen Ursprung zurückverfolgen und mich umbringen."</FemaleText>
     </Entry>
     <Entry>
       <ID>146</ID>

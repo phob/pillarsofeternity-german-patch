@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Goldtal soll eines der reichsten Dörfer im Dyrwald sein, in dem es an Gelegenheiten zum Arbeiten und Reichwerden nur so wimmeln soll. Mir wurde gesagt, dass sie neuen Siedlern Land anbieten.</DefaultText>
+      <DefaultText>Goldtal soll eines der reichsten Dörfer im Dyrwald sein, das ein Vielzahl an Gelegenheiten zum Arbeiten und Reichwerden bieten soll. Mir wurde gesagt, dass sie neuen Siedlern Land anbieten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Die Reise nach Goldtal ist lang gewesen, und sie ist noch nicht ganz vorbei. Glücklicherweise hat mich das Reisen mit der Karawanen vor einigen Gefahren des Dyrwalds bewahrt.</DefaultText>
+      <DefaultText>Die Reise nach Goldtal war lang und sie ist noch nicht ganz vorbei. Glücklicherweise hat mich das Reisen mit der Karawanen vor einigen Gefahren des Dyrwalds bewahrt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,7 +58,7 @@ Der örtliche Magistrat schlug mir vor, einen Beseeler zu Rate zu ziehen. Leider
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>Magistrat Urgeat schlug mir vor, in der Schänke abzusteigen, während er für mich nach einer eigenen Unterkunft sucht. Alles hier ist im Stillstand, während er auf Neuigkeiten über Fürst Raedrics Baby wartet. 
+      <DefaultText>Magistrat Urgeat schlug mir vor, in der Schänke abzusteigen, während er für mich nach einer eigenen Unterkunft sucht. Alles hier steht still, während er auf Neuigkeiten über das Schicksal von Fürst Raedrics Neugeborenem wartet. 
 
 Anscheinend bleibt mir kaum etwas anderes übrig, als abzuwarten.</DefaultText>
       <FemaleText />
@@ -85,7 +85,7 @@ Anscheinend bleibt mir kaum etwas anderes übrig, als abzuwarten.</DefaultText>
     </Entry>
     <Entry>
       <ID>20003</ID>
-      <DefaultText>Die mysteriösen Gestalten scheinen eine seltsame Maschine zu aktivieren. Etwas muss schiefgegangen sein, da es zu einem plötzlichen Energieblitz kam, durch den die verhüllten Fremden getötet wurden ... und ich hatte seltsame Visionen, für die ich keine Erklärung finde. Hoffentlich kann ich in Goldtal Antworten finden.</DefaultText>
+      <DefaultText>Die mysteriösen Gestalten scheinen eine seltsame Maschine zu aktivieren. Etwas muss schiefgegangen sein, da es zu einem plötzlichen Energieblitz kam, durch den die verhüllten Fremden getötet wurden ... und ich hatte seltsame Visionen, für die ich keine Erklärung habe. Hoffentlich kann ich in Goldtal Antworten finden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -95,29 +95,29 @@ Anscheinend bleibt mir kaum etwas anderes übrig, als abzuwarten.</DefaultText>
     </Entry>
     <Entry>
       <ID>20005</ID>
-      <DefaultText>Ich bin in der Schänke nicht mehr willkommen. Ich werde im Freien zelten müssen, bis der Magistrat Neuigkeiten erfährt.</DefaultText>
+      <DefaultText>Ich bin in der Schänke nicht mehr willkommen. Ich werde im Freien zelten müssen, bis der Magistrat Rückmeldung erhält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Die Situation in Goldtal hat sich verändert. Nach einem Problem bei der Geburt seines Kindes bietet Fürst Raedric Reisenden nicht länger Land an, und der Magistrat hat mir mitgeteilt, dass man nicht wünscht, dass ich mich hier niederlasse.</DefaultText>
+      <DefaultText>Die Situation in Goldtal hat sich verändert. Nach einem Problem bei der Geburt seines Kindes bietet Fürst Raedric Reisenden nicht länger Land an und der Magistrat teilte mir mit, dass man nicht wünscht, dass ich mich hier niederlasse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Da der Magistrat nun tot ist, werde ich in Goldtal wohl kaum eine ständige Bleibe finden können. Jetzt bleibt mir nur noch, in der Schänke abzusteigen.
+      <DefaultText>Da der Magistrat nun tot ist, werde ich in Goldtal wohl kaum eine ständige Bleibe finden können. Jetzt kann ich nur noch in der Schänke um Einkehr bitten.
 
 Meine Reise hat mich ermüdet, und das Geflüster scheint nur noch schlimmer zu werden. Vielleicht wird es meinem Leiden zuträglich sein, eine Nacht durchzuschlafen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Da ich mich nun tief unterhalb einer engwithanischen Stadt befinde und der Rückweg zur Oberfläche unklar ist, werde ich unwahrscheinlich in nächster Zeit nach Goldtal zurückkehren, um mich weiter mit dem Magistrat über eine Unterkunft unterhalten.</DefaultText>
+      <DefaultText>Da ich mich nun tief unter der Erde in einer engwithanischen Stadt befinde und es keinen offensichtlichen Rückweg zur Oberfläche gibt, erscheint es recht unwahrscheinlich, in nächster Zeit nach Goldtal zurückkehren, um mich mit dem Magistrat über die Unterbringung zu unterhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>Magistrat Urgeat schlug mir vor, in der Schänke abzusteigen, während er für mich nach einer eigenen Unterkunft sucht. Alles hier ist im Stillstand, während er auf Neuigkeiten über Fürst Raedrics Baby wartet. Anscheinend bleibt mir kaum etwas anderes übrig, als abzuwarten.</DefaultText>
+      <DefaultText>Magistrat Urgeat schlug mir vor, in der Schänke abzusteigen, während er für mich nach einer eigenen Unterkunft sucht. Alles hier verharrt im Stillstand, während er auf Neuigkeiten über das Schicksal von Fürst Raedrics Neugeborenem wartet. Anscheinend bleibt mir kaum etwas anderes übrig, als abzuwarten.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

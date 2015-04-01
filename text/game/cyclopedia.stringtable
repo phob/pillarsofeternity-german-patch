@@ -250,7 +250,7 @@ Da Schatten spirituelle Energie absorbieren, sind sie für Kreaturen, die sich a
       <ID>47</ID>
       <DefaultText>Junge Drachen beginnen ihren Lebenskreislauf als Lindwürmer, obwohl die meisten nicht über diese Entwicklungsstufe hinauskommen. Lindwürmer sind schlau und gerissen, aber nicht sonderlich intelligent. Um sich zu einem Jungdrachen (und schließlich zu einem Drachen) zu entwickeln, muss ein Lindwurm genügend Platz und Ressourcen haben. Wenn sie in der Nähe anderer Jungdrachen und Drachen leben, entwickeln sie sich nicht. Sie müssen sich einen Lebensraum suchen, der nicht bereits von einem größeren Artgenossen beansprucht wird.
 
-Da ihre weiteren Entwicklungschancen gering sind, scließen sich die meisten Lindwürmern in Gewölben zusammen. Sie sind mutige und höchst aggressive Kreaturen, wenn auch nicht sonderlich intelligent - dies wird durch die intensive Konkurrenz um Nahrung und Territorien erfordert.</DefaultText>
+Da ihre weiteren Entwicklungschancen gering sind, schließen sich die meisten Lindwürmern in Gewölben zusammen. Sie sind mutige und höchst aggressive Kreaturen, wenn auch nicht sonderlich intelligent - der starke Konkurrenzkampf um Nahrung und Territorien erfordert dies.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -381,7 +381,7 @@ Fähige Druiden können mehrere Geisterwandlerformen erlernen. Sie glauben, dass
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Aufgrund der Geschwindigkeit und einzigartigen Angriffsform von Speerspinnen kämpfen traditionellerweise nur äußerst tapfere (oder dumme) Schwertkämpfer und -kämpferinnen zu Übungszwecken gegen sie - vor allem die Reißzähne. Heutzutage wird diese Tradition nur noch von den urigsten und robustesten angehenden Kriegern verfolgt. Die Speerspinne ist als eines der verwegensten arachnoiden Raubtiere bekannt, da sie sich zum Beutefang weniger auf ihre Netze als auf ihre gezackten Beine verlässt. Aus diesem Grund entfernt sich diese Spezies auch weiter von ihrem Nest als die meisten anderen Spinnen.</DefaultText>
+      <DefaultText>Aufgrund der Geschwindigkeit und einzigartigen Angriffsform von Speerspinnen kämpfen traditionellerweise nur äußerst tapfere (oder dumme) Schwertkämpfer und -kämpferinnen zu Übungszwecken gegen sie - vor allem die Mitglieder der "Reißzähne". Heutzutage wird diese Tradition nur noch von den urigsten und robustesten angehenden Kriegern verfolgt. Die Speerspinne ist als eines der verwegensten arachnoiden Raubtiere bekannt, da sie sich zum Beutefang weniger auf ihre Netze als auf ihre gezackten Beine verlässt. Aus diesem Grund entfernt sich diese Spezies auch weiter von ihrem Nest als die meisten anderen Spinnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -729,12 +729,12 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Verdrehter Knöchel</DefaultText>
+      <DefaultText>Verstauchter Knöchel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Ein verdrehter Knöchel reduziert die Reflexe und die Gewandtheit</DefaultText>
+      <DefaultText>Ein verstauchter Knöchel reduziert die Reflexe und die Gewandtheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -749,12 +749,12 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>Verdrehte Schulter</DefaultText>
+      <DefaultText>Verstauchte Schulter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Eine verdrehte Schulter führt zu einem Malus auf Aktionsgeschwindigkeit und Macht.</DefaultText>
+      <DefaultText>Eine verstauchte Schulter führt zu einem Malus auf Aktionsgeschwindigkeit und Macht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

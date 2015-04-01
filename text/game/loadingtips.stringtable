@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Ein Charakter kann im Kampf Schnellgegenstände einsetzen oder Waffensets wechseln, ansonsten aber nicht auf sein Inventar zugreifen.</DefaultText>
+      <DefaultText>Ein Charakter kann im Kampf Gegenstände aus der Schnellauswahl einsetzen oder Waffensets wechseln, ansonsten aber nicht auf sein Inventar zugreifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Das Lager der Gruppe kann verwendet werden, um überflüssige Ausrüstung zu lagern, wenn die Inventare der Charaktere voll sind. Einige arten von Gegenständen, beispielsweise Quest-Gegenstände und Zutaten, werden automatisch im Lager abgelegt.</DefaultText>
+      <DefaultText>Das Lager der Gruppe kann verwendet werden, um überflüssige Ausrüstung zu lagern, wenn die Inventare der Charaktere voll sind. Einige Arten von Gegenständen, beispielsweise Quest-Gegenstände und Zutaten, werden automatisch im Lager abgelegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,7 +411,7 @@
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>Offensive Wirkungsbereichzauber können zwei Zielkreise besitzen. Der innere Kreis wirkt sich auf Ziele aus, die sich darin befinden. Der äußere Kreis wirkt sich nur auf Feinde aus, nicht aber auf Verbündete.</DefaultText>
+      <DefaultText>Offensive Wirkungsbereichzauber können zwei Zielkreise besitzen. Der innere Kreis wirkt sich auf alle Ziele aus, die sich darin befinden. Der äußere Kreis wirkt sich nur auf Feinde aus, nicht aber auf Verbündete.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

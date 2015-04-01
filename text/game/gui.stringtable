@@ -621,7 +621,7 @@
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>{2} fügt {0} {1} schaden zu.</DefaultText>
+      <DefaultText>{2} fügt {0} {1}&#2060;schaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5665,7 +5665,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1127</ID>
-      <DefaultText>{0} {1} schaden</DefaultText>
+      <DefaultText>{0} {1}&#2060;schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5695,7 +5695,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1133</ID>
-      <DefaultText>{0} {1} schaden pro Wunde</DefaultText>
+      <DefaultText>{0} {1}&#2060;schaden pro Wunde</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6675,7 +6675,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1329</ID>
-      <DefaultText>{0} schaden</DefaultText>
+      <DefaultText>{0}&#2060;schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7682,7 +7682,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1532</ID>
-      <DefaultText>Entzieht {0} {1} schaden als Ausdauer</DefaultText>
+      <DefaultText>Entzieht {0} {1}&#2060;schaden als Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7942,7 +7942,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1584</ID>
-      <DefaultText>{0} {1} schaden erlitten</DefaultText>
+      <DefaultText>{0} {1}&#2060;schaden erlitten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8382,7 +8382,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1673</ID>
-      <DefaultText>{0} {1} schaden an selbst beim Angriff mit Werkzeugen</DefaultText>
+      <DefaultText>{0} {1}&#2060;schaden an selbst beim Angriff mit Werkzeugen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

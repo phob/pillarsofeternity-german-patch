@@ -8839,12 +8839,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1765</ID>
-      <DefaultText>Dein Ruf bei {0} hat sich verschlechtert.</DefaultText>
+      <DefaultText>Dein Ruf in {0} hat sich verschlechtert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1766</ID>
-      <DefaultText>Dein Ruf bei {0} hat sich verbessert.</DefaultText>
+      <DefaultText>Dein Ruf in {0} hat sich verbessert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

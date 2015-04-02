@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Gut, Sie hier zu sehen, meine Fürst. Ich kann schon eine Veränderung in der Luft spüren. Es gibt viel zu tun."
+      <DefaultText>"Gut, Sie hier zu sehen, mein Fürst. Ich kann schon eine Veränderung in der Luft spüren. Es gibt viel zu tun."
 
 "Gibt es etwas, bei dem ich Ihnen behilflich sein könnte?"</DefaultText>
       <FemaleText>"Gut, Sie hier zu sehen, meine Fürstin. Ich kann schon eine Veränderung in der Luft spüren. Es gibt viel zu tun."
@@ -21,7 +21,7 @@
     <Entry>
       <ID>22</ID>
       <DefaultText>"Was hat es zur Folge, der Herr von Caed Nua zu sein?"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Was hat es zur Folge, die Herrin von Caed Nua zu sein?"</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -446,7 +446,11 @@ Wie dem auch sei, ich vermute, Ihre Suche nach Maerwald hat Sie hergeführt."</D
 Die Burg kennt Sie gleichwohl als ihren Herrn. Mit der Zeit könnte sie sich zu einem Ort wandeln, der Sie mit Stolz erfüllt.
 
 Sie braucht nur eine führende Hand."</DefaultText>
-      <FemaleText />
+      <FemaleText>Die Energie scheint urplötzlich aus der Luft zu verschwinden. "Es ... es ist natürlich Ihre freie Entscheidung.
+
+Die Burg kennt Sie gleichwohl als ihre Herrin. Mit der Zeit könnte sie sich zu einem Ort wandeln, der Sie mit Stolz erfüllt.
+
+Sie braucht nur eine führende Hand."</FemaleText>
     </Entry>
     <Entry>
       <ID>107</ID>
@@ -665,7 +669,7 @@ Jahre vergingen, und der Graf mit ihnen. Er grub sein ganzes Leben und fand doch
     <Entry>
       <ID>152</ID>
       <DefaultText>"Jetzt hat sie einen neuen Herrn und eine zweite Chance. ... und ich auch."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Jetzt hat sie eine neue Herrin und eine zweite Chance. ... und ich auch."</FemaleText>
     </Entry>
     <Entry>
       <ID>154</ID>
@@ -751,7 +755,7 @@ Ich ... ich weiß, das ist ziemlich viel auf einmal. Wenn Sie aber bleiben werde
     <Entry>
       <ID>170</ID>
       <DefaultText>"Tatsächlich? Ich ... Mein Fürst, Sie haben meine volle Unterstützung, und ich werde dafür sorgen, dass der Weg für Sie freigeräumt wird. Ich muss Sie aber warnen, dass dies kein leichtes Unterfangen werden wird. Viele sind vor Ihnen schon dorthin gegangen ... Ich mache mir Sorgen, dass auch Sie dem zum Opfer fallen könnten, das ihnen das Leben genommen hat."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Tatsächlich? Ich ... Meine Fürstin, Sie haben meine volle Unterstützung, und ich werde dafür sorgen, dass der Weg für Sie freigeräumt wird. Ich muss Sie aber warnen, dass dies kein leichtes Unterfangen werden wird. Viele sind vor Ihnen schon dorthin gegangen ... Ich mache mir Sorgen, dass auch Sie dem zum Opfer fallen könnten, das ihnen das Leben genommen hat."</FemaleText>
     </Entry>
     <Entry>
       <ID>171</ID>
@@ -865,12 +869,12 @@ Ich bin nur froh, dass Sie unverletzt sind, meine Fürstin. Ich habe mich gesorg
     <Entry>
       <ID>190</ID>
       <DefaultText>"Ich verbleibe freilich Ihr treuer Diener, und solange Sie der Herr hier sind, werden wir immer miteinander verbunden sein. Sie müssen nicht hierher zurückkehren, um mit mir zu sprechen. Wo Ihre Reisen Sie auch hinführen, Sie können mir Ihren Willen nennen, wenn Sie nur Verbindung zu mir suchen."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Ich verbleibe freilich Ihr treuer Diener, und solange Sie die Herrin hier sind, werden wir immer miteinander verbunden sein. Sie müssen nicht hierher zurückkehren, um mit mir zu sprechen. Wo Ihre Reisen Sie auch hinführen, Sie können mir Ihren Willen nennen, wenn Sie nur Verbindung zu mir suchen."</FemaleText>
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>"Dann werden wir sofort aufbrechen." Die Stimme der Burgvogtin ist voller Aufregung. "Sie müssen wissen, mein Fürst, dass das nur die Erste und Geringste von vielen großen Unternehmungen ist. Die Festung beinhaltet schon seit Jahren eine Vielzahl an Dienern und schönen Gebäuden."</DefaultText>
-      <FemaleText />
+      <DefaultText>"Dann werden wir sofort aufbrechen." Die Stimme der Burgvogtin ist voller Aufregung. "Sie müssen wissen, mein Fürst, dass dies nur die Erste und Geringste von vielen großen Unternehmungen ist. Die Festung beinhaltet schon seit Jahren eine Vielzahl an Dienern und schönen Gebäuden."</DefaultText>
+      <FemaleText>"Dann werden wir sofort aufbrechen." Die Stimme der Burgvogtin ist voller Aufregung. "Sie müssen wissen, meine Fürstin, dass dies nur die Erste und Geringste von vielen großen Unternehmungen ist. Die Festung beinhaltet schon seit Jahren eine Vielzahl an Dienern und schönen Gebäuden."</FemaleText>
     </Entry>
     <Entry>
       <ID>192</ID>
@@ -880,7 +884,7 @@ Ich bin nur froh, dass Sie unverletzt sind, meine Fürstin. Ich habe mich gesorg
     <Entry>
       <ID>193</ID>
       <DefaultText>"Sie müssen nicht sofort entscheiden. Ich verbleibe in Ihren Diensten, und solange Sie der Herr hier sind, werden wir immer miteinander verbunden sein. Sie müssen nicht diesen Boden betreten, um mit mir zu sprechen. Wo Ihre Reisen Sie auch hinführen, Sie können mir Ihren Willen nennen, wenn Sie nur Verbindung zu mir suchen."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Sie müssen nicht sofort entscheiden. Ich verbleibe in Ihren Diensten, und solange Sie die Herrin hier sind, werden wir immer miteinander verbunden sein. Sie müssen nicht diesen Boden betreten, um mit mir zu sprechen. Wo Ihre Reisen Sie auch hinführen, Sie können mir Ihren Willen nennen, wenn Sie nur Verbindung zu mir suchen."</FemaleText>
     </Entry>
     <Entry>
       <ID>194</ID>

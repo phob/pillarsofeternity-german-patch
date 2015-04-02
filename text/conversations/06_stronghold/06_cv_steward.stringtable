@@ -113,7 +113,7 @@ Als du dich näherst, spürst du, wie die Wärme fluktuiert, als ob sie in Beweg
       <ID>40</ID>
       <DefaultText>"Ich auch. Wenn Sie ihn finden sollten, würde ich auch gerne davon erfahren. Jeder Tag seiner Abwesenheit bringt mehr Staub in meine Halle und mehr Risse in meine Steine. Es ... es ist einfach nur schändlich. Der Graf hätte es niemals so weit kommen lassen."
 
-"Sie haben freie Hand, hier nach ihm zu suchen. Ich werde Ihnen den Weg freisperren."</DefaultText>
+"Sie haben freie Hand, hier nach ihm zu suchen. Ich werde Ihnen den Weg aufsperren."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,9 +133,9 @@ Als du dich näherst, spürst du, wie die Wärme fluktuiert, als ob sie in Beweg
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Er war ein großer Mann. Eines Tages kam er hier als junger Mann mit wallendem Haar und polierter Rüstung an und vertrieb diese Wesen der Finsternis, die in diesem Ort nach Jahrhunderten der Vernachlässigung lauerten.
+      <DefaultText>"Er war ein großer Mann. Eines Tages kam er hier als junger Mann mit wallendem Haar und polierter Rüstung an und vertrieb die Wesen der Finsternis, die in diesem Ort nach Jahrhunderten der Vernachlässigung lauerten."
  
-Er konnte die Schönheit dieses Ortes sehen. So, wie er früher gewesen war. Als ihn niemand sonst haben wollte, beanspruchte er ihn für sich, und zusammen arbeiteten wir am Wiederaufbau der Burg."</DefaultText>
+"Er konnte die Schönheit dieses Ortes sehen. So, wie er früher gewesen war. Als ihn niemand sonst haben wollte, beanspruchte er ihn für sich, und zusammen arbeiteten wir am Wiederaufbau der Burg."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -254,9 +254,9 @@ Er verlangt, dass Sie ihn bei seiner Burg treffen, und falls Sie ihm nicht Folge
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Als er gebaut wurde, brachte ich eine Trennung von ihm einfach nicht mehr über mich. Ich wollte nicht zurück in meine einsame Behausung. Ich flehte den Grafen an, mich bleiben zu lassen, um mich seiner anzunehmen. Das war alles, was ich wollte, und er gewährte mir meinen Wunsch.
+      <DefaultText>"Als er gebaut wurde, brachte ich eine Trennung von ihm einfach nicht mehr über mich. Ich wollte nicht zurück in meine einsame Behausung. Ich flehte den Grafen an, mich bleiben zu lassen, um mich seiner anzunehmen. Das war alles, was ich wollte, und er gewährte mir meinen Wunsch."
 
-Jahre später, als Beraths Totengräber mich tatsächlich rief, flehte ich den Grafen an, einen Weg für mein Bleiben zu finden. Und das tat er dann auch."</DefaultText>
+"Jahre später, als Beraths Totengräber mich tatsächlich rief, flehte ich den Grafen an, einen Weg für mein Bleiben zu finden. Und das tat er dann auch."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -268,21 +268,21 @@ Jahre später, als Beraths Totengräber mich tatsächlich rief, flehte ich den G
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Den Grafen von Yenwald, und zwar den ursprünglichen, als Dyrwald nur eine Kolonie war. Er fand diesen Ort, die einzige Ruine, den sich Eir Glanfath zu verteidigen weigerte, und glaubte, dass hier Reichtümer schlummerten. Die Burg war seine Methode, den Ansprüche seiner Familie zu verteidigen, und dieser Anspruch nahm von ihm Besitz. Er musste einfach wissen, was darunter lag."</DefaultText>
+      <DefaultText>"Dem Grafen von Yenwald, und zwar dem ursprünglichen, als Dyrwald nur eine Kolonie war. Er fand diesen Ort, die einzige Ruine, die sich Eir Glanfath zu verteidigen weigerte, und glaubte, dass ihr Wert groß wäre. Die Burg war seine Weise den Anspruch seiner Familie zu verteidigen, und dieser Anspruch wurde seine Besessenheit. Er musste einfach wissen, was darunter lag."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Gefangen? Ja, manchmal fühlt es sich wohl so an, aber meistens empfinde ich es eher so, als würde ich hier wohnen.
+      <DefaultText>"Gefangen? Ja, manchmal fühlt es sich wohl so an, aber meistens empfinde ich es eher so, als würde ich hier wohnen."
 
-Der Thron wurde aus dem Ruinen geborgen, er war eines der ersten Dinge, die man fand. Als letzte Gunst für eine sterbende Frau sorgte der Graf dafür, dass ich in ihn gewirkt wurde. Adra ist ein verträgliches Gefäß für eine Seele."</DefaultText>
+"Der Thron wurde aus den Ruinen geborgen, er war eines der ersten Dinge, die man fand. Als letzte Gunst für eine sterbende Frau sorgte der Graf dafür, dass ich in ihn gewirkt wurde. Adra ist ein verträgliches Gefäß für eine Seele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Er widmete sein Leben der Ausgrabung der Ruinen unter der Burg, die mit Fels und Erde versiegelt worden waren, und zwar anscheinend absichtlich."
+      <DefaultText>"Er widmete sein Leben der Ausgrabung der Ruinen unter der Burg, die mit Fels und Erde versiegelt worden waren. Absichtlich, so wie es aussah."
 
-"Jahre vergingen, und der Graf mit ihnen. Er grub sein ganzes Leben und fand doch nie, was er suchte. Seine Besessenheit wurde zu der seines Sohnes und zu der des Sohns seines Sohnes. Und dann, eines Tages, brach der junge Graf durch."</DefaultText>
+"Jahre vergingen, und der Graf mit ihnen. Er grub sein ganzes Leben und fand doch nie, was er suchte. Seine Besessenheit wurde zu der seines Sohnes und zu der des Sohnes seines Sohnes. Und dann, eines Tages, brach der junge Graf durch."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -302,7 +302,7 @@ Der Thron wurde aus dem Ruinen geborgen, er war eines der ersten Dinge, die man 
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Seitdem liegt die Burg verlassen darnieder. Unbenutzt. Verschwendet. Maerwalds Beherrschung dieses Ortes war meine erste Hoffnung seit zweihundert Jahren gewesen. Oh, wie ich mich danach sehnte, sie wieder so wie einst zu sehen."</DefaultText>
+      <DefaultText>"Seitdem blieb die Burg verlassen. Unbenutzt. Verschwendet. Maerwalds Beherrschung dieses Ortes war meine erste Hoffnung seit zweihundert Jahren gewesen. Oh, wie ich mich danach sehnte, sie wieder so wie einst zu sehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

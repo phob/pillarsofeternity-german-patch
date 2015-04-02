@@ -223,16 +223,16 @@ Obwohl allem Anschein nach das Gegenteil zutrifft, wohnt dem gemeinen Käfer ein
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Phantome sind Seelen, die sich nach dem Tod nicht richtig vom Körper gelöst haben. Die geschieht üblicherweise durch ein schweres Trauma, besonders im Falle eines gewaltsamen Todes. Im Gegensatz zu verlorenen Seelen, die mit normalen Sterblichen nicht mehr interagieren oder von ihnen erkannt werden können, behalten Phantome (wie Schatten und Cean Gŵla) eine Verbindung zur physischen Welt. Bei ihren Angriffen auf andere Lebensformen machen sie keine Unterschiede.
+      <DefaultText>Phantome sind Seelen, die sich nach dem Tod nicht richtig vom Körper gelöst haben. Dies geschieht üblicherweise durch ein schweres Trauma, besonders im Falle eines gewaltsamen Todes. Im Gegensatz zu verlorenen Seelen, die mit normalen Sterblichen nicht mehr interagieren oder von ihnen erkannt werden können, behalten Phantome (wie Schatten und Cean Gŵla) eine Verbindung zur physischen Welt. Bei ihren Angriffen auf andere Lebensformen machen sie keine Unterschiede.
 
 Phantome können sich auch aus Gestandenen manifestieren, die besonders chaotische Leben gelebt haben, besonders aus Gewaltverbrechern und Verrückten. Unter den richtigen Umständen kann jeder zum Phantom werden, aber die Angst vor Phantomen - und ihre Verbindung mit den Geisteskranken - kann dazu führen, dass anfällige Individuen in vielen Gemeinschaften gemieden werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Oger sind große, dickhäutige Kreaturen mit einer ungefähre Körpergröße von 3-4 Metern. Sie sind sehr muskelkräftig und trägen üblicherweise die Felle oder Häute ihrer Beute. Keulen, Äxte und Streitkolben aus Knochen oder Holz sind ihre bevorzugten Waffen. 
+      <DefaultText>Oger sind große, dickhäutige Kreaturen mit einer ungefähren Körpergröße von 3-4 Metern. Sie sind sehr muskulös und tragen üblicherweise die Felle oder Häute ihrer Beute. Keulen, Äxte und Streitkolben aus Knochen oder Holz sind ihre bevorzugten Waffen. 
 
-Oger sind ebenso intelligent (oder intelligenter) als die "zivilisierten" Rassen, aber aufgrund ihrer überwältigenden Feindseligkeit gegen Artgenossen hält ihre Zahl gering. Trotz ihrer angeborenen Intelligenz hat sie ihr sprunghaftes Temperament schon immer daran gehindert, sich länger an einem Ort zu konzentrieren, um etwas von bedeutendem kulturellen Wert hervorzubringen. Die meisten leben halbnomadisch und abgeschieden in der Wildnis, wo sie mit geringerer Wahrscheinlichkeit auf andere Oger treffen. Eigentlich finden sie nur während der Paarungszeit halbwegs zuverlässig zueinander, was ihre Zahl meistens ebenso reduziert wie erhöht. Oger mit "friedlicheren" Charakterzügen bemühen sich besonders, jeglichen Kontakt zu vermeiden.
+Oger sind ebenso intelligent (oder intelligenter) als die "zivilisierten" Rassen, aber aufgrund ihrer überwältigenden Feindseligkeit gegen Artgenossen bleibt ihre Zahl gering. Trotz ihrer angeborenen Intelligenz hat sie ihr sprunghaftes Temperament schon immer daran gehindert, sich länger an einem Ort zu konzentrieren, um etwas von bedeutendem kulturellen Wert hervorzubringen. Die meisten leben halbnomadisch und abgeschieden in der Wildnis, wo sie mit geringerer Wahrscheinlichkeit auf andere Oger treffen. Eigentlich finden sie nur während der Paarungszeit halbwegs zuverlässig zueinander, was ihre Zahl meistens ebenso reduziert wie erhöht. Oger mit "friedlicheren" Charakterzügen bemühen sich besonders, jeglichen Kontakt zu vermeiden.
 
 In den seltenen Fällen, in denen Oger tatsächlich zusammenarbeiten, werden sie meistens von einer Oger-Stammesführerin angeführt. Letztere sind sogar noch größer als männliche Oger, verhalten sich ihren Artgenossen gegenüber aber eher weniger aggressiv. Wenn sich Oger gruppiert haben, stellen sie für andere Gestandene oft eine unüberwindbare Bedrohung dar.</DefaultText>
       <FemaleText />
@@ -289,7 +289,7 @@ Die Geschwindigkeit von Wölfen ist ebenso legendär wie ihre Fähigkeit, ihre B
 
 Feuchtsporen sind im Vergleich zu anderen Pilzen einzigartig, was ihren Appetit auf die Seelen lebender Kreaturen angeht. Oftmals wachsen und wandeln sie in Gruppen über den Waldboden und suchen nach geschwächten oder erschöpften Reisenden, die sich nicht mehr wehren können. Sobald sie einen Wirt gefunden haben, verbinden sie sich mit ihm und versorgen ihn mit lebensnotwendigen Nährstoffen, während sie seine Essenz verschlingen. Sobald sie einen Wirt gefunden haben, verhalten sich Feuchtsporen extrem aggressiv und greifen alles und jeden mit ihren gezackten Giftwurzeln an, der sich ihrem Fressen nähert.
 
-Feuchtsporen zehren zuerst von den verdorbensten und zersplitterten Energien einer Seele und fahren so lange fort, bis vom Wort nicht mehr übrigbleibt als eine seelenlose Hülle. Diese macht Feuchtsporenfleisch für erfahrene Apotheker zu einem nützlichen Reinigungsmittel für Seelenläuterungsarzneien und -techniken. Falsch angewendet kann diese Behandlung aber zu Amnesie und, in extremen Fällen, zu Seelenzersplitterung führen.</DefaultText>
+Feuchtsporen zehren zuerst von den verdorbensten und zersplitterten Energien einer Seele und fahren so lange fort, bis vom Wirt nicht mehr übrigbleibt als eine seelenlose Hülle. Diese macht Feuchtsporenfleisch für erfahrene Apotheker zu einem nützlichen Reinigungsmittel für Seelenläuterungsarzneien und -techniken. Falsch angewendet kann diese Behandlung aber zu Amnesie und, in extremen Fällen, zu Seelenzersplitterung führen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -362,9 +362,9 @@ Drachen sind intelligenter als die meisten anderen fühlenden Wesen, ihr einsied
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Jungdrachen repräsentieren das mittlere Stadium im Lebenskreislauf eines Drachen. Sie haben sich aus Lindwürmern entwickelt, aber das Drachenstadium noch nicht erreichen (viele werden das nie). Jungdrachen verteidigen ihre Territorien aggressiv und versuchen, es so weit wie möglich zu erweitern. Anderen Jungdrachen gegenüber sind sie feindselig eingestellt, da sie Konkurrenten um die knappen Ressourcen sind.
+      <DefaultText>Jungdrachen repräsentieren das mittlere Stadium im Lebenskreislauf eines Drachen. Sie haben sich aus Lindwürmern entwickelt, aber das Drachenstadium noch nicht erreicht (viele werden das nie). Jungdrachen verteidigen ihre Territorien aggressiv und versuchen, es so weit wie möglich zu erweitern. Anderen Jungdrachen gegenüber sind sie feindselig eingestellt, da sie Konkurrenten um die knappen Ressourcen sind.
 
-Ihre Farbgebung richtet sich am beanspruchten Territorium. Lebt ein Jungdrachen beispielsweise in einem Sumpf, kann er grünlich, bräunlich oder schwarz gefärbt sein, Nickhäute, eine flache Schnauze und erhöhte Nüstern haben. Obwohl alle Jungdrachen Feuer speien können, entwickeln viele auch alternative, andere Elemente umfassende Angriffsarten. </DefaultText>
+Ihre Farbgebung richtet sich nach beanspruchten Territorium. Lebt ein Jungdrachen beispielsweise in einem Sumpf, kann er grünlich, bräunlich oder schwarz gefärbt sein, Nickhäute, eine flache Schnauze und erhöhte Nüstern haben. Obwohl alle Jungdrachen Feuer speien können, entwickeln viele auch alternative, andere Elemente umfassende Angriffsarten. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -435,7 +435,7 @@ Selbst unter den Beseelern wird die Schaffung von Fleischkonstrukten kontrovers 
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Das allgemeine Verständnis über Guls ist dahingehend, dass sie sich genügend Gerissenheit bewahren, um gefährliche Jäger und Gegner zu sein ... aber nicht genug, um sich über ihren raschen Verfall zu sorgen. Wie Darguls werden sie von abgeschiedenen Umgebungen abgezogen, obwohl sich manche auf der Suche nach leicht zugänglichem Fleisch in der Nähe von Friedhöfen aufhalten. Das Fleisch toter Gestandener sättigt den Hunger eines Guls, kann aber ihr Bedürfnis nach Seelenessenz kaum befriedigen. Der längere Aufenthalt auf einem Friedhof kann den Verfall von Guls sogar beschleunigen, da dies ihren Antrieb lebenden Nahrungsquellen nachzustellen, reduzieren kann.</DefaultText>
+      <DefaultText>Das allgemeine Verständnis über Guls ist dahingehend, dass sie sich genügend Gerissenheit bewahren, um gefährliche Jäger und Gegner zu sein ... aber nicht genug, um sich über ihren raschen Verfall zu sorgen. Wie Darguls werden sie von abgeschiedenen Umgebungen angezogen, obwohl sich manche auf der Suche nach leicht zugänglichem Fleisch in der Nähe von Friedhöfen aufhalten. Das Fleisch toter Gestandener sättigt den Hunger eines Guls, kann aber ihr Bedürfnis nach Seelenessenz kaum befriedigen. Der längere Aufenthalt auf einem Friedhof kann den Verfall von Guls sogar beschleunigen, da dies ihren Antrieb lebenden Nahrungsquellen nachzustellen, reduzieren kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

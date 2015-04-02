@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Er möge sich nähern." Fürst Raedric VII., gerüstet mit einer kunstvollen Plattenrüstung und umgeben von mehreren Wachen, die dich alle mit stiller Feindschaft anstarren, beobachtet dich von seinem Thron aus. Seine Augen wirken hohl, und die Blässe des hageren Gesichts des Mannes lässt es im Kontrast zu seinen dunklen, ungekämmten Haaren düster wirken.</DefaultText>
-      <FemaleText />
+      <FemaleText>"Sie möge sich nähern." Fürst Raedric VII., gerüstet mit einer kunstvollen Plattenrüstung und umgeben von mehreren Wachen, die dich alle mit stiller Feindschaft anstarren, beobachtet dich von seinem Thron aus. Seine Augen wirken hohl, und die Blässe des hageren Gesichts des Mannes lässt es im Kontrast zu seinen dunklen, ungekämmten Haaren düster wirken.</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -179,7 +179,7 @@ Er schüttelt den Kopf. "Und mit dem Vermächtnis kam die Verzweiflung. Wie hät
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Ungläubig stößt Raedric ein tiefes, ärgerliches Geräusch aus. "Und du glaubst, dass dieser Anführer Kolsc ist? Was versteht er denn davon, was es heißt, ein Thayn zu sein? Er hat einen mickrigen Haufen ungebildeter Bauern und Plünderer um sich geschart und schickt sie in Selbstmordaktionen gegen meine Wachen los."</DefaultText>
+      <DefaultText>Ungläubig stößt Raedric ein tiefes, ärgerliches Geräusch aus. "Und du glaubst, dass dieser Anführer Kolsc ist? Was versteht er denn davon, was es heißt, ein Thayn zu sein? Er hat einen mickrigen Haufen ungebildeter Bauern und Plünderer um sich geschart und schickt sie in selbstmörderischer Absicht gegen meine Wachen los."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -235,7 +235,7 @@ Er schüttelt den Kopf. "Und mit dem Vermächtnis kam die Verzweiflung. Wie hät
     <Entry>
       <ID>54</ID>
       <DefaultText>"Und am nächsten Morgen wirst du als reicherer Mann aufwachen."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Und am nächsten Morgen wirst du als reichere Frau aufwachen."</FemaleText>
     </Entry>
     <Entry>
       <ID>55</ID>
@@ -244,7 +244,7 @@ Er schüttelt den Kopf. "Und mit dem Vermächtnis kam die Verzweiflung. Wie hät
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Und nun ... " Raedric senkt seinen Blick. "Nun würde ich gerne meine Frau verbrennen und in die Zukunft schauen. Bevor man Goldtal sicher nennen kann, liegt noch sehr viel Arbeit vor uns. Vielen Dank für deine Unterstützung."</DefaultText>
+      <DefaultText>"Und nun ... " Raedric senkt seinen Blick. "Nun würde ich gerne meine Frau vergraben und in die Zukunft schauen. Bevor man Goldtal sicher nennen kann, liegt noch sehr viel Arbeit vor uns. Vielen Dank für deine Unterstützung."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

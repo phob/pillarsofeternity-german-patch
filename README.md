@@ -18,3 +18,5 @@ Credits:
 - coopmine
 - MadOwlkin
 - Cynthel Natal
+- Kirschrose
+- benniii

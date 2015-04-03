@@ -62,7 +62,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Kein Lebender weiß, wie tief nach unten sich die Tunnel erstrecken, und nur wenige, die dorthin gegangen sind, kehrten wieder. Es gibt viel Gerede über Reichtümer und Schätze ... allein die Aussicht auf Engwithan-Reliquien hat viele Glücksritter angelockt. Und zwar in ihren Tod, fürchte ich."</DefaultText>
+      <DefaultText>"Kein Lebender weiß, wie tief nach unten sich die Tunnel erstrecken, und nur wenige, die dorthin gegangen sind, kehrten wieder. Es gibt viel Gerede über Reichtümer und Schätze ... allein die Aussicht auf Engwithan-Reliquien hat viele Glücksritter angelockt. Und in ihren Tod, fürchte ich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -77,8 +77,8 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Sollten Sie aber den Sieg davontragen, wird man Ihren Namen im ganzen Dyrwald kennen. Ihr werdet allein über Caed Nua und die Wiederherstellung ihres großen Namens herrschen.Und so lange noch ein einzelner Stein von Caed Nua übrig ist, werde ich mich deswegen an Sie erinnern, mein Fürst."</DefaultText>
-      <FemaleText>"Sollten Sie aber den Sieg davontragen, wird man Ihren Namen im ganzen Dyrwald kennen. Ihr werdet allein über Caed Nua und die Wiederherstellung ihres großen Namens herrschen.Und so lange noch ein einzelner Stein von Caed Nua übrig ist, werde ich mich deswegen an Sie erinnern, meine Fürstin."</FemaleText>
+      <DefaultText>"Sollten Sie aber den Sieg davontragen, wird man Ihren Namen im ganzen Dyrwald kennen. Ihr werdet allein über Caed Nua und die Wiederherstellung ihres großen Namens herrschen. Und so lange noch ein einzelner Stein von Caed Nua übrig ist, werde ich mich deswegen an Sie erinnern, mein Fürst."</DefaultText>
+      <FemaleText>"Sollten Sie aber den Sieg davontragen, wird man Ihren Namen im ganzen Dyrwald kennen. Ihr werdet allein über Caed Nua und die Wiederherstellung ihres großen Namens herrschen. Und so lange noch ein einzelner Stein von Caed Nua übrig ist, werde ich mich deswegen an Sie erinnern, meine Fürstin."</FemaleText>
     </Entry>
     <Entry>
       <ID>35</ID>
@@ -87,9 +87,9 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Ich könnte ... dafür sorgen, dass sie repariert wird, wenn das Ihr Wille ist. Als das aufhörte, der Wille des letzten Herren zu sein, war ich nicht mehr in der Lage, etwas daran zu ändern, denn was bin ich schon außer das Werkzeug meines Herrn? 
+      <DefaultText>"Ich könnte ... dafür sorgen, dass sie repariert wird, wenn das Ihr Wille ist. Als das aufhörte, der Wille des letzten Herren zu sein, war ich nicht mehr in der Lage, etwas daran zu ändern, denn was bin ich schon außer das Werkzeug meines Herrn?"
 
-Das würde sicherlich Zeit in Anspruch nehmen, aber weitaus weniger, als einen anderen Weg nach Trutzbucht zu finden."</DefaultText>
+"Das würde sicherlich Zeit in Anspruch nehmen, aber weitaus weniger, als einen anderen Weg nach Trutzbucht zu finden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -160,9 +160,9 @@ Als du dich näherst, spürst du, wie die Wärme fluktuiert, als ob sie in Beweg
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Die Energie scheint urplötzlich aus der Luft zu verschwinden. "Aha.
+      <DefaultText>Die Energie scheint urplötzlich aus der Luft zu verschwinden. "Aha."
 
-Wenn Sie nach Trutzbucht wollen, dann muss ich ihnen leider sagen, dass Ihr langer Weg umsonst gewesen ist. Der östliche Wachturm ist vor Jahrzehnten eingestürzt, und Maerwald hat es nie geschafft, ihn wieder aufzubauen. Die Straße endet hier in einer Sackgasse. Er war sogar schon so weit, das notwendige Baumaterial zu sammeln, bevor er ... geistesabwesend wurde."</DefaultText>
+"Wenn Sie nach Trutzbucht wollen, dann muss ich ihnen leider sagen, dass Ihr langer Weg umsonst gewesen ist. Der östliche Wachturm ist vor Jahrzehnten eingestürzt, und Maerwald hat es nie geschafft, ihn wieder aufzubauen. Die Straße endet hier in einer Sackgasse. Er war sogar schon so weit, das notwendige Baumaterial zu sammeln, bevor er ... geistesabwesend wurde."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -212,9 +212,9 @@ Wenn Sie nach Trutzbucht wollen, dann muss ich ihnen leider sagen, dass Ihr lang
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Anscheinend wollte er Sie vor eine Herausforderung stellen. Natürlich nur im Auftrag seines Fürsten. Ich fürchte, Sie haben sich wohl einen Feind geschaffen. Dieser Fürst Raedric scheint äußerst wütend auf Sie zu sein.
+      <DefaultText>"Anscheinend wollte er Sie vor eine Herausforderung stellen. Natürlich nur im Auftrag seines Fürsten. Ich fürchte, Sie haben sich wohl einen Feind geschaffen. Dieser Fürst Raedric scheint äußerst wütend auf Sie zu sein."
 
-Er verlangt, dass Sie ihn bei seiner Burg treffen, und falls Sie ihm nicht Folge leisten, droht er, Caed Nua so lange anzugreifen, bis Sie es tun. Er hat einen leichten Hang zum Dramatischen, muss ich sagen."</DefaultText>
+"Er verlangt, dass Sie ihn bei seiner Burg treffen, und falls Sie ihm nicht Folge leisten, droht er, Caed Nua so lange anzugreifen, bis Sie es tun. Er hat einen leichten Hang zum Dramatischen, muss ich sagen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -339,11 +339,11 @@ Er verlangt, dass Sie ihn bei seiner Burg treffen, und falls Sie ihm nicht Folge
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Dieser Ort hat seinen Herrn schon immer gekannt, so lange er einen hatte. Er hat seinen eigenen Willen, und das hat kaum etwas mit der Burg, sondern viel mehr mit dem Land zu tun, auf der sie gebaut ist. Anscheinend sind Sie nun Maerwalds Nachfolger, ob Sie wollen oder nicht.
+      <DefaultText>"Dieser Ort hat seinen Herrn schon immer gekannt, so lange er einen hatte. Er hat seinen eigenen Willen, und das hat kaum etwas mit der Burg, sondern viel mehr mit dem Land zu tun, auf der sie gebaut ist. Anscheinend sind Sie nun Maerwalds Nachfolger, ob Sie wollen oder nicht."
 
-Was für eine zweifelhafte Ehre, eine zerborstene und verfluchte Festung zu erben. In den richtigen Händen aber könnte sie so viel mehr sein! Oh, wenn Sie sie nur zu ihren Glanzzeiten gesehen hätten.
+"Was für eine zweifelhafte Ehre, eine zerborstene und verfluchte Festung zu erben. In den richtigen Händen aber könnte sie so viel mehr sein! Oh, wenn Sie sie nur zu ihren Glanzzeiten gesehen hätten."
 
-Werden Sie ... werden Sie bleiben?"</DefaultText>
+"Werden Sie ... werden Sie bleiben?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -353,9 +353,9 @@ Werden Sie ... werden Sie bleiben?"</DefaultText>
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Sie müssen wissen, dass diese Königin, nach der Sie suchen ... Trutzbucht hat keine Königin. Die Mecwyns von Aedyr haben hier seit dem Krieg nicht mehr regiert.
+      <DefaultText>"Sie müssen wissen, dass diese Königin, nach der Sie suchen ... Trutzbucht hat keine Königin. Die Mecwyns von Aedyr haben hier seit dem Krieg nicht mehr regiert."
 
-Die einzige Königin mit ernstzunehmender Macht dort ist Woedica. Angeblich hat man dort ihr zu Ehren einen exquisiten Tempel errichtet, aber ich konnte ihn mir niemals selbst ansehen."</DefaultText>
+"Die einzige Königin mit ernstzunehmender Macht dort ist Woedica. Angeblich hat man dort ihr zu Ehren einen exquisiten Tempel errichtet, aber ich konnte ihn mir niemals selbst ansehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -385,9 +385,9 @@ Die einzige Königin mit ernstzunehmender Macht dort ist Woedica. Angeblich hat 
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Oh, der Bote war ziemlich eindeutig, oder vielleicht sollte ich sagen: der Brief war es. Schauen Sie ihn doch an, wenn Sie möchten.
+      <DefaultText>"Oh, der Bote war ziemlich eindeutig, oder vielleicht sollte ich sagen: der Brief war es. Schauen Sie ihn doch an, wenn Sie möchten."
 
-Ich vermute, es könnte eine Art Scherz sein. Ziemlich schlechter Geschmack, nicht wahr?"</DefaultText>
+"Ich vermute, es könnte eine Art Scherz sein. Ziemlich schlechter Geschmack, nicht wahr?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -407,16 +407,16 @@ Ich vermute, es könnte eine Art Scherz sein. Ziemlich schlechter Geschmack, nic
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Entschuldigung, sollte ich Sie erschreckt haben. Ich fürchte, meine Manieren haben etwas gelitten. Ich letzter Zeit hatte ich nicht viele Gelegenheiten, mich vorzustellen.
+      <DefaultText>"Entschuldigung, sollte ich Sie erschreckt haben. Ich fürchte, meine Manieren haben etwas gelitten. Ich letzter Zeit hatte ich nicht viele Gelegenheiten, mich vorzustellen."
 
-Wie dem auch sei, ich vermute, Ihre Suche nach Maerwald hat Sie hergeführt."</DefaultText>
+"Wie dem auch sei, ich vermute, Ihre Suche nach Maerwald hat Sie hergeführt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Man könnte es nur schwer verkennen, denn Sie brennen wie eine Kerze. Ich weiß natürlich auch, was es zu suchen gilt.
+      <DefaultText>"Man könnte es nur schwer verkennen, denn Sie brennen wie eine Kerze. Ich weiß natürlich auch, worauf es zu achten gilt."
 
-Wie dem auch sei, ich vermute, Ihre Suche nach Maerwald hat Sie hergeführt."</DefaultText>
+"Wie dem auch sei, ich vermute, Ihre Suche nach Maerwald hat Sie hergeführt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -441,16 +441,16 @@ Wie dem auch sei, ich vermute, Ihre Suche nach Maerwald hat Sie hergeführt."</D
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Die Energie scheint urplötzlich aus der Luft zu verschwinden. "Es ... es ist natürlich Ihre freie Entscheidung.
+      <DefaultText>Die Energie scheint urplötzlich aus der Luft zu verschwinden. "Es ... es ist natürlich Ihre freie Entscheidung."
 
-Die Burg kennt Sie gleichwohl als ihren Herrn. Mit der Zeit könnte sie sich zu einem Ort wandeln, der Sie mit Stolz erfüllt.
+"Die Burg kennt Sie gleichwohl als ihren Herrn. Mit der Zeit könnte sie sich zu einem Ort wandeln, der Sie mit Stolz erfüllt."
 
-Sie braucht nur eine führende Hand."</DefaultText>
-      <FemaleText>Die Energie scheint urplötzlich aus der Luft zu verschwinden. "Es ... es ist natürlich Ihre freie Entscheidung.
+"Sie braucht nur eine führende Hand."</DefaultText>
+      <FemaleText>Die Energie scheint urplötzlich aus der Luft zu verschwinden. "Es ... es ist natürlich Ihre freie Entscheidung."
 
-Die Burg kennt Sie gleichwohl als ihre Herrin. Mit der Zeit könnte sie sich zu einem Ort wandeln, der Sie mit Stolz erfüllt.
+"Die Burg kennt Sie gleichwohl als ihre Herrin. Mit der Zeit könnte sie sich zu einem Ort wandeln, der Sie mit Stolz erfüllt."
 
-Sie braucht nur eine führende Hand."</FemaleText>
+"Sie braucht nur eine führende Hand."</FemaleText>
     </Entry>
     <Entry>
       <ID>107</ID>
@@ -459,16 +459,16 @@ Sie braucht nur eine führende Hand."</FemaleText>
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Sollten Sie für Nachschub nach Trutzbucht reisen wollen, sollte ich vielleicht zuerst anmerken, dass es da eine Art ... Komplikation gegeben hat. 
+      <DefaultText>"Sollten Sie für Nachschub nach Trutzbucht reisen wollen, sollte ich vielleicht zuerst anmerken, dass es da eine Art ... Komplikation gegeben hat. "
 
-Der östliche Wachturm ist vor Jahrzehnten eingestürzt, und Maerwald hat es nie geschafft, ihn wieder aufzubauen. Die Straße endet hier in einer Sackgasse. Er war sogar schon so weit, das notwendige Baumaterial zu sammeln, bevor er ... geistesabwesend wurde."</DefaultText>
+"Der östliche Wachturm ist vor Jahrzehnten eingestürzt, und Maerwald hat es nie geschafft, ihn wieder aufzubauen. Die Straße endet hier in einer Sackgasse. Er war sogar schon so weit, das notwendige Baumaterial zu sammeln, bevor er ... geistesabwesend wurde."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Wenn Sie wirklich und wahrhaftig fortfahren möchten, dann sollte ich zuerst erwähnen, dass die Straße versperrt ist.
+      <DefaultText>"Wenn Sie wirklich und wahrhaftig fortfahren möchten, dann sollte ich zuerst erwähnen, dass die Straße versperrt ist."
 
-Der östliche Wachturm ist vor Jahrzehnten eingestürzt, und Maerwald hat es nie geschafft, ihn wieder aufzubauen. Die Straße endet hier in einer Sackgasse. Er war sogar schon so weit, das notwendige Baumaterial zu sammeln, bevor er ... geistesabwesend wurde."</DefaultText>
+"Der östliche Wachturm ist vor Jahrzehnten eingestürzt, und Maerwald hat es nie geschafft, ihn wieder aufzubauen. Die Straße endet hier in einer Sackgasse. Er war sogar schon so weit, das notwendige Baumaterial zu sammeln, bevor er ... geistesabwesend wurde."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -503,33 +503,33 @@ Der östliche Wachturm ist vor Jahrzehnten eingestürzt, und Maerwald hat es nie
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Sie haben geschafft, was den Grafen, ihren Nachkommen und vielen Entdeckern nicht gelungen ist. Es gibt niemanden, der Ihren Anspruch anfechten könnte. Sie sind ganz und gar der Herr von Caed Nua.
+      <DefaultText>"Sie haben geschafft, was den Grafen, ihren Nachkommen und vielen Entdeckern nicht gelungen ist. Es gibt niemanden mehr, der Ihren Anspruch anfechten könnte. Sie sind ganz und gar der Herr von Caed Nua."
 
-Wir haben das natürlich von Anfang an gewusst. Nun aber wird es die ganze Welt erfahren und meinen Stolz auf Ihre Errungenschaften teilen."</DefaultText>
-      <FemaleText>"Sie haben geschafft, was den Grafen, ihren Nachkommen und vielen Entdeckern nicht gelungen ist. Es gibt niemanden, der Ihren Anspruch anfechten könnte. Sie sind ganz und gar die Herrin von Caed Nua. 
+"Wir haben das natürlich von Anfang an gewusst. Nun aber wird es die ganze Welt erfahren und meinen Stolz auf Ihre Errungenschaften teilen."</DefaultText>
+      <FemaleText>"Sie haben geschafft, was den Grafen, ihren Nachkommen und vielen Entdeckern nicht gelungen ist. Es gibt niemanden mehr, der Ihren Anspruch anfechten könnte. Sie sind ganz und gar die Herrin von Caed Nua."
 
-Wir haben das natürlich von Anfang an gewusst. Nun aber wird es die ganze Welt erfahren und meinen Stolz auf Ihre Errungenschaften teilen."</FemaleText>
+"Wir haben das natürlich von Anfang an gewusst. Nun aber wird es die ganze Welt erfahren und meinen Stolz auf Ihre Errungenschaften teilen."</FemaleText>
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Nachrichten über Caed Nua verbreiten sich weit und breit. Ich rechne damit, dass wir schon bald Besucher aus allen Teilen der Welt bekommen.
+      <DefaultText>"Nachrichten über Caed Nua verbreiten sich weit und breit. Ich rechne damit, dass wir schon bald Besucher aus allen Teilen der Welt bekommen."
 
-Es ist ... Ich kann Ihnen gar nicht sagen, wie wunderbar es ist, diesen Ort wieder in altem Glanz zu sehen." </DefaultText>
+"Es ist ... Ich kann Ihnen gar nicht sagen, wie wunderbar es ist, diesen Ort wieder in altem Glanz zu sehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Vielen Dank, mein Fürst. Diese Burg spiegelt nur das wieder, was Sie für uns getan haben. Also ein ... Monument, wenn man so möchte.
+      <DefaultText>"Vielen Dank, mein Fürst. Diese Burg spiegelt nur das wieder, was Sie für uns getan haben. Also ein ... Monument, wenn man so möchte."
 
-... Ich habe Sie doch hoffentlich nicht zu lange warten lassen? Ich werde Ihnen meinen Bericht erstatten."</DefaultText>
-      <FemaleText>"Vielen Dank, meine Fürstin.  Diese Burg spiegelt nur das wieder, was Sie für uns getan haben. Also ein ... Monument, wenn man so möchte. 
+"... Ich habe Sie doch hoffentlich nicht zu lange warten lassen? Ich werde Ihnen meinen Bericht erstatten."</DefaultText>
+      <FemaleText>"Vielen Dank, meine Fürstin.  Diese Burg spiegelt nur das wieder, was Sie für uns getan haben. Also ein ... Monument, wenn man so möchte."
 
-... Ich habe Sie doch hoffentlich nicht zu lange warten lassen? Ich werde Ihnen meinen Bericht erstatten."</FemaleText>
+"... Ich habe Sie doch hoffentlich nicht zu lange warten lassen? Ich werde Ihnen meinen Bericht erstatten."</FemaleText>
     </Entry>
     <Entry>
       <ID>126</ID>
       <DefaultText>"Mein Fürst, ich muss schon sagen, bei der Wiederherstellung der Verteidigungsanlagen der Burg haben Sie wirklich beeindruckende Arbeit geleistet. Durch diese Mauern sollte sich nicht einmal eine Maus schleichen können."</DefaultText>
-      <FemaleText>"Meine Fürstin, ich muss schon sagen, bei der Wiederherstellung der Verteidigungsanlagen der Burg haben Sie wirklich beeindruckende Arbeit geleistet. "Durch diese Mauern sollte sich nicht einmal eine Maus schleichen können."</FemaleText>
+      <FemaleText>"Meine Fürstin, ich muss schon sagen, bei der Wiederherstellung der Verteidigungsanlagen der Burg haben Sie wirklich beeindruckende Arbeit geleistet. Durch diese Mauern sollte sich nicht einmal eine Maus schleichen können."</FemaleText>
     </Entry>
     <Entry>
       <ID>127</ID>
@@ -538,18 +538,18 @@ Es ist ... Ich kann Ihnen gar nicht sagen, wie wunderbar es ist, diesen Ort wied
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Die Leute beginnen, Ihre harte Arbeit zu bemerken. Ich könnte mir denken, dass wir schon bald mehr Besucher bekommen werden.
+      <DefaultText>"Die Leute beginnen, Ihre harte Arbeit zu bemerken. Ich könnte mir denken, dass wir schon bald mehr Besucher bekommen werden."
 
-Ich ... bin froh, dass Sie sich zum Bleiben entschieden haben, mein Fürst. Diesen Ort ein ums andere Mal verfallen zu sehen, war schwierig."</DefaultText>
-      <FemaleText>"Die Leute beginnen, Ihre harte Arbeit zu bemerken. Ich könnte mir denken, dass wir schon bald mehr Besucher bekommen werden. 
+"Ich ... bin froh, dass Sie sich zum Bleiben entschieden haben, mein Fürst. Diesen Ort ein ums andere Mal verfallen zu sehen, war schwierig."</DefaultText>
+      <FemaleText>"Die Leute beginnen, Ihre harte Arbeit zu bemerken. Ich könnte mir denken, dass wir schon bald mehr Besucher bekommen werden."
 
-Ich ... bin froh, dass Sie sich zum Bleiben entschieden haben, meine Fürstin.  Diesen Ort ein ums andere Mal verfallen zu sehen, war schwierig."</FemaleText>
+"Ich ... bin froh, dass Sie sich zum Bleiben entschieden haben, meine Fürstin.  Diesen Ort ein ums andere Mal verfallen zu sehen, war schwierig."</FemaleText>
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Ihn wieder aufgebaut zu sehen ist ... Ich kann die Menschenmengen und Bittsteller schon vor mir sehen. Wie wäre es an den Abenden mit etwas Musik? 
+      <DefaultText>"Ihn wieder aufgebaut zu sehen ist ... Ich kann die Menschenmengen und Bittsteller schon vor mir sehen. Wie wäre es an den Abenden mit etwas Musik?"
 
-Oh, ich habe es doch hoffentlich nicht übertrieben? Hier ist der Bericht."</DefaultText>
+"Oh, ich habe es doch hoffentlich nicht übertrieben? Hier ist der Bericht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -599,9 +599,9 @@ Oh, ich habe es doch hoffentlich nicht übertrieben? Hier ist der Bericht."</Def
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Als er gebaut wurde, brachte ich eine Trennung von ihm einfach nicht mehr über mich. Ich wollte nicht zurück in meine einsame Behausung. Ich flehte den Grafen an, mich bleiben zu lassen, um mich seiner anzunehmen. Das war alles, was ich wollte, und er gewährte mir meinen Wunsch.
+      <DefaultText>"Als sie gebaut wurde, brachte ich eine Trennung von ihr einfach nicht mehr über mich. Ich wollte nicht zurück in meine einsame Behausung. Ich flehte den Grafen an, mich bleiben zu lassen, um mich ihrer anzunehmen. Das war alles, was ich wollte, und er gewährte mir meinen Wunsch."
 
-Jahre später, als Beraths Totengräber mich tatsächlich rief, flehte ich den Grafen an, einen Weg für mein Bleiben zu finden. Und das tat er dann auch."</DefaultText>
+"Jahre später, als Beraths Totengräber mich tatsächlich rief, flehte ich den Grafen an, einen Weg für mein Bleiben zu finden. Und das tat er dann auch."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -621,14 +621,14 @@ Jahre später, als Beraths Totengräber mich tatsächlich rief, flehte ich den G
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Ja - den Grafen von Yenwald, und zwar den ursprünglichen, als Dyrwald nur eine Kolonie war. Er fand diesen Ort, die einzige Ruine, den sich Eir Glanfath zu verteidigen weigerte, und glaubte, dass hier Reichtümer schlummerten. Die Burg war seine Methode, den Ansprüche seiner Familie zu verteidigen, und dieser Anspruch nahm von ihm Besitz. Er musste einfach wissen, was darunter lag."</DefaultText>
+      <DefaultText>"Ja - den Grafen von Yenwald, und zwar den ursprünglichen, als Dyrwald nur eine Kolonie war. Er fand diesen Ort, die einzige Ruine, den sich Eir Glanfath zu verteidigen weigerte, und glaubte, dass hier Reichtümer schlummerten. Die Burg war seine Art, den Ansprüche seiner Familie zu verteidigen, und dieser Anspruch wurde seine Besessenheit. Er musste einfach wissen, was darunter lag."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Er widmete sein Leben der Ausgrabung der Ruinen unter der Burg, die mit Fels und Erde versiegelt worden waren, und zwar anscheinend absichtlich.
+      <DefaultText>"Er widmete sein Leben der Ausgrabung der Ruinen unter der Burg, die mit Fels und Erde versiegelt worden waren. Absichtlich, wie es schien."
 
-Jahre vergingen, und der Graf mit ihnen. Er grub sein ganzes Leben und fand doch nie, was er suchte. Seine Besessenheit wurde zu der seines Sohnes und zu der des Sohns seines Sohnes. Und dann, eines Tages, brach der junge Graf durch."</DefaultText>
+"Jahre vergingen, und der Graf mit ihnen. Er grub sein ganzes Leben und fand doch nie, was er suchte. Seine Besessenheit wurde zu der seines Sohnes und zu der des Sohnes seines Sohnes. Und dann, eines Tages, brach der junge Graf durch."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -653,7 +653,7 @@ Jahre vergingen, und der Graf mit ihnen. Er grub sein ganzes Leben und fand doch
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Seitdem liegt die Burg verlassen darnieder. Unbenutzt. Verschwendet. Maerwalds Beherrschung dieses Ortes war meine erste Hoffnung seit zweihundert Jahren gewesen. Oh, wie ich mich danach sehnte, sie wieder so wie einst zu sehen."</DefaultText>
+      <DefaultText>"Seitdem blieb die Burg verlassen. Unbenutzt. Verschwendet. Maerwalds Beherrschung dieses Ortes war meine erste Hoffnung seit zweihundert Jahren gewesen. Oh, wie ich mich danach sehnte, sie wieder so wie einst zu sehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -703,9 +703,9 @@ Jahre vergingen, und der Graf mit ihnen. Er grub sein ganzes Leben und fand doch
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Gefangen? Ja, manchmal fühlt es sich wohl so an, aber meistens empfinde ich es eher so, als würde ich hier wohnen.
+      <DefaultText>"Gefangen? Ja, manchmal fühlt es sich wohl so an, aber meistens empfinde ich es eher so, als würde ich hier wohnen."
 
-Der Thron wurde aus dem Ruinen geborgen, er war eines der ersten Dinge, die man fand. Als letzte Gunst für eine sterbende Frau sorgte der Graf dafür, dass ich in ihn gewirkt wurde. Adra ist ein verträgliches Gefäß für eine Seele."</DefaultText>
+"Der Thron wurde aus dem Ruinen geborgen, er war eines der ersten Dinge, die man fand. Als letzte Gunst für eine sterbende Frau sorgte der Graf dafür, dass ich in ihn gewirkt wurde. Adra ist ein verträgliches Gefäß für eine Seele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -741,16 +741,16 @@ Der Thron wurde aus dem Ruinen geborgen, er war eines der ersten Dinge, die man 
     <Entry>
       <ID>168</ID>
       <DefaultText>"Natürlich sind Sie das! Die Burg würde keinen anderen Herrn akzeptieren ... die Endlosen Pfade dagegen sind eine völlig andere Geschichte. Unglücklicherweise sind sie sehr eng miteinander verbunden."</DefaultText>
-      <FemaleText>"Die Burg würde keine andere Herrin akzeptieren ... die Endlosen Pfade dagegen sind eine völlig andere Geschichte. Unglücklicherweise sind sie sehr eng miteinander verbunden."</FemaleText>
+      <FemaleText>"Natürlich sind Sie das! Die Burg würde keine andere Herrin akzeptieren ... die Endlosen Pfade dagegen sind eine völlig andere Geschichte. Unglücklicherweise sind sie sehr eng miteinander verbunden."</FemaleText>
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Wenn Sie sich nicht um den Meister in der Tiefe kümmern, wird der Burg immer eine Gefahr aus ihrem Inneren drohen. 
+      <DefaultText>"Wenn Sie sich nicht um den Meister in der Tiefe kümmern, wird der Burg immer eine Gefahr aus ihrem Inneren drohen."
 
-Ich ... ich weiß, das ist ziemlich viel auf einmal. Wenn Sie aber bleiben werden - wenn Sie Herr dieses Ortes werden möchten ... dann kann ich Ihnen nur dazu raten, diesen Feind zu besiegen, bevor er Sie vernichten kann."</DefaultText>
-      <FemaleText>"Wenn Sie sich nicht um den Meister in der Tiefe kümmern, wird der Burg immer eine Gefahr aus ihrem Inneren drohen. 
+"Ich ... ich weiß, das ist ziemlich viel auf einmal. Wenn Sie aber bleiben werden - wenn Sie Herr dieses Ortes werden möchten ... dann kann ich Ihnen nur dazu raten, diesen Feind zu besiegen, bevor er Sie vernichten kann."</DefaultText>
+      <FemaleText>"Wenn Sie sich nicht um den Meister in der Tiefe kümmern, wird der Burg immer eine Gefahr aus ihrem Inneren drohen."
 
-Ich ... ich weiß, das ist ziemlich viel auf einmal. Wenn Sie aber bleiben werden - wenn Sie Herrin dieses Ortes werden möchten ... dann kann ich Ihnen nur dazu raten, diesen Feind zu besiegen, bevor er Sie vernichten kann.".</FemaleText>
+"Ich ... ich weiß, das ist ziemlich viel auf einmal. Wenn Sie aber bleiben werden - wenn Sie Herrin dieses Ortes werden möchten ... dann kann ich Ihnen nur dazu raten, diesen Feind zu besiegen, bevor er Sie vernichten kann.".</FemaleText>
     </Entry>
     <Entry>
       <ID>170</ID>
@@ -759,12 +759,12 @@ Ich ... ich weiß, das ist ziemlich viel auf einmal. Wenn Sie aber bleiben werde
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Dieser Weg, mein Fürst ... führt zu den Endlosen Pfaden ... und dem wahren Fluch auf dieser Burg. Mehr als die Barriere konnte ich zur Verteidigung der Burg nicht aufwarten, in Wirklichkeit aber ist sie so gut wie unnütz ...
+      <DefaultText>"Dieser Weg, mein Fürst ... führt zu den Endlosen Pfaden ... und dem wahren Fluch auf dieser Burg. Mehr als die Barriere konnte ich zur Verteidigung der Burg nicht aufwarten, in Wirklichkeit aber ist sie so gut wie unnütz ..."
 
-Ich kann den Weg für Sie freimachen, aber vielleicht sollte ich Sie zuerst warnen ..."</DefaultText>
-      <FemaleText>"Dieser Weg, meine Fürstin ... führt zu den Endlosen Pfaden ... und dem wahren Fluch auf dieser Burg. Mehr als die Barriere konnte ich zur Verteidigung der Burg nicht aufwarten, in Wirklichkeit aber ist sie so gut wie unnütz ...
+"Ich kann den Weg für Sie freimachen, aber vielleicht sollte ich Sie zuerst warnen ..."</DefaultText>
+      <FemaleText>"Dieser Weg, meine Fürstin ... führt zu den Endlosen Pfaden ... und dem wahren Fluch auf dieser Burg. Mehr als die Barriere konnte ich zur Verteidigung der Burg nicht aufwarten, in Wirklichkeit aber ist sie so gut wie unnütz ..."
 
-Ich kann den Weg für Sie freimachen, aber vielleicht sollte ich Sie zuerst warnen ..."</FemaleText>
+"Ich kann den Weg für Sie freimachen, aber vielleicht sollte ich Sie zuerst warnen ..."</FemaleText>
     </Entry>
     <Entry>
       <ID>172</ID>
@@ -778,9 +778,9 @@ Ich kann den Weg für Sie freimachen, aber vielleicht sollte ich Sie zuerst warn
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Ich muss schon sagen, Ihr letzter Besucher ist ein ziemlich ungehobelter Zeitgenosse. Ich glaube nicht, dass ich während des letzten Jahrhunderts solch einen Zechbruder gesehen habe.
+      <DefaultText>"Ich muss schon sagen, Ihr letzter Besucher ist ein ziemlich ungehobelter Zeitgenosse. Ich glaube nicht, dass ich während des letzten Jahrhunderts solch einen Zechbruder gesehen habe."
 
-Bei den Wachmännern dagegen kommt er richtig gut an ... anscheinend lassen sie ihn jetzt mit Messern jonglieren."</DefaultText>
+"Bei den Wachmännern dagegen kommt er richtig gut an ... anscheinend lassen sie ihn jetzt mit Messern jonglieren."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -790,9 +790,9 @@ Bei den Wachmännern dagegen kommt er richtig gut an ... anscheinend lassen sie 
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Ich habe bemerkt, dass ein ziemlich bedeutender Besucher in die Burg gekommen ist: ein Würdenträger aus Aedyr. Erinnert mich eher an die alte Zeit ... 
+      <DefaultText>"Ich habe bemerkt, dass ein ziemlich bedeutender Besucher in die Burg gekommen ist: ein Würdenträger aus Aedyr. Erinnert mich eher an die alte Zeit ..."
 
-Wie dem auch sei, ich sollte den Dienern wohl auftragen, sich um ihn zu kümmern."</DefaultText>
+"Wie dem auch sei, ich sollte den Dienern wohl auftragen, sich um ihn zu kümmern."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -802,17 +802,17 @@ Wie dem auch sei, ich sollte den Dienern wohl auftragen, sich um ihn zu kümmern
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Mein Fürst! Mir sind fürchterliche Dinge zu Ohren gekommen - ich fürchtete, Sie würden nicht zurückkommen. Ist es wahr? Gibt es tatsächlich Aufstände in Trutzbucht? 
+      <DefaultText>"Mein Fürst! Mir sind fürchterliche Dinge zu Ohren gekommen - ich fürchtete, Sie würden nicht zurückkommen. Ist es wahr? Gibt es tatsächlich Aufstände in Trutzbucht?"
 
-Und ... stimmt es, dass Aevar Wolfsgrinsen erschlagen worden ist?"</DefaultText>
-      <FemaleText>"Meine Fürstin! Mir sind fürchterliche Dinge zu Ohren gekommen - ich fürchtete, Sie würden nicht zurückkommen. Ist es wahr? Gibt es tatsächlich Aufstände in Trutzbucht?
+"Und ... stimmt es, dass Aevar Wolfsgrinsen erschlagen worden ist?"</DefaultText>
+      <FemaleText>"Meine Fürstin! Mir sind fürchterliche Dinge zu Ohren gekommen - ich fürchtete, Sie würden nicht zurückkommen. Ist es wahr? Gibt es tatsächlich Aufstände in Trutzbucht?"
 
-Und ... stimmt es, dass Aevar Wolfsgrinsen erschlagen worden ist?"</FemaleText>
+"Und ... stimmt es, dass Aevar Wolfsgrinsen erschlagen worden ist?"</FemaleText>
     </Entry>
     <Entry>
       <ID>180</ID>
       <DefaultText>"Wie schrecklich ... Mein Fürst, wie froh bin ich, dass Ihnen nichts geschehen ist. Ich kann nur hoffen, dass sich die Stadt wieder erholen wird."</DefaultText>
-      <FemaleText>"Meine Fürstin, wie froh bin ich, dass Ihnen nichts geschehen ist. Ich kann nur hoffen, dass sich die Stadt wieder erholen wird."</FemaleText>
+      <FemaleText>"Wie schrecklich ... Meine Fürstin, wie froh bin ich, dass Ihnen nichts geschehen ist. Ich kann nur hoffen, dass sich die Stadt wieder erholen wird."</FemaleText>
     </Entry>
     <Entry>
       <ID>181</ID>
@@ -836,21 +836,21 @@ Und ... stimmt es, dass Aevar Wolfsgrinsen erschlagen worden ist?"</FemaleText>
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>"Das werden Sie gewiss, mein Fürst. Und das hat er auch mehr als verdient. Mögen die Götter jeden seiner Schritte verheeren. 
+      <DefaultText>"Das werden Sie gewiss, mein Fürst. Und das hat er auch mehr als verdient. Mögen die Götter jeden seiner Schritte verheeren."
 
-Zuallererst bin ich froh, dass Sie unverletzt sind. Ich kann nur hoffen, dass sich Trutzbucht erholen wird."</DefaultText>
-      <FemaleText>"Das werden Sie gewiss, meine Fürstin. Und das hat er auch mehr als verdient. Mögen die Götter jeden seiner Schritte verheeren. 
+"Zuallererst bin ich froh, dass Sie unverletzt sind. Ich kann nur hoffen, dass sich Trutzbucht erholen wird."</DefaultText>
+      <FemaleText>"Das werden Sie gewiss, meine Fürstin. Und das hat er auch mehr als verdient. Mögen die Götter jeden seiner Schritte verheeren."
 
-Zuallererst bin ich froh, dass Sie unverletzt sind. Ich kann nur hoffen, dass sich Trutzbucht erholen wird."</FemaleText>
+"Zuallererst bin ich froh, dass Sie unverletzt sind. Ich kann nur hoffen, dass sich Trutzbucht erholen wird."</FemaleText>
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"... Ich weiß, dass Sie ... solche Gestalten nicht beklagen, mein Fürst ... aber sein Tod droht die gesamte Region zu destabilisieren. Wenn sich die Bürger an Außenstehende richten, dann sorge ich mich zumindest um das Wohlergehen der Burg.
+      <DefaultText>"... Ich weiß, dass Sie ... solche Gestalten nicht beklagen, mein Fürst ... aber sein Tod droht die gesamte Region zu destabilisieren. Wenn sich die Bürger gegen Außenstehende richten, dann sorge ich mich zumindest um das Wohlergehen der Burg."
 
-Ich bin nur froh, dass Sie unverletzt sind, mein Fürst. Ich habe mich gesorgt."</DefaultText>
-      <FemaleText>"... Ich weiß, dass Sie ... solche Gestalten nicht beklagen, mein Fürst ... aber sein Tod droht die gesamte Region zu destabilisieren. Wenn sich die Bürger an Außenstehende richten, dann sorge ich mich zumindest um das Wohlergehen der Burg.
+"Ich bin nur froh, dass Sie unverletzt sind, mein Fürst. Ich habe mich gesorgt."</DefaultText>
+      <FemaleText>"... Ich weiß, dass Sie ... solche Gestalten nicht beklagen, mein Fürst ... aber sein Tod droht die gesamte Region zu destabilisieren. Wenn sich die Bürger gegen Außenstehende richten, dann sorge ich mich zumindest um das Wohlergehen der Burg."
 
-Ich bin nur froh, dass Sie unverletzt sind, meine Fürstin. Ich habe mich gesorgt."</FemaleText>
+"Ich bin nur froh, dass Sie unverletzt sind, meine Fürstin. Ich habe mich gesorgt."</FemaleText>
     </Entry>
     <Entry>
       <ID>187</ID>
@@ -878,7 +878,7 @@ Ich bin nur froh, dass Sie unverletzt sind, meine Fürstin. Ich habe mich gesorg
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"Wenn Sie es wünschen, so können wir einige der umliegenden Gebäude reparieren. Das wird Ihnen Reichtum und Anerkennung bringen und viele werden in Ihren Dienst eintreten wollen. Wenn wir die Verteidigung wieder aufbauen, wird ihre Festung nicht mehr überfallen, wie sie es unter Maerwalds Führung gewesen ist."</DefaultText>
+      <DefaultText>"Wenn Sie es wünschen, so können wir einige der umliegenden Gebäude reparieren. Das wird Ihnen Reichtum und Anerkennung bringen und viele werden in Ihren Dienst eintreten wollen. Wenn wir die Verteidigung wieder aufbauen, schützt sie ihre Festung vor Überfällen, so wie es unter Maerwalds Führung gewesen ist."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

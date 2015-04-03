@@ -756,7 +756,7 @@
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Im Eisenurteil-Modus wird nur ein einziger Spielstand für das gesamte Spiel angelegt. Wenn der Spielercharakter getötet wird, wird der Spielstand gelöscht und du musst von vorne beginnen. Diese Option kann nach Spielbeginn nicht angepasst werden.</DefaultText>
+      <DefaultText>Im Eisenurteil-Modus wird nur ein einziger Spielstand für das gesamte Spiel angelegt. Wenn deine Heldengruppe besiegt wird, wird der Spielstand gelöscht und du musst von vorne beginnen. Diese Option kann nach Spielbeginn nicht angepasst werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -871,12 +871,12 @@
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>Charakter getroffen</DefaultText>
+      <DefaultText>Gruppenmitglied wurde getroffen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>Charakter tot</DefaultText>
+      <DefaultText>Gruppenmitglied wurde getötet</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -891,22 +891,22 @@
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>Zauber wirken</DefaultText>
+      <DefaultText>Feind wirkt Zauber</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>Charakter verletzt</DefaultText>
+      <DefaultText>Gruppenmitglied wurde verletzt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>Charakter angegriffen</DefaultText>
+      <DefaultText>Gruppenmitglied wird angegriffen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>Ziel zerstört</DefaultText>
+      <DefaultText>Feind besiegt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -921,7 +921,7 @@
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>Nahkampfangriff</DefaultText>
+      <DefaultText>Gruppenmitglied wird angegriffen (Nahkampf)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -966,92 +966,92 @@
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>Kamera automatisch auf den Ort eines automatischen Pause-Ereignisses zentrieren.</DefaultText>
+      <DefaultText>Kamera auf den Ursprung einer automatischen Pause zentrieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>Jede Autom. Pause-Option auswählen oder aufheben.</DefaultText>
+      <DefaultText>Alle automatischen Pause-Optionen auswählen oder aufheben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>Autom. Pause, wenn ein Gruppenmitglied zu Boden geht.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn ein Gruppenmitglied zu Boden geht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>Autom. Pause, wenn ein Angriff gegen ein Gruppenmitglied abgeschlossen wurde.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn ein Angriff gegen ein Gruppenmitglied abgeschlossen wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>Autom. Pause, wenn ein Gruppenmitglied Schaden erleidet.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn ein Gruppenmitglied Schaden erleidet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>Autom. Pause, wenn ein Gruppenmitglied Ziel eines Angriffs wird.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn ein Gruppenmitglied Ziel eines Angriffs wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>Automatische Pause, wenn die Ausdauer eines Gruppenmitglieds unter 25% fällt.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn die Ausdauer eines Gruppenmitglieds unter 25% fällt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>Automatische Pause, wenn die Gesundheit eines Gruppenmitglieds unter 25% fällt.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn die Gesundheit eines Gruppenmitglieds unter 25% fällt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>Autom. Pause, wenn die Gruppe einen Feind sichtet.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn die Gruppe einen Feind sichtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>Autom. Pause bei Kampfbeginn.</DefaultText>
+      <DefaultText>Das Spiel wird bei Kampfbeginn pausiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>Autom. Pause, wenn ein Gruppenmitglied von einem Feind im Nahkampf angegriffen wird.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn ein Gruppenmitglied Ziel eines Nahkampfangriffs wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>Bei Kampfbeginn aktuelle Gruppenbewegung abbrechen.</DefaultText>
+      <DefaultText>Aktuelle Gruppenbewegung bei Kampfbeginn abbrechen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>Autom. Pause, wenn der Angriff eines Gruppenmitglieds wegen der Schadensreduktion des Ziels wirkungslos bleibt.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn der Angriff eines Gruppenmitglieds wegen der Schadensreduktion des Ziels wirkungslos bleibt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>Automatische Pause, wenn ein Gruppenmitglied einen Feind angreift, dessen Verteidigung die Genauigkeit des Gruppenmitglieds um 50 oder mehr Punkte übersteigt.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn ein Gruppenmitglied einen Feind angreift, dessen Verteidigung die Genauigkeit des Gruppenmitglieds um 50 oder mehr Punkte übersteigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>Autom. Pause, wenn ein Feind beginnt, einen Zauber zu wirken.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn ein Feind beginnt, einen Zauber zu wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>Autom. Pause, wenn das Ziel eines Gruppenmitglieds stirbt.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn das Ziel eines Gruppenmitglieds stirbt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>Autom. Pause, wenn die Gruppe ein verstecktes Objekt oder eine Falle entdeckt.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn die Gruppe ein verstecktes Objekt oder eine Falle entdeckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>Autom. Pause im Gefecht bei festgelegten Intervallen.</DefaultText>
+      <DefaultText>Pausiert das Spiel während eines Kampfes im festgelegten Intervall.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9680,7 +9680,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1943</ID>
-      <DefaultText>Schaltet den langsamen Modus im Kampf automatisch ein, anhand von aktiven Feinden.</DefaultText>
+      <DefaultText>Verlangsamt Kämpfe abhängig von der Anzahl aktiver Feinde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9705,7 +9705,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1948</ID>
-      <DefaultText>Area Loot Radius (meters)</DefaultText>
+      <DefaultText>Beute-Radius (Meter)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

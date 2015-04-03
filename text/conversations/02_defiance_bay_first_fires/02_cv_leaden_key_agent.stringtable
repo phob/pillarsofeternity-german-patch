@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Mehrere verschleierte Figuren stehen in Reihe vor einer vermummten Frau. Die Gestalt an der Spitze der Formation nähert sich ihr und die Frau legt ihre ausgestreckte Hand auf die Stirn des Fremden.
+      <DefaultText>Mehrere verschleierte Figuren stehen in einer Reihe vor einer vermummten Frau. Die Gestalt an der Spitze der Formation nähert sich ihr und die Frau legt ihre ausgestreckte Hand auf die Stirn des Fremden.
 
 Sie stehen in stiller Verbundenheit, während du zuschaust. Einige Augenblicke später macht der Fremde einen Schritt zur Seite und nimmt wieder seinen Platz im Kreis um die Statue ein.</DefaultText>
       <FemaleText />
@@ -164,7 +164,7 @@ Die Frage der Akolythin hallt in deinem Kopf. "Wartet er noch immer?"</DefaultTe
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Die Vision der Akolythin führt dich aus Trutzbucht hinaus zu einer Stadt in der Wildnis mit einer Wassermühle. Auf einem Schild an einem der Wege steht "Dyrfurt". Mehrere Gestalten drängen sich zusammen, eingewickelt in Umhängen und Kapuzen.
+      <DefaultText>Die Vision der Akolythin führt dich aus Trutzbucht hinaus zu einer Stadt in der Wildnis mit einer Wassermühle. Auf einem Schild an einem der Wege steht 'Dyrfurt'. Mehrere Gestalten drängen sich zusammen, eingewickelt in Umhängen und Kapuzen.
 
 In deinem Kopf zeichnet sich plötzlich das Bild von Ruinen ab. Zwei skelettartige Abbilder flankieren einen Spalt in einer Gebirgswand.
 
@@ -244,7 +244,7 @@ Doch es beherbergt auch Elend und Wahnsinn. Irgendwo in seinem verfaulten Kern s
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Vor deinen Füßen liegt am Boden der zerknautschte Körper einer Frau. Sie trägt eine schwarze Robe mit einem Abzeichen, das einem Schlüssel ähnelt.
+      <DefaultText>Vor deinen Füßen liegt am Boden der zerschlagene Körper einer Frau. Sie trägt eine schwarze Robe mit einem Abzeichen, das einem Schlüssel ähnelt.
 
 Als du dich dem Körper der Toten näherst, greifen dich wütende Gefühle an. Die Stimme der Toten heult in deinen Ohren, und ihr nachklingendes Bewusstsein zerreißt dein eigenes.</DefaultText>
       <FemaleText />
@@ -391,9 +391,9 @@ Die Frau zeigt mit einem langen Finger auf dich. "Haltet sie auf!"</DefaultText>
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Du siehst eine Versammlung von Männern und Frauen, die Roben wie die ihre tragen, ihre Gesichter aber hinter Masken verborgen haben. Du siehst, wie sie sich ihr, die sie als "Akolythin" kennen, einer nach dem anderen nähern, und sie legt jedem die Hand auf die Stirn und durchsucht ihre Gedanken.
+      <DefaultText>Du siehst eine Versammlung von Männern und Frauen, die Roben wie die ihre tragen, ihre Gesichter aber hinter Masken verborgen haben. Du siehst, wie sie sich ihr, die sie als 'Akolythin' kennen, einer nach dem anderen nähern, und sie legt jedem die Hand auf die Stirn und durchsucht ihre Gedanken.
 
-Sie prüft sie mit ritualisierten Fragen, und sie antworten, dass ihr Eid "durch den Bleiernen Schlüssel versiegelt" sei. Sie fragen jeden nach ihren Aufgaben. Sie gibt ihnen neue. Und das alles ohne Worte.</DefaultText>
+Sie prüft sie mit ritualisierten Fragen, und sie antworten, dass ihr Eid 'durch den Bleiernen Schlüssel versiegelt' sei. Sie fragt jeden nach seinen Aufgaben. Sie gibt ihnen neue. Und das alles ohne Worte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

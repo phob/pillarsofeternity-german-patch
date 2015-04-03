@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>278</EntryCount>
+  <EntryCount>289</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -225,16 +225,16 @@ Obwohl allem Anschein nach das Gegenteil zutrifft, wohnt dem gemeinen Käfer ein
       <ID>44</ID>
       <DefaultText>Phantome sind Seelen, die sich nach dem Tod nicht richtig vom Körper gelöst haben. Dies geschieht üblicherweise durch ein schweres Trauma, besonders im Falle eines gewaltsamen Todes. Im Gegensatz zu verlorenen Seelen, die mit normalen Sterblichen nicht mehr interagieren oder von ihnen erkannt werden können, behalten Phantome (wie Schatten und Cean Gŵla) eine Verbindung zur physischen Welt. Bei ihren Angriffen auf andere Lebensformen machen sie keine Unterschiede.
 
-Phantome können sich auch aus Leuten manifestieren, die besonders chaotische Leben gelebt haben, besonders aus Gewaltverbrechern und Verrückten. Unter den richtigen Umständen kann jeder zum Phantom werden, aber die Angst vor Phantomen - und ihre Verbindung mit den Geisteskranken - kann dazu führen, dass anfällige Individuen in vielen Gemeinschaften gemieden werden.</DefaultText>
+Phantome können sich auch aus Gestandenen manifestieren, die besonders chaotische Leben gelebt haben, besonders aus Gewaltverbrechern und Verrückten. Unter den richtigen Umständen kann jeder zum Phantom werden, aber die Angst vor Phantomen - und ihre Verbindung mit den Geisteskranken - kann dazu führen, dass anfällige Individuen in vielen Gemeinschaften gemieden werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
       <DefaultText>Oger sind große, dickhäutige Kreaturen mit einer ungefähren Körpergröße von 3-4 Metern. Sie sind sehr muskulös und tragen üblicherweise die Felle oder Häute ihrer Beute. Keulen, Äxte und Streitkolben aus Knochen oder Holz sind ihre bevorzugten Waffen. 
 
-Oger sind ebenso intelligent (oder intelligenter) als die "zivilisierten" Rassen, aber aufgrund ihrer überwältigenden Feindseligkeit gegen Artgenossen bleibt ihre Zahl gering. Trotz ihrer angeborenen Intelligenz hat sie ihr sprunghaftes Temperament schon immer daran gehindert, sich länger an einem Ort zu konzentrieren, um etwas von bedeutendem kulturellen Wert hervorzubringen. Die meisten leben halbnomadisch und abgeschieden in der Wildnis, wo sie mit geringerer Wahrscheinlichkeit auf andere Oger treffen. Eigentlich finden sie nur während der Paarungszeit halbwegs zuverlässig zueinander, was ihre Zahl meistens ebenso reduziert wie erhöht. Oger mit "friedlicheren" Charakterzügen bemühen sich besonders, jeglichen Kontakt zu vermeiden.
+Oger sind ebenso intelligent (oder intelligenter) wie die "zivilisierten" Rassen, aber aufgrund ihrer überwältigenden Feindseligkeit gegen Artgenossen hält ihre Zahl gering. Trotz ihrer angeborenen Intelligenz hat sie ihr sprunghaftes Temperament schon immer daran gehindert, sich länger an einem Ort zu konzentrieren, um etwas von bedeutendem kulturellen Wert hervorzubringen. Die meisten leben halbnomadisch und abgeschieden in der Wildnis, wo sie mit geringerer Wahrscheinlichkeit auf andere Oger treffen. Eigentlich finden sie nur während der Paarungszeit halbwegs zuverlässig zueinander, was ihre Zahl meistens ebenso reduziert wie erhöht. Oger mit "friedlicheren" Charakterzügen bemühen sich besonders, jeglichen Kontakt zu vermeiden.
 
-In den seltenen Fällen, in denen Oger tatsächlich zusammenarbeiten, werden sie meistens von einer Oger-Stammesführerin angeführt. Letztere sind sogar noch größer als männliche Oger, verhalten sich ihren Artgenossen gegenüber aber eher weniger aggressiv. Wenn sich Oger gruppiert haben, stellen sie für andere Leute oft eine unüberwindbare Bedrohung dar.</DefaultText>
+In den seltenen Fällen, in denen Oger tatsächlich zusammenarbeiten, werden sie meistens von einer Oger-Stammesführerin angeführt. Letztere sind sogar noch größer als männliche Oger, verhalten sich ihren Artgenossen gegenüber aber eher weniger aggressiv. Wenn sich Oger gruppiert haben, stellen sie für andere Gestandene oft eine unüberwindbare Bedrohung dar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -255,7 +255,7 @@ Da ihre weiteren Entwicklungschancen gering sind, schließen sich die meisten Li
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Im gesamten Östlichen Abschnitt gibt es riesige und feindselige Spinnen in einer erschreckenden Vielfalt an Formen, Farben und Größen. Diese Riesenspinnen sind viel aggressiver als ihre winzigen Verwandten und machen aktiv Jagd auf menschliche und tierische Beute. Selbst die schwächste von ihnen, die Speerspinne, kann eine unvorbereitete Person mit Leichtigkeit töten. Obwohl die Speerspinne ungiftig ist, kann sie mit ihren spitzen Beinen, von denen sie auch ihren Namen hat, selbst durch Rüstungen hindurch schreckliche Verletzungen zufügen.
+      <DefaultText>Im gesamten Östlichen Abschnitt gibt es riesige und feindselige Spinnen in einer erschreckenden Vielfalt an Formen, Farben und Größen. Diese Riesenspinnen sind viel aggressiver als ihre winzigen Verwandten und machen aktiv Jagd auf menschliche und tierische Beute. Selbst die schwächste von ihnen, die Speerspinne, kann einen unvorbereiteten Gestandenen mit Leichtigkeit töten. Obwohl die Speerspinne ungiftig ist, kann sie mit ihren spitzen Beinen, von denen sie auch ihren Namen hat, selbst durch Rüstungen hindurch schreckliche Verletzungen zufügen.
 
 Die Elfenbeinspinnen und Witwenmacher sind noch tödlicher als Speerspinnen, da sie hochgiftig sind. Darüber hinaus kann die Elfenbeinspinne ihre Beute verlangsamen, indem sie ihr Netze entgegenschleudert. Witwenmacher spinnen zwar keine Netze, dafür ist ihr Gift außerordentlich wirksam.
 
@@ -273,7 +273,7 @@ Lauerer sind dafür berüchtigt, sich in voller Sicht zu verstecken. Oft warten 
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Einst wurden Löwen in den Ebenen östlich und südlich von Eir Glanfaths ausgedehnten Wäldern oft gesichtet, aber die Kolonisierung im Östlichen Abschnitt hat die Großkatzen in die relative Sicherheit des Territoriums zwischen den glanfathanischen und dyrwäldlerischen Siedlungen zurückgedrängt. Zusätzlich zu ihrer enormen Kraft sind Löwen für ihr Gebrüll bekannt, einem furchterregenden Geräusch, das selbst dem Tapfersten die Angst ins Herz treiben kann.</DefaultText>
+      <DefaultText>Einst wurden Löwen in den Ebenen östlich und südlich von Eir Glanfaths ausgedehnten Wäldern oft gesichtet, aber die Kolonisierung im Östlichen Abschnitt hat die Großkatzen in die relative Sicherheit des Territoriums zwischen den glanfathanischen und dyrwäldlerischen Siedlungen zurückgedrängt. Zusätzlich zu ihrer enormen Kraft sind Löwen für ihr Gebrüll bekannt, einem furchterregenden Geräusch, das selbst dem tapfersten Gestandenen die Angst ins Herz treiben kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -299,7 +299,7 @@ Feuchtsporen zehren zuerst von den verdorbensten und zersplitterten Energien ein
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Diese schlacksigen Riesen sind doppelt so groß wie ein durchschnittlicher Mensch. Ihre Körper sind mit riesigen Pilzflechten überzeugen, aus denen eine übelriechende, eiterähnliche Flüssigkeit läuft. Ihre übergroßen Arme und Beine enden in riesigen Klauen, mit denen sie einen Mann entzwei reißen können. Von ihrem übergroßen Kopf hängen Dutzende schleimige Tentakel locker herab, und ihre riesigen Mäuler sind voller gezackter, rasiermesserscharfer Zähne. Trolle haben ein lange Gesichter, Kinns und Nasen, und wirre, drahtige und pilzverseuchte Haare auf den Köpfen. Dass sie Waffen, Werkzeuge oder Kleidung benutzen würden, hat noch niemand beobachtet.
+      <DefaultText>Diese schlaksigen Riesen sind doppelt so groß wie ein durchschnittlicher Mensch. Ihre Körper sind mit riesigen Pilzflechten überzeugen, aus denen eine übelriechende, eiterähnliche Flüssigkeit läuft. Ihre übergroßen Arme und Beine enden in riesigen Klauen, mit denen sie einen Mann entzwei reißen können. Von ihrem übergroßen Kopf hängen Dutzende schleimige Tentakel locker herab, und ihre riesigen Mäuler sind voller gezackter, rasiermesserscharfer Zähne. Trolle haben ein langes Gesicht, Kinn und Nase sowie wirre, drahtige und pilzverseuchtes Haar auf dem Kopf. Dass sie Waffen, Werkzeuge oder Kleidung benutzen würden, hat noch niemand beobachtet.
 
 Wenn man sich einen Troll ansieht, kann man nur schwer feststellen, ob sie sich im harmonischen Verbund mit Flechten, Moos und Pilzen entwickelt haben, oder ob sie von ihnen übernommen wurden, denn das von Natur aus klamme Fleisch von Trollen bietet diesen Pflanzen ideale Wachstumsbedingungen. Sie bieten den Trollen ausgezeichnete Tarnung und etwas Schutz vor den Elementen, und in mageren Zeiten bieten die von ihnen produzierten Enzyme den Trollen eine begrenzte Nahrungsquelle.
 
@@ -310,7 +310,7 @@ Aufgrund ihrer Symbiose mit diesen Pflanzen leben Trolle üblicherweise in stark
       <ID>55</ID>
       <DefaultText>Die Vithrack sind extrem seltene und äußerst gefährliche Kreaturen, die von Natur aus mediale Fähigkeiten haben. Ihre Gestalt ist größtenteils humanoid, obgleich sie leicht größer und dünner als Menschen sind. Dafür aber haben sie mit Fangzähnen bewehrte, spinnenartige Köpfe. Wie Spinnen können auch sie Seide spinnen. Anstatt Netze zu weben, setzen sie diese Fähigkeit aber dazu ein, komplexe, bienenstockartige Gebäude zu bauen und äußerst komplexe, dünne Seile herzustellen. 
 
-Männliche und weibliche Vithrack sind nicht voneinander zu unterscheiden. Wie Medien sind auch sie hauptsächlich Zauberwirker und Gedankenmanipulatoren, obwohl sie, in die Enge getrieben, auch mit ihren Fangzähnen angreifen. Die psionischen Kräfte der Vithrack ermöglichen ihnen, gedanklich miteinander zu kommunizieren. Wie viele soziale Insektoiden gibt es in ihrer Gesellschaft eine Reihe bestimmter Rollen, einschließlich Späher und Verteidiger. 
+Männliche und weibliche Vithrack sind nicht voneinander zu unterscheiden. Wie Medien sind auch sie hauptsächlich Zauberwirker und Gedankenmanipulatoren, obwohl sie, in die Enge getrieben, auch mit ihren Fangzähnen angreifen. Die psionischen Kräfte der Vithrack ermöglichen ihnen, gedanklich miteinander zu kommunizieren. Wie bei vielen sozialen Insektoiden gibt es in ihrer Gesellschaft eine Reihe bestimmter Rollen, einschließlich Späher und Verteidiger. 
 
 Aufgrund ihrer geringen Geburtenrate spielen die Vithrack trotz ihrer extremen Intelligenz und Kraft in der Welt keine große Rolle. Obwohl diese geringe Geburtenrate wahrscheinlich für ihre berüchtigte Feindseligkeit anderen Rassen gegenüber verantwortlich ist, hat sie die Vithrack bezüglich ihrer eigenen Art auch äußerst selbstlos gemacht: Ihre Nester verteidigen sie bis zum Tod.</DefaultText>
       <FemaleText />
@@ -321,7 +321,7 @@ Aufgrund ihrer geringen Geburtenrate spielen die Vithrack trotz ihrer extremen I
 
 Bîaŵacs (Seelenwinde), wie man diese Stürme nennt, führen oft zu Zerstörungen. Wenn Seelen aus Körpern gerissen und im Auge des Sturms gefangen werden, können sie sich miteinander und mit allen Elementarsubstanzen im Mahlstrom verbinden. Sie stellen pures Chaos und Durcheinander dar - sie zu vernichten wird als Gnade für die Seelen aufgefasst, die im Inneren gefangen sind. 
 
-Das Experimentieren mit der Erzeugung von Seelenschanden ist eine andere fragwürdige Aktivität, die Beseelern in vielen Kreisen einen schlechten Ruf eingebracht hat. Manche sehen das als gefährlich und unmenschlich, andere dagegen als ein Mittel zum Zweck an. Die Erzeugung von Seelenschaden ist ein Vorwurf, den viele verängstigte Personen Beseelern machen.</DefaultText>
+Das Experimentieren mit der Erzeugung von Seelenschanden ist eine andere fragwürdige Aktivität, die Beseelern in vielen Kreisen einen schlechten Ruf eingebracht hat. Manche sehen das als gefährlich und unmenschlich, andere dagegen als ein Mittel zum Zweck an. Die Erzeugung von Seelenschaden ist ein Vorwurf, den viele verängstigte Gestandene Beseelern machen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -330,7 +330,7 @@ Das Experimentieren mit der Erzeugung von Seelenschanden ist eine andere fragwü
 
 So, wie die Delemgan versuchen, die Gesundheit ihrer Wälder zu bewahren, versuchen die Pŵgra, ihnen zu schaden, was sie zu Todfeinden macht. Der Verfall, mit dem sie infiziert sind, unterstützt ihre Angriffe mit einem grässlichen Gift, macht ihre Körper aber auch schwach und brüchig, weshalb sie verwundbar gegen Stichangriffe und Hiebe mit stumpfen Waffen machen. 
 
-Da sie aus einem gesunden Wald nicht länger Essenz gewinnen können, müssen sie überleben, indem sie Pflanzen, Tieren und Personen Energie entziehen. Das macht sie zu natürlichen Verbündeten von Schatten, die sich auf ähnliche Weise ernähren, und beide genießen die Vorteile einer gemeinsamen Jagd. 
+Da sie aus einem gesunden Wald nicht länger Essenz gewinnen können, müssen sie überleben, indem sie Pflanzen, Tieren und Gestandenen Energie entziehen. Das macht sie zu natürlichen Verbündeten von Schatten, die sich auf ähnliche Weise ernähren, und beide genießen die Vorteile einer gemeinsamen Jagd. 
 
 Generell sind sie allen Lebensformen feindselig gesinnt, aber ihre Hauptfeinde sind üblicherweise Waldläufer und Druiden.</DefaultText>
       <FemaleText />
@@ -339,7 +339,7 @@ Generell sind sie allen Lebensformen feindselig gesinnt, aber ihre Hauptfeinde s
       <ID>58</ID>
       <DefaultText>Die Delemgan sind Waldgeister von Eir Glanfath, die an uralte (oftmals versteinerte) Bäume oder Adra-Monumente gebunden sind. Ihre Körper scheinen fast denen von Elfen zu gleichen, ihre Haut aber ist hölzern und ihre Haare sind lang und pflanzenartig (Adragan scheinen Haut aus Adra zu haben). Delemgan leuchten schwach und sind oft von winzigen Lichtflecken umgeben. Sie tragen zwar keine Kleidung, aber aufgrund des Fehlens von Geschlechtsorganen haben sie nur im Allgemeinen eine humanoide Gestalt. Delemgan sind rein magische Wesen und benutzen beim Angriff keine physischen Waffen. Ihre Attraktivität setzen sie in Kombination mit ihren magischen Fähigkeiten ein, was üblicherweise zum Aufhalten von Angreifern geschieht, oder um sie in den Tod zu locken.
 
-Diese Kreaturen beziehen ihre Essenz aus ihrer Umgebung. Obwohl sie physische Körper haben und getötet werden können, wenn man dieser Körper vernichtet, hängt ihr Überleben auch von der Gesundheit ihrer Umgebung ab. Naturgemäß empfinden sie anderen Lebewesen gegenüber keine Feindseligkeit, aber ihre Territorien verteidigen sie mit wilder Entschlossenheit. Demzufolge können Delemgan und Adragan ("Adra-Geborene") abhängend von dem Wohlergehen ihrer Umgebung und davon, ob sich andere Erforscher oder Abenteurer in der Vergangenheit als gefährlich oder bösartig herausgestellt haben, mehr oder weniger feindselig sein. Sie sind eine natürliche Blockade großangelegter Bauprojekte. Während die ländlichen Stämme in Eir Glanfath oftmals friedlich mit ihnen zusammenleben, können expandierende oder im Bau befindliche Städte und Dörfer von feindseligen Delemgan heimgesucht werden. Auch manche breiten Masse sind gegen die Zerstörung von Delemgan-Lebensräumen. Diese Vorstellung wird im Allgemeinen von den Stadtbewohnern unterstützt, die glauben, dass ihre Seelen einfach in anderen Wäldern oder zurück in Personen wiedergeboren werden. 
+Diese Kreaturen beziehen ihre Essenz aus ihrer Umgebung. Obwohl sie physische Körper haben und getötet werden können, wenn man dieser Körper vernichtet, hängt ihr Überleben auch von der Gesundheit ihrer Umgebung ab. Naturgemäß empfinden sie anderen Lebewesen gegenüber keine Feindseligkeit, aber ihre Territorien verteidigen sie mit wilder Entschlossenheit. Demzufolge können Delemgan und Adragan ("Adra-Geborene") abhängend von dem Wohlergehen ihrer Umgebung und davon, ob sich andere Erforscher oder Abenteurer in der Vergangenheit als gefährlich oder bösartig herausgestellt haben, mehr oder weniger feindselig sein. Sie sind eine natürliche Blockade großangelegter Bauprojekte. Während die ländlichen Stämme in Eir Glanfath oftmals friedlich mit ihnen zusammenleben, können expandierende oder im Bau befindliche Städte und Dörfer von feindseligen Delemgan heimgesucht werden Auch manche Gestandene sind gegen die Zerstörung von Delemgan-Lebensräumen. Diese Vorstellung wird im Allgemeinen von den Stadtbewohnern unterstützt, die glauben, dass ihre Seelen einfach in anderen Wäldern oder zurück in Gestandene wiedergeboren werden. 
 
 Traditionell verhalten sich Delemgan Waldläufern und Druiden gegenüber friedfertig. Ihre spirituelle Verbindung mit Bäumen hat bei ihnen zu einem tieferen Verständnis der Verbindung zwischen Waldläufern und deren tierischen Gefährten geführt, obwohl eine definitive Beziehung dazu noch belegt werden muss.</DefaultText>
       <FemaleText />
@@ -351,7 +351,7 @@ Traditionell verhalten sich Delemgan Waldläufern und Druiden gegenüber friedfe
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Ein voll ausgewachsener Drache ist ein kolossales Wesen und im Ruhezustand höher als die meisten von Leuten erbauten Gebäude. Wenn sie sich auf ihre Hinterbeine stellen, sind sie mit Leichtigkeit doppelt so hoch.
+      <DefaultText>Ein voll ausgewachsener Drache ist ein kolossales Wesen und im Ruhezustand höher als die meisten von Gestandenen erbauten Gebäude. Wenn sie sich auf ihre Hinterbeine stellen, sind sie mit Leichtigkeit doppelt so hoch.
 
 Drachen haben das Reifestadium ihres Lebenskreislaufs erreicht. Wie Jungdrachen haben sie sich an ihren Lebensraum angepasst, wenn auch umfassender. Ihre Farbgebung, Ornamentik und sogar ihr Körperbau entspricht dem ausgewählten Territorium, was auch für ihre Angriffs- und Verteidigungsarten gilt. Da sie bereits ein Territorium beansprucht haben und von anderen Drachen und Jungdrachen kaum bedroht werden, sind sie naturgemäß zurückhaltender und meiden unnötige Konflikte. 
 
@@ -364,7 +364,7 @@ Drachen sind intelligenter als die meisten anderen fühlenden Wesen, ihr einsied
       <ID>61</ID>
       <DefaultText>Jungdrachen repräsentieren das mittlere Stadium im Lebenskreislauf eines Drachen. Sie haben sich aus Lindwürmern entwickelt, aber das Drachenstadium noch nicht erreicht (viele werden das nie). Jungdrachen verteidigen ihre Territorien aggressiv und versuchen, es so weit wie möglich zu erweitern. Anderen Jungdrachen gegenüber sind sie feindselig eingestellt, da sie Konkurrenten um die knappen Ressourcen sind.
 
-Ihre Farbgebung richtet sich nach beanspruchten Territorium. Lebt ein Jungdrachen beispielsweise in einem Sumpf, kann er grünlich, bräunlich oder schwarz gefärbt sein, Nickhäute, eine flache Schnauze und erhöhte Nüstern haben. Obwohl alle Jungdrachen Feuer speien können, entwickeln viele auch alternative, andere Elemente umfassende Angriffsarten. </DefaultText>
+Ihre Farbgebung richtet sich nach beanspruchten Territorium. Lebt ein Jungdrachen beispielsweise in einem Sumpf, kann er grünlich, bräunlich oder schwarz gefärbt sein, Nickhäute, eine flache Schnauze und erhöhte Nüstern haben. Obwohl alle Jungdrachen Feuer speien können, entwickeln viele auch alternative, andere Elemente umfassende Angriffsarten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,7 +386,7 @@ Fähige Druiden können mehrere Geisterwandlerformen erlernen. Sie glauben, dass
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Stelgaer sind große Raubkatzen. Während Jungtiere häufig als Einzelgänger jagen, bilden erwachsene Stelgaer zur Verteidigung ihres Territoriums, zur Jagd auf Beute und zum Aufziehen ihrer Jungen häufig Rudel. Diese Katzen sind aggressiv und äußerst anpassungsfähig. Bestimmte Populationen der Spezies finden sich in vielseitigen Umgebungen, von heißen Ebenen bis hin zur gefrorenen Tundra. Durch die Siedlungen von Leuten wurden sie größtenteils aus dem Territorium um Trutzbucht vertrieben. Aus diesem Grund kommen sie in Eir Glanfath häufiger vor. Ihr Status als tödliche Raubtiere hat sie bei Galawain-Anhängern zu einer beliebten Jagdtrophäe gemacht.</DefaultText>
+      <DefaultText>Stelgaer sind große Raubkatzen. Während Jungtiere häufig als Einzelgänger jagen, bilden erwachsene Stelgaer zur Verteidigung ihres Territoriums, zur Jagd auf Beute und zum Aufziehen ihrer Jungen häufig Rudel. Diese Katzen sind aggressiv und äußerst anpassungsfähig. Bestimmte Populationen der Spezies finden sich in vielseitigen Umgebungen, von heißen Ebenen bis hin zur gefrorenen Tundra. Durch die Siedlungen von Gestandenen wurden sie größtenteils aus dem Territorium um Trutzbucht vertrieben. Aus diesem Grund kommen sie in Eir Glanfath häufiger vor. Ihr Status als tödliche Raubtiere hat sie bei Galawain-Anhängern zu einer beliebten Jagdtrophäe gemacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,9 +421,9 @@ Animaten können nur mit loyalen Seelen erschaffen werden, denen großes Engagem
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Fampire sind Personen, deren Leben auf unnatürliche Weise verlängert wurden. Obwohl sie ihre normale humanoide Erscheinung größtenteils beibehalten, sind sie stets nur ein paar verpasste Mahlzeiten davon entfernt, sich in hirnlose Monster zu verwandeln - und das wissen sie auch. Da Fampire individuelle Persönlichkeiten und Erinnerungen beibehalten, kann sich dieses morbide Wissen auf verschiedene Arten manifestieren: Manche ziehen sich zurück und werden vorsichtig, weshalb sie jegliche Bedrohungen umgehen, die sie frühzeitig schwächen oder vernichten könnten, andere dagegen werden zu extrovertierten Hedonisten, die solange sie können, jedem Vergnügen hinterherjagen, das die Welt zu bieten hat. Früher oder später fällt jeder Fampir unweigerlich dem Verfall zum Opfer, sofern er nicht vorher getötet wird.
+      <DefaultText>Fampire sind Gestandene, deren Leben auf unnatürliche Weise verlängert wurden. Obwohl sie ihre normale humanoide Erscheinung größtenteils beibehalten, sind sie stets nur ein paar verpasste Mahlzeiten davon entfernt, sich in hirnlose Monster zu verwandeln - und das wissen sie auch. Da Fampire individuelle Persönlichkeiten und Erinnerungen beibehalten, kann sich dieses morbide Wissen auf verschiedene Arten manifestieren: Manche ziehen sich zurück und werden vorsichtig, weshalb sie jegliche Bedrohungen umgehen, die sie frühzeitig schwächen oder vernichten könnten, andere dagegen werden zu extrovertierten Hedonisten, die solange sie können, jedem Vergnügen hinterherjagen, das die Welt zu bieten hat. Früher oder später fällt jeder Fampir unweigerlich dem Verfall zum Opfer, sofern er nicht vorher getötet wird.
 
-Da Fampire zum Überleben die Essenz lebender Wesen benötigen, und das Blut der Leute diesbezüglich die reicheste und unmittelbar verfügbarste Quelle darstellt, werden sie von den meisten zivilisierten Gesellschaften gemieden. Aus diesem Grund leben Fampire eher an den Rändern der Gesellschaft, sofern sie überhaupt daran teilnehmen.</DefaultText>
+Da Fampire zum Überleben die Essenz lebender Wesen benötigen, und das Blut Gestandener diesbezüglich die reicheste und unmittelbar verfügbarste Quelle darstellt, werden sie von den meisten zivilisierten Gesellschaften gemieden. Aus diesem Grund leben Fampire eher an den Rändern der Gesellschaft, sofern sie überhaupt daran teilnehmen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -435,7 +435,7 @@ Selbst unter den Beseelern wird die Schaffung von Fleischkonstrukten kontrovers 
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Das allgemeine Verständnis über Guls ist dahingehend, dass sie sich genügend Gerissenheit bewahren, um gefährliche Jäger und Gegner zu sein ... aber nicht genug, um sich über ihren raschen Verfall zu sorgen. Wie Darguls werden sie von abgeschiedenen Umgebungen angezogen, obwohl sich manche auf der Suche nach leicht zugänglichem Fleisch in der Nähe von Friedhöfen aufhalten. Das Fleisch toter Personen sättigt den Hunger eines Guls, kann aber ihr Bedürfnis nach Seelenessenz kaum befriedigen. Der längere Aufenthalt auf einem Friedhof kann den Verfall von Guls sogar beschleunigen, da dies ihren Antrieb lebenden Nahrungsquellen nachzustellen, reduzieren kann.</DefaultText>
+      <DefaultText>Das allgemeine Verständnis über Guls ist dahingehend, dass sie sich genügend Gerissenheit bewahren, um gefährliche Jäger und Gegner zu sein ... aber nicht genug, um sich über ihren raschen Verfall zu sorgen. Wie Darguls werden sie von abgeschiedenen Umgebungen angezogen, obwohl sich manche auf der Suche nach leicht zugänglichem Fleisch in der Nähe von Friedhöfen aufhalten. Das Fleisch toter Gestandener sättigt den Hunger eines Guls, kann aber ihr Bedürfnis nach Seelenessenz kaum befriedigen. Der längere Aufenthalt auf einem Friedhof kann den Verfall von Guls sogar beschleunigen, da dies ihren Antrieb lebenden Nahrungsquellen nachzustellen, reduzieren kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -456,7 +456,7 @@ Todeswächter sind eine abweichende Form dieser Skelette - sie sind fähig, leis
       <ID>76</ID>
       <DefaultText>Seit dem Einsetzen von Waidwens Vermächtnis wendeten sich verzweifelte Familien hilfesuchend an Beseeler. Die Übertragung einer verlorenen Seele in einen lebenden Körper stand (für die meisten) außer Frage, da fast sämtliche dieser Transplantate in der sofortigen Erweckung der transplantieren Seele resultierten. Dadurch würde die Seele nämlich eher die Erinnerungen aus einem vergangenen Leben erlangen, als die den kürzlich geborenen Kindes. 
 
-Die Beseeler standen unter Druck, eine schnelle Lösung zu finden, obwohl sie sich gegen solche Eile aussprachen: würde man eine Tierseele in einen seelenlosen Kinderkörper transferieren, könnte das Kind Bewusstsein, Instinkt und Wille erlangen. Da Tierseelen weniger individuelle Persönlichkeit und Erinnerungen als Seelen von Leuten haben, behauptete man, dass die Kinder in der Lage sein könnten, im Laufe der Zeit in ihre neue Seele hineinzuwachsen und den schwächeren Tiergeist zu überlagern - und sich demzufolge zu gesunden Kindern zu entwickeln. Im ganzen Dyrwald wurden schnell Transplantate durchgeführt, und man unterzog zehntausende Kinder diesem Verfahren. 
+Die Beseeler standen unter Druck, eine schnelle Lösung zu finden, obwohl sie sich gegen solche Eile aussprachen: würde man eine Tierseele in einen seelenlosen Kinderkörper transferieren, könnte das Kind Bewusstsein, Instinkt und Wille erlangen. Da Tierseelen weniger individuelle Persönlichkeit und Erinnerungen als Seelen von Gestandenen haben, behauptete man, dass die Kinder in der Lage sein könnten, im Laufe der Zeit in ihre neue Seele hineinzuwachsen und den schwächeren Tiergeist zu überlagern - und sich demzufolge zu gesunden Kindern zu entwickeln. Im ganzen Dyrwald wurden schnell Transplantate durchgeführt, und man unterzog zehntausende Kinder diesem Verfahren. 
 
 Dadurch schienen sie Bewusstsein und Wille zurückzubekommen, und eine Zeitlang hielt man die geretteten Kinder für geheilt. Als sie aber älter wurden, stellte sich heraus, dass sie nicht wie andere Kinder waren. Sie hatten kaum Verständnis oder Interesse für gesellschaftliche Normen, und benahmen sich oft merkwürdig. Beim Erreichen des Jugendalters begannen sich diese Unterschiede in physischen Veränderungen zu ihren Altersgenossen zu manifestieren - die Kinder begannen, sich in Wichte zu verwandeln.
 
@@ -604,7 +604,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText> Gewandtheit wird um 2 reduziert, Bewegung wird um 3 reduziert, Reflexe werden um 20 reduziert.</DefaultText>
+      <DefaultText>Gewandtheit wird um 2 reduziert, Bewegung wird um 3 reduziert, Reflexe werden um 20 reduziert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -664,7 +664,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Betäubte Charaktere können keinerlei Handlungen unternehmen. Gewandtheit, Wahrnehmung und Intellekt werden alle um jeweils 4 reduziert. Reflexe und Abwehr werden um 30 reduziert. Reflexe und Abwehr werden um 30 reduziert. Nimmt den Platz von Bewegungsunfähig und Niedergeschlagen ein.</DefaultText>
+      <DefaultText>Betäubte Charaktere können keinerlei Handlungen unternehmen. Gewandtheit, Wahrnehmung und Intellekt werden alle um jeweils 4 reduziert. Reflexe und Abwehr werden um 30 reduziert. Reflexe und Abwehr werden um 30 reduziert. Setzt Bewegungsunfähig und Niedergeschlagen außer Kraft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -764,7 +764,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Ein kritischer Treffer ist jeder Angriffswurf über 100. Ein kritischer Treffer, der Schaden verursacht, erhöht den verursachten Gesamtschaden um 50%. Ein kritischer Treffer bei Effekten mit einer Dauer (meistens Wirkungen wie Erkrankt oder Gelähmt) erhöht die Dauer um 50%.</DefaultText>
+      <DefaultText>Ein kritischer Treffer ist jeder Angriffswurf über 100. Ein kritischer Treffer, der Schaden verursacht, erhöht den verursachten Gesamtschaden um 25%. Ein kritischer Treffer bei Effekten mit einer Dauer (meistens Wirkungen wie Erkrankt oder Gelähmt) erhöht die Dauer um 50%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -824,7 +824,7 @@ Einige Kreaturen können manchen Wirkungen gegenüber immun sein. In diesem Fall
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Wird ein Charakter mit passiven Talente oder Fähigkeiten ausgestattet, erhält er den entsprechenden Bonus automatisch. Ein Charakter mit 'Reflexe der Schlange' erhält den Bonus auf seine Reflexe beispielsweise automatisch.</DefaultText>
+      <DefaultText>Wird ein Charakter mit passiven Talenten oder Fähigkeiten ausgestattet, erhält er den entsprechenden Bonus automatisch. Ein Charakter mit 'Reflexe der Schlange' erhält den Bonus auf seine Reflexe beispielsweise automatisch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -955,7 +955,7 @@ Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadens
     <Entry>
       <ID>174</ID>
       <DefaultText>Die Unterbrechung legt die Wahrscheinlichkeit fest, dass ein Charakter die Handlung seines Gegners aufhebt. Sie wird mit der Konzentration des anderen Charakters verglichen.
- Der Wurf nutzt einen Unterbrechung-Wert von dem Angriff (Waffe oder sonstiger Angriff), der dann mit der Konzentration des Ziels (basierend auf seiner Entschlossenheit) verglichen wird. Es wird eine Zahl von 1 - 100 gewürfelt, dann wird die Unterbrechung addiert und die Konzentration abgezogen. Ist das Ergebnis 51 oder höher, spielt das Ziel eine Trefferreaktion ab und seine aktuelle Handlung geht verloren.</DefaultText>
+ Der Wurf nutzt einen Unterbrechung-Wert von dem Angriff (Waffe oder sonstiger Angriff), der dann mit der Konzentration des Ziels (basierend auf seiner Entschlossenheit) verglichen wird. Es wird eine Zahl von 1 - 100 gewürfelt, dann wird die Unterbrechung addiert und die Konzentration abgezogen. Ist das Ergebnis 51 oder höher, spielt das Ziel eine Trefferreaktion ab und seine aktuelle Handlung geht verloren. Die Dauer der Unterbrechung hängt von der Unterbrechungsstärke der Waffe bzw. des Angriffs ab. Eine Unterbrechung, die auf eine Figur angewandt wird, die schon unter einer Unterbrechung mit einer längeren Dauer leidet, hat keinen Effekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1072,7 +1072,7 @@ Manche Waffen oder Angriffe können mehrere Schadensarten anrichten oder zeigen 
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>Der Dyrwald besitzt eine gesunde Bärenpopulation, auch wenn die meisten der Tiere die zivilisierten Gebiete und Straßen der Leute meiden. Adlige jagen manchmal zum Vergnügen Bären, doch die meisten Kolonisten, älteren Dyrwäldler und Glanfathaner gehen ihnen einfach aus dem Weg. In den Wäldern des Östlichen Abschnitts ist reichlich Wild zu finden, das sich sehr viel weniger erbittert wehrt als ein zorniger Bär.</DefaultText>
+      <DefaultText>Der Dyrwald besitzt eine gesunde Bärenpopulation, auch wenn die meisten der Tiere die zivilisierten Gebiete und Straßen der Gestandenen meiden. Adlige jagen manchmal zum Vergnügen Bären, doch die meisten Kolonisten, älteren Dyrwäldler und Glanfathaner gehen ihnen einfach aus dem Weg. In den Wäldern des Östlichen Abschnitts ist reichlich Wild zu finden, das sich sehr viel weniger erbittert wehrt als ein zorniger Bär.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1520,6 +1520,61 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     <Entry>
       <ID>282</ID>
       <DefaultText>Verschiedenes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

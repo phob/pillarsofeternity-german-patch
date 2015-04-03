@@ -681,7 +681,7 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>Charaktere werden verstümmelt, anstatt endgültig zu sterben, wenn ihre Gesundheit das erste Mal auf 0 fällt.</DefaultText>
+      <DefaultText>Charaktere werden verstümmelt, anstatt endgültig zu sterben, wenn ihre Gesundheit das erste Mal auf null fällt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -691,7 +691,7 @@
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>Dialogoptionen anzeigen, für die die Gruppe keine Vorbedingungen erfüllt.</DefaultText>
+      <DefaultText>Dialogoptionen anzeigen, für die die Gruppe nicht alle Vorbedingungen erfüllt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -701,12 +701,12 @@
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Effekte anzeigen, die jede Dialogoption auf die Reputation und die Persönlichkeit des Spielers hat.</DefaultText>
+      <DefaultText>Auswirkungen anzeigen, die jede Dialogoption auf die Reputation und die Persönlichkeit des Spielercharakters hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Wenn du mit dem Mauszeiger über Feinde schwebst, erscheint ein Pop-up, das ihre bekannten Verteidigungswerte mit der Genauigkeit des Angreifers vergleicht.</DefaultText>
+      <DefaultText>Wenn du den Mauszeiger über Feinde hältst, erscheint ein Pop-up, das ihre bekannten Verteidigungswerte mit der Genauigkeit des Angreifers vergleicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1641,7 +1641,7 @@
     </Entry>
     <Entry>
       <ID>328</ID>
-      <DefaultText>Wenn diese Option aktiviert wird, erscheinen Auswahlkreise nur, wenn das Spiel im Kampf pausiert wird oder du den Cursor über ein Objekt bewegst.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert wird, erscheinen Auswahlkreise nur, wenn das Spiel im Kampf pausiert wird oder du den Mauszeiger über ein Objekt bewegst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2860,12 +2860,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>560</ID>
-      <DefaultText>Anzeiger für Charaktere außerhalb des Bildschirms ausblenden.</DefaultText>
+      <DefaultText>Zeiger auf entfernte Charaktere ausblenden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>561</ID>
-      <DefaultText>Wenn diese Option ausgewählt ist, werden die Anzeiger für Charaktere, die sich außerhalb des Bildschirms befinden, niemals angezeigt.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert ist, werden die Zeiger auf Charaktere, die sich außerhalb des sichtbaren Bildbereichs befinden, niemals dargestellt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4255,7 +4255,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>843</ID>
-      <DefaultText>Auswahl</DefaultText>
+      <DefaultText>Auswählen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4270,7 +4270,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>846</ID>
-      <DefaultText>Interaktion</DefaultText>
+      <DefaultText>Interagieren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4315,12 +4315,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>855</ID>
-      <DefaultText>Lager</DefaultText>
+      <DefaultText>Rasten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>856</ID>
-      <DefaultText>Interaktionsobjekte markieren</DefaultText>
+      <DefaultText>Interaktionsobjekte hervorheben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4350,12 +4350,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>862</ID>
-      <DefaultText>Schnell laden</DefaultText>
+      <DefaultText>Schnellladen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>863</ID>
-      <DefaultText>HUD umschalten</DefaultText>
+      <DefaultText>HUD ein/aus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4365,7 +4365,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>865</ID>
-      <DefaultText>Konsole umschalten</DefaultText>
+      <DefaultText>Konsole ein/aus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4430,27 +4430,27 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>878</ID>
-      <DefaultText>Kamera links</DefaultText>
+      <DefaultText>Kamera nach links</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>879</ID>
-      <DefaultText>Kamera rechts</DefaultText>
+      <DefaultText>Kamera nach rechts</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>880</ID>
-      <DefaultText>Kamera oben</DefaultText>
+      <DefaultText>Kamera nach oben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>881</ID>
-      <DefaultText>Kamera unten</DefaultText>
+      <DefaultText>Kamera nach unten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>882</ID>
-      <DefaultText>Kamera schwenken</DefaultText>
+      <DefaultText>Kamera frei bewegen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4460,7 +4460,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>884</ID>
-      <DefaultText>Wenn diese Option eingestellt ist, werden bei bestimmten Schriftzeichen Ligaturen in Dialogfenstern verwendet.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert ist, werden in Textfeldern für bestimmte Buchstabenfolgen Ligaturen verwendet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4940,7 +4940,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>980</ID>
-      <DefaultText>Wenn diese Option aktiviert ist, werden im Gefecht schwebende Tooltips über allen Charakteren angezeigt.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert ist, werden im Gefecht über allen Charakteren Tooltips angezeigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4960,7 +4960,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>984</ID>
-      <DefaultText>Wenn diese Option aktiviert ist, können Gewalteffekte verwendet werden, wenn Feinde getötet werden.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert ist, kann das Töten von Feinden weitere Gewalteffekte auslösen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7477,7 +7477,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1491</ID>
-      <DefaultText>VSync</DefaultText>
+      <DefaultText>Vertikale Synchronisation</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8127,7 +8127,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1621</ID>
-      <DefaultText>Wenn diese Option aktiviert ist, ist die Bewegung des Mauszeigers auf das Spielfenster beschränkt.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert ist, wird die Bewegung des Mauszeigers auf das Spielfenster beschränkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8542,7 +8542,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1705</ID>
-      <DefaultText>Lager nicht begrenzen</DefaultText>
+      <DefaultText>Lagerzugriff nicht einschränken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9029,12 +9029,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1803</ID>
-      <DefaultText>Passt an, wie lange der Cursor über einem Punkt gehalten werden muss, bevor ein Tooltip angezeigt wird.</DefaultText>
+      <DefaultText>Passt an, wie lange der Mauszeiger über einem Punkt gehalten werden muss, bevor ein Tooltip angezeigt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1804</ID>
-      <DefaultText>Passt die Geschwindigkeit an, mit der die Kamera sich bewegt, wenn man die Pfeiltasten verwendet oder den Cursor an den Bildschirmrand bewegt.</DefaultText>
+      <DefaultText>Passt die Geschwindigkeit an, mit der die Kamera sich bewegt, wenn man die Pfeiltasten verwendet oder den Mauszeiger an den Bildschirmrand bewegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9099,12 +9099,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1817</ID>
-      <DefaultText>Vollbildschirm</DefaultText>
+      <DefaultText>Vollbild</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1818</ID>
-      <DefaultText>Ist diese Option aktiviert, läuft das Spiel im Vollbildmodus. Andernfalls läuft es im Fenstermodus.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert ist, läuft das Spiel im Vollbildmodus. Andernfalls läuft es im Fenstermodus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9614,12 +9614,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1928</ID>
-      <DefaultText>Pixelperfekter Zoom</DefaultText>
+      <DefaultText>Pixelgenauer Zoom</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1929</ID>
-      <DefaultText>Ist diese Option aktiviert, siehst du mehr vom Spielgeschehen, je höher deine Auflösung ist. Ist sie deaktiviert, bleibt der Zoomfaktor bei allen Auflösungen gleich.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert ist, siehst du mehr vom Spielgeschehen, je höher deine Auflösung ist. Ist sie deaktiviert, bleibt der Zoomfaktor bei allen Auflösungen gleich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9680,7 +9680,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1943</ID>
-      <DefaultText>Verlangsamt Kämpfe abhängig von der Anzahl aktiver Feinde.</DefaultText>
+      <DefaultText>Schaltet während eines Kampfes abhängig von der Gegneranzahl in den langsamen Modus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9700,12 +9700,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1947</ID>
-      <DefaultText>Lädt ...</DefaultText>
+      <DefaultText>Lade Spielstände</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1948</ID>
-      <DefaultText>Beute-Radius (Meter)</DefaultText>
+      <DefaultText>Beute-Einzugsgebiet (Meter)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

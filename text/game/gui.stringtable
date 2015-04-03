@@ -676,22 +676,22 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Im Expertenmodus werden einige Hilfefunktionen des Spiels deaktiviert. Spieler, die während des Spiels auf ihre eigenen Fähigkeiten und Intuition vertrauen wollen, sollten den Expertenmodus spielen. Diese Option ist ausgewählt, wenn du ein neues Spiel startest. Sie kann im Spiel nicht aktiviert werden und nach der Deaktivierung im selben Spiel nicht wieder reaktiviert werden.</DefaultText>
+      <DefaultText>Im Expertenmodus werden einige Hilfefunktionen des Spiels deaktiviert. Spieler, die während des Spiels auf ihre eigenen Fähigkeiten und Intuition vertrauen wollen, sollten im Expertenmodus spielen. Diese Option kann ausgewählt werden, wenn du ein neues Spiel startest. Sie kann im Spiel nicht aktiviert werden und nach der Deaktivierung im selben Spiel nicht wieder reaktiviert werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>Charaktere werden verstümmelt, anstatt endgültig zu sterben, wenn ihre Gesundheit das erste Mal auf 0 fällt.</DefaultText>
+      <DefaultText>Charaktere werden verstümmelt, anstatt endgültig zu sterben, wenn ihre Gesundheit das erste Mal auf null fällt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Grafische Darstellung der Reichweite von Wirkungsbereich-Sprüchen aktivieren.</DefaultText>
+      <DefaultText>Grafische Darstellung der Reichweite von Zaubersprüchen mit Wirkungsbereich aktivieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>Dialogoptionen anzeigen, für die die Gruppe keine Vorbedingungen erfüllt.</DefaultText>
+      <DefaultText>Dialogoptionen anzeigen, für die die Gruppe nicht alle Vorbedingungen erfüllt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -701,12 +701,12 @@
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Effekte anzeigen, die jede Dialogoption auf die Reputation und die Persönlichkeit des Spielers hat.</DefaultText>
+      <DefaultText>Auswirkungen anzeigen, die jede Dialogoption auf die Reputation und die Persönlichkeit des Spielercharakters hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Wenn du mit dem Mauszeiger über Feinde schwebst, erscheint ein Pop-up, das ihre bekannten Verteidigungswerte mit der Genauigkeit des Angreifers vergleicht.</DefaultText>
+      <DefaultText>Wenn du den Mauszeiger über Feinde hältst, erscheint ein Pop-up, das ihre bekannten Verteidigungswerte mit der Genauigkeit des Angreifers vergleicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -756,7 +756,7 @@
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Im Eisenurteil-Modus wird nur ein einziger Spielstand für das gesamte Spiel angelegt. Wenn der Spieler getötet wird, wird der Spielstand gelöscht und du musst von vorne beginnen. Diese Option kann während des laufenden Spiels nicht angepasst werden.</DefaultText>
+      <DefaultText>Im Eisenurteil-Modus wird nur ein einziger Spielstand für das gesamte Spiel angelegt. Wenn deine Heldengruppe besiegt wird, wird der Spielstand gelöscht und du musst von vorne beginnen. Diese Option kann nach Spielbeginn nicht angepasst werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -766,7 +766,7 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>In der Schwierigkeitsstufe "Pfad der Verdammten" erhalten Feinde einen Bonus auf die meisten Werte, und in Gefechten erscheinen mehr Feinde. Diese Option kann während des laufenden Spiels nicht angepasst werden. Sie ist nur für Spieler, die große Herausforderungen schätzen!</DefaultText>
+      <DefaultText>In der Schwierigkeitsstufe "Pfad der Verdammten" erhalten Feinde einen Bonus auf die meisten Werte, und in Gefechten erscheinen viel mehr Feinde. Achtung: Diese Option kann nach Spielbeginn nicht angepasst werden. Sie ist nur für Spieler, die große Herausforderungen schätzen!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -816,17 +816,17 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Die Schwierigkeitsstufe "Einfach" erfordert minimales Mikromanagement und verzeiht Fehler im Gefecht ohne Umstände. SEHR EMPFOHLEN für Spieler, die zu ersten Mal oder leit langer Zeit wieder gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe "Einfach" erfordert minimales Mikromanagement und verzeiht Fehler im Gefecht ohne Umstände. SEHR EMPFOHLEN für Spieler, die zum ersten Mal oder seit langer Zeit wieder gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Die Schwierigkeitsstufe "Normal" erfordert Strategie und Effizienz, doch sie verzeiht wenige Fehler im Gefecht. NICHT ZU EMPGEHLEN für Spieler, die zu ersten Mal gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe "Normal" erfordert Strategie und Effizienz, doch sie verzeiht einige wenige Fehler im Gefecht. NICHT ZU EMPFEHLEN für Spieler, die zum ersten Mal gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>Die Schwierigkeitsstufe "Schwer" ist geeignet für erfahrene Infinity-Engine-Spieler, die nach einer Herausforderung suchen. "Überleben" erfordert Mikromanagement und Werte-Optimierung durch Gegenstände, Zauber und Fähigkeiten.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe "Schwer" ist geeignet für erfahrene Infinity-Engine-Spieler, die nach einer Herausforderung suchen. Überleben erfordert Mikromanagement und Werte-Optimierung durch Gegenstände, Zauber und Fähigkeiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -871,12 +871,12 @@
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>Charakter getroffen</DefaultText>
+      <DefaultText>Gruppenmitglied wurde getroffen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>Charakter tot</DefaultText>
+      <DefaultText>Gruppenmitglied wurde besiegt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -891,22 +891,22 @@
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>Zauber wirken</DefaultText>
+      <DefaultText>Feind wirkt Zauber</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>Charakter verletzt</DefaultText>
+      <DefaultText>Gruppenmitglied wurde verletzt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>Charakter angegriffen</DefaultText>
+      <DefaultText>Gruppenmitglied wird angegriffen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>Ziel zerstört</DefaultText>
+      <DefaultText>Feind besiegt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -921,7 +921,7 @@
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>Nahkampfangriff</DefaultText>
+      <DefaultText>Gruppenmitglied wird angegriffen (Nahkampf)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -966,92 +966,92 @@
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>Kamera automatisch auf den Ort eines automatischen Pause-Ereignisses zentrieren.</DefaultText>
+      <DefaultText>Kamera auf den Ursprung einer automatischen Pause zentrieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>Jede Autom. Pause-Option auswählen oder aufheben.</DefaultText>
+      <DefaultText>Alle automatischen Pause-Optionen auswählen oder aufheben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>Autom. Pause, wenn ein Gruppenmitglied zu Boden geht.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn ein Gruppenmitglied zu Boden geht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>Autom. Pause, wenn ein Angriff gegen ein Gruppenmitglied abgeschlossen wurde.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn ein Angriff gegen ein Gruppenmitglied abgeschlossen wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>Autom. Pause, wenn ein Gruppenmitglied Schaden erleidet.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn ein Gruppenmitglied Schaden erleidet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>Autom. Pause, wenn ein Gruppenmitglied Ziel eines Angriffs wird.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn ein Gruppenmitglied Ziel eines Angriffs wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>Automatische Pause, wenn die Ausdauer eines Gruppenmitglieds unter 25% fällt.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn die Ausdauer eines Gruppenmitglieds unter 25% fällt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>Automatische Pause, wenn die Gesundheit eines Gruppenmitglieds unter 25% fällt.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn die Gesundheit eines Gruppenmitglieds unter 25% fällt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>Autom. Pause, wenn die Gruppe einen Feind sichtet.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn die Gruppe einen Feind sichtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>Autom. Pause bei Kampfbeginn.</DefaultText>
+      <DefaultText>Das Spiel wird bei Kampfbeginn pausiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>Autom. Pause, wenn ein Gruppenmitglied von einem Feind im Nahkampf angegriffen wird.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn ein Gruppenmitglied Ziel eines Nahkampfangriffs wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>Bei Kampfbeginn aktuelle Gruppenbewegung abbrechen.</DefaultText>
+      <DefaultText>Aktuelle Gruppenbewegung bei Kampfbeginn abbrechen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>Autom. Pause, wenn der Angriff eines Gruppenmitglieds wegen der Schadensreduktion des Ziels wirkungslos bleibt.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn der Angriff eines Gruppenmitglieds wegen der Schadensreduktion des Ziels wirkungslos bleibt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>Automatische Pause, wenn ein Gruppenmitglied einen Feind angreift, dessen Verteidigung die Genauigkeit des Gruppenmitglieds um 50 oder mehr Punkte übersteigt.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn ein Gruppenmitglied einen Feind angreift, dessen Verteidigung die Genauigkeit des Gruppenmitglieds um 50 oder mehr Punkte übersteigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>Autom. Pause, wenn ein Feind beginnt, einen Zauber zu wirken.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn ein Feind beginnt, einen Zauber zu wirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>Autom. Pause, wenn das Ziel eines Gruppenmitglieds stirbt.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn das Ziel eines Gruppenmitglieds stirbt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>Autom. Pause, wenn die Gruppe ein verstecktes Objekt oder eine Falle entdeckt.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn die Gruppe ein verstecktes Objekt oder eine Falle entdeckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>Autom. Pause im Gefecht bei festgelegten Intervallen.</DefaultText>
+      <DefaultText>Pausiert das Spiel während eines Kampfes im festgelegten Intervall.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1641,7 +1641,7 @@
     </Entry>
     <Entry>
       <ID>328</ID>
-      <DefaultText>Wenn diese Option aktiviert wird, erscheinen Auswahlkreise nur, wenn das Spiel im Kampf pausiert wird oder du den Cursor über ein Objekt bewegst.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert wird, erscheinen Auswahlkreise nur, wenn das Spiel im Kampf pausiert wird oder du den Mauszeiger über ein Objekt bewegst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2860,17 +2860,17 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>560</ID>
-      <DefaultText>Anzeiger für Charaktere außerhalb des Bildschirms ausblenden.</DefaultText>
+      <DefaultText>Zeiger auf entfernte Charaktere ausblenden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>561</ID>
-      <DefaultText>Wenn diese Option ausgewählt ist, werden die Anzeiger für Charaktere, die sich außerhalb des Bildschirms befinden, niemals angezeigt.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert ist, werden die Zeiger auf Charaktere, die sich außerhalb des sichtbaren Bildbereichs befinden, niemals dargestellt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>562</ID>
-      <DefaultText>Durch Rasten wird ein Satz Lagervorräte aufgebraucht. Möchtest du hier rasten?</DefaultText>
+      <DefaultText>Durch Rasten wird ein Satz Rastvorräte aufgebraucht. Möchtest du hier rasten?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4255,7 +4255,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>843</ID>
-      <DefaultText>Auswahl</DefaultText>
+      <DefaultText>Auswählen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4270,7 +4270,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>846</ID>
-      <DefaultText>Interaktion</DefaultText>
+      <DefaultText>Interagieren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4315,12 +4315,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>855</ID>
-      <DefaultText>Lager</DefaultText>
+      <DefaultText>Rasten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>856</ID>
-      <DefaultText>Interaktionsobjekte markieren</DefaultText>
+      <DefaultText>Interaktionsobjekte hervorheben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4350,12 +4350,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>862</ID>
-      <DefaultText>Schnell laden</DefaultText>
+      <DefaultText>Schnellladen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>863</ID>
-      <DefaultText>HUD umschalten</DefaultText>
+      <DefaultText>HUD ein/aus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4365,7 +4365,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>865</ID>
-      <DefaultText>Konsole umschalten</DefaultText>
+      <DefaultText>Konsole ein/aus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4430,27 +4430,27 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>878</ID>
-      <DefaultText>Kamera links</DefaultText>
+      <DefaultText>Kamera nach links</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>879</ID>
-      <DefaultText>Kamera rechts</DefaultText>
+      <DefaultText>Kamera nach rechts</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>880</ID>
-      <DefaultText>Kamera oben</DefaultText>
+      <DefaultText>Kamera nach oben</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>881</ID>
-      <DefaultText>Kamera unten</DefaultText>
+      <DefaultText>Kamera nach unten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>882</ID>
-      <DefaultText>Kamera schwenken</DefaultText>
+      <DefaultText>Kamera frei bewegen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4460,7 +4460,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>884</ID>
-      <DefaultText>Wenn diese Option eingestellt ist, werden bei bestimmten Schriftzeichen Ligaturen in Dialogfenstern verwendet.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert ist, werden in Textfeldern für bestimmte Buchstabenfolgen Ligaturen verwendet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4940,7 +4940,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>980</ID>
-      <DefaultText>Wenn diese Option aktiviert ist, werden im Gefecht schwebende Tooltips über allen Charakteren angezeigt.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert ist, werden im Gefecht über allen Charakteren Tooltips angezeigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4960,7 +4960,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>984</ID>
-      <DefaultText>Wenn diese Option aktiviert ist, können Gewalteffekte verwendet werden, wenn Feinde getötet werden.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert ist, kann das Töten von Feinden weitere Gewalteffekte auslösen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7315,7 +7315,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1459</ID>
-      <DefaultText>Neue Spieleinstellungen</DefaultText>
+      <DefaultText>Neues Spiel - Einstellungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7477,7 +7477,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1491</ID>
-      <DefaultText>VSync</DefaultText>
+      <DefaultText>Vertikale Synchronisation</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8127,7 +8127,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1621</ID>
-      <DefaultText>Wenn diese Option aktiviert ist, ist die Bewegung des Mauszeigers auf das Spielfenster beschränkt.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert ist, wird die Bewegung des Mauszeigers auf das Spielfenster beschränkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8542,7 +8542,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1705</ID>
-      <DefaultText>Lager nicht begrenzen</DefaultText>
+      <DefaultText>Lagerzugriff nicht einschränken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9029,12 +9029,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1803</ID>
-      <DefaultText>Passt an, wie lange der Cursor über einem Punkt gehalten werden muss, bevor ein Tooltip angezeigt wird.</DefaultText>
+      <DefaultText>Passt an, wie lange der Mauszeiger über einem Punkt gehalten werden muss, bevor ein Tooltip angezeigt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1804</ID>
-      <DefaultText>Passt die Geschwindigkeit an, mit der die Kamera sich bewegt, wenn man die Pfeiltasten verwendet oder den Cursor an den Bildschirmrand bewegt.</DefaultText>
+      <DefaultText>Passt die Geschwindigkeit an, mit der die Kamera sich bewegt, wenn man die Pfeiltasten verwendet oder den Mauszeiger an den Bildschirmrand bewegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9099,12 +9099,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1817</ID>
-      <DefaultText>Vollbildschirm</DefaultText>
+      <DefaultText>Vollbild</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1818</ID>
-      <DefaultText>Ist diese Option aktiviert, läuft das Spiel im Vollbildmodus. Andernfalls läuft es im Fenstermodus.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert ist, läuft das Spiel im Vollbildmodus. Andernfalls läuft es im Fenstermodus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9614,12 +9614,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1928</ID>
-      <DefaultText>Pixelperfekter Zoom</DefaultText>
+      <DefaultText>Pixelgenauer Zoom</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1929</ID>
-      <DefaultText>Ist diese Option aktiviert, siehst du mehr vom Spielgeschehen, je höher deine Auflösung ist. Ist sie deaktiviert, bleibt der Zoomfaktor bei allen Auflösungen gleich.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert ist, siehst du mehr vom Spielgeschehen, je höher deine Auflösung ist. Ist sie deaktiviert, bleibt der Zoomfaktor bei allen Auflösungen gleich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9680,7 +9680,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1943</ID>
-      <DefaultText>Schaltet den langsamen Modus im Kampf automatisch ein, anhand von aktiven Feinden.</DefaultText>
+      <DefaultText>Schaltet während eines Kampfes abhängig von der Gegneranzahl in den langsamen Modus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9700,12 +9700,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1947</ID>
-      <DefaultText>Lädt ...</DefaultText>
+      <DefaultText>Lade Spielstände</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1948</ID>
-      <DefaultText>Area Loot Radius (meters)</DefaultText>
+      <DefaultText>Beute-Einzugsgebiet (Meter)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9740,12 +9740,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1960</ID>
-      <DefaultText>Graphics Quality</DefaultText>
+      <DefaultText>Grafikqualität</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1961</ID>
-      <DefaultText>Adjust the game's graphics quality. Use a lower setting if your game runs slowly.</DefaultText>
+      <DefaultText>Diese Option ändert die Grafikqualität des Spiels. Verwende eine niedrigere Einstellung, falls das Spiel nicht flüssig läuft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

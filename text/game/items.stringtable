@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1823</EntryCount>
+  <EntryCount>1824</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -10802,6 +10802,11 @@ Nach ihrem Tod wurde die Waffe an Aedwyns Enkel im Dyrwald weitergegeben. Als Th
     <Entry>
       <ID>1892</ID>
       <DefaultText>Zerbeulter Helm</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1893</ID>
+      <DefaultText>Garodhs Refrain</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

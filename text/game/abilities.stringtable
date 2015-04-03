@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1377</EntryCount>
+  <EntryCount>1374</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -6896,21 +6896,6 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     <Entry>
       <ID>1396</ID>
       <DefaultText>Ritual der Jugendlichen Seelen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1397</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1398</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1399</ID>
-      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

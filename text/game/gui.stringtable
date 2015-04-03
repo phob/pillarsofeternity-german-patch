@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1937</EntryCount>
+  <EntryCount>1929</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Cliaban Rilaig</DefaultText>
+      <DefaultText>Cliaban Ruillaig</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -766,7 +766,7 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>In der Schwierigkeitsstufe "Pfad der Verdammten" erhalten Feinde einen Bonus auf die meisten Werte, und in Gefechten erscheinen mehr Feinde. Diese Option kann während des laufenden Spiels nicht angepasst werden. Sie ist nur für Spieler, die große Herausforderungen schätzen!</DefaultText>
+      <DefaultText>In der Schwierigkeitsstufe "Pfad der Verdammten" erhalten Feinde einen Bonus von 50 % auf die meisten Werte, und in Gefechten erscheinen mehr Feinde. Diese Option kann während des laufenden Spiels nicht angepasst werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -816,12 +816,12 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Die Schwierigkeitsstufe "Einfach" erfordert minimales Mikromanagement und verzeiht Fehler im Gefecht ohne Umstände. SEHR EMPFOHLEN für Spieler, die zu ersten Mal oder leit langer Zeit wieder gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe "Einfach" erfordert minimales Mikromanagement und verzeiht Fehler im Gefecht ohne Umstände.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Die Schwierigkeitsstufe "Normal" erfordert Strategie und Effizienz, doch sie verzeiht wenige Fehler im Gefecht. NICHT ZU EMPGEHLEN für Spieler, die zu ersten Mal gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe "Normal" erfordert Strategie und Effizienz, doch sie verzeiht wenige Fehler im Gefecht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2448,7 +2448,7 @@ Instinkte des Jägers - Nordzwerge erhalten +15 Genauigkeit im Kampf gegen Wesen
       <ID>488</ID>
       <DefaultText>Von allen Rassen der Gottähnlichen wird den Tod-Gottähnlichen am wenigsten getraut. Seltsame Wucherungen verdecken ihre Augen - oder in manch anderen Fällen, das komplette Gesicht - und verleihen ihnen eine unheimliche Erscheinung. Die Geschwüre sind für die Gottähnlichen transparent, doch von außen gesehen undurchsichtig und verstecken deren Gesichtszüge. Die Tod-Gottähnlichen werden bei der Geburt gewöhnlich getötet, weil viele Kulturen sie als Vorboten des Unheils betrachten. 
 
-Gerichtsdiener des Todes - Wenn Tod-Gottähnliche einen Feind angreifen, dessen Ausdauer bei 15% oder weniger liegt, wird ihr Schaden erhöht.</DefaultText>
+Gerichtsdiener des Todes - Wenn Tod-Gottähnliche einen Feind angreifen, dessen Ausdauer bei 25% oder weniger liegt, wird ihr Schaden erhöht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4115,37 +4115,37 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>815</ID>
-      <DefaultText>Hauen</DefaultText>
+      <DefaultText>Hieb</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>816</ID>
-      <DefaultText>Schmettern</DefaultText>
+      <DefaultText>Wucht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>817</ID>
-      <DefaultText>Stechen</DefaultText>
+      <DefaultText>Stich</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>818</ID>
-      <DefaultText>Verbrennen</DefaultText>
+      <DefaultText>Brand</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>819</ID>
-      <DefaultText>Gefrieren</DefaultText>
+      <DefaultText>Frost</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>820</ID>
-      <DefaultText>Schocken</DefaultText>
+      <DefaultText>Schock</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>821</ID>
-      <DefaultText>Korrodieren</DefaultText>
+      <DefaultText>Zersetzung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6045,27 +6045,27 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1203</ID>
-      <DefaultText>{0} Leichter Treffer zu Fehlschlag </DefaultText>
+      <DefaultText>{0} Bereich Leichter Treffer – Fehlschlag</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1204</ID>
-      <DefaultText>{0} Kritischer Treffer zu Treffer umgewandelt</DefaultText>
+      <DefaultText>{0} Bereich Kritischer Treffer – Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1205</ID>
-      <DefaultText>{0} Fehlschlag zu Leichter Treffer umgewandelt</DefaultText>
+      <DefaultText>{0} Bereich Fehlschlag – Leichter Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1206</ID>
-      <DefaultText>{0} Treffer zu Kritischer Treffer umgewandelt</DefaultText>
+      <DefaultText>{0} Bereich Treffer – Kritischer Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1207</ID>
-      <DefaultText>{0} Treffer zu Leichter Treffer umgewandelt</DefaultText>
+      <DefaultText>{0} Bereich Treffer – Leichter Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6100,7 +6100,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1214</ID>
-      <DefaultText>{0} Bereich Leichter Treffer umgewandelt zu Fehlschlag gegen Feinde, die Reflexe angreifen</DefaultText>
+      <DefaultText>{0} Bereich Leichter Treffer - Fehlschlag gegen Feinde, die Reflexe angreifen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6640,12 +6640,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1322</ID>
-      <DefaultText>... aber {1} mit zusätzlichem Effekt.</DefaultText>
+      <DefaultText> ... aber {1} mit zusätzlichem Effekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1323</ID>
-      <DefaultText>... und {1} mit zusätzlichem Effekt.</DefaultText>
+      <DefaultText> ... und {1} mit zusätzlichem Effekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7642,7 +7642,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1524</ID>
-      <DefaultText>Lädt ...</DefaultText>
+      <DefaultText>Lädt ... </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8392,7 +8392,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1675</ID>
-      <DefaultText>{0} Leichter Treffer umgewandelt zu Treffer mit Einhand-Nahkampfwaffen</DefaultText>
+      <DefaultText>{0} Leichter-Treffer-zu-Treffer-Spanne mit Einhand-Nahkampfwaffen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9189,7 +9189,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1835</ID>
-      <DefaultText>Neu erstellen ...</DefaultText>
+      <DefaultText>Neu erstellen ... </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9434,7 +9434,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1884</ID>
-      <DefaultText>: </DefaultText>
+      <DefaultText>:</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9721,46 +9721,6 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     <Entry>
       <ID>1952</ID>
       <DefaultText>{0} zu Faktor des kritischen Schadens gegen Feinde mit geringer Ausdauer</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1953</ID>
-      <DefaultText>Durchschnitt</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1954</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1955</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1960</ID>
-      <DefaultText>Graphics Quality</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1961</ID>
-      <DefaultText>Adjust the game's graphics quality. Use a lower setting if your game runs slowly.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1962</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1963</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1964</ID>
-      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1334</EntryCount>
+  <EntryCount>1332</EntryCount>
   <Entries>
     <Entry>
       <ID>11</ID>
@@ -1232,7 +1232,7 @@
     <Entry>
       <ID>289</ID>
       <DefaultText>Reymonts Leibwächter</DefaultText>
-      <FemaleText>Reymonts Leibwächterin</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>290</ID>
@@ -1317,7 +1317,7 @@
     <Entry>
       <ID>306</ID>
       <DefaultText>Dunryd-Agent</DefaultText>
-      <FemaleText>Dunryd-Agentin</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>307</ID>
@@ -1327,7 +1327,7 @@
     <Entry>
       <ID>308</ID>
       <DefaultText>Süchtiger</DefaultText>
-      <FemaleText>Süchtige</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>309</ID>
@@ -2066,7 +2066,7 @@
     </Entry>
     <Entry>
       <ID>461</ID>
-      <DefaultText>Flammenwand</DefaultText>
+      <DefaultText>Flammenwand-Falle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2821,7 +2821,7 @@
     </Entry>
     <Entry>
       <ID>617</ID>
-      <DefaultText>Kraftwand</DefaultText>
+      <DefaultText>Kraftwand-Falle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3326,7 +3326,7 @@
     </Entry>
     <Entry>
       <ID>720</ID>
-      <DefaultText>Berath-Akolyth</DefaultText>
+      <DefaultText>Berath-Akolyth </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5336,7 +5336,7 @@
     </Entry>
     <Entry>
       <ID>1127</ID>
-      <DefaultText>Krieger</DefaultText>
+      <DefaultText>Kriegerin</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5466,7 +5466,7 @@
     </Entry>
     <Entry>
       <ID>1153</ID>
-      <DefaultText>Reißzähne-Klingenkämpferin</DefaultText>
+      <DefaultText>Reißzähne-Klingenkämpfer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6662,16 +6662,6 @@
     <Entry>
       <ID>1425</ID>
       <DefaultText>Attentäter</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1436</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1437</ID>
-      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

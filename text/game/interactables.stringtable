@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\interactables</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>765</EntryCount>
+  <EntryCount>766</EntryCount>
   <Entries>
     <Entry>
       <ID>5</ID>
@@ -201,7 +201,7 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Dies ist das Symbol von Abydon - ein kolossaler Schmiedehammer über einem kreisrunden Zahnrad. Es ist glatt und glänzt vor schmierendem Öl.</DefaultText>
+      <DefaultText> Dies ist das Symbol von Abydon - ein kolossaler Schmiedehammer über einem kreisrunden Zahnrad. Es ist glatt und glänzt vor schmierendem Öl.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,7 +366,7 @@
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>Diese Frau scheint aus der Felswand des Berges herauszukommen. Sie ist kaum mehr als ein in eine Robe gehülltes Skelett, und ihr Starren ist auf die massive Tür fixiert.</DefaultText>
+      <DefaultText> Diese Frau scheint aus der Felswand des Berges herauszukommen. Sie ist kaum mehr als ein in eine Robe gehülltes Skelett, und ihr Starren ist auf die massive Tür fixiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -566,7 +566,7 @@
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>Die über dem Beckenrand hängende Leiche ist schmerzverzerrt wohl in den letzten Zuckungen liegengeblieben. Seine verfaulten, skelettierten Hände greifen immer noch in Richtung seines Halses.</DefaultText>
+      <DefaultText>Die über dem Beckenrand hängende Leiche ist schmerzverzerrt wohl in den letzten Zuckungen liegengeblieben. Seine verfaulten, skelettierten Hände greifen immer noch in Richtung seines Halses. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -721,7 +721,7 @@
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>Das Gras hinter den Wagenrädern ist immer noch zu Boden gepresst. Mehrere Fässer mit Kohlköpfen, Kartoffeln und Kürbissen wurden umgestürzt und liegengelassen.</DefaultText>
+      <DefaultText>Das Gras hinter den Wagenrädern ist immer noch zu Boden gepresst. Mehrere Fässer mit Kohlköpfen, Kartoffeln und Kürbissen wurden umgestürzt und liegengelassen. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1388,7 +1388,7 @@ Süd nach Goldtal</DefaultText>
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>Rinattos Waren</DefaultText>
+      <DefaultText>Rinattos Waren </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1813,7 +1813,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>439</ID>
-      <DefaultText>Der über dem gefrorenen See hängende Frost entzieht der Luft alle Wärme.</DefaultText>
+      <DefaultText>Der über dem gefrorenen See hängende Frost entzieht der Luft alle Wärme. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2178,7 +2178,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>523</ID>
-      <DefaultText>Diese abgenutzten Steine waren Jahrhunderte lang Wind und Regen ausgesetzt.</DefaultText>
+      <DefaultText>Diese abgenutzten Steine waren Jahrhunderte lang Wind und Regen ausgesetzt. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2530,7 +2530,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>596</ID>
-      <DefaultText>Diese Buchungen zeigen die aktuellen Preise für eine Reihe von Gütern. Außerdem verfolgen sie den laufen Wechselkurs für den vailianischen Lusce.</DefaultText>
+      <DefaultText>Diese Buchungen zeigen die aktuellen Preise für eine Reihe von Gütern. Außerdem verfolgen sie den laufen Wechselkurs für den vailianischen Lusce. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2959,7 +2959,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>682</ID>
-      <DefaultText>Durch das Fenster auf der anderen Seite des Vorhangs sieht man auf die perfekt gepflegten Reihen eines Heckenlabyrinths hinab.</DefaultText>
+      <DefaultText>Durch das Fenster auf der anderen Seite des Vorhangs sieht man auf die perfekt gepflegten Reihen eines Heckenlabyrinths hinab. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2969,7 +2969,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>684</ID>
-      <DefaultText>Hinter dem Haus geht die Wildnis des Dyrwalds weiter.</DefaultText>
+      <DefaultText>Hinter dem Haus geht die Wildnis des Dyrwalds weiter. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3094,7 +3094,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>705</ID>
-      <DefaultText>"Geleitet von Fragen und erfüllt mit Antworten sind die Suchenden von Wael."</DefaultText>
+      <DefaultText>"Geleitet von Fragen und erfüllt mit Antworten sind die Suchenden von Wael." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3114,7 +3114,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>710</ID>
-      <DefaultText>Auf ineinander verschlungenen Ringen sind merkwürdige Symbole eingraviert. Sie gleiten mit einer Reihe leiser Klickgeräusche übereinander.</DefaultText>
+      <DefaultText>Auf ineinander verschlungenen Ringen sind merkwürdige Symbole eingraviert. Sie gleiten mit einer Reihe leiser Klickgeräusche übereinander. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3323,7 +3323,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>752</ID>
-      <DefaultText>In staubigen alten Bestandsbüchern lassen sich die von Bauernhöfen in Goldtal gezahlten Steuern bis ins Jahr 2632 zurückverfolgen.</DefaultText>
+      <DefaultText>In staubigen alten Bestandsbüchern lassen sich die von Bauernhöfen in Goldtal gezahlten Steuern bis ins Jahr 2632 zurückverfolgen. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3498,7 +3498,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>787</ID>
-      <DefaultText>Unter dem Schlag dieses Bettzeugs wurde eine Art Reliquie versteckt - ein mit Seetang überzogenes Muschelhorn.</DefaultText>
+      <DefaultText>Unter dem Schlag dieses Bettzeugs wurde eine Art Reliquie versteckt - ein mit Seetang überzogenes Muschelhorn. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3882,6 +3882,11 @@ Süd nach Salzigen Mast</DefaultText>
     <Entry>
       <ID>867</ID>
       <DefaultText>Laden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>886</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

@@ -38,7 +38,7 @@ Aus dem Schatten kommt ein über drei Meter großer, muskelbepackter Oger heraus
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Korgraks wütendes Knurren gibt den Blick auf riesige gelbe Zähne frei. "Ich habe mich bemüht, Gestandene zu meiden. Besonders solche, die Suchmannschaften aufstellen könnten."
+      <DefaultText>Korgraks wütendes Knurren gibt den Blick auf riesige gelbe Zähne frei. "Ich habe mich bemüht, Leute zu meiden. Besonders solche, die Suchmannschaften aufstellen könnten."
 
 Er kratzt seine Fingerknöchel und äugt dich an. "Hier ist sie nie vorbeigekommen, da bin ich mir sicher."</DefaultText>
       <FemaleText />
@@ -94,7 +94,7 @@ Dann schließlich lässt er seine Keule fallen.
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Ich verstecke mich vor Leuten wir dir." Er kratzt an einem Stoßzahn und starrt dich an. "Gestandene, von seltsamen Stürmen aus ihren Heimstätten getrieben. Banditen auf der Suche nach Blut und Gold. In der Nähe von Gestandenen ist meine Sorte bestenfalls unsicher ... aber jetzt? Die Gemüter erhitzen sich, und bei euren Alchemisten steht Ogerblut hoch im Kurs."
+      <DefaultText>"Ich verstecke mich vor Leuten wir dir." Er kratzt an einem Stoßzahn und starrt dich an. "Gefolge, von seltsamen Stürmen aus ihren Heimstätten getrieben. Banditen auf der Suche nach Blut und Gold. In der Nähe von Menschen ist meine Sorte bestenfalls unsicher ... aber jetzt? Die Gemüter erhitzen sich, und bei euren Alchemisten steht Ogerblut hoch im Kurs."
 
 Er greift seine Keule noch fester.</DefaultText>
       <FemaleText />
@@ -175,7 +175,7 @@ Der Oger schnaubt und festigt den Griff um seine Keule. "Ich habe zurückgezogen
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Er hämmert seine Keule in den Boden. "Ich hab's doch schon gesagt! Den Gestandenen auf der Straße hungert es heutzutage nach allem, was sie essen oder verkaufen können. Im Freien würde ich keine Woche überstehen. Nicht alleine."</DefaultText>
+      <DefaultText>Er hämmert seine Keule in den Boden. "Ich hab's doch schon gesagt! Den Leuten auf der Straße hungert es heutzutage nach allem, was sie essen oder verkaufen können. Im Freien würde ich keine Woche überstehen. Nicht alleine."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -242,7 +242,7 @@ Hiravias zuckt mit den Achseln und lächelt Korgrak an. "Den Druiden wird es woh
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Ich habe einmal von einem Reisenden gehört, dass in Zwillingsulmen Oger friedlich neben Gestandenen leben sollen."
+      <DefaultText>"Ich habe einmal von einem Reisenden gehört, dass in Zwillingsulmen Oger friedlich neben Menschen leben sollen."
 
 "Wahrscheinlich haben sie lieber diesen Oger in der Stadt als noch einen Dyrwäldler."</DefaultText>
       <FemaleText />
@@ -318,7 +318,7 @@ Er schwingt sich seine Keule auf die Schulter, schaut zur Höhlenöffnung und ze
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Ich habe mich bemüht, Gestandene zu meiden. Besonders solche, die Suchmannschaften aufstellen könnten."
+      <DefaultText>"Ich habe mich bemüht, Leute zu meiden. Besonders solche, die Suchmannschaften aufstellen könnten."
 
 "Nein, ich habe sie nicht gesehen."</DefaultText>
       <FemaleText />

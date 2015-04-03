@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Um ein Mitglied deiner Gruppe auszuwählen, klicke auf seinen/ihren Auswahlkreis oder sein/ihr Porträt oder drücke die Zifferntaste, die seiner Position in der Gruppe entspricht - beginnend auf der linken Seite mit der 1. Um mehrere Gruppenmitglieder auszuwählen, klicke auf einen beliebigen Punkt auf dem Bildschirm, halte die Maustaste gedrückt und ziehe den Cursor über die Kreise der Mitglieder, die du auswählen möchtest.</DefaultText>
+      <DefaultText>Um ein Mitglied deiner Gruppe auszuwählen, klicke auf seinen Auswahlkreis oder sein Porträt oder drücke die Zifferntaste, die seiner Position in der Gruppe entspricht - beginnend auf der linken Seite mit der 1. Um mehrere Gruppenmitglieder auszuwählen, klicke auf einen beliebigen Punkt auf dem Bildschirm, halte die Maustaste gedrückt und ziehe den Cursor über die Kreise der Mitglieder, die du auswählen möchtest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Um ausgewählte Charaktere zu bewegen, klicke auf einen beliebigen Punkt auf den Bildschirm, an dem der Cursor sich in einen Kreis aus vier Keilen verwandelt. Alle ausgewählten Charaktere bewegen sich zum gewählten Ziel an ihren Platz in der Formation. Wenn du einen durchgestrichenen roten Kreis siehst, kannst du dich auf diesem Teil der Karte nicht fortbewegen.</DefaultText>
+      <DefaultText>Um ausgewählte Charaktere zu bewegen, klicke auf einen beliebigen Punkt auf den Bildschirm, an dem Cursor sich in einen Kreis aus vier Keilen verwandelt. Alle ausgewählten Charaktere bewegen sich am gewählten Ziel an ihren Platz in der Formation. Wenn du einen durchgestrichenen roten Kreis siehst, kannst du dich auf diesem Teil der Karte nicht fortbewegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Autsch! Wenn die Ausdauer eines Gruppenmitglieds auf 0 sinkt, wird es bewusstlos. Es kann dann nicht länger kämpfen. Gewinnt deine Gruppe aber den Kampf, regeneriert das Mitglied nach dem Kampfende seine Ausdauer. Die Ausdauer regeneriert sich zwar nach dem Kampf, die Gesundheit jedoch nicht. Behalte die Anzeige links neben dem Charakterporträt im Auge, um zu verhindern, dass du verstümmelt oder getötet wirst.</DefaultText>
+      <DefaultText>Autsch! Wenn die Ausdauer eines Gruppenmitglieds auf 0 sinkt, wird es bewusstlos. Es kann dann nicht länger kämpfen. Gewinnt eure Gruppe aber den Kampf, regeneriert das Mitglied nach dem Kampfende seine Ausdauer. Die Ausdauer regeneriert sich zwar nach dem Kampf, die Gesundheit jedoch nicht. Behalte die Anzeige links neben dem Charakterporträt im Auge, um zu verhindern, dass du Verstümmelt oder Getötet wirst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Du hast Rastvorräte gefunden. Damit kannst du dich in der Wildnis oder in Verliesen ausruhen, um die Fähigkeiten und die Gesundheit deiner Charaktere vollständig zu regenerieren. Im leichten Schwierigkeitsgrad kannst du mehrere Rastvorräte mit dir führen, im schweren Schwierigkeitsgrad ist die maximale Anzahl stark eingeschränkt. Wenn dir die Rastvorräte ausgehen, versuche ein Gasthaus zu finden. In den meisten Gasthäusern kannst du dir billig ein Zimmer mieten.</DefaultText>
+      <DefaultText>Du hast Rastvorräte gefunden. Damit kannst du dich in der Wildnis oder in Verliesen ausruhen, um die Fähigkeiten und die Gesundheit deiner Charaktere voll zu regenerieren. Im leichten Schwierigkeitsgrad kannst du mehrere Rastvorräte mit dir führen, im schweren Schwierigkeitsgrad ist die maximale Anzahl stark eingeschränkt. Wenn dir die Rastvorräte ausgehen, versuche ein Gasthaus zu finden. In den meisten Gasthäusern kannst du dir billig ein Zimmer mieten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,12 +111,12 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Oh-oh. Wenn die Gesundheitsanzeige eines Charakters anfängt rot zu blinken, ist das ein Zeichen, dass er bald verstümmelt oder getötet wird. Ruhe dich in einem Gasthaus aus oder setze Rastvorräte ein, um deine Gesundheit vollständig zu regenerieren.</DefaultText>
+      <DefaultText>Oh-oh. Wenn die Gesundheitsanzeige eines Charakters anfängt rot zu blinken, ist das ein Zeichen, dass er bald Verstümmelt oder Getötet wird. Ruhe dich in einem Gasthaus aus oder setze Rastvorräte ein, um deine Gesundheit voll zu regenerieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Wenn die Gesundheit auf 0 sinkt, fällt der Charakter sofort zu Boden. Je nach Schwierigkeitsgrad wird der Charakter entweder verstümmelt oder getötet. Ein verstümmelter Charakter wird mit einem schweren Kampfmalus belegt und stirbt, wenn er zusätzlichen Schaden erleidet. Getötete Charaktere sind einfach tot ... und in Pillars of Eternity ist der Tod endgültig.</DefaultText>
+      <DefaultText>Wenn die Gesundheit auf 0 sinkt, fällt der Charakter sofort zu Boden. Je nach Schwierigkeitsgrad wird der Charakter entweder Verstümmelt oder Getötet. Ein Verstümmelter Charakter wird mit einem schweren Kampfmalus belegt und stirbt, wenn er zusätzlichen Schaden erleidet. Getötete Charaktere sind einfach tot ... und in Pillars of Eternity ist der Tod endgültig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -160,7 +160,7 @@ Die Fähigkeit eines Charakters, verborgene Objekte zu finden, basiert auf seine
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Klicke auf einen Gesang, um ihn auszuwählen. Phrasen, auf die du im linken Fenster klickst, werden dem gewählten Gesang hinzugefügt. Wenn du eine Phrase entfernen willst, klicke im Gesang auf die Phrase.</DefaultText>
+      <DefaultText>Klicke auf einen Gesang, um ihn auszuwählen. Phrasen, auf die du im linken Fenster klickst, werden dem gewählten Gesang hinzugefügt. Wenn du eine Phrase entfernen willst, klicke im Gesag auf die Phrase.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Korrosionsfest</DefaultText>
+      <DefaultText>Rostfest</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,12 +156,12 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Korrosionspeitsche</DefaultText>
+      <DefaultText>Rostpeitsche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Hiebpeitsche</DefaultText>
+      <DefaultText>Zerschlagungspeitsche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Stichpeitsche</DefaultText>
+      <DefaultText>Schnittpeitsche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,12 +331,12 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Erschlagen (Bestie)</DefaultText>
+      <DefaultText>Erschlagen (Faunisch)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Erschlagen (Humanoid)</DefaultText>
+      <DefaultText>Erschlagen (Hominid)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1929</EntryCount>
+  <EntryCount>1937</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -141,7 +141,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Fortfahren</DefaultText>
+      <DefaultText>Weiter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Cliaban Ruillaig</DefaultText>
+      <DefaultText>Cliaban Rilaig</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,12 +266,12 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>{0} {1} {2} für {3} {4}schaden{5}.</DefaultText>
+      <DefaultText>{0} {1} {2} für {3} {4} Schaden{5}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>{0} {1} {2} für {3} {4}schaden beim Absetzen.</DefaultText>
+      <DefaultText>{0} {1} {2} für {3} {4} Schaden beim Absetzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,7 +356,7 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Wucht</DefaultText>
+      <DefaultText>Schmetter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,12 +366,12 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Brand</DefaultText>
+      <DefaultText>Brennen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Frost</DefaultText>
+      <DefaultText>Gefrieren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -381,7 +381,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Zersetzung</DefaultText>
+      <DefaultText>Korrodieren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -496,17 +496,17 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>{1} tötet {0}.</DefaultText>
+      <DefaultText>{1} tötete {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>{1} schlägt {0} bewusstlos.</DefaultText>
+      <DefaultText>{1} schlug {0} bewusstlos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>{0} greift {1} im Nahkampf an.</DefaultText>
+      <DefaultText>{0} griff {1} im Nahkampf an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -621,7 +621,7 @@
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>{2} fügt {0} {1}&#2060;schaden zu.</DefaultText>
+      <DefaultText>{2} fügt {0} {1} Schaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -766,7 +766,7 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>In der Schwierigkeitsstufe "Pfad der Verdammten" erhalten Feinde einen Bonus von 50 % auf die meisten Werte, und in Gefechten erscheinen mehr Feinde. Diese Option kann während des laufenden Spiels nicht angepasst werden.</DefaultText>
+      <DefaultText>In der Schwierigkeitsstufe "Pfad der Verdammten" erhalten Feinde einen Bonus auf die meisten Werte, und in Gefechten erscheinen mehr Feinde. Diese Option kann während des laufenden Spiels nicht angepasst werden. Sie ist nur für Spieler, die große Herausforderungen schätzen!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -816,12 +816,12 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Die Schwierigkeitsstufe "Einfach" erfordert minimales Mikromanagement und verzeiht Fehler im Gefecht ohne Umstände.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe "Einfach" erfordert minimales Mikromanagement und verzeiht Fehler im Gefecht ohne Umstände. SEHR EMPFOHLEN für Spieler, die zu ersten Mal oder leit langer Zeit wieder gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Die Schwierigkeitsstufe "Normal" erfordert Strategie und Effizienz, doch sie verzeiht wenige Fehler im Gefecht.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe "Normal" erfordert Strategie und Effizienz, doch sie verzeiht wenige Fehler im Gefecht. NICHT ZU EMPGEHLEN für Spieler, die zu ersten Mal gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2181,17 +2181,17 @@
     </Entry>
     <Entry>
       <ID>438</ID>
-      <DefaultText>Leichte</DefaultText>
+      <DefaultText>Leicht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>439</ID>
-      <DefaultText>Mittlere</DefaultText>
+      <DefaultText>Mittel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>440</ID>
-      <DefaultText>Schwere</DefaultText>
+      <DefaultText>Schwer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2381,17 +2381,17 @@
     </Entry>
     <Entry>
       <ID>478</ID>
-      <DefaultText>Die Gottähnlichen sind Kinder des Volkes („zivilisierte“ Rassen), die mit körperlichen Aspekten gesegnet worden sind, die mit den Göttern assoziiert werden (auch wenn manche dies nicht als Segen betrachten). Diese Aspekte können viele Formen annehmen und stehen oftmals mit mystischen Kräften in Verbindung. Die meisten Gottähnlichen haben eine ungewöhnliche Kopfform und können daher keine schützende Kopfbedeckung tragen. Aufgrund ihrer ungewöhnlichen Natur und ihrer Unfähigkeit, sich zu reproduzieren, werden die Gottähnlichen oftmals mit Furcht und Bewunderung betrachtet.</DefaultText>
+      <DefaultText>Die Gottähnlichen sind Kinder der Gestandenen („zivilisierte“ Rassen), die mit körperlichen Aspekten gesegnet worden sind, die mit den Göttern assoziiert werden (auch wenn manche dies nicht als Segen betrachten). Diese Aspekte können viele Formen annehmen und stehen oftmals mit mystischen Kräften in Verbindung. Die meisten Gottähnlichen haben eine ungewöhnliche Kopfform und können daher keine schützende Kopfbedeckung tragen. Aufgrund ihrer ungewöhnlichen Natur und ihrer Unfähigkeit, sich zu reproduzieren, werden die Gottähnlichen oftmals mit Furcht und Bewunderung betrachtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>479</ID>
-      <DefaultText>Orlaner sind die Kleinste der Rassen des Volkes, obwohl viele Kulturen sie überhaupt nicht als zivilisiert betrachten. Orlaner stechen auch wegen ihrer großen Ohren, ihrer zweifarbigen Haut und ihrer behaarten Körper hervor, und man findet sie gewöhnlich in Eir Glanfath, den Ixamitl-Ebenen und Teilen des Dyrwaldes. Sie sind bekannt für ihre mentale Stärke und ihre Schnelligkeit.</DefaultText>
+      <DefaultText>Orlaner sind die Kleinste der Rassen der Gestandenen, obwohl viele Kulturen sie überhaupt nicht als zivilisiert betrachten. Orlaner stechen auch wegen ihrer großen Ohren, ihrer zweifarbigen Haut und ihrer behaarten Körper hervor, und man findet sie gewöhnlich in Eir Glanfath, den Ixamitl-Ebenen und Teilen des Dyrwaldes. Sie sind bekannt für ihre mentale Stärke und ihre Schnelligkeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>480</ID>
-      <DefaultText>Die mächtigen Aumaua sind die größten der Rassen des Volkes und können gewöhnlich in oder in der Nähe von Ozeanen gefunden werden. Auch wenn nicht wirklich aquatisch, haben sie eine Affinität zu Wasser, und viele ihrer Zivilisationen, wie die Rauatai, basieren auf der Herrschaft über die See. Sie sind bekannt für ihre beispiellose Stärke.</DefaultText>
+      <DefaultText>Die mächtigen Aumaua sind die größten der Rassen der Gestandenen und können gewöhnlich in oder in der Nähe von Ozeanen gefunden werden. Auch wenn nicht wirklich aquatisch, haben sie eine Affinität zu Wasser, und viele ihrer Zivilisationen, wie die Rauatai, basieren auf der Herrschaft über die See. Sie sind bekannt für ihre beispiellose Stärke.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2426,12 +2426,12 @@ Entfernungsvorteil - Waldelfen erhalten einen Bonus auf Genauigkeit, Abwehr und 
       <ID>485</ID>
       <DefaultText>Es ist unklar, wie lange es her ist, dass die Bleichelfen (Glamfellen) in die südlichen Polarregionen der Welt kamen. Basierend auf ihrem durchgehenden Kontakt mit den Aumaua-Händlern leben sie dort bereits seit mindestens 12.000 Jahren. Sie scheinen eine der am stärksten ortsgebundenen ethnischen Gruppen der bekannten Welt zu sein. Sie wandern innerhalb der Polarregion umher, wagen sich aber nur selten in den Norden. Sie sind in allen nördlichen Ländern selten, und die meisten Menschen betrachten sie als exotisch (falls sie überhaupt einen gesehen haben). 
 
-Elementare Geduld - Alle Bleichelfen haben erhöhte Schadensreduktionen gegen Brand- und Frostschaden.</DefaultText>
+Elementare Geduld - Alle Bleichelfen haben erhöhte Schadensreduktionen gegen Verbrennungs- und Frostschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>486</ID>
-      <DefaultText>Bergzwerge (Aptapo) stammen aus der Region östlich des Dyrwaldes und haben sich in dieser Gegend mehrmals ausgebreitet. Anders als die ebenso sehr kleinen Orlaner, die regelmäßig unterjocht werden, haben die Aptapo Bedrohungen durch größere Leute immer direkt zurückgeschlagen und sich dazu entschieden, ihre Wohnorte zu befestigen, statt weiterzuziehen. Bergzwerge sind in den Vailianischen Republiken verbreitet, im Dyrwald und in Readceras werden sie jedoch nicht so häufig gesehen. 
+      <DefaultText>Bergzwerge (Aptapo) stammen aus der Region östlich des Dyrwaldes und haben sich in dieser Gegend mehrmals ausgebreitet. Anders als die ebenso sehr kleinen Orlaner, die regelmäßig unterjocht werden, haben die Aptapo Bedrohungen durch größere Gestandene immer direkt zurückgeschlagen und sich dazu entschieden, ihre Wohnorte zu befestigen, statt weiterzuziehen. Bergzwerge sind in den Vailianischen Republiken verbreitet, im Dyrwald und in Readceras werden sie jedoch nicht so häufig gesehen. 
 
 Gesund und Zäh - Bergzwerge erhalten einen Bonus auf die Verteidigung gegen Gift- und Krankheitsangriffe.</DefaultText>
       <FemaleText />
@@ -2448,7 +2448,7 @@ Instinkte des Jägers - Nordzwerge erhalten +15 Genauigkeit im Kampf gegen Wesen
       <ID>488</ID>
       <DefaultText>Von allen Rassen der Gottähnlichen wird den Tod-Gottähnlichen am wenigsten getraut. Seltsame Wucherungen verdecken ihre Augen - oder in manch anderen Fällen, das komplette Gesicht - und verleihen ihnen eine unheimliche Erscheinung. Die Geschwüre sind für die Gottähnlichen transparent, doch von außen gesehen undurchsichtig und verstecken deren Gesichtszüge. Die Tod-Gottähnlichen werden bei der Geburt gewöhnlich getötet, weil viele Kulturen sie als Vorboten des Unheils betrachten. 
 
-Gerichtsdiener des Todes - Wenn Tod-Gottähnliche einen Feind angreifen, dessen Ausdauer bei 25% oder weniger liegt, wird ihr Schaden erhöht.</DefaultText>
+Gerichtsdiener des Todes - Wenn Tod-Gottähnliche einen Feind angreifen, dessen Ausdauer bei 15% oder weniger liegt, wird ihr Schaden erhöht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2521,7 +2521,7 @@ Schleichangriff - Erhöht die Waffenangriffe des Schurken im Fern- und Nahkampf 
       <DefaultText>Priester sind Anhänger von Eoras Gottheiten und Praktizierende religiöser Magie. Obwohl alle Priester sich einem spezifischen Gott widmen, rührt die tatsächliche Kraft des Priesters von seinen persönlichen Überzeugungen her. Im Gegensatz zu den meisten Paladinen tendieren Priester dazu, sich auf Philosophie, Lehre und die Beziehung zwischen religiösen Organisationen und dem gewöhnlichen Volk zu konzentrieren. In jedem beliebigen Teil der Welt hängt die Aufnahme von Priestern sehr stark davon ab, wie ihr Gott von den dort ansässigen Menschen, verehrt – oder verschmäht – wird. 
 
 Anfängliche Fähigkeiten:
-Heiliger Glanz - Generiert eine bescheidene Menge an Ausdauer für Verbündete in der Nähe des Priesters. Alle feindlichen Besessenen im Wirkungsbereich erleiden Brandschaden und werden möglicherweise Verängstigt. Im Laufe des Spiels kann die Macht dieser Fähigkeit sich verändern - basierend darauf, wie sehr der Ruf des Priesters mit dem von seiner Gottheit bevorzugten Verhalten im Einklang steht.
+Heiliger Glanz - Generiert eine bescheidene Menge an Ausdauer für Verbündete in der Nähe des Priesters. Alle feindlichen Besessenen im Wirkungsbereich erleiden Verbrennungsschaden und werden möglicherweise Verängstigt. Im Laufe des Spiels kann die Macht dieser Fähigkeit sich verändern - basierend darauf, wie sehr der Ruf des Priesters mit dem von seiner Gottheit bevorzugten Verhalten im Einklang steht.
 Zauber - Priester haben Zugang zu verschiedenen Unterstützungszaubern und einigen Angriffszaubern. Bei jedem zweiten Stufenaufstieg erhält der Priester automatisch Zugang zu neuen Zaubern. Anfänglich können sie ihre Zauber nur begrenzt oft pro Ruhephase einsetzen. Wenn der Priester mächtiger wird, gehen seine schwächeren Zauber nach und nach zu einem Limit pro Begegnung über.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2530,7 +2530,7 @@ Zauber - Priester haben Zugang zu verschiedenen Unterstützungszaubern und einig
       <DefaultText>Die Meister der gelehrten Magie – Zauberer sind Schüler von geheimnisvollen Traditionen, die bis jenseits der aufgezeichneten Geschichte zurückreichen. Zauberer sind eine höchst organisierte Gruppe, die oftmals Akademien oder Gilden bilden, die sich der Forschung und der Ausbildung des magischen Studiums widmen. Sie bevorzugen dabei Umgebungen, in denen Nachforschungen, Experimentieren, Debattieren und die Verbreitung von Wissen gefördert wird. Viele ausgebildete Zauberer wurden schließlich für ihre Exzentrik, ihr Ego und ihr unstillbares Interesse an geheimen und okkulten Dingen bekannt. 
 
 Anfängliche Fähigkeiten:
-Arkaner Angriff - Angriff mit mittlerer Reichweite, der in einem kleinen Bereich direkten Schaden anrichtet und Ziele mit dem Status Benommen belegen kann.
+Arkaner Angriff - Angriff mit mittlerer Reichweite, der in einem kleinen Bereich reinen Schaden anrichtet und Ziele mit dem Status Benommen belegen kann.
 Zauber - Zauberer haben Zugang zu verschiedenen Angriffs- und persönlichen Verteidigungszaubern. Im Gegensatz zu Priestern und Druiden lernen Zauberer einzelne Zaubersprüche, die sie in ihren Zauberbüchern notieren und direkt von dort aus wirken. Zauberbücher können nur jeweils vier Zaubersprüche jeder Stufe beinhalten, weshalb Zauberer mehrere Zauberbücher für unterschiedliche Bedürfnisse mit sich tragen. Bei jedem zweiten Stufenaufstieg erhalten Zauberer Zugang zu neuen Zaubern. Allerdings können sie bei jedem Stufenaufstieg automatisch einen Zauberspruch einer beliebigen Stufe lernen, zu der sie bereits Zugang haben. Zauberer können außerdem Zaubersprüche aus Zauberbüchern lernen, die sie finden oder kaufen. Anfänglich können sie ihre Zauber nur begrenzt oft pro Ruhephase einsetzen. Wenn die Zauberer mächtiger werden, gehen ihre schwächeren Zauber nach und nach zu einem Limit pro Begegnung über.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2875,7 +2875,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>563</ID>
-      <DefaultText>Lager</DefaultText>
+      <DefaultText>Versteck</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3205,7 +3205,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>629</ID>
-      <DefaultText>Die Bibliothek von Caed Nua enthält unzählige Bände alten Wissens. Durch den Ausbau der Bibliothek erhältst du einen Wissensbonus, wenn in Leuchthöhle gerastet wird.</DefaultText>
+      <DefaultText>Die Bibliothek von Caed Nua enthält unzählige Bänder alten Wissens. Durch den Ausbau der Bibliothek erhältst du einen Wissensbonus, wenn in Leuchthöhle gerastet wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4115,37 +4115,37 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>815</ID>
-      <DefaultText>Hieb</DefaultText>
+      <DefaultText>Hauen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>816</ID>
-      <DefaultText>Wucht</DefaultText>
+      <DefaultText>Schmettern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>817</ID>
-      <DefaultText>Stich</DefaultText>
+      <DefaultText>Stechen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>818</ID>
-      <DefaultText>Brand</DefaultText>
+      <DefaultText>Verbrennen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>819</ID>
-      <DefaultText>Frost</DefaultText>
+      <DefaultText>Gefrieren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>820</ID>
-      <DefaultText>Schock</DefaultText>
+      <DefaultText>Schocken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>821</ID>
-      <DefaultText>Zersetzung</DefaultText>
+      <DefaultText>Korrodieren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4160,12 +4160,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>824</ID>
-      <DefaultText>{0} wirkt {2} auf {1}.</DefaultText>
+      <DefaultText>{0} wirkt auf {1} mit {2}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>825</ID>
-      <DefaultText>{0} wirkt {2} auf {1} für {3} Sekunden.</DefaultText>
+      <DefaultText>{0} wirkt {3} Sekunden auf {1} mit {2}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4955,12 +4955,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>983</ID>
-      <DefaultText>Farbenblind-Modus</DefaultText>
+      <DefaultText>Farbenblinder Modus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>984</ID>
-      <DefaultText>Wenn diese Option aktiviert ist, können Gewalteffekte verwendet werden, wenn Feinde getötet werden.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert ist, können „Führungs“-Effekte verwendet werden, wenn Feinde getötet werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5605,7 +5605,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1115</ID>
-      <DefaultText>{0} {1}schaden</DefaultText>
+      <DefaultText>{0} {1} Schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5665,7 +5665,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1127</ID>
-      <DefaultText>{0} {1}&#2060;schaden</DefaultText>
+      <DefaultText>{0} {1} Schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5695,7 +5695,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1133</ID>
-      <DefaultText>{0} {1}&#2060;schaden pro Wunde</DefaultText>
+      <DefaultText>{0} {1} Schaden pro Wunde</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6045,27 +6045,27 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1203</ID>
-      <DefaultText>{0} Bereich Leichter Treffer – Fehlschlag</DefaultText>
+      <DefaultText>{0} Leichter Treffer zu Fehlschlag </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1204</ID>
-      <DefaultText>{0} Bereich Kritischer Treffer – Treffer</DefaultText>
+      <DefaultText>{0} Kritischer Treffer zu Treffer umgewandelt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1205</ID>
-      <DefaultText>{0} Bereich Fehlschlag – Leichter Treffer</DefaultText>
+      <DefaultText>{0} Fehlschlag zu Leichter Treffer umgewandelt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1206</ID>
-      <DefaultText>{0} Bereich Treffer – Kritischer Treffer</DefaultText>
+      <DefaultText>{0} Treffer zu Kritischer Treffer umgewandelt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1207</ID>
-      <DefaultText>{0} Bereich Treffer – Leichter Treffer</DefaultText>
+      <DefaultText>{0} Treffer zu Leichter Treffer umgewandelt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6100,7 +6100,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1214</ID>
-      <DefaultText>{0} Bereich Leichter Treffer - Fehlschlag gegen Feinde, die Reflexe angreifen</DefaultText>
+      <DefaultText>{0} Bereich Leichter Treffer umgewandelt zu Fehlschlag gegen Feinde, die Reflexe angreifen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6460,7 +6460,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1286</ID>
-      <DefaultText>Gewaltdarstellung</DefaultText>
+      <DefaultText>Führungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6640,12 +6640,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1322</ID>
-      <DefaultText> ... aber {1} mit zusätzlichem Effekt.</DefaultText>
+      <DefaultText>... aber {1} mit zusätzlichem Effekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1323</ID>
-      <DefaultText> ... und {1} mit zusätzlichem Effekt.</DefaultText>
+      <DefaultText>... und {1} mit zusätzlichem Effekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6675,7 +6675,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1329</ID>
-      <DefaultText>{0}&#2060;schaden</DefaultText>
+      <DefaultText>{0} Schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7130,17 +7130,17 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1422</ID>
-      <DefaultText>Kleiner</DefaultText>
+      <DefaultText>Klein</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1423</ID>
-      <DefaultText>Mittlerer</DefaultText>
+      <DefaultText>Mittel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1424</ID>
-      <DefaultText>Großer</DefaultText>
+      <DefaultText>Groß</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7350,7 +7350,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1466</ID>
-      <DefaultText>Druiden wählen eine Schadensart (Hieb-, Stich-, Wucht-, Brand-, Zersetzungs-, Frost- oder Schockschaden), die jedem eingesetzten Angriff hinzugefügt wird, der einem Ziel eine dieser Schadensarten zufügt.</DefaultText>
+      <DefaultText>Druiden wählen eine Schadensart (Hieb-, Stich-, Schmetter-, Verbrennungs-, Korrosions-, Frost- oder Elektroschockschaden), die jedem eingesetzten Angriff hinzugefügt wird, der einem Ziel eine dieser Schadensarten zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7642,7 +7642,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1524</ID>
-      <DefaultText>Lädt ... </DefaultText>
+      <DefaultText>Lädt ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7682,7 +7682,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1532</ID>
-      <DefaultText>Entzieht {0} {1}&#2060;schaden als Ausdauer</DefaultText>
+      <DefaultText>Entzieht {0} {1} Schaden als Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7942,7 +7942,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1584</ID>
-      <DefaultText>{0} {1}&#2060;schaden erlitten</DefaultText>
+      <DefaultText>{0} {1} Schaden erlitten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8382,7 +8382,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1673</ID>
-      <DefaultText>{0} {1}&#2060;schaden an selbst beim Angriff mit Werkzeugen</DefaultText>
+      <DefaultText>{0} {1} Schaden an selbst beim Angriff mit Werkzeugen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8392,7 +8392,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1675</ID>
-      <DefaultText>{0} Leichter-Treffer-zu-Treffer-Spanne mit Einhand-Nahkampfwaffen</DefaultText>
+      <DefaultText>{0} Leichter Treffer umgewandelt zu Treffer mit Einhand-Nahkampfwaffen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8677,7 +8677,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1732</ID>
-      <DefaultText>Aufschließen mit {0}</DefaultText>
+      <DefaultText>Freischalten mit {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8762,7 +8762,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1750</ID>
-      <DefaultText>Du hast ungenutzte Attributspunkte für deinen Charakter. Alle ungenutzten Punkte gehen verloren. 
+      <DefaultText>Du hast ungenutzte Attributspunkte für deinen Charakter. Alle ungenutzten Punkte gehen verloren.
 
 Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
       <FemaleText />
@@ -8839,12 +8839,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1765</ID>
-      <DefaultText>Dein Ruf in {0} hat sich verschlechtert.</DefaultText>
+      <DefaultText>Dein Ruf bei {0} hat sich verschlechtert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1766</ID>
-      <DefaultText>Dein Ruf in {0} hat sich verbessert.</DefaultText>
+      <DefaultText>Dein Ruf bei {0} hat sich verbessert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8934,17 +8934,17 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1784</ID>
-      <DefaultText>Sehr</DefaultText>
+      <DefaultText>Viel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1785</ID>
-      <DefaultText>positiv</DefaultText>
+      <DefaultText>Positiv</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1786</ID>
-      <DefaultText>negativ</DefaultText>
+      <DefaultText>Negativ</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9189,7 +9189,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1835</ID>
-      <DefaultText>Neu erstellen ... </DefaultText>
+      <DefaultText>Neu erstellen ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9434,7 +9434,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1884</ID>
-      <DefaultText>:</DefaultText>
+      <DefaultText>: </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9721,6 +9721,46 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     <Entry>
       <ID>1952</ID>
       <DefaultText>{0} zu Faktor des kritischen Schadens gegen Feinde mit geringer Ausdauer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1953</ID>
+      <DefaultText>Durchschnitt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1954</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1955</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1960</ID>
+      <DefaultText>Graphics Quality</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1961</ID>
+      <DefaultText>Adjust the game's graphics quality. Use a lower setting if your game runs slowly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1962</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1963</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1964</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

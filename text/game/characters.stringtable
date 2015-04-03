@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1332</EntryCount>
+  <EntryCount>1334</EntryCount>
   <Entries>
     <Entry>
       <ID>11</ID>
@@ -966,7 +966,7 @@
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>Junger Schatten</DefaultText>
+      <DefaultText>Schatten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1096,7 +1096,7 @@
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>Reymont-Wächter</DefaultText>
+      <DefaultText>Reymont -Wächter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1232,7 +1232,7 @@
     <Entry>
       <ID>289</ID>
       <DefaultText>Reymonts Leibwächter</DefaultText>
-      <FemaleText />
+      <FemaleText>Reymonts Leibwächterin</FemaleText>
     </Entry>
     <Entry>
       <ID>290</ID>
@@ -1317,7 +1317,7 @@
     <Entry>
       <ID>306</ID>
       <DefaultText>Dunryd-Agent</DefaultText>
-      <FemaleText />
+      <FemaleText>Dunryd-Agentin</FemaleText>
     </Entry>
     <Entry>
       <ID>307</ID>
@@ -1327,7 +1327,7 @@
     <Entry>
       <ID>308</ID>
       <DefaultText>Süchtiger</DefaultText>
-      <FemaleText />
+      <FemaleText>Süchtige</FemaleText>
     </Entry>
     <Entry>
       <ID>309</ID>
@@ -2066,7 +2066,7 @@
     </Entry>
     <Entry>
       <ID>461</ID>
-      <DefaultText>Flammenwand-Falle</DefaultText>
+      <DefaultText>Flammenwand</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2156,7 +2156,7 @@
     </Entry>
     <Entry>
       <ID>481</ID>
-      <DefaultText>Helles Irrlicht</DefaultText>
+      <DefaultText>Helles Will'O'Wisp</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2686,7 +2686,7 @@
     </Entry>
     <Entry>
       <ID>590</ID>
-      <DefaultText>reifender Schatten</DefaultText>
+      <DefaultText>Schatten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2821,7 +2821,7 @@
     </Entry>
     <Entry>
       <ID>617</ID>
-      <DefaultText>Kraftwand-Falle</DefaultText>
+      <DefaultText>Kraftwand</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2886,7 +2886,7 @@
     </Entry>
     <Entry>
       <ID>630</ID>
-      <DefaultText>Irrlicht</DefaultText>
+      <DefaultText>Will'O'Wisp</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3326,7 +3326,7 @@
     </Entry>
     <Entry>
       <ID>720</ID>
-      <DefaultText>Berath-Akolyth </DefaultText>
+      <DefaultText>Berath-Akolyth</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3751,7 +3751,7 @@
     </Entry>
     <Entry>
       <ID>807</ID>
-      <DefaultText>Ausgehungerte Speerspinne</DefaultText>
+      <DefaultText>Verhungerte Speerspinne</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3761,7 +3761,7 @@
     </Entry>
     <Entry>
       <ID>809</ID>
-      <DefaultText>Oger-Stammesführerin</DefaultText>
+      <DefaultText>Oger-Oberin</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3771,7 +3771,7 @@
     </Entry>
     <Entry>
       <ID>811</ID>
-      <DefaultText>Quellen der Leiden</DefaultText>
+      <DefaultText>Pudding der Leiden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4101,7 +4101,7 @@
     </Entry>
     <Entry>
       <ID>877</ID>
-      <DefaultText>Urblat, der Schlitzer</DefaultText>
+      <DefaultText>Urblat, der Lustmörder</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5311,7 +5311,7 @@
     </Entry>
     <Entry>
       <ID>1122</ID>
-      <DefaultText>Trunkenbold</DefaultText>
+      <DefaultText>Drunkenbold</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5336,7 +5336,7 @@
     </Entry>
     <Entry>
       <ID>1127</ID>
-      <DefaultText>Kriegerin</DefaultText>
+      <DefaultText>Krieger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5466,7 +5466,7 @@
     </Entry>
     <Entry>
       <ID>1153</ID>
-      <DefaultText>Reißzähne-Klingenkämpfer</DefaultText>
+      <DefaultText>Reißzähne-Klingenkämpferin</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5721,7 +5721,7 @@
     </Entry>
     <Entry>
       <ID>1205</ID>
-      <DefaultText>Urblat, der "Schlitzer"</DefaultText>
+      <DefaultText>Urblat, der "Lustmörder"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6662,6 +6662,16 @@
     <Entry>
       <ID>1425</ID>
       <DefaultText>Attentäter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1436</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1437</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

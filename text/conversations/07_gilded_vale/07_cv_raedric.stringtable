@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Er möge sich nähern." Fürst Raedric VII., gerüstet mit einer kunstvollen Plattenrüstung und umgeben von mehreren Wachen, die dich alle mit stiller Feindschaft anstarren, beobachtet dich von seinem Thron aus. Seine Augen wirken hohl, und die Blässe des hageren Gesichts des Mannes lässt es im Kontrast zu seinen dunklen, ungekämmten Haaren düster wirken.</DefaultText>
-      <FemaleText>"Sie möge sich nähern." Fürst Raedric VII., gerüstet mit einer kunstvollen Plattenrüstung und umgeben von mehreren Wachen, die dich alle mit stiller Feindschaft anstarren, beobachtet dich von seinem Thron aus. Seine Augen wirken hohl, und die Blässe des hageren Gesichts des Mannes lässt es im Kontrast zu seinen dunklen, ungekämmten Haaren düster wirken.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -107,7 +107,7 @@ Raedric atmet durch seine Nase aus. "Und wenn wir jederzeit von seinen verräter
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Raedrics? Jetzt gibt es nur noch mich. Mit dem Namen Raedric aber war seit jeher Ruhm verbunden. Seit Generationen schon sind wir die Verwalter Goldtals gewesen. Seine Bevölkerung ersucht uns immer noch um Führung und Schutz - zuerst vor den Exzessen des Reichs - und nun vor den Gefahren, die im Dyrwald lauern."</DefaultText>
+      <DefaultText>"Raedrics? Jetzt gibt es nur noch mich. Mit dem Namen Raedric aber war seit jeher mit Ruhm verbunden. Seit Generationen schon sind wir die Verwalter Goldtals gewesen. Seine Bevölkerung ersucht uns immer noch um Führung und Schutz - zuerst vor den Exzessen des Reichs - und nun vor den Gefahren, die im Dyrwald lauern."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -164,7 +164,7 @@ Er schüttelt den Kopf. "Und mit dem Vermächtnis kam die Verzweiflung. Wie hät
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Söldner anzuwerben ist gar nicht nach Kolscs Art." Raedrics Stimme spricht tief und krächzend. Er starrt dich an. "Oder Ausländer, was das betrifft. Und du gehörst nicht zu meinen Leuten." Er lächelt grimmig, wodurch seine weißen Zähne zum Vorschein kommen. "Das heißt auch, dass ich dich nicht des Verrats beschuldigen kann." Seine Finger schließen sich locker um den Knauf seines Dolchs, als wolle er überprüfen, ob er immer noch da ist, und zucken dann zurück. </DefaultText>
+      <DefaultText>"Söldner anzuwerben ist gar nicht nach Kolscs Art." Raedrics Stimme spricht tief und krächzend. Er starrt dich an. "Oder Ausländer, was das betrifft. Und gehörst nicht zu meinen Leuten." Er lächelt grimmig, wodurch seine weißen Zähne zum Vorschein kommen. "Das heißt auch, dass ich dich nicht des Verrats beschuldigen kann." Seine Finger schließen sich locker um den Knauf seines Dolchs, als wolle er überprüfen, ob er immer noch da ist, und zucken dann zurück. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -179,7 +179,7 @@ Er schüttelt den Kopf. "Und mit dem Vermächtnis kam die Verzweiflung. Wie hät
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Ungläubig stößt Raedric ein tiefes, ärgerliches Geräusch aus. "Und du glaubst, dass dieser Anführer Kolsc ist? Was versteht er denn davon, was es heißt, ein Thayn zu sein? Er hat einen mickrigen Haufen ungebildeter Bauern und Plünderer um sich geschart und schickt sie in selbstmörderischer Absicht gegen meine Wachen los."</DefaultText>
+      <DefaultText>Ungläubig stößt Raedric ein tiefes, ärgerliches Geräusch aus. "Und du glaubst, dass dieser Anführer Kolsc ist? Was versteht er denn davon, was es heißt, ein Thayn zu sein? Er hat einen mickrigen Haufen ungebildeter Bauern und Plünderer um sich geschart und schickt sie ihn Selbstmordaktionen gegen meine Wachen los."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -235,7 +235,7 @@ Er schüttelt den Kopf. "Und mit dem Vermächtnis kam die Verzweiflung. Wie hät
     <Entry>
       <ID>54</ID>
       <DefaultText>"Und am nächsten Morgen wirst du als reicherer Mann aufwachen."</DefaultText>
-      <FemaleText>"Und am nächsten Morgen wirst du als reichere Frau aufwachen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
@@ -244,7 +244,7 @@ Er schüttelt den Kopf. "Und mit dem Vermächtnis kam die Verzweiflung. Wie hät
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Und nun ... " Raedric senkt seinen Blick. "Nun würde ich gerne meine Frau beerdigen und in die Zukunft schauen. Bevor man Goldtal sicher nennen kann, liegt noch sehr viel Arbeit vor uns. Vielen Dank für deine Unterstützung."</DefaultText>
+      <DefaultText>"Und nun ... " Raedric senkt seinen Blick. "Nun würde ich gerne meine Frau verbrennen und in die Zukunft schauen. Bevor man Goldtal sicher nennen kann, liegt noch sehr viel Arbeit vor uns. Vielen Dank für deine Unterstützung."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -303,12 +303,12 @@ Raedric atmet durch seine Nase aus. "Und wenn wir jederzeit von seinen verräter
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Du hast deine Stärke unter Beweis gestellt ... wenn auch mit unerfreulichen Mitteln." Raedric winkt mit einer Hand und gestikuliert auf seine Wachen. "Und im Gegenzug bin ich großzügig zu denen, die loyal zu mir sind. Und sollten Münzen dein Antrieb sein, so solltest du wissen, dass ein Thayn des Dyrwalds einen weitaus besseren Verbündeten abgibt als ein mittelloser Titelheuchler."</DefaultText>
+      <DefaultText>"Du hast deine Stärker unter Beweis gestellt ... wenn auch mit unerfreulichen Mitteln." Raedric winkt mit einer Hand und gestikuliert auf seine Wachen. "Und im Gegenzug bin ich großzügig zu denen, die loyal zu mir sind. Und sollten Münzen dein Antrieb sein, so solltest du wissen, dass ein Thayn des Dyrwalds einen weitaus besseren Verbündeten abgibt als ein mittelloser Titelheuchler."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Ich dachte, er würde besser aussehen - trotz der ganzen Inzucht."
+      <DefaultText>"Ich dachte, er würde besser aussehen - trotzdem der ganzen Inzucht."
 
 Edérs Gesicht ist zwar ruhig, aber du bemerkst, wie seine Hand zu seiner Waffe gleitet, als hätte sie ihren eigenen Verstand.</DefaultText>
       <FemaleText />
@@ -417,7 +417,7 @@ Edérs Gesicht ist zwar ruhig, aber du bemerkst, wie seine Hand zu seiner Waffe 
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Ich vollstreckte lediglich das Urteil. Hätte ich sie denn in die Hände eines Henkers geben sollen? Im Dyrwald nehmen wir die Gerechtigkeit in die eigenen Hände." Raedric setzt sich wieder in seinem Thron auf. Er klammert sich so fest an die Armlehnen, dass die Fingerknöchel weiß sind.</DefaultText>
+      <DefaultText>"Ich vollstreckte lediglich das Urteil. Hätte ich sie denn in die Hände eines Henkers geben sollen? Im Dyrwald nehmen wir die Gerechtigkeit in die eigenen Hände." Raedric setzt sich wieder in seinem Thron auf. Er klammerst sich so fest an die Armlehnen, dass die Fingerknöchel weiß sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

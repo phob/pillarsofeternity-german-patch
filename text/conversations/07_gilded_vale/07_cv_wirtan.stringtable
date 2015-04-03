@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Wirtan, der noch immer seinen Arm schont, nickt dir zur Begrüßung zu. "Du bist zurückgekommen. Hast du deine Meinung geändert?"</DefaultText>
+      <DefaultText>Wirtan, der noch immer seinen Arm schon, nickt dir zur Begrüßung zu. "Du bist zurückgekommen. Hast du deine Meinung geändert?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Sieh dich ... vor, falls du hineingehen willst." Er wirft einen schnellen Blick auf die Tür zu seiner Linken. "Dieser Ort ist nicht ganz so leer, wie ich angenommen hatte."</DefaultText>
+      <DefaultText>"Sieh dich ... vor, falls du hineingehen willst." Er wirft einen schnellen Blick auf die Tür zu seine Linken. "Dieser Ort ist nicht ganz so leer, wie ich angenommen hatte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Dieser Tempel ist nicht mehr das, was er einmal war. Das ist wahrscheinlich auch das Beste, wenn ich mir überlege, in welchen Zeiten wir leben." Er stöhnt und zuckt schmerzerfüllt zusammen, als er seinen Körper verlagert. "Ich bin nicht zum Plündern gekommen, falls du das vermutest, und zum Beten bin ich auch nicht hier. Ich glaube, ich wollte einfach nur Gutes tun. Und was hat mir das eingebracht? Einen zerkratzten Arm!" Er sieht dich müde an. "Vielleicht hast du ja mehr Glück."</DefaultText>
+      <DefaultText>"Dieser Tempel ist nicht mehr das, was er einmal war. Das ist wahrscheinlich auch das Beste, wenn ich mir überlegen, in welchen Zeiten wir leben." Er stöhnt und zuckt schmerzerfüllt zusammen, als er seinen Körper verlagert. "Ich bin nicht zum Plündern gekommen, falls du das vermutest, und zum Beten bin ich auch nicht hier. Ich glaube, ich wollte einfach nur Gutes tun. Und was hat mir das eingebracht? Einen zerkratzten Arm!" Er sieht dich müde an. "Vielleicht hast du ja mehr Glück."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Bis dahin wird der Tempel aber so bleiben, wie du ihn jetzt siehst. Unbewacht. Und genau da kommst du ins Spiel." Wirtan leckt sich über die Lippen. "Diese Priester ... Gut, sie mögen ja kaum Grips im Schädel gehabt haben, aber solche Tode hatten sie auch nicht verdient. Im Hause ihres Gottes niedergemetzelt zu werden, also wirklich. Das finde ich einfach nicht richtig."</DefaultText>
+      <DefaultText>"Bis dahin wird der Tempel aber so bleiben, wie du ihn jetzt siehst. Unbewacht. Und da genau kommst du ins Spiel." Wirtan leckt sich über die Lippen. "Diese Priester ... Gut, sie mögen ja kaum Grips im Schädel gehabt haben, aber solche Tode hatten sie auch nicht verdient. Im Hause ihres Gottes niedergemetzelt zu werden, also wirklich. Das finde ich einfach nicht richtig."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -343,7 +343,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Das habe ich auch schon bemerkt... Der Tempel ist jahrelang versiegelt gewesen. Sie müssen sich wegen den ... naja, wegen den Nahrungsvorräten hineingewühlt haben. Schlimmeres als Schädlinge solltest du aber nicht vorfinden."</DefaultText>
+      <DefaultText>"Ich entdeckte Folgendes: Der Tempel ist jahrelang versiegelt gewesen. Sie müssen sich wegen den ... naja, wegen den Nahrungsvorräten hineingewühlt haben. Schlimmeres als Schädlinge solltest du aber nicht vorfinden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -533,7 +533,7 @@
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Und jedes Mal taten sie meine Warnungen ab. Als ob ich nicht wüsste, von was ich redete. Als ob ich keine Opfer bringen musste, um zu versuchen ihnen zu helfen. Ich hätten gut und gerne zusammen mit ihnen verhaftet werden können."</DefaultText>
+      <DefaultText>"Und jedes Mal taten sie meine Warnungen ab. Als ich ich nicht wüsste, von was ich redete. Als ich keine Opfer bringen musste, um zu versuchen, ihnen zu helfen. Ich hätten gut und gerne zusammen mit ihnen verhaftet werden können."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -850,7 +850,7 @@ Wenn ich es gewusst hätte ... mit den eigenen Händen hätte ich sie ausgegrabe
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Dieser Tempel ist nicht mehr das, was er einmal war. Das ist wahrscheinlich auch das Beste, wenn ich mir überlege, in welchen Zeiten wir leben." Er stöhnt und zuckt schmerzerfüllt zusammen, als er seinen Körper verlagert. "Ich bin nicht zum Plündern gekommen, falls du das vermutest, und so einer wie er hier auch nicht." Wirtan reißt sein Kinn in Richtung Edér. "Ich glaube, ich wollte einfach nur Gutes tun. Und was hat mir das eingebracht? Einen zerkratzten Arm!" Er sieht dich müde an. "Vielleicht hast du ja mehr Glück."</DefaultText>
+      <DefaultText>"Dieser Tempel ist nicht mehr das, was er einmal war. Das ist wahrscheinlich auch das Beste, wenn ich mir überlegen, in welchen Zeiten wir leben." Er stöhnt und zuckt schmerzerfüllt zusammen, als er seinen Körper verlagert. "Ich bin nicht zum Plündern gekommen, falls du das vermutest, Und so einer wie er hier auch nicht." Wirtan reißt sein Kinn in Richtung Edér. "Ich glaube, ich wollte einfach nur Gutes tun. Und was hat mir das eingebracht? Einen zerkratzten Arm!" Er sieht dich müde an. "Vielleicht hast du ja mehr Glück."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -905,7 +905,7 @@ Wenn ich es gewusst hätte ... mit den eigenen Händen hätte ich sie ausgegrabe
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>[Wirtans verletzten Arm verdrehen.] "Nicht leid genug."</DefaultText>
+      <DefaultText>[Wirtans verletzten Arm verdrehen.] "Nicht leicht genug."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

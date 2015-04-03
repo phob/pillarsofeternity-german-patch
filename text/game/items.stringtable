@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1824</EntryCount>
+  <EntryCount>1823</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -51,27 +51,27 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Mordaxt</DefaultText>
+      <DefaultText>Gewandtheit +2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Zweihänder</DefaultText>
+      <DefaultText>Gewandtheit +3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Beil</DefaultText>
+      <DefaultText>Intellekt +1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Jagdbogen</DefaultText>
+      <DefaultText>Intellekt +2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Leichter Speer</DefaultText>
+      <DefaultText>Intellekt +3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,22 +81,22 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Morgenstern</DefaultText>
+      <DefaultText>Verfassung +1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Pike</DefaultText>
+      <DefaultText>Entschlossenheit +1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Pistole</DefaultText>
+      <DefaultText>Entschlossenheit +2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Kampfstab</DefaultText>
+      <DefaultText>Entschlossenheit +3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Kettenrüstungen sind aufgrund ihrer Schutzwirkung vor allem gegen Hiebe ziemlich beliebt. Sie bestehen aus Tausenden kleiner Stahlringe, die zusammen ein flexibles Geflecht bilden. Kettenrüstungen, die normalerweise über Gambesonen getragen werden, schützen ihren Träger im Kampf gut, schränken aber seine Bewegungen ein.</DefaultText>
+      <DefaultText>Kettenrüstungen sind aufgrund ihrer Schutzwirkung vor allem gegen Hiebe ziemlich beliebt. Sie bestehen aus Tausenden kleiner Stahlringe, die zusammen ein flexibles Geflecht bilden. Kettenrüstungen, die normalerweise über Gambesonen getragen werden,. schützen ihren Träger im Kampf gut, schränken aber seine Bewegungen ein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -441,12 +441,12 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Gold-Obel</DefaultText>
+      <DefaultText>Verfassung +2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Der Gold-Obel ("doppelt") ist eine große Goldmünze und selbst in den Vailianischen Republiken eine seltene Münze, die meistens von wohlhabenden Adligen benutzt wird.</DefaultText>
+      <DefaultText>Der Gold-Obel ("doppelt") ist eine große Goldmünze und selbst in den Vailianischen Republiken eine seltene Münze, die meistens von Superreichen benutzt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -697,7 +697,7 @@ Hacran Grist, ein erfolgreicher Abenteurer aus dem readceranischen Fischerdorf S
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>Diese merkwürdig geformte Kutte wird von Novizen Skaens getragen. Aufgrund ihrer groben Fertigung aus einfachem Material passt sie zu den Anhängern des Stillen Sklaven.</DefaultText>
+      <DefaultText>Diese merkwürdig geformte Kutte wird von Novizen Skaens getragen. Aufgrund ihrer groben Fertigung aus einfachem Material passt sie zu den Anhängern des Stillen Sklaven. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1008,12 +1008,12 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>Säbel</DefaultText>
+      <DefaultText>Intellekt -1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>Die Flammen von Fair Rhîan</DefaultText>
+      <DefaultText>Wahrnehmung +1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1023,76 +1023,72 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>Dieses Silbermedaillon ist verbeult und getrübt. Ein vergilbtes Portrait eines jungen Adligen befindet sich im Inneren. Durch den Zahn der Zeit es verwittert.</DefaultText>
+      <DefaultText>Macht +1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>Nyrids Zauberbuch</DefaultText>
+      <DefaultText>Macht +2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>Ein Goldring mit Adra-Verzierungen</DefaultText>
+      <DefaultText>Macht +3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>Nyfre's Thugs Zauberbuch</DefaultText>
+      <DefaultText>Tapferkeit +5</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>Zerfetzte Notiz</DefaultText>
+      <DefaultText>Tapferkeit +10</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>Ich brauche dich, um unsere Beute für den Verkauf an Curnd zu liefern. Er wird nicht mit dir sprechen, außer du sagst die Worte: 'Yc Nybeon Eyldfeon'. Du findest ihn nachts in der Geschenk.</DefaultText>
+      <DefaultText>Tapferkeit +15</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>Kopftuch</DefaultText>
+      <DefaultText>Abwehr +5</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>Schlüssel zur Schmelztiegel-Waffenkammer</DefaultText>
+      <DefaultText>Abwehr +10</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>Heligs Zauberbuch</DefaultText>
+      <DefaultText>Reflexe +5</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>Ein Wälzer, der alle Zaubersprüche des untoten Magiers Helig enthält.</DefaultText>
+      <DefaultText>Reflexe +10</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>Engwithanischer Schmiedemeister</DefaultText>
+      <DefaultText>Reflexe +15</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>Die Schlagseite dieses Hammers ist in Bronze eingefasst, der Schaft dekoriert mit Adra und Runen. Er sieht eher nach einem Schmiedewerkzeug aus als nach einer Waffe, könnte allerdings auch leicht letzterem Zweck dienen.</DefaultText>
+      <DefaultText>Wille +5</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>Sevis Tagebuch</DefaultText>
+      <DefaultText>Wille +10</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>Einige Titel auf der ersten Seite des Tagebuchs sind durchgestrichen: "Die Taten des Brandeisens", "Die Legende des Brandeisens", und "Die glorreichen Heldentaten des Brandeisens".
-
-Der Autor entschied sich letztendlich für "Die Geschichte von Sevis dem Kühnen und dem Brandeisen".
-
-Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleien von Drachen.</DefaultText>
+      <DefaultText>Wille +15</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1147,7 +1143,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>Fackel</DefaultText>
+      <DefaultText>Wille -3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1162,12 +1158,12 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>Schlüssel zu Valtas-Herrenhaus</DefaultText>
+      <DefaultText>Konzentration +10</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>Dieser reich verzierte Messingschlüssel zeigt das Symbol des Hauses Valtas: ein Schwert gekreuzt mit einem Speer.</DefaultText>
+      <DefaultText>Konzentration -5</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1237,7 +1233,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>Diese langen Zweihandschwerter kann man durch ihre schmalen, pikenförmigen Spitzen leicht von normalen Zweihändern unterscheiden Panzerbrecher sind unter den Kriegern des Dyrwalds zwar nicht sehr verbreitet, ihr Wert gegen schwer gepanzerter Gegner ist aber unbestritten.</DefaultText>
+      <DefaultText>Diese langen Zweihandschwerter kann man durch ihre schmalen, pikenförmigen Spitzen leicht von normalen Zweihändern unterscheiden Panzerbrecher sind unter den Kriegern des Dyrwalds zwar nicht sehr verbreitet, ihr Wert gegen schwer gepanzerter Gegner ist aber unbestritten. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1252,7 +1248,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>Das einfache Kriegsbeil, eine kleine und schnelle Waffe, ist im Dyrwald extrem verbreitet - als Arbeitswerkzeug von Waldläufern und als Jagdwaffe. Kriegsbeile sind viel kleiner als richtige Streitäxte, der Waffenführer kann mit ihnen viele Schläge innerhalb kurzer Zeit ausführen.</DefaultText>
+      <DefaultText>Das einfache Kriegsbeil, eine kleine und schnelle Waffe, ist im Dyrwald extrem verbreitet - als Arbeitswerkzeug von Waldläufern und als Jagdwaffe. Kriegsbeile sind viel kleiner als richtige Streitäxte, der Waffenführer kann mit ihr viele Schläge innerhalb kurzer Zeit ausführen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1297,7 +1293,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>Streitkolben sind auf der ganzen bekannten Welt der Fluch von Soldaten mit Kettenhemden und im Dyrwald weit verbreitet. Unabhängig von der Form ihrer Flansche bestehen Streitkolben immer aus einem Metallschaft mit einer Reihe symmetrischer Flansche, welche die Schlagkraft der Waffe auf einen kleinen Bereich konzentrieren. Panzerbrecher haben zwar mehr Durchdringungskraft als Streitkolben, letztere allerdings können zusammen mit Schilden verwendet werden.</DefaultText>
+      <DefaultText>Streitkolben sind auf der ganzen bekannten Welt der Fluch von Soldaten mit Kettenhemden und im Dyrwald weit verbreitet. Unabhängig von der Form ihrer Flansche bestehen Streitkolben immer aus einem Metallschaft umit einer Reihe symmetrischer Flansche, welche die Schlagkraft der Waffe auf einen kleinen Bereich konzentrieren. Panzerbrecher haben zwar mehr Durchdringungskraft als Streitkolben, letztere allerdings können zusammen mit Schilden verwendet werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1352,7 +1348,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>Große Schilde kommen dann zum Einsatz, wenn ein Krieger bestmöglichen Schutz benötigt, selbst wenn das auf Kosten seiner Schlaggenauigkeit geht. Obwohl sich große Schilde normalerweise wie eine Träne nach unten verjüngen, gibt es sie in verschiedenen Formen. Oftmals sind sie auch mit Wappen geschmückt.</DefaultText>
+      <DefaultText>Große Schilde kommen dann zum Einsatz, wenn ein Krieger bestmöglichen Schutz benötigt, selbst wenn das auf Kosten seiner Schlaggenauigkeit geht. Obwohl sich große Schilde normalerweise wie eine Träne nach unten verjüngen, gibt es sie in verschiedenen Formen. Oftmals sind sie auch mit Wappen geschmückt. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1387,7 +1383,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>Stilette ähneln Dolchen, weichen in Form und Einsatzweise aber leicht von ihnen ab. Diese Waffen wurden zum Durchdringen von Rüstungen gefertigt und verfügen deshalb über eine steife Stoßklinge, die wie ein kleiner Panzerbrecher aussieht. Stilette sind sicherlich keine mächtigen Waffen, aber leicht gepanzerte Gegner können mit ihnen schnell zur Strecke gebracht werden.</DefaultText>
+      <DefaultText>Stilette ähneln Dolchen, weichen in Form und Einsatzweise aber leicht von ihnen ab. Diese Waffen wurden zum Durchdringen von Rüstungen gefertigt und verfügen deshalb über eine steife Stoßklinge, die wie ein kleiner Panzerbrecher aussieht. Stilette sind sicherlich keine mächtigen Waffen, aber mit leicht gepanzerte Gegner können mit ihnen schnell zur Strecke gebracht werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1683,7 +1679,7 @@ Der weise Mann schüttelt seinen Kopf und wischt sich die Tränen aus den Augen.
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>Aloths Zauberbuch</DefaultText>
+      <DefaultText>Aloths Zauberbuch </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2198,12 +2194,12 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
     </Entry>
     <Entry>
       <ID>451</ID>
-      <DefaultText>Außergewöhnliche Pistole</DefaultText>
+      <DefaultText>Außergewöhnliche Pistole </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>452</ID>
-      <DefaultText>Gute Pistole</DefaultText>
+      <DefaultText>Gute Pistole </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2228,12 +2224,12 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
     </Entry>
     <Entry>
       <ID>457</ID>
-      <DefaultText>Außergewöhnliches Rapier</DefaultText>
+      <DefaultText>Außergewöhnliches Rapier </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>458</ID>
-      <DefaultText>Gutes Rapier</DefaultText>
+      <DefaultText>Gutes Rapier </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2258,12 +2254,12 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
     </Entry>
     <Entry>
       <ID>463</ID>
-      <DefaultText>Außergewöhnliches Zepter</DefaultText>
+      <DefaultText>Außergewöhnliches Zepter </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>464</ID>
-      <DefaultText>Gutes Zepter</DefaultText>
+      <DefaultText>Gutes Zepter </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2308,12 +2304,12 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
     </Entry>
     <Entry>
       <ID>473</ID>
-      <DefaultText>Außergewöhnliches Stilett</DefaultText>
+      <DefaultText>Außergewöhnliches Stilett </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>474</ID>
-      <DefaultText>Gutes Stilett</DefaultText>
+      <DefaultText>Gutes Stilett </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2398,12 +2394,12 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
     </Entry>
     <Entry>
       <ID>491</ID>
-      <DefaultText>Außergewöhnliche Lederrüstung</DefaultText>
+      <DefaultText>Außergewöhnliche Lederrüstung </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>492</ID>
-      <DefaultText>Gute Lederrüstung</DefaultText>
+      <DefaultText>Gute Lederrüstung </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2590,7 +2586,7 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
       <ID>529</ID>
       <DefaultText>Dieses Stück Pergament ist in relativ gutem Zustand, aber die Tinte darauf ist verblichen. Du kannst ein paar Stellen mit sorgfältiger Schönschrift erkennen.
 
-"... esucher zur Ritualebene. Rectrix Obrica sagt... rlösung sogar für diese... ergessen und die größte Glocke zuerst geschlagen statt als zweites..." Der Rest ist unleserlich.</DefaultText>
+"... esucher zur Ritualebene. Rectrix Obrica sagt ... rlösung sogar für diese ... ergessen und statt der zweiten zuerst die größte Glocke geschlagen ..." Der Rest ist unleserlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2622,7 +2618,7 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
       <ID>535</ID>
       <DefaultText>Dieser Brief ist größtenteils intakt, obwohl das Pergament selbst zerknittert wurde. 
 
-"Gjestr - ich weiß, dass die Bäder im Tempel großartige Heileigenschaften haben, und dass dir dein Rücken noch immer Schmerzen bereitet. Solltest du dich aber weiterhin den größten Teils des Tages verwöhnen lassen, so möchte ich dich doch bitten, deinen Schlüssel zum Allerheiligsten jemand anderem zur Aufbewahrung zu geben. Wir waren jetzt nicht zum ersten Mal dazu gezwungen, auf die Durchführung der täglichen Riten zu warten, und Rectrix Obrica ist oft zu weit unten, um unser Klopfen zu hören."</DefaultText>
+"Gjestr - ich weiß, dass die Bäder im Tempel großartige Heileigenschaften haben, und dass dir dein Rücken noch immer Schmerzen bereitet. Solltest du dich aber weiterhin den größten Teils des Tages verwöhnen lassen, so möchte ich dich doch bitten, deinen Schlüssel zum Allerheiligsten jemand anderem zur Aufbewahrung zu geben. Wir waren jetzt nicht zum ersten Mal dazu gezwungen, auf die Durchführung der täglichen Riten zu warten, und Rectrix Obrica ist oft zu weit unten, um unser Klopfen zu hören." </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3625,7 +3621,7 @@ Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei
     </Entry>
     <Entry>
       <ID>738</ID>
-      <DefaultText>Wirksam zum Aufbrechen bestimmter Behälter, an Türen dagegen aufgrund der ungleichmäßigen und engen Hebelwirkung nicht.</DefaultText>
+      <DefaultText>Wirksam zum Aufbrechen bestimmter Behälter, an Türen dagegen aufgrund der ungleichmäßig und engen Hebelwirkung nicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3787,12 +3783,12 @@ Irgendwas summt in ihnen, ein verblichenes Überbleibsel einer Essenz. Welche Ma
     </Entry>
     <Entry>
       <ID>767</ID>
-      <DefaultText>Rastvorräte</DefaultText>
+      <DefaultText>Campingbedarf</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>768</ID>
-      <DefaultText>Zu diesen Rastvorräten gehören Bettrollen, Decken, Essensrationen und andere Annehmlichkeiten, die abgehärtete Entdecker davon abhalten sollen, sich den Elementen zu beugen.</DefaultText>
+      <DefaultText>Zu diesem Campingbedarf gehören Bettrollen, Decken, Essensrationen und andere Annehmlichkeiten, die abgehärtete Entdecker davon abhalten sollen, sich den Elementen zu beugen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3862,7 +3858,7 @@ Irgendwas summt in ihnen, ein verblichenes Überbleibsel einer Essenz. Welche Ma
     </Entry>
     <Entry>
       <ID>782</ID>
-      <DefaultText>Dieser einfache Holzring ist orangegrau gefärbt und leuchtet, wenn du ihn nicht trägst. Über die tatsächliche Geschichte des Rings gibt es mehr Spekulationen als Fakten. Während alle Quellen darin übereinstimmen, dass er Erol von Levi gehörte, der ihn nach einer Zeit im Exil in Besitz genommen hatte, gehen die Geschichten darüber auseinander, wie er ihn erlangt hat. Manche sagen, dass er ein Geschenk eines Gottes war, andere dagegen behaupten, er sei eine Gefälligkeit für einen Pakt mit einer bösen Macht gewesen, den er geschlossen hatte.</DefaultText>
+      <DefaultText>Dieser einfache Holzring ist orangegrau gefärbt und leuchtet, wenn du ihn nicht trägst. Über die tatsächliche Geschichte des Rings gibt es mehr Spekulationen als Fakten. Während alle Quellen darin übereinstimmen, dass er Erol von Levi gehörte, der ihn nach einer Zeit im Exil in Besitz genommen hatte, gehen die Geschichten darüber auseinander, wie er ihn erlangt hat. Manche sagen, dass er ein Geschenk eines Gottes war, andere dagegen behaupten, er sei eine Gefälligkeit für einen Pakt mit einer bösen Macht gewesen, den er geschlossen hatte. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3999,7 +3995,7 @@ Dieses Paar Stiefel soll Fulvano gehört haben, und die in das Leder gebrannten 
     </Entry>
     <Entry>
       <ID>809</ID>
-      <DefaultText>"Fulvano, ich glaube nicht, dass du das hier jemals lesen wirst - aber du hattest Recht. Wir hätten zusammen nach Süden reisen soll, es wäre sicherer für beide gewesen. Gerne würde ich alle Häme der Welt ertragen, würde ich nur überleben, um sie zu hören. Ich habe mich aus der Reichweite der Biester entfernt, die unter mir kreisen, aber ich bin trotzdem erledigt. Ich glaube nicht, dass ich wieder hinabsteigen werde. Wer auch immer das hier findet - betet für mich. Vielleicht werde ich im nächsten Leben lieber Wölfen nachstellen."</DefaultText>
+      <DefaultText>"Fulvano, ich glaube nicht, dass du das hier jemals lesen wirst - aber du hattest Recht. Wir hätten zusammen nach Süden reisen soll, es wäre sicherer für beide gewesen. Gerne würde ich alle Häme der Welt ertragen, würde ich nur überleben, um sie zu hören. Ich habe mich aus der Reichweite der Biester entfernt, die unter mir kreisen, aber ich bin trotzdem erledigt. Ich glaube nicht, dass ich wieder hinaufsteigen werde. Wer auch immer das hier findet - betet für mich. Vielleicht werde ich im nächsten Leben lieber Wölfen nachstellen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5224,7 +5220,7 @@ Trindig"</DefaultText>
     </Entry>
     <Entry>
       <ID>1048</ID>
-      <DefaultText>Dieses Amulett besteht aus fein ineinander verwobenen Strängen polierten Goldes, an dem ein sperriges, zu einem groben Ring zugeschnittenes Stück Adra hängt.</DefaultText>
+      <DefaultText>Dieses Amulett besteht aus fein ineinander verwobenen Strängen polierten Goldes, an dem ein sperriges, zu einem groben Ring zugeschnittenes Stück Adra hängt. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5369,7 +5365,7 @@ Trindig"</DefaultText>
     </Entry>
     <Entry>
       <ID>1096</ID>
-      <DefaultText>Das Farbspektrum der Rubine reicht von pink bis rot, wobei dunklere Farben als wertvoller angesehen werden. In ihrem natürlichen Zustand treten die Kristalle in dreieckigen Anordnungen auf. Zu kaufen sind sie in den unterschiedlichsten Schliffen.</DefaultText>
+      <DefaultText>Das Farbspektrum der Rubine reicht von pink bis rot, wobei dunklere Farben als wertvoller angesehen werden. In ihrem natürlichen Zustand treten die Kristalle in dreieckigen Anordnungen auf. Zu kaufen sind sie in den unterschiedlichsten Schliffen. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5483,7 +5479,7 @@ In der Mitte der Wiese, der von den Völkern von Ixamitl als Zentrum von Eora an
     </Entry>
     <Entry>
       <ID>1117</ID>
-      <DefaultText>Der Paladin Hyran Rath gelangte zufällig in ein Dorf auf dem Lande, das von Ghuls belagert wurde, und machte es sich zur Lebensaufgabe, die Welt von den Untoten zu befreien. Er glaubte, dass ihre bloße Existenz ein Affront gegen die Götter und eine Geißel für alle Personen darstellte. Nachdem er die Kreaturen bei Nacht herumschleichen und an dunklen Orten kauern gesehen hatte, verfiel er den damals vorherrschenden Irrglauben über ihr Wesen. In dem Glauben, sie seien anfällig gegen das Tageslicht, ließ er von seinem Orden eine Rüstung anfertigen, die mit dem Lichte der Sonne schien. Leider überprüfte er seine Theorie, indem er eine volle Fampirhöhle säubern wollte, wobei er zu spät bemerkte, dass das Licht die Kreaturen nur auf ihn aufmerksam machte. Forschungen von Beseelern haben inzwischen viele der gefährlichen Mythen widerlegt, die sich um die Untoten rankten.</DefaultText>
+      <DefaultText>Der Paladin Hyran Rath gelangte zufällig in ein Dorf auf dem Lande, das von Ghuls belagert wurde, und machte es sich zur Lebensaufgabe, die Welt von den Untoten zu befreien. Er glaubte, dass ihre bloße Existenz ein Affront gegen die Götter und eine Geißel für alle Gestandenen darstellte. Nachdem er die Kreaturen bei Nacht herumschleichen und an dunklen Orten kauern gesehen hatte, verfiel er den damals vorherrschenden Irrglauben über ihr Wesen. In dem Glauben, sie seien anfällig gegen das Tageslicht, ließ er von seinem Orden eine Rüstung anfertigen, die mit dem Lichte der Sonne schien. Leider überprüfte er seine Theorie, indem er eine volle Fampirhöhle säubern wollte, wobei er zu spät bemerkte, dass das Licht die Kreaturen nur auf ihn aufmerksam machte. Forschungen von Beseelern haben inzwischen viele der gefährlichen Mythen widerlegt, die sich um die Untoten rankten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5782,7 +5778,7 @@ Er stieg an einen Ort hinab, der die Endlosen Pfade von Od Nua genannt wird ... 
       <ID>1168</ID>
       <DefaultText>Die Herkunft dieses Gegenstands ist unter den Anhängern von Eothas und Woedica umstritten. Die Gefolgsleute von Eothas sagen, ihre Priester hätten ihn kurz nach dem Krieg des Heiligen in Auftrag gegeben, in der Hoffnung, er würde ihren Gott wieder in die Welt rufen, um zu vollenden, was er begonnen hatte. Die Woedicaner dagegen sagen, der Gegenstand sei sehr viel älter, ein Instrument der Rache an Eidbrechern, das von der Stahlgarotte eingesetzt wurde. Dieser Orden von woedicanischen Paladinen hatte es sich zur Aufgabe gemacht, für die Einhaltung von Eiden und Verträgen zu sorgen, oftmals auf freudlose Weise.
 
-Der Streitflegel selbst ist einzigartig, da die Stachelkugel an seinem Ende aus einem Räuchergefäß geformt wurde, das den Geruch von Weihrauch verströmt, wenn die Waffe im Kampf eingesetzt wird. Die Bekanntheit des Streitflegels wurde immer wieder ausgenutzt, um jemanden, der eine Vereinbarung nicht einhalten wollte, zu täuschen: Einfach ein wenig Weihrauchgeruch in den Verhandlungsraum oder das Schlafzimmer gepustet und schon wurde die Vereinbarung doch geehrt.</DefaultText>
+Der Streitflegel selbst ist einzigartig, da die Stachelkugel an seinem Ende aus einem Räuchergefäß geformt wurde, das den Geruch von Weihrauch verströmt, wenn die Waffe im Kampf eingesetzt wird. Die Bekanntheit des Streitflegels wurde immer wieder ausgenutzt, um jemanden, der eine Vereinbarung nicht einhalten wollte, zu täuschen: Einfach ein wenig Weihrauchgeruch in den Verhandlungsraum oder das Schlafzimmer gepustet und schon wurde die Vereinbarung doch geehrt. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5857,7 +5853,7 @@ Obwohl alle Zauberbücher ihre Grenzen haben, da sie aus einer begrenzten Anzahl
     </Entry>
     <Entry>
       <ID>1188</ID>
-      <DefaultText>Aufgrund ihrer Schnelligkeit und Wachsamkeit sind Antilopen selbst für erfahrene Jäger nur schwer zu erjagen. Ihre Haut schätzt man für ihre dekorativen und praktischen Eigenschaften. Aus den Häuten wird das Leder zur Herstellung widerstandsfähiger Rüstungen gewonnen und die Spiralhörner älterer Tiere gehören zu den begehrtesten Jagdtrophäen.</DefaultText>
+      <DefaultText>Aufgrund ihrer Schnelligkeit und Wachsamkeit sind Antilopen selbst für erfahrene Jäger nur schwer zu erjagen. Ihre Haut schätzt man für ihre dekorativen und praktischen Eigenschaften. Aus den Häuten wird das Leder zur Herstellung widerstandsfähiger Rüstungen gewonnen und die Spiralhörner älterer Tiere gehören zu den begehrtesten Jagdtrophäen. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5937,12 +5933,12 @@ Obwohl alle Zauberbücher ihre Grenzen haben, da sie aus einer begrenzten Anzahl
     </Entry>
     <Entry>
       <ID>1204</ID>
-      <DefaultText>Keiler sind für ihr Temperament berüchtigt. Trotz ihrer Größe sind sie in der Lage, Gegner mit ihren Stoßzähnen aufzuspießen und sie dabei schwer zu verletzen. Die dicken und widerstandsfähigen Keilerhäute erzielen auf dem Markt gute Preise, wobei sie aber von den beeindruckenden Keilerstoßzähnen übertroffen werden.</DefaultText>
+      <DefaultText>Keiler sind für ihr Temperament berüchtigt. Trotz ihrer Größe sind sie in der Lage, Gegner mit ihren Stoßzähnen aufzuspießen und sie dabei schwer zu verletzen. Die dicken und widerstandsfähigen Keilerhäute erzielen auf dem Markt gute Preise, wobei sie aber von den beeindruckenden Keilerstoßzähnen übertroffen werden. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1205</ID>
-      <DefaultText>Löwenhaut</DefaultText>
+      <DefaultText>Löwenhaut  </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5952,7 +5948,7 @@ Obwohl alle Zauberbücher ihre Grenzen haben, da sie aus einer begrenzten Anzahl
     </Entry>
     <Entry>
       <ID>1207</ID>
-      <DefaultText>Hirschhaut</DefaultText>
+      <DefaultText>Hirschhaut </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6104,7 +6100,7 @@ Doch wieder stand Mabec ungläubig vor dem Baum - er fand weder einen Hohlraum i
     </Entry>
     <Entry>
       <ID>1236</ID>
-      <DefaultText>Rinderbraten ist ein im ganzen Dyrwald weit verbreitetes Gericht, und hunderte Familien haben seit Generationen dieselben Rezepte verwendet. Niemand ist sich sicher, wie er als 'Duc-Rinderbraten' bekannt wurde, aber diesbezüglich gibt es zwei Hauptlegenden: Die erste dreht sich um Admeth Hadret, den ersten Duc des Dyrwalds, der angeblich für seinen Gefangenen, den Glanfathaner Galven Rêgd, persönlich einen Rinderbraten zubereitete. Dem Orlaner schmeckte das Gericht angeblich so gut, dass er um das Rezept bat, um es nach seiner Freilassung an seine Verwandten weiterzugeben. Die zweite, wahrscheinlichere Erzählung dreht sich um eine skrupellosen Köchin, der in der altehrwürdigen Schänke Zum Schwarzen Hund in Goldtal arbeitete. Unzähligen Reisenden vertraute sie an, sie hätte das Rezept für den 'Duc-Rinderbraten' -- was einfach nur ihr eigenes, köstliches Rezept war - und verkaufte es Dutzenden für horrende Preise. Jedes Opfer der List bereitete daraufhin Rinderbraten mit dem vermeintlich persönlichen Rezept des Ducs zu, was schließlich zu diesem Gebrauchsnamen führte.</DefaultText>
+      <DefaultText>Rinderbraten ist ein im ganzen Dyrwald weit verbreitetes Gericht, und hunderte Familien haben seit Generationen dieselben Rezepte verwendet. Niemand ist sich sicher, wie er als 'Duc-Rinderbraten' begannt wurde, aber diesbezüglich gibt es zwei Hauptlegenden: Die erste dreht sich um Admeth Hadret, den ersten Duc des Dyrwalds, der angeblich für seinen Gefangenen, den Glanfathaner Galven Rêgd, persönlich einen Rinderbraten zubereitete. Dem Orlaner schmeckte das Gericht angeblich so gut, dass er um das Rezept bat, um es nach seiner Freilassung an seine Verwandten weiterzugeben. Die zweite, wahrscheinlichere Erzählung dreht sich um eine skrupellosen Köchin, der in der altehrwürdigen Schänke Zum Schwarzen Hund in Goldtal arbeitete. Unzähligen Reisenden vertraute sie an, sie hätte das Rezept für den 'Duc-Rinderbraten' -- was einfach nur ihr eigenes, köstliches Rezept war - und verkaufte es Dutzenden für horrende Preise. Jedes Opfer der List bereitete daraufhin Rinderbraten mit dem vermeintlich persönlichen Rezept des Ducs zu, was schließlich zu diesem Gebrauchsnamen führte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6266,7 +6262,7 @@ Eine schreckliche Waffe, die jeden enttäuscht, der sie verwendet. Auf den erste
     </Entry>
     <Entry>
       <ID>1267</ID>
-      <DefaultText>Dieser blubbernde violette Trank hat eine ebenso sichtbare Wirkung, denn wer ihn trinkt, der verspürt augenblicklich eine Welle der Energie, die selbst die ausgemergeltesten und müdesten Wanderer wieder lebhaft und frisch werden lässt.</DefaultText>
+      <DefaultText>Dieser blubbernde violette Trank hat eine ebenso sichtbare Wirkung, denn wer ihn trinkt, der verspürt augenblicklich eine Welle der Energie, die selbst die ausgemergeltetsen und müdesten Wanderer wieder lebhaft und frisch werden lässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6306,7 +6302,7 @@ Eine schreckliche Waffe, die jeden enttäuscht, der sie verwendet. Auf den erste
     </Entry>
     <Entry>
       <ID>1275</ID>
-      <DefaultText>Diese Schriftrolle ist mit dem Siegel einer Gewitterwolke geprägt. Sie beschreibt einen Zauber, durch welchen der Wirker einen verheerenden Wirbel aus Flammen, Eis, Blitz und Zersetzung schaffen kann.</DefaultText>
+      <DefaultText>Diese Schriftrolle ist mit dem geprägten Siegel einer Gewitterwolke versehen. Sie beschreibt einen Zauber, durch welchen der Wirker einen verheerenden Wirbel aus Flammen, Eis, Blitz und Korrosion schaffen kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6743,7 +6739,7 @@ Dieser Stab ist heiß, wenn man ihn anfasst. Er spuckt Feuerbälle aus. Er ist s
     </Entry>
     <Entry>
       <ID>1348</ID>
-      <DefaultText>Kalakoths geringe Fäule - Zersetzung</DefaultText>
+      <DefaultText>Kalakoths geringe Fäule - Säure</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7396,7 +7392,7 @@ Dieser Umhang ist mit dem Sonnensymbol von Eothas verziert.</DefaultText>
     </Entry>
     <Entry>
       <ID>1458</ID>
-      <DefaultText>Schwache, ätherische Fragmente manifestierter Seelenenergie.</DefaultText>
+      <DefaultText>Schwache, ätherische Fragmente manifestierter Seelenenergie. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7575,7 +7571,7 @@ In den meisten Versionen der Geschichte konnte ihr ohnehin schon geschwächter K
     </Entry>
     <Entry>
       <ID>1488</ID>
-      <DefaultText>Telda war eine Elfenzauberin aus Aedyr, die immer wieder an den Grenzen ihrer beträchtlichen Macht verzweifelte. Nachdem sie fast zweihundert Jahre lang die meisten Zauber gemeistert hatte, die den Leuten bekannt waren, stellte sie fest, dass ihre größte Herausforderung nicht in ihrem Repertoire lag, sondern in ihrer Unfähigkeit, ihre Magie regelmäßiger einzusetzen.
+      <DefaultText>Telda war eine Elfenzauberin aus Aedyr, die immer wieder an den Grenzen ihrer beträchtlichen Macht verzweifelte. Nachdem sie fast zweihundert Jahre lang die meisten Zauber gemeistert hatte, die den Gestandenen bekannt waren, stellte sie fest, dass ihre größte Herausforderung nicht in ihrem Repertoire lag, sondern in ihrer Unfähigkeit, ihre Magie regelmäßiger einzusetzen.
 
 Sie verbrachte das letzte Jahrhundert ihres Lebens damit, einen Weg zu suchen, ihre Fähigkeiten zu verstärken. Als sie schließlich den Zauber entwickelte hatte, den sie benötigte, ließ sie ihn in diesen Ring bannen, damit der umsichtige Zauberer den Zauber nicht bewirken müsse, um ihn zu nutzen.</DefaultText>
       <FemaleText />
@@ -7854,7 +7850,7 @@ Nach Edrangs Tod im Jahr 2654 wurde Admeth zum Gréf des Dyrwalds, zum Entsetzen
     </Entry>
     <Entry>
       <ID>1539</ID>
-      <DefaultText>Das Ewige Weiß</DefaultText>
+      <DefaultText>Das Ewige Weiß </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7874,7 +7870,7 @@ Nach Edrangs Tod im Jahr 2654 wurde Admeth zum Gréf des Dyrwalds, zum Entsetzen
     </Entry>
     <Entry>
       <ID>1543</ID>
-      <DefaultText>"Aedyr ist ein Land, das reich an Tradition und Brauchtum ist. Die strikte Einhaltung dieser Traditionen ist einer der Grundpfeiler der aedyranischen Gesellschaft. Das Spektrum der Bräuche reicht dabei von großen Feiern - wie dem Festmahl der Festmahle - bis zu trivialem Aberglauben - wie den Möglichkeiten, eine Svef-Sucht zu vermeiden. Dieser Band beschäftigt sich primär mit größeren Feierlichkeiten, denn niemand weiß rauschendere Feste auszurichten als ein Aedyraner.
+      <DefaultText>"Aedyr ist ein Land, das reich an Tradition und Brauchtum ist. Die strikte Einhaltung dieser Traditionen ist einer der Grundpfeiler der aedyranischen Gesellschaft. Das Spektrum der Bräuche reicht dabei von großen Feiern - wie dem Festmahl der Festmahle - bis zu trivialem Aberglauben - wie den Möglichkeiten, eine Svef-Sucht zu vermeiden. Dieser Band beschäftigt sich primär mit größeren Feierlichkeiten, denn niemand weiß rauschende Feste auszurichten wie ein Aedyraner.
 
 Das Festmahl der Festmahle
 
@@ -7961,7 +7957,7 @@ Seine Forschungen und seine Lebenswerk hatten zur größten Entdeckung geführt,
 
 Doch alles hat seinen Preis. Schnell wurde offenbar, dass die schlichte Bindung der Seele die Person zwar technisch gesehen "am Leben" hielt, sich auf den Körper jedoch nicht auswirkte. Nein, der Körper verfiel weiter - und ließ die nun darin gefangenen Seele verkümmern und verkommen. Die Kreaturen, die dabei entstanden, waren gefährlich - fleischfressende Bestien, die brutal und wahllos töteten. Die Gegenreaktion war gnadenlos. Die Umsetzung der Entdeckungen Pandgrams wurde verboten. Seine Werke wurden konfisziert und verbrannt. Er und Helig wurden als Ketzer gebrandmarkt und verjagt, von Stadt zu Stadt getrieben, bis Pandgram einfach verschwand.
 
-Helig wurde verfolgt, gefangen genommen und für die Gräueltaten an Vailia und seinem Volk vor Gericht gestellt. Der Prozess war kaum mehr als eine Formalität, denn jeder wusste, welche Rolle er in der Katastrophe gespielt hatte. Er wurde für viele Jahre ins Gefängnis geworfen, schließlich aber freigelassen, nachdem die öffentliche Empörung sich gelegt hatte. Kurz nach seiner Entlassung verschwand auch er.
+Helig wurde verfolgt, gefangen genommen und für die Gräueltaten an Vailia und seinem Volk vor Gericht gestellt. Der Prozess war kaum mehr als eine Formalität, denn jeder wusste, welche Rolle er in der Katastrophe gespielt hatte. Er wurde jahrelang ins Gefängnis geworfen, schließlich aber freigelassen, nachdem die öffentliche Empörung sich gelegt hatte. Kurz nach seiner Entlassung verschwand auch er.
 
 Gelegentlich macht das Gerücht die Runde, ein Exemplar von Pandgrams Lehrsätzen sei entdeckt worden, von den Flammen verschont, die seine Brüder vernichteten. Diese Gerüchte sind aber nichts als Gerüchte. Viele Gruppierungen und reiche Leute haben verlauten lassen, dass sie ein Exemplar der Lehrsätze suchen. Sie bieten Gold, Juwelen, Status - was sie nur können, um Abenteurer zu motivieren, ihnen bei ihrer Suche zu helfen. Denn viele würden alles tun, um unsterblich zu werden - selbst zu einem Monster werden."</DefaultText>
       <FemaleText />
@@ -8256,7 +8252,7 @@ Alle Kreaturen, über die in diesem Buch berichtet wurden, verblassen gegenüber
     </Entry>
     <Entry>
       <ID>1560</ID>
-      <DefaultText>"Die Expedition
+      <DefaultText>"'Die Expedition'
 
 Ich bewege mich.
 Es herrscht kein Zwang. Es ist kein Verlangen.
@@ -8389,7 +8385,7 @@ Rebelliere gegen jene, die dich entfernen möchten."</DefaultText>
 
 Waidwen lebte ein einfaches Leben in einem entlegenen Winkel von Readceras, der Sohn eines Vorlas-Bauern. Er schuftete 22 Jahre lang neben seinem Vater auf den Feldern, bis sein Vater starb. Er erbte den Hof. Er spielte mit dem Gedanken, ihn zu verkaufen, doch er besaß keinerlei andere Fähigkeiten, also wurde auch er Vorlas-Bauer. In den vier Jahren nach dem Tod seines Vaters scheint in Waidwens Leben nichts Bemerkenswertes geschehen zu sein. Eines Tages aber, als er auf dem Feld arbeitete, änderte sich Waidwens Leben unwiderbringlich. Mit seinen Worten:
 
-'Die Nacht brach herein, die Finger der Dämmerung hatten den Himmel bereits im Griff. Die Sonne war hinter dem Rand der Welt versunken und Sterne blitzten von jenseits des Schleiers hervor. Der Tag war still und die Felder lagen gebettet in Dunkelheit. Ich legte meine letzte Ernte des Tages nieder, als hinter mir plötzlich ein gleißendes Licht erstrahlte. Ich wandte mich um, Furcht in der Brust, nicht wissend, was ein solches Strahlen verursacht haben könnte.
+'Die Nacht brach herein, die Finger der Dämmerung hatten den Himmel bereits im Griff. Die Sonne war hinter dem Rand der Welt versunken und Sterne blitzten von jenseits des Schleiers hervor. Der Tag war still und die Felder lagen gebettet in Dunkelheit. Ich legte meine letzte Ernte des Tages nieder, als hinter mir plötzlich ein gleißendes Licht erstrahlte. Ich wandte mich um, Furcht in der Brust, nicht wissen, was ein solches Strahlen verursacht haben könnte.
 
 Hinter mir stand eine leuchtende Gestalt, strahlend vor Herrlichkeit. Ihr weißes Fleisch glänzte, ihr Kopf war ein gleißender Ball des Lichts, heller als die höchste Sonne an Mittjahr. Ich wandte den Blick ab, aus Furcht, ich würde gerichtet werden, wenn ich es nur wagte, eine solche Kreatur anzusehen.
 
@@ -9728,11 +9724,11 @@ Retsim Namotatop</DefaultText>
       <ID>1711</ID>
       <DefaultText>Wie treffend, dass wir den Gott der Kreisläufe, Türen, Sterblichkeit und Unausweichlichkeit als Berath kennen, während die Vailianer eben jenen Gott als Cirono kennen. Denn Berath lehrt uns vor allem eins - das in allen Dingen Dualität besteht. Es liegt Leben im Tod, und Tod im Leben - erkenne und schätze diese Dualität und du ehrst Berath.
 
-In den Ruinen von Eir Glanfath wird Berath in Form von zwei halb skelettartigen Gestalten dargestellt - eine männlich, die andere weiblich: Bewnen i Ankew und Ankew i Bewnen, in der glanfathanischen Sprache wörtlich 'Leben im Tod' und 'Tod im Leben'. Männlich und weiblich, innen und außen, Leben und Tod - wenn wir an Berath denken, stellen wir ihn uns oft als die zwei Seiten einer Münze vor, oder als die zwei Endpunkte einer Reise.
+In den Ruinen von Eir Glanfath wird Berath in Form von zwei halb skelettartigen Gestalten dargestellt - eine männlich, die andere weiblich: Bewnen i Ankew und Ankew i Bewnen, in der glanfathanischen Sprache wörtlich 'Leben im Tod' und 'Tod im Leben'. Männlich und weiblich, innen und außen, Leben und Tod - wenn wir an Berath denken, stellen wir ihn uns oft als die zwei Seiten einer Münzer vor, oder als die zwei Endpunkte einer Reise.
 
-Es heißt, dass Berath von allen Göttern die meisten Bittsteller hat. Vermutlich ist es wahr, denn wer von uns hat noch nie dafür gebetet, dass der Kreislauf stockt? Wer hat noch nie in einem Augenblick der Trauer Berath angeschrien, nur für einen geliebten Verstorbenen eine Ausnahme zu machen?
+Es heißt, dass Berath von allen Göttern die meisten Bittsteller hat. Vermutlich ist es wahr, denn wer von uns hat noch nie darum gebetet, dass der Kreislauf stockt? Wer hat noch nie in einem Augenblick der Trauer Berath angeschrien, nur für einen geliebten Verstorbenen eine Ausnahme zu machen?
 
-Berath rettet vielleicht unsere Verstorbenen nicht, aber er beantwortet unsere Gebete auf seine eigene, göttliche Weise. Berath ist der Gott, der das Leben im Tod enden lässt, und er ist der Gott, der den Tod im Leben enden lässt. Berath, Cirono, Bewnen I Ankew, Ankew I Bewnen - welchen Namen man auch bevorzugt, die Gottheit verdient unsere Gebete, denn sie hat uns das Versprechen der ewigen Erneuerung des Lebens gegeben.</DefaultText>
+Berath rettet vielleicht unsere Verstorbenen nicht, aber er beantwortet unsere Gebete auf seine eigene, göttliche Weise. Berath ist der Gott, der das Leben im Tod enden lässt, und er ist der Gott, der den Tod im Leben enden lässt. Berath, Cirono, Bewnen I Ankew, Ankew I Bewnen - welchen Namen man auch bevorzugt, die Gottheit verdient unsere Gebete, denn sie hat uns das Versprochen der ewigen Erneuerung des Lebens gegeben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9885,7 +9881,7 @@ morgen werde ich zum Bildnis. Morgen werde ich zu Skaens Verköperung auf Eora. 
 
 Monatelange haben wir uns als geheime Konklave getroffen, um den Niedergang unseres Grundherrn zu planen, während wir die Felder bestellt haben, als wären unsere Herzen voller Zufriedenheit. Skaen lehrt uns, mit dem Verstand zu planen, während unser Gesicht unbeteiligt bleibt, unergründlich - gerecht können nur jene kämpfen, die Armeen besitzen. Der Stille Sklave ist unser Schleifstein, unser Fokus - indem wir ihn anbeten, findet unsere Sache Fokus, Klarheit und Möglichkeit! Morgen erstickt mein Meister an seiner eigenen Peitsche.
 
-Wenn du dies liest, bin ich tot. Ich bete, dass Skaen mich nicht aufgibt, weil ich von meinem Plan spreche, doch ein Sohn verdient es zu erfahren, wie sein Vater starb. Denn ich habe mich freiwillig als Bildnis gemeldet - Skaen wird in meinen Körper fahren und das einfache Fleisch dieses alten Bauern als Marionette göttlichen Zorns nutzen. Ich wurde rasiert und gesalbt - morgen Früh werde ich nur noch dem Namen nach dein Vater sein. Meine Männlichkeit wird entfernt, meine Nase und meine Ohren werden entfernt, meine nutzlosen sterblichen Augen werden durch Feuersteine ersetzt, durch die Skaen die Welt sehen kann.
+Wenn du dies liest, bin ich tot. Ich bete, dass Skaen mich nicht aufgibt, weil ich von meinem Plan spreche, doch ein Sohn verdient es zu erfahren, wie sein Vater starb. Denn ich habe mich freiwillig als Bildnis gemeldet - Skaen wird in meinen Körper fahren und das einfache Fleisch dieses alten Bauern als Marionette göttlichen Zorns nutzen. Ich wurde rasiert und gesalbt - morgen Früh werde ich nur noch dem Namen nach dein Vater sein. Mein Männlichkeit wird entfernt, meine Nase und meine Ohren werden entfernt, meine nutzlosen sterblichen Augen werden durch Feuersteine ersetzt, durch die Skaen die Welt sehen kann.
 
 Mein Sohn, es tut mir leid, dass ich dich seit einigen Monden belogen habe, doch Skaen verlangt Geheimhaltung - selbst deine Mutter weiß nichts von meinem heimlichen Dienst am Stillen Sklaven. Verfluche meinen Namen, wenn du musst, aber weine niemals um mich - denn ich sterbe, um unsere Gemeinschaft zu verbessern, un die Korruption unseres Herrn vom Angesichte Eoras zu tilgen! Morgen wird mein Meister an seiner eigenen Peitsche ersticken, denn morgen werde ich zum Bildnis!</DefaultText>
       <FemaleText />
@@ -10047,7 +10043,7 @@ Yngmar wird "IING-mar" gesprochen, mit einem langen Vokallaut zu Beginn.</Defaul
     </Entry>
     <Entry>
       <ID>1746</ID>
-      <DefaultText>Umgibt den Zauberwirker mit einem geheimnisvollen Schild und durchdringt ihn mit Boni auf die Schadensresistenz gegen Brand-, Frost-, Zersetzungs- und Schockschaden.</DefaultText>
+      <DefaultText>Umgibt den Zauberwirker mit einem geheimnisvollen Schild und durchdringt ihn mit Boni auf die Schadensresistenz gegen Verbrennungs-, Frost-, Säure- und Schockschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10167,42 +10163,42 @@ Yngmar wird "IING-mar" gesprochen, mit einem langen Vokallaut zu Beginn.</Defaul
     </Entry>
     <Entry>
       <ID>1770</ID>
-      <DefaultText>Erzeugt einen Feuerkegel vor dem Zauberwirker, der jedem im Wirkungsbereich Brandschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt einen Feuerkegel vor dem Zauberwirker, der jedem im Wirkungsbereich Verbrennungsschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1771</ID>
-      <DefaultText>Beschwört einen Feuerball aus geschmolzener Erde herauf, der über dem Ziel explodiert und bei allen im Wirkungsbereich Brandschaden verursacht.</DefaultText>
+      <DefaultText>Beschwört einen Feuerball aus geschmolzener Erde herauf, der über dem Ziel explodiert und bei allen im Wirkungsbereich Verbrennungsschaden verursacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1772</ID>
-      <DefaultText>Ein Stromblitz springt von den Händen des Zauberwirkers auf den nächsten Feind und anschließend auf die umstehenden Feinde über, wobei diese abnehmenden Schockschaden erleiden.</DefaultText>
+      <DefaultText>Ein Stromblitz springt von den Händen des Zauberwirkers auf den nächsten Feind und anschließend auf die umstehenden Feinde über, wobei diese abnehmenden Elektroschockschaden erleiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1773</ID>
-      <DefaultText>Beschwört drei Zaubergeschosse, die im Ziel einschlagen und Wuchtschaden verursachen.</DefaultText>
+      <DefaultText>Beschwört drei Zaubergeschosse, die im Ziel einschlagen und Schmetterschaden verursachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1774</ID>
-      <DefaultText>Beschwört drei Zaubergeschosse, die im Ziel einschlagen und Wuchtschaden verursachen.</DefaultText>
+      <DefaultText>Beschwört drei Zaubergeschosse, die im Ziel einschlagen und Schmetterschaden verursachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1775</ID>
-      <DefaultText>Erzeugt einen brennenden Flammenstrahl zwischen dem Zauberwirker und dem Ziel, der dem Ziel und jedem, der in dem Strahl gefangen ist, anhaltenden Brandschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt einen brennenden Flammenstrahl zwischen dem Zauberwirker und dem Ziel, der dem Ziel und jedem, der in dem Strahl gefangen ist, anhaltenden Verbrennungsschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1776</ID>
-      <DefaultText>Erzeugt einen abprallenden Feuerball, der jedem, der im Weg steht, Brandschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt einen abprallenden Feuerball, der jedem, der im Weg steht, Verbrennungsschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1777</ID>
-      <DefaultText>Erzeugt ein fürchterliches senkrechtes Flammentuch, das jedem Brandschaden zufügt, der hindurchschreitet.</DefaultText>
+      <DefaultText>Erzeugt ein fürchterliches senkrechtes Flammentuch, das jedem Verbrennungsschaden zufügt, der hindurchschreitet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10287,17 +10283,17 @@ Yngmar wird "IING-mar" gesprochen, mit einem langen Vokallaut zu Beginn.</Defaul
     </Entry>
     <Entry>
       <ID>1794</ID>
-      <DefaultText>Alle im kegelförmigen Wirkungsbereich erleiden Brandschaden und werden zurückgedrängt.</DefaultText>
+      <DefaultText>Alle im kegelförmigen Wirkungsbereich erleiden Verbrennungsschaden und werden zurückgedrängt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1795</ID>
-      <DefaultText>Erzeugt schnell einen explosiven Flammenblitz, der jedem im Wirkungsbereich Brandschaden zufügt. Kurze Zauberdauer.</DefaultText>
+      <DefaultText>Erzeugt schnell einen explosiven Flammenblitz, der jedem im Wirkungsbereich Verbrennungsschaden zufügt. Kurze Zauberdauer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1796</ID>
-      <DefaultText>Lockt einen Schwarm aggressiver Insekten an, die mit der Zeit direkten Schaden verursachen und die Konzentration von jedem im Wirkungsbereich verringern.</DefaultText>
+      <DefaultText>Lockt einen Schwarm aggressiver Insekten an, die mit der Zeit Wundschaden verursachen und die Konzentration von jedem im Wirkungsbereich verringern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10362,7 +10358,7 @@ Yngmar wird "IING-mar" gesprochen, mit einem langen Vokallaut zu Beginn.</Defaul
     </Entry>
     <Entry>
       <ID>1809</ID>
-      <DefaultText>Schleudert zwei tödliche Felsen von der Position des Druiden aus, die jedem in ihrer Flugbahn Wuchtschaden zufügen und beim Einschlag auf festem Untergrund zerspringen, wobei die Bruchstücke allen Umstehenden Stichschaden zufügen.</DefaultText>
+      <DefaultText>Schleudert zwei tödliche Felsen von der Position des Druiden aus, die jedem in ihrer Flugbahn Schmetterschaden zufügen und beim Einschlag auf festem Untergrund zerspringen, wobei die Bruchstücke allen Umstehenden Stichschaden zufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10720,7 +10716,7 @@ Das Glück des stolzen Besitzers hielt jedoch nicht lange an. Kurz, nachdem er d
       <ID>1877</ID>
       <DefaultText>Die überall im Östlichen Abschnitt gefürchteten, aber doch kaum gesehenen, gewaltigen Maegfolc sind für ihre beeindruckende Stärke und zerstörerische Wut berüchtigt.
 
-Trotz seiner Dicke und seines Gewichts ist dieser Gürtel optisch nicht sonderlich bemerkenswert. Sein robustes, von auffälligem Schnee-Stelgaer-Fell gesäumtes Leder stammt wahrscheinlich aus den furchterregenden Bergen der Weißmark.</DefaultText>
+Trotz seiner Dicke und seines Gewichts ist dieser Gürtel optisch nicht sonderlich bemerkenswert. Sein robustes, von auffälligem Schnee-Stelgaer-Fell gesäumtes Leder stammt wahrscheinlich aus den furchterregenden Bergen der Weißmark. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10786,27 +10782,22 @@ Nach ihrem Tod wurde die Waffe an Aedwyns Enkel im Dyrwald weitergegeben. Als Th
     </Entry>
     <Entry>
       <ID>1889</ID>
-      <DefaultText>Einst wurden Löwen in den Ebenen östlich und südlich von Eir Glanfaths ausgedehnten Wäldern oft gesichtet, aber die Kolonisierung im Östlichen Abschnitt hat die Großkatzen in die relative Sicherheit des Territoriums zwischen den glanfathanischen und dyrwäldlerischen Siedlungen zurückgedrängt. Zusätzlich zu ihrer enormen Kraft sind Löwen für ihr Gebrüll bekannt, einem furchterregenden Geräusch, das selbst der tapfersten Person die Angst ins Herz treiben kann.</DefaultText>
+      <DefaultText>Einst wurden Löwen in den Ebenen östlich und südlich von Eir Glanfaths ausgedehnten Wäldern oft gesichtet, aber die Kolonisierung im Östlichen Abschnitt hat die Großkatzen in die relative Sicherheit des Territoriums zwischen den glanfathanischen und dyrwäldlerischen Siedlungen zurückgedrängt. Zusätzlich zu ihrer enormen Kraft sind Löwen für ihr Gebrüll bekannt, einem furchterregenden Geräusch, das selbst dem tapfersten Gestandenen die Angst ins Herz treiben kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1890</ID>
-      <DefaultText>Beschädigtes Horn</DefaultText>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1891</ID>
-      <DefaultText>Gebrochenes Horn</DefaultText>
+      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1892</ID>
-      <DefaultText>Zerbeulter Helm</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1893</ID>
-      <DefaultText>Garodhs Refrain</DefaultText>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

@@ -9740,12 +9740,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1960</ID>
-      <DefaultText>Graphics Quality</DefaultText>
+      <DefaultText>Grafikqualität</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1961</ID>
-      <DefaultText>Adjust the game's graphics quality. Use a lower setting if your game runs slowly.</DefaultText>
+      <DefaultText>Diese Option ändert die Grafikqualität des Spiels. Verwende eine niedrigere Einstellung, falls das Spiel nicht flüssig läuft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

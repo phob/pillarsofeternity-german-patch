@@ -60,7 +60,7 @@ Ein bei ihren Fersen stehender großer Fuchs mit weißem Fell schaut auf, als du
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Genau das habe ich gehört. Aber der Mann, der mir das sagte, behauptete auch, dass der Stab, den er bei sich trug, aus einem Drachenknochen geschnitten wurde ... . aber ich erkenne Weißholz, wenn ich es sehe."
+      <DefaultText>"Genau das habe ich gehört. Aber der Mann, der mir das sagte, behauptete auch, dass der Stab, den er bei sich trug, aus einem Drachenknochen geschnitten wurde ... aber ich erkenne Weißholz, wenn ich es sehe."
 
 Sie rollt die Augen nach oben und schüttelt den Kopf. "Das hätte mein erster Hinweis sein sollen, aber ich musste etwas ausprobieren."</DefaultText>
       <FemaleText />
@@ -77,7 +77,7 @@ Sie rollt die Augen nach oben und schüttelt den Kopf. "Das hätte mein erster H
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"'Etwas ausprobieren?'" "Von was genau sprichst du?"</DefaultText>
+      <DefaultText>"'Etwas ausprobieren'? Von was genau sprichst du?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -114,7 +114,7 @@ Sie beobachtet skeptisch, aber neugierig, wie du es untersuchst.</DefaultText>
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Du steht auf einer Klippe über dem Meer und siehst durch Augen, die nicht deine eigenen sind. Du nimmst den Geruch von Biestern den frischen Geruch zerfallender Vegetation auf, und dein Herz schlägt ein bisschen schneller als sonst. Hier oben musst du aufpassen, wohin du gehst.
+      <DefaultText>Du steht auf einer Klippe über dem Meer und siehst durch Augen, die nicht deine eigenen sind. Du nimmst den Geruch von Biestern zwischen dem frischen Geruch von Vegetation auf, und dein Herz schlägt ein bisschen schneller als sonst. Hier oben musst du aufpassen, wohin du gehst.
 
 Du blickt gerade lang genug hinunter, um die scharfen, blassen Klippen hunderte Meter weiter unten ins Meer tauchen zu sehen.</DefaultText>
       <FemaleText />
@@ -166,7 +166,7 @@ Du blickt gerade lang genug hinunter, um die scharfen, blassen Klippen hunderte 
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Sagani schließt zu dir auf, mit ihrem Fuchs an der Seite, und setzt sich neben dir.</DefaultText>
+      <DefaultText>Sagani schließt zu dir auf, mit ihrem Fuchs an der Seite, und setzt sich neben dich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -640,7 +640,7 @@ Als sie es dir hinhält, spürst du schwache Empfindungen. Keine echten Erinneru
       <ID>214</ID>
       <DefaultText>"Ich war schon auf dem Weg aus dem Baelsumpf heraus, als ich die Leute über einen fahrenden Mystiker reden hörte, der angeblich Seelen lesen kann." Sie zuckt mit den Achseln. "Ich wusste, dass es unwahrscheinlich war, aber was hatte ich schon zu verlieren?"
 
-"Also suchte ich diesen Kerl auf und gab ihm das Adra-Figürchen. Er zog eine große Schau ab, stöhnte und rollte mit den Augen, und nachdem ich ihm fünf Gold-Ducs zum Lüften des Schleiers gegeben hatte, sagte er mir, ich sollte mich zur Kreuzung im Feld zwischen der 'Wolfsschanze' und den 'sich windenden Bäumen' begeben."</DefaultText>
+"Also suchte ich diesen Kerl auf und gab ihm das Adra-Figürchen. Er zog eine große Schau ab, stöhnte und rollte mit den Augen, und nachdem ich ihm fünf Gold-Ducs zum Lüften des Schleiers gegeben hatte, sagte er mir, ich sollte mich zur Kreuzung im Feld zwischen der 'Wolfshöhle' und den 'sich windenden Bäumen' begeben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -664,7 +664,7 @@ Als sie es dir hinhält, spürst du schwache Empfindungen. Keine echten Erinneru
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>"Sind 'sich windenden Bäume' ein wirklicher Ort?"</DefaultText>
+      <DefaultText>"Sind die 'sich windenden Bäume' ein wirklicher Ort?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

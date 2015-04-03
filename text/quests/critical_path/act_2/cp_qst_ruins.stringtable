@@ -36,17 +36,17 @@
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Der Tempel von Woedica liegt in Ruinen, zumindest über der Erde. Ich hatte eine Vision von Seelen, die über eine ruinierte Treppe in eine Kammer unterhalb des Tempels hinabgingen. Die Treppe kann nicht mehr benutzt werden, aber möglicherweise gibt es durch die Katakomben von Trutzbucht noch einen anderen Weg zum Tempel.</DefaultText>
+      <DefaultText>Der Tempel von Woedica liegt in Ruinen, zumindest der Teil an der Oberfläche. Ich hatte eine Vision von Seelen, die über eine zerstörte Treppe in eine Kammer unterhalb des Tempels hinabgingen. Die Treppe kann nicht mehr benutzt werden, aber möglicherweise gibt es durch die Katakomben von Trutzbucht noch einen anderen Weg zum Tempel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Ich habe den unterirdischen Bereich des Woedica-Tempels erreicht. Jetzt muss ich den Ort nur noch untersuchen und herausfinden, was der Bleierne Schlüssel in Trutzbucht tut.</DefaultText>
+      <DefaultText>Ich habe den unterirdischen Bereich des Woedica-Tempels erreicht. Jetzt muss ich den Ort nur noch untersuchen und herausfinden, was der Bleierne Schlüssel in Trutzbucht vor hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Ich gab mich als vom Bleiernen Schlüssel angeworbener Söldner aus, und kann mich nun frei in den Ruinen bewegen.</DefaultText>
+      <DefaultText>Ich gab mich als vom Bleiernen Schlüssel angeworbener Söldner aus und kann mich nun frei in den Ruinen bewegen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

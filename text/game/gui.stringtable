@@ -3810,12 +3810,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>754</ID>
-      <DefaultText>Raum kaufen</DefaultText>
+      <DefaultText>Zimmer mieten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>755</ID>
-      <DefaultText>{1} in {0} rasten?</DefaultText>
+      <DefaultText>Für {1} in {0} rasten?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

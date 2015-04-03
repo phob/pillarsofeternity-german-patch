@@ -77,7 +77,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Der wirklich interessante Teil aber ist da drin." Er deutet mit dem Stück Holzkohle auf die Tore. " ... und viel Glück beim Erreichen der Burg selbst hatte ich auch nicht. Ich hoffe, den Herren dieses Orts zu finden - einen Mann namens Maerwald - aber entweder liegt ihm seine Privatsphäre sehr am Herzen, oder er wurde von seinen Hausgästen verschlungen."</DefaultText>
+      <DefaultText>"Der wirklich interessante Teil aber ist da drin." Er deutet mit dem Stück Holzkohle auf die Tore. " ... und viel Glück beim Erreichen der Burg selbst hatte ich auch nicht. Ich hoffe, den Herren dieses Orts zu finden - einen Mann namens Maerwald - aber entweder liegt ihm seine Privatsphäre sehr am Herzen oder er wurde von seinen Hausgästen verschlungen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,24 +131,24 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Exakt! Genau dieses Frage stellt sich." Er lacht. "Mein Freund, das ist eine lange und verwobene Geschichte, wie es alle guten Lieder sein sollten. Mit der Zeit kann ich dir mehr dazu erzählen, wenn du möchtest."</DefaultText>
+      <DefaultText>"Exakt! Genau dieses Frage stellt sich." Er lacht. "Mein Freund, das ist eine lange und verworrene Geschichte, wie es alle guten Lieder sein sollten. Mit der Zeit kann ich dir mehr dazu erzählen, wenn du möchtest."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Naja ... es ist halt so, dass sich zwischen der Burg und mir viele gefährliche Kreaturen befinden. Versucht habe ich es natürlich ... und ich wurde von finsteren Geistern vertrieben."</DefaultText>
+      <DefaultText>"Naja ... es ist halt so, dass sich zwischen der Burg und mir viele gefährliche Kreaturen befinden. Versucht habe ich es natürlich ... und wurde von finsteren Geistern wieder vertrieben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Wissen." Er grinst. "Oder, mit einfacheren Worten: einen bestimmten Text. Ich bin auf der Suche nach einem großen Schatz hierher gekommen, musst du wissen. Kein Gold oder Silber, sondern das Tanvii ora Toha. Man könnte es auch das 'Buch der Tugenden' nennen." 
+      <DefaultText>"Wissen." Er grinst. "Oder mit einfacheren Worten: einen bestimmten Text. Ich bin auf der Suche nach einem großen Schatz hierher gekommen, musst du wissen. Kein Gold oder Silber, sondern das Tanvii ora Toha. Man könnte es auch das 'Buch der Tugenden' nennen." 
 
 "Es enthält heilige Texte von Rauatai - aber wir besitzen nur ein kleines Fragment davon."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Ein Jahr war ich nach dem Rest auf der Suche, und ich habe Beweise aufgedeckt, die mich glauben lassen, dass sich das Original gleich da drüben befindet - unterhalb der Burg."</DefaultText>
+      <DefaultText>"Ein Jahr war ich auf der Suche nach dem Rest und ich habe Hinweise gefunden, die mich glauben lassen, dass sich das Original gleich da drüben befindet - unterhalb der Burg."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -158,7 +158,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Ein Jahr war ich nach dem Rest auf der Suche, und ich habe Beweise aufgedeckt, die mich glauben lassen, dass sich das Original gleich da drüben befindet - unterhalb der Burg. Ich möchte Maerwald fragen, was er darüber weiß."</DefaultText>
+      <DefaultText>"Ein Jahr war ich auf der Suche nach dem Rest und ich habe Hinweise gefunden, die mich glauben lassen, dass sich das Original gleich da drüben befindet - unterhalb der Burg. Ich möchte Maerwald fragen, was er darüber weiß."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -178,12 +178,12 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Ein Wächter?" Er blickt dich mit unverhohlener Neugier an. "Hast du mit Geistern gesprochen? Wenn ich dasselbe tun könnte, hätte ich viele Fragen zu stellen."</DefaultText>
+      <DefaultText>"Ein Wächter?" Er blickt dich mit unverhohlener Neugier an. "Hast du mit Geistern gesprochen? Wenn ich das auch könnte, gäbe es vieles, was ich fragen würde."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Dann lass uns Maerwald treffen gehen."</DefaultText>
+      <DefaultText>"Dann lass uns Maerwald aufsuchen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -195,7 +195,7 @@
       <ID>38</ID>
       <DefaultText>"Hervorragend! Geh voran, mein Freund, ich werde dir auf dem Fuße folgen ... oh, Moment: Wo wir gerade dabei sind, sollte ich dich zuerst warnen. Bei Ondras Zähnen, das habe ich fast vergessen."
 
-"Manchmal ist mir jemand gefolgt - es begann in Aedyr, und in Ixamitl haben sie mich gleich angegriffen ... ich glaube, sie wollen nicht, dass ich finde, nach was ich suche."</DefaultText>
+"Manchmal ist mir jemand gefolgt - es begann in Aedyr, und in Ixamitl haben sie mich gleich angegriffen ... ich glaube, sie wollen nicht, dass ich finde, wonach ich suche."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -220,7 +220,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Ach, dann ein umherstreifender Reisender? Du hast einen guten Geschmack für Landschaften. Das könnte mir zum Vorteil gereichen - vielleicht würdest du es in Betracht ziehen, mit mir zu reisen? Mit vereinten Kräften könnten wir die Burg sicherlich ohne Schwierigkeiten erreichen."</DefaultText>
+      <DefaultText>"Ach, dann ein umherstreifender Reisender? Du hast einen guten Geschmack für Landschaften. Das könnte mir zum Vorteil gereichen - würdest du es vielleicht in Betracht ziehen, mit mir zu reisen? Mit vereinten Kräften könnten wir die Burg sicherlich ohne Schwierigkeiten betreten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -230,7 +230,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Oh. Ich wollte dich nicht beleidigen! Ich dachte nur, wir könnten einander helfen. Mit vereinten Kräften könnten wir die Burg sicherlich ohne Schwierigkeiten erreichen. Oder zumindest mit sehr geringen Schwierigkeiten."</DefaultText>
+      <DefaultText>"Oh. Ich wollte dich nicht beleidigen! Ich dachte nur, wir könnten einander helfen. Mit vereinten Kräften könnten wir die Burg sicherlich ohne Schwierigkeiten betreten. Oder zumindest mit sehr geringen Schwierigkeiten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -252,12 +252,12 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ich möchte daran nicht teilhaben. Ich werde meinen eigenen Weg gehen."</DefaultText>
+      <DefaultText>"Ich möchte nichts damit zu tun haben. Ich werde meinen eigenen Weg gehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Was sind schon ein paar Mörder zwischen Freunden?"</DefaultText>
+      <DefaultText>"Was sind schon ein paar Mörder verglichen mit unserer Freundschaft?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

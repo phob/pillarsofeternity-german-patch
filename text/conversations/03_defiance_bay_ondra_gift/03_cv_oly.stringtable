@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Also, wenn das nicht einfach ... " Er umklammert seinen Becher und schaut weg. "Ich hab diesem Trottel gesagt, dass er sich am einfachen Leben erfreuen soll. Aber nein, er muss natürlich diesen hochtrabenden Ideen hinterherjagen. Er konnte einfach nicht aufhören, wie anders alles sein könnte ... "</DefaultText>
+      <DefaultText>"Also, wenn das nicht einfach ..." Er umklammert seinen Becher und schaut weg. "Ich hab diesem Trottel gesagt, dass er sich am einfachen Leben erfreuen soll. Aber nein, er muss natürlich diesen hochtrabenden Ideen hinterherjagen. Er konnte einfach nicht aufhören sich vorzustellen, wie anders alles sein könnte ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,17 +156,17 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Dieser Tisch ist besetzt, such dir einen anderen." Er breitet seine Ellbogen über das Holz aus und zieht seine Getränke zu sich heran.</DefaultText>
+      <DefaultText>"Dieser Tisch ist besetzt, such dir einen anderen." Er breitet seine Ellbogen über das Holz aus und zieht sein Getränk zu sich heran.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
       <DefaultText>[Olys Getränk austrinken.] "Ich bin dein neuer Saufkumpan. Und ich habe Fragen an dich."</DefaultText>
-      <FemaleText />
+      <FemaleText>[Olys Getränk austrinken.] "Ich bin deine neue Saufkumpanin. Und ich habe Fragen an dich."</FemaleText>
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Er starrt dich verblüfft an. "Na, dann frag schon los ... "</DefaultText>
+      <DefaultText>Er starrt dich verblüfft an. "Na, dann frag schon los ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,7 +201,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Seine Sterne zu ändern versuchen, ist zwecklos. Man sollte besser das genießen, was man hat ... so lange man es hat."</DefaultText>
+      <DefaultText>"Versuchen sein Schicksal zu verändern ist zwecklos. Man sollte besser das genießen, was man hat ... so lange man es hat."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

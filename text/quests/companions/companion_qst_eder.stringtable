@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Durchsuche das Schlachtfeld auf Spuren vom Krieg des Heiligen.</DefaultText>
+      <DefaultText>Durchsuche das Schlachtfeld nach Spuren vom Krieg des Heiligen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Nachdem ich Edér sagte, dass ich unterwegs nach Caed Nua sei, um dort seinen Fürsten aufzusuchen, einen alten Wächter namens Maerwald, sagte er, dass auch er Maerwald gerne einige Dinge fragen würde.</DefaultText>
+      <DefaultText>Nachdem ich Edér erzählt hatte, dass ich unterwegs nach Caed Nua sei, um dort den hiesigen Fürsten aufzusuchen, einen alten Wächter namens Maerwald, erwiderte er, dass auch er Maerwald gerne einige Dinge fragen würde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,17 +51,17 @@
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Edér Bruder kämpfte für Readceras und starb in einer Schlacht bei Clîaban Rilag. Er möchte das Schlachtfeld sehen.</DefaultText>
+      <DefaultText>Edérs Bruder kämpfte für Readceras und starb in einer Schlacht bei Clîaban Rilag. Er möchte das Schlachtfeld sehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Edér gibt zu, dass er sich nicht sicher ist, nach was genau er hier sucht. Er hofft hier, eine Spur der Gegenwart seines Bruders zu finden, die ihm einen Hinweis darauf geben könnte, warum sein Bruder für Readceras gekämpft hat.</DefaultText>
+      <DefaultText>Edér gibt zu, dass er sich nicht sicher ist, nach was genau er hier sucht. Er hofft, eine Spur der Gegenwart seines Bruders zu finden, die ihm einen Hinweis darauf geben könnte, warum sein Bruder für Readceras gekämpft hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Ich fand ein Zierelement aus Stahl, das während des Krieges des Heiligen einst auf ein Standarte von Readceras gepflanzt war. Der Gegenstand selbst ist nutzlos, aber in den Händen eines Mediums könnte er mehr preisgeben.</DefaultText>
+      <DefaultText>Ich fand ein Zierelement aus Stahl, das während des Krieges des Heiligen einst die Spitze einer Standarte von Readceras geschmückt hatte. Der Gegenstand selbst ist nutzlos, aber in den Händen eines Mediums könnte er mehr preisgeben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,17 +91,17 @@
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Wir konnten bestätigen, dass Edérs Bruder Woden für Readceras kämpfte und vor seiner Verpflichtung sogar Waidwen getroffen hat. Seine tatsächlichen Gründe dafür aber sind verlorengegangen. Wahrscheinlich wird Edér nie erfahren, was seinen Bruder zum Fahnenwechsel beflügelte.</DefaultText>
+      <DefaultText>Wir konnten bestätigen, dass Edérs Bruder Woden für Readceras kämpfte und vor seiner Verpflichtung sogar Waidwen getroffen hat. Seine tatsächlichen Gründe dafür aber sind nicht erhalten. Wahrscheinlich wird Edér nie erfahren, was seinen Bruder zum Fahnenwechsel bewegte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Edér ist gestorben, und mit ihm seine Sorgen.</DefaultText>
+      <DefaultText>Edér ist gestorben und mit ihm seine Sorgen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Es ist unwahrscheinlich, dass wir ein Medium finden können, das die Standartenspitze lesen kann, wie wir in Clîaban Rilag gefunden haben.</DefaultText>
+      <DefaultText>Es ist unwahrscheinlich, dass wir ein Medium finden können, das die Standartenspitze lesen kann, die wir in Clîaban Rilag gefunden haben.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

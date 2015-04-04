@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Durance sagt, dass er und ich zum gemeinsamen Reisen bestimmt wären, und dass wir einander lehren könnten. Er ist ein Mann vieler Worte, der mehr Fragen aufzuwerfen als Antworten zu bieten scheint, aber vielleicht kann ich etwas Wissenswertes von ihm lernen, wenn ich lange genug mit ihm unterwegs bin.</DefaultText>
+      <DefaultText>Durance ist der Ansicht, dass er und ich zum gemeinsamen Reisen bestimmt wären, und dass wir einander lehren könnten. Er ist ein Mann vieler Worte, der mehr Fragen aufzuwerfen als Antworten zu bieten scheint, aber vielleicht kann ich etwas Wissenswertes von ihm lernen, wenn ich lange genug mit ihm unterwegs bin.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,12 +56,12 @@
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Durance offenbarte mir, dass er einer der Ingenieure der Götterhammerbombe war. Es muss noch mehr daran sein, das er mir aber nicht erzählt - zumindest noch nicht.</DefaultText>
+      <DefaultText>Durance offenbarte mir, dass er einer der Ingenieure der Götterhammerbombe war. Das muss Teil einer längeren Geschichte sein, die er mir aber nicht erzählt - zumindest noch nicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Ich hatte noch einen Traum über Durance. Ich sah ein brennendes Symbol auf seinem Stab - ein Kreis aus zwölf kleineren Kreisen, und als ich ihn betrachtete, verblassten alle Kreise bis auf einen. In meinem Traum schien Durance zu versuchen, sie wieder zu entfachen, hatte damit aber keinen Erfolg. Vielleicht weiß Durance, was das zu bedeuten hatte ... schließlich wusste er auch beim letzten Traum Rat.</DefaultText>
+      <DefaultText>Ich hatte noch einen Traum über Durance. Ich sah ein brennendes Symbol auf seinem Stab - ein Kreis aus zwölf kleineren Kreisen. Als ich ihn betrachtete, verblassten alle Kreise bis auf einen. In meinem Traum schien Durance zu versuchen, sie wieder zu entfachen, womit er aber keinen Erfolg hatte. Vielleicht weiß Durance, was das zu bedeuten hatte ... schließlich konnte er mir auch beim letzten Traum weiterhelfen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Ich schaffte es, Magrans Verschwörung mit Woedica zum Bau des Götterhammers vor Augen zu führen, und dass sie ihn nicht deshalb ignorierte, weil er ihr Unrecht getan hatte, sondern weil sie ihn eigentlich zusammen mit den anderen Götterhammer-Ingenieuren in den Tod hatte schicken wollen, um ihre direkte Verwicklung in die Vernichtung von Eothas geheim zu halten. Obwohl dieses Bündnis zwischen den Göttinnen anscheinend nicht von langer Dauer gewesen war, wirft es neues Licht auf den Krieg des Heiligen und der anschließenden Epidemie der hohlgeborenen Kinder. Durance hat sich seinerseits von seiner Göttin losgesagt und Rache geschworen. Als ein Mann, der schon einen Gott getötet hat, scheint er zu den wenigen lebenden Leuten zu gehören, die eine solche Drohung wahr werden lassen könnten.</DefaultText>
+      <DefaultText>Ich schaffte es, Durance Magrans Verschwörung mit Woedica zum Bau des Götterhammers vor Augen zu führen. Sie ignorierte ihn nicht deshalb, weil er ihr Unrecht getan hatte, sondern weil sie ihn eigentlich zusammen mit den anderen Götterhammer-Ingenieuren in den Tod hatte schicken wollen, um ihre direkte Verwicklung in die Vernichtung von Eothas geheim zu halten. Obwohl dieses Bündnis zwischen den Göttinnen anscheinend nicht von langer Dauer gewesen war, wirft es neues Licht auf den Krieg des Heiligen und der anschließenden Epidemie der hohlgeborenen Kinder. Durance hat sich seinerseits von seiner Göttin losgesagt und Rache geschworen. Als ein Mann, der schon einen Gott getötet hat, scheint er zu den wenigen lebenden Leuten zu gehören, die eine solche Drohung wahr werden lassen könnten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Diese Angelegenheit kann nicht länger angegengen werden.</DefaultText>
+      <DefaultText>Diese Angelegenheit kann nicht länger angegangen werden.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

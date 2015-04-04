@@ -43,12 +43,12 @@ Er ist begierig darauf, die Ruinen zu erkunden, und hat mich diesbezüglich um m
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Kana Rua glaubt, dass wir die Tafel tief in den als Die Endlosen Pfade bekannten Kerkern finden werden. Er weiß nicht genau, wo sie sich befindet, obwohl er sicher ist, dass sie sich bei den Überresten des alten engwithanischen Gelehrten Gabrannos befindet. Kana, der das engwithanische Volk viele Jahre lang studiert hat, scheint wegen der Ruinen selbst genau so begeistert zu sein.</DefaultText>
+      <DefaultText>Kana Rua glaubt, dass wir die Tafel tief in den als Die Endlosen Pfade bekannten Kerkern finden werden. Er weiß nicht genau, wo sie sich befindet, obwohl er sicher ist, dass sie sich bei den Überresten des alten engwithanischen Gelehrten Gabrannos befindet. Kana, der das engwithanische Volk viele Jahre lang studiert hat, scheint wegen der Ruinen selbst genauso begeistert zu sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Wir haben die versiegelte Tür überwunden, die in die unteren Bereiche der Endlosen Pfade führt. Kana Rua glaubt, das hier einst Gabrannos gearbeitet hat. Es ist ein düsterer Ort, an dem Kana Rua trotz alldem gern zu sein scheint, und es wäre wohl das Beste, würden wir Gabrannos' Überreste oder seine Arbeit schnell finden.</DefaultText>
+      <DefaultText>Wir haben die versiegelte Tür überwunden, die in die unteren Bereiche der Endlosen Pfade führt. Kana Rua glaubt, dass Gabrannos einst hier gearbeitet hat. Es ist ein düsterer Ort, an dem Kana Rua trotz alledem gern zu sein scheint. Es wäre wohl das Beste, würden wir Gabrannos' Überreste oder seine Arbeit schnell finden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -63,7 +63,7 @@ Er ist begierig darauf, die Ruinen zu erkunden, und hat mich diesbezüglich um m
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Es stellte sich heraus, dass die Tafel, nach der Kana Rua suchte, schon vor langer Zeit zerstört wurde - aber wir können unmöglich herausfinden, von wem ... oder was. Kana scheint diese Offenbarung schwer getroffen zu haben. Ich habe versucht, ihn zu ermutigen - egal, welche Antworten wir finden werden, sie scheinen noch vor uns zu liegen.</DefaultText>
+      <DefaultText>Es stellte sich heraus, dass die Tafel, nach der Kana Rua suchte, schon vor langer Zeit zerstört wurde - aber wir können unmöglich herausfinden, von wem ... oder was. Kana scheint diese Offenbarung schwer getroffen zu haben. Ich habe versucht, ihn zu ermutigen - welche Antworten wir auch immer finden werden, sie scheinen noch vor uns zu liegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -73,7 +73,7 @@ Er ist begierig darauf, die Ruinen zu erkunden, und hat mich diesbezüglich um m
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Kana wurde umgebracht, und mit ihm sind auch seine Ambitionen gestorben.</DefaultText>
+      <DefaultText>Kana wurde umgebracht und mit ihm sind auch seine Ambitionen gestorben.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

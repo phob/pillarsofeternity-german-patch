@@ -1524,65 +1524,65 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>Quick Stash</DefaultText>
+      <DefaultText>Schnellauswahl</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>Hotkeys</DefaultText>
+      <DefaultText>Schnellzugriffstasten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>Backer Content</DefaultText>
+      <DefaultText>Backer-Beiträge</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>Queuing Actions</DefaultText>
+      <DefaultText>Warteschlange für Aktionen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>Clicking an item in a container while holding the shift key will move it directly to your stash.</DefaultText>
+      <DefaultText>Bei Umschalttaste-Linksklick auf einem Gegenstand in einem Behältnis, wandert der Gegenstand direkt in das Lager</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>You can hotkey any ability by hovering the mouse cursor over its button and pressing the desired hotkey.</DefaultText>
+      <DefaultText>Du kannst jede Fähigkeit auf eine Schnelltaste legen wenn die Maus über der Fähigkeit liegt und die entsprechende Schnelltaste gedrückt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>Pillars of Eternity was made possible by the generosity of thousands of backers, many of whom contributed content to the final game.
+      <DefaultText>Pillars of Eternity wurde mit der Großzügigkeit tausender Backer ermöglicht, von denen viele Inhalte zum fertigen Spiel beigetragen haben.
 
-NPCs with gold name plates were designed by our backers. Interacting with them will allow you to experience each one's unique history.
+NSCs mit goldenen Namen wurden von Backern gestaltet. Interagiere mit ihnen um die Möglichkeit zu haben diese einmaligen Geschichten zu erleben.
 
-The tombstone icon indicates a memorial. These are personalized messages written by our backers. Many of them break the fourth wall, so players desiring complete immersion may wish to avoid clicking them.</DefaultText>
+Das Grabstein-Symbol gibt eine Gedenkstätte an. Dies sind persönliche Mitteilungen unserer Backer. Spieler die sich völlig in der Welt vertiefen möchten, sollten diese meiden, da viele von den Mitteilungen die vierte Wand durchbrechen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>Shift-clicking a series of actions or waypoints adds them to an action queue that will be carried out in order.</DefaultText>
+      <DefaultText>Um Aktionen oder Wegpunkte in einer Warteschlange nacheinander auszuführen, klicke diese an und halte dabei die Umschalttaste gedrückt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>Friendly Fire</DefaultText>
+      <DefaultText>Beschuss durch eigene Mitstreiter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>Many spells and abilities that cover an area of the battlefield can harm both enemies and allies.
+      <DefaultText>Einige Fähigkeiten und Zauber, die eine Fläche des Schlachtfeldes abdecken, können sowohl Feind als auch Verbündeten verletzen.
 
-If an ability lists an AoE radius, it affects everyone in the area. AoEs differentiated by Friendly or Foe descriptors affect those groups only.
+Wenn eine Fähigkeit einen Wirkungsradius hat, trifft sie jeden im Radius. Fähigkeiten mit Feind oder Freundlich Wirkungsradius-Effekten in der Beschreibung, treffen auch nur diese Gruppen.
 
-However, even an ordinarily hostile AoE will not affect allies in the outer margin of the area provided by a high Intellect. You can use this outer margin to safely hit enemies while leaving your allies unharmed.</DefaultText>
+Normale Wirkungsradius-Effekte die Schaden wirken, hingegen verletzen Verbündete nicht, wenn diese bei genug Intellekt im äußeren Ring stehen. Du kannst diesem äußeren Ring nutzen um sicher anzugreifen ohne Verbündete zu verletzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>Suppressed</DefaultText>
+      <DefaultText>Unterdrückt</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

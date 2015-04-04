@@ -1524,57 +1524,65 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText />
+      <DefaultText>Quick Stash</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText />
+      <DefaultText>Hotkeys</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText />
+      <DefaultText>Backer Content</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText />
+      <DefaultText>Queuing Actions</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText />
+      <DefaultText>Clicking an item in a container while holding the shift key will move it directly to your stash.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText />
+      <DefaultText>You can hotkey any ability by hovering the mouse cursor over its button and pressing the desired hotkey.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText />
+      <DefaultText>Pillars of Eternity was made possible by the generosity of thousands of backers, many of whom contributed content to the final game.
+
+NPCs with gold name plates were designed by our backers. Interacting with them will allow you to experience each one's unique history.
+
+The tombstone icon indicates a memorial. These are personalized messages written by our backers. Many of them break the fourth wall, so players desiring complete immersion may wish to avoid clicking them.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText />
+      <DefaultText>Shift-clicking a series of actions or waypoints adds them to an action queue that will be carried out in order.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText />
+      <DefaultText>Friendly Fire</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText />
+      <DefaultText>Many spells and abilities that cover an area of the battlefield can harm both enemies and allies.
+
+If an ability lists an AoE radius, it affects everyone in the area. AoEs differentiated by Friendly or Foe descriptors affect those groups only.
+
+However, even an ordinarily hostile AoE will not affect allies in the outer margin of the area provided by a high Intellect. You can use this outer margin to safely hit enemies while leaving your allies unharmed.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText />
+      <DefaultText>Suppressed</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -77,7 +77,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Der wirklich interessante Teil aber ist da drin." Er deutet mit dem Stück Holzkohle auf die Tore. " ... und viel Glück beim Erreichen der Burg selbst hatte ich auch nicht. Ich hoffe, den Herren dieses Orts zu finden - einen Mann namens Maerwald - aber entweder liegt ihm seine Privatsphäre sehr am Herzen oder er wurde von seinen Hausgästen verschlungen."</DefaultText>
+      <DefaultText>"Der wirklich interessante Teil aber ist da drin." Er deutet mit dem Stück Holzkohle auf die Tore. " ... und viel Glück beim Erreichen der Burg selbst hatte ich auch nicht. Ich hoffe, den Herren dieses Orts zu finden - einen Mann namens Maerwald - aber entweder liegt ihm seine Privatsphäre sehr am Herzen, oder er wurde von seinen Hausgästen verschlungen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -104,7 +104,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren - du aber scheinst mir mehr als fähig zu sein. Zusammen könnten wir es sicher schaffen! Und dann können wir beide Maerwald unsere Fragen stellen."</DefaultText>
+      <DefaultText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren - du aber scheinst mir mehr als fähig zu sein. Zusammen könnten wir es sicher schaffen! Und dann können wir beide unsere Maerwald-Fragen stellen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,8 +121,8 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren, aber zwei Söhne von Rauatai zusammen - wir könnten es sicher schaffen! Und dann können wir beide Maerwald unsere Fragen stellen."</DefaultText>
-      <FemaleText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren, aber zwei Kinder von Rauatai zusammen - wir könnten es sicher schaffen! Und dann können wir beide Maerwald unsere Fragen stellen."</FemaleText>
+      <DefaultText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren, aber zwei Söhne von Rauatai zusammen - wir könnten es sicher schaffen! Und dann können wir beide unsere Maerwald-Fragen stellen."</DefaultText>
+      <FemaleText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren, aber zwei Kinder von Rauatai zusammen - wir könnten es sicher schaffen! Und dann können wir beide unsere Maerwald-Fragen stellen."</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
@@ -131,24 +131,24 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Exakt! Genau dieses Frage stellt sich." Er lacht. "Mein Freund, das ist eine lange und verworrene Geschichte, wie es alle guten Lieder sein sollten. Mit der Zeit kann ich dir mehr dazu erzählen, wenn du möchtest."</DefaultText>
+      <DefaultText>"Exakt! Genau dieses Frage stellt sich." Er lacht. "Mein Freund, das ist eine lange und verwobene Geschichte, wie es alle guten Lieder sein sollten. Mit der Zeit kann ich dir mehr dazu erzählen, wenn du möchtest."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Naja ... es ist halt so, dass sich zwischen der Burg und mir viele gefährliche Kreaturen befinden. Versucht habe ich es natürlich ... und wurde von finsteren Geistern wieder vertrieben."</DefaultText>
+      <DefaultText>"Naja ... es ist halt so, dass sich zwischen der Burg und mir viele gefährliche Kreaturen befinden. Versucht habe ich es natürlich ... und ich wurde von finsteren Geistern vertrieben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Wissen." Er grinst. "Oder mit einfacheren Worten: einen bestimmten Text. Ich bin auf der Suche nach einem großen Schatz hierher gekommen, musst du wissen. Kein Gold oder Silber, sondern das Tanvii ora Toha. Man könnte es auch das 'Buch der Tugenden' nennen." 
+      <DefaultText>"Wissen." Er grinst. "Oder, mit einfacheren Worten: einen bestimmten Text. Ich bin auf der Suche nach einem großen Schatz hierher gekommen, musst du wissen. Kein Gold oder Silber, sondern das Tanvii ora Toha. Man könnte es auch das 'Buch der Tugenden' nennen." 
 
 "Es enthält heilige Texte von Rauatai - aber wir besitzen nur ein kleines Fragment davon."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Ein Jahr war ich auf der Suche nach dem Rest und ich habe Hinweise gefunden, die mich glauben lassen, dass sich das Original gleich da drüben befindet - unterhalb der Burg."</DefaultText>
+      <DefaultText>"Ein Jahr war ich nach dem Rest auf der Suche, und ich habe Beweise aufgedeckt, die mich glauben lassen, dass sich das Original gleich da drüben befindet - unterhalb der Burg."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -158,7 +158,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Ein Jahr war ich auf der Suche nach dem Rest und ich habe Hinweise gefunden, die mich glauben lassen, dass sich das Original gleich da drüben befindet - unterhalb der Burg. Ich möchte Maerwald fragen, was er darüber weiß."</DefaultText>
+      <DefaultText>"Ein Jahr war ich nach dem Rest auf der Suche, und ich habe Beweise aufgedeckt, die mich glauben lassen, dass sich das Original gleich da drüben befindet - unterhalb der Burg. Ich möchte Maerwald fragen, was er darüber weiß."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -178,12 +178,12 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Ein Wächter?" Er blickt dich mit unverhohlener Neugier an. "Hast du mit Geistern gesprochen? Wenn ich das auch könnte, gäbe es vieles, was ich fragen würde."</DefaultText>
+      <DefaultText>"Ein Wächter?" Er blickt dich mit unverhohlener Neugier an. "Hast du mit Geistern gesprochen? Wenn ich dasselbe tun könnte, hätte ich viele Fragen zu stellen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Dann lass uns Maerwald aufsuchen."</DefaultText>
+      <DefaultText>"Dann lass uns Maerwald treffen gehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -195,7 +195,7 @@
       <ID>38</ID>
       <DefaultText>"Hervorragend! Geh voran, mein Freund, ich werde dir auf dem Fuße folgen ... oh, Moment: Wo wir gerade dabei sind, sollte ich dich zuerst warnen. Bei Ondras Zähnen, das habe ich fast vergessen."
 
-"Manchmal ist mir jemand gefolgt - es begann in Aedyr, und in Ixamitl haben sie mich gleich angegriffen ... ich glaube, sie wollen nicht, dass ich finde, wonach ich suche."</DefaultText>
+"Manchmal ist mir jemand gefolgt - es begann in Aedyr, und in Ixamitl haben sie mich gleich angegriffen ... ich glaube, sie wollen nicht, dass ich finde, nach was ich suche."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,17 +210,17 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren, aber zwei Söhne von Rauatai zusammen - wir könnten es sicher schaffen! Und dann können wir beide Maerwaldi unsere Fragen stellen."</DefaultText>
-      <FemaleText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren, aber zwei Kinder von Rauatai zusammen - wir könnten es sicher schaffen! Und dann können wir beide Maerwald unsere Fragen stellen."</FemaleText>
+      <DefaultText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren, aber zwei Söhne von Rauatai zusammen - wir könnten es sicher schaffen! Und dann können wir beide unsere Maerwald-Fragen stellen."</DefaultText>
+      <FemaleText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren, aber zwei Kinder von Rauatai zusammen - wir könnten es sicher schaffen! Und dann können wir beide unsere Maerwald-Fragen stellen."</FemaleText>
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Oh. Ich ... ich verstehe." Er blickt niedergeschlagen zu Boden. "Ich verstehe. Naja, ich werde es weiter versuchen. Vielleicht werden wir uns wiedersehen und dann andere Geschichten austauschen können. Ich wünsche dir viel Glück auf deiner eigenen Reise."</DefaultText>
+      <DefaultText>"Oh. Ich ... ich verstehe." Er blick niedergeschlagen zu Boden. "Ich verstehe. Naja, ich werde es weiter versuchen. Vielleicht werden wir uns wiedersehen und dann andere Geschichten austauschen können. Ich wünsche dir viel Glück auf deiner eigenen Reise."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Ach, dann ein umherstreifender Reisender? Du hast einen guten Geschmack für Landschaften. Das könnte mir zum Vorteil gereichen - würdest du es vielleicht in Betracht ziehen, mit mir zu reisen? Mit vereinten Kräften könnten wir die Burg sicherlich ohne Schwierigkeiten betreten."</DefaultText>
+      <DefaultText>"Ach, dann ein umherstreifender Reisender? Du hast einen guten Geschmack für Landschaften. Das könnte mir zum Vorteil gereichen - vielleicht würdest du es in Betracht ziehen, mit mir zu reisen? Mit vereinten Kräften könnten wir die Burg sicherlich ohne Schwierigkeiten erreichen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -230,12 +230,12 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Oh. Ich wollte dich nicht beleidigen! Ich dachte nur, wir könnten einander helfen. Mit vereinten Kräften könnten wir die Burg sicherlich ohne Schwierigkeiten betreten. Oder zumindest mit sehr geringen Schwierigkeiten."</DefaultText>
+      <DefaultText>"Oh. Ich wollte dich nicht beleidigen! Ich dachte nur, wir könnten einander helfen. Mit vereinten Kräften könnten wir die Burg sicherlich ohne Schwierigkeiten erreichen. Oder zumindest mit äußerst kurzen Schwierigkeiten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren - du aber scheinst mir fähig zu sein. Zusammen könnten wir es sicher schaffen! Und dann können wir beide Maerwald unsere Fragen stellen."</DefaultText>
+      <DefaultText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren - du aber scheinst mir fähig zu sein. Zusammen könnten wir es sicher schaffen! Und dann können wir beide unsere Maerwald-Fragen stellen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -252,12 +252,12 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ich möchte nichts damit zu tun haben. Ich werde meinen eigenen Weg gehen."</DefaultText>
+      <DefaultText>"Ich möchte daran nicht teilhaben. Ich werde meinen eigenen Weg gehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Was sind schon ein paar Mörder verglichen mit unserer Freundschaft?"</DefaultText>
+      <DefaultText>"Was sind schon ein paar Mörder zwischen Freunden?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -267,7 +267,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Naja, es ist ja nicht so, als würde ich mich auf ihr Drängen hin umdrehen und nach Hause gehen! Ihren bisherigen Bemühungen nach zu urteilen, sollten wir wohl wenig Grund zur Sorge haben."</DefaultText>
+      <DefaultText>"Naja, es ist ja nicht so, als würde ich mich auf ihr Andringen hin umdrehen und nach Hause gehen! Ihren früheren Bemühungen nach zu urteilen, sollten wir wohl wenig Grund zur Sorge haben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -304,7 +304,7 @@
       <ID>60</ID>
       <DefaultText>"Ich hoffe, den Herren dieses Orts zu finden - einen Mann namens Maerwald, aber man sagte mir, dass ich zu spät gekommen sei ... " 
 
-"Ich würde gerne mit seinem Nachfolger sprechen. Bist du das?"</DefaultText>
+"Ich würde gerne mit seinem Nachfolger sprechen. Bist du da?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -345,7 +345,7 @@
       <ID>67</ID>
       <DefaultText>"Dann beglückwünsche ich dich zu deinem Erfolg. Eine Festung erbt man schließlich nicht jeden Tag." Er stockt.
 
-"Ich bin hierher gekommen, um ihn zu fragen, ob er irgendetwas über das weiß, das ich suche. Ich suche einen großen Schatz, musst du wissen. Kein Gold oder Silber, sondern das Tanvii ora Toha. Man könnte es auch das 'Buch der Tugenden' nennen."
+"Ich bin hierher gekommen, um ihn zu fragen, ob er irgendetwas darüber weiß, was ich suche. Ich suche einen großen Schatz, musst du wissen. Kein Gold oder Silber, sondern das Tanvii ora Toha. Man könnte es auch das 'Buch der Tugenden' nennen." 
 
 "Es enthält heilige Texte von Rauatai - aber wir besitzen nur ein kleines Fragment davon."</DefaultText>
       <FemaleText />
@@ -354,7 +354,7 @@
       <ID>68</ID>
       <DefaultText>"Dann beglückwünsche ich dich zu deinem Erfolg. Eine Festung erbt man schließlich nicht jeden Tag." Er stockt.
 
-"Ich bin hierher gekommen, um Maerwald zu fragen, ob er irgendetwas über das weiß, das ich suche."</DefaultText>
+"Ich bin hierher gekommen, um Maerwald zu fragen, ob er irgendetwas darüber weiß, was ich suche."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,7 +371,7 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Naja, es ist ja nicht so, als würde ich mich auf ihr Drängen hin umdrehen und nach Hause gehen! Ihren bisherigen Bemühungen nach zu urteilen, sollten wir wohl wenig Grund zur Sorge haben."</DefaultText>
+      <DefaultText>"Naja, es ist ja nicht so, als würde ich mich auf ihr Andringen hin umdrehen und nach Hause gehen! Ihren früheren Bemühungen nach zu urteilen, sollten wir wohl wenig Grund zur Sorge haben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -381,12 +381,12 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Vielleicht können wir einander helfen. Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren, aber zwei Söhne von Rauatai zusammen - wir könnten es sicher schaffen! Und dann können wir beide Maerwald unsere Fragen stellen."</DefaultText>
-      <FemaleText>"Wirklich? Dann können wir einander vielleicht helfen! Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren, aber zwei Kinder von Rauatai zusammen - wir könnten es sicher schaffen! Und dann können wir beide Maerwald unsere Fragen stellen."</FemaleText>
+      <DefaultText>"Vielleicht können wir einander helfen. Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren, aber zwei Söhne von Rauatai zusammen - wir könnten es sicher schaffen! Und dann können wir beide unsere Maerwald-Fragen stellen."</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Naja, vielleicht können wir einander vielleicht helfen. Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren - du aber scheinst mit fähig zu sein. Zusammen könnten wir es sicher schaffen! Und dann können wir beide Maerwald unsere Fragen stellen."</DefaultText>
+      <DefaultText>"Naja, vielleicht können wir einander vielleicht helfen. Das Gelände ist mit allerlei Biestern verseucht. So etwas habe ich noch nie gesehen. Alleine wollte ich es nicht riskieren - du aber scheinst mit fähig zu sein. Zusammen könnten wir es sicher schaffen! Und dann können wir beide unsere Maerwald-Fragen stellen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

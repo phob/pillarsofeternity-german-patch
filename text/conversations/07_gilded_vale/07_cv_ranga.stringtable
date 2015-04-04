@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Vorsicht mit diesen Sporlingen. Sie dringen schnell in deinen Verstand ein." Ranga tippt sich leicht gegen die Schläfe. "Das ist eigentlich der Hauptgrund, warum die Sporen so nützlich sind."</DefaultText>
+      <DefaultText>"Vorsicht mit diesen Sporlingen. Sie kommen einem schnell in den Verstand." Ranga tippt sich leicht gegen die Schläfe. "Das ist eigentlich der Hauptgrund, warum die Sporen so nützlich sind."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ah. Noch mehr von Fürst Raedrics verängstigter Schar." Sie nickt langsam. "Ich weiß, wovon sie spricht. Da sie dich hier herausschickt, scheint sie mir etwas verzweifelt zu sein. Vermutlich hat sie dir auch meine Bezahlung mitgegeben?"</DefaultText>
+      <DefaultText>"Ah. Noch mehr von Fürst Raedrics verängstigter Schar." Sie nickt langsam. "Ich weiß, wovon sie spricht." Da sie dich hier herausschickt, scheint sie mir etwas verzweifelt zu sein. Vermutlich hat sie dir auch meine Bezahlung mitgeschickt?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"In Ordnung. Ich komme wieder, wenn der Trank fertig ist."</DefaultText>
+      <DefaultText>"In Ordnung. Ich komme wieder, wenn sie fertig ist."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Ich werde mit der Zubereitung der Mixtur beginnen ... aber dazu brauche ich noch eine Zutat: einige Sporen von den Kreaturen in der Höhle dort." Sie deutet auf einen Ort gleich nördlich ihres kurzen Strandabschnitts. "Sporlinge nennt man sie. Sie stellen ein recht gutes Material dar und ich brauche einen für die Mixtur. Wenn dir noch andere in die Hände fallen, umso besser!"</DefaultText>
+      <DefaultText>"Ich werde mit der Zubereitung der Mixtur beginnen ... aber dazu brauche ich noch eine Zutat: einige Sporen von den Kreaturen in der Höhle dort." Sie deutet auf einen Ort gleich nördlich ihres kurzen Strandabschnitts. "Sporlinge nennt man sie. Sie stellen ein recht gutes Material dar, und ich brauche einen für die Mixtur. Wenn dir noch andere in die Hände fallen, umso besser!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Gut. Ihre schwächlichen Versuche, uns zu überraschen, gingen mir wirklich auf die Nerven. Hier, für dich." Sie gibt dir drei Fläschchen. "Für deine Mühen. Und jetzt können wir meinen Teil des Geschäfts in die Wege leiten."</DefaultText>
+      <DefaultText>"Gut. Ihre schwächlichen Versuche, uns zu überraschen, gingen mir wirklich auf die Nerven. Hier, für dich." Sie gibt dir drei Fläschchen. "Für deine Mühen. Und jetzt können wir meinen Teil des Geschäfts in die Wege leite."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Die Mixtur ist fertig. Bring sie zu Aufra. Sag ihr, sie soll sie vor dem Einschlafen trinken, denn sie macht schläfrig. Am Morgen sollte sie sich dann vitaler fühlen."</DefaultText>
+      <DefaultText>"Die Mixtur ist fertig. Bring sie zu Aufra. Sag ihr, sie soll sie vor dem Einschlafen, denn sie wirkt einschläfernd. Am Morgen sollte sie sich dann vitaler fühlen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,12 +236,12 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Egal wieviel, behalte es. Münzen kann ich nicht gebrauchen. Stattdessen musst du etwas anderes für mich tun." Ranga deutet ins Landesinnere. "Im Nordosten gibt es einen Xaurip-Stamm, der von einem ihrer Priester angeführt wird. Vor einiger Zeit haben sie Tana ausgestoßen und ihre Späher liegen bis heute hier auf der Lauer, um seinem Leben ein Ende zu setzen."</DefaultText>
+      <DefaultText>"Egal wieviel, behalte es. Münzen kann ich nicht gebrauchen. Stattdessen musst du etwas anderes für mich tun." Ranga deutet ins Landesinnere. "Im Nordosten gibt es einen Xaurip-Stamm, der von einem ihrer Priester angeführt wird. Vor einiger Zeit haben sie Tana ausgestoßen, und ihre Späher liegen bis heute hier auf der Lauer, um seinem Leben ein Ende zu setzen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Eines Tages werde ich Vorräte holen gehen müssen und meinen Gehilfen bei meiner Rückkehr erschlagen vorfinden. Wie soll ich dann noch irgendjemandem helfen?" Sie schüttelt den Kopf. "Wenn du diese Plage für mich beseitigst, werde ich alles in meiner Macht Stehende für Aufra tun. Und für dich wird auch etwas dabei sein."</DefaultText>
+      <DefaultText>"Eines Tages werde ich Vorräte holen gehen müssen und meinen Gehilfen bei meiner Rückkehr erschlagen vorfinden. Wie soll ich dann noch irgendjemand helfen?" Sie schüttelt den Kopf. "Wenn du diese Plage für mich beseitigst, werde ich alles in meiner Macht Stehende für Aufra tun. Und für dich wird auch etwas dabei sein."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,7 +266,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Ich kann nicht alle meine Geheimnisse offenlegen." Ranga lächelt. "Ein paar Feuchtsporen, aber das weißt du ja schon. Sie werden ihre Seele stärken und ihr die Energie zurückgeben, die sie ihr einst stahlen."</DefaultText>
+      <DefaultText>"Ich kann nicht alle meine Geheimnisse offenlegen." Ranga lächelt. "Ein paar Feuchtsporen, aber das weißt du ja schon. Sie werden ihre Seele stärken, und ihr die Energie zurückgeben, die sie ihr einst stahlen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,7 +281,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Unsinn. Viele Jahre schon bin ich Hebamme. Was ich nicht bin, ist eine Wirkerin unmöglicher Wunder. Wenn du etwas gegen das Vermächtnis unternehmen möchtest, dann solltest du dich besser um Fürst Raedric kümmern, denn seine Bestrafung ist es, die diese Frauen zu mir treibt."</DefaultText>
+      <DefaultText>"Unsinn. Viele Jahre schon bin ich Hebamme. Was ich nicht bin, ist eine Wirkerin unmöglicher Wunder. Wenn du etwas gegen das Vermächtnis unternehmen möchtest, dann solltest du dich besser um Fürst Raedric kümmern, denn seine Bestrafung ist es, was diese Frauen zu mir treibt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,7 +346,7 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Behalte es. Es hat sich herausgestellt, dass ich sie nicht brauche."</DefaultText>
+      <DefaultText>"Behalte es. Hat sich herausgestellt, dass ich sie nicht brauche."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,7 +366,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Wächter ... in ihren Worten klingt die Wahrheit. Ist es nicht besser, ihr Hoffnung zu geben? Und wenn solche Hoffnung ihr Kind stärken kann, dann ... sollte man nichts unversucht lassen."</DefaultText>
+      <DefaultText>"Wächter ... in ihren Worten klingt die Wahrheit. Ist es nicht besser, ihr Hoffnung zu geben? Und wenn solche Hoffnung ihr Kind stärken kann, dann ... sollte sollte nichts unversucht gelassen bleiben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

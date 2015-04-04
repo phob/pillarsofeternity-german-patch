@@ -141,7 +141,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Fortfahren</DefaultText>
+      <DefaultText>Weiter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3205,7 +3205,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>629</ID>
-      <DefaultText>Die Bibliothek von Caed Nua enthält unzählige Bände alten Wissens. Durch den Ausbau der Bibliothek erhältst du einen Wissensbonus, wenn in Leuchthöhle gerastet wird.</DefaultText>
+      <DefaultText>Die Bibliothek von Caed Nua enthält unzählige Bänder alten Wissens. Durch den Ausbau der Bibliothek erhältst du einen Wissensbonus, wenn in Leuchthöhle gerastet wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4115,37 +4115,37 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>815</ID>
-      <DefaultText>haut</DefaultText>
+      <DefaultText>Hauen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>816</ID>
-      <DefaultText>schmettert</DefaultText>
+      <DefaultText>Schmettern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>817</ID>
-      <DefaultText>sticht</DefaultText>
+      <DefaultText>Stechen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>818</ID>
-      <DefaultText>verbrennt</DefaultText>
+      <DefaultText>Verbrennen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>819</ID>
-      <DefaultText>gefriert</DefaultText>
+      <DefaultText>Gefrieren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>820</ID>
-      <DefaultText>schockt</DefaultText>
+      <DefaultText>Schocken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>821</ID>
-      <DefaultText>korrodiert</DefaultText>
+      <DefaultText>Korrodieren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4955,12 +4955,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>983</ID>
-      <DefaultText>Farbenblind-Modus</DefaultText>
+      <DefaultText>Farbenblinder Modus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>984</ID>
-      <DefaultText>Wenn diese Option aktiviert ist, können Gewalteffekte verwendet werden, wenn Feinde getötet werden.</DefaultText>
+      <DefaultText>Wenn diese Option aktiviert ist, können „Führungs“-Effekte verwendet werden, wenn Feinde getötet werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6460,7 +6460,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1286</ID>
-      <DefaultText>Gewaltdarstellung</DefaultText>
+      <DefaultText>Führungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8677,7 +8677,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1732</ID>
-      <DefaultText>Aufschließen mit {0}</DefaultText>
+      <DefaultText>Freischalten mit {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8762,7 +8762,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1750</ID>
-      <DefaultText>Du hast ungenutzte Attributspunkte für deinen Charakter. Alle ungenutzten Punkte gehen verloren. 
+      <DefaultText>Du hast ungenutzte Attributspunkte für deinen Charakter. Alle ungenutzten Punkte gehen verloren.
 
 Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
       <FemaleText />
@@ -8839,12 +8839,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1765</ID>
-      <DefaultText>Dein Ruf in {0} hat sich verschlechtert.</DefaultText>
+      <DefaultText>Dein Ruf bei {0} hat sich verschlechtert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1766</ID>
-      <DefaultText>Dein Ruf in {0} hat sich verbessert.</DefaultText>
+      <DefaultText>Dein Ruf bei {0} hat sich verbessert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8934,17 +8934,17 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1784</ID>
-      <DefaultText>Sehr</DefaultText>
+      <DefaultText>Viel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1785</ID>
-      <DefaultText>positiv</DefaultText>
+      <DefaultText>Positiv</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1786</ID>
-      <DefaultText>negativ</DefaultText>
+      <DefaultText>Negativ</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9404,7 +9404,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1878</ID>
-      <DefaultText>Ungern gesehene Gesinnung:</DefaultText>
+      <DefaultText>Ungern gesehene Gesinnung: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

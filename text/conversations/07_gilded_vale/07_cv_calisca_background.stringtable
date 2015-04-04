@@ -196,7 +196,7 @@ Der Strom ist gleich da unten. Komm schon. Lass uns dein Wasser holen."</Default
     <Entry>
       <ID>36</ID>
       <DefaultText>"Ah, ein Mann ganz nach meinem Geschmack. Auf dass du mehr Glück haben wirst als ich."</DefaultText>
-      <FemaleText>"Ah, eine Frau ganz nach meinem Geschmack. Auf dass du mehr Glück haben wirst als ich."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
@@ -915,7 +915,7 @@ Der Strom ist gleich da unten. Komm schon. Lass uns dein Wasser holen."</Default
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"Zu viele Leute wissen über meine Taten Bescheid. Ich muss zu einem Ort gehen, wo mich niemand kennt."</DefaultText>
+      <DefaultText>"Zu viele Leute wissen über mein Schauspiel Bescheid. Ich muss zu einem Ort gehen, wo mich niemand kennt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -926,16 +926,16 @@ Der Strom ist gleich da unten. Komm schon. Lass uns dein Wasser holen."</Default
     <Entry>
       <ID>182</ID>
       <DefaultText>"Ich bin ein gesuchter Mann. Wenn sie mich nochmal beim Stehlen erwischten, würden sie mich hängen."</DefaultText>
-      <FemaleText>"Ich bin eine gesuchte Frau. Wenn sie mich nochmal beim Stehlen erwischten, würden sie mich hängen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Mein Partnerin hinterging mich bei einem Auftrag. Sie bekam das Geld und ich die Schuld."</DefaultText>
+      <DefaultText>"Mein Partnerin hinterging mich bei einem Auftrag. Sie bekam das Geld, ich die Schuld in die Schuhe geschoben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Ich stahl von der Art von Leuten, die weder vergeben noch vergessen."</DefaultText>
+      <DefaultText>"Ich stahl von der Art von Leuten, die weder vergibt oder vergisst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1195,8 +1195,8 @@ Der Strom ist gleich da unten. Komm schon. Lass uns dein Wasser holen."</Default
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>"Für den Rest der Karawane bist du eine Art Geheimnis. Nach dem, was ich so höre, bist du nur sowas wie ein Streuner."</DefaultText>
-      <FemaleText>"Für den Rest der Karawane bist du eine Art Geheimnis. Nach dem, was ich so höre, bist du nur sowas wie eine Streunerin."</FemaleText>
+      <DefaultText>"Für den Rest der Karawane bist du eine Art Geheimnis. Nach dem, was ich so höre, bist du nur sowas wie eine Nomadin."</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
@@ -1235,7 +1235,7 @@ Der Strom ist gleich da unten. Komm schon. Lass uns dein Wasser holen."</Default
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>"Wie ich höre, bist du ein ziemlich guter Jäger. Erzähl das bloß nicht Sparfel, sonst wird er dich bis nach Goldtal beschwafeln, um dir weiszumachen, wie viel besser er ist als du."</DefaultText>
+      <DefaultText>"Wie ich höre, bist du ein ziemlich guter Jäger. Sag das bloß nicht Sparfel, sonst wird er dich bis nach Goldtal beschwafeln, um dir weiszumachen, wie viel besser er ist als du."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1261,7 +1261,7 @@ Der Strom ist gleich da unten. Komm schon. Lass uns dein Wasser holen."</Default
     <Entry>
       <ID>249</ID>
       <DefaultText>"Odema sagt, du seist ein Mann der Arbeit."</DefaultText>
-       <FemaleText>"Odema sagt, du seist eine Frau der Arbeit."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>250</ID>

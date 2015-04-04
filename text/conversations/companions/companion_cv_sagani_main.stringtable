@@ -60,7 +60,7 @@ Ein bei ihren Fersen stehender großer Fuchs mit weißem Fell schaut auf, als du
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Genau das habe ich gehört. Aber der Mann, der mir das sagte, behauptete auch, dass der Stab, den er bei sich trug, aus einem Drachenknochen geschnitten wurde ... aber ich erkenne Weißholz, wenn ich es sehe."
+      <DefaultText>"Genau das habe ich gehört. Aber der Mann, der mir das sagte, behauptete auch, dass der Stab, den er bei sich trug, aus einem Drachenknochen geschnitten wurde ... . aber ich erkenne Weißholz, wenn ich es sehe."
 
 Sie rollt die Augen nach oben und schüttelt den Kopf. "Das hätte mein erster Hinweis sein sollen, aber ich musste etwas ausprobieren."</DefaultText>
       <FemaleText />
@@ -77,7 +77,7 @@ Sie rollt die Augen nach oben und schüttelt den Kopf. "Das hätte mein erster H
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"'Etwas ausprobieren'? Von was genau sprichst du?"</DefaultText>
+      <DefaultText>"'Etwas ausprobieren?'" "Von was genau sprichst du?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -114,7 +114,7 @@ Sie beobachtet skeptisch, aber neugierig, wie du es untersuchst.</DefaultText>
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Du steht auf einer Klippe über dem Meer und siehst durch Augen, die nicht deine eigenen sind. Du nimmst den Geruch von Biestern zwischen dem frischen Geruch von Vegetation auf, und dein Herz schlägt ein bisschen schneller als sonst. Hier oben musst du aufpassen, wohin du gehst.
+      <DefaultText>Du steht auf einer Klippe über dem Meer und siehst durch Augen, die nicht deine eigenen sind. Du nimmst den Geruch von Biestern den frischen Geruch zerfallender Vegetation auf, und dein Herz schlägt ein bisschen schneller als sonst. Hier oben musst du aufpassen, wohin du gehst.
 
 Du blickt gerade lang genug hinunter, um die scharfen, blassen Klippen hunderte Meter weiter unten ins Meer tauchen zu sehen.</DefaultText>
       <FemaleText />
@@ -166,7 +166,7 @@ Du blickt gerade lang genug hinunter, um die scharfen, blassen Klippen hunderte 
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Sagani schließt zu dir auf, mit ihrem Fuchs an der Seite, und setzt sich neben dich.</DefaultText>
+      <DefaultText>Sagani schließt zu dir auf, mit ihrem Fuchs an der Seite, und setzt sich neben dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -333,7 +333,7 @@ Ein neckisches Grinsen zaubert ihr Fältchen neben die Augen. "Als mein Großvat
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Ich hatte fünf. Yakona, Estuya, Najuo, Aniik und Malaak. Estuya und Aniik starben während langer Hungerwinter. Malaak, mein Jüngster, konnte noch kaum sprechen, als ich ging." Sie kratzt mit einem Fingernagel am Griff ihres Jagdmessers entlang. "Wenn ich nach Hause komme, wird er mich wahrscheinlich gar nicht erkennen."</DefaultText>
+      <DefaultText>"Ich hatte fünf. Yakona, Estuya, Najuo, Aniik und Malaak. Estuya und Aniik starben während langer Hungerwinter. Malaak Jüngster konnte noch kaum sprechen, als ich ging." Sie kratzt mit einem Fingernagel am Griff ihres Jagdmessers entlang. "Wenn ich nach Hause komme, wird er mich wahrscheinlich gar nicht erkennen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -343,9 +343,9 @@ Ein neckisches Grinsen zaubert ihr Fältchen neben die Augen. "Als mein Großvat
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Kallu ist ein guter Mann. Während ich auf die Jagd ging, hat unsere Kinder wohl erzogen und uns ein starkes Zuhause gebaut."
-	  
-"Unsere Eltern versprachen uns einander, als wir noch jung waren. So läuft es normalerweise nicht bei uns, aber unsere Eltern trafen eine gute Wahl." Sie lächelt. "Anfangs lernten wir, einander als Gefährten zu schätzen, dann als Freunde, und dann ... naja, du weißt ja, wie es läuft." Hinter dem Streifen Gesichtsfarbe deutet sich ein leichtes Erröten an.</DefaultText>
+      <DefaultText>"Kallu ist ein guter Mann. Während ich auf die Jagd ging, hat unsere Kinder wohl erzogen und uns ein starkes Zuhause gebaut. 
+
+Unsere Eltern versprachen uns einander, als wir noch jung waren. So läuft es normalerweise nicht bei uns, aber unsere Eltern trafen eine gute Wahl." Sie lächelt. "Anfangs lernten wir, einander als Gefährten zu schätzen, dann als Freunde, und dann ... naja, du weißt ja, wie es läuft." Hinter dem Streifen Gesichtsfarbe deutet sich ein leichtes Erröten an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -417,9 +417,9 @@ Ein neckisches Grinsen zaubert ihr Fältchen neben die Augen. "Als mein Großvat
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Naasitaq?" Sie reibt sie mit einem ihrer breiten Finger an der Nase. "Es ist eine große Insel inmitten des Todesfeuer-Archipels, gleich vor der Küste des Ewigen Weiß. Hauptsächlich Tundra, aber in den wärmeren Gegenden gibt es ein paar schneebedeckte Wälder."
-	  
-"Die meisten von uns leben in ziemlich kleinen Dörfern - jedenfalls nach hiesigen Standards. Ich stamme aus Massuk."</DefaultText>
+      <DefaultText>"Naasitaq?" Sie reibt sie mit einem ihrer breiten Finger an der Nase. "Es ist eine große Insel inmitten des Todesfeuer-Archipels, gleich vor der Küste des Ewigen Weiß. Das Gelände ist hauptsächlich Tundra, und in den wärmeren Gegenden gibt es schneebedeckte Wälder.
+
+Die meisten von uns leben in ziemlich kleinen Dörfern - jedenfalls nach hiesigen Standards. Mein Dorf heißt Massuk."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -443,12 +443,12 @@ Sie zählt an ihren schwieligen Fingern ab. "Karibus, Robben und kleine Wale ver
       <ID>175</ID>
       <DefaultText>"Vorwiegend Enutanik wie ich. Die Leute hier nennen uns 'Nordzwerge'."
 
-"Manchmal verbringen Nomadenclans aus Glamfellen aus dem Ewigen Weiß die kälteren Jahreszeiten auf Naasitaq. Wir bekommen aber nicht allzu viele Ausländer zu Gesicht, die mit der Witterung klarkommen."</DefaultText>
+"Manchmal verbringen Glamfellen-Nomadenclans aus dem Ewigen Weiß die kälteren Jahreszeiten auf Naasitaq. Wir bekommen aber nicht allzu viele Ausländer zu Gesicht, die mit der Witterung klarkommen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>Sie klopft sich auf ihren sonnengebräunten Arm. "Die von uns, die auf Naasitaq geboren wurden, behaupten gerne, dass wir direkt unter unserem Fleisch ein robuste Schicht Robbenhaut haben."</DefaultText>
+      <DefaultText>Sie klopft sich auf ihren sonnengebräunten Arm. "Die von uns, die auf Naasitaq geboren wurden behaupten gerne, dass wir direkt unter unserem Fleisch ein robuste Schicht Robbenhaut haben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -519,7 +519,7 @@ Der Fuchs neben ihr gähnt.</DefaultText>
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>Ihre bemalte Stirn senkt sich und ihr kompakter, muskulöser Körper sackt für einen kurzen Augenblick zusammen. "Fünf Jahre."</DefaultText>
+      <DefaultText>Ihre bemalte Stirn senkt sich und ihr kompakter, muskulärer Körper sackt für einen kurzen Augenblick zusammen. "Fünf Jahre."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -638,9 +638,9 @@ Als sie es dir hinhält, spürst du schwache Empfindungen. Keine echten Erinneru
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Ich war schon auf dem Weg aus dem Baelsumpf heraus, als ich die Leute über einen fahrenden Mystiker reden hörte, der angeblich Seelen lesen kann." Sie zuckt mit den Achseln. "Ich wusste, dass es unwahrscheinlich war, aber was hatte ich schon zu verlieren?"
+      <DefaultText>"Ich war schon auf dem Weg aus dem Baelsumpf heraus, als ich die Leute über einen fahrenden Mystiker reden hörte, der angeblich Seelen lesen kann." Sie zuckt mit den Achseln. "Ich wusste, dass es unwahrscheinlich war, aber was hatte ich schon zu verlieren?
 
-"Also suchte ich diesen Kerl auf und gab ihm das Adra-Figürchen. Er zog eine große Schau ab, stöhnte und rollte mit den Augen, und nachdem ich ihm fünf Gold-Ducs zum Lüften des Schleiers gegeben hatte, sagte er mir, ich sollte mich zur Kreuzung im Feld zwischen der 'Wolfshöhle' und den 'sich windenden Bäumen' begeben."</DefaultText>
+Also suchte ich diesen Kerl auf und gab ihm das Adra-Figürchen. Er zog eine große Schau ab, stöhnte und rollte mit den Augen, und nachdem ich ihm fünf Gold-Ducs zum Lüften des Schleiers gegeben hatte, sagte er mir, ich sollte mich zur Kreuzung im Feld zwischen der 'Wolfsschanze' und den 'sich windenden Bäumen' begeben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -664,7 +664,7 @@ Als sie es dir hinhält, spürst du schwache Empfindungen. Keine echten Erinneru
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>"Sind die 'sich windenden Bäume' ein wirklicher Ort?"</DefaultText>
+      <DefaultText>"Sind 'sich windenden Bäume' ein wirklicher Ort?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -684,9 +684,9 @@ Als sie es dir hinhält, spürst du schwache Empfindungen. Keine echten Erinneru
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>Sie schlägt in die Luft. "Ich habe hauptsächlich versucht, ihm Angst zu machen. Wegen ein paar Goldstücken würde ich eigentlich keinen Mann umbringen. Ich habe eh kaum Verwendung für Münzen."
+      <DefaultText>Sie schlägt in die Luft. "Ich habe hauptsächlich versucht, ihm Angst zu machen. Wegen ein paar Goldstücken würde ich eigentlich keinen Mann umbringen. Ich habe eh kaum Verwendung für Münzen. 
 
-"So wie ich seine Art einschätze, hat er außerdem längst das Dorf verlassen und sein Geld verprasst."</DefaultText>
+So wie ich seine Art einschätze, hat er außerdem längst das Dorf verlassen und sein Geld verprasst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -772,7 +772,7 @@ Als sie es dir hinhält, spürst du schwache Empfindungen. Keine echten Erinneru
     <Entry>
       <ID>241</ID>
       <DefaultText>"Wenn du gesehen hättest, wie er tote Dinge anstarrt, dann wüsstest du, dass er es ernst meint."</DefaultText>
-      <FemaleText>"Wenn du gesehen hättest, wie sie tote Dinge anstarrt, dann wüsstest du, dass sie es ernst meint."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>242</ID>

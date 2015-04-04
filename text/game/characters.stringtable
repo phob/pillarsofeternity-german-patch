@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1334</EntryCount>
+  <EntryCount>1336</EntryCount>
   <Entries>
     <Entry>
       <ID>11</ID>
@@ -966,7 +966,7 @@
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>Junger Schatten</DefaultText>
+      <DefaultText>Schatten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1096,7 +1096,7 @@
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>Reymont-Wächter</DefaultText>
+      <DefaultText>Reymont -Wächter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2156,7 +2156,7 @@
     </Entry>
     <Entry>
       <ID>481</ID>
-      <DefaultText>Helles Irrlicht</DefaultText>
+      <DefaultText>Helles Will'O'Wisp</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2686,7 +2686,7 @@
     </Entry>
     <Entry>
       <ID>590</ID>
-      <DefaultText>reifender Schatten</DefaultText>
+      <DefaultText>Schatten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2886,7 +2886,7 @@
     </Entry>
     <Entry>
       <ID>630</ID>
-      <DefaultText>Irrlicht</DefaultText>
+      <DefaultText>Will'O'Wisp</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3751,7 +3751,7 @@
     </Entry>
     <Entry>
       <ID>807</ID>
-      <DefaultText>Ausgehungerte Speerspinne</DefaultText>
+      <DefaultText>Verhungerte Speerspinne</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3761,7 +3761,7 @@
     </Entry>
     <Entry>
       <ID>809</ID>
-      <DefaultText>Oger-Stammesführerin</DefaultText>
+      <DefaultText>Oger-Oberin</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3771,7 +3771,7 @@
     </Entry>
     <Entry>
       <ID>811</ID>
-      <DefaultText>Quellen der Leiden</DefaultText>
+      <DefaultText>Pudding der Leiden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4101,7 +4101,7 @@
     </Entry>
     <Entry>
       <ID>877</ID>
-      <DefaultText>Urblat, der Schlitzer</DefaultText>
+      <DefaultText>Urblat, der Lustmörder</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5721,7 +5721,7 @@
     </Entry>
     <Entry>
       <ID>1205</ID>
-      <DefaultText>Urblat, der "Schlitzer"</DefaultText>
+      <DefaultText>Urblat, der "Lustmörder"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6670,7 +6670,17 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1437</ID>
+      <ID>1438</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1439</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1440</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

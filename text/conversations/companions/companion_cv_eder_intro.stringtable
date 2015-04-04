@@ -50,7 +50,7 @@ Ich finde, das solltest du schon."</DefaultText>
       <ID>9</ID>
       <DefaultText>Er streckt seine Hand aus. "Ich heiße Edér.
 
-Wenn es nach den Leuten hier ginge, könnten es auch 'Neunzehn' sein."
+Wenn es den Leuten hier nach ginge, könnten es auch 'Neunzehn' sein."
 
 Er betrachtet dich von Kopf bis Fuß und zieht eine Grimasse. "Glaube nicht, dass ich dich höher als 23 hängen würde. Maximal 23." Er schnalzt mit der Zunge. "Du siehst nach der Sorte aus, die sich gerne einmischt."</DefaultText>
       <FemaleText />
@@ -101,7 +101,7 @@ Er betrachtet dich von Kopf bis Fuß und zieht eine Grimasse. "Glaube nicht, das
       <ID>18</ID>
       <DefaultText>"Ha! Also kennst du dich bereits aus.
 
-Trotzdem, du musst mir meine Neugier verzeihen. In dieser Gegend bevorzugen wir es eher, von unseren Toten wegzuschauen."</DefaultText>
+Trotzdem, du musst mir meine Neugier verzeihen In dieser Gegend bevorzugen wir es eher, von unseren Toten wegzuschauen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -202,7 +202,7 @@ He, wie auch immer, vielleicht bin ich doch nicht 'Neunzehn'. Nichts für ungut!
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Wir jagten ihn in die Luft." Er lächelt, als er das sagt, aber es ist das Lächeln von jemandem, der einen Witz nicht aus Spaß erzählt, sondern um einen Effekt zu erzielen.</DefaultText>
+      <DefaultText>"Wir jagten ihn in die Luft." Er lächelt, als er das sagt, aber es ist das Lächeln von jemand, der einen Witz nicht aus Spaß erzählt, sondern um einen Effekt zu erzielen .</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -222,9 +222,9 @@ He, wie auch immer, vielleicht bin ich doch nicht 'Neunzehn'. Nichts für ungut!
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Er schaut den Baum hoch und seine Augen verfolgen einen der schaukelnden Körper. "Anscheinend ist das jetzt nicht mehr von Belang."
+      <DefaultText>Er schaut den Baum hoch, und seine Augen verfolgen einen der schaukelnden Körper. "Anscheinend ist das jetzt nicht mehr von Belang.
 
-"Die Dörfler legen beim Hängen heutzutage natürlich nicht mehr selbst Hand an. Aber wenn Raedrics Männer kommen, dann haben sie kein Problem, mit ihren Fingern zu deuten."</DefaultText>
+Die Dörfler legen beim Hängen heutzutage natürlich nicht mehr selbst Hand an, aber wenn Raedrics Männer kommen, dann haben sie kein Problem, mit ihren Fingern zu deuten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@ He, wie auch immer, vielleicht bin ich doch nicht 'Neunzehn'. Nichts für ungut!
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Niemand trat vor, also tat es Swithin - das war mein Vorarbeiter - und sagte, er wäre es gewesen."
+      <DefaultText>"Niemand trat vor, als tat es Swithin - das war mein Vorarbeiter - und sagte, er wäre es gewesen."
 
 "Sie haben ihn beim Wort genommen."</DefaultText>
       <FemaleText />
@@ -258,21 +258,21 @@ He, wie auch immer, vielleicht bin ich doch nicht 'Neunzehn'. Nichts für ungut!
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Er zuckt mit den Achseln. "Hat sich den falschen Gott ausgesucht. Darauf läuft es doch hinaus." 
+      <DefaultText>Er zuckt mit den Achseln. "Hat sich den falschen Gott ausgesucht. Darauf läuft es doch hinaus. 
 
-"In Goldtal gab es mal viele Anhänger Eothas'. Dieser Haufen Felsbrocken da drüben war früher mal ein Eothas-Tempel, nur damit du dir eine Vorstellung machen kannst."</DefaultText>
+In Goldtal gab es mal viele Anhänger Eothas'. Dieser Haufen Felsbrocken da drüben war früher mal ein Eothas-Tempel, nur damit du dir eine Vorstellung machen kannst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Dann tauchte eines Tages jemand namens Waidwen auf der Türschwelle des Dyrwalds auf. Das lebende Fleisch Eothas' sei er, hieß es. Dass er eine Armee mitgebracht hätte, sagte er. Und auf einmal war Eothas hierzulande nicht mehr so beliebt."
+      <DefaultText>"Dann tauchte eines Tages jemand namens Waidwen auf der Türschwelle des Dyrwalds auf. Das lebende Fleisch Eothas' sei er, hieß es. Dass er eine Armee mitgebracht hätte, sagte er. Und auf einmal war Eothas hierzulande nicht mehr so beliebt.
 
-"Weder mein Bruder Woden noch ich glaubten das. Das konnte unmöglich Eothas sein. Er meldete sich zu den Waffen, und ich folgte ihm. Er aber kam nicht mehr zurück."</DefaultText>
+Weder mein Bruder Woden noch ich glaubten das. Das konnte unmöglich Eothas sein. Er meldete sich zu den Waffen, und ich folgte ihm. Er aber kam nicht mehr zurück."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Nach dem Krieg begannen die Leute, die Anhänger Eothas' zu bestrafen und sie des Verrats zu beschuldigen. Besonders nachdem das Vermächtnis begann, wurde es wirklich hässlich. Die Leute brauchten einfach einen Sündenbock."
+      <DefaultText>"Nach dem Krieg begannen die Leute, die Anhänger Eothas' zu bestrafen, und sie des Verrats zu beschuldigen. Besonders nachdem das Vermächtnis begann, wurde es wirklich hässlich. Die Leute brauchten einfach einen Sündenbock."
 
 "Mir passierte nichts, weil ich gekämpft hatte, aber dann wurde dieses Gerücht verbreitet, dass mein Bruder auf der falschen Seite stand. Dann war ich auf einmal nicht mehr sicher - nicht bis mein Vorarbeiter einschritt und sagte, sie müssten ihn schon hängen, um an mich heranzukommen."</DefaultText>
       <FemaleText />
@@ -284,9 +284,9 @@ He, wie auch immer, vielleicht bin ich doch nicht 'Neunzehn'. Nichts für ungut!
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Eigentlich stehe ich kurz vor dem Aufbruch. Ich weiß nur noch nicht, wohin."
+      <DefaultText>"Eigentlich stehe ich kurz vor dem Aufbruch. Ich weiß nur noch nicht, wohin.
 
-"Dort draußen gibt es nicht viele Orte, wo man nicht denkt, dass Waidwens Vermächtnis mit Waidwen begann."</DefaultText>
+Dort draußen gibt es nicht viele Orte, wo man nicht denkt, dass Waidwens Vermächtnis mit Waidwen begann."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -313,16 +313,16 @@ Er wirft einen kurzen Blick auf den Baum. "So lange DU nicht die Sehenswürdigke
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Ich glaube, ich erinnere mich daran, vor einigen Jahren so etwas gehört zu haben. Er hat diesen Ort gezähmt. Die Leute suchten wegen allerlei Dinge Rat bei ihm. Dinge, die auf der Seele lasten. Fragen für die Verstorbenen." 
+      <DefaultText>"Ich glaube, ich erinnere mich daran, vor einigen Jahren so etwas gehört zu haben. Er hat diesen Ort gezähmt. Die Leute suchten wegen allerlei Dinge Rat bei ihm. Dinge, die auf der Seele lasten. Fragen für die Verstorbenen. 
 
-"Das war natürlich noch zu den Zeiten, in denen man das Wort Wächter noch laut aussprechen konnte."</DefaultText>
+Das war natürlich noch zu den Zeiten, in denen man das Wort Wächter noch laut aussprechen konnte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Er kratzt sich geistesabwesend mit seinem schwieligen Daumen am Bart. 
+      <DefaultText>Er kratzt sich geistesabwesend mit einem schwieligen Daumen im Bart. 
 
-"Weiß nicht, was ich davon halten soll, mit einem Fremden aufzubrechen - noch dazu mit einem so seltsamen. Aber ehrlich gesagt könntest du der Einzige sein, der nicht eine Art von Erleichterung spürt, wenn ich an diesem Baum dort baumeln würde."</DefaultText>
+"Weiß nicht, was ich davon halten soll, mit einem Fremden aufzubrechen - noch dazu mit einem so seltsamen. Aber ehrlich gesagt könntest du der Einzige sein, der nicht eine Art von Erleichterung spüren würde, wenn ich von diesem Baum dort baumelte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -357,7 +357,7 @@ Er wirft einen kurzen Blick auf den Baum. "So lange DU nicht die Sehenswürdigke
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Ich suche nach irgendjemandem, mit dem zusammen ich mich besser fühlen kann."</DefaultText>
+      <DefaultText>"Ich suche nach irgendjemand, mit dem ich mich besser fühlen kann."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -396,7 +396,7 @@ Er richtet seine Aufmerksamkeit auf etwas anderes und beobachtet das Dorf um sic
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Ich suche nach jemandem, mit dem zusammen ich mich besser fühlen kann."</DefaultText>
+      <DefaultText>"Ich suche nach jemandem, mit dem ich mich besser fühlen kann."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@ Er richtet seine Aufmerksamkeit auf etwas anderes und beobachtet das Dorf um sic
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Etwas entzündet sich in Edérs Augen und die Kraft der Entschlossenheit findet ihren Weg in seine Stimme. "Einen solchen Mann ... es gäbe Dinge, die ich ihn fragen wollen würde. Ich weiß auch nicht, warum ich niemals daran gedacht hatte."</DefaultText>
+      <DefaultText>Etwas entzündet sich in Edérs Augen, und die Kraft der Entschlossenheit findet ihren Weg in seine Stimme. "Einen solchen Mann ... es gäbe Dinge, die ich ihn fragen wollte. Ich weiß auch nicht, warum ich niemals daran gedacht hatte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,9 +416,9 @@ Er richtet seine Aufmerksamkeit auf etwas anderes und beobachtet das Dorf um sic
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Der Gott der Wiedergeburt und der Erlösung. Früher zumindest."
+      <DefaultText>"Der Gott der Wiedergeburt und der Erlösung. Früher zumindest.
 
-"Vielleicht haben sie da, wo du herkommst, einen anderen Namen für ihn."</DefaultText>
+Vielleicht haben sie da, wo du herkommst, einen anderen Namen für ihn."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -443,14 +443,14 @@ Er richtet seine Aufmerksamkeit auf etwas anderes und beobachtet das Dorf um sic
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Der Geruch von Pfeifenrauch, gleichzeitig erdig und süß, schlängelt sich in deine Nase. Deine Augen verfolgen den Rauch zu seinem Ursprung zurück - einem breiten Mann mit strohfarbenen Haaren, der an eine moosbewachsene Felswand gelehnt ist und eine Pfeife in seiner dicken Hand hält.
+      <DefaultText>Der Geruch von Pfeifenrauch, gleichzeitig erdig und süß, schlängelt sich in deine Nase. Deine Augen verfolgen den Rauch zu seinem Ursprung zurück - einem breiten Mann mit strohfarbenen Haaren, der an eine moosbewachsene Felswand gelehnt ist, und eine Pfeife in seiner dicken Hand hält.
 
 Er blickt dir direkt in die Augen, sein Blick ist jedoch nicht aggressiv. Er mustert dich mit einem eigenartigen Grinsen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Er betrachtet dich einen Augenblick lang mit hochgezogenen Augenbrauen. Sein Grinsen wird breiter.</DefaultText>
+      <DefaultText>Er betrachtet dich einen Augenblick mit hochgezogenen Augenbrauen. Sein Grinsen wird breiter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -465,7 +465,7 @@ Er blickt dir direkt in die Augen, sein Blick ist jedoch nicht aggressiv. Er mus
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Etwas entzündet sich in Edérs Augen und die Kraft der Entschlossenheit findet ihren Weg in seine Stimme. "Weißt du, dort gibt es etwas, was ich gerne mal betrachten würde, wenn es nicht zu viele Umstände bereitet. Etwas, was ich schon lange tun wollte."</DefaultText>
+      <DefaultText>Etwas entzündet sich in Edérs Augen, und die Kraft der Entschlossenheit findet ihren Weg in seine Stimme. "Weißt du, dort gibt es etwas, was ich gerne mal betrachten würde, wenn es nicht zu viele Umstände bereitet. Etwas, was ich schon lange tun wollte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

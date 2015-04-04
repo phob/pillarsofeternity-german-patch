@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Intelligenz</DefaultText>
+      <DefaultText>Intellekt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3235,7 +3235,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>635</ID>
-      <DefaultText>Auf dem Forum werden Ideen und Strategien kultiviert und geteilt. Durch den Ausbau des Forums erhältst du einen Intelligenzbonus, wenn in Leuchthöhle gerastet wird.</DefaultText>
+      <DefaultText>Auf dem Forum werden Ideen und Strategien kultiviert und geteilt. Durch den Ausbau des Forums erhältst du einen Intellektbonus, wenn in Leuchthöhle gerastet wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5540,12 +5540,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1102</ID>
-      <DefaultText>{0} Max Gesundheit</DefaultText>
+      <DefaultText>{0} max. Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1103</ID>
-      <DefaultText>{0} Max. Ausdauer</DefaultText>
+      <DefaultText>{0} max. Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5560,12 +5560,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1106</ID>
-      <DefaultText>{0} Nahkampfgenauigkeit</DefaultText>
+      <DefaultText>{0} Nahkampf&#2060;genauigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1107</ID>
-      <DefaultText>{0} Fernkampfgenauigkeit</DefaultText>
+      <DefaultText>{0} Fernkampf&#2060;genauigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5605,7 +5605,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1115</ID>
-      <DefaultText>{0} {1}schaden</DefaultText>
+      <DefaultText>{0} {1}&#2060;schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5640,7 +5640,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1122</ID>
-      <DefaultText>{0} Feinde angegriffen</DefaultText>
+      <DefaultText>{0} Feinde gebunden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5700,7 +5700,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1134</ID>
-      <DefaultText>{0} Rüstungsschadensreduktion</DefaultText>
+      <DefaultText>{0} Rüstungs&#2060;schadensreduktion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5715,7 +5715,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1137</ID>
-      <DefaultText>Schleichangriffe auf Feinde unter {0} Gesundheit</DefaultText>
+      <DefaultText>Schleichangriffe auf Feinde unter {0} Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5800,7 +5800,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1154</ID>
-      <DefaultText>{0} Schaden prozentual zur verlorenen Gesundheit</DefaultText>
+      <DefaultText>{0} Schaden prozentual zur verlorenen Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5820,7 +5820,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1158</ID>
-      <DefaultText>{0} Intelligenz</DefaultText>
+      <DefaultText>{0} Intellekt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5855,22 +5855,22 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1165</ID>
-      <DefaultText>{0} Verteidigung gegen Betäubungsangriffe</DefaultText>
+      <DefaultText>{0} Verteidigung gegen Betäubt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1166</ID>
-      <DefaultText>{0} Verteidigung gegen den Niedergeschlagen-Effekt</DefaultText>
+      <DefaultText>{0} Verteidigung gegen Niedergeschlagen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1167</ID>
-      <DefaultText>{0} Verteidigung gegen Giftangriffe</DefaultText>
+      <DefaultText>{0} Verteidigung gegen Gift</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1168</ID>
-      <DefaultText>{0} Verteidigung gegen Krankheitsangriffe</DefaultText>
+      <DefaultText>{0} Verteidigung gegen Krankheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5885,17 +5885,17 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1171</ID>
-      <DefaultText>{0} Kritische Reichweite, wenn das gleiche Ziel auch von einem Verbündeten angegriffen wird</DefaultText>
+      <DefaultText>{0} Treffer umgewandelt in Kritische Treffer, wenn das gleiche Ziel eines Verbündeten angegriffen wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1172</ID>
-      <DefaultText>{0} Genauigkeit gewährt für einen Verbündeten, der das gleiche Ziel angreift</DefaultText>
+      <DefaultText>{0} Genauigkeit für einen Verbündeten, der das gleiche Ziel angreift</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1173</ID>
-      <DefaultText>{0} Bereich Kritischer Treffer – Treffer angreifender Feinde</DefaultText>
+      <DefaultText>{0} erlittener Kritischer Treffer umgewandelt in Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5905,12 +5905,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1175</ID>
-      <DefaultText>{0} Bereich Treffer – Leichter Treffer gegen Feinde, die Abwehr oder Reflexe angreifen</DefaultText>
+      <DefaultText>{0} erlittener Treffer umgewandelt in Leichte Treffer (nur Abwehr und Reflexe)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1176</ID>
-      <DefaultText>{0} Bereich Treffer – Leichter Treffer gegen Feinde, die Tapferkeit oder Wille angreifen</DefaultText>
+      <DefaultText>{0} erlittener Treffer umgewandelt in Leichte Treffer (nur Tapferkeit und Wille)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5920,12 +5920,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1178</ID>
-      <DefaultText>{0} Erlittener Schaden umgewandelt zu Zeitschaden</DefaultText>
+      <DefaultText>{0} erlittener Schaden umgewandelt in Zeitschaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1179</ID>
-      <DefaultText>{0} Schaden gegen Ziele, die von Zeitschaden beeinträchtigt werden</DefaultText>
+      <DefaultText>{0} Schaden gegen Ziele, die von Zeitschaden betroffen sind</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5935,7 +5935,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1181</ID>
-      <DefaultText>{0} Wirkungsbereichsschaden erlitten</DefaultText>
+      <DefaultText>{0} erlittener Wirkungsbereichsschaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5965,7 +5965,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1187</ID>
-      <DefaultText>Kleine Zauberreflektion</DefaultText>
+      <DefaultText>Schwache Zauberreflektion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6000,12 +6000,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1194</ID>
-      <DefaultText>{0} Verteidigung während Betäubung</DefaultText>
+      <DefaultText>{0} Verteidigung während Betäubt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1195</ID>
-      <DefaultText>{0} Verteidigung während Niedergeschlagenheit</DefaultText>
+      <DefaultText>{0} Verteidigung während Niedergeschlagen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6030,12 +6030,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1200</ID>
-      <DefaultText>{0} zu Faktor des kritischen Schadens</DefaultText>
+      <DefaultText>{0} zu Kritischer Schaden - Multiplikator</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1201</ID>
-      <DefaultText>{0} Bereich Leichter Treffer – Treffer</DefaultText>
+      <DefaultText>{0} Leichte Treffer umgewandelt in Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6045,27 +6045,27 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1203</ID>
-      <DefaultText>{0} Leichter Treffer zu Fehlschlag </DefaultText>
+      <DefaultText>{0} Leichte Treffer umgewandelt in Fehlschlag </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1204</ID>
-      <DefaultText>{0} Kritischer Treffer zu Treffer umgewandelt</DefaultText>
+      <DefaultText>{0} Kritische Treffer umgewandelt in Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1205</ID>
-      <DefaultText>{0} Fehlschlag zu Leichter Treffer umgewandelt</DefaultText>
+      <DefaultText>{0} Fehlschläge umgewandelt in Leichte Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1206</ID>
-      <DefaultText>{0} Treffer zu Kritischer Treffer umgewandelt</DefaultText>
+      <DefaultText>{0} Treffer umgewandelt in Kritische Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1207</ID>
-      <DefaultText>{0} Treffer zu Leichter Treffer umgewandelt</DefaultText>
+      <DefaultText>{0} Treffer umgewandelt in Leichte Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6100,7 +6100,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1214</ID>
-      <DefaultText>{0} Bereich Leichter Treffer umgewandelt zu Fehlschlag gegen Feinde, die Reflexe angreifen</DefaultText>
+      <DefaultText>{0} erlittener Leichter Treffer umgewandelt in Fehlschläge (nur Reflexe)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6110,7 +6110,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1216</ID>
-      <DefaultText>{0} Feinde werden zum flankieren gebraucht</DefaultText>
+      <DefaultText>{0} Feinde werden zum Flankieren gebraucht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6120,7 +6120,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1218</ID>
-      <DefaultText>{0} {1} Zeitschaden bei Treffer</DefaultText>
+      <DefaultText>{0} {1}-Zeitschaden bei Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6130,7 +6130,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1220</ID>
-      <DefaultText>Zauber wirken deaktiviert</DefaultText>
+      <DefaultText>Zauberwirken deaktiviert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6180,7 +6180,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1230</ID>
-      <DefaultText>{0} Genauigkeit, wenn der gleiche Feind wie von {1} angegriffen wird</DefaultText>
+      <DefaultText>{0} Genauigkeit, wenn der gleiche Feind von {1} angegriffen wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6195,7 +6195,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1233</ID>
-      <DefaultText>Kritische Treffer können niederschlagen</DefaultText>
+      <DefaultText>Kritische Treffer können Niedergeschlagen bewirken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6210,12 +6210,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1236</ID>
-      <DefaultText>{0} Schaden gegen Niedergeschlagene, Betäubte, Flankierte Feinde</DefaultText>
+      <DefaultText>{0} Schaden gegen Niedergeschlagen&#2060;e, Betäubt&#2060;e, Flankiert&#2060;e Feinde</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1237</ID>
-      <DefaultText>{0} Verursachter Zeitschaden</DefaultText>
+      <DefaultText>{0} verursachter Zeitschaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6225,22 +6225,22 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1239</ID>
-      <DefaultText>{0} Angreifer-Bereich Treffer - Leichter Treffer</DefaultText>
+      <DefaultText>{0} erlittener Treffer umgewandelt in Leichte Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1240</ID>
-      <DefaultText>{0} Betäubungsdauer</DefaultText>
+      <DefaultText>{0} Dauer von Betäubt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1241</ID>
-      <DefaultText>{0} Dauer Niedergeschlagenheit</DefaultText>
+      <DefaultText>{0} Dauer von Niedergeschlagen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1242</ID>
-      <DefaultText>{0} Rüstungsschadensreduktion wenn unter 25 % Gesundheit</DefaultText>
+      <DefaultText>{0} Rüstungs&#2060;schadensreduktion wenn unter 25% Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6295,17 +6295,17 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1253</ID>
-      <DefaultText>{0} Schaden Todesstoß</DefaultText>
+      <DefaultText>{0} Todesstoß-Schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1254</ID>
-      <DefaultText>{0} Wirkungsbereich Eifrige Aura</DefaultText>
+      <DefaultText>{0} Eifrige Aura Wirkungsbereich</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1255</ID>
-      <DefaultText>Verzögerung Bewusstlosigkeit um {0} Sekunden</DefaultText>
+      <DefaultText>Verzögerung von Bewusstlosigkeit um {0} Sekunden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6345,12 +6345,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1263</ID>
-      <DefaultText>{0} Frequenz für Gifteffekt</DefaultText>
+      <DefaultText>{0} Frequenz für Gift&#2060;auswirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1264</ID>
-      <DefaultText>{0} Frequenz für Krankheitseffekt</DefaultText>
+      <DefaultText>{0} Frequenz für Krankheit&#2060;sauswirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6360,12 +6360,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1266</ID>
-      <DefaultText>{0} von {1} Schaden zu Ausdauer umgewandelt</DefaultText>
+      <DefaultText>{0} von {1} Schaden umgewandelt in Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1267</ID>
-      <DefaultText>{0} Wirkungsbereich Gesang</DefaultText>
+      <DefaultText>{0} Gesang Wirkungsbereich</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6375,32 +6375,32 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1269</ID>
-      <DefaultText>{0} Schaden durch kritische Treffer erlitten</DefaultText>
+      <DefaultText>{0} erlittener Schaden durch kritische Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1270</ID>
-      <DefaultText>{0} {1}-Stufe Zauberanwendung</DefaultText>
+      <DefaultText>{0} {1}-Stufe Zauberanwendungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1271</ID>
-      <DefaultText>Wirkungsbereich {0} Fertigkeit</DefaultText>
+      <DefaultText>{0} Fertigkeit Wirkungsbereich</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1272</ID>
-      <DefaultText>Dauer{0} Raserei</DefaultText>
+      <DefaultText>{0} Raserei-Dauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1273</ID>
-      <DefaultText>Niederschlag Dauer{0}</DefaultText>
+      <DefaultText>{0} Niedergeschlagen-Dauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1274</ID>
-      <DefaultText>{0} Schaden Wildschlag</DefaultText>
+      <DefaultText>{0} Wildschlag-Schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6410,7 +6410,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1276</ID>
-      <DefaultText>{0} Erlittener Schaden umgewandelt zu Heilung über Zeit</DefaultText>
+      <DefaultText>{0} erlittener Schaden umgewandelt in Heilung über Zeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6655,7 +6655,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1325</ID>
-      <DefaultText>Wund</DefaultText>
+      <DefaultText>Direkt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7732,7 +7732,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1542</ID>
-      <DefaultText>Erholungsgeschwindigkeit: {0}</DefaultText>
+      <DefaultText>Erholung&#2060;sgeschwindigkeit: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9669,8 +9669,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1939</ID>
-      <DefaultText>Verschiedenes
-</DefaultText>
+      <DefaultText>Verschiedenes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9685,7 +9684,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1944</ID>
-      <DefaultText>Number of Enemies for Auto-Slow:</DefaultText>
+      <DefaultText>Gegneranzahl für automatischen langsamen Kampf:</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9710,7 +9709,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1949</ID>
-      <DefaultText>{0} Unarmed Accuracy</DefaultText>
+      <DefaultText>{0} Waffenlose Genauigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9720,7 +9719,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1952</ID>
-      <DefaultText>{0} zu Faktor des kritischen Schadens gegen Feinde mit geringer Ausdauer</DefaultText>
+      <DefaultText>{0} zu Kritischer Schaden Multiplikator gegen Feinde mit geringer Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

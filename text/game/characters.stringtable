@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\characters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1334</EntryCount>
+  <EntryCount>1336</EntryCount>
   <Entries>
     <Entry>
       <ID>11</ID>
@@ -6666,12 +6666,22 @@
     </Entry>
     <Entry>
       <ID>1436</ID>
-      <DefaultText />
+      <DefaultText>Uldric</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1437</ID>
-      <DefaultText />
+      <ID>1438</ID>
+      <DefaultText>Dehengen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1439</ID>
+      <DefaultText>Badwrn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1440</ID>
+      <DefaultText>Ardhem</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

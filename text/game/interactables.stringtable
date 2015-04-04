@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\interactables</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>765</EntryCount>
+  <EntryCount>767</EntryCount>
   <Entries>
     <Entry>
       <ID>5</ID>
@@ -3882,6 +3882,16 @@ Süd nach Salzigen Mast</DefaultText>
     <Entry>
       <ID>867</ID>
       <DefaultText>Laden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>890</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>891</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

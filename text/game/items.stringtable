@@ -51,27 +51,27 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Mordaxt</DefaultText>
+      <DefaultText>Gewandtheit +2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Zweihänder</DefaultText>
+      <DefaultText>Gewandtheit +3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Beil</DefaultText>
+      <DefaultText>Intellekt +1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Jagdbogen</DefaultText>
+      <DefaultText>Intellekt +2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Leichter Speer</DefaultText>
+      <DefaultText>Intellekt +3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,22 +81,22 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Morgenstern</DefaultText>
+      <DefaultText>Verfassung +1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Pike</DefaultText>
+      <DefaultText>Entschlossenheit +1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Pistole</DefaultText>
+      <DefaultText>Entschlossenheit +2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Kampfstab</DefaultText>
+      <DefaultText>Entschlossenheit +3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Kettenrüstungen sind aufgrund ihrer Schutzwirkung vor allem gegen Hiebe ziemlich beliebt. Sie bestehen aus Tausenden kleiner Stahlringe, die zusammen ein flexibles Geflecht bilden. Kettenrüstungen, die normalerweise über Gambesonen getragen werden, schützen ihren Träger im Kampf gut, schränken aber seine Bewegungen ein.</DefaultText>
+      <DefaultText>Kettenrüstungen sind aufgrund ihrer Schutzwirkung vor allem gegen Hiebe ziemlich beliebt. Sie bestehen aus Tausenden kleiner Stahlringe, die zusammen ein flexibles Geflecht bilden. Kettenrüstungen, die normalerweise über Gambesonen getragen werden,. schützen ihren Träger im Kampf gut, schränken aber seine Bewegungen ein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -441,7 +441,7 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Gold-Obel</DefaultText>
+      <DefaultText>Verfassung +2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1008,12 +1008,12 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>Säbel</DefaultText>
+      <DefaultText>Intellekt -1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>Die Flammen von Fair Rhîan</DefaultText>
+      <DefaultText>Wahrnehmung +1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1023,76 +1023,72 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>Dieses Silbermedaillon ist verbeult und getrübt. Ein vergilbtes Portrait eines jungen Adligen befindet sich im Inneren. Durch den Zahn der Zeit es verwittert.</DefaultText>
+      <DefaultText>Macht +1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>Nyrids Zauberbuch</DefaultText>
+      <DefaultText>Macht +2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>Ein Goldring mit Adra-Verzierungen</DefaultText>
+      <DefaultText>Macht +3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>Nyfre's Thugs Zauberbuch</DefaultText>
+      <DefaultText>Tapferkeit +5</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>Zerfetzte Notiz</DefaultText>
+      <DefaultText>Tapferkeit +10</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>Ich brauche dich, um unsere Beute für den Verkauf an Curnd zu liefern. Er wird nicht mit dir sprechen, außer du sagst die Worte: 'Yc Nybeon Eyldfeon'. Du findest ihn nachts in der Geschenk.</DefaultText>
+      <DefaultText>Tapferkeit +15</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>Kopftuch</DefaultText>
+      <DefaultText>Abwehr +5</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>Schlüssel zur Schmelztiegel-Waffenkammer</DefaultText>
+      <DefaultText>Abwehr +10</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>Heligs Zauberbuch</DefaultText>
+      <DefaultText>Reflexe +5</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>Ein Wälzer, der alle Zaubersprüche des untoten Magiers Helig enthält.</DefaultText>
+      <DefaultText>Reflexe +10</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>Engwithanischer Schmiedemeister</DefaultText>
+      <DefaultText>Reflexe +15</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>Die Schlagseite dieses Hammers ist in Bronze eingefasst, der Schaft dekoriert mit Adra und Runen. Er sieht eher nach einem Schmiedewerkzeug aus als nach einer Waffe, könnte allerdings auch leicht letzterem Zweck dienen.</DefaultText>
+      <DefaultText>Wille +5</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>Sevis Tagebuch</DefaultText>
+      <DefaultText>Wille +10</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>Einige Titel auf der ersten Seite des Tagebuchs sind durchgestrichen: "Die Taten des Brandeisens", "Die Legende des Brandeisens", und "Die glorreichen Heldentaten des Brandeisens".
-
-Der Autor entschied sich letztendlich für "Die Geschichte von Sevis dem Kühnen und dem Brandeisen".
-
-Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleien von Drachen.</DefaultText>
+      <DefaultText>Wille +15</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1147,7 +1143,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>Fackel</DefaultText>
+      <DefaultText>Wille -3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1162,12 +1158,12 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>Schlüssel zu Valtas-Herrenhaus</DefaultText>
+      <DefaultText>Konzentration +10</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>Dieser reich verzierte Messingschlüssel zeigt das Symbol des Hauses Valtas: ein Schwert gekreuzt mit einem Speer.</DefaultText>
+      <DefaultText>Konzentration -5</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1252,7 +1248,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>Das einfache Kriegsbeil, eine kleine und schnelle Waffe, ist im Dyrwald extrem verbreitet - als Arbeitswerkzeug von Waldläufern und als Jagdwaffe. Kriegsbeile sind viel kleiner als richtige Streitäxte, der Waffenführer kann mit ihnen viele Schläge innerhalb kurzer Zeit ausführen.</DefaultText>
+      <DefaultText>Das einfache Kriegsbeil, eine kleine und schnelle Waffe, ist im Dyrwald extrem verbreitet - als Arbeitswerkzeug von Waldläufern und als Jagdwaffe. Kriegsbeile sind viel kleiner als richtige Streitäxte, der Waffenführer kann mit ihr viele Schläge innerhalb kurzer Zeit ausführen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1297,7 +1293,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>Streitkolben sind auf der ganzen bekannten Welt der Fluch von Soldaten mit Kettenhemden und im Dyrwald weit verbreitet. Unabhängig von der Form ihrer Flansche bestehen Streitkolben immer aus einem Metallschaft mit einer Reihe symmetrischer Flansche, welche die Schlagkraft der Waffe auf einen kleinen Bereich konzentrieren. Panzerbrecher haben zwar mehr Durchdringungskraft als Streitkolben, letztere allerdings können zusammen mit Schilden verwendet werden.</DefaultText>
+      <DefaultText>Streitkolben sind auf der ganzen bekannten Welt der Fluch von Soldaten mit Kettenhemden und im Dyrwald weit verbreitet. Unabhängig von der Form ihrer Flansche bestehen Streitkolben immer aus einem Metallschaft umit einer Reihe symmetrischer Flansche, welche die Schlagkraft der Waffe auf einen kleinen Bereich konzentrieren. Panzerbrecher haben zwar mehr Durchdringungskraft als Streitkolben, letztere allerdings können zusammen mit Schilden verwendet werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1387,7 +1383,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>Stilette ähneln Dolchen, weichen in Form und Einsatzweise aber leicht von ihnen ab. Diese Waffen wurden zum Durchdringen von Rüstungen gefertigt und verfügen deshalb über eine steife Stoßklinge, die wie ein kleiner Panzerbrecher aussieht. Stilette sind sicherlich keine mächtigen Waffen, aber leicht gepanzerte Gegner können mit ihnen schnell zur Strecke gebracht werden.</DefaultText>
+      <DefaultText>Stilette ähneln Dolchen, weichen in Form und Einsatzweise aber leicht von ihnen ab. Diese Waffen wurden zum Durchdringen von Rüstungen gefertigt und verfügen deshalb über eine steife Stoßklinge, die wie ein kleiner Panzerbrecher aussieht. Stilette sind sicherlich keine mächtigen Waffen, aber mit leicht gepanzerte Gegner können mit ihnen schnell zur Strecke gebracht werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1683,7 +1679,7 @@ Der weise Mann schüttelt seinen Kopf und wischt sich die Tränen aus den Augen.
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>Aloths Zauberbuch</DefaultText>
+      <DefaultText>Aloths Zauberbuch </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2590,7 +2586,7 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
       <ID>529</ID>
       <DefaultText>Dieses Stück Pergament ist in relativ gutem Zustand, aber die Tinte darauf ist verblichen. Du kannst ein paar Stellen mit sorgfältiger Schönschrift erkennen.
 
-"... esucher zur Ritualebene. Rectrix Obrica sagt... rlösung sogar für diese... ergessen und die größte Glocke zuerst geschlagen statt als zweites..." Der Rest ist unleserlich.</DefaultText>
+"... esucher zur Ritualebene. Rectrix Obrica sagt ... rlösung sogar für diese ... ergessen und statt der zweiten zuerst die größte Glocke geschlagen ..." Der Rest ist unleserlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3625,7 +3621,7 @@ Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei
     </Entry>
     <Entry>
       <ID>738</ID>
-      <DefaultText>Wirksam zum Aufbrechen bestimmter Behälter, an Türen dagegen aufgrund der ungleichmäßigen und engen Hebelwirkung nicht.</DefaultText>
+      <DefaultText>Wirksam zum Aufbrechen bestimmter Behälter, an Türen dagegen aufgrund der ungleichmäßig und engen Hebelwirkung nicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3999,7 +3995,7 @@ Dieses Paar Stiefel soll Fulvano gehört haben, und die in das Leder gebrannten 
     </Entry>
     <Entry>
       <ID>809</ID>
-      <DefaultText>"Fulvano, ich glaube nicht, dass du das hier jemals lesen wirst - aber du hattest Recht. Wir hätten zusammen nach Süden reisen soll, es wäre sicherer für beide gewesen. Gerne würde ich alle Häme der Welt ertragen, würde ich nur überleben, um sie zu hören. Ich habe mich aus der Reichweite der Biester entfernt, die unter mir kreisen, aber ich bin trotzdem erledigt. Ich glaube nicht, dass ich wieder hinabsteigen werde. Wer auch immer das hier findet - betet für mich. Vielleicht werde ich im nächsten Leben lieber Wölfen nachstellen."</DefaultText>
+      <DefaultText>"Fulvano, ich glaube nicht, dass du das hier jemals lesen wirst - aber du hattest Recht. Wir hätten zusammen nach Süden reisen soll, es wäre sicherer für beide gewesen. Gerne würde ich alle Häme der Welt ertragen, würde ich nur überleben, um sie zu hören. Ich habe mich aus der Reichweite der Biester entfernt, die unter mir kreisen, aber ich bin trotzdem erledigt. Ich glaube nicht, dass ich wieder hinaufsteigen werde. Wer auch immer das hier findet - betet für mich. Vielleicht werde ich im nächsten Leben lieber Wölfen nachstellen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6104,7 +6100,7 @@ Doch wieder stand Mabec ungläubig vor dem Baum - er fand weder einen Hohlraum i
     </Entry>
     <Entry>
       <ID>1236</ID>
-      <DefaultText>Rinderbraten ist ein im ganzen Dyrwald weit verbreitetes Gericht, und hunderte Familien haben seit Generationen dieselben Rezepte verwendet. Niemand ist sich sicher, wie er als 'Duc-Rinderbraten' bekannt wurde, aber diesbezüglich gibt es zwei Hauptlegenden: Die erste dreht sich um Admeth Hadret, den ersten Duc des Dyrwalds, der angeblich für seinen Gefangenen, den Glanfathaner Galven Rêgd, persönlich einen Rinderbraten zubereitete. Dem Orlaner schmeckte das Gericht angeblich so gut, dass er um das Rezept bat, um es nach seiner Freilassung an seine Verwandten weiterzugeben. Die zweite, wahrscheinlichere Erzählung dreht sich um eine skrupellosen Köchin, der in der altehrwürdigen Schänke Zum Schwarzen Hund in Goldtal arbeitete. Unzähligen Reisenden vertraute sie an, sie hätte das Rezept für den 'Duc-Rinderbraten' -- was einfach nur ihr eigenes, köstliches Rezept war - und verkaufte es Dutzenden für horrende Preise. Jedes Opfer der List bereitete daraufhin Rinderbraten mit dem vermeintlich persönlichen Rezept des Ducs zu, was schließlich zu diesem Gebrauchsnamen führte.</DefaultText>
+      <DefaultText>Rinderbraten ist ein im ganzen Dyrwald weit verbreitetes Gericht, und hunderte Familien haben seit Generationen dieselben Rezepte verwendet. Niemand ist sich sicher, wie er als 'Duc-Rinderbraten' begannt wurde, aber diesbezüglich gibt es zwei Hauptlegenden: Die erste dreht sich um Admeth Hadret, den ersten Duc des Dyrwalds, der angeblich für seinen Gefangenen, den Glanfathaner Galven Rêgd, persönlich einen Rinderbraten zubereitete. Dem Orlaner schmeckte das Gericht angeblich so gut, dass er um das Rezept bat, um es nach seiner Freilassung an seine Verwandten weiterzugeben. Die zweite, wahrscheinlichere Erzählung dreht sich um eine skrupellosen Köchin, der in der altehrwürdigen Schänke Zum Schwarzen Hund in Goldtal arbeitete. Unzähligen Reisenden vertraute sie an, sie hätte das Rezept für den 'Duc-Rinderbraten' -- was einfach nur ihr eigenes, köstliches Rezept war - und verkaufte es Dutzenden für horrende Preise. Jedes Opfer der List bereitete daraufhin Rinderbraten mit dem vermeintlich persönlichen Rezept des Ducs zu, was schließlich zu diesem Gebrauchsnamen führte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6266,7 +6262,7 @@ Eine schreckliche Waffe, die jeden enttäuscht, der sie verwendet. Auf den erste
     </Entry>
     <Entry>
       <ID>1267</ID>
-      <DefaultText>Dieser blubbernde violette Trank hat eine ebenso sichtbare Wirkung, denn wer ihn trinkt, der verspürt augenblicklich eine Welle der Energie, die selbst die ausgemergeltesten und müdesten Wanderer wieder lebhaft und frisch werden lässt.</DefaultText>
+      <DefaultText>Dieser blubbernde violette Trank hat eine ebenso sichtbare Wirkung, denn wer ihn trinkt, der verspürt augenblicklich eine Welle der Energie, die selbst die ausgemergeltetsen und müdesten Wanderer wieder lebhaft und frisch werden lässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6306,7 +6302,7 @@ Eine schreckliche Waffe, die jeden enttäuscht, der sie verwendet. Auf den erste
     </Entry>
     <Entry>
       <ID>1275</ID>
-      <DefaultText>Diese Schriftrolle ist mit dem Siegel einer Gewitterwolke geprägt. Sie beschreibt einen Zauber, durch welchen der Wirker einen verheerenden Wirbel aus Flammen, Eis, Blitz und Zersetzung schaffen kann.</DefaultText>
+      <DefaultText>Diese Schriftrolle ist mit dem geprägten Siegel einer Gewitterwolke versehen. Sie beschreibt einen Zauber, durch welchen der Wirker einen verheerenden Wirbel aus Flammen, Eis, Blitz und Korrosion schaffen kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6743,7 +6739,7 @@ Dieser Stab ist heiß, wenn man ihn anfasst. Er spuckt Feuerbälle aus. Er ist s
     </Entry>
     <Entry>
       <ID>1348</ID>
-      <DefaultText>Kalakoths geringe Fäule - Zersetzung</DefaultText>
+      <DefaultText>Kalakoths geringe Fäule - Säure</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10047,7 +10043,7 @@ Yngmar wird "IING-mar" gesprochen, mit einem langen Vokallaut zu Beginn.</Defaul
     </Entry>
     <Entry>
       <ID>1746</ID>
-      <DefaultText>Umgibt den Zauberwirker mit einem geheimnisvollen Schild und durchdringt ihn mit Boni auf die Schadensresistenz gegen Brand-, Frost-, Zersetzungs- und Schockschaden.</DefaultText>
+      <DefaultText>Umgibt den Zauberwirker mit einem geheimnisvollen Schild und durchdringt ihn mit Boni auf die Schadensresistenz gegen Verbrennungs-, Frost-, Säure- und Schockschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10167,42 +10163,42 @@ Yngmar wird "IING-mar" gesprochen, mit einem langen Vokallaut zu Beginn.</Defaul
     </Entry>
     <Entry>
       <ID>1770</ID>
-      <DefaultText>Erzeugt einen Feuerkegel vor dem Zauberwirker, der jedem im Wirkungsbereich Brandschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt einen Feuerkegel vor dem Zauberwirker, der jedem im Wirkungsbereich Verbrennungsschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1771</ID>
-      <DefaultText>Beschwört einen Feuerball aus geschmolzener Erde herauf, der über dem Ziel explodiert und bei allen im Wirkungsbereich Brandschaden verursacht.</DefaultText>
+      <DefaultText>Beschwört einen Feuerball aus geschmolzener Erde herauf, der über dem Ziel explodiert und bei allen im Wirkungsbereich Verbrennungsschaden verursacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1772</ID>
-      <DefaultText>Ein Stromblitz springt von den Händen des Zauberwirkers auf den nächsten Feind und anschließend auf die umstehenden Feinde über, wobei diese abnehmenden Schockschaden erleiden.</DefaultText>
+      <DefaultText>Ein Stromblitz springt von den Händen des Zauberwirkers auf den nächsten Feind und anschließend auf die umstehenden Feinde über, wobei diese abnehmenden Elektroschockschaden erleiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1773</ID>
-      <DefaultText>Beschwört drei Zaubergeschosse, die im Ziel einschlagen und Wuchtschaden verursachen.</DefaultText>
+      <DefaultText>Beschwört drei Zaubergeschosse, die im Ziel einschlagen und Schmetterschaden verursachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1774</ID>
-      <DefaultText>Beschwört drei Zaubergeschosse, die im Ziel einschlagen und Wuchtschaden verursachen.</DefaultText>
+      <DefaultText>Beschwört drei Zaubergeschosse, die im Ziel einschlagen und Schmetterschaden verursachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1775</ID>
-      <DefaultText>Erzeugt einen brennenden Flammenstrahl zwischen dem Zauberwirker und dem Ziel, der dem Ziel und jedem, der in dem Strahl gefangen ist, anhaltenden Brandschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt einen brennenden Flammenstrahl zwischen dem Zauberwirker und dem Ziel, der dem Ziel und jedem, der in dem Strahl gefangen ist, anhaltenden Verbrennungsschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1776</ID>
-      <DefaultText>Erzeugt einen abprallenden Feuerball, der jedem, der im Weg steht, Brandschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt einen abprallenden Feuerball, der jedem, der im Weg steht, Verbrennungsschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1777</ID>
-      <DefaultText>Erzeugt ein fürchterliches senkrechtes Flammentuch, das jedem Brandschaden zufügt, der hindurchschreitet.</DefaultText>
+      <DefaultText>Erzeugt ein fürchterliches senkrechtes Flammentuch, das jedem Verbrennungsschaden zufügt, der hindurchschreitet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10287,17 +10283,17 @@ Yngmar wird "IING-mar" gesprochen, mit einem langen Vokallaut zu Beginn.</Defaul
     </Entry>
     <Entry>
       <ID>1794</ID>
-      <DefaultText>Alle im kegelförmigen Wirkungsbereich erleiden Brandschaden und werden zurückgedrängt.</DefaultText>
+      <DefaultText>Alle im kegelförmigen Wirkungsbereich erleiden Verbrennungsschaden und werden zurückgedrängt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1795</ID>
-      <DefaultText>Erzeugt schnell einen explosiven Flammenblitz, der jedem im Wirkungsbereich Brandschaden zufügt. Kurze Zauberdauer.</DefaultText>
+      <DefaultText>Erzeugt schnell einen explosiven Flammenblitz, der jedem im Wirkungsbereich Verbrennungsschaden zufügt. Kurze Zauberdauer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1796</ID>
-      <DefaultText>Lockt einen Schwarm aggressiver Insekten an, die mit der Zeit direkten Schaden verursachen und die Konzentration von jedem im Wirkungsbereich verringern.</DefaultText>
+      <DefaultText>Lockt einen Schwarm aggressiver Insekten an, die mit der Zeit Wundschaden verursachen und die Konzentration von jedem im Wirkungsbereich verringern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10362,7 +10358,7 @@ Yngmar wird "IING-mar" gesprochen, mit einem langen Vokallaut zu Beginn.</Defaul
     </Entry>
     <Entry>
       <ID>1809</ID>
-      <DefaultText>Schleudert zwei tödliche Felsen von der Position des Druiden aus, die jedem in ihrer Flugbahn Wuchtschaden zufügen und beim Einschlag auf festem Untergrund zerspringen, wobei die Bruchstücke allen Umstehenden Stichschaden zufügen.</DefaultText>
+      <DefaultText>Schleudert zwei tödliche Felsen von der Position des Druiden aus, die jedem in ihrer Flugbahn Schmetterschaden zufügen und beim Einschlag auf festem Untergrund zerspringen, wobei die Bruchstücke allen Umstehenden Stichschaden zufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

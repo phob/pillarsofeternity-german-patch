@@ -215,7 +215,7 @@ Es ... spielt nur eine Rolle, wenn etwas Schlimmes geschieht."</DefaultText>
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Du musst verstehen ... ohne ein solches Gewicht meiner Worte ... wären viele Leben verloren gegangen. Ertränkt wären sie worden, und in den See hinter der Glocke geworfen. Jetzt ist der Weg zum See verschwunden. Der Wald hat ihn sich zurückgeholt ... so, wie es vorgesehen war."
+      <DefaultText>"Du musst verstehen ... ohne ein solches Gewicht meiner Worte ... wären viele Leben verloren gegangen. Ertränkt hätte man sie, und in den See hinter der Glocke geworfen. Jetzt ist der Weg zum See verschwunden. Der Wald hat ihn sich zurückgeholt ... so, wie es vorgesehen war."
 
 "Dort gab es keinen Wächter, der uns überprüfte, aber sie wurden von einem Wächter gerettet ... und mit der Stärke eines Wächters wurden Kinder geboren, gepflegt, und wuchsen zu starken Erwachsenen heran."</DefaultText>
       <FemaleText />
@@ -396,7 +396,7 @@ Du wirst tun, was die Welt braucht, was ihre Kinder brauchen. Das ist größer a
     <Entry>
       <ID>212</ID>
       <DefaultText>Ihre Gedanken schwappen wie kühles, beruhigendes Wasser gegen deine. "Das ist gut, Wächter."</DefaultText>
-      <FemaleText />
+      <FemaleText>Ihre Gedanken schwappen wie kühles, beruhigendes Wasser gegen deine. "Das ist gut, Wächterin."</FemaleText>
     </Entry>
     <Entry>
       <ID>221</ID>
@@ -519,7 +519,9 @@ Wie hätte ich wissen sollten, wohin dieser Weg führt, oder dass es andere gab,
       <DefaultText>"Wächter, meine Hände haben schon immer schnell die Führung ergriffen ... um ein Kind aus dem Mutterleib zu ziehen, um die Schmerzen einer Mutter zu lindern ... es ist nicht meine Art, untätig zu bleiben, aber
 
 die Ebbe und Flut der Geburtswehen sind wie die Umdrehungen des Rads. Eine neue Geburt, eine neue Chance, ein neues Leben ... sobald diese Krankheit ihren Lauf genommen hat. Vielleicht müssen wir darin unsere Hoffnungen legen."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Wächterin, meine Hände haben schon immer schnell die Führung ergriffen ... um ein Kind aus dem Mutterleib zu ziehen, um die Schmerzen einer Mutter zu lindern ... es ist nicht meine Art, untätig zu bleiben, aber
+
+die Ebbe und Flut der Geburtswehen sind wie die Umdrehungen des Rads. Eine neue Geburt, eine neue Chance, ein neues Leben ... sobald diese Krankheit ihren Lauf genommen hat. Vielleicht müssen wir darin unsere Hoffnungen legen."</FemaleText>
     </Entry>
     <Entry>
       <ID>247</ID>
@@ -635,7 +637,9 @@ Schließlich aber hebt sie ihren Blick, und der Nebel zieht sich zurück. "Ich w
       <DefaultText>Mehrere Augenblicke lang sagt sie nichts mehr. "Deine Worte haben meinen Verstand beruhigt ... auf Arten, mit denen ich nicht gerechnet hatte. Wächter, ich danke dir für die Gabe deines Sehens ... dafür, dass du mich damit aus dem Gefängnis meines Verstands geführt hast.
 
 Lass uns hoffen, dass es dich auch der Illusionen berauben kann, die Thaos um dich gesponnen hat."</DefaultText>
-      <FemaleText />
+      <FemaleText>Mehrere Augenblicke lang sagt sie nichts mehr. "Deine Worte haben meinen Verstand beruhigt ... auf Arten, mit denen ich nicht gerechnet hatte. Wächterin, ich danke dir für die Gabe deines Sehens ... dafür, dass du mich damit aus dem Gefängnis meines Verstands geführt hast.
+
+Lass uns hoffen, dass es dich auch der Illusionen berauben kann, die Thaos um dich gesponnen hat."</FemaleText>
     </Entry>
     <Entry>
       <ID>278</ID>

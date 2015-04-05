@@ -326,7 +326,7 @@ Du siehst, dass sich die Haut über ihre Wangenknochen in ihrem hageren Gesicht 
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Eine Stille stellt sich ein, und obwohl sie kaum einen Herzschlag lang zu dauern scheint, erstreckt sie sich zwischen euch beiden wie ein Sog zwischen ihrem und deinem Verstand. Du blinzelst, atmest tief ein ... und bemerkst, dass sie dich etwas fragen möchte, die Worte dafür aber nicht findet, als ob sie zu zusammenzufügen schmerzhaft wäre ... oder als ob es einfach nicht Stücke genug gäbe.</DefaultText>
+      <DefaultText>Eine Stille stellt sich ein, und obwohl sie kaum einen Herzschlag lang zu dauern scheint, erstreckt sie sich zwischen euch beiden wie ein Sog zwischen ihrem und deinem Verstand. Du blinzelst, atmest tief ein ... und bemerkst, dass sie dich etwas fragen möchte, die Worte dafür aber nicht findet, als ob es zu schmerzhaft wäre sie zusammenzufügen ... oder als ob es einfach nicht genügend gäbe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -367,7 +367,7 @@ Du siehst, dass sich die Haut über ihre Wangenknochen in ihrem hageren Gesicht 
     <Entry>
       <ID>100</ID>
       <DefaultText>"Wächter, dein Verstand ist voller Fragen."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Wächterin, dein Verstand ist voller Fragen."</FemaleText>
     </Entry>
     <Entry>
       <ID>104</ID>
@@ -419,7 +419,9 @@ Du siehst, dass sich die Haut über ihre Wangenknochen in ihrem hageren Gesicht 
       <DefaultText>"Wächter, bitte ... Einst versuchte ich, zu vergessen, und dennoch wird meine Seele von Echos geplagt. Wenn du aber meine Seele von der Erinnerung reinigen würdest, könnte ich endlich frei von ihr sein.
 
 Wirst du mir diesen Wunsch gewähren?"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Wächterin, bitte ... Einst versuchte ich, zu vergessen, und dennoch wird meine Seele von Echos geplagt. Wenn du aber meine Seele von der Erinnerung reinigen würdest, könnte ich endlich frei von ihr sein.
+
+Wirst du mir diesen Wunsch gewähren?"</FemaleText>
     </Entry>
     <Entry>
       <ID>115</ID>
@@ -469,7 +471,7 @@ Wirst du mir diesen Wunsch gewähren?"</DefaultText>
     <Entry>
       <ID>124</ID>
       <DefaultText>Sie nickt langsam. "Das ist eine schwierige Wahrheit ... aber trotzdem wahr. Ich danke dir für deine Hilfe, Wächter ... auch wenn es nur schwer zu ertragen ist."</DefaultText>
-      <FemaleText />
+      <FemaleText>Sie nickt langsam. "Das ist eine schwierige Wahrheit ... aber trotzdem wahr. Ich danke dir für deine Hilfe, Wächterin ... auch wenn es nur schwer zu ertragen ist."</FemaleText>
     </Entry>
     <Entry>
       <ID>125</ID>
@@ -492,7 +494,9 @@ Schließlich aber ist die Seele der Trauernden Mutter so glatt und eben wie eine
       <DefaultText>Sie öffnet die Augen. Ihr Blick gleicht dem eines Neugeborenen - unschuldig und sorgenfrei.
 
 "Sollen wir fortfahren, Wächter? Wir müssen noch viel erreichen."</DefaultText>
-      <FemaleText />
+      <FemaleText>Sie öffnet die Augen. Ihr Blick gleicht dem eines Neugeborenen - unschuldig und sorgenfrei.
+
+"Sollen wir fortfahren, Wächterin? Wir müssen noch viel erreichen."</FemaleText>
     </Entry>
     <Entry>
       <ID>128</ID>

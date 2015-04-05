@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Die Dutzenden beneiden Fürst Doemenels Gerissenheit, und die Ritter seinen Rang."</DefaultText>
+      <DefaultText>"Die Dutzenden beneiden Fürst Doemenels um seine Gerissenheit. Die Ritter beneiden ihn um seinen Status."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,12 +31,12 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Danna spricht von dir in höchsten Tönen, und so redet sie eigentlich von niemandem."</DefaultText>
+      <DefaultText>"Danna spricht von dir in den höchsten Tönen. Und sie spricht von niemandem in den höchsten Tönen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Informanten zufolge haben die Dutzenden Wenfeld ermordet. Bessere Informanten dagegen sagen, dass du es warst."</DefaultText>
+      <DefaultText>"Manchen Quellen zufolge haben die Dutzenden Wenfeld ermordet. Besser informierte Quellen hingegen behaupten, dass du es warst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Du bist in der Doemenel-Villa jederzeit willkommen."</DefaultText>
+      <DefaultText>"Du bist im Haus der Doemenels jederzeit willkommen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Hast du ein Glück, dass ich Besseres zu tun habe."</DefaultText>
+      <DefaultText>"Hast du Glück, dass ich Besseres zu tun habe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,12 +106,12 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Du weißt, wie man seine Absichten verschleiert."</DefaultText>
+      <DefaultText>"Du scheinst gut zu wissen, wie man seine Absichten verschleiert."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Du bist hier willkommen, aber lege dich nicht mit Fürst Gedmar an."</DefaultText>
+      <DefaultText>"Du bist hier willkommen, aber versuche erst gar nicht, dich mit Fürst Gedmar anzulegen."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Für gewöhnlich ist es hier unten recht ruhig. Das gefällt dem Boss so daran."</DefaultText>
+      <DefaultText>"Für gewöhnlich ist es hier unten recht ruhig. Das gefällt dem Chef so daran."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Auch, wenn die Dunrydstraße gleich um die Ecke liegt, stellen die Leute hier nicht zu viele Fragen."</DefaultText>
+      <DefaultText>"Auch wenn die Dunrydstraße gleich um die Ecke liegt, stellen die Leute hier nicht wirklich viele Fragen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Für Farnheimsche Verhältnisse ist es hier recht bescheiden."</DefaultText>
+      <DefaultText>"Für Farnheimische Verhältnisse ist es hier recht bescheiden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Du bist doch nicht hier, um Clyver über uns zu berichten, oder?"</DefaultText>
+      <DefaultText>"Du bist doch nicht hier, um Clyver über uns Meldung zu erstatten, oder?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

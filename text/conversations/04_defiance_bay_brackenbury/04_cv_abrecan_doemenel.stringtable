@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Gewiss. Warum hast du nicht erwähnt, dass du Arbeit zu vergeben hast?"</DefaultText>
+      <DefaultText>"Gewiss. Warum hast du nicht gleich gesagt, dass du Arbeit zu vergeben hast?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Mein Mann hier sagt mir, du warst an dem Scharmützel im Fuchs und Gans beteiligt. Dem Scharmützel, das meine Schwester ihr Leben gekostet hat."</DefaultText>
+      <DefaultText>"Mein Mann hier sagt mir, du warst an dem Scharmützel im Fuchs und Gans beteiligt. Dem Scharmützel, das meiner Schwester das Leben gekostet hat."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -77,11 +77,11 @@
     <Entry>
       <ID>27</ID>
       <DefaultText>"Sag den Wachen, du seist ein entfernter Vetter." Er zwinkert dir zu. "Sie werden es verstehen."</DefaultText>
-      <FemaleText>"Sag den Wachen, du seist eine entfernte Base." Er zwinkert dir zu. "Sie werden es verstehen."</FemaleText>
+      <FemaleText>"Sag den Wachen, du seist eine entfernte Kusine." Er zwinkert dir zu. "Sie werden es verstehen."</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Das dürfte die Ritter und die Dutzenden in ihre Schranken weisen." Er holt einen Beutel mit Münzen hervor. "Nimm das für deine Mühe. Und deine Schuld ist beglichen. Halte dich bereit, falls ich deine Dienste wieder einmal benötige."</DefaultText>
+      <DefaultText>"Das dürfte die Ritter und die Dutzenden in ihre Schranken weisen." Er holt einen Beutel mit Münzen hervor. "Nimm das für deine Mühe. Und siehe deine Schuld als beglichen an. Ich melde mich bei dir, falls ich wieder mal deine Dienste benötige."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Der junge Adlige mustert den Edelstein und hält ihn in das Kerzenlicht. Lichtreflektionen tanzen über sein Gesicht. Seine Miene verdüstert sich und er schleudert den Stein nach dir. Er schlägt gegen die Vitrine hinter dir und zerschellt.</DefaultText>
+      <DefaultText>Der junge Adlige mustert den Edelstein und hält ihn in das Kerzenlicht. Lichtreflektionen tanzen über sein Gesicht. Seine Miene verdüstert sich und er schleudert den Stein nach dir. Er zerspringt am Möbelstück hinter dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,7 +211,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Ja, wenn du glaubst, ich lasse mich so leicht täuschen."</DefaultText>
+      <DefaultText>"Ja, wenn du glaubst, ich ließe mich so leicht täuschen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Abrecan lacht. "Du hast Mumm, das gefällt mir. Ein Jammer, dass ich dich nicht nutzen kann."</DefaultText>
+      <DefaultText>Abrecan lacht. "Du hast Mumm, das gefällt mir. Ein Jammer, dass du mir nicht von Nutzen sein kannst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,12 +276,12 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Mein Mann hier sagt mir, du hast meiner Schwester im Fuchs und Gans geholfen. Danna hat wohl in hohen Tönen von dir geschwärmt."</DefaultText>
+      <DefaultText>"Mein Mann hier sagt mir, du hättest meiner Schwester im Fuchs und Gans geholfen. Danna hat wohl in hohen Tönen von dir geschwärmt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Um ihretwillen gebe ich dir die Gelegenheit, meinen Verlust wettzumachen. Du wirst die Aufgabe abschließen, die du sabotiert hast."</DefaultText>
+      <DefaultText>"Um ihretwillen gebe ich dir die Gelegenheit, meinen Verlust wettzumachen. Du wirst den Auftrag abschließen, den du vereitelt hast."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -296,8 +296,8 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Ich habe kürzlich von einer rechte lukrativen Gelegenheit erfahren. Leider habe ich sie den falschen Leuten anvertraut. Hoffen wir, dass du eher richtig bist."</DefaultText>
-      <FemaleText />
+      <DefaultText>"Ich habe kürzlich von einer recht lukrativen Gelegenheit erfahren. Leider habe ich sie den falschen Leuten anvertraut. Hoffen wir, dass du der richtige Mann dafür bist."</DefaultText>
+      <FemaleText />"Ich habe kürzlich von einer recht lukrativen Gelegenheit erfahren. Leider habe ich sie den falschen Leuten anvertraut. Hoffen wird, dass du die richtige Frau dafür bist."
     </Entry>
     <Entry>
       <ID>100</ID>
@@ -316,7 +316,7 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Warum belästigst du mich dann? Komm nicht eher wieder, als bis du ihn hast."</DefaultText>
+      <DefaultText>"Warum belästigst du mich dann? Komm nicht eher wieder, bis du ihn gefunden hast."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,12 +331,12 @@
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Abrecan streicht sich die Tasche glatt. Er blickt dich über seinen Kelch hinweg an. "Und nun habe ich eine weitere Aufgabe, wie du gewiss weißt, nachdem du den Brief gelesen hast."</DefaultText>
+      <DefaultText>Abrecan streicht sich die Tasche glatt. Er blickt dich über seinen Kelch hinweg an. "Und nun habe ich eine weitere Aufgabe für dich, wie du gewiss weißt, nachdem du den Brief gelesen hast."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Natürlich"</DefaultText>
+      <DefaultText>"Natürlich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -353,12 +353,12 @@
       <ID>114</ID>
       <DefaultText>"Fürst Reymont sitzt auf einem Edelstein so groß wie die Eier eines Aumauas. Man nennt ihn das Herz der Weißmark."
 
-Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbietens zwischen den Schmelztiegelrittern und den Dutzenden. Sie kämpfen um die Ehre, ihn seinen ursprünglichen zwergischen Besitzern zurückgeben zu dürfen ... die äußerst mächtige Verbündete wären."</DefaultText>
+Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbietens zwischen den Schmelztiegelrittern und den Dutzenden. Sie kämpfen um die Ehre, ihn seinen ursprünglichen zwergischen Besitzern zurückgeben zu dürfen ... die äußerst mächtige Verbündete abgeben würden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Dem Haus Doemenel wäre es natürlich lieber, dass weder die Ritter noch die Dutzenden sich mit den Zwergen der Weißmark anfreunden. Ein solches Ungleichgewicht der Macht wäre nicht in unserem besten Interesse." Er trinkt erneut von seinem Wein.
+      <DefaultText>"Dem Haus Doemenel wäre es natürlich lieber, wenn sich weder die Ritter noch die Dutzenden mit den Zwergen der Weißmark anfreunden. Ein solches Ungleichgewicht der Macht wäre nicht in unserem besten Interesse." Er trinkt erneut von seinem Wein.
 
 "Unser Kontakt in Reymonts Haus wird ein Fenster offenstehen lassen. Schleich dich in das obere Stockwerk von Reymonts Villa und finde den Edelstein. Und dann bring ihn mir."</DefaultText>
       <FemaleText />
@@ -534,7 +534,7 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>Abrecan stößt ein kehliges Geräusch der Abscheu aus. "Er ist ein aufgeblasener, verspannter Bastard, der noch immer in den Tagen von Duc Hadret lebt. Und er ist einer der reichsten Männer in Farnheim."</DefaultText>
+      <DefaultText>Abrecan stößt ein kehliges Geräusch der Abscheu aus. "Er ist ein aufgeblasener, frommer Bastard, der noch immer in den Tagen von Duc Hadret lebt. Und er ist einer der reichsten Männer in Farnheim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -599,12 +599,12 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>Er lächelt kalt. "Wohl wahr, doch die eigentliche Frage ist, ob du auch für uns ein nützlicher Verbündeter wärest. Stellen wir dich auf die Probe."</DefaultText>
+      <DefaultText>Er lächelt kalt. "Wohl wahr, doch die eigentliche Frage ist, ob du auch für uns ein nützlicher Verbündeter wärst. Stellen wir dich auf die Probe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>Sein Blick wird hart. "Nur ein äußerst Dummer oder äußerst Mutiger würde in diesem Haus eine solche Drohung aussprechen. Was davon trifft auf dich zu? Ich freue mich, es herauszufinden." Er lächelt.</DefaultText>
+      <DefaultText>Sein Blick wird hart. "Nur jemand, der äußerst dumm oder äußerst mutig ist, würde in diesem Haus eine solche Drohung aussprechen. Was davon trifft auf dich zu? Ich freue mich darauf, es herauszufinden." Er lächelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -649,7 +649,7 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>Abrecan huscht an deine Seite, als du die Treppe hinunterkommst. "Ich habe von deinem neuen Auftrag gehört. Ich habe auch gehört, dass mein Vater möchte, dass du den Dutzenden die Schuld in die Schuhe schiebst. Tu das nicht."
+      <DefaultText>Abrecan nimmt dich an die Seite, als du die Treppe hinunterkommst. "Ich habe von deinem neuen Auftrag gehört. Ich habe auch gehört, dass mein Vater möchte, dass du den Dutzenden die Schuld in die Schuhe schiebst. Tu das nicht."
 
 "Mein Vater ist ein kluger Geschäftsmann, doch er ist zu vorsichtig. Ganz Trutzbucht hat uns einst respektiert. Um die bevorstehenden Veränderungen zu überlegen, muss das Haus Doemenel diesen Respekt zurückgewinnen. Lege das Symbol nicht dort ab."</DefaultText>
       <FemaleText />
@@ -691,7 +691,7 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText />
+      <DefaultText />Bank Node 209</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -721,17 +721,17 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>Kana überdeckt ein Lachen, indem sie hustet. "Wir sind wohl darauf aus, uns überall Freunde zu machen."</DefaultText>
+      <DefaultText>Kana überdeckt ein Lachen, indem er hustet. "Wir sind wohl darauf aus, uns überall Freunde zu machen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText />
+      <DefaultText />Bank Node 209</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>Sagani kratzt sich am Kinn. "Ich habe schon auf vielen Gütern in Privatbesitz gejagt, seit ich in den Norden gekommen bin ... im Grunde ist das hier nichts Anderes."</DefaultText>
+      <DefaultText>Sagani kratzt sich am Kinn. "Ich habe schon auf vielen Gütern in Privatbesitz gejagt, seit ich in den Norden gekommen bin ... im Grunde ist das hier nichts  wirklich anderes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -746,7 +746,7 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"Alten Männern bei ihrem Streit um glänzende Steine helfen?" Hiravias zuckt mit den Achseln. "Immer noch besser, als in engwithanischen Ruinen herumzulungern. Wenn wir dich damit aus noch größerem Schlamassel heraushalten, ist es vielleicht keine schlechte Idee ... "</DefaultText>
+      <DefaultText>"Alten Männern bei ihrem Streit um glänzende Steine helfen?" Hiravias zuckt mit den Achseln. "Immer noch besser, als in engwithanischen Ruinen herumzulungern. Wenn wir dich damit aus einem noch größerem Schlamassel heraushalten, ist es vielleicht keine schlechte Idee ... "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -756,7 +756,7 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>"Ich bin schon vielen glanfathanischen Spähern ausgewichen - meistens, äh, indem ich davongelaufen bin ... aber eine schwer bewachte Villa zu durchsuchen ist etwas Anderes, als ein leeres Grab zu durchkämmen."</DefaultText>
+      <DefaultText>"Ich bin schon vielen glanfathanischen Spähern ausgewichen - meistens, äh, indem ich davongelaufen bin ... aber eine schwer bewachte Villa zu durchsuchen ist etwas anderes, als ein leeres Grab zu durchkämmen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -766,12 +766,12 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText />
+      <DefaultText />Bank Node 225</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>"Wahrlich ein Verbrechen. Einen guten Rotwein darf man nicht so vergeuden."</DefaultText>
+      <DefaultText>"Wahrlich ein Verbrechen. Einen guten Roten darf man nicht so vergeuden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -781,7 +781,7 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>"Angeblich hat der Mob diesen Schandfleck von Sanatorium eingerissen. Nicht, dass ich ausgegangen wäre, um mir das anzusehen. Hier drinnen ist die Aussicht doch um einiges angenehmer."</DefaultText>
+      <DefaultText>"Angeblich hat der Mob diesen Schandfleck von Sanatorium eingerissen. Nicht dass ich das Haus verlassen hätte, um mir das anzusehen. Hier drinnen ist die Aussicht doch um einiges angenehmer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -845,9 +845,9 @@ Er reibt die Finger zusammen. "Und es schadet nicht, dass sich durch Zwietracht 
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>Er lacht. "Gar nicht. Die Dutzenden sagen, sie seien dagegen - aber das hält sie nicht davon ab, die Ruinen zu plündern und Runen und Gerätschaften an das Sanatorium zu verkaufen. Die Ritter sagen, sie seien für den Fortschritt - aber von wessen Fortschritt sprechen sie? Sie haben es auf Geldsäckel und Stellungen hier in Farnheim abgesehen. Und angeblich arbeiten sie heimlich selbst an Beseelungsforschungen.
+      <DefaultText>Er lacht. "Gar nicht. Die Dutzenden sagen, sie seien dagegen - aber das hält sie nicht davon ab, die Ruinen zu plündern und Runen und Gerätschaften an das Sanatorium zu verkaufen. Die Ritter sagen, sie seien für den Fortschritt - aber von wessen Fortschritt sprechen sie? Sie haben es auf Geldsäckel und Stellungen hier in Farnheim abgesehen. Und angeblich arbeiten sie heimlich selbst an ein paar Beseelungsprojekten."
 
-Du verstehst sicher, warum wir uns heraushalten."</DefaultText>
+"Du verstehst sicher, warum wir uns heraushalten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

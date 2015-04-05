@@ -9729,7 +9729,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1954</ID>
-      <DefaultText />
+      <DefaultText>Dyrwald</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9749,17 +9749,17 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1962</ID>
-      <DefaultText />
+      <DefaultText>Hinweise</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1963</ID>
-      <DefaultText />
+      <DefaultText>Begleiter bei Beitritt automatisch aufsteigen lassen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1964</ID>
-      <DefaultText />
+      <DefaultText>Lässt Begleiter bei Beitritt zur Gruppe automatisch aufsteigen. Deaktivieren um Begleiter manuell von Stufe 1 aufsteigen zu lassen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

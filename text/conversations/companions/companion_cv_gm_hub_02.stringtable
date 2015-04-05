@@ -17,7 +17,7 @@
     <Entry>
       <ID>3</ID>
       <DefaultText>"Als wir uns trafen, sprachst du mich als Wächter an. Weißt du, was ein Wächter ist?"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Als wir uns trafen, sprachst du mich als Wächterin an. Weißt du, was ein Wächter ist?"</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -124,7 +124,7 @@ Seltsamerweise fühlt es sich nicht so an, als ob sie mit dir sprechen würde ..
       <ID>28</ID>
       <DefaultText>"Die Welt hat viele Ecken, und in manchen Ecken ist der Name Wächter ... mehr bekannt. Es ist ein einfacherer Titel als andere, und manchmal auch einfacher zu bekleiden.
 
-Etwas Unbekanntes mit einem Titel zu belegen, kann die Angst davor vertreiben ... und ich kämpfte dagegen an. Ich glaubte sogar daran, dass es wahr ist, obwohl ich nur wenig über die Wege der Wärter wusste. 
+Etwas Unbekanntes mit einem Titel zu belegen, kann die Angst davor vertreiben ... und ich kämpfte dagegen an. Ich glaubte sogar daran, dass es wahr ist, obwohl ich nur wenig über die Wege der Wächter wusste. 
 
 Es gab mir sogar ... Stärke."</DefaultText>
       <FemaleText />
@@ -132,7 +132,7 @@ Es gab mir sogar ... Stärke."</DefaultText>
     <Entry>
       <ID>29</ID>
       <DefaultText>"Ich konnte die Gedanken anderer sehen, sie formen, und beim Führen von Seelen helfen ... 'Wächter' schien mir genug zu sein, und der Name schien angesichts der eigenen Taten nur wenig auszumachen."</DefaultText>
-      <FemaleText />
+      <DefaultText>"Ich konnte die Gedanken anderer sehen, sie formen, und beim Führen von Seelen helfen ... 'Wächterin' schien mir genug zu sein, und der Name schien angesichts der eigenen Taten nur wenig auszumachen."</DefaultText>
     </Entry>
     <Entry>
       <ID>30</ID>
@@ -329,7 +329,7 @@ Plötzlich ertönt überall in deinem Bewusstsein ein krächzender Schrei ... un
     <Entry>
       <ID>173</ID>
       <DefaultText>"Und darum, die Bürde Hunderter Tode zu tragen. Ich weiß, Wächter."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Und darum, die Bürde Hunderter Tode zu tragen. Ich weiß, Wächterin."</FemaleText>
     </Entry>
     <Entry>
       <ID>174</ID>
@@ -353,7 +353,7 @@ Plötzlich ertönt überall in deinem Bewusstsein ein krächzender Schrei ... un
     <Entry>
       <ID>177</ID>
       <DefaultText>"Deine Deutungen sind Lügen, und ich bin ein wahrer Wächter - kein Heuchler!"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Deine Deutungen sind Lügen, und ich bin eine wahre Wächterin - keine Heuchlerin!"</FemaleText>
     </Entry>
     <Entry>
       <ID>178</ID>
@@ -387,8 +387,8 @@ Plötzlich ertönt überall in deinem Bewusstsein ein krächzender Schrei ... un
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Und was genau würdest du denn als 'wirklich' ansehen, Wächter? Die Wahrheit, wie man sie erfuhr und sich an sie erinnerte? Oder willst du die wissen, die ausbrannte, nur um wie Asche von einer Feuerstelle unter den Teppich gekehrt und vergessen zu werden?"</DefaultText>
-      <FemaleText />
+      <DefaultText>"Und was genau würdest du denn als 'wirklich' ansehen, Wächter? Die Wahrheit, wie man sie erfuhr und sich an sie erinnerte? Oder diejenige, die ausbrannte, nur um wie Asche einer Feuerstelle unter den Teppich gekehrt und vergessen zu werden?"</DefaultText>
+      <FemaleText>"Und was genau würdest du denn als 'wirklich' ansehen, Wächterin? Die Wahrheit, wie man sie erfuhr und sich an sie erinnerte? Oder diejenige, die ausbrannte, nur um wie Asche einer Feuerstelle unter den Teppich gekehrt und vergessen zu werden?"</FemaleText>
     </Entry>
     <Entry>
       <ID>185</ID>
@@ -468,7 +468,7 @@ Manche dagegen holten sich Rat ... empfehlende Worte für die bevorstehenden Tag
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"Ich habe den Namen 'Wächter' in deinen Gedanken gehört, als du dich an die Geburtsglocke erinnerst ... warum?"</DefaultText>
+      <DefaultText>"Ich habe den Namen 'Wächter' in deinen Gedanken gehört, als du dich an die Geburtsglocke erinnertest ... warum?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -45,7 +45,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Und ich dich. Durch Fragen geben wir uns einander zu erkennen."</DefaultText>
+      <DefaultText>"Und ich über dich. Durch Fragen geben wir uns einander zu erkennen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -162,7 +162,9 @@ Als die Worte Form annehmen, scheinen sie aus ihr herauszuströmen ... und die W
       <DefaultText>"Deine Augen werden die Sache verfolgen, den Pfad finden, und ich werde neben dir sein. Es gibt keine Wunde, die nicht geheilt werden könnte, und wenn du wirklich ein Wächter bist ... dann sollte diese Wunde als das erkannt werden, was sie ist."
 
 "Du sahst mich in meinem Versteck. Und die Hände, die die Welt beruhigten ... auch sie wirst du sehen."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Deine Augen werden die Sache verfolgen, den Pfad finden, und ich werde neben dir sein. Es gibt keine Wunde, die nicht geheilt werden könnte, und wenn du wirklich eine Wächterin bist ... dann sollte diese Wunde als das erkannt werden, was sie ist."
+
+"Du sahst mich in meinem Versteck. Und die Hände, die die Welt beruhigten ... auch sie wirst du sehen."</FemaleText>
     </Entry>
     <Entry>
       <ID>59</ID>
@@ -183,9 +185,9 @@ Als die Worte Form annehmen, scheinen sie aus ihr herauszuströmen ... und die W
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Stütze dich auf mich." Du spürst ein Gewicht in ihren Worten, als ob ihre Hände auf deinen Schultern lägen. Du spürst, wie die Fragen in deinem Verstand ihre Schärfe verlieren ... und zu bloßen Worten werden. "So wie ich mich auf die stützen werde." 
+      <DefaultText>"Stütze dich auf mich." Du spürst ein Gewicht in ihren Worten, als ob ihre Hände auf deinen Schultern lägen. Du spürst, wie die Fragen in deinem Verstand ihre Schärfe verlieren ... und zu bloßen Worten werden. "So wie ich mich auf dich stützen werde." 
 
-"Du wirst meine Augen sein - ich wenn die Zeit kommt, werde ich deine Hände sein."</DefaultText>
+"Du wirst meine Augen sein - so wie ich deine Hände sein werde, wenn die Zeit gekommen ist."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -239,7 +241,7 @@ Als die Worte Form annehmen, scheinen sie aus ihr herauszuströmen ... und die W
     <Entry>
       <ID>73</ID>
       <DefaultText>"Dann ... müssen wir uns wohl so gut wie möglich umeinander kümmern, und durchhalten. In deiner Frage steckt Weisheit, Wächter - in der Bemühung, das Unumkehrbare zu heilen, weiteren Schaden anzurichten, wäre in der Tat eine schreckliche Tragödie."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Dann ... müssen wir uns wohl so gut wie möglich umeinander kümmern, und durchhalten. In deiner Frage steckt Weisheit, Wächterin - in der Bemühung, das Unumkehrbare zu heilen, weiteren Schaden anzurichten, wäre in der Tat eine schreckliche Tragödie."</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

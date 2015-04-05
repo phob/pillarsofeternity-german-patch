@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Dann mach schnell. Und fass nichts an. Das Sanatorium ist vielleicht lax, was Besucher angeht, aber ich bin es nicht."</DefaultText>
+      <DefaultText>"Dann mach schnell. Und fass nichts an. Das Sanatorium ist vielleicht nachlässig, was Besucher angeht, aber ich bin es nicht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Da habe ich etwas Anderes gehört."</DefaultText>
+      <DefaultText>"Da habe ich etwas anderes gehört."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -487,7 +487,7 @@ Er schüttelt seinen Kopf. "Die Beseelung hat eine Antwort. Ich weiß es. Ich mu
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>Er stockt. "Aber jetzt, wo du es sagst ... die Patienten scheinen in letzter Zeit unruhiger. Aber sie sind Caedman Azos Zuständigkeit, nicht die meine."</DefaultText>
+      <DefaultText>Er stockt. "Aber jetzt, wo du es sagst ... die Patienten scheinen in letzter Zeit unruhiger. Aber sie fallen Caedman Azos Zuständigkeit, nicht in die meine."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -533,8 +533,8 @@ Sie schließt die Augen und scheint einen Augenblick vor dir zurückzuweichen. "
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Die Trauernde Mutter streckt die Hand aus, als wolle sie sie Moedred auf die Wange legen. "Dieser Schmerz, Wächter ... und diese Entschlossenheit ..."</DefaultText>
-      <FemaleText>Die Trauernde Mutter streckt die Hand aus, als wolle sie sie Moedred auf die Wange legen. "Dieser Schmerz, Wächterin ... und diese Entschlossenheit ..."</FemaleText>
+      <DefaultText>Die Trauernde Mutter streckt die Hand aus, als wolle sie sie Moedred auf die Wange legen. "So viel Schmerz, Wächter ... und so viel Entschlossenheit ..."</DefaultText>
+      <FemaleText>Die Trauernde Mutter streckt die Hand aus, als wolle sie sie Moedred auf die Wange legen. "So viel Schmerz, Wächterin ... und so viel Entschlossenheit ..."</FemaleText>
     </Entry>
     <Entry>
       <ID>135</ID>

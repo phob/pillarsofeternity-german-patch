@@ -8,14 +8,14 @@
       <ID>1</ID>
       <DefaultText>Eine Frau schreitet auf und ab, ihre Schritte streichen über den weichen roten Teppich. Sie gestikuliert und murmelt vor sich hin, während sie kopfschüttelnd einen Stapel Notizen studiert. 
 
-Sie läuft fast gegen dich. "Eccosi! Nun suche ich so angestrengt in meiner Forschung nach Antworten, dass ich den Gestandenen vor mir nicht sehe. Was kann ich tun?"</DefaultText>
+Sie läuft fast in dich hinein. "Eccosi! Nun suche ich so angestrengt in meiner Forschung nach Antworten, dass ich den Gestandenen vor mir nicht sehe. Was kann ich tun?"</DefaultText>
       <FemaleText>Eine Frau schreitet auf und ab, ihre Schritte streichen über den weichen roten Teppich. Sie gestikuliert und murmelt vor sich hin, während sie kopfschüttelnd einen Stapel Notizen studiert. 
 
-Sie läuft fast gegen dich. "Eccosi! Nun suche ich so angestrengt in meiner Forschung nach Antworten, dass ich die Gestandene vor mir nicht sehe. Was kann ich tun?"</FemaleText>
+Sie läuft fast in dich hinein. "Eccosi! Nun suche ich so angestrengt in meiner Forschung nach Antworten, dass ich die Gestandene vor mir nicht sehe. Was kann ich tun?"</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Meinem Forschungsstipendium zufolge studiere ich Erweckungen. Die Sublimation von vorerweckten Seelen ist einer der großen Erfolge der Beseelung, und ich arbeite an einer Methode, das Verfahren auch auf erweckte Seelen zu übertragen." Sie beißt sich auf die Lippe.</DefaultText>
+      <DefaultText>"Meinem Forschungsstipendium zufolge studiere ich Erweckungen. Die Sublimation von vorerweckten Seelen ist einer der großen Erfolge der Beseelung und ich arbeite an einer Methode, das Verfahren auch auf erweckte Seelen zu übertragen." Sie beißt sich auf die Lippe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,7 +67,7 @@ Sie läuft fast gegen dich. "Eccosi! Nun suche ich so angestrengt in meiner Fors
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ich scherze! Ihr Aedyraner seid so verspannt. Ich weiß nicht einmal, wofür das Ding verwendet wird. Es gehört wohl dem letzten Bewohner dieses Büros. Sie haben ihn hochgestuft, er hat jetzt seine eigene Zelle."
+      <DefaultText>"Ich scherze! Ihr Aedyraner seid so verspannt. Ich weiß nicht einmal, wofür das Ding verwendet wird. Es gehört wohl dem letzten Nutzer dieses Büros. Sie haben ihn hochgestuft, er hat jetzt seine eigene Zelle."
 
 "Und wieder. Ich scherze."</DefaultText>
       <FemaleText />
@@ -124,7 +124,7 @@ Sie läuft fast gegen dich. "Eccosi! Nun suche ich so angestrengt in meiner Fors
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Er schließt die Augen. "Mutter ist fast immer fort. Bei der Thayn-Familie. Aber ich weiß immer, wann sie nach Hause kommt. Vaters Flaschen sammeln sich wie Gewitterwolken am Horizont. Seine Wutausbrüche werden häufiger und gewalttätiger. Es beschämt ihn immer noch, dass ihr Haemneg für einen anderen Mann uns besser ernährt als seine Arbeit als Aufwärter."</DefaultText>
+      <DefaultText>Er schließt die Augen. "Mutter ist fast immer fort. Bei der Thayn-Familie. Aber ich weiß immer, wann sie nach Hause kommt. Vaters Flaschen sammeln sich wie Gewitterwolken am Horizont. Seine Wutausbrüche werden häufiger und gewalttätiger. Es beschämt ihn immer noch, dass ihr Haemneg für einen anderen Mann uns besser ernährt als seine Arbeit als Kellner."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,7 +201,7 @@ Sie lächelt dich breit an, wenn auch etwas bemüht. "Aber danke für das Angebo
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Tja, das ist das Wesen des Dyrwalds. Die Leute hier sind mächtig stolz auf ihre Souveränität, dabei sind sie längst nicht so unabhängig von ihren aedyranischen Brüdern und ihren glanfathanischen Nachbarn, wie sie sich einreden. Sie verlassen sich zu sehr auf die unergründlichen Wege der Götter und fürchten genau jenen Fortschritt, den sie so nötig hätten."</DefaultText>
+      <DefaultText>"Tja, das ist das Wesen des Dyrwalds. Die Leute hier sind mächtig stolz auf ihre Souveränität. Dabei sind sie längst nicht so unabhängig von ihren aedyranischen Brüdern und ihren glanfathanischen Nachbarn, wie sie sich einreden. Sie verlassen sich zu sehr auf die unergründlichen Wege der Götter und fürchten genau jenen Fortschritt, den sie so nötig hätten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -228,7 +228,7 @@ Sie lächelt dich breit an, wenn auch etwas bemüht. "Aber danke für das Angebo
       <ID>45</ID>
       <DefaultText>"Ich ziehe mich so schnell wie möglich zurück, noch immer am Boden kauernd. Ich ziehe mich zurück, bis mein Blick auf die Küche und meine eigenen zitternden Knie nichts mehr ist als ein Nadelkopf vor einem Feld aus tiefem Schwarz."
 
-Sein Kiefer verkrampft und seine Augen zucken unter seinen Lidern.</DefaultText>
+Sein Kiefer verkrampft sich und seine Augen zucken unter seinen Lidern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -260,7 +260,7 @@ Sein Kiefer verkrampft und seine Augen zucken unter seinen Lidern.</DefaultText>
       <ID>51</ID>
       <DefaultText>Deine flache Handfläche ist wenige Zentimeter von seiner Wange entfernt, als seine Hand nach oben fährt und dein Handgelenk packt. Aloth reißt die Augen auf, aber der Ausdruck in ihnen ist nicht der seine.
 
-"Versuch das nochmal und ich reiß sie dir ab, eh ich sie dir wiedergeb."</DefaultText>
+"Versuch das nochmal und ich reiß sie ab, eh ich sie dir zurückgeb."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -296,7 +296,7 @@ Sein Kiefer verkrampft und seine Augen zucken unter seinen Lidern.</DefaultText>
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Knackende Knochen und zornige Stimmen. Das klebrige, warme Gefühl, das einem im Magen runterläuft, wenn ein Konflikt droht."</DefaultText>
+      <DefaultText>"Knackende Knochen und zornige Stimmen. Das warme, sirupartige Gefühl, das sich im Magen zusammenbraut, wenn ein Konflikt droht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -363,12 +363,12 @@ Sie bedeutet dir mit einer Geste, weiterzumachen, die Feder noch immer in der Ha
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Nicht mehr, als ich gebe. Frag doch mal, was ich mit seinem alten Herren gemacht habe. Wie ich ihn in drei Stücke gebrochen hab, als er uns das letzte Mal angefasst hab."</DefaultText>
+      <DefaultText>"Nicht mehr, als ich geb. Frag doch mal, was ich mit seinem ollen Herrn gemacht habe. Wie ich ihn in drei Stücke zerhauen hab, als er uns das letzte Mal angefasst hat."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Ja, und ein Paar geliehen habe ich ihm auch. Frag doch mal, was ich mit seinem alten Herren gemacht habe. Wie ich ihn in drei Stücke gebrochen hab, als er uns das letzte Mal angefasst hab."</DefaultText>
+      <DefaultText>"Ja, und ein Paar geliehen habe ich ihm auch. Frag doch mal, was ich mit seinem ollen Herrn gemacht habe. Wie ich ihn in drei Stücke zerhauen hab, als er uns das letzte Mal angefasst hab."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -408,7 +408,7 @@ Sie bedeutet dir mit einer Geste, weiterzumachen, die Feder noch immer in der Ha
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Aloth hat Recht Das ist absurd. Iselmyr taucht ganz offensichtlich auf, wenn er sich bedroht fühlt."</DefaultText>
+      <DefaultText>"Aloth hat Recht. Das ist absurd. Iselmyr taucht ganz offensichtlich auf, wenn er sich bedroht fühlt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -433,7 +433,7 @@ Sie bedeutet dir mit einer Geste, weiterzumachen, die Feder noch immer in der Ha
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Sie hat dir doch einen Gefallen getan, indem sie sich um deinen Vater gekümmert hat, oder? Ich glaube, sie versucht dir zu helfen, dich selbst zur Wehr zu setzen. Vielleicht gefallen dir ihre Methoden nicht, aber du solltest sie anhören."</DefaultText>
+      <DefaultText>"Sie hat dir doch einen Gefallen getan, indem sie sich um deinen Vater gekümmert hat, oder? Ich glaube, sie versucht dir zu helfen, dich selbst zur Wehr zu setzen. Vielleicht gefallen dir ihre Methoden nicht, aber du solltest dir anhören, was sie zu sagen hat."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -450,7 +450,7 @@ Sie bedeutet dir mit einer Geste, weiterzumachen, die Feder noch immer in der Ha
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Wenn du ihr nur halb so viel zu hören müsstest wie ich, würdest du das nicht sagen." Er blickt grimmig drein, doch du bemerkst auch etwas Nachdenkliches in seinem Ausdruck.
+      <DefaultText>"Wenn du ihr nur halb so viel zuhören müsstest wie ich, würdest du das nicht sagen." Er blickt grimmig drein, doch du bemerkst auch etwas Nachdenkliches in seinem Ausdruck.
 
 "Ich muss über einiges nachdenken. Aber ich danke für die Hilfe, [Player Name]." Bellasege blickt er nicht an.</DefaultText>
       <FemaleText />
@@ -464,7 +464,7 @@ Sie bedeutet dir mit einer Geste, weiterzumachen, die Feder noch immer in der Ha
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Als du dich umdrehst, um zu gehen, bemerkst du aus dem Augenwinkel eine rasche Bewegung. Bellasege summt vor sich hin, noch immer mit ihrem Sichtrohr beschäftigt, aber Aloth hält ihre Notizen in der Hand. Er will sie sich gerade in den Umhang stecken, als er bemerkt, dass du ihn beobachtest.
+      <DefaultText>Als du dich umdrehst, um zu gehen, bemerkst du aus dem Augenwinkel eine rasche Bewegung. Bellasege summt vor sich hin, noch immer mit ihrem Sichtrohr beschäftigt, aber Aloth hält ihre Notizen in der Hand. Er will sie sich gerade unter den Umhang stecken, als er bemerkt, dass du ihn beobachtest.
 
 Er hält einen Finger an seine Lippen, seine Augen weit und flehend. "Bitte. Ich will nicht, dass meine Lebensgeschichte so veröffentlicht wird. Vor allem nicht nach ihrem ganzen Unsinn."</DefaultText>
       <FemaleText />
@@ -476,7 +476,7 @@ Er hält einen Finger an seine Lippen, seine Augen weit und flehend. "Bitte. Ich
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>Seine Grimasse schmilzt zu einem schiefen Grinsen. "Oh ja, die rechtschaffenen Grundsätze der Beseelung voranzutreiben. Das war schon immer mein großer Wunsch."</DefaultText>
+      <DefaultText>Seine Grimasse schmilzt zu einem schiefen Grinsen. "Oh ja, die rechtschaffenen Grundsätze der Beseelung voranzutreiben. Das war schon immer mein größter Wunsch."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -506,7 +506,7 @@ Er hält einen Finger an seine Lippen, seine Augen weit und flehend. "Bitte. Ich
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>Er versteckt die Papiere in seinem Umhang. "Keine Sorge. Wir kümmern uns schon selbst darum."</DefaultText>
+      <DefaultText>Er versteckt die Papiere unter seinem Umhang. "Keine Sorge. Wir kümmern uns schon selbst darum."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -565,7 +565,7 @@ Sie seufzt. "Ich fürchte, ich werde mit leeren Händen nach Revua zurückkehren
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText />
+      <DefaultText>Bank Node 110</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -580,7 +580,7 @@ Sie seufzt. "Ich fürchte, ich werde mit leeren Händen nach Revua zurückkehren
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText />
+      <DefaultText>Bank Node 115</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -605,7 +605,7 @@ Sie seufzt. "Ich fürchte, ich werde mit leeren Händen nach Revua zurückkehren
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText />
+      <DefaultText>Bank Node 120</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -620,7 +620,7 @@ Sie seufzt. "Ich fürchte, ich werde mit leeren Händen nach Revua zurückkehren
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText />
+      <DefaultText>Bank Node 123</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -640,7 +640,7 @@ Sie seufzt. "Ich fürchte, ich werde mit leeren Händen nach Revua zurückkehren
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText />
+      <DefaultText>Bank Node 127</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -690,7 +690,7 @@ Sie seufzt. "Ich fürchte, ich werde mit leeren Händen nach Revua zurückkehren
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText />
+      <DefaultText>Bank Node 137</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

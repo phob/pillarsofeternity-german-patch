@@ -426,12 +426,12 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText />
+      <DefaultText>NPCs mit einem goldenen Namen wurden von unseren Backer gestaltet. Wenn man mit ihnen interagiert erzählt jeder seine eigene einzigartige Geschichte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText />
+      <DefaultText>Das Grabstein Symbol zeigt ein Denkmal an. Dies sind personalisierte Nachrichten von unseren Backer. Viele von ihnen durchbrechen die vierte Wand, wenn du dies nicht möchtest vermeide den Klick auf das entsprechende Symbol.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -441,7 +441,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText />
+      <DefaultText>Du kannst jeder Fähigkeit einen Hotkey zuweisen wenn du mit dem Maus Cursor darüber fährst und eine gewünschte Taste drückst.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

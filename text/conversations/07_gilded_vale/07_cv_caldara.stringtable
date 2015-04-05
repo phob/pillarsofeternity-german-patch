@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Der gedrungene, aufgeblähte Körper einer alten Zwergin baumelt von einem krummen Ast, der sich durch den Zug ihres Galgenstricks durchbiegt. Das aufgedunsene Fleisch ihres Halses, das stellenweise wie mottenzerfressenes Leinen aussieht, stülpt sich über das Seil, an dem sie hängt, und ihr lebloser, nach vorne gebeugter Kopf rollt beim Wechsel der Brise steif von einer Seite zur anderen. </DefaultText>
+      <DefaultText>Der gedrungene, aufgeblähte Körper einer alten Zwergin baumelt von einem krummen Ast, der sich durch den Zug ihres Galgenstricks durchbiegt. Das aufgedunsene Fleisch ihres Halses, das stellenweise wie mottenzerfressenes Leinen aussieht, stülpt sich über das Seil, an dem sie hängt, und ihr lebloser, nach vorne gebeugter Kopf rollt beim Wechsel der Brise steif von einer Seite zur anderen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -64,9 +64,9 @@ Sie kneift ihre Augen zu, als sie zu dir hinabspäht. "Ah. Ich glaube beides. Ja
       <ID>11</ID>
       <DefaultText>Sie überlegt einen Moment lang und schaut an ihrem eigenen, schlaffen Körper hinab. "Nein, glaube ich nicht." 
 
-Ihre Zunge schnalzt und sie schüttelt ihren Kopf. "Ach, wie schade. Wäre doch einfacher gewesen, gar eine Gnade, sich keine Fragen mehr stellen zu müssen.
+Ihre Zunge schnalzt und sie schüttelt ihren Kopf. "Ach, wie schade. Wäre doch einfacher gewesen, gar eine Gnade, sich keine Fragen mehr stellen zu müssen."
 
-Doch leider sind wir hier, du und ich. Wobei sich die Frage stellt, wo 'hier' sein könnte."</DefaultText>
+"Doch leider sind wir hier, du und ich. Wobei sich die Frage stellt, wo 'hier' sein könnte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -95,23 +95,23 @@ Sie lächelt dich mütterlich an. "Ich glaube, es ist eine äußerst gute Wahl."
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Ja, in der Tat: was ist das? Mit dem Studium solcher Dinge haben viele Beseeler lange Stunden verbracht. Ich aber nicht. Ich nicht.
+      <DefaultText>"Ja, in der Tat: was ist das? Mit dem Studium solcher Dinge haben viele Beseeler lange Stunden verbracht. Ich aber nicht. Ich nicht."
 
-Ich werde dir aber alles sagen, was ich weiß - das ist nur gerecht. Und hier sind wir beide also auf Besuch, und es erinnert mich an bessere Zeiten."</DefaultText>
+"Ich werde dir aber alles sagen, was ich weiß - das ist nur gerecht. Und hier sind wir beide also auf Besuch, und es erinnert mich an bessere Zeiten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Seelen werden weitergegeben. Manche sagen, dass das durch Adra-Steine geschieht, den Adern der Welt. Die Seelen verlassen die Welt für eine Weile und werden dann in sie wiedergeboren. Manchmal mehr als zuvor, normalerweise aber weniger, und selten dieselben.
+      <DefaultText>"Seelen werden weitergegeben. Manche sagen, dass das durch Adra-Steine geschieht, den Adern der Welt. Die Seelen verlassen die Welt für eine Weile und werden dann in sie wiedergeboren. Manchmal mehr als zuvor, normalerweise aber weniger, und selten dieselben."
 
-Bei allen Seelen gibt es eine Zeit, in der sie nicht mehr leben, aber auch noch nicht weitergegeben wurden, und diese Seelen streifen wie du und ich über die Welt, entweder im Aufbruch ... oder aber verloren. Niemand aber kann sie sehen, weil sie vergessen haben, wie das geht."</DefaultText>
+"Bei allen Seelen gibt es eine Zeit, in der sie nicht mehr leben, aber auch noch nicht weitergegeben wurden, und diese Seelen streifen wie du und ich über die Welt, entweder im Aufbruch ... oder aber verloren. Niemand aber kann sie sehen, weil sie vergessen haben, wie das geht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ein Wächter aber kann sie sehen, er weiß, nach was er suchen muss. 
+      <DefaultText>"Ein Wächter aber kann sie sehen, er weiß, nach was er suchen muss." 
 
-Und manchmal kennen sie eine Person nur durch bloßes Ansehen. Sie wissen, wo sie in vergangenen Zeiten waren, als ihre Körper andere Körper waren. Sie sehen Erinnerungen, an die sich selbst deren Besitzer nicht erinnern können. Ein wahres Wunder, wenn alles gutgeht. Ein Wunder."</DefaultText>
+"Und manchmal kennen sie eine Person nur durch bloßes Ansehen. Sie wissen, wo sie in vergangenen Zeiten waren, als ihre Körper andere Körper waren. Sie sehen Erinnerungen, an die sich selbst deren Besitzer nicht erinnern können. Ein wahres Wunder, wenn alles gutgeht. Ein Wunder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,7 +143,7 @@ Sie lächelt dich beruhigend an und fächert ein Büschel langer Haare aus, die 
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Caldara schätzt dich einen Augenblick lang mit gelehrtem Interesse ab, bevor sie mit ihrem fröhlichen Verhalten fortfährt. "Wirklich, Schätzchen? Na, das wäre aber was, nicht war?"
+      <DefaultText>Caldara schätzt dich einen Augenblick lang mit gelehrtem Interesse ab, bevor sie mit ihrem fröhlichen Verhalten fortfährt. "Wirklich, Schätzchen? Na, das wäre aber was, nicht wahr?"
 
 "Könnte Glück sein. Könnte wirklich so sein. So ein Sturm kann ein nachlässiges Ding sein."</DefaultText>
       <FemaleText />
@@ -197,12 +197,12 @@ Sie denkt über etwas nach und lächelt traurig. "Nannten, meine ich. Nannten. D
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Was ist mit Ihnen passiert?"</DefaultText>
+      <DefaultText>"Was ist mit dir passiert?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Ich hatte andere Fragen."</DefaultText>
+      <DefaultText>"Ich habe noch andere Fragen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,9 +231,9 @@ Als sie deine ausdruckslose Miene bemerkt, fängt sie sich wieder.</DefaultText>
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Nun, ich ging dorthin, wo ich gebraucht wurde, nicht wahr? Meine Dienste bot ich Fürst Raedric für einen Hungerlohn an. Einen bescheidenen Hungerlohn.
+      <DefaultText>"Nun, ich ging dorthin, wo ich gebraucht wurde, nicht wahr? Meine Dienste bot ich Fürst Raedric für einen Hungerlohn an. Einen bescheidenen Hungerlohn."
 
-Meine Aufgabe war die Untersuchung der Fürstin. Ich sollte herausfinden, warum es die Götter für passend befunden hatten, ihren Leib zu vergiften. Oh, monatelang studierte ich sie. Ich suchte mich dumm und dämlich nach Unreinheiten, ich prüfte ihre Valenz und die Durchlässigkeit ihrer Essenz. Und weißt du, was ich fand?"</DefaultText>
+"Meine Aufgabe war die Untersuchung der Fürstin. Ich sollte herausfinden, warum es die Götter für passend befunden hatten, ihren Leib zu vergiften. Oh, monatelang studierte ich sie. Ich suchte mich dumm und dämlich nach Unreinheiten, ich prüfte ihre Valenz und die Durchlässigkeit ihrer Essenz. Und weißt du, was ich fand?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -243,16 +243,16 @@ Meine Aufgabe war die Untersuchung der Fürstin. Ich sollte herausfinden, warum 
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Sie schüttelt den Kopf. "Nichts fand ich, gar nichts. Eine von Kopf bis Fuß gesunde Frau, die mit einer schönen Seele gesegnet war. Noch dazu war sie so eine reizende Frau. Demütig, aber warmherzig.
+      <DefaultText>Sie schüttelt den Kopf. "Nichts fand ich, gar nichts. Eine von Kopf bis Fuß gesunde Frau, die mit einer schönen Seele gesegnet war. Noch dazu war sie so eine reizende Frau. Demütig, aber warmherzig."
 
-Nach ein paar Monaten aber verlangte der Fürst des Hauses Antworten. Anfangs erzählte ich ihm noch, was er hören wollte. 'Oh ja, mein Fürst, sie ist voller Missverhältnisse. Ich brauche Zeit, um sie zu heilen.' Als die Geburt nahte, wurde er immer ungeduldiger, wie es bei den Fürsten so ist. Und schließlich bin ich hier gelandet."</DefaultText>
+"Nach ein paar Monaten aber verlangte der Fürst des Hauses Antworten. Anfangs erzählte ich ihm noch, was er hören wollte. 'Oh ja, mein Fürst, sie ist voller Missverhältnisse. Ich brauche Zeit, um sie zu heilen.' Als die Geburt nahte, wurde er immer ungeduldiger, wie es bei den Fürsten so ist. Und schließlich bin ich hier gelandet."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Ein Student der Seele. Etwas so grundlegendes, das trotzdem so wenig verstanden wird, Aber während meines Lebens sind so viele Durchbrüche erzielt worden. 
+      <DefaultText>"Ein Student der Seele. Etwas so grundlegendes, das trotzdem so wenig verstanden wird, Aber während meines Lebens sind so viele Durchbrüche erzielt worden." 
 
-Sie kichert. "Wurden, meine ich. Wurden.
+Sie kichert. "Wurden, meine ich. Wurden."
 
 "Wenn man die Einheimischen fragt, sind wir nur eine Bande von Seelenjägern, die es auf die geistig Schwachen abgesehen haben. Und auf die Schlimmsten von uns trifft das auch zu."</DefaultText>
       <FemaleText />

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1374</EntryCount>
+  <EntryCount>1377</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -171,7 +171,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Sicherer Schütze</DefaultText>
+      <DefaultText>Sicheres Zielen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4421,7 +4421,7 @@
     </Entry>
     <Entry>
       <ID>901</ID>
-      <DefaultText>Erzeugt jedes Mal eine Schockwelle um den Mönch herum, wenn er eine Wunde erleidet, die allein Feinden im Wirkungsbereich eine kleine Menge Schaden zufügt und möglicherweise eine Unterbrechung hervorruft.</DefaultText>
+      <DefaultText>Erzeugt jedes Mal eine Schockwelle um den Mönch herum, wenn er oder sie eine Wunde erleidet, die allen Feinden im Wirkungsbereich eine kleine Menge Schaden zufügt und möglicherweise eine Unterbrechung hervorruft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6896,6 +6896,21 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     <Entry>
       <ID>1396</ID>
       <DefaultText>Ritual der Jugendlichen Seelen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1397</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1398</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1399</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

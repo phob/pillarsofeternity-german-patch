@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Feuerfest</DefaultText>
+      <DefaultText>Brandresistent</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Korrosionsfest</DefaultText>
+      <DefaultText>Zersetzungsresistent</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Zerschlagungsresistent</DefaultText>
+      <DefaultText>Wuchtresistent</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Frostsicher</DefaultText>
+      <DefaultText>Frostresistent</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,17 +66,17 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>des Intellekts +1</DefaultText>
+      <DefaultText>des Intellekt&#2060;s +1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>des Intellekts +2</DefaultText>
+      <DefaultText>des Intellekt&#2060;s +2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>des Intellekts +3</DefaultText>
+      <DefaultText>des Intellekt&#2060;s +3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Stichsicher</DefaultText>
+      <DefaultText>Stichresistent</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,17 +151,17 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Feuerpeitsche</DefaultText>
+      <DefaultText>Brennend</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Korrosionspeitsche</DefaultText>
+      <DefaultText>Zersetzend</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Hiebpeitsche</DefaultText>
+      <DefaultText>Wuchtig</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Frostpeitsche</DefaultText>
+      <DefaultText>Eisig</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Stichpeitsche</DefaultText>
+      <DefaultText>Stechend</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,12 +231,12 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Schockpeitsche</DefaultText>
+      <DefaultText>Schockend</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Hiebpeitsche</DefaultText>
+      <DefaultText>Schneidend</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -531,7 +531,7 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Mechaniker</DefaultText>
+      <DefaultText>Mechanisch</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -571,12 +571,12 @@
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>Verbrennung-SR-Bonus</DefaultText>
+      <DefaultText>Brand-SR-Bonus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Korrosion-SR-Bonus</DefaultText>
+      <DefaultText>Zersetzung-SR-Bonus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -596,7 +596,7 @@
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>Elektroschock-SR-Bonus</DefaultText>
+      <DefaultText>Schock-SR-Bonus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1056,7 +1056,7 @@
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>des Intellekts -1</DefaultText>
+      <DefaultText>des Intellekt&#2060;s -1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1141,17 +1141,17 @@
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>des Willens +5</DefaultText>
+      <DefaultText>des Wille&#2060;ns +5</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>des Willens +10</DefaultText>
+      <DefaultText>des Wille&#2060;ns +10</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>des Willens +15</DefaultText>
+      <DefaultText>des Wille&#2060;ns +15</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1211,7 +1211,7 @@
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>des Willens -3</DefaultText>
+      <DefaultText>des Wille&#2060;ns -3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

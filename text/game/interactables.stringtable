@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\interactables</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>766</EntryCount>
+  <EntryCount>767</EntryCount>
   <Entries>
     <Entry>
       <ID>5</ID>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Die Folterbank ist blutverspritzt und voller Fingernägelspuren.</DefaultText>
+      <DefaultText>Die Folterbank ist blutverschmiert und von Kratzspuren durch Fingernägel übersät.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Die sich auf dem Boden und die Decke entlang schlängelnden Drähte sind mit einer leuchtenden Glaskammer verbunden.</DefaultText>
+      <DefaultText>Die sich auf dem Boden und an der Decke entlang schlängelnden Drähte sind mit einer leuchtenden Glaskammer verbunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,12 +51,12 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Zwischen die flackernden Kerzen wurden kleine, geflochtene Statuen mit schwarzen Steinaugen platziert.</DefaultText>
+      <DefaultText>Zwischen den flackernden Kerzen wurden kleine, geflochtene Statuen mit schwarzen Steinaugen platziert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Die Höhle ist mit Schädeln und Knochen von verschiedenen Personen und Biestern übersät. Sie wurden von etwas mit Fängen so dick wie Aumaua-Finger zerdrückt, zerrissen, abgenagt und durchdrungen.</DefaultText>
+      <DefaultText>Die Höhle ist mit Schädeln und Knochen von verschiedenen Gestandenen und wilden Tieren übersät. Sie wurden von etwas mit Reißzähnen so dick wie Aumaua-Finger zerdrückt, zerrissen, abgenagt und durchdrungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Die dicke Haut, die dünn über die Bank gestreckte ist, sieht wie die eines Stelgaers aus. Die Härte- und Imprägnierungsmittel, die darauf geschmiert wurden, geben ihr einen starken Geruch.</DefaultText>
+      <DefaultText>Die dicke Haut, die dünn über die Bank gestreckt ist, sieht wie die eines Stelgaers aus. Die Härte- und Imprägnierungsmittel, die darauf geschmiert wurden, verleihen ihr einen starken Geruch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,22 +101,22 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Das Glas dieses Fensters ist zerbrochen. Jemand hat es mit verzogenen, knorrigen Bretter zugenagelt.</DefaultText>
+      <DefaultText>Das Glas dieses Fensters ist zerbrochen. Jemand hat es mit verzogenen, knorrigen Brettern zugenagelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Die Bilder in dieser Nische zeigen eine Reihe bleicher Steine, die eine Rüstung umzingeln. Aus den Steinen fließt irgendetwas in die Rüstung und erfüllen sie mit goldenem Schein.</DefaultText>
+      <DefaultText>Die Bilder in dieser Nische zeigen eine Reihe bleicher Steine, die eine Rüstung umgeben. Aus den Steinen fließt irgendetwas in die Rüstung und erfüllt sie mit goldenem Schein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Aus einer zentralen Säule wächst Adra und scheint sich die Treppen hinab zu ergießen. Innerhalb des sich kräuselnden Adra sind leuchtende, eiförmige Steine eingenistet.</DefaultText>
+      <DefaultText>Aus einer zentralen Säule wächst Adra, der sich sich die Treppen hinab zu ergießen scheint. Innerhalb des sich kräuselnden Adra sind leuchtende, eiförmige Steine eingebettet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Vier eiförmige Steine liegen auf kurzen, schmalen Sockeln und sind alle auf einen Altar in der Raummitte ausgerichtet.</DefaultText>
+      <DefaultText>Vier eiförmige Steine, die auf kurzen, schmalen Sockeln liegen, sind alle auf einen Altar in der Raummitte hin ausgerichtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,17 +196,17 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Der Wannenboden ist von einer dicken Schmutzschicht überzogen. Der auf der Wannenseite hängende Handtuch riecht fürchterlich.</DefaultText>
+      <DefaultText>Der Wannenboden ist von einer dicken Schmutzschicht überzogen. Das auf der Wannenseite hängende Handtuch riecht fürchterlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText> Dies ist das Symbol von Abydon - ein kolossaler Schmiedehammer über einem kreisrunden Zahnrad. Es ist glatt und glänzt vor schmierendem Öl.</DefaultText>
+      <DefaultText>Dies ist das Symbol von Abydon - ein kolossaler Schmiedehammer über einem kreisrunden Zahnrad. Es ist glatt und glänzt vor schmierigem Öl.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Flammenzungen züngeln an der Schmiede und zischen mit Rauch, der so heiß wie Drachenatem ist.</DefaultText>
+      <DefaultText>Flammen züngeln und zischen im Schmiedefeuer und lassen Rauch entstehen, der so heiß wie Drachenatem ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Diese Schatzkammer ist mit schraffierten Klauenspuren verkratzt.</DefaultText>
+      <DefaultText>Diese Schatzkammer weist schraffierte Klauenspuren auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,7 +246,7 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Die Steine dieses uralten Turmes wurden von Jahrhunderte alten Feuern geschwärzt. Inmitten einer Wildblumenwiese sieht er wie ein Gedenkstätte aus.</DefaultText>
+      <DefaultText>Die Steine dieses uralten Turmes wurden von Jahrhunderte alten Feuern geschwärzt. Inmitten einer Wildblumenwiese sieht er wie eine Gedenkstätte aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>In der Dunkelheit zwischen den Latten zuckt und schlurft etwas. Aus dem Haus strömt ein widerlicher Luftzug.</DefaultText>
+      <DefaultText>In der Dunkelheit zwischen den Latten zuckt und schlurft etwas. Aus dem Haus strömt ein widerlicher Geruch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -296,7 +296,7 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Die Symbole auf diesen Seiten krümmen und stellen sich um. Sie anzusehen, ist schwindelerregend.</DefaultText>
+      <DefaultText>Die Symbole auf diesen Seiten krümmen und verändern sich. Sie anzusehen, ist schwindelerregend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,12 +361,12 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>Der Rumpf dieses gestrandeten Bootes ist mit Seepocken verkrustet. Irgendetwas - vermutlich die gezackten Adra-Finger - haben tiefe Rillen in das Holz gekratzt. Wer auch immer versucht hat, durch sie hindurchzusegeln, muss entweder verzweifelt oder unerfahren gewesen sein.</DefaultText>
+      <DefaultText>Der Rumpf dieses gestrandeten Bootes ist mit Seepocken verkrustet. Irgendetwas - vermutlich die gezackten Adra-Finger - haben tiefe Rillen in das Holz gekratzt. Wer auch immer versucht hat, durch sie hindurchzusegeln, muss entweder verzweifelt oder sehr unerfahren gewesen sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText> Diese Frau scheint aus der Felswand des Berges herauszukommen. Sie ist kaum mehr als ein in eine Robe gehülltes Skelett, und ihr Starren ist auf die massive Tür fixiert.</DefaultText>
+      <DefaultText>Diese Frau scheint aus der Felswand des Berges herauszukommen. Sie ist kaum mehr als ein in eine Robe gehülltes Skelett, und ihr Starren ist auf die massive Tür fixiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,7 +386,7 @@
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>Für verschiedene alchemische Instrumente wurden Staub und Spinnweben zur Seite gewischt. Sie sind zwar mit Staub und grobkörnigem Schmutz überzogen, wirken aber so, als seien sie erst jüngst benutzt worden.</DefaultText>
+      <DefaultText>Für verschiedene alchemische Instrumente wurden Staub und Spinnweben zur Seite gewischt. Sie sind zwar auch mit Staub und grobkörnigem Schmutz überzogen, wirken aber so, als seien sie erst jüngst benutzt worden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>" ... unerwartete Resultate. Der hündische Wirt war lustlos und reagierte nicht, aber man stellte fest, das dies lediglich an der implantierten Katzenseele lag. Zwirn resultierte in kräftiger Stimulation."</DefaultText>
+      <DefaultText>" ... unerwartete Resultate. Der hündische Wirt war apathisch und reagierte kaum, aber man fand heraus, das dies lediglich an der implantierten Katzenseele lag. Ein Garn führte zu einer starken Stimulation."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,12 +421,12 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>Diese Gefäße sind angeschlagen und aufgeplatzt, als wären sie zu Boden gefallen und zurückgestellt worden.</DefaultText>
+      <DefaultText>Diese Gefäße sind rissig und aufgeplatzt, als wären sie zu Boden gefallen und zurückgestellt worden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Jemand hat sich aus Bettlaken und Handtüchern ein notdürftiges Bett gerichtet. Der zerknitterte Stoff ist steif vor Blut und Schweiß.</DefaultText>
+      <DefaultText>Jemand hat sich aus Bettlaken und Handtüchern ein notdürftiges Bett gebaut. Der zerknitterte Stoff ist steif vor Blut und Schweiß.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -436,7 +436,7 @@
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Auf dem Schreibtisch liegt ein aufgeschlagenes Hauptbuch, in dem Kauf- und Verkaufsbeträge für verschiedene alchemische Zutaten und Gebräue aufgelistet sind.</DefaultText>
+      <DefaultText>Auf dem Schreibtisch liegt ein aufgeschlagenes Hauptbuch, in dem Kauf- und Verkaufsbeträge für verschiedene alchemistische Zutaten und Gebräue aufgelistet sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -461,22 +461,22 @@
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Mehr als uralte, zerbröselnde Knochen sind nicht von den zahllosen Opfer übriggeblieben.</DefaultText>
+      <DefaultText>Mehr als uralte, zerbröselnde Knochen sind nicht von den zahllosen Opfern übrig geblieben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Fliegen schwärmen um diesen verrottenden Ogerkopf und versammeln sich über seinen toten Augen und dem schlaffen Unterkiefer.</DefaultText>
+      <DefaultText>Fliegen schwärmen um diesen verrottenden Ogerkopf und sammeln sich über seinen toten Augen und dem schlaffen Unterkiefer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Dieses Holzgerüst ist verfault und unter seinem eigenen Gewicht zusammengebrochen. Um es herum gibt es Spuren einer Ausgrabung, die offensichtlich aber vor langer Zeit aufgegeben wurde.</DefaultText>
+      <DefaultText>Dieses Holzgerüst ist verfault und unter seinem eigenen Gewicht zusammengebrochen. Daneben lassen sich Spuren einer Ausgrabung finden, die offensichtlich aber vor langer Zeit aufgegeben wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>Trotz ihres zeitlich bedingten Verfalls sind viele dieser Nischen mit aedyranischen Nachnamen graviert.</DefaultText>
+      <DefaultText>Obwohl vom Zahn der Zeit angenagt, sind bei vielen dieser Nischen Gravuren mit aedyranischen Nachnamen erkennbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -486,12 +486,12 @@
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>Diese massiven Knochen wurden gesäubert, mehrere außerdem aufgebrochen, um an das Knochenmark zu gelangen. Auf allen Knochen sind Bissspuren zu erkennen.</DefaultText>
+      <DefaultText>Diese massiven Knochen wurden gesäubert, und mehrere außerdem aufgebrochen, um an das Knochenmark zu gelangen. Auf allen Knochen sind Bissspuren zu erkennen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>Die Nischen wurden mit Stroh sowie mit Feder- und Fellbündeln eingerahmt. In der Luft hängt ein moschusartiger Geruch.</DefaultText>
+      <DefaultText>Die Nischen wurden mit Stroh sowie mit Feder- und Fellbündeln eingerahmt. In der Luft liegt  ein moschusartiger Geruch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,7 +516,7 @@
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Diese großen Nester scheinen aus dicker, robuster Seiden gewoben worden zu sein.</DefaultText>
+      <DefaultText>Diese großen Nester scheinen aus dicker, robuster Seide gewoben worden zu sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -561,12 +561,12 @@
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>Um dieser uralten Knochen herum sind Bäume und Büsche gewachsen. Mit ihren Blättern verdecken Sie dieses Denkmal Galawains.</DefaultText>
+      <DefaultText>Um diese uralten Knochen herum sind Bäume und Büsche gewachsen. Mit ihren Blättern verdecken Sie dieses Denkmal Galawains.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>Die über dem Beckenrand hängende Leiche ist schmerzverzerrt wohl in den letzten Zuckungen liegengeblieben. Seine verfaulten, skelettierten Hände greifen immer noch in Richtung seines Halses. </DefaultText>
+      <DefaultText>Die über dem Beckenrand hängende Leiche ist in schmerzverzerrter Pose wohl in den letzten Zuckungen liegengeblieben. Die verfaulten, skelettierten Hände greifen immer noch in Richtung des Halses.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -576,7 +576,7 @@
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>In diesem Morast aus Blut und Knorpeln tanzen Gliedmaßen und Organe umher. Das Blutbad wird durch gelegentlichen Windböen aus dem darüberliegenden Tunnel umgerührt.</DefaultText>
+      <DefaultText>In diesem Morast aus Blut und Knorpeln schwimmen Gliedmaßen und Organe. Das Blutbad wird durch gelegentlichen Windböen aus dem darüberliegenden Tunnel in Bewegung gebracht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -621,7 +621,7 @@
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>Über dem Herd riecht ein Geruch von frittiertem Fisch und Austern. Der Tresen ist mit Fett bespritzt.</DefaultText>
+      <DefaultText>Über dem Herd liegt ein Geruch von frittiertem Fisch und Austern. Der Tresen ist mit Fett bespritzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -646,7 +646,7 @@
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>Halbvolle Ale-Humpen und Weinflaschen hinterlassen nasse Ringe auf dem Tresen. Auf verstreuten Tellern liegen Fischknochen und Fett.</DefaultText>
+      <DefaultText>Halbvolle Ale-Humpen und Weinflaschen hinterlassen nasse Ringe auf dem Tresen. Auf verstreuten Tellern liegen in Fett schwimmende Fischknochen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -661,7 +661,7 @@
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>Diese aufgeplatzten Eierschalen sind ledrig, aber trotzdem brüchig. Die meisten von ihnen wurden mit winzigen, klauenbewehrten Füßen zu feinem Staub zertrampelt.</DefaultText>
+      <DefaultText>Diese aufgeplatzten Eierschalen sind ledrig, aber trotzdem brüchig. Die meisten von ihnen wurden von winzigen, klauenbewehrten Füßen zu feinem Staub zertrampelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -671,12 +671,12 @@
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>Die Säule zupft an deiner Essenz. Ein Puls der Welt selbst bewegt sich durch sie.</DefaultText>
+      <DefaultText>Die Säule zerrt an deiner Essenz. Ein Puls der Welt selbst bewegt sich durch sie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>Der uralte Adra trägt noch immer die Abdrückende tausender Seelen, die auf ihm gebrochen wurden. Deine Seele brennt vor erinnertem Leiden.</DefaultText>
+      <DefaultText>Der uralte Adra trägt noch immer die Abdrücke tausender Seelen, die auf ihm zerbrochen wurden. Die Erinnerung an vergangenes Leiden brennt tief in deiner Seele.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -686,7 +686,7 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>Hinter der Karte scheint fahles Licht. Ein grobes Loch führt ins Freie, als ob sie jemand durchgegraben hätte.</DefaultText>
+      <DefaultText>Hinter der Karte scheint fahles Licht hevor. Ein grobes Loch führt ins Freie, als ob sich jemand durchgegraben hätte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -716,12 +716,12 @@
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>Überall zwischen diesen eingestürzten Steinen gibt es Höhlen und schmalen Spalten. Klauenspuren und Dung zeigt, dass wilde Tiere hier vorbeigekommen sind.</DefaultText>
+      <DefaultText>Überall zwischen diesen eingestürzten Steinen gibt es Höhlen und schmale Spalten. Klauenspuren und Kot zeugen davon, dass wilde Tiere hier vorbeigekommen sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>Das Gras hinter den Wagenrädern ist immer noch zu Boden gepresst. Mehrere Fässer mit Kohlköpfen, Kartoffeln und Kürbissen wurden umgestürzt und liegengelassen. </DefaultText>
+      <DefaultText>Das Gras hinter den Wagenrädern ist immer noch niedergedrückt. Mehrere Fässer mit Kohlköpfen, Kartoffeln und Kürbissen wurden umgestürzt und liegen gelassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -746,12 +746,12 @@
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>Dieses Stück Pergament ist abgenutzt und zerlumpt, die Tinte ist verblasst. "In diesen Zeiten der Not ... . muss man genau so viel Glauben an uns selbst haben ... "</DefaultText>
+      <DefaultText>Dieses Stück Pergament ist abgenutzt und ausgefranst, die Tinte ist verblasst. "In diesen Zeiten der Not ... . müssen wir genau so viel Glauben in uns selbst haben ... "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>Die engwithanischen Symbole sind abgenutzt und verblasst, aber die Worte bilden einen bekannten Akkord: "Pflicht vor Interessen."</DefaultText>
+      <DefaultText>Die engwithanischen Symbole sind abgenutzt und verblasst, aber die Worte bilden einen bekannten Akkord: "Pflicht vor Eigennutz."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -806,7 +806,7 @@
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>Dieser umgestürzte Wagen sieht vor lauter Armbrustbolzen aus, als hätte er Borsten. Blutflecken lassen die gesprungenen Holzlatten dunkler erscheinen.</DefaultText>
+      <DefaultText>Dieser umgestürzte Wagen sieht vor lauter Armbrustbolzen so aus, als hätte er Borsten. Blutflecken lassen die gesprungenen Holzlatten dunkler erscheinen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -821,12 +821,12 @@
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>Wer auch immer hier saß, ist hastig aufgebrochen. Tinte wurde über die ganze Schriftrolle geschüttet und macht deren Inhalt unkenntlich.</DefaultText>
+      <DefaultText>Wer auch immer hier saß, ist hastig aufgebrochen. Die über die ganze Schriftrolle geschüttete Tinte macht deren Inhalt unlesbar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>Auf diesem Möbelhaufen finden sich Brandflecken.</DefaultText>
+      <DefaultText>Dieser Möbelhaufen zeugt von Brandspuren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -861,7 +861,7 @@
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>"An Euer Gnaden - Ich flehe Sie an-" Der Rest dieses Briefes wurde an mehreren Stellen durchgestrichen und dann ganz verworfen.</DefaultText>
+      <DefaultText>"An Euer Gnaden - Ich flehe Sie an -" Der Rest dieses Briefes wurde an mehreren Stellen durchgestrichen, bevor er dann letztlich ganz verworfen wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -871,7 +871,7 @@
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>Die Symbole hier fangen das Licht der Kohlebecken auf. "Alle Ehre gebührt denen, die für den Ruhm Engwiths von sich geben." 
+      <DefaultText>Die Symbole hier fangen das Licht der Kohlebecken auf. "Alle Ehre gebührt denen, die sich für den Ruhm Engwiths selbst aufgeben." 
 
 Die bleichen Steine um den Raum herum wirken matt und leblos.</DefaultText>
       <FemaleText />
@@ -883,12 +883,12 @@ Die bleichen Steine um den Raum herum wirken matt und leblos.</DefaultText>
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>"Die Versammelten legen Zeugnis über deine Stärken und Sehnsüchte ab. Bleibt standhaft und wisse, dass du im Tode emporsteigen wirst."</DefaultText>
+      <DefaultText>"Die Versammelten legen Zeugnis über deine Stärken und Sehnsüchte ab. Bleibe standhaft und wisse, dass du im Tode emporsteigen wirst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>"Vergebung liegt nicht in unseren Natur. Jene, die nach Erlösung streben, haben einen langen und verschlungenen Weg vor sich. Ein Weg, der uns nach unten in äußersten Vertiefungen unserer Seele führt, und uns auffordert, über die gebrochenen Aspekte unseres Selbst nachzudenken."</DefaultText>
+      <DefaultText>"Vergebung liegt nicht in unseren Natur. Jene, die nach Erlösung streben, haben einen langen und verschlungenen Weg vor sich. Einen Weg, der uns bis ganz nach unten in die tiefsten Gefilde unserer Seele führt, und uns auffordert, über die zerbrochenen Aspekte unseres Selbst nachzudenken."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -908,7 +908,7 @@ Die bleichen Steine um den Raum herum wirken matt und leblos.</DefaultText>
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>Ein Teil des Blattgolds auf diesen Reliquien ist abgeplatzt und gibt den Blick auf das darunterliegende Holz frei. Auf einer dieser Schalen gibt es Zahnabdrücke.</DefaultText>
+      <DefaultText>Ein Teil des Blattgolds auf diesen Reliquien ist abgeplatzt und gibt den Blick auf das darunterliegende Holz frei. Auf einer dieser Schalen sind Zahnabdrücke zu sehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -943,7 +943,7 @@ Die bleichen Steine um den Raum herum wirken matt und leblos.</DefaultText>
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>Innerhalb des seltsamen Geräts schimmern und pulsieren Essenzen.</DefaultText>
+      <DefaultText>Innerhalb des seltsamen Gerätes schimmern und pulsieren Essenzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -983,7 +983,7 @@ Die bleichen Steine um den Raum herum wirken matt und leblos.</DefaultText>
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>Die Fußspuren um das Lagerfeuer sind undeutlich, sie könnten schon mehrere Tage alt sein - oder noch älter.</DefaultText>
+      <DefaultText>Die Fußspuren um das Lagerfeuer herum sind undeutlich, sie könnten schon mehrere Tage alt sein - oder noch älter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1013,8 +1013,8 @@ Die bleichen Steine um den Raum herum wirken matt und leblos.</DefaultText>
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>Nord nach Caed Nua
-West nach Trutzbucht</DefaultText>
+      <DefaultText>Nach Caed Nua im Norden
+Nach Trutzbucht im Westen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1031,7 +1031,7 @@ West nach Trutzbucht</DefaultText>
       <ID>278</ID>
       <DefaultText>Das Porträt stellt einen Mann und eine Frau in aedyranischer Kleidung da, die wohl vor einem Jahrhundert in Mode gewesen ist. Der schwere Bilderrahmen ist ramponiert und das Schild, auf dem einst der Name des Gönners stand, wurde herausgekratzt.
 
-Sie umarmen sich leidenschaftlich, was angesichts der Abneigung auf ihren Gesichtern seltsam wirkt.</DefaultText>
+Die beiden umarmen sich leidenschaftlich, was angesichts der Abneigung auf ihren Gesichtern seltsam wirkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1041,7 +1041,7 @@ Sie umarmen sich leidenschaftlich, was angesichts der Abneigung auf ihren Gesich
     </Entry>
     <Entry>
       <ID>281</ID>
-      <DefaultText>Eine niedere Ebene der Ruinen wurde von herabfallenden Trümmern blockiert.</DefaultText>
+      <DefaultText>Eine tiefere Ebene der Ruinen wurde von herabfallenden Trümmern blockiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1063,12 +1063,12 @@ und Entkräftung der Knochen zu entsagen. Endlich haben sich die barbarischen Go
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>"Eiserne Kämpfer, unbarmherzig und stürmisch wie die tausende Feinde."</DefaultText>
+      <DefaultText>"Eiserne Kämpfer, unbarmherzig und stürmisch gleich tausender Feinde."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>Diese mit seltsamen Glyphen bedeckte, massive Struktur besteht aus Stein, Adra und Kupfer. Die Luft um sie herum vibriert mit merkwürdiger Energie.</DefaultText>
+      <DefaultText>Diese mit seltsamen Glyphen bedeckte, massive Struktur besteht aus Stein, Adra und Kupfer. Die Luft um sie herum vibriert mit ungewöhnlicher Kraft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1088,17 +1088,17 @@ und Entkräftung der Knochen zu entsagen. Endlich haben sich die barbarischen Go
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>Inmitten der verstreuten Opfergaben züngeln Flammen. Schlüssel, Münzen sowie die winzigen Schädel von Vögeln und Mäusen bleiben im geschmolzenen und ausgehärteten Wachs stecken.</DefaultText>
+      <DefaultText>Inmitten der verstreuten Opfergaben züngeln Flammen. Schlüssel, Münzen, sowie die winzigen Schädel von Vögeln und Mäusen blieben im geschmolzenen und ausgehärteten Wachs stecken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>Der Pelz dieses Stelgaers ist voller Staub und Motten. Auf der Plakette unterhalb des Biests steht: "Maidenfall, 2682."</DefaultText>
+      <DefaultText>Der Pelz dieses Stelgaers ist voller Staub und Motten. Auf der Plakette unterhalb der Bestie steht: "Maidenfall, 2682."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>Erol von Levi starrt dich hintergründig aus dem Gemälde an.</DefaultText>
+      <DefaultText>Erol von Levi starrt dich auf rätselhafter Weise aus dem Gemälde heraus an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1218,7 +1218,7 @@ und Entkräftung der Knochen zu entsagen. Endlich haben sich die barbarischen Go
     </Entry>
     <Entry>
       <ID>319</ID>
-      <DefaultText>Verbrecherfluchtort</DefaultText>
+      <DefaultText>Verbrecherunterschlupf</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1228,9 +1228,9 @@ und Entkräftung der Knochen zu entsagen. Endlich haben sich die barbarischen Go
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>Westlich von Goldtal
-Südlich von Anslogs Kompass
-Östlich der Schwarzauen</DefaultText>
+      <DefaultText>Nach Goldtal im Westen
+Nach Anslogs Kompass im Süden
+Zu den Schwarzauen im Osten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1340,9 +1340,9 @@ Südlich von Anslogs Kompass
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>"Der Krieger ruft zwei Augenzeugen auf, die vor den Emblemen Stellung beziehen sollen, um Zeugnis über das Wesen seiner Seele abzulegen. Der Krieger besteigt mit dem Seelengefäß in der Hand das Podium, um sich der Übertragung zu unterwerfen."
+      <DefaultText>"Der Krieger rufe zwei Augenzeugen auf, die vor den Emblemen Stellung beziehen, um Zeugnis über das Wesen seiner Seele abzulegen. Der Krieger besteige mit dem Seelengefäß in der Hand das Podium, um sich der Übertragung zu unterwerfen."
 
-"Sein Seelengefäß und eine Waffe mit einem Herz aus Adra tragend möge sich der Krieger dann der Urne nähern. Auf diese Weise forme er einen Arm, der seiner Fähigkeiten und Ambitionen wert ist."</DefaultText>
+"Sein Seelengefäß und eine Waffe mit einem Herz aus Adra tragend möge sich der Krieger dann der Urne nähern. Auf diese Weise forme er eine Waffe, die seinen Fähigkeiten und Ambitionen gerecht wird."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1372,8 +1372,8 @@ Südlich von Anslogs Kompass
     </Entry>
     <Entry>
       <ID>349</ID>
-      <DefaultText>Nordwest nach Geirans Griff
-Süd nach Goldtal</DefaultText>
+      <DefaultText>Nach Geirans Griff im Nordwesten
+Nach Goldtal im Süden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1388,7 +1388,7 @@ Süd nach Goldtal</DefaultText>
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>Rinattos Waren </DefaultText>
+      <DefaultText>Rinattos Waren</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1403,7 +1403,7 @@ Süd nach Goldtal</DefaultText>
     </Entry>
     <Entry>
       <ID>355</ID>
-      <DefaultText>Masdên's Ausrüstungen</DefaultText>
+      <DefaultText>Masdêns Ausrüstungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1428,12 +1428,12 @@ Süd nach Goldtal</DefaultText>
     </Entry>
     <Entry>
       <ID>360</ID>
-      <DefaultText>Vergilbte, verblassende Karten der Bucht um Ondras Geschenk herum zeigen Routen durch die Schleusen der Deiche, die das Meer zurückhalten.</DefaultText>
+      <DefaultText>Vergilbte, verblichene Karten der Bucht um Ondras Geschenk herum zeigen Routen durch die Schleusen der Deiche, die das Meer zurückhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>361</ID>
-      <DefaultText>Auf den beiden Schaftstücken dieses zerbrochenen Speers befinden sich kunstvolle glanfathanische Ätzungen. Im nassen Holz befinden sich grüne, moosige Dellen, die wahrscheinlich von Schlägen gegen die Flussfelsen herrühren.</DefaultText>
+      <DefaultText>Die beiden Schaftstücke dieses zerbrochenen Speers zieren kunstvolle glanfathanische Ätzungen. Im nassen Holz befinden sich grüne, moosige Dellen, die wahrscheinlich von Schlägen gegen die Flussfelsen herrühren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1468,7 +1468,7 @@ Süd nach Goldtal</DefaultText>
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>Eine Reihe von Hieroglyphen zeigt in einer Reihe anstehende Männer und Frauen, die in ein Becken hinabsteigen. Die Gestalten, die unter dem Becken herauskommen, stehen mit ausgestreckten Armen und triumphierend gelassenen Gesichtsausdrücken da.</DefaultText>
+      <DefaultText>Eine Reihe von Hieroglyphen zeigt in einer Schlange anstehende Männer und Frauen, die in ein Becken hinabsteigen. Die Gestalten, die unter dem Becken herauskommen, stehen mit ausgestreckten Armen und triumphierend gelassenen Gesichtsausdrücken da.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1478,12 +1478,12 @@ Süd nach Goldtal</DefaultText>
     </Entry>
     <Entry>
       <ID>370</ID>
-      <DefaultText>Auf einen Pfeiler in dieser Nische wurde eine Reihe einfacher, aber klar verständlicher Piktogramme eingeritzt. In den Oberteil des Pfeilers wurden männliche und weibliche Gestalten mit erhobenen Armen eingeritzt. In den Unterteil wurden Rüstungen in derselben Pose gemeißelt.</DefaultText>
+      <DefaultText>Auf einen Pfeiler in dieser Nische wurde eine Reihe einfacher, aber klar verständlicher Piktogramme eingeritzt. In den oberen Teil des Pfeilers wurden männliche und weibliche Gestalten mit erhobenen Armen eingeritzt. In den unteren Teil wurden Rüstungen in derselben Pose gemeißelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>371</ID>
-      <DefaultText>Auf diesem Pfeiler sind Szenen einer Schlacht zu sehen. Hier hat sich eine Armee von Männern in Lendenschürzen und Häuten versammelt, über denen drohend ein Dutzend ganzer Rüstungen aufragen. In den nach unten folgenden Bildern wird die Armee von den Rüstungen vernichtet.</DefaultText>
+      <DefaultText>Auf diesem Pfeiler sind Szenen einer Schlacht zu sehen. Eine Armee von Männern in Lendenschürzen und Häuten versammelt sich, in den Schatten gestellt von einem ganzen Dutzend vollständiger Rüstungen, die über ihnen aufragen. In den folgenden Bildern wird die Armee von den Rüstungen vernichtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1500,7 +1500,7 @@ Wo kann die Ulme so tiefe Wurzeln schlagen, dass die Stürme sie nicht wegreiße
     </Entry>
     <Entry>
       <ID>374</ID>
-      <DefaultText>"Ewiges Streben nach Nationen und Gold. Sie waren unbarmherzig und furchtlos."</DefaultText>
+      <DefaultText>"Ewiges Streben nach Nationen und Gold. Sie waren erbarmungslos und furchtlos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1514,14 +1514,14 @@ Rache der Götter, noch vor der Rache ihrer Feinde. Der Tod würde für sie kein
     </Entry>
     <Entry>
       <ID>376</ID>
-      <DefaultText>"Pykos könnte mit ihren Häuptlingen niemals eine Übereinkunft treffen. Wie kann ein Volk Ordnung finden, wenn die
+      <DefaultText>"Pykos konnte mit ihren Häuptlingen niemals eine Übereinkunft treffen. Wie kann ein Volk Ordnung finden, wenn die
 
 Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himmel?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>377</ID>
-      <DefaultText>"Niemals der Geist und immer das Fleisch sind ein Volk der gesenkten Augen."</DefaultText>
+      <DefaultText>"Niemals der Geist, aber immer das Fleisch erzeugt ein Volk der gesenkten Augen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1546,32 +1546,32 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>382</ID>
-      <DefaultText>Dieses Bildnis besteht aus mehreren krummen Stöcken, die jemand mit einer groben Schnur zusammengebunden hat. Sie wirft einen ominösen, flackernden Schatten auf die Wand.</DefaultText>
+      <DefaultText>Dieses Bildnis besteht aus mehreren krummen Stöcken, die jemand mit einer groben Schnur zusammengebunden hat. Es wirft einen ominösen, flackernden Schatten an die Wand.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>383</ID>
-      <DefaultText>Auf diesem hölzernen Bildnis wurden Schädel festgezurrt.</DefaultText>
+      <DefaultText>An dieses hölzerne Bildnis wurden Schädel befestigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>384</ID>
-      <DefaultText>Auf dieses Gemälde wurde augenscheinlich mit Blut ein primitives Symbol geschmiert.</DefaultText>
+      <DefaultText>Mit etwas, das wie Blut aussieht, wurde ein primitives Symbol auf diese Leinwand gemalt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>385</ID>
-      <DefaultText>Auf dem Tisch liegt ein Mann in einer blutigen Robe. Sein Mund und seine Augen sind von dick verkrustetem Blut umgeben.</DefaultText>
+      <DefaultText>Auf dem Tisch liegt ein Mann in einer blutigen Robe. Dick verkrustetes Blut umgibt seine Augen und seinen Mund.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>386</ID>
-      <DefaultText>Diese Vitrine wurde meisterhaft aus dunklem Edelholz angefertigt. Jahre der rücksichtslosen Benutzung ließen aber viele ihrer Regale zu Bruch gehen.</DefaultText>
+      <DefaultText>Diese Vitrine wurde meisterhaft aus dunklem Edelholz gefertigt. Jahre des rücksichtslosen Umgangs ließen aber viele ihrer Regale zu Bruch gehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>387</ID>
-      <DefaultText>Dieser Teppich ist jetzt zwar zerfetzt und verblichen, früher aber hätte er in die Burg eines Edelmannes gepasst.</DefaultText>
+      <DefaultText>Dieser Teppich ist nun zwar zerrissen und ausgeblichen, früher aber hätte er in die Burg eines Edelmannes gepasst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1586,7 +1586,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>390</ID>
-      <DefaultText>Dieser von der Ebbe zurückgelassene See wimmelt nur so von Krabben und kleinen Fischen.</DefaultText>
+      <DefaultText>Dieser von der Ebbe zurückgelassene Teich wimmelt nur so von Krabben und kleinen Fischen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1606,7 +1606,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>Im eisigen Spiegel hinter dieser Statue bricht sich das Licht in Tüpfelchen.</DefaultText>
+      <DefaultText>Gebrochenes Licht besprenkelt den eisigen Spiegel hinter dieser Statue.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1656,7 +1656,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>Die schimmernde Eiswand scheint alle Wärme aus dem Raum zu ziehen. Die Kälte verbrennt dir die Haut, und du ziehst zurück, bevor du sie berührst.</DefaultText>
+      <DefaultText>Die schimmernde Eiswand scheint alle Wärme aus dem Raum zu ziehen. Die Kälte verbrennt dir die Haut, und du ziehst deine Hand zurück, bevor du sie berührst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1788,7 +1788,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>434</ID>
-      <DefaultText>Aus diesem Gebäuden dringt der Geruch von Holzrauch und versammelten Personen.</DefaultText>
+      <DefaultText>Aus diesem Gebäuden dringt der Geruch von Holzrauch und versammelten Gestandenen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1803,7 +1803,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>437</ID>
-      <DefaultText>Aus der Höhle im Kopf des Biests dringt ein feuchtkalt-schwüler Luftzug. Von den steinernen Zähnen tropft Kondenswasser.</DefaultText>
+      <DefaultText>Aus der Höhle im Kopf der Bestie dringt ein feuchtkalt-schwüler Luftzug. Von den steinernen Zähnen tropft Kondenswasser.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1813,7 +1813,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>439</ID>
-      <DefaultText>Der über dem gefrorenen See hängende Frost entzieht der Luft alle Wärme. </DefaultText>
+      <DefaultText>Der über dem gefrorenen See hängende Frost entzieht der Luft alle Wärme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1858,7 +1858,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>451</ID>
-      <DefaultText>Dieser Eimer ist mit Blut gefüllt und sondert einen scharfen Gestank ab. Du erkennst es als Mocgas Tränen, ein starkes Gift.</DefaultText>
+      <DefaultText>Dieser Eimer ist mit Blut gefüllt und sondert einen scharfen Gestank ab. Du machst darin Mocgas Tränen aus, ein starkes Gift.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1943,12 +1943,12 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>469</ID>
-      <DefaultText>Auf die Wand wurde eine fast unlesbare Folge von Gotteslästerungen gekratzt.</DefaultText>
+      <DefaultText>In die Wand wurde eine fast unlesbare Folge von Gotteslästerungen geritzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>470</ID>
-      <DefaultText>Der Drachenschädel ist mit den Jahren braun und glatt poliert geworden.</DefaultText>
+      <DefaultText>Der Drachenschädel ist mit den Jahren braun geworden und wirkt wie glatt poliert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1958,7 +1958,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>472</ID>
-      <DefaultText>Diese Karte zeigt die alten Kolonialgrenzen des Dyrwalds. Auf der Stelle des heutigen Trutzbucht ist eine Siedlung namens "Neu-Dunryd" markiert.</DefaultText>
+      <DefaultText>Diese Karte zeigt die alten Kolonialgrenzen des Dyrwalds. An Stelle des heutigen Trutzbucht ist eine Siedlung namens "Neu-Dunryd" markiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2023,7 +2023,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>492</ID>
-      <DefaultText>Diese Oberfläche wird von verblassenden, unleserlichen Runen bedeckt.</DefaultText>
+      <DefaultText>Diese Oberfläche wird von verblassten, unleserlichen Runen bedeckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2033,7 +2033,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>494</ID>
-      <DefaultText>Eine schimmernde Energiewand versperrt diese Tür wie ein Vorhang, der jegliche Vorwärtsbewegungen mit unnatürlicher Kraft abweist.</DefaultText>
+      <DefaultText>Eine schimmernde Energiewand versperrt diese Tür wie ein Vorhang, der jegliche Vorwärtsbewegung mit unnatürlicher Kraft zurückweist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2083,12 +2083,12 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>504</ID>
-      <DefaultText>In der Leiche stecken grobe, mit hellen Federn ausgestattete Pfeile.</DefaultText>
+      <DefaultText>In der Leiche stecken grobe, mit hellen Federn versehene Pfeile.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>505</ID>
-      <DefaultText>Lange und oberflächliche Spuren führen nach Osten. Sie sind mit Blut besprenkelt.</DefaultText>
+      <DefaultText>Lange und flache Spuren führen nach Osten. Sie sind mit Blut besprenkelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2118,12 +2118,12 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>511</ID>
-      <DefaultText>Auf eine Seite dieser Säule wurden hunderte Kringel und Grate eingeritzt. Der Adra schimmert selbst unter einer Schicht Schmutz und Moos.</DefaultText>
+      <DefaultText>In eine Seite dieser Säule wurden hunderte Kringel und Grate eingeritzt. Der Adra schimmert selbst unter einer Schicht Schmutz und Moos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>512</ID>
-      <DefaultText>Fangs Ausrüstungen</DefaultText>
+      <DefaultText>Fangs Vorräte</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2153,7 +2153,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>518</ID>
-      <DefaultText>"Eine mit Gewalt genommene Essenz mag einen erhalten, freiwillig überlassene Essenzen aber stärken viele ... "</DefaultText>
+      <DefaultText>"Mit Gewalt entrissende Essenz mag einem Kraft schenken, freiwillig überlassene Essenz aber stärkt viele ... "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2178,7 +2178,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>523</ID>
-      <DefaultText>Diese abgenutzten Steine waren Jahrhunderte lang Wind und Regen ausgesetzt. </DefaultText>
+      <DefaultText>Diese abgenutzten Steine waren Jahrhunderte lang Wind und Regen ausgesetzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2208,17 +2208,17 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>531</ID>
-      <DefaultText>Aufgrund der kohlschwarzen Asche, die sich auf das Mauerwerk gelegt hat, sind vage die Gestalten von Personen auszumachen.</DefaultText>
+      <DefaultText>In der kohlschwarzen Asche, die sich auf das Mauerwerk gelegt hat, sind vage die Gestalten von Gestandenen auszumachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>532</ID>
-      <DefaultText>Länger dieser zerborstenen Säulen finden sich Fragmente verblichener engwithanischer Runen.</DefaultText>
+      <DefaultText>Entlang dieser zerborstenen Säulen finden sich Fragmente verblichener engwithanischer Runen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>533</ID>
-      <DefaultText>Auf der Plakette unterhalb des Schaukastens steht Folgendes:
+      <DefaultText>Auf der Plakette unterhalb des Schaukastens steht:
 
 "Die legendäre Goldene Klinge der Einsamkeit, die jeden Feind mit einem Schlag zur Strecke bringen kann. Zerborsten in der Schlacht von Turmwach."</DefaultText>
       <FemaleText />
@@ -2230,7 +2230,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>535</ID>
-      <DefaultText>Unter der Adra-Oberfläche verlaufen dicke Kupferadern, das wie ein aus verfaulendem Fleisch herausragendes Skelett wirkt.</DefaultText>
+      <DefaultText>Unter der Adra-Oberfläche verlaufen dicke Kupferadern, die ein skelettartiges Gerüst erzeugen, das an Knochen erinnert, die aus verfaulendem Fleisch herausragenden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2255,7 +2255,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>540</ID>
-      <DefaultText>Das, was von dieser Statue übrigbleibt, lässt darauf schließen, dass sie einst einen jungen Krieger darstellte. Entlang der Basis der Statue verlaufen Runen, und bei ihren Füßen steht ein Name: "Maros"</DefaultText>
+      <DefaultText>Das, was von dieser Statue übrigbleibt, lässt darauf schließen, dass sie einst einen jungen Krieger darstellte. Entlang der Basis der Statue verlaufen Runen und bei ihren Füßen steht ein Name: "Maros"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2305,12 +2305,12 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>551</ID>
-      <DefaultText>Dieses grobe wie funktionale Gebäude ist mit dem Schmutz und den Ausdünstungen einer geschäftigen und schnell wachsenden Stadt verunreinigt.</DefaultText>
+      <DefaultText>Dieses schmucklose wie funktionale Gebäude ist mit dem Schmutz und den Ausdünstungen einer geschäftigen und schnell wachsenden Stadt verunreinigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>552</ID>
-      <DefaultText>Diese Schilde wurden in lange vergangenen Schlachten ramponiert und verkratzt.</DefaultText>
+      <DefaultText>Diese Schilde wurden in lange zurückliegenden Schlachten ramponiert und verkratzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2355,12 +2355,12 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>561</ID>
-      <DefaultText>Jemand hat die Etiketten von diesen Flaschen gezogen. Sie sind mit einem dunklen, dreckigen Brei gefüllt, der einen beißenden Gestank verströmt.</DefaultText>
+      <DefaultText>Jemand hat die Etiketten von diesen Flaschen entfernt. Sie sind mit einem dunklen, dreckigen Brei gefüllt, der einen beißenden Gestank verströmt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>562</ID>
-      <DefaultText>Aus verschiedenen zerlumpten Decken und Kissen wurden ein paar primitive Betten improvisiert. Der Stoff wird von einer herabtropfenden, dunklen Flüssigkeit beschmutzt.</DefaultText>
+      <DefaultText>Aus verschiedenen zerlumpten Decken und Kissen wurden ein paar primitive Betten improvisiert. Der Stoff wird von einer herabtropfenden, dunklen Flüssigkeit verunreinigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2385,7 +2385,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>567</ID>
-      <DefaultText>Im Graben ebbt eine zähflüssige, übelriechende Flüssigkeit.</DefaultText>
+      <DefaultText>Im Graben ebbt eine zähflüssige, übelriechende Flüssigkeit hin und her.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2420,7 +2420,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>574</ID>
-      <DefaultText>Die Seiten dieser alten Bücher sind spröde und wohlduftend vom Salz der Meerbrise.</DefaultText>
+      <DefaultText>Die nach Meer duftenden Seiten dieser alten Bücher sind spröde vom Salz der Brise.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2445,7 +2445,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>579</ID>
-      <DefaultText>"Die Pfeile in der Expeditionshalle dienen NUR Übungszwecken. Waffen zur persönlichen Benutzung sind bitte von Sonild zu kaufen. KEINE AUSNAHMEN. - Osric"</DefaultText>
+      <DefaultText>"Die Pfeile in der Expeditionshalle dienen NUR Übungszwecken. Waffen zur persönlichen Benutzung müssen bei Sonild gekauft werden. KEINE AUSNAHMEN. - Osric"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2475,7 +2475,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>Dieses Gemälde stellt die berühmte Szene aus "Morgendämmerung" dar, in der der Reisende und der Geist zufällig auf einen verhungernden Mann stoßen.</DefaultText>
+      <DefaultText>Dieses Gemälde stellt die berühmte Szene aus "Morgendämmerung" dar, in der der Reisende und der Geist zufällig auf einen fast verhungerten Mann stoßen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2485,7 +2485,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>587</ID>
-      <DefaultText>Das Unkraut wächst ungeachtet der vorüberlaufenden Personen dicht und üppig.</DefaultText>
+      <DefaultText>Das Unkraut wächst ungeachtet der vorüberlaufenden Gestandenen dicht und üppig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2495,7 +2495,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>589</ID>
-      <DefaultText>Dies sind Aufzeichnungen aktiver Patrouillen und gemeldeter Verbrechen in Ondras Geschenk. Die letzten stellen die ersteren numerisch weit in den Schatten.</DefaultText>
+      <DefaultText>Dies sind Aufzeichnungen aktiver Patrouillen und gemeldeter Verbrechen in Ondras Geschenk. Die zuletzt Genannten stellen die zuerst Gennanten numerisch weit in den Schatten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2505,7 +2505,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>591</ID>
-      <DefaultText>Dieser Holzstuhl ist ziemlich robust, aber nicht unbedingt bequem. Zahllose Anhörungen haben dieses Polster dünn werden lassen, und das grob gemaserte Holz fühlt sich so rau an, dass man gut und gerne mit der Kleidung daran hängenbleiben könnte.</DefaultText>
+      <DefaultText>Dieser Holzstuhl ist ziemlich robust, aber nicht unbedingt bequem. Zahllose Anhörungen haben das Polster dünn werden lassen, und das grob gemaserte Holz fühlt sich so rau an, dass man gut und gerne mit der Kleidung daran hängenbleiben könnte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2530,12 +2530,12 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>596</ID>
-      <DefaultText>Diese Buchungen zeigen die aktuellen Preise für eine Reihe von Gütern. Außerdem verfolgen sie den laufen Wechselkurs für den vailianischen Lusce. </DefaultText>
+      <DefaultText>Diese Buchungen belegen die aktuellen Preise für eine Reihe von Gütern. Außerdem verfolgen sie den jeweiligen Wechselkurs für den vailianischen Lusce.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>597</ID>
-      <DefaultText>Aufgerollte Rechnungen und Belege zeigen die Beträge, die an Maeas Angestellte ausgezahlt wurden und ihre Ausgaben für Ale, Fisch und neues Leinen.</DefaultText>
+      <DefaultText>Aufgerollte Rechnungen und Belege zeigen die Beträge, die an Maeas Angestellte ausgezahlt wurden sowie ihre Ausgaben für Ale, Fisch und neues Leinen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2592,7 +2592,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
       <ID>609</ID>
       <DefaultText>"Geschätzter Mestre Verzano -
 
-Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so kann das von Ihren Methoden nicht behauptet werden. Die Ducs haben Sie schon einmal darum gebeten, die Geschäftsinteressen aller Republiken zu vertreten. Ein zweites Mal werden sie nicht darum bitten.
+Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so kann das von Ihren Methoden nicht behauptet werden. Die Ducs haben Sie schon einmal darum gebeten, die Geschäftsinteressen aller Republiken zu vertreten. Ein zweites Mal werden sie Sie nicht darum bitten.
 
 -Vicent Agosti"</DefaultText>
       <FemaleText />
@@ -2614,7 +2614,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>613</ID>
-      <DefaultText>Durch das Fenster kann man einen Blick auf die Bucht unter Ondras Geschenk werfen. Über den Wellenkämmen treiben Wolken und Seemöwen.</DefaultText>
+      <DefaultText>Durch das Fenster kann man einen Blick auf die Bucht unter Ondras Geschenk werfen. Über den Wellenkämmen lassen sich Wolken und Seemöwen treiben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2644,7 +2644,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>619</ID>
-      <DefaultText>Die runden Abdrücke auf den Laken passen in Größe und Form zu drei sitzenden Personen.</DefaultText>
+      <DefaultText>Die runden Abdrücke auf den Laken passen in Größe und Form zu drei sitzenden Gestandenen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2684,7 +2684,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>627</ID>
-      <DefaultText>An den Ziegeln und Planken haben sich Miesmuscheln festgesetzt, an deren scharfen Schalen man sich übel verletzten kann.</DefaultText>
+      <DefaultText>An den Ziegeln und Planken haben sich Miesmuscheln festgesetzt, an deren scharfen Schalen man sich ernsthaft verletzten kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2729,7 +2729,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>636</ID>
-      <DefaultText>Die hier sehen aus wie Fachskizzen engwithanischer Ruinen und Artefakten.</DefaultText>
+      <DefaultText>Das sieht aus wie Fachskizzen engwithanischer Ruinen und Artefakten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2789,7 +2789,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>648</ID>
-      <DefaultText>Das leuchtende Karminrot dieser Äpfel wird fast unnatürlich.</DefaultText>
+      <DefaultText>Das leuchtende Karminrot dieser Äpfel wirkt fast unnatürlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2809,7 +2809,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>652</ID>
-      <DefaultText>Die scharfsinnige Farbverwendung in diesem Panorama wird von der übergroßen Unterschrift entlang der Bildunterseite überschattet: "Abrecan Doemenel".</DefaultText>
+      <DefaultText>Die feinsinnige Farbverwendung in diesem Panorama wird von der übergroßen Unterschrift entlang der Bildunterseite überschattet: "Abrecan Doemenel".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2839,7 +2839,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>658</ID>
-      <DefaultText>Hier liegt blässlichgelber und tief bernsteinfarbener Whisky aus dem Dyrwald und dem Land der Lebenden nebeneinander.</DefaultText>
+      <DefaultText>Blässlichgelbe und tief bernsteinfarbene Whiskeysorten aus dem Dyrwald und dem Land der Lebenden liegen nebeneinander.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2854,7 +2854,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>661</ID>
-      <DefaultText>Aller Essenz entleert liegt der Adra-Apparat bewegungslos und ruhig da.</DefaultText>
+      <DefaultText>Aller Essenz entleert, verbleibt der Adra-Apparat bewegungslos und ruhig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2894,7 +2894,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>669</ID>
-      <DefaultText>"11. Tag: Sind endlich aus dem Turm hinausgekommen, um mal Luft zu schnappen. Die Kunden mögen von wilden Tieren erwischt werden - wir werden die Studie zu unseren eigenen Bedingungen beenden, nach unserem eigenen Zeitplan. Während ich dasselbe Trindig mitteilte, gab es grelles Streulicht am Himmel. Ich sagte, das wäre ein gutes Omen, aber der arme Kerl ist ganz verängstigt. Das einzige Heilmittel dagegen ist eine gute Mütze voll Schlaf."</DefaultText>
+      <DefaultText>"11. Tag: Sind endlich aus dem Turm hinausgekommen, um mal Luft zu schnappen. Die Bestien mögen unsere Kunden holen - wir werden die Studie zu unseren eigenen Bedingungen beenden, nach unserem eigenen Zeitplan. Während ich dasselbe Trindig mitteilte, gab es grelles Streulicht am Himmel. Ich sagte, dass das ein gutes Omen sei, aber der arme Kerl ist ganz verängstigt. Das einzige Heilmittel dagegen ist eine gute Mütze voll Schlaf."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2904,7 +2904,7 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>671</ID>
-      <DefaultText>Neben dem Gerät zu stehen fühlt sich an, wie von einer Sturmböe fortgeweht zu werden. Die Steinstufen summen nur vor Energie.</DefaultText>
+      <DefaultText>Neben dem Gerät zu stehen fühlt sich an, wie von einer Sturmböe fortgeweht zu werden. Die Steinstufen summen vor lauter Energie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2959,17 +2959,17 @@ Während Ihre Ambitionen jedem Sohn der Republiken gut zu Gesicht stünden, so k
     </Entry>
     <Entry>
       <ID>682</ID>
-      <DefaultText>Durch das Fenster auf der anderen Seite des Vorhangs sieht man auf die perfekt gepflegten Reihen eines Heckenlabyrinths hinab. </DefaultText>
+      <DefaultText>Durch das Fenster auf der anderen Seite des Vorhangs sieht man auf die perfekt gepflegten Reihen eines Heckenlabyrinths hinab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>683</ID>
-      <DefaultText>Die dicht gewebte Stahlwolle fühlt sich weich und warm an.</DefaultText>
+      <DefaultText>Die dicht gewebte Wyrwolle fühlt sich weich und warm an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>684</ID>
-      <DefaultText>Hinter dem Haus geht die Wildnis des Dyrwalds weiter. </DefaultText>
+      <DefaultText>Hinter dem Haus erstreckt sich die Wildnis des Dyrwalds.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2986,7 +2986,7 @@ Abrecan"</DefaultText>
       <ID>686</ID>
       <DefaultText>Auf einer neuen Flasche Wein ist eine Notiz befestigt:
 
-"Zu Ehren unseres neuen Bündnisses schicke ich Ihnen einen unserer besten Weine und meinen untauglichen Sohn. Auf eine erfolgreiche Zukunft!
+"Zu Ehren unseres neuen Bündnisses schicke ich Ihnen einen der besten Weine aus dem Keller meines untauglichen Sohn. Auf eine erfolgreiche Zukunft!
 
 Hochachtungsvoll,
 G. Doemenel"</DefaultText>
@@ -3003,7 +3003,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>688</ID>
-      <DefaultText>Zwischen den Brettern flitzen die grauen und braunen Pelze von Mäusen umher.</DefaultText>
+      <DefaultText>Zwischen den Brettern sieht man die grauen und braunen Pelze von Mäusen umherflitzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3033,7 +3033,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>694</ID>
-      <DefaultText>Es scheint gar so, als ob dieses wacklige alte Wrack nur von Spinnweben zusammengehalten wird.</DefaultText>
+      <DefaultText>Es scheint gar so, als ob dieses wacklige, alte Wrack nur von Spinnweben zusammengehalten wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3053,9 +3053,9 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>698</ID>
-      <DefaultText>Ein Roman über die glühende Affäre einer mutigen, jungen Beseelerin und einem schweigsamen glanfathanischen Muskelberg von Mann. Im Buchdeckel wurde eine Widmung geschrieben:
+      <DefaultText>Ein Roman über die glühende Affäre einer mutigen, jungen Beseelerin und einem schweigsamen, muskelbepackten Glanfatharianer. Im Buchdeckel steht eine Widmung:
 
-"Habe dieses Buch gefunden, als ich meine Bücherregale ausräumte, und musste an dich denken (also, natürlich nicht SO). Ich dachte, dass du auf deinen Reisen vielleicht etwas Zeit haben wirst, es zu lesen. Ein Freund hat mir gesagt, dass es gut sei. Ich selbst habe es noch gar nicht gelesen. Im Ernst.
+"Habe dieses Buch gefunden, als ich meine Bücherregale ausräumte, und musste an dich denken (also, natürlich nicht SO). Ich dachte, dass du auf deinen Reisen vielleicht etwas Zeit haben wirst, es zu lesen. Ein Freund hat mir gesagt, dass es gut sei. Ich selbst habe es noch gar nicht gelesen. Wirklich.
 
 -Nedyn"</DefaultText>
       <FemaleText />
@@ -3074,27 +3074,27 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>701</ID>
-      <DefaultText>"Mögen die Anhänger Magrans in ihren Prüfungen transformiert werden."</DefaultText>
+      <DefaultText>"Mögen die Getreuen Magrans durch ihre Prüfungen Umwandlung erfahren."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>702</ID>
-      <DefaultText>"Mögen die Anhänger Beraths in jedem Ende einen neuen Anfang finden."</DefaultText>
+      <DefaultText>"Mögen die Getreuen Beraths in jedem Ende einen neuen Anfang finden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>703</ID>
-      <DefaultText>"Möge Eothas' Licht einmal mehr auf seine Anhänger scheinen."</DefaultText>
+      <DefaultText>"Möge Eothas' Licht einmal mehr auf seine Getreuen scheinen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>704</ID>
-      <DefaultText>"Möge der Stille Sklave seine Anhänger leiten und ihre Ränke verbergen."</DefaultText>
+      <DefaultText>"Möge der Stille Sklave seine Getreuen leiten und ihre Ränke verbergen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>705</ID>
-      <DefaultText>"Geleitet von Fragen und erfüllt mit Antworten sind die Suchenden von Wael." </DefaultText>
+      <DefaultText>"Geleitet von Fragen und gespickt mit Antworten sind die Suchenden von Wael."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3104,7 +3104,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>707</ID>
-      <DefaultText>In den Schaukästen sind getrocknete Früchte, geräuchertes Fleisch und gemischte Nüsse einsortiert.</DefaultText>
+      <DefaultText>Getrocknete Früchte, geräuchertes Fleisch und gemischte Nüsse sind in den Schaukästen verteilt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3114,12 +3114,12 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>710</ID>
-      <DefaultText>Auf ineinander verschlungenen Ringen sind merkwürdige Symbole eingraviert. Sie gleiten mit einer Reihe leiser Klickgeräusche übereinander. </DefaultText>
+      <DefaultText>Auf ineinander verschlungenen Ringen sind merkwürdige Symbole eingraviert. Sie gleiten mit einer Folge leiser Klickgeräusche übereinander.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>711</ID>
-      <DefaultText>Dies sieht wie etwas aus einem aedyranischen Trinkspiel aus, bei dem mehrere Flaschen mit Wasser gefüllt sind - eine aber mit hochkonzentriertem Sonnread-Likör.</DefaultText>
+      <DefaultText>Dies sieht wie etwas aus einem aedyranischen Trinkspiel aus, bei dem mehrere Flaschen mit Wasser, eine aber mit hochkonzentriertem Sonnread-Likör gefüllt sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3144,9 +3144,9 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>716</ID>
-      <DefaultText>Ein grell-orangefarbenes Buch hebt sich vom Rest der Bücher ab. Der Titel auf dem Buchrücken lautet "Magrans Krieger". Auf der metbefleckten ersten Seiten steht eine Notiz:
+      <DefaultText>Ein grell-orangefarbener Einband hebt sich vom Rest der Bücher ab. Der Titel auf dem Buchrücken lautet "Magrans Krieger". Auf der metbefleckten ersten Seiten steht eine Notiz:
 
-"Dieses Werk nimmt es bei den Schlachtszenen nicht ganz so genau, aber es stellt eine gute Abhandlung über die Geschehnisse bei der Zitadelle von Halgot dar. Ein Freund von mir hat dieses Buch vor ein paar Jahren geschrieben, aber wegen dieses verdammten Archivars des Ducs konnte er kein einziges Exemplar verkaufen. Da sieht man mal, wie groß der Einfluss der Schmelztiegelritter ist.
+"Dieses Werk nimmt es bei den Schlachtszenen nicht ganz so genau, aber es stellt eine gute Abhandlung über die Geschehnisse bei der Zitadelle von Halgot dar. Ein Freund von mir schrieb dieses Buch vor ein paar Jahren, konnte aber nicht mal ein Exemplar an den dafür brennenden Archivar des Ducs verkaufen. Da sieht man mal, wie groß der Einfluss der Schmelztiegelritter ist.
 
 -Wenan"</DefaultText>
       <FemaleText />
@@ -3173,7 +3173,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>721</ID>
-      <DefaultText>Die Verstrebungen und Verstärkungen sind groß genug, um die Rippen und Wirbelsäule eines Drachen zu sein.</DefaultText>
+      <DefaultText>Die Verstrebungen und Verstärkungen sind groß genug, um Rippen und Wirbelsäule eines Drachen sein zu können.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3208,7 +3208,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>728</ID>
-      <DefaultText>Hinter die Bücher ist eine Zeichnung gezwängt, die Eothas und Fürst Raedric in einer kompromittierenden Stellung zeigt.</DefaultText>
+      <DefaultText>Hinter die Bücher ist eine Zeichnung gestopft, die Eothas und Fürst Raedric in einer kompromittierenden Stellung zeigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3303,12 +3303,12 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>748</ID>
-      <DefaultText>Die Fugen sind rostgesäumt. Das Emblem auf dem Brustharnisch ist ein Baum mit breiten, herzförmigen Blättern.</DefaultText>
+      <DefaultText>Die Fugen sind rostgesäumt. Das Emblem auf dem Brustharnisch stellt einen Baum mit breiten, herzförmigen Blättern dar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>749</ID>
-      <DefaultText>Unter dem Kopfkissen liegt ein hölzernes Medaillon, in das eine aufgehende Sonne und drei Sterne geschnitzt wurde. Es ist mit einem Lederriemen verbunden.</DefaultText>
+      <DefaultText>Unter dem Kopfkissen liegt ein hölzernes Medaillon, in das eine aufgehende Sonne und drei Sterne geschnitzt wurde. Es ist ein Lederriemen daran befestigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3323,7 +3323,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>752</ID>
-      <DefaultText>In staubigen alten Bestandsbüchern lassen sich die von Bauernhöfen in Goldtal gezahlten Steuern bis ins Jahr 2632 zurückverfolgen. </DefaultText>
+      <DefaultText>In staubigen, alten Bestandsbüchern lassen sich die von Bauernhöfen in Goldtal gezahlten Steuern bis ins Jahr 2632 zurückverfolgen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3383,7 +3383,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>764</ID>
-      <DefaultText>Die Bissspuren auf diesen Knochen scheinen von der Größe zu Menschen- oder Elfenzähnen zu passen.</DefaultText>
+      <DefaultText>Die Bissspuren auf diesen Knochen scheinen von der Größe her zu Menschen- oder Elfenzähnen zu passen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3398,7 +3398,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>767</ID>
-      <DefaultText>Im Fass schwappt mit winzigen Larven zuckendes Regenwasser.</DefaultText>
+      <DefaultText>Im Fass schwappt Regenwasser, in dem winzige Larven zucken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3423,12 +3423,12 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>772</ID>
-      <DefaultText>Feldmäuse sprengen auseinander und krabbeln zwischen die Zähne des Biests.</DefaultText>
+      <DefaultText>Feldmäuse sprengen auseinander und krabbeln zwischen die Zähne der Bestie.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>773</ID>
-      <DefaultText>In diesem Zelt ist überzähliges Bettzeug ausgelegt, aber sonst gibt es keine Hinweise auf Personen.</DefaultText>
+      <DefaultText>In diesem Zelt ist überzähliges Bettzeug ausgelegt, aber sonst gibt es keine Hinweise auf Gestandene.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3498,7 +3498,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>787</ID>
-      <DefaultText>Unter dem Schlag dieses Bettzeugs wurde eine Art Reliquie versteckt - ein mit Seetang überzogenes Muschelhorn. </DefaultText>
+      <DefaultText>Unter dem Schlag dieses Bettzeugs wurde eine Art Reliquie versteckt - ein mit Seetang überzogenes Muschelhorn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3618,7 +3618,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>813</ID>
-      <DefaultText>Die getrockneten Kräuter zerbröseln zwischen deinen Fingern und geben einen süßen Blumenduft ab.</DefaultText>
+      <DefaultText>Die getrockneten Kräuter zerbröseln zwischen deinen Fingern und versprühen einen süßen Duft nach Blumen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3653,12 +3653,12 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>821</ID>
-      <DefaultText>Jahrelanger Gebrauch haben diesen Tisch verkratzt und verschmutzt.</DefaultText>
+      <DefaultText>Jahrelanger Gebrauch hat diesen Tisch verkratzt und verschmutzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>822</ID>
-      <DefaultText>Diese Kisten enthalten die wenigen unerlässlichen Bedarfsgegenstände einer glanfathanischen Reisegruppe - Felle und Decke, robuste Lederkleidung und geschnitzten Adra als Geschenke.</DefaultText>
+      <DefaultText>Diese Kisten enthalten die wenigen unerlässlichen Bedarfsgegenstände einer glanfathanischen Reisegruppe - Felle und Decken, robuste Lederkleidung und Geschenke aus geschnitztem Adra.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3708,7 +3708,7 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>832</ID>
-      <DefaultText>Die Stadt erstreckt sich so weit wie das Auge sehen kann.</DefaultText>
+      <DefaultText>Die Stadt erstreckt sich so weit, wie das Auge sehen kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3733,20 +3733,20 @@ G. Doemenel"</DefaultText>
     </Entry>
     <Entry>
       <ID>838</ID>
-      <DefaultText>Östlich von Raedrics Festung
-Westlich von Goldtal</DefaultText>
+      <DefaultText>Zu Raedrics Festung im Osten
+Nach Goldtal im Westen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>839</ID>
-      <DefaultText>Östlich vom Salzigen Mast
-Südlich der Docks</DefaultText>
+      <DefaultText>Zum Salzigen Mast im Osten
+Zu den Docks im Süden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>840</ID>
-      <DefaultText>Nord nach Urfeuer
-Süd nach Salzigen Mast</DefaultText>
+      <DefaultText>Nach Urfeuer im Norden
+Zum Salzigen Mast im Süden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3781,7 +3781,7 @@ Süd nach Salzigen Mast</DefaultText>
     </Entry>
     <Entry>
       <ID>847</ID>
-      <DefaultText>Die Wolken über den Klippen der Nordlandschaft spiegeln sich auf der irisierenden Oberfläche dieser Adra-Säule.</DefaultText>
+      <DefaultText>Die Wolken über den Klippen der Nordlandschaft spiegeln sich auf der schimmernden Oberfläche dieser Adra-Säule.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3876,7 +3876,7 @@ Süd nach Salzigen Mast</DefaultText>
     </Entry>
     <Entry>
       <ID>866</ID>
-      <DefaultText>Eine Adra-Scheibe ist in eine flache Vertiefung im Stein gequetscht. Runen blitzen auf ihrer Oberfläche.</DefaultText>
+      <DefaultText>Eine Adra-Scheibe ist in eine flache Vertiefung im Stein verkeilt. Runen blitzen auf ihrer Oberfläche.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3885,8 +3885,13 @@ Süd nach Salzigen Mast</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>886</ID>
-      <DefaultText />
+    <ID>890</ID>
+      <DefaultText>[TEMP] Heilige Scheiße, es ist ein echt gutaussehender Drachenschädel. Die Ssnowgres haben einen wirklich wunderbaren Geschmack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>891</ID>
+      <DefaultText>[TEMP] Das ist ein Kristall, der einem Phallus ähnelt.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

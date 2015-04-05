@@ -2,11 +2,11 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\loadingtips</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>84</EntryCount>
+  <EntryCount>88</EntryCount>
   <Entries>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Pillars of Eternity wurde durch die Beiträge von mehr als 74000 Fans ermöglicht. Wir von Obsidian möchten allen für ihr Feedback, ihre Unterstützung und die Gelegenheit zur Schaffung dieses Spiel danken.</DefaultText>
+      <DefaultText>Pillars of Eternity wurde durch die Beiträge von mehr als 77000 Fans ermöglicht. Wir von Obsidian möchten allen für ihr Feedback, ihre Unterstützung und die Gelegenheit zur Schaffung dieses Spiel danken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -422,6 +422,26 @@
     <Entry>
       <ID>89</ID>
       <DefaultText>Wenn du die Försterhütte bei deiner Festung baust, erhältst du Zugang zu zahlreichen Kopfgeldaufträgen. Kopfgeld-Quests sind herausfordernde Kampfbegegungen, die wertvolle Belohnungen einbringen kann, darunter auch einzigartige Gegenstände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Per Shift-Klick auf einen Gegenstand in einem Behälter verschiebst du diesen direkt in dein Lager.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Das untere Schlafzimmer ist frei, wenn du es benötigst."</DefaultText>
+      <DefaultText>"Das untere Schlafzimmer kannst du benutzen, wenn du willst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Der junge Meister scheint höchst zufrieden mit dir zu sein, wie mir scheint."</DefaultText>
+      <DefaultText>"Der junge Herr scheint höchst zufrieden mit dir zu sein, wie mir scheint."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Was es auch ist, es hat nichts mit mir zu tun. Du musst mit dem jungen Meister Abrecan sprechen."</DefaultText>
+      <DefaultText>"Was es auch ist, es hat nichts mit mir zu tun. Du musst mit dem jungen Herr Abrecan sprechen."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

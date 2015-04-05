@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ich habe Serel gesagt, dass ich nicht zulasse, dass sie es verkauft. Wenn du deswegen hier bist, dann spar dir die Mühe." Er bläht den Brustkorb auf, aber blickt zum Ausgang.</DefaultText>
+      <DefaultText>"Ich habe Serel gesagt, dass ich nicht zulasse, dass sie es verkauft. Wenn du deswegen hier bist, dann spar dir die Mühe." Er bläht den Brustkorb auf, blickt jedoch zum Ausgang.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,12 +31,12 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Serel ist eine Kurtisane im Salzigen Mast in Ondras Geschenk. Wir arbeiten nun seit über einem Jahr zusammen. Ich finde einen Adligen mit mehr Geld als Verstand, fülle ihn mit Schnaps ab und schicke ihn zu ihr. Sie amüsieren sich und Serel nimmt ihren Lohn ... und noch ein wenig mehr."</DefaultText>
+      <DefaultText>"Serel ist eine Kurtisane im Salzigen Mast in Ondras Geschenk. Wir arbeiten nun seit über einem Jahr zusammen. Ich finde einen Adligen mit mehr Geld als Verstand, fülle ihn mit Schnaps ab und schicke ihn zu ihr. Sie amüsieren sich und Serel nimmt sich ihren Lohn ... und noch ein wenig mehr."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Er reibt die Finger zusammen. "Hundert Kupferstücke hier, ein kleines Schmuckstück da. Für uns ist das viel Geld, und diese Fürsten und Fürstinnen merken nie, dass etwas fehlt."</DefaultText>
+      <DefaultText>Er reibt die Finger zusammen. "Hundert Kupferstücke hier, ein kleines Schmuckstück da. Für uns ist das viel Geld und diese Fürsten und Fürstinnen merken nie, dass etwas fehlt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -445,10 +445,10 @@
       <ID>105</ID>
       <DefaultText>"Ich wusste es schon, als du hereinkommst. Du bist nichts als ein Schläger."
 
-Er sieht dich vorsichtig an. "Sag ihr, sie soll es alles genießen, ein großes Haus, edle Gewänder und so viele Ringe, wie sie auf ihre zierlichen Finger kriegt ... während mein Clan verhungert." Er zieht sich den Umhang enger um die Schultern. "Eines Tages erinnert sie hoffentlich jemand an ihre einfache Herkunft." Er stürmt davon, sein feiner Umhang schleift auf dem Boden.</DefaultText>
+Er sieht dich vorsichtig an. "Sag ihr, sie soll alles genießen, ein großes Haus, edle Gewänder und so viele Ringe, wie sie auf ihre zierlichen Finger kriegt ... während mein Clan verhungert." Er zieht sich den Umhang enger um die Schultern. "Eines Tages erinnert sie hoffentlich jemand an ihre einfache Herkunft." Er stürmt davon, sein feiner Umhang schleift auf dem Boden.</DefaultText>
       <FemaleText>"Ich wusste es schon, als du hereinkommst. Du bist nichts als eine Schlägerin."
 
-Er sieht dich vorsichtig an. "Sag ihr, sie soll es alles genießen, ein großes Haus, edle Gewänder und so viele Ringe, wie sie auf ihre zierlichen Finger kriegt ... während mein Clan verhungert." Er zieht sich den Umhang enger um die Schultern. "Eines Tages erinnert sie hoffentlich jemand an ihre einfache Herkunft." Er stürmt davon, sein feiner Umhang schleift auf dem Boden.</FemaleText>
+Er sieht dich vorsichtig an. "Sag ihr, sie soll alles genießen, ein großes Haus, edle Gewänder und so viele Ringe, wie sie auf ihre zierlichen Finger kriegt ... während mein Clan verhungert." Er zieht sich den Umhang enger um die Schultern. "Eines Tages erinnert sie hoffentlich jemand an ihre einfache Herkunft." Er stürmt davon, sein feiner Umhang schleift auf dem Boden.</FemaleText>
     </Entry>
     <Entry>
       <ID>106</ID>
@@ -456,7 +456,7 @@ Er sieht dich vorsichtig an. "Sag ihr, sie soll es alles genießen, ein großes 
 
 Er sieht dich vorsichtig an. "Um deinetwillen wünschte ich fast, du wärest aus dem Dyrwald. Dann wüsstest du, was du eben für einen Fehler begangen hast. Wir Glanfathaner haben ein langes Gedächtnis. Unsere Nachbaren haben das erst nach zwei Kriegen verstanden."
 
-"Dann behalt es. Aber wir werden es nicht vergessen. Und eines Tages kommen wir zurück, um es uns zu holen." Er stürmt davon, sein feiner Umhang schleift auf dem Boden.</DefaultText>
+"Dann behalte es. Aber wir werden es nicht vergessen. Und eines Tages kommen wir zurück, um es uns zu holen." Er stürmt davon, sein feiner Umhang schleift auf dem Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,8 +466,8 @@ Er sieht dich vorsichtig an. "Um deinetwillen wünschte ich fast, du wärest aus
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Ich habe Serel gesagt, dass ich nicht zulasse, dass sie es verkauft. Ich weiche nicht zurück, auch nicht vor einem Schläger wie dir." Er bläht den Brustkorb auf, aber blickt zum Ausgang.</DefaultText>
-      <FemaleText>"Ich habe Serel gesagt, dass ich nicht zulasse, dass sie es verkauft. Ich weiche nicht zurück, auch nicht vor einer Schlägerin wie dir." Er bläht den Brustkorb auf, aber blickt zum Ausgang.</FemaleText>
+      <DefaultText>"Ich habe Serel gesagt, dass ich nicht zulasse, dass sie es verkauft. Ich weiche nicht zurück, auch nicht vor einem Schläger wie dir." Er bläht den Brustkorb auf, blickt aber zum Ausgang.</DefaultText>
+      <FemaleText>"Ich habe Serel gesagt, dass ich nicht zulasse, dass sie es verkauft. Ich weiche nicht zurück, auch nicht vor einer Schlägerin wie dir." Er bläht den Brustkorb auf, blickt aber zum Ausgang.</FemaleText>
     </Entry>
     <Entry>
       <ID>110</ID>
@@ -491,7 +491,7 @@ Er sieht dich vorsichtig an. "Um deinetwillen wünschte ich fast, du wärest aus
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Es ist unsere Pflicht, die Erbauer zu beschützen. Wir legen Relikte und Reichtümer nicht auf eine Waage und wägen sie gegeneinander ab. Die Suche nach dem Medaillon aufzugeben bedeutet, seine Art zu leben aufzugeben."</DefaultText>
+      <DefaultText>"Es ist unsere Pflicht, die Erbauer zu beschützen. Wir legen Relikte und Reichtümer nicht auf eine Waage und wiegen sie gegeneinander auf. Die Suche nach dem Medaillon aufzugeben bedeutet, seine Art zu leben aufzugeben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

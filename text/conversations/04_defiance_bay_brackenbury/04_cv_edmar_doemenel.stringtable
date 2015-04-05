@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Du sollst meine Bedingungen kennen, bevor wir fortfahren." Er hält inne, um sicherzugehen, dass er deine ungeteilte Aufmerksamkeit hat. "Du hast meinem Haus bisher gut gedient. Jemand mit deinen Fähigkeiten ist im Hause Doemenel immer gefragt. Was ich von dir erfordere, wird sowohl gefährlich als auch illegal sein, wie du gewiss schon ahnst."</DefaultText>
+      <DefaultText>"Du sollst meine Bedingungen kennen, bevor wir fortfahren." Er hält inne, um sicherzugehen, dass er deine ungeteilte Aufmerksamkeit hat. "Du hast meinem Haus bisher gut gedient. Jemand mit deinen Fähigkeiten ist im Hause Doemenel immer gefragt. Was ich von dir einfordere, wird sowohl gefährlich als auch illegal sein, wie du gewiss schon ahnst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -50,7 +50,7 @@
       <ID>17</ID>
       <DefaultText>"Marschall Wenfeld ist zu einem Problem geworden. Er legt ein allzu großes Interesse an einigen Geschäften des Hauses Doemenel an den Tag."
 
-"Er lässt sich weder bestechen, noch bedrohen, noch auf anderem Wege überzeugen. Er ist unverbesserlich. Ein Unkraut. Und wenn nichts unternehmen wird, wird er die geballte Macht der Schmelztiegelritter gegen uns richten."</DefaultText>
+"Er lässt sich weder bestechen, noch bedrohen, noch auf anderem Wege überzeugen. Er ist unverbesserlich. Ein Unkraut. Und wenn nichts unternommen wird, wird er die geballte Macht der Schmelztiegelritter gegen uns richten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -74,12 +74,12 @@
       <ID>24</ID>
       <DefaultText>Er fängt an, hinter seinem Schreibtisch auf- und abzugehen. "Wenn du versagst, bist du als Feind des Hausees Doemenel gebrandmarkt - und vieler anderer mächtiger Bürger von Trutzbucht." Lautlos überquert er den samtenen Teppich.
 
-"Die Gemüter in der Stadt sind erhitzt, und viele fühlen sich schnell bedroht."</DefaultText>
+"Die Gemüter in der Stadt sind erhitzt und viele fühlen sich schnell bedroht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Du musst diese Aufgabe annehmen, ohne zuvor die Details zu kennen. Ich erwarte von jemandem, der die Gunst meines Hauses wünscht, absolute Loyalität." Er beobachtet dein Gesicht. "Wenn das zu viel verlangt ist, dann zieh dich zurück, jetzt."</DefaultText>
+      <DefaultText>"Du musst diese Aufgabe annehmen, ohne zuvor die Details zu kennen. Ich erwarte von jemandem, der die Gunst meines Hauses wünscht, absolute Loyalität." Er beobachtet dein Gesicht. "Wenn das zu viel verlangt ist, dann ist jetzt der richtige Zeitpunkt, um sich zurückzuziehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,7 +208,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Gedmar widmet seine Aufmerksamkeit wieder seinem Schreibtisch. "Verzeih, aber ich bin beschäftigt. Du findest gewiss allein hinaus?"</DefaultText>
+      <DefaultText>Gedmar widmet seine Aufmerksamkeit wieder seinem Schreibtisch. "Verzeih, aber ich bin beschäftigt. Du findest gewiss allein hinaus."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -218,7 +218,7 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Ich erfordere einen Gefallen."</DefaultText>
+      <DefaultText>"Ich fordere einen Gefallen ein."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -273,7 +273,7 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Es wird vollbracht werden."</DefaultText>
+      <DefaultText>"Es wird getan werden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -308,7 +308,7 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Fürst Doemenel nickt anerkennend. "Gut gemacht, Meine Kontakte in der Stadt berichten bereits von gewalttätigen Auseinandersetzungen zwischen den Schmelztiegelrittern und den Dutzenden. Während sie einander ablenken, nutzen wir neue Gelegenheiten, um unseren Reichtum und unsere Macht zu mehren. Niemand wird uns beobachten, und niemand wird uns aufhalten."</DefaultText>
+      <DefaultText>Fürst Doemenel nickt anerkennend. "Gut gemacht, Meine Kontakte in der Stadt berichten bereits von gewalttätigen Auseinandersetzungen zwischen den Schmelztiegelrittern und den Dutzenden. Während sie einander ablenken, nutzen wir neue Gelegenheiten, um unseren Reichtum und unsere Macht zu mehren. Niemand wird uns beobachten und niemand wird uns aufhalten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,7 +466,7 @@ Er nickt dir langsam zu. "Du wirst dich noch freuen, die siegreiche Seite gewäh
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Mein Sohn hat erwähnt, dass du eine Einladung zu den Anhörungen im Palast benötigst. Ich kann sie dir beschaffen, und dich in meinem Haus aufsteigen lassen, wenn du mir gute Dienste leistest."</DefaultText>
+      <DefaultText>"Mein Sohn hat erwähnt, dass du eine Einladung zu den Anhörungen im Palast benötigst. Ich kann sie dir beschaffen und dich in meinem Haus aufsteigen lassen, wenn du mir gute Dienste leistest."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

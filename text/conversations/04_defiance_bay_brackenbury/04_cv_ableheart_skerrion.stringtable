@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Willst du den Auftritt sehen oder etwas trinken?"</DefaultText>
+      <DefaultText>"Willst du die Vorstellung sehen oder etwas trinken?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,14 +46,14 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Das ist meine Rente." Er klopft auf den Tresen. "Als in Farnheim noch mehr Schiffe angelegt haben, war das hier ein Lagerhaus. Dann wurde die ganze Gegend nach und nach zu Wohnungen und das Haus hier verfiel. Ich habe es von irgendeinem Großonkel geerbt, nachdem meine Cousins es nicht wollten."</DefaultText>
+      <DefaultText>"Das ist meine Rente." Er klopft auf den Tresen. "Als in Farnheim noch mehr Schiffe angelegt haben, war das hier ein Lagerhaus. Als dann das ganze Viertel nach und nach zu einer Wohngegend wurde, wurde es geschlossen. Ich habe es von irgendeinem Großonkel geerbt, nachdem er es nicht geschafft hatte, es an meine Cousins zu verpfänden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>"Ich war jahrzehntelang Kartograph für den Duc." Er reibt sich die stoppeligen Wangen. "Habe die Weißmark ein halbes Dutzend Mal durchquert und fast alle Ruinen im Theinsumpf kartografiert."
 
-Er grinst, ein Goldzahn blitzt auf. "Eine gute Arbeit, aber eine für jüngere Männer. Als ich endgültig nach Trutzbucht kam, halfen Clyver und ein paar andere Freunde bei den Rittern mir dabei, die Schankerlaubnis für ein Gasthaus zu bekommen."</DefaultText>
+Er grinst, wobei ein Goldzahn aufblitzt. "Eine gute Arbeit, aber eine für jüngere Männer. Als ich endgültig nach Trutzbucht kam, halfen Clyver und ein paar andere Freunde bei den Rittern mir dabei, die Schankerlaubnis für ein Gasthaus zu bekommen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -63,7 +63,7 @@ Er grinst, ein Goldzahn blitzt auf. "Eine gute Arbeit, aber eine für jüngere M
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Heute ist es der beliebteste Laden in ganz Farnheim. Die Adligen kommen, um sich zu entspannen, und die Gestandenen, um sich unter die Leute zu mischen." Er beugt sich etwas näher heran. "Wir haben auch einige recht raue Besucher, aber hier drin benehmen sie sich. Außerdem ist ihr Geld ebenso gut wie das von jedem anderen."</DefaultText>
+      <DefaultText>"Heute ist es der beliebteste Laden in ganz Farnheim. Die Adligen kommen, um sich zu entspannen, und die Gestandenen aus anderen Vierteln, um sich unter die Leute zu mischen." Er beugt sich etwas näher heran. "Wir haben auch einige eher derbe Kunden, aber hier drin benehmen sie sich. Außerdem ist ihr Geld ebenso gut wie das von jedem anderen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

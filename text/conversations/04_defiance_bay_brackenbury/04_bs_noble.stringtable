@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Auch, wenn du vielleicht etwas Anderes gehört hast - im Sanatorium geht nichts Ungewöhnliches vor sich."</DefaultText>
+      <DefaultText>"Auch wenn du vielleicht etwas Anderes gehört hast, geht im Sanatorium nichts Ungewöhnliches vor sich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Das Haus Doemenel hat einen dunklen Ruf, aber sie sind gute Nachbarn."</DefaultText>
+      <DefaultText>"Das Haus Doemenel hat einen zwiespältigen Ruf, aber sie sind gute Nachbarn."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Suchst du nach einer Anstellung in Farnheim? Dazu ist eine besondere Ausbildung nötig."</DefaultText>
+      <DefaultText>"Suchst du nach einer Anstellung in Farnheim? Dafür brauchst du eine entsprechende Ausbildung."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

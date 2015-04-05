@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich gehöre zwar zum Adel von Farnheim, aber bitte, urteile nicht zu streng über mich." Er lacht. "Meine Vorfahren waren zu Zeiten von Duc Hadret erfolgreiche Händler, und ich habe die Ehre, für die heutige Verwaltung philanthropische Werke zu verrichten. Ich verbringe viel Zeit hier draußen, um meinesgleichen zu überzeugen, mehr für wohltätige Zwecke zu tun und zu geben, doch die meisten von ihnen kommen nur nach Ondras Geschenk, um dieses Bordell aufzusuchen."</DefaultText>
+      <DefaultText>"Ich gehöre zwar zum Adel von Farnheim, aber bitte, urteile nicht zu streng über mich." Er lacht. "Meine Vorfahren waren zu Zeiten von Duc Hadret erfolgreiche Händler und ich habe die Ehre, für die heutige Verwaltung philanthropische Werke zu verrichten. Ich verbringe viel Zeit hier draußen, um meinesgleichen zu überzeugen, mehr für wohltätige Zwecke zu tun und zu geben, doch die meisten von ihnen kommen nur nach Ondras Geschenk, um dieses Bordell aufzusuchen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Er hält inne. Als er wieder spricht, klingt seine Stimme trocken und gebrochen. "Es ist eine Krankheit. Das Böse verdirbt meine Seele. Ich habe alles Versucht, aber Lumdalas Aufführungen beruhigen mich, wie es die Behandlungen im Sanatorium niemals können."</DefaultText>
+      <DefaultText>Er hält inne. Als er wieder spricht, klingt seine Stimme trocken und gebrochen. "Es ist eine Krankheit. Das Böse verdirbt meine Seele. Ich habe alles versucht, aber Lumdalas Aufführungen beruhigen mich, wie es die Behandlungen im Sanatorium niemals können."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -148,7 +148,7 @@ Kaum hat er ihn hinteruntergeschluckt, stürzt er nach vorne und umklammert sein
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Bei der Flamme, ich danke dir." Er atmet lang aus, erschöpft, und wischt sich die Stirn. "Hier, nimm das, nur falls es Schwierigkeiten gibt." Er gibt dir einen Beutel mit Kupfermünzen.</DefaultText>
+      <DefaultText>"Bei der Flamme, ich danke dir." Er atmet lang aus, erschöpft, und wischt sich die Stirn ab. "Hier, nimm das, nur falls es Schwierigkeiten gibt." Er gibt dir einen Beutel mit Kupfermünzen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

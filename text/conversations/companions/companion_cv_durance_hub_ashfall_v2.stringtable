@@ -80,7 +80,7 @@ Er hält inne. "Ich hatte sie schon mal Kathedrale genannt. Das ist aber nicht d
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Naja, also ... " Durance kratzt sich mit einer Hand an einer Pockennarbe an seiner Wange, obwohl seine andere Hand weiterhin fest den Stab umklammert. "Das war vor vielen Jahrzehnten. Das Feuer wallte durch die Wälder und trieb flammende Ernte ein, ein Zeichen Magrans ... "</DefaultText>
+      <DefaultText>"Naja, also ..." Durance kratzt sich mit einer Hand an einer Pockennarbe an seiner Wange, obwohl seine andere Hand weiterhin fest den Stab umklammert. "Das war vor vielen Jahrzehnten. Das Feuer wallte durch die Wälder und trieb flammende Ernte ein, ein Zeichen Magrans ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,7 +121,7 @@ Durance' Augen wandern zu seinem aschgrauen Stab und studieren die Einkerbungen.
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Erzählungen, Erinnerungen. Etwas zum Nachdenken, Andachten, die ich mit meinem Verstand umfassen kann, wenn mich das Singen von Wörtern ermüdet." Er grunzt. "Gesänge verlieren ihre Stärke, aber mit eigenen Fingern ins Holz geschnitzte, vom Feuer gesegnete Symbole ... "</DefaultText>
+      <DefaultText>"Erzählungen, Erinnerungen. Etwas zum Nachdenken, Andachten, die ich mit meinem Verstand umfassen kann, wenn mich das Singen von Wörtern ermüdet." Er grunzt. "Gesänge verlieren ihre Stärke, aber mit eigenen Fingern ins Holz geschnitzte, vom Feuer gesegnete Symbole ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -163,21 +163,21 @@ Durance schließt einen Moment die Augen, als ob er nachdenken würde. "Manche K
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Durance öffnet die Augen und starrt dich an. "Weil ein Zuhause ein verworrenes Durcheinander von Enttäuschungen ist, deshalb. Wächter, mach niemals einen Ort zu deinem Zuhause, lass mir dir diesen Rat geben - bleib unterwegs. Ein Zuhause ist wie ein Fluch - es wird dich umbringen, damit du bleibst ... "</DefaultText>
+      <DefaultText>Durance öffnet die Augen und starrt dich an. "Weil ein Zuhause ein verworrenes Durcheinander von Enttäuschungen ist, deshalb. Wächter, mach niemals einen Ort zu deinem Zuhause, lass mir dir diesen Rat geben - bleib unterwegs. Ein Zuhause ist wie ein Fluch - es wird dich umbringen, damit du bleibst ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>Du bemerkst, dass Edér zugehört hat. Er murmelt leise vor sich hin:
 
-"Bin mir nicht so sicher, ob das Problem eine Kathedrale in seinem Kopf oder Fledermäuse in seinem Glockenturm ist ... "
+"Bin mir nicht so sicher, ob das Problem eine Kathedrale in seinem Kopf oder Fledermäuse in seinem Glockenturm ist ..."
 
 "Trotzdem bin ich traurig, dass ich die Feier verpasst habe, die sie kurz nach meiner Abreise geschmissen haben müssen. DAS nämlich ist wahrlich eine Enttäuschung."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>" ... und der Moment, in dem dein Fuß aus der Tür schreitet? Der wird sich niemals mehr mit der Kathedrale in deinem Kopf messen lassen." Durance grunzt, seine Hand umklammert den Stab.</DefaultText>
+      <DefaultText>"... und der Moment, in dem dein Fuß aus der Tür schreitet? Der wird sich niemals mehr mit der Kathedrale in deinem Kopf messen lassen." Durance grunzt, seine Hand umklammert den Stab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -229,8 +229,8 @@ Einen Augenblick später schüttelt er den Kopf und runzelt irritiert die Stirn.
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Oh, tatsächlich." Durance runzelt die Stirn und legt dann verachtend seine Lippen in Falten. "Wenn du mehr als nur neugierig bist, dann ergötze dich an dem bisschen Wärme und Behagen, dass du die Symbole sehen kannst ... " Er runzelt die Stirn. "Wächter, das allein ist jetzt genug für deine Augen."</DefaultText>
-      <FemaleText>"Oh, tatsächlich." Durance runzelt die Stirn und legt dann verachtend seine Lippen in Falten. "Wenn du mehr als nur neugierig bist, dann ergötze dich an dem bisschen Wärme und Behagen, dass du die Symbole sehen kannst ... " Er runzelt die Stirn. "Wächterin, das allein ist jetzt genug für deine Augen."</FemaleText>
+      <DefaultText>"Oh, tatsächlich." Durance runzelt die Stirn und legt dann verachtend seine Lippen in Falten. "Wenn du mehr als nur neugierig bist, dann ergötze dich an dem bisschen Wärme und Behagen, dass du die Symbole sehen kannst ..." Er runzelt die Stirn. "Wächter, das allein ist jetzt genug für deine Augen."</DefaultText>
+      <FemaleText>"Oh, tatsächlich." Durance runzelt die Stirn und legt dann verachtend seine Lippen in Falten. "Wenn du mehr als nur neugierig bist, dann ergötze dich an dem bisschen Wärme und Behagen, dass du die Symbole sehen kannst ..." Er runzelt die Stirn. "Wächterin, das allein ist jetzt genug für deine Augen."</FemaleText>
     </Entry>
     <Entry>
       <ID>49</ID>
@@ -347,9 +347,9 @@ Er wendet den Stab in seinen Händen. "Aber ... in Wirklichkeit kommt das Holz a
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Mit der Flamme soll symbolisiert werden, einem anderen Bestrafung zu bringen ... "
+      <DefaultText>"Mit der Flamme soll symbolisiert werden, einem anderen Bestrafung zu bringen ..."
 
-" ... und sie wird über das Symbol desjenigen eingetragen, den es zu bestrafen gilt, was ihn als stets von Magran Berührten kennzeichnet."</DefaultText>
+"... und sie wird über das Symbol desjenigen eingetragen, den es zu bestrafen gilt, was ihn als stets von Magran Berührten kennzeichnet."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -27,7 +27,7 @@
     <Entry>
       <ID>5</ID>
       <DefaultText>"Nur zweihundert Kupferstücke für den Held von Ondras Geschenk."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Nur zweihundert Kupferstücke für die Heldin von Ondras Geschenk."</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich stamme aus dem Dyrwald und bin versiert in den feinen Künsten. Wenn du nach Gewandtheit und Raffinesse suchst, dann bist du am Ziel." Er wickelt seine schlanken Finger um einen Weinbecher.</DefaultText>
+      <DefaultText>"Ich stamme aus dem Dyrwald und bin versiert in den feinen Künsten. Solltest du nach Gewandtheit und Raffinesse suchen, dann bist du am Ziel." Er wickelt seine schlanken Finger um einen Weinbecher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -77,7 +77,7 @@
     <Entry>
       <ID>16</ID>
       <DefaultText>"Nur vierhundert Kupferstücke für den Held von Ondras Geschenk."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Nur vierhundert Kupferstücke für die Heldin von Ondras Geschenk."</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Er schließt seine Augen und seufzt. "Weißt du, ich überlege, ob ich aus der Stadt weggehe. Mich irgendwo auf dem Land niederlasse." Er hebt eine Augenbraue. "Wenn ich ein sicheres Zuhause hätte, könnten wir uns vielleicht häufiger sehen."</DefaultText>
+      <DefaultText>Er schließt seine Augen und seufzt. "Weißt du, ich überlege, ob ich aus der Stadt weggehe. Irgendwo auf dem Land einen Laden eröffne." Er hebt eine Augenbraue. "Wenn ich eine sichere Bleibe hätte, könnten wir uns vielleicht häufiger sehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

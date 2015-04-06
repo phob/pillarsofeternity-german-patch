@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Finde einen Typen, der dir gefällt und wackle mit deinem Münzbeutel da. Das sollte reichen."</DefaultText>
+      <DefaultText>"Finde einen Burschen, der dir gefällt und wackle mit deinem Münzbeutel da. Das sollte reichen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Ach verdammt, Mädchen, wenn du dich nicht entscheiden kannst, dann gib mir deine Kupferstücke und ich werde für dich etwas Spaß haben."</DefaultText>
+      <DefaultText>"Ach verdammt, Mädchen, wenn du dich nicht entscheiden kannst, dann gib mir deine Kupferstücke und ich werde an deiner Stelle ein wenig Spaß haben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Das hast du auch schon gesagt, als wir das letzte Mal hier waren. Ich will nicht noch ne Woche hören, dass du dich in deinen Unterhosen wundreibst."</DefaultText>
+      <DefaultText>"Das hast du auch schon gesagt, als wir das letzte Mal hier waren. Ich will mir nicht noch mal eine Woche anhören müssen, dass du dich in deinen Unterhosen wundreibst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,17 +51,17 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Und das hoffe ich auch inständig."</DefaultText>
+      <DefaultText>"Das will ich doch hoffen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Was hast du über die, äh, Kunden hier gehört?"</DefaultText>
+      <DefaultText>"Was hast du über die, äh, Möglichkeiten hier gehört?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ich weiß aus verlässlicher Quelle, dass dieser Orlaner ... "</DefaultText>
+      <DefaultText>"Ich weiß aus verlässlicher Quelle, dass dieser orlanische Bursche ... "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Du weißt, was sich die Leute sagen: Ganz oder gar nicht."</DefaultText>
+      <DefaultText>"Du weißt, wie es heißt: Ganz oder gar nicht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ja, aber erst noch was zum trinken ... "</DefaultText>
+      <DefaultText>"Ja, aber erst brauche ich noch mal was zum Trinken... "</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

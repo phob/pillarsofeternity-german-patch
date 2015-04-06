@@ -3,9 +3,6 @@
 Details for the Patch:
 http://www.nexusmods.com/pillarsofeternity/mods/6/?
 
-**Make a release-zip:**
-* `git archive -o ../latest.zip master $(git diff --name-only master..release1.0.3.0526)`
-
 **Important:**
 If you want to fork this project and make pull requests, use at least a proper git-client.
 The webinterface has this behaviour that it adds an empty newline at the end of each file and normally this is a very good feature but obsidian decided to just ignore the xml/file standards and have no empty lastline and therefor we want to be as near on the original files as possible and the newly added lastline by the webinterface isn't what we want. So please use a proper git-client.

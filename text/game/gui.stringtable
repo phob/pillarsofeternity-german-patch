@@ -8262,12 +8262,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1649</ID>
-      <DefaultText>Falle entschärft! {0} Schwierigkeit - {1} EP gesammelt.</DefaultText>
+      <DefaultText>Falle entschärft! Schwierigkeit {0} dafür {1} EP gesammelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1650</ID>
-      <DefaultText>Schloss geknackt! {0} Schwierigkeit - {1} EP gesammelt.</DefaultText>
+      <DefaultText>Schloss geknackt! Schwierigkeit {0} dafür {1} EP gesammelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9054,7 +9054,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1808</ID>
-      <DefaultText>Alle nehmen</DefaultText>
+      <DefaultText>Alles mitnehmen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

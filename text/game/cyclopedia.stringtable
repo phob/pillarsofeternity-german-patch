@@ -299,9 +299,9 @@ Feuchtsporen zehren zuerst von den verdorbensten und zersplitterten Energien ein
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Diese schlaksigen Riesen sind doppelt so groß wie ein durchschnittlicher Mensch. Ihre Körper sind mit riesigen Pilzflechten überzeugen, aus denen eine übelriechende, eiterähnliche Flüssigkeit läuft. Ihre übergroßen Arme und Beine enden in riesigen Klauen, mit denen sie einen Mann entzwei reißen können. Von ihrem übergroßen Kopf hängen Dutzende schleimige Tentakel locker herab, und ihre riesigen Mäuler sind voller gezackter, rasiermesserscharfer Zähne. Trolle haben ein langes Gesicht, Kinn und Nase sowie wirres, drahtiges und pilzverseuchtes Haar auf dem Kopf. Dass sie Waffen, Werkzeuge oder Kleidung benutzen würden, hat noch niemand beobachtet.
+      <DefaultText>Diese schlaksigen Riesen sind doppelt so groß wie ein durchschnittlicher Mensch. Ihre Körper sind mit riesigen Pilzflechten überwuchert, aus denen eine übelriechende, eiterähnliche Flüssigkeit läuft. Ihre übergroßen Arme und Beine enden in riesigen Klauen, mit denen sie einen Mann entzwei reißen können. Von ihrem übergroßen Kopf hängen Dutzende schleimige Tentakel locker herab, und ihre riesigen Mäuler sind voller gezackter, rasiermesserscharfer Zähne. Trolle haben ein langes Gesicht, Kinn und Nase sowie wirres, drahtiges und pilzverseuchtes Haar auf dem Kopf. Dass sie Waffen, Werkzeuge oder Kleidung benutzen würden, hat noch niemand beobachtet.
 
-Wenn man sich einen Troll ansieht, kann man nur schwer feststellen, ob sie sich im harmonischen Verbund mit Flechten, Moos und Pilzen entwickelt haben, oder ob sie von ihnen übernommen wurden, denn das von Natur aus klamme Fleisch von Trollen bietet diesen Pflanzen ideale Wachstumsbedingungen. Sie bieten den Trollen ausgezeichnete Tarnung und etwas Schutz vor den Elementen, und in mageren Zeiten bieten die von ihnen produzierten Enzyme den Trollen eine begrenzte Nahrungsquelle.
+Wenn man sich einen Troll ansieht, kann man nur schwer feststellen, ob sie sich im harmonischen Verbund mit Flechten, Moos und Pilzen entwickelt haben, oder ob sie von ihnen übernommen wurden. Das von Natur aus klamme Fleisch von Trollen bietet diesen Pflanzen nämlich ideale Wachstumsbedingungen. Diese bieten den Trollen ausgezeichnete Tarnung und etwas Schutz vor den Elementen, und in mageren Zeiten liefern die von ihnen produzierten Enzyme den Trollen eine begrenzte Nahrungsquelle.
 
 Aufgrund ihrer Symbiose mit diesen Pflanzen leben Trolle üblicherweise in stark bewaldeten Gebieten, obwohl man sie gelegentlich auch in klammen Untergrundumgebungen sehen kann, in denen es auch viele Flechten und Pilze gibt.</DefaultText>
       <FemaleText />
@@ -310,9 +310,9 @@ Aufgrund ihrer Symbiose mit diesen Pflanzen leben Trolle üblicherweise in stark
       <ID>55</ID>
       <DefaultText>Die Vithrack sind extrem seltene und äußerst gefährliche Kreaturen, die von Natur aus mediale Fähigkeiten haben. Ihre Gestalt ist größtenteils humanoid, obgleich sie leicht größer und dünner als Menschen sind. Dafür aber haben sie mit Fangzähnen bewehrte, spinnenartige Köpfe. Wie Spinnen können auch sie Seide spinnen. Anstatt Netze zu weben, setzen sie diese Fähigkeit aber dazu ein, komplexe, bienenstockartige Gebäude zu bauen und äußerst komplexe, dünne Seile herzustellen. 
 
-Männliche und weibliche Vithrack sind nicht voneinander zu unterscheiden. Wie Medien sind auch sie hauptsächlich Zauberwirker und Gedankenmanipulatoren, obwohl sie, in die Enge getrieben, auch mit ihren Fangzähnen angreifen. Die psionischen Kräfte der Vithrack ermöglichen ihnen, gedanklich miteinander zu kommunizieren. Wie bei vielen sozialen Insektoiden gibt es in ihrer Gesellschaft eine Reihe bestimmter Rollen, einschließlich Späher und Verteidiger. 
+Männliche und weibliche Vithrack sind nicht voneinander zu unterscheiden. Wie Medien sind auch sie hauptsächlich Zauberwirker und Gedankenmanipulatoren, obwohl sie, in die Enge getrieben, auch mit ihren Fangzähnen angreifen. Die psionischen Kräfte der Vithrack ermöglicht es ihnen, gedanklich miteinander zu kommunizieren. Wie bei vielen sozialen Insektoiden gibt es in ihrer Gesellschaft eine Reihe bestimmter Rollen, einschließlich Späher und Verteidiger. 
 
-Aufgrund ihrer geringen Geburtenrate spielen die Vithrack trotz ihrer extremen Intelligenz und Kraft in der Welt keine große Rolle. Obwohl diese geringe Geburtenrate wahrscheinlich für ihre berüchtigte Feindseligkeit anderen Rassen gegenüber verantwortlich ist, hat sie die Vithrack bezüglich ihrer eigenen Art auch äußerst selbstlos gemacht: Ihre Nester verteidigen sie bis zum Tod.</DefaultText>
+Aufgrund ihrer geringen Geburtenrate spielen die Vithrack, trotz ihrer extremen Intelligenz und Kraft in der Welt, keine große Rolle. Obwohl diese geringe Geburtenrate wahrscheinlich für ihre berüchtigte Feindseligkeit anderen Rassen gegenüber verantwortlich ist, hat sie die Vithrack bezüglich ihrer eigenen Art auch äußerst selbstlos gemacht: Ihre Nester verteidigen sie bis zum Tod.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -369,7 +369,7 @@ Ihre Farbgebung richtet sich nach beanspruchten Territorium. Lebt ein Jungdrache
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Druiden glauben, dass Essenz am stärksten und harmonischsten ist, wenn sie mit der Naturwelt verbunden ist. Da die meisten Wesen Seelen (oder Teile von Seelen) haben, die schon dutzende oder hunderte Lebenskreisläufe durchlebt haben, verfügen sie bereits über eine Verbindung zur Naturwelt. Das Erlernen und Üben von Geisterwandlerformen dreht sich darum, sich vorausgegangene Leben nutzbar zu machen und die Stärken und Fähigkeiten (wenn nicht gar die tatsächlichen Erinnerungen) der Seelenverwandten im Königreich der Tiere zu erfahren. Druiden glauben auch, dass das Geisterwandeln einem Individuum ermöglicht, die eigene Essenz besser auszugleichen und zu stärken, indem es sich an vergangenen Leben "ausrichtet." Diese Praktik vermeidet das Trauma einer vollständigen Erweckung, die Druiden als unnatürlich und erzwungen betrachten.
+      <DefaultText>Druiden glauben, dass Essenz am stärksten und harmonischsten ist, wenn sie mit der Naturwelt verbunden ist. Da die meisten Wesen Seelen (oder Teile von Seelen) haben, die schon dutzende oder hunderte Lebenskreisläufe durchlebt haben, verfügen sie bereits über eine Verbindung zur Naturwelt. Das Erlernen und Üben von Geisterwandlerformen dreht sich darum, sich vorausgegangene Leben nutzbar zu machen und die Stärken und Fähigkeiten (wenn nicht gar die tatsächlichen Erinnerungen) der Seelenverwandten im Königreich der Tiere zu erfahren. Druiden glauben auch, dass das Geisterwandeln einem Individuum ermöglicht, die eigene Essenz besser auszugleichen und zu stärken, indem es sich an vergangenen Leben "ausrichtet". Diese Praktik vermeidet das Trauma einer vollständigen Erweckung, die Druiden als unnatürlich und erzwungen betrachten.
 
 Fähige Druiden können mehrere Geisterwandlerformen erlernen. Sie glauben, dass jede Form dem Anwender einzigartige Erfahrungen gewährt und seine oder ihre Essenz näher ans perfekte Gleichgewicht bringt.</DefaultText>
       <FemaleText />
@@ -824,7 +824,7 @@ Einige Kreaturen können manchen Wirkungen gegenüber immun sein. In diesem Fall
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Wird ein Charakter mit passiven Talenten oder Fähigkeiten ausgestattet, erhält er den entsprechenden Bonus automatisch. Ein Charakter mit 'Reflexe der Schlange' erhält den Bonus auf seine Reflexe beispielsweise automatisch.</DefaultText>
+      <DefaultText>Wird ein Charakter mit passiven Talenten oder Fähigkeiten ausgestattet, erhält er den entsprechenden Bonus automatisch. Ein Charakter mit "Reflexe der Schlange" erhält den Bonus auf seine Reflexe beispielsweise automatisch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1116,9 +1116,9 @@ Hinweis: Es gibt eine Reihe von Talenten und Fähigkeiten, die sich auf die Rege
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>Wenn im Nahkampf zwei Angreifer aus unterschiedlichen Richtungen eine Nahkampfbindung mit ein und demselben Gegner eingehen, 'flankieren' sie ihn. Dadurch wird der Verteidiger mit dem Flankiert-Status belegt - er leidet unter verschiedenen Mali und kann mit einem Schleichangriff angegriffen werden. Jeder Zustand, der die Angriffsbindung eines Angreifers aufhebt, entfernt auch den Flankiert-Status des Verteidigers, wenn dieser nicht ohne den Angreifer aufrecht gehalten werden kann.
+      <DefaultText>Wenn im Nahkampf zwei Angreifer aus unterschiedlichen Richtungen eine Nahkampfbindung mit ein und demselben Gegner eingehen, "flankieren" sie ihn. Dadurch wird der Verteidiger mit dem Flankiert-Status belegt - er leidet unter verschiedenen Mali und kann mit einem Schleichangriff angegriffen werden. Jeder Zustand, der die Angriffsbindung eines Angreifers aufhebt, entfernt auch den Flankiert-Status des Verteidigers, wenn dieser nicht ohne den Angreifer aufrecht gehalten werden kann.
 
-Hinweis: Es gibt einige Fähigkeiten, die Ausnahmen zu den üblichen Flankierungsregeln verleihen, zum Beispiel 'Einer alleine' (Barbar), Pirscher (Waldläufer) und Phantomfeinde (Medium).</DefaultText>
+Hinweis: Es gibt einige Fähigkeiten, die Ausnahmen zu den üblichen Flankierungsregeln verleihen, zum Beispiel "Einer alleine" (Barbar), Pirscher (Waldläufer) und Phantomfeinde (Medium).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1544,12 +1544,12 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>Bei Umschalttaste-Linksklick auf einem Gegenstand in einem Behältnis, wandert der Gegenstand direkt in das Lager</DefaultText>
+      <DefaultText>Bei Umschalttaste-Linksklick auf einem Gegenstand in einem Behälter, wandert der Gegenstand direkt in dein Lager.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>Du kannst jede Fähigkeit auf eine Schnelltaste legen wenn die Maus über der Fähigkeit liegt und die entsprechende Schnelltaste gedrückt wird.</DefaultText>
+      <DefaultText>Du kannst jede Fähigkeit auf eine Schnelltaste legen, wenn die Maus über der Fähigkeit liegt und die entsprechende Schnelltaste gedrückt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

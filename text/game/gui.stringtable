@@ -481,17 +481,17 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>{0} hinzugefügt: '{1}'</DefaultText>
+      <DefaultText>{0} hinzugefügt: "{1}"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>{0} aktualisiert: '{1}'</DefaultText>
+      <DefaultText>{0} aktualisiert: "{1}"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>{0} abgeschlossen: '{1}'</DefaultText>
+      <DefaultText>{0} abgeschlossen: "{1}"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1116,7 +1116,7 @@
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>Beenden.</DefaultText>
+      <DefaultText>Ausd.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1311,7 +1311,7 @@
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>{0} gescheitert: '{1}'</DefaultText>
+      <DefaultText>{0} gescheitert: "{1}"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2441,7 +2441,7 @@ Gesund und Zäh - Bergzwerge erhalten einen Bonus auf die Verteidigung gegen Gif
       <DefaultText>Die meisten Nordzwerge (Enutanik) leben auf der abgeschiedenen südlichen Insel von Naasitaq, wo sie die felsige Tundra und die schneebedeckten Wälder mit den eingewanderten Bleichelfen und den küstennah fahrenden Schiffen der Aumaua teilen. Wie ihre nördlichen Vettern teilen die Enutanik eine instinktive Liebe für Erkundungen. Nordzwerge sind in den Vailianischen Republiken einigermaßen verbreitet, im Dyrwald trifft man sie jedoch nur selten an. 
 
 
-Instinkte des Jägers - Nordzwerge erhalten +15 Genauigkeit im Kampf gegen Wesen der Kategorien 'Wilde' oder 'Primitive'.</DefaultText>
+Instinkte des Jägers - Nordzwerge erhalten +15 Genauigkeit im Kampf gegen Wesen der Kategorien "Wilde" oder "Primitive".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2835,7 +2835,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>555</ID>
-      <DefaultText>Lager</DefaultText>
+      <DefaultText>Rasten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3315,7 +3315,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>651</ID>
-      <DefaultText>Die Försterhütte wacht über die Wildnis in der Nähe der Festung. Der Ausbau der Hütte verleiht einen Bonus auf die Fähigkeit 'Überleben', wenn in Leuchthöhle gerastet wird. Außerdem erhält man Zugang zum Förster, der lukrative Kopfgelder bietet.</DefaultText>
+      <DefaultText>Die Försterhütte wacht über die Wildnis in der Nähe der Festung. Der Ausbau der Hütte verleiht einen Bonus auf die Fähigkeit "Überleben", wenn in Leuchthöhle gerastet wird. Außerdem erhält man Zugang zum Förster, der lukrative Kopfgelder bietet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9004,7 +9004,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1798</ID>
-      <DefaultText>Mönch-Fähigkeiten bieten eine Reihe von Effekten, um Nahkampfangriffe zu stärken, Schutz vor Wirkungen zu bieten oder den Spieß gegen Angreifer umzudrehen. Die meisten Mönch-Fähigkeiten werden durch Wunden genährt, einige besitzen jedoch auch ein Limit 'pro Begegnung' oder 'pro Ruhephase'.</DefaultText>
+      <DefaultText>Mönch-Fähigkeiten bieten eine Reihe von Effekten, um Nahkampfangriffe zu stärken, Schutz vor Wirkungen zu bieten oder den Spieß gegen Angreifer umzudrehen. Die meisten Mönch-Fähigkeiten werden durch Wunden genährt, einige besitzen jedoch auch ein Limit "pro Begegnung" oder "pro Ruhephase".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9279,7 +9279,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1853</ID>
-      <DefaultText>Zauber der Stufe {0} können jetzt 'pro Begegnung' eingesetzt werden.</DefaultText>
+      <DefaultText>Zauber der Stufe {0} können jetzt "pro Begegnung" eingesetzt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9574,7 +9574,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1920</ID>
-      <DefaultText>Notiz '{0}' wirklich löschen?</DefaultText>
+      <DefaultText>Notiz "{0}" wirklich löschen?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

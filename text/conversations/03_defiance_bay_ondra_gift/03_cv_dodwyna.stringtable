@@ -6,9 +6,9 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Als du den Raum betrittst, siehst du mehrere zusammengedrängte Gestalten. Sie stehen stramm, tragen aber keine einheitliche Kleidung wie zum Beispiel die Schmelztiegelritter. Im Zentrum der Gruppe thront eine Frau mit einem Streitflegel über einer anderen. Sie blickt die kauernde Gestalt spöttisch lächelnd an.
+      <DefaultText>Als du den Raum betrittst, siehst du mehrere zusammengedrängte Gestalten. Sie stehen stramm, tragen aber keine einheitliche Kleidung wie etwa die Schmelztiegelritter. Im Zentrum der Gruppe steht eine Frau mit einem Streitflegel in der Hand drohend über einer anderen. Sie blickt die kauernde Gestalt spöttisch lächelnd an.
 
-"Du hast hier seitenweise Forschungsarbeiten, und du willst mir tatsächlich weismachen, dass das bloß Schmierereien von dir waren?"</DefaultText>
+"Du hast hier seitenweise Forschungsarbeiten. Und du willst mir tatsächlich weismachen, dass das bloß Schmierereien von dir waren?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -57,12 +57,12 @@ Sie kneift ihre Augen zusammen. "Du solltest nicht hier sein."</DefaultText>
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Sie hebt ihren Streitflegel hoch und stürmt auf dich zu.</DefaultText>
+      <DefaultText>Sie reißt ihren Streitflegel hoch und stürmt auf dich zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Sie nimmt ihren Streitflegel fester in die Hand. "Nichts, was du wissen müsstest."</DefaultText>
+      <DefaultText>Sie nimmt ihren Streitflegel fester in die Hand. "Nichts, was du zu wissen brauchst."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

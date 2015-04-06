@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Antonino nimmt ein Seidentaschentuch und wischt damit das Blut von seiner Klinge. "Wenn ich die Doemenels recht kenne, dann werden sie diese Beleidigung nicht leicht nehmen."</DefaultText>
+      <DefaultText>Antonino nimmt ein Seidentaschentuch und wischt damit das Blut von seiner Klinge. "Wenn ich die Doemenels recht kenne, dann werden sie diese Beleidigung nicht so einfach erdulden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Antonino geht mit den stolzierenden Schritten eines Schwertkämpfers. Aus seinem Gürtel ragt der mit ineinandergreifendem Gold und Silber verzierte Griff eines Korbschwerts. Als du dich näherst, nickt er. "Gut, dich wiederzusehen, mein Freund."</DefaultText>
+      <DefaultText>Antonino hat den wiegenden Gang eines Schwertkämpfers. Aus seinem Gürtel ragt ein mit ineinandergreifendem Gold und Silber verzierter Korbgriff. Als du dich näherst, nickt er dir zu. "Gut, dich wiederzusehen, mein Freund."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,12 +26,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Danna knurrt wütend. "Die Schmelztiegelritter zu rufen kann wohl kaum raffiniert nennen. Entledigt sich Mestre Verzano üblicherweise so seiner Konkurrenz?"</DefaultText>
+      <DefaultText>Danna knurrt wütend. "Die Schmelztiegelritter zu rufen kann man wohl kaum raffiniert nennen. Entledigt sich Mestre Verzano üblicherweise so seiner Konkurrenz?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[Angreifen] "Du hast Recht, Antonino. Keine Gnade dem organisierten Verbrechen."</DefaultText>
+      <DefaultText>[Angreifen] "Du hast Recht, Antonino. Wir können das organisierten Verbrechen nicht gedeihen lassen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Erzähl mir über die Vailianische Handelsgesellschaft"</DefaultText>
+      <DefaultText>"Erzähl mir von der Vailianischen Handelsgesellschaft"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,12 +61,12 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Triff mich bei Verzanos Lagerhaus. Wenn ich die Doemenels richtig einschätze, dann planen sie einen Angriff." Seine Brust hebt sich, und auf seiner Stirn bildet sich ein Schweißfilm. Er grinst, als ob er sich auf den bevorstehenden Kampf freuen würde. "Kämpfe doch mit uns - wir könnten deine Hilfe gebrauchen."</DefaultText>
+      <DefaultText>"Triff mich bei Verzanos Lagerhaus. Wenn ich die Doemenels richtig einschätze, dann planen sie einen Angriff." Seine Brust hebt sich und auf seiner Stirn bildet sich ein Schweißfilm. Er grinst, als ob er sich auf den bevorstehenden Kampf freuen würde. "Kämpfe doch mit uns - wir könnten deine Hilfe gebrauchen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Antonino sieht dich an. "Sehr gute Arbeit. Diese Verbrecher sind für unser Geschäft wie ein Blutegel und bedrohen unsere Kunden. Leider konnten wir sie bis jetzt nicht bei illegalen Aktivitäten ertappen."</DefaultText>
+      <DefaultText>Antonino sieht dich an. "Sehr gute Arbeit. Diese Verbrecher schöpfen schon lange unsere Gewinne ab und bedrohen unsere Kunden. Leider konnten wir sie bis jetzt nicht bei illegalen Aktivitäten ertappen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,37 +101,37 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Er zieht seinen Hut. "Dank deiner Hilfe werden wir viele unserer alten Kontakte wiederherstellen und weiter in der Stadt Geschäfte treiben können."</DefaultText>
+      <DefaultText>Er zieht seinen Hut. "Dank deiner Hilfe werden wir viele unserer alten Verträge zurückgewinnen und weiter in der Stadt Geschäfte treiben können."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Er verbeugt sich, wobei er ein Bein schwungvoll nach vorne bringt. "Ich bin Antonino, ein Schwertkämpfer aus der Vailianischen Republik Ancenze." Er tätschelt das Heft seiner Klinge. "Wie du gesehen hast, verteidige ich hier in Trutzbucht die Interessen der Vailianischen Handelsgesellschaft."</DefaultText>
+      <DefaultText>Er verbeugt sich, wobei er ein Bein schwungvoll nach vorne bringt. "Ich bin Antonino, Schwertkämpfer aus der Vailianischen Republik Ancenze." Er tätschelt das kunstvolle Heft seiner Klinge. "Wie du gesehen hast, verteidige ich hier in Trutzbucht die Interessen der Vailianischen Handelsgesellschaft."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Er ist ein erfahrener Kaufmann, und wie alle Republikaner wünscht er sich nichts mehr, als erfolgreich und wohlhabend in die Heimat zurückzukehren." Er glättet seinen Schnurrbart. "Manchmal geht er ans Geschäft vielleicht etwas ... kreativ heran, aber er kommt seinen Abmachungen immer nach."</DefaultText>
+      <DefaultText>"Er ist ein erfahrener Kaufmann und wie alle Republikaner wünscht er sich nichts mehr, als erfolgreich und wohlhabend in die Heimat zurückzukehren." Er glättet seinen Schnurrbart. "Manchmal geht er ans Geschäft vielleicht etwas ... kreativ heran, aber er kommt seinen Abmachungen immer nach."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ich schätze strategische Herangehensweisen."</DefaultText>
+      <DefaultText>"Ich schätze eine strategische Herangehensweise."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Das ist keine Entschuldigung, er sollte zu anderen offener sein."</DefaultText>
+      <DefaultText>"Das ist keine Entschuldigung. Er sollte zu anderen unverblümter sein."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Antonino wirft seinen Kopf in den Nacken und lacht. "Das ist ganz hervorragend gesagt - kein Wunder, dass er so große Stücke auf dich hält."</DefaultText>
+      <DefaultText>Antonino wirft seinen Kopf in den Nacken und lacht. "Eine hervorragende Art, es auszudrücken. Kein Wunder, dass er so große Stücke auf dich hält."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Zeigt man seinem Gegner in einem Kartenspiel sein Blatt?" Er zuckt mit den Achseln. "In den Republiken sehen wir die Dinge anders. Manchmal erregt diese 'Offenheit' bei anderen Anstoß, manchmal aber kann ein wenig Bauernschlauheit ein Blutbad vermeiden."</DefaultText>
+      <DefaultText>"Zeigt man seinem Gegner in einem Kartenspiel sein Blatt?" Er zuckt mit den Achseln. "In den Republiken sehen wir die Dinge anders. Manchmal erregt diese 'Unverblümtheit' bei anderen Anstoß, manchmal kann ein wenig Schlauheit ein Blutbad verhindern."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

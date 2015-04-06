@@ -42,7 +42,7 @@
     <Entry>
       <ID>11</ID>
       <DefaultText>"Alles klar, der hier hat bezahlt."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Alles klar, die hier hat bezahlt."</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Du wachst auf und siehst Durance, der seinen Stab mit beiden Händen vor sich hinhält. Aus der oberen Stabspitze flackert eine Flamme, die lange Schatten auf sein Gesicht wirft, als er mit nachdenklichem Gesicht vor sich hinstarrt. 
+      <DefaultText>Du wachst auf und siehst Durance, der seinen Stab mit beiden Händen vor sich hält. Aus der oberen Stabspitze flackert eine Flamme, die lange Schatten auf sein Gesicht wirft, als er mit nachdenklichem Gesicht vor sich hinstarrt. 
 
 Trotz all des Feuerscheins können sich deine Augen nicht auf ihn konzentrieren ... vielleicht wachst du gerade aus einem Schlaf auf, oder es handelt sich um einen Lichteffekt, aber er erscheint dir ... undeutlich, an den Rändern verschwommen ... nur seinen Stab, den kannst du genau sehen. </DefaultText>
       <FemaleText />
@@ -15,17 +15,17 @@ Trotz all des Feuerscheins können sich deine Augen nicht auf ihn konzentrieren 
       <ID>10</ID>
       <DefaultText>Der Stab ... er scheint seine Gravuren zu studieren. Während du zusiehst, beginnen sie schwach rötlich zu leuchten, wie durch die Risse erhitzten Holzes. 
 
-Die Linien fließen wie geschmolzenes Metall und brennen die Ränder seines Stabs entlang, bevor sie sich in eine Reihe komplizierter, feuriger Adern verzweigen. Dort, wo seine Hände das Holz umklammert halten, häufen sie sich, und pulsieren wie ein Herzschlag.</DefaultText>
+Die Linien leuchten wie geschmolzenes Metall und fließen die Ränder seines Stabs entlang, bevor sie sich in eine Reihe komplizierter, feuriger Adern verzweigen. Dort, wo seine Hände das Holz umklammert halten, häufen sie sich und pulsieren wie ein Herzschlag.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Während du zusiehst, drehen sich die Adern zu einem Dutzend separater Kreise ... Kreise, die sich wiederum drehen, bis sie ihrerseits kreisförmig angeordnet sind. Sie pulsieren, warten, und alles ist merkwürdig still ... und ...</DefaultText>
+      <DefaultText>Während du zusiehst, formen sich die Adern zu einem Dutzend separater Kreise ... Kreise, die sich wiederum drehen, bis sie ihrerseits kreisförmig angeordnet sind. Sie pulsieren, warten, und alles ist merkwürdig still ... und ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Urplötzlich geht von dem Feuer ein gewaltiges Licht aus. Du spürst einen Luftstoß, siehst einen enormen Blitz ... und erwachst abermals. Durance befindet sich immer noch am selben Ort, nun aber in fester Form und real. 
+      <DefaultText>Urplötzlich geht von dem Feuer ein gewaltiges Licht aus. Du spürst einen Luftstoß, siehst einen enormen Blitz ... und erwachst abermals. Durance befindet sich immer noch am selben Ort, nun aber körperlich und real. 
 
 Er scheint dich nicht bemerkt zu haben ... oder auf das Geschehene reagiert zu haben.</DefaultText>
       <FemaleText />
@@ -37,12 +37,12 @@ Er scheint dich nicht bemerkt zu haben ... oder auf das Geschehene reagiert zu h
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Es gab einen Blitz wie bei einer Explosion ... einen unglaublichen grellen Luftstoß."</DefaultText>
+      <DefaultText>"Es gab eine blitzartige Explosion ... die Luft rauschte, unglaubliche Helligkeit."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Durance nimmt jedes Wort auf. Einen Moment lang ist er merkwürdig still, und als er spricht, geschieht dies mit leiser Stimme.
+      <DefaultText>Durance nimmt jedes Wort auf. Einen Moment lang ist er merkwürdig still und als er spricht, geschieht dies mit leiser Stimme.
 
 "Das, was du gesehen hast, war das Licht des Götterhammers."</DefaultText>
       <FemaleText />
@@ -109,7 +109,7 @@ Er scheint dich nicht bemerkt zu haben ... oder auf das Geschehene reagiert zu h
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Durance' Stimme bleibt leise und gleichmäßig, als würde er etwas wiederholen, das er schon viele Male gesagt hat - entweder laut, oder zu sich selbst. "Er hat den Krieg des Heiligen beendet ... und einen Gott von seinem hohen Ross geschlagen."
+      <DefaultText>Durance' Stimme bleibt leise und gleichmäßig, als würde er etwas wiederholen, das er schon viele Male gesagt hat - entweder laut oder zu sich selbst. "Er hat den Krieg des Heiligen beendet ... und einen Gott von seinem hohen Ross gestoßen."
 
 Durance' Gesichtszüge versteinern sich. "Es gibt nur wenige, die abstreiten würden, dass es Eothas ... übertrieben hat. Der Götterhammer erinnerte Eothas daran."</DefaultText>
       <FemaleText />
@@ -131,7 +131,7 @@ Durance' Gesichtszüge versteinern sich. "Es gibt nur wenige, die abstreiten wü
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Es fühlte sich so an, als ob der Stab Magrans eigener Finger sei - er führte meine Hand, führte die anderen Elf, die Schatten der Zwölf, die auf der Brücke Eothas entgegentreten würden, um ihn aufzuhalten."</DefaultText>
+      <DefaultText>"Es fühlte sich so an, als ob der Stab ein Finger Magrans selbst sei - sie führte meine Hand, führte die anderen elf, die Schatten der Zwölf, die Eothas auf der Brücke entgegentreten würden, um ihn aufzuhalten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,7 +141,7 @@ Durance' Gesichtszüge versteinern sich. "Es gibt nur wenige, die abstreiten wü
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Ich sah auch ein Dutzend heller Kreise, die aus deinem Stab hervortreten."</DefaultText>
+      <DefaultText>"Ich sah auch ein Dutzend heller Kreise, die aus deinem Stab hervortraten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +161,7 @@ Durance' Gesichtszüge versteinern sich. "Es gibt nur wenige, die abstreiten wü
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Selbst mit diesem Widerstand war ein Ritual verbunden. Für die Zwölf, die auf der Brücke standen, wurde ein Dutzend Schatten geworfen, ein Dutzend von Magrans Gläubigen - ihren energischsten Unterstützern und Erbauern des Götterhammers. "</DefaultText>
+      <DefaultText>"Selbst mit diesem Widerstand war ein Ritual verbunden. Für die Zwölf, die auf der Brücke standen, wurden ein Dutzend Schatten geworfen, ein Dutzend von Magrans Gläubigen - ihren energischsten Unterstützern und Erbauern des Götterhammers. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -195,7 +195,7 @@ Durance' Gesichtszüge versteinern sich. "Es gibt nur wenige, die abstreiten wü
       <ID>48</ID>
       <DefaultText>"Nicht viele können von sich behaupten, einen Gott getötet zu haben. Diese Geschichte ist nicht so ... heldenhaft, wie man denken würde. Und ein solcher Tod ... nun, er veränderte unseren Glauben. Alle Glaubensrichtungen, nehme ich an."
 
-Durance starrt wieder auf die tote Spitze des Stabs. "Der Zweifel folgte, und die Welt veränderte sich ... Ich glaube nicht, dass Magran damit zufrieden war, was wir getan hatten."</DefaultText>
+Durance starrt wieder auf die tote Spitze des Stabs. "Der Zweifel folgte und die Welt veränderte sich ... Ich glaube nicht, dass Magran damit zufrieden war, was wir getan hatten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -215,7 +215,7 @@ Durance starrt wieder auf die tote Spitze des Stabs. "Der Zweifel folgte, und di
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Und dennoch, wenn sich die Welt verändert hatte ... dann strebe ich danach, mich mit ihr zu ändern. Sollte ich einen Teil von Magrans Lehren vergessen haben, würde ich sie wiederfinden. Es würde sie dazu bringen, mich wieder zu sehen."</DefaultText>
+      <DefaultText>"Und dennoch, wenn sich die Welt verändert hätte ... dann würde ich danach streben, mich mit ihr zu ändern. Wenn ich einen Teil von Magrans Lehren vergessen hätte, würde ich sie wiederfinden. Ich würde sie dazu bringen, mich erneut zu sehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -225,7 +225,7 @@ Durance starrt wieder auf die tote Spitze des Stabs. "Der Zweifel folgte, und di
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Ich erinnerte mich an Magrans Lehren - weshalb die Mahnungen auf dem Fleisch wichtiger als der Tod eines Gefäßes sind." Durance runzelt die Stirn. "Und ich fragte mich, ob Eothas ... ob wir ihn in Wirklichkeit befreiten, als wir ihn umbrachten. Hatte ihm das gar gestattet, seiner Strafe zu entgehen, und zum Rad gebracht zu werden?" 
+      <DefaultText>"Ich erinnerte mich an Magrans Lehren - weshalb die Mahnungen auf dem Fleisch wichtiger als der Tod eines Gefäßes sind." Durance runzelt die Stirn. "Und ich fragte mich, ob Eothas ... ob wir ihn in Wirklichkeit befreiten, als wir ihn umbrachten. Hatte ihm das gar gestattet, seiner Strafe zu entgehen und zum Rad gebracht zu werden?" 
 
 Durance' Stimme geht seltsam nach oben ... zum ersten Mal wirkt es so, als würde er wirklich eine Frage stellen. "Wie ein Sterblicher?" Er schüttelt den Kopf.</DefaultText>
       <FemaleText />
@@ -246,12 +246,12 @@ Durance' Stimme geht seltsam nach oben ... zum ersten Mal wirkt es so, als würd
       <ID>58</ID>
       <DefaultText>"Der Weg nach Aschfall ist lang und gibt einem viel Zeit zum Nachdenken." Seine Hand festigt ihren Griff um den Stab. "Und wenn man lange genug nachdenkt, dann geht man nicht nach Hause."
 
-"Ich ging, ohne mich von irgendjemand zu verabschieden, nur mit der Robe am Leib, die ich bei Halgot trug, meinem Stab und meinem Namen ... der seit langer Zeit begraben ist."</DefaultText>
+"Ich ging, ohne mich von irgendjemandem zu verabschieden, nur mit der Robe am Leib, die ich bei Halgot trug, meinem Stab und meinem Namen ... der seit langer Zeit begraben ist."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Was mit den anderen elf Bombenbauern und Jüngern geworden ist ... das weiß ich nicht. Ob sie dieselben Zweifel wie ich erlitten. Aber ... es war nicht genug. Es war falsch. Wir hatten alles getan, was diese ... Hure verlangt hatte. Wir hatten aus der Niederlage einen Sieg gemacht, und ..."</DefaultText>
+      <DefaultText>"Was aus den anderen elf Hammerschöpfern und Jüngern geworden ist ... ich weiß es nicht. Ob sie dieselben Zweifel wie ich erlitten. Aber ... es war nicht angemessen. Es war falsch. Wir hatten alles getan, was diese ... Hure verlangt hatte. Wir hatten die Niederlage einen Sieg verwandelt, und ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,9 +271,9 @@ Durance' Stimme geht seltsam nach oben ... zum ersten Mal wirkt es so, als würd
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Da gibt es etwas ... es geht darum, benutzt und verstoßen zu werden." Durance kneift die Augen zusammen, als würden sie sich auf einen inneren Gedanken konzentrieren. 
+      <DefaultText>"Es geht darum, ... benutzt und verstoßen zu werden." Durance kneift die Augen zusammen, als würden er sich auf einen fernen Gedanken konzentrieren. 
 
-"Vielleicht spürte es sogar Waidwen selbst, ganz am Ende, als der Hammer zuschlug. Dass er der Beweis dafür war, dass ein Gott zu hohl ist wie die Hülle, die er bewohnt."</DefaultText>
+"Vielleicht spürte es sogar Waidwen selbst, kurz vor dem Ende, als der Hammer zuschlug. Dass er der Beweis dafür war, dass dein Gott so bedeutungslos ist wie die Hülle, die er bewohnt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -290,24 +290,24 @@ Durance' Stimme geht seltsam nach oben ... zum ersten Mal wirkt es so, als würd
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Wir wählten die Brücke aus, weil wir sie kontrollieren konnten." Durance' Hände verstärken ihren Griff um die Spitze des Stabs, als ob sie ihn am Hals packen würden. "Sie war ein Ort, wo wir Eothas in seinen eigenen Schritten erwürgen konnten, wo wir wussten, dass seine Füße fallen würden - ein enger Flaschenhals aus Stein."</DefaultText>
+      <DefaultText>"Wir wählten die Brücke aus, weil wir sie kontrollieren konnten." Durance' Hände verstärken ihren Griff um die Spitze des Stabs, als er ihn am Hals packen würden. "Es war ein Ort, wo wir Eothas auf seinem Marsch die Kehle zuschnüren konnten, von dem wir wussten, dass ihn seine Schritte dort hinlenken würden - ein steinerner Engpass."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Aber sie war mehr als das - sie war eine Säule des Dyrwalds und stellte symbolisch dessen Rückgrat dar. Solche Symbole sind beim Bau einer Waffe von großer Bedeutung ..." Durance studiert seinen Stab und fährt mit den Augen die Einkerbungen entlang. "Bei jeder Waffe."</DefaultText>
+      <DefaultText>"Aber sie war mehr als das - sie war das Rückgrat des gesamten Dyrwalds, Symbol des Mutes seiner Bewohner. Solche Symbole sind beim Bau einer Waffe von großer Bedeutung ..." Durance studiert seinen Stab und fährt mit den Augen die Einkerbungen entlang. "Bei jeder Waffe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Durance' Gesicht wird härter. Seine Augen brennen und er runzelt die Stirn. "Ich vermute, Eothas wusste das ebenfalls ... und auch sein Gefäß, in seiner ... Arroganz." Seine Hand festigt ihren Griff um den Stab. "Er beabsichtigte, so auf die Brücke zu gehen, als würde er auf den Rücken des Dyrwalds gehen."
+      <DefaultText>Durance' Gesichtsausdruck verhärtet sich. Seine Augen brennen und er runzelt die Stirn. "Ich vermute, Eothas wusste das ebenfalls ... und auch sein Gefäß, in seiner ... Arroganz." Seine Hand festigt ihren Griff um den Stab. "Er beabsichtigte die Brücke zu passieren, ganz so, als würde er auf den Rücken des Dyrwalds treten."
 
 "Und WIR beabsichtigten, ihn im Licht unseres Glaubens - und dem seinen - zu verbrennen. Zwölf auf der Brücke und zwölf im Schatten, und wir opferten uns auf."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Ihr opfertet euch auf?"</DefaultText>
+      <DefaultText>"Ihr habt euch aufgeopfert?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -329,16 +329,16 @@ Durance' Stimme geht seltsam nach oben ... zum ersten Mal wirkt es so, als würd
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Jeder der Zwölf, die den Götterhammer hervorgebrachten, hätten alles getan, um den Dyrwald und seine Bevölkerung zu retten. Das war der Grund, weshalb man uns ausgewählt hatte."
+      <DefaultText>"Jeder der Zwölf, die den Götterhammer hervorbrachten, hätten alles getan, um den Dyrwald und seine Bevölkerung zu retten. Das war der Grund, weshalb man uns ausgewählt hatte."
 
-"Jeder von uns ..." Durance' Gesicht verzerrt sich zu einem Zähnefletschen. "Jeder von uns hasste diesen Heuchler. Dieser Zorn, dieser Tatkraft, diese Rebellion ... floss in unsere Arbeit und unser Studium über ihn ein."</DefaultText>
+"Jeder von uns ..." Durance' Gesicht verzerrt sich zu einem Zähnefletschen. "Jeder von uns hasste diesen Heuchler. Dieser Zorn, diese Tatkraft, diese Rebellion ... floss in unsere Arbeit und unser Studium über ihn ein."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
       <DefaultText>"Wir alle studierten Waidwen - er war unser Feind, und er hatte das Fleisch bereitgestellt, das der Gott als Mantel trug. Dieses Fleisch machte ihn verwundbar."
 
-"Ich wusste, welche Felder er und seine Familie bestellt hatten, was er geerntet hatte. Wo er geboren worden war. Wir streben danach, ihn zu kennen und zu erfahren, was ihn dazu geführt hatte, uns zu bekämpfen."</DefaultText>
+"Ich wusste, welche Felder er und seine Familie bestellt hatten, was er geerntet hatte, wo er geboren wurde. Wir streben danach, ihn zu kennen und zu erfahren, was ihn dazu geführt hatte, uns zu bekämpfen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -348,7 +348,7 @@ Durance' Stimme geht seltsam nach oben ... zum ersten Mal wirkt es so, als würd
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Man tötet nicht den Gott, sondern den Mann, in dem er wohnt. Und diesen Mann ruiniert man, und verbrennt ihn zu Asche."
+      <DefaultText>"Man tötet nicht den Gott, sondern den Mann, in dem er wohnt. Und diesen Mann ruiniert man und verbrennt ihn zu Asche."
 
 "Die Waffe sollte nicht nur sein Fleisch verbrennen, sondern seine Seele gleich mit. Und das tat sie auch, auf Kosten der Unseren und der Gunst unserer Göttin ... verdammt soll diese Hure sein."</DefaultText>
       <FemaleText />
@@ -375,27 +375,27 @@ Durance' Stimme geht seltsam nach oben ... zum ersten Mal wirkt es so, als würd
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Durance schüttelt den Kopf, aber er wirkt angespannt, denn sein Gesicht ist komplett rot. "Wenn du um meinen Geist fürchtest, dann sind deine Sorgen unbegründet. Der Götterhammer ... sein Licht zu sehen, schürte meine Zorn nur noch mehr und machte mich stärker, ließ mich die Lehren Magrans abermals überprüfen ... sie in ein neues Licht stellen."</DefaultText>
+      <DefaultText>Durance schüttelt den Kopf, aber er wirkt angespannt, denn sein Gesicht ist komplett rot. "Wenn du um meinen Geist fürchtest, dann sind deine Sorgen unbegründet. Der Götterhammer ... sein Licht zu sehen, schürte meine Zorn nur noch mehr und machte mich stärker, ließ mich die Lehren Magrans abermals überprüfen ... sie in ein neues Licht rücken."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Es wirkte so, als wäre dort nur ein Teil von einem, als ob einem die Seele ... entzwei geschnitten wurde."</DefaultText>
+      <DefaultText>"Es wirkte so, als wäre nur ein Teil von dir dort, als ob dein Geist ... entzwei geschnitten wurde."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Und danach strebtest du die Lehren von Durance an?"</DefaultText>
+      <DefaultText>"War das der Punkt, an dem du dich den Lehren von Durance zugewandt hast?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>Durance knurrt wütend, sein Gesicht ist jetzt fiebrig rot. "Ich muss mir keine weiteren Fragen von dir anhören, Wächter ... und mich ohne meine Erlaubnis zu betrachten, darum habe ich dich auch nicht gebeten. Verschwinde, und lass mich in Ruhe."</DefaultText>
+      <DefaultText>Durance knurrt wütend, sein Gesicht ist jetzt fiebrig rot. "Ich muss mir keine weiteren Fragen von dir anhören, Wächter ... und mich ohne meine Erlaubnis zu betrachten, darum habe ich dich auch nicht gebeten. Verschwinde und lass mich in Ruhe!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Durance will dich schon anblaffen, hält aber dann doch inne und nickt. "Es schien mir an der Zeit zu sein, die Lehren zu finden, die ich verloren hatte, und um den Willen der Göttin in den Säuberungen auszuführen ... Eothas' Glauben war immer noch da."</DefaultText>
+      <DefaultText>Durance will dich schon anblaffen, hält aber dann doch inne und nickt. "Es schien mir an der Zeit zu sein, die Lehren zu finden, die ich verloren hatte. Und um den Willen der Göttin während der Säuberungen zu erfüllen ... Der Glaube an Eothas' Glauben existierte noch immer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -405,18 +405,18 @@ Durance' Stimme geht seltsam nach oben ... zum ersten Mal wirkt es so, als würd
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>In seinen rußigen Stirnfalten sammelt sich Schweiß, läuft seine rosigen Wangen hinab, und tropft ihm von der Nasenspitze.
+      <DefaultText>In seinen rußigen Stirnfalten sammelt sich Schweiß, läuft seine rosigen Wangen hinab und tropft ihm von der Nasenspitze.
 
-Er bewegt den Mund, aber seine Worte bleiben lautlos. Ausnahmsweise ist auch er einmal ratlos. Als er deinen Blick spürt, gewinnt er schnell wieder die Fassung und wischt sich mit einem schmutzigen Handrücken über die Stirn.</DefaultText>
+Er bewegt den Mund, aber seine Worte bleiben lautlos. Ausnahmsweise ist auch er einmal ratlos. Als er deinen Blick spürt, gewinnt er schnell wieder die Fassung und wischt sich mit seinem schmutzigen Handrücken über die Stirn.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Seine Stimme klingt abgehackt und hastig. "Hnh. Wenn man die Launen einer wankelmütigen Schlampe verehrt, wird man niemals mehr sein als der Dreck unter ihren Füßen."
+      <DefaultText>Seine Stimme klingt abgehackt und hastig. "Hmh. Wenn du den Launen einer wankelmütigen Schlampe huldigst, wirst du niemals mehr sein als der Dreck unter ihren Füßen."
 
-"Verehrt man andererseits aber dasselbe wie sie, und nimmt ihr Feuer als das eigene, so kommt ihre Wertschätzung von ganz alleine."
+"Verehrst du jedoch dasselbe wie sie, nimmst ihr Feuer als das eigene an, dann kommt ihre Achtung ganz von allein."
 
-"Natürlich braucht man sie zu diesem Zeitpunkt dann nicht mehr. Prüfung und Wandel, so wie es Durance lehrte."</DefaultText>
+"Aber natürlich brauchst du es dann nicht mehr. Prüfung und Wandel, ganz so wie es Durance lehrte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,7 +426,7 @@ Er bewegt den Mund, aber seine Worte bleiben lautlos. Ausnahmsweise ist auch er 
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Jetzt verstehe ich, warum du deine Göttin eine Hure schimpfst. Sie hat dir den Laufpass gegeben, und trotzdem schmachtest du ihr nach."</DefaultText>
+      <DefaultText>"Jetzt verstehe ich, warum du deine Göttin eine Hure schimpfst. Sie hat dir den Laufpass gegeben und trotzdem schmachtest du ihr nach."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -456,26 +456,26 @@ Er bewegt den Mund, aber seine Worte bleiben lautlos. Ausnahmsweise ist auch er 
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Deine Augen öffnen sich zu einer vertrauten Szene: Durance sitzt mit dem Stab über seinem Schoß auf dem Boden, und aus einer Seite des Stabes lodert eine bösartige Flamme.
+      <DefaultText>Deine Augen öffnen sich zu einer vertrauten Szene: Durance sitzt mit dem Stab über seinem Schoß auf dem Boden und auf einer Seite des Stabes lodert eine bösartige Flamme.
 
-Er ist nur schwer zu erkennen, und seine weichen Gesichtszüge scheinen ineinander zu verschwimmen. Den Stab aber, dessen Einkerbungen in einem geschmolzenen Orange leuchten, kannst du deutlich erkennen. Obwohl du Durance' Gesicht nur schwer erkennen kannst, bleibt kein Zweifel am harten Gesichtsausdruck und der gerunzelten Stirn. Seine leise und unverständliche Stimme zischt und stottert, als ob er ein Streitgespräch mit dem Stab führen würde. Im Feuerschein kannst du einzelne Speicheltropfen erkennen, als sie wie Funken von seinen Lippen fliegen.</DefaultText>
+Er ist nur schwer zu erkennen und seine weichen Gesichtszüge scheinen ineinander zu verschwimmen. Den Stab aber, dessen Einkerbungen in einem geschmolzenen Orange leuchten, kannst du deutlich erkennen. Obwohl du Durance' Gesicht nur schwer erkennen kannst, hat er einen unverkennbar harten Gesichtsausdruck und seine Stirn ist gerunzelt. Seine leise und unverständliche Stimme zischt und stottert, als ob er ein Streitgespräch mit dem Stab führen würde. Im Feuerschein kannst du einzelne Speicheltropfen erkennen, als sie wie Funken von seinen Lippen fliegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Eines der Symbole hat etwas Merkwürdiges an sich: Ein Kreis aus zwölf kleineren Kreisen. Einer der kleinen Kreise leuchtet hell, die anderen elf aber geben kaum Licht ab. Sie flackern und verblassen wie kalt werdende Kohle.
+      <DefaultText>Eines der Symbole hat etwas Merkwürdiges an sich: Ein Kreis aus zwölf kleineren Kreisen. Einer der kleinen Kreise leuchtet hell, die anderen elf aber geben kaum Licht ab. Sie flackern und verblassen wie erkaltende Kohlen.
 
-Zwischen seinen zischenden Flüchen geht Durance mit dem Gesicht nahe an den Stab heran und pustet mit panikartiger Hast auf die verblassenden Kreise. Diese leuchten dadurch etwas mehr auf, entzünden sich aber nicht. Die Kreise sterben einer nach dem anderen, und von ihrer Asche steigt Rauch auf. Nur einer brennt immer noch.</DefaultText>
+Zwischen seinen zischenden Flüchen geht Durance mit dem Gesicht nahe an den Stab heran und pustet mit panikartiger Hast auf die verblassenden Kreise. Diese leuchten dadurch etwas heller, entzünden sich aber nicht. Die Kreise erlöschen einer nach dem anderen und von ihrer Asche steigt Rauch auf. Nur einer brennt immer noch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Durance schleudert den Stab auf seine Füße, und er schlägt klappernd auf dem Boden auf. Seine Ränder sind weich geworden, er ist nur noch schwer zu erkennen. Wie sein Besitzer kannst du den Stab jetzt nur noch verschwommen sehen.</DefaultText>
+      <DefaultText>Durance schleudert den Stab vor seine Füße, dass er klappernd auf dem Boden aufschlägt. Seine Konturen sind dabei unscharf geworden, sind nur noch schwer zu erkennen. Genau wie sein Besitzer, ist der Stab zu einem Schemen geworden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>Du schließt deine Augen, und als du sie wieder öffnest, siehst du Durance, der seinen Stab vom Boden aufhebt. Das Verschwommene aber ist verschwunden, und du bist wach.</DefaultText>
+      <DefaultText>Du schließt deine Augen und als du sie wieder öffnest, siehst du Durance, der seinen Stab vom Boden aufhebt. Das verschwommene Eindruck aber ist verschwunden und du bist wach.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

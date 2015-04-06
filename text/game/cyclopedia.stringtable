@@ -369,7 +369,7 @@ Ihre Farbgebung richtet sich nach beanspruchten Territorium. Lebt ein Jungdrache
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Druiden glauben, dass Essenz am stärksten und harmonischsten ist, wenn sie mit der Naturwelt verbunden ist. Da die meisten Wesen Seelen (oder Teile von Seelen) haben, die schon dutzende oder hunderte Lebenskreisläufe durchlebt haben, verfügen sie bereits über eine Verbindung zur Naturwelt. Das Erlernen und Üben von Geisterwandlerformen dreht sich darum, sich vorausgegangene Leben nutzbar zu machen und die Stärken und Fähigkeiten (wenn nicht gar die tatsächlichen Erinnerungen) der Seelenverwandten im Königreich der Tiere zu erfahren. Druiden glauben auch, dass das Geisterwandeln einem Individuum ermöglicht, die eigene Essenz besser auszugleichen und zu stärken, indem es sich an vergangenen Leben "ausrichtet." Diese Praktik vermeidet das Trauma einer vollständigen Erweckung, die Druiden als unnatürlich und erzwungen betrachten.
+      <DefaultText>Druiden glauben, dass Essenz am stärksten und harmonischsten ist, wenn sie mit der Naturwelt verbunden ist. Da die meisten Wesen Seelen (oder Teile von Seelen) haben, die schon dutzende oder hunderte Lebenskreisläufe durchlebt haben, verfügen sie bereits über eine Verbindung zur Naturwelt. Das Erlernen und Üben von Geisterwandlerformen dreht sich darum, sich vorausgegangene Leben nutzbar zu machen und die Stärken und Fähigkeiten (wenn nicht gar die tatsächlichen Erinnerungen) der Seelenverwandten im Königreich der Tiere zu erfahren. Druiden glauben auch, dass das Geisterwandeln einem Individuum ermöglicht, die eigene Essenz besser auszugleichen und zu stärken, indem es sich an vergangenen Leben "ausrichtet". Diese Praktik vermeidet das Trauma einer vollständigen Erweckung, die Druiden als unnatürlich und erzwungen betrachten.
 
 Fähige Druiden können mehrere Geisterwandlerformen erlernen. Sie glauben, dass jede Form dem Anwender einzigartige Erfahrungen gewährt und seine oder ihre Essenz näher ans perfekte Gleichgewicht bringt.</DefaultText>
       <FemaleText />
@@ -824,7 +824,7 @@ Einige Kreaturen können manchen Wirkungen gegenüber immun sein. In diesem Fall
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Wird ein Charakter mit passiven Talenten oder Fähigkeiten ausgestattet, erhält er den entsprechenden Bonus automatisch. Ein Charakter mit 'Reflexe der Schlange' erhält den Bonus auf seine Reflexe beispielsweise automatisch.</DefaultText>
+      <DefaultText>Wird ein Charakter mit passiven Talenten oder Fähigkeiten ausgestattet, erhält er den entsprechenden Bonus automatisch. Ein Charakter mit "Reflexe der Schlange" erhält den Bonus auf seine Reflexe beispielsweise automatisch.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1116,9 +1116,9 @@ Hinweis: Es gibt eine Reihe von Talenten und Fähigkeiten, die sich auf die Rege
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>Wenn im Nahkampf zwei Angreifer aus unterschiedlichen Richtungen eine Nahkampfbindung mit ein und demselben Gegner eingehen, 'flankieren' sie ihn. Dadurch wird der Verteidiger mit dem Flankiert-Status belegt - er leidet unter verschiedenen Mali und kann mit einem Schleichangriff angegriffen werden. Jeder Zustand, der die Angriffsbindung eines Angreifers aufhebt, entfernt auch den Flankiert-Status des Verteidigers, wenn dieser nicht ohne den Angreifer aufrecht gehalten werden kann.
+      <DefaultText>Wenn im Nahkampf zwei Angreifer aus unterschiedlichen Richtungen eine Nahkampfbindung mit ein und demselben Gegner eingehen, "flankieren" sie ihn. Dadurch wird der Verteidiger mit dem Flankiert-Status belegt - er leidet unter verschiedenen Mali und kann mit einem Schleichangriff angegriffen werden. Jeder Zustand, der die Angriffsbindung eines Angreifers aufhebt, entfernt auch den Flankiert-Status des Verteidigers, wenn dieser nicht ohne den Angreifer aufrecht gehalten werden kann.
 
-Hinweis: Es gibt einige Fähigkeiten, die Ausnahmen zu den üblichen Flankierungsregeln verleihen, zum Beispiel 'Einer alleine' (Barbar), Pirscher (Waldläufer) und Phantomfeinde (Medium).</DefaultText>
+Hinweis: Es gibt einige Fähigkeiten, die Ausnahmen zu den üblichen Flankierungsregeln verleihen, zum Beispiel "Einer alleine" (Barbar), Pirscher (Waldläufer) und Phantomfeinde (Medium).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

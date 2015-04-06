@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Schnapp dir seinen Münzbeutel und ab dafür!"</DefaultText>
+      <DefaultText>"Schnapp dir seinen Münzbeutel und weg!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,8 +31,8 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Er zieht eine geschärfte Klinge und lächelt. "Freund, ich glaube, du begreifst hier das Wesentliche nicht."</DefaultText>
-      <FemaleText />
+      <DefaultText>Er zieht eine geschärfte Klinge und lächelt. "Ich glaube, du begreifst hier das Wesentliche nicht, Freundchen."</DefaultText>
+      <FemaleText>Er zieht eine geschärfte Klinge und lächelt. "Ich glaube, du begreifst hier das Wesentliche nicht, Fräulein."</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>
@@ -41,8 +41,8 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Anscheinend ist uns ein Hochwohlgeborener ins Netz gegangen, ein ausländischer noch dazu." Er nickt seinen zwielichtigen Gefährten zu. "Lasst uns ihn gebührend willkommen heißen."</DefaultText>
-      <FemaleText />
+      <DefaultText>"Das ist uns wohl ein Hochwohlgeborener ins Netz gegangen, ein ausländischer noch dazu." Er nickt seinen zwielichtigen Gefährten zu. "Lasst uns ihn gebührend willkommen heißen."</DefaultText>
+      <FemaleText>"Da ist uns wohl eine Hochwohlgeborene ins Netz gegangen, eine ausländische noch dazu." Er nickt seinen zwielichtigen Gefährten zu. "Lasst uns sie gebührend willkommen heißen."</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

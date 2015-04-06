@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ich hab genau so viel Recht, hier zu stehen, wie die Kerle, die in das Bordell da gehen. Wenn es ihnen nicht passt, was ich zu sagen habe, dann können sie auch woanders hingehen."</DefaultText>
+      <DefaultText>"Es steht mir nicht weniger zu, hier zu stehen, als den Kerlen, die in dieses Hurenhaus da gehen. Wenn es ihnen nicht passt, was ich zu sagen habe, dann können sie ja auch woanders hingehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[Zeig ihm den Dolch, den du bei Derrin gefunden hast.] "Gehört dir das?"</DefaultText>
+      <DefaultText>[Zeig ihm den Dolch, den du bei Derrin gefunden hast.] "Gehört das dir?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,22 +21,22 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText> "Du hast hier vor zwei Tagen einen Knaben ermordet."</DefaultText>
+      <DefaultText> "Du hast hier vor zwei Tagen einen Jungen ermordet."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Über was zum Teufel redest du da? Selbst wenn ich so einen Zwerg getötet hätte, du hast keinerlei Beweise dafür."</DefaultText>
+      <DefaultText>"Über was zum Teufel redest du da? Selbst wenn ich so einen Kümmerling getötet hätte, hast du keinerlei Beweise dafür."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ja, der gehört mir, und niemand fasst meinen Dolch an und kommt lebend davon."</DefaultText>
+      <DefaultText>"Ja, der gehört mir. Und niemand fasst meinen Dolch an und kommt mit dem Leben davon."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[Angreifen] "Na komm, versuch es doch einfach mal."</DefaultText>
+      <DefaultText>[Angreifen] "Na komm, versuch es doch."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,12 +46,12 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Bragan, zahl ihn einfach. Er sieht viel zäher als dieser Knabe aus."</DefaultText>
-      <FemaleText />
+      <DefaultText>"Bragan, gib ihm einfach das Geld. Er sieht viel zäher als dieser Balg aus."</DefaultText>
+      <FemaleText>"Bragan, gib ihr einfach das Geld. Sie sieht viel zäher als dieser Balg aus."
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Gut. Hier, bitte, dann bleibt das zwischen uns."</DefaultText>
+      <DefaultText>"Gut. Hier bitte, dann bleibt das unter uns."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

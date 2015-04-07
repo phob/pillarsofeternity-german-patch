@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_defiance_bay_coppleane\01_tsk_elder_archives</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Parabel von Wael</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Beschaffe die gestohlene Schriftrolle zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu Grimda in Kupferweg zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Eine Gruppe von Dieben hat eine Schriftrolle von Wael aus der Halle der aufgedeckten Geheimnisse in Trutzbucht gestohlen. Die Oberarchivarin Grimda will, dass ich die Diebe aufspüre und die Schriftrolle zurückbeschaffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Grimda sagte, dass einer der Diebe etwas von einem verlassenen Bauernhof auf dem Weg nach Dyrfurt gesagt habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe die gestohlene Schriftrolle wiederbeschafft. Nun muss ich sie nur noch zu Grimda in der Halle der aufgedeckten Geheimnisse in Kupferweg bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe mehrere Leute gefunden, die sich in einem verlassenen Bauernhof verstecken. Ich glaube, dass es sich um die Diebe handelt, die Grimda erwähnt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Nun, da die Diebe tot sind, kann ich die Schriftrolle bei ihnen suchen und sie Grimda bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich hatte gerade ein äußerst seltsames Erlebnis. Ich habe eine Stimme in meinem Kopf gehört, die mir sagte, ich solle die Schriftrolle wieder verstecken. Sie hat mich angewiesen, sie in den Schwarzauen unter dem Kopf des Jungdrachen zu vergraben, der nach Osten blickt. Es klang wie eine Botschaft von Wael selbst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe die Schriftrolle dort vergraben, wo Wael es mir aufgetragen hat. Grimda wird wissen wollen, was mit ihr geschehen ist, aber ich weiß nicht, wie sie auf diese Kunde reagieren wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Grimda die Schriftrolle von Wael gebracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Da Grimda tot ist, hat es keinen Sinn mehr, die Schriftrolle von Wael zurückzubringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe Waels kryptische Anweisungen befolgt und die Schriftrolle in den Schwarzauen vergraben. Grimda hat mir natürlich nicht geglaubt und tobt jetzt vor Zorn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe Waels kryptische Anweisungen befolgt und die Schriftrolle in den Schwarzauen vergraben. Grimda hat verstanden, dass dies der Wille Waels war. Sie war erfreut.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

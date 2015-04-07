@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_si_rhemen_gorge_entrance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>In den Stein hier wurden einige einfache Formen geritzt. Eine kleine, kreisförmige Einkerbung markiert die Mitte, umgeben von einem sehr viel größeren Kreis. Über den zwei Kreisen scheint etwas geschrieben zu stehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die kreisförmige Einkerbung ansehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Den äußeren Kreis betrachten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Die Adra-Scheibe in die Einkerbung legen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Mehrere Formen sind entlang des äußeren Rings eingeritzt. Die meisten sind zwar verwittert, doch über der Mitte erkennst du einen Halbmond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Einkerbung ist nicht sehr tief, scheint jedoch genau die Größe der Adra-Scheibe zu haben, die du von den Riesentötern erhalten hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Der Stein gleitet mühelos in den Platz und du spürst, wie Luft in winzige Lücken in der Einkerbung strömt. Der Stein scheint jetzt fest an Ort und Stelle gehalten zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Einkerbung ist glatt und nicht sehr tief. Es scheint, als wäre sie dazu gedacht, etwas Bestimmtes aufzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Die Schrift untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Zeichen sind dir völlig fremd, vermutlich die Überbleibsel einer längst vergessenen Sprache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die gekrümmten, verdrehten Runen kommen dir seltsam vertraut vor. Du erkennst sie als altes Engwithanisch. Sie bedeuten:
+
+"Alle Dinge enden, nur um von neuem fortgesetzt zu werden. Tritt in der Abenddämmerung ein, auf dass wir alle eine neue Morgenröte erleben dürfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Der Stein passt in die Einkerbung, aber da nichts ihn an Ort und Stelle hält, fällt er wieder heraus. Du hast das Gefühl, dass du etwas falsch machst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Unter deinen Füßen hörst du, wie sich Steine verschieben, dann rauscht plötzlich Wasser. Das Becken vor dir beginnt sich zu leeren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Eine Weile warten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die helle Sonne wirft ihr Licht auf ein Muster auf dem Boden. Du kniest dich nieder, um es näher zu betrachten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Das Sternenlicht beleuchtet ein Muster auf dem Boden. Du kniest dich nieder, um es näher zu betrachten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du wartest einige Stunden und beobachtest, wie die Sterne über dir glitzern und funkeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du wartest eine Stunden und beobachtest, wie die Sonne ihre Bahn am Himmel zieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

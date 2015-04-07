@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_defiance_bay_coppleane\01_qst_voice_past</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Eine Stimme aus der Vergangenheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Betritt die Katakomben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Suche nach Rowyna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Besuche das Sanatorium von Farnheim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Beschaffe Heligs Forschungen aus Moedreds Laboratorium.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre zu Helig in den Katakomben zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kehre zu Dalton in Kupferweg zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Töte Helig von Thein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Kehre zu Helig in den Katakomben zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich bin heute in Kupferweg dem pensionierten Abenteurer Dalton begegnet. Er hört in letzter Zeit immer wieder die Stimme von Rowyna, seiner Geliebten und Kameradin, die vor fast 60 Jahren an seiner Seite gestorben ist. 
+
+In seinen Träumen wandelt sie durch die Katakomben unter der Stadt. Er hat mich gebeten, hinabzusteigen und nach ihr zu suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dalton hat mir von einem Eingang zu den Katakomben berichtet, der in der südwestlichen Ecke von Kupferweg liegt. Ich muss ihn finden, wenn ich nach Rowyna suchen will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe einen Weg in die Katakomben gefunden. Leider konnte Dalton mir keine genauen Wegangaben machen, aber wenn Rowyna hier unten herumirrt, dann muss ich irgendwo Spuren von ihr finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich bin Helig von Thein begegnet, dem Zauberer, der Rowyna vor all dieser Zeit getötet hat. Er behauptet zu wissen, wo sie ist, aber er hat einen Gefallen von mir eingefordert.
+
+Helig möchte, dass ich sein Zauberbuch zurückbeschaffe, um eine alte Schuld zu begleichen. Er ist überzeugt, dass sein alter Rivale Moedred es hinter Schloss und Riegel hält, ein Beseeler im Sanatorium von Farnheim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich bin in das Sanatorium von Farnheim gelangt. Laut Helig bewahrt Moedred alles von Wert in einer Truhe in seinem Laboratorium auf. Er hat mir einen Schlüssel geben, mit dem sie sich öffnen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Als ich Moedreds Truhe öffnete, sprang die Wicht-Tochter des Beseelers daraus hervor und riss ihren Vater in Stücke. Ich nehme an, dass Heligs Rache nichts mit seinem Zauberbuch zu tun hatte.
+
+Helig wird ohne Zweifel hocherfreut sein, wenn ich ihm von dem Vorfall berichte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe ein Amulett gefunden, das Rowynas Seele enthält. Wenn ich es Dalton gebe, spendet ihm das gewiss Trost, allerdings auf Rowynas Kosten. Es erfreut sie bestimmt nicht, seit so vielen Jahren in dem Amulett gefangen zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Helig ist noch schlimmer als ich dachte. Moedred hat mir von den düsteren Experimenten seines einstigen Kollegen berichtet. Ich habe entschieden, Helig ein für alle Mal das Handwerk zu legen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich habe Moedred getötet. Das war zwar nicht, worum Helig mich gebeten hatte, aber was geschehen ist, ist geschehen. Ich muss zu ihm zurückkehren und ihm davon berichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe mit Eorn gesprochen, einem Orlaner, der sich in den Katakomben versteckt hält. Er hat Rowyna nicht gesehen, aber er hat berichtet, dass er Stimmen von der Nordwestseite des Kanals gehört habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe Helig getötet, den Zauberer, der Rowyna vor all dieser Zeit getötet hat. Es gibt keine Spur von ihr, aber vielleicht finde ich in seinen Räumen einen Hinweis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe bei Heligs Leiche ein leuchtendes Amulett gefunden. Vielleicht hat es für Dalton eine Bedeutung, wenn ich schon sonst nichts finden konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich habe den untoten Zauberer Helig getötet - dieses Mal endgültig. Es gibt keine Spur von Rowyna, aber vielleicht finde ich in seinen Räumen einen Hinweis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich habe bei Heligs Leiche ein leuchtendes Amulett gefunden. Vielleicht hat es für Dalton eine Bedeutung, wenn ich schon sonst nichts finden konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Ich habe Helig in den Katakomben getötet. Es gibt keine Spur von Rowyna, aber vielleicht finde ich in seinen Räumen einen Hinweis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Ich habe bei Heligs Leiche ein leuchtendes Amulett gefunden. Vielleicht hat es für Dalton eine Bedeutung, wenn ich schon sonst nichts finden konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Ich habe den untoten Zauberer Helig getötet - dieses Mal endgültig. Es gibt keine Spur von Rowyna, aber vielleicht finde ich in seinen Räumen einen Hinweis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Ich habe bei Heligs Leiche ein leuchtendes Amulett gefunden. Vielleicht hat es für Dalton eine Bedeutung, wenn ich schon sonst nichts finden konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Als ich es näher untersuchte, stellte ich fest, dass Rowynas Seele in dem Blutsteinamulett gefangen war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>Als ich es näher untersuchte, stellte ich fest, dass Rowynas Seele in dem Blutsteinamulett gefangen war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>Als ich es näher untersuchte, stellte ich fest, dass Rowynas Seele in dem Blutsteinamulett gefangen war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>Als ich es näher untersuchte, stellte ich fest, dass Rowynas Seele in dem Blutsteinamulett gefangen war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>Хелигу не понравилось, что я лишил его возможности как следует отомстить Мойдреду, и мне пришлось его убить. Надо обыскать его. Вдруг найду что-нибудь, что приведет меня к Ровине.</DefaultText>
+      <FemaleText>Хелигу не понравилось, что я лишила его возможности как следует отомстить Мойдреду, и мне пришлось его убить. Надо обыскать его. Вдруг найду что-нибудь, что приведет меня к Ровине.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>Moedred gestand die Ermordung Heligs, aber er legte auch dar, dass Letzterer ein böser und gefährlicher Mann gewesen war. Ich könnte fortfahren, Helig zu helfen, oder aber ich könnte in die Katakomben zurückkehren und beenden, was Moedred begonnen hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Helig hatte Rowynas Seele in einem Blutsteinamulett eingesperrt. Ich habe Dalton überzeugt, es zu zerstören, um sie zu befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Helig hatte Rowynas Seele in einem Blutsteinamulett eingesperrt. Ihre Essenz macht das Amulett zu einem mächtigen Talisman. Ich habe beschlossen, es zu behalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Helig hatte Rowynas Seele in einem Blutsteinamulett eingesperrt. Ich habe es Dalton gegeben, der dankbar war, seine geliebte Rowyna wieder in seiner Nähe zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich habe in den Katakomben ein Amulett gefunden, das einst Rowyna gehörte, und habe es Dalton gegeben. Er war dankbar, diese Erinnerung an seine geliebte Rowyna zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich habe in den Katakomben ein Amulett gefunden, das einst Rowyna gehörte. Es ist sehr mächtig, daher habe ich beschlossen, es zu behalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Ich habe Dalton gesagt, dass er nur von Rowyna geträumt hat. Er war enttäuscht, dankte mir aber für meine Hilfe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Dalton hat ein unglückseliges Ende genommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>Helig hatte Rowynas Seele in einem Blutsteinamulett eingesperrt. Ich habe sie befreit, sehr zu Daltons Unmut.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

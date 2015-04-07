@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_defiance_bay_ondras_gift\03_tsk_lighthouse</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die klagende Todesfee</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde heraus, woher das Heulen und Kreischen stammt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kümmere dich um den Cean Gŵla.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Niah beim Leuchtturm zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Geh zum Leuchtturm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Niah versucht, den alten Leuchtturm in Ondras Geschenk zu renovieren. Ihre Arbeiter weigern sich aber, ihn zu betreten, weil es dort angeblich spuken soll. Sie möchte, dass sich jemand dort umsieht, um zu beweisen, dass keine Gefahr besteht. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Der Leuchtturm scheint seit langer Zeit verlassen zu sein. Er ist voller bösartiger Schatten und ich höre aus einem der oberen Stockwerke ein furchterregendes Schreien. 
+
+Das muss die Kreatur sein, die seit über einem Jahrhundert in dem Leuchtturm spukt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Eine Todesfee, oder "Cean Gŵla", wie die Einheimischen sagen, schreit und kreischt im dritten Stock des Leuchtturms. Sie hat mich noch nicht angegriffen, aber ich muss sie beseitigen, damit Niahs Arbeiter den Turm renovieren können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Die Todesfee dürfte kein Problem mehr darstellen. Niah ist in Ondras Geschenk und wartet auf die frohe Kunde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Niah hat mir den Schlüssel für den Leuchtturm im Südwesten von Ondras Geschenk gegeben. Sie möchte, dass ich den Gerüchten nachgehe, dass es dort spukt - auch, wenn sie glaubt, dass sie Humbug sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Die letzte Leuchtturmwärterin hat ein Logbuch geführt, offenbar bis in die letzten Tage des Widerstandskriegs hinein. Außerdem hielt sie Ausschau nach einem Schiff namens "Roter Traum". Niah weiß vielleicht mehr darüber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Maerwith hat mir offenbart, dass die letzte Leuchtturmwärterin ihre Mutter war - vermutlich die Kreatur, die nun im oberen Stockwerk spukt. Ich habe Maerwith überzeugt, sie zu besuchen, um den Geist zu besänftigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Niah hat mir berichtet, dass die Roter Traum ein Piratenschiff ist, deren Kapitän eine Elfin namens Maerwith ist. Wenn sie in der Stadt anlegt, hält sie sich meistens im Verkohlten Fass in Farnheim auf - so auch jetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Maerwith hatte offenbar eine persönliche Verbindung zu dem Leuchtturm und der letzten Leuchtturmwärterin, aber sie weigert sich, den Leuchtturm aufzusuchen. Ich muss den Geist auf anderem Wege loswerden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Nachdem ich nah genug herangekommen war, bemerkte ich, dass der Geist den Horizont nach etwas abzusuchen schien. Seine Hände waren voller dunkler Flecken - Blut vielleicht, oder Tinte. Vielleicht finde ich irgendetwas in der Nähe, das Licht ins Dunkel bringt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die Todesfee im Leuchtturm getötet. Niah konnte mit ihren Renovierungen fortfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe Maerwith überzeugt, die Todesfee zu besuchen. Nun, da der zornige Geist besänftigt ist, kann Niah mit ihren Renovierungen fortfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe Niah getötet. Eine Belohnung dafür, dass ich den Leuchtturm befreit habe, kann ich jetzt nicht mehr von ihr erwarten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

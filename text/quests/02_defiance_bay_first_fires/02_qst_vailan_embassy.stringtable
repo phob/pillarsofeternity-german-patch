@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_defiance_bay_first_fires\02_qst_vailan_embassy</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Vergessenen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Geh zur Aedelwan-Brücke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Gib dich an der Aedelwan-Brücke als Mestre Barcozzis Käufer aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Besiege die Vergessenen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kehre zu Vicent Agosti in der Botschaft in Urfeuer zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Vicent Agosti will, dass ich eine Gruppe von Abenteuern daran hindere, weiter engwithanische Ruinen zu plündern und damit einen diplomatischen Zwischenfall auszulösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Vergessenen warten an der Aedelwan-Brücke auf Mestre Barcozzis Käufer. Agosti will, dass ich mich als der Käufer ausgebe, um Einzelheiten darüber zu erfahren, wie die Vergessenen engwithanische Relikte schmuggeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Sprich mit den Vergessenen und gib dich als Mestre Barcozzis Käufer aus. Finde heraus, wie die Vergessenen engwithanische Artefakte aus Trutzbucht schmuggeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Die Vergessenen werden nicht zulassen, dass ich die Aedelwan-Brücke lebend verlasse. Ich muss sie alle töten, bevor sie mich töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich sollte zu Vicent Agosti zurückkehren und dem Botschafter sagen, dass die Vergessenen ihm keine Probleme mehr bereiten werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Vicent Agosti war erleichtert zu hören, dass die Vergessenen keine engwithanischen Ruinen mehr plündern und ihm dadurch keine diplomatischen Kopfschmerzen mehr bereiten werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Vicent Agosti getötet, bevor ich seine Aufgabe abschließen konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

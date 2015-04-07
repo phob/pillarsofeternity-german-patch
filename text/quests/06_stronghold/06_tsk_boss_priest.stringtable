@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_stronghold\06_tsk_boss_priest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld: Thorfen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte Thorfen und nimm seinen Kopf an dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bringe Thorfens Kopf zu Oberwärter Fyrgen in Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Der eothasianische Priester Thorfen sorgt im Esternwald für Ärger - weshalb ein Kopfgeld auf ihn ausgesetzt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Thorfen, ein Hohepriester von Eothas, hat Grabsteine geschändet und dann die Schmelztiegelritter getötet, die seinem Treiben ein Ende bereiten sollten. Auf seinen Kopf wurde eine Belohnung ausgesetzt. Wenn ich in den Esternwald reise und ihm das Handwerk lege, kann ich sie einfordern. Ich muss seinen Kopf als Beweis für seinen Tod an mich nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Thorfen ist Geschichte. Ich kann seinen Kopf zu Oberwärter Fyrgen bringen, um die versprochene Belohnung einzufordern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe das Kopfgeld für Hohepriester Thorfen eingefordert.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

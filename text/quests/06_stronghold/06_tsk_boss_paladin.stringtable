@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_stronghold\06_tsk_boss_paladin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld: Galen Dalgard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte Galen Dalgard und nimm seinen Kopf an dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bringe Galen Dalgards Kopf zu Oberwärter Fyrgen in Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Der aedyranische Sklaventreiber Galen Dalgard wurde bei der Madhamr-Brücke gesehen. Es wurde ein Kopfgeld auf ihn ausgesetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Es wurde ein Kopfgeld auf den berüchtigten Sklaventreiber Galen Dalgard ausgesetzt. Fyrgen sagte, man könne ihn vielleicht bei der Madhamr-Brücke finden. Ich muss ihn töten und seinen Kopf als Beweis mitbringen, um das Kopfgeld zu erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Galen Dalgard ist tot. Ich kann mein Kopfgeld einfordern, indem ich seinen Kopf zu Oberwärter Fyrgen bringe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe das Kopfgeld für Galen Dalgard eingefordert.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

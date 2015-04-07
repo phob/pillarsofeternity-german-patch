@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_defiance_bay_ondras_gift\03_qst_at_all_costs</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Um jeden Preis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Stelle Gareth in Kupferweg das Paket zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu Verzano in Ondras Geschenk zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Hole dir im Lagerhaus in Ondras Geschenk Bittergurkensamen von Verzano.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Besiege Danna Doemenel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Töte Verzano.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Mestre Verzano, der Leiter der Vailianischen Handelsgesellschaft in Trutzbucht, möchte, dass ich für ihn ein Paket zustelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Mestre Verzano hat mir ein Paket gegeben, dass ich Gareth in der Schänke Fuchs und Gans in Kupferweg zustellen soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Verzano hat sich in Schwierigkeiten mit dem örtlichen Verbrechenskartell gebracht, und unglücklicherweise hat er mich mit hineingezogen. 
+
+Er wartet in der Vailianischen Handelsgesellschaft in Ondras Geschenk auf mich. Wenn ich ihm gegenübertrete, werde ich mich entscheiden müssen, wie ich mit seinem Verrat umgehe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Ich habe Verzano gesagt, dass mich sein Botendienst nicht interessiert. Er forderte mich auf, zu ihm zurückzukehren, falls ich meine Meinung ändere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Ich habe mich dazu entschieden, Verzano vor Danna Doemenel zu schützen. Dafür haben es sie und ihre Schläger nun auch auf mich abgesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Ich habe mich dazu entschieden, Verzano umzubringen, was für mich keine großartige Herausforderung darstellen sollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe Danna und ihre Schläger im Fuchs und Gans besiegt, also hat Verzano eine Sorge weniger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich beschützte Verzano vor der rachsüchtigen Danna Doemenel. Ich werde mich vom Rest des Hauses Doemenel vorsehen müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich hielt mich aus dem Zwist zwischen Mestre Verzano und dem Haus Doemenel heraus. Danna Doemenel machte mit dem Kaufmann kurzen Prozess.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich brachte Mestre Verzano um. Angesichts seiner vielen Feinde war es wirklich nur eine Frage der Zeit, bis es jemand tun würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich versuchte, Verzano vor der rachsüchtigen Danna Doemenel zu schützen, aber er starb während des Kampfes. Ich werde vor dem Rest des Hauses Doemenel auf der Hut sein müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich brachte Mestre Verzano um, aber auch Danna Doemenel fiel den Kämpfen zum Opfer. Hoffentlich wird mich der Rest des Hauses Doemenel nicht für ihren Tod verantwortlich machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich brachte Verzano vor der Erfüllung des Auftrags um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Ich tötete Gareth, bevor ich ihm das Paket von Verzano zustellte.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

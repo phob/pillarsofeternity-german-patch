@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_eothas_vault_spirit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als du dich näherst, erhebt sich Licht von den Knochen. Bevor deine Welt umkippt, kannst du einen Moment lang das kaum wahrnehmbare Bild einer stehenden Gestalt sehen, deren Züge aus verschwommenem Nebel oder Rauch bestehen ... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Der Boden ist mit Skeletten bedeckt, eingefroren in den letzten Momenten ihrer Qual. Du spürst eine Gegenwart in der Luft, schwer wie ein physisches Gewicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Die Überreste einsammeln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Die Überreste unberührt liegenlassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du verbringst ein paar Moment damit, so viele Priesterknochen wie möglich aufzusammeln. Dies stellt sich als schwere - und grauenhafte - Aufgabe heraus, aber es gelingt dir, alle zu bergen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Am Rande dieses grässlichen Tableaus scheint ein Haufen Überreste in einem eigenartigen Licht zu leuchten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du bist zu erschöpft, um Schaden anzurichten. Der Durst brennt in dir wie ein Feuer. Deine Zunge ist dick angeschwollen, und jeder Atemzug kostet dich Kraft. Am Ende jeder Finsternis gibt es einen Lichtschein, sagten sie. Diese Finsternis aber ist endlos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Nachdem dich der Geist freigibt, kommst du wieder zu dir, wenn auch völlig zerstört. Du kannst langsam wieder klar sehen, und die Gruft um dich herum erscheint abermals. Das dürftige Licht der Seele, die immer noch wie ein verblassender Nebel im Raum treibt, hüllt sie in matte Farbtöne. Der Geist sendet Angst in Wellen aus, die an deinen eigenen Gefühlen reißen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du spürst einen dumpfen Puls der Wut von der Seele ausgehen ... und dann Erleichterung. Die spürst, wie sich die Energie zurückzieht, worauf das Licht nach außen treibt und dann erlischt. Der Geist ist verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Dieser lügende Bastard. Ich werde Sorge tragen, dass er hierfür bezahlt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Der Mann, der dich hier zurückließ, ist tot. Jetzt ist die Zeit gekommen, es hinter dir zu lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Vor was musst du dich denn noch fürchten? Du bist doch schon tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Hab keine Angst. Auch diese Finsternis wird vergehen und du das Licht wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Es tut mir leid. Ich hoffe, dass du im nächsten Leben etwas Frieden findest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Weg von mir! Ich habe genug von dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Bevor sie nach unten schwebt, um sich neben den Überresten niederzulassen, spürst du von der Seele eine peitschende Spirale aus Wut und Angst. Sie bewegt sich nicht mehr auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Der Geist scheint sich in sich selbst zurückzuziehen. Als sie die Seele zurückzieht, spürst du weniger von ihrer Angst und Verwirrung, aber sie verweilt dennoch. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Du verbringst ein paar Moment damit, so viele Priesterknochen wie möglich aufzusammeln. Dies stellt sich als schwere - und grauenhafte - Aufgabe heraus, aber es gelingt dir, alle zu bergen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Egal, wie oft ich dich ins Leere glotzen sehe ... es büßt nichts an Seltsamkeit ein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Du rennst an dem flachen Reflexsionsbecken vorbei, das den niedrigsten Punkt des Tempels bildet, und folgst den dunklen Gestalten der älteren Priester, während sie zum schmalen Saal vorgehen, der in die Gruft führt. Dabei eilst du mit schnellen Schritten an einem der Fackelträger vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Es ist, als seist du zur Seite und damit in ein neues Leben getreten. Einem verwobenen Kreis aus Fackelfeuer folgend rennst du eine Freitreppe hinunter, wobei dir dein eigener keuchender Atmen in den Ohren dröhnt. Panik und deine Robe behindern deine Schritte. Du kommst fast ins Straucheln, als jemand eine Hand ausstreckt, dich am Arm packt und wieder ins Gleichgewicht bringt. Dein Akolyth-Kollege lächelt dir aufmunternd zu, als du den Fuß des Tempels erreichst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Das raue Licht der Flammen enthüllt ein vertrautes Gesicht. Einen Moment lang überspannt dein Bewusstsein Zeit und Identität und du glaubst, dass Wirtan hier am Fuß des Tempels bei dir ist. In der Erinnerung schaut er dich einen Moment lang an, bevor er an dir vorbei etwas anderes ansieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Sobald sie gegangen sind, komme ich zurück", sagt er zu dir. Als du von der Menge weitergedrückt wirst, werden seine Worte leiser. "Bleib nur still, wir können keinerlei Risiken eingehen." In der Gruft leuchten goldene Reliquien wie willkommen heißende Sterne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Die Erinnerung verzerrt sich und reißt dich wie eine geworfene Puppe aus einem Moment heraus und stürzt dich in einen anderen. Jetzt bist du nur noch von Dunkelheit umgeben. Bevor sich das Wissen über dich legt wie ein Schleier, glaubst du, geblendet worden zu sein, doch sind in Wahrheit nur sämtliche Kerzen ausgebrannt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Irgendwo zu deiner Linken gibt es ein knackendes Geräusch. Ein nasses, schlürfendes Glucksen und ein zerrissenes Seufzen. Du kannst nichts sehen, und daher kannst du auch nicht erkennen, welcher Bruder oder welche Schwester gefallen ist ... und was da nach dem Wasser gräbt, das in Körpern zu finden ist. Zu deiner Rechten hörst du ein schwaches Murmeln im vertrauten Rhythmus eines Gebets. Die Worte aber kannst du nicht mehr verstehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Du weißt jetzt mit unwohler Gewissheit, dass niemand kommen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

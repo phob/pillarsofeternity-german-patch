@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1015_si_stairs</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Stufen vor dir sind abgebröckelt, weshalb du jetzt am Rand einer dunklen Grube stehst. Du musst äußerst vorsichtig weitergehen, und der Rückweg könnte sich schwierig gestalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Vorsichtig die Felsen hinabklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Nicht von der Stelle rühren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Stufen, die von hier nach oben führen, sind hinuntergestürzt. Die Treppe endet jetzt weit über deinem Kopf. Die Felsen um dich herum sehen jedoch robust genug aus. Genügend Zeit vorausgesetzt sollte dir der Aufstieg gelingen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Die Felsen hochklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Nicht von der Stelle rühren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du kommst nur langsam voran, da die Felsen unter deinen Händen und Füßen gefährlich wackeln, aber du schaffst es, nicht abzurutschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die wackelnden Felsen und die abbröckelnde Wand machen den Aufstieg langsam und tückisch. Auf dem letzten Stück vor dem Boden steigt [SkillCheck 0] auf einen lockeren Stein und fällt den restlichen Weg nach unten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du wählst deinen Weg sorgfältig an der schroffen Wand hinunter und über die aufgehäuften Steine aus und kommst schließlich heil am Boden an</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du erklimmst die Felsen langsam und gleichmäßig und kletterst schließlich über den Rand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du findest dich am Boden eines weiten Beckens wieder und schaust zu riesigen Felsbrocken und Adra-Formationen hoch.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_defiance_bay_ondras_gift\03_qst_missing_cargo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Alle Mann an Deck</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde Marcenos Seemannskiste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Kehre zu Marceno zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Besiege Waldr und seine Bande.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Bei der Erkundung von Ondras Geschenk fand ich heraus, dass von einem Schiff, dass an der Pier vertäut ist, eine Seemannskiste gestohlen wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Der junge Matrose Marceno hat mir anvertraut, dass Kapitän Fortaneros Seemannskiste gestohlen wurde, als er abgelenkt war. Zum Glück für Marceno vergnügt sich sein Kapitän alleine an der Küste und hat noch nicht von dem Vorfall erfahren. Marceno hat mich angefleht, diese Seemannskiste für ihn zu finden, bevor der Kapitän zurückkehrt. Sie befindet sich höchstwahrscheinlich noch in Ondras Geschenk, und ich sollte meine Suche hier beginnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>Ich fand die Seemannskiste, die von Marcenos Schiff gestohlen worden war. Er wird sich freuen, dass ich die Diebe ausfindig und unschädlich machen konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10032</ID>
+      <DefaultText>Die Diebe der Seemannskiste, die Marceno bewachen sollte, werden sie nicht kampflos herausgeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Anscheinend habe ich die Diebe ausfindig gemacht. Wenn ich die Seemannskiste zurückholen will, muss ich sie zuerst erledigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe die Seemannskiste geöffnet und herausgefunden, dass Kapitän Fortaneros 'kostbare Besitztümer' sein Kapitänshut und sein Rapier sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Nachdem die Diebe tot sind, kann ich jetzt die Kiste an mich nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Marceno was sehr glücklich zu erfahren, dass ich die Seemannskiste mitsamt Inhalt zurückgeholt hatte. Sicherlich wird er ab jetzt besser darauf aufpassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich brachte die gestohlene Seemannskiste zu einem äußerst dankbaren Marceno zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich gab Marceno seine Seemannskiste zurück, behielt den Hut und das Rapier aber für mich. Wenn das sein Kapitän herausfindet, wird er wahrscheinlich äußerst wütend werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich erledigte die Diebe von Fortaneros Seemannskiste und ließ Marceno wissen, wo sie zu finden ist. Er war mir äußerst dankbar. Sieht so aus, als würde er nochmal davonkommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Marceno ist tot und kann mich nicht mehr fürs Auffinden der Seemannskiste belohnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30010</ID>
+      <DefaultText>Ich erzählte Marceno, dass ich den Kapitänshut und das Rapier für mich behalte. Er ergriff die Flucht vor der Rache des Kapitäns und ließ mich mit meinem schönen neuen Hut zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30011</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

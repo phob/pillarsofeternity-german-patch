@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\04_defiance_bay_brackenbury\04_tsk_price_love</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Weit weg von zuhause</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sprich mit Serel im Salzigen Mast in Ondras Geschenk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu Thristwn in Farnheim zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Serel in Ondras Geschenk zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kehre zu Serel in Ondras Geschenk zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich bin im Gasthaus von Farnheim einem jungen Glanfathaner namens Thristwn begegnet. Er und eine Prostituierte namens Serel haben gemeinsam reiche Adlige ausgenommen ... bis sie in den Besitz eines engwithanischen Medaillons gelangte. Nun will sie das Medaillon verkaufen, er aber will damit seinem Clan helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Serel hat das engwithanische Medaillon, aber sie wird sich nicht davon trennen wollen.
+
+Sie ist Prostituierte im Salzigen Mast, einem Bordell in Ondras Geschenk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe das Medaillon. Thristwn wartet im Gasthaus auf mich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe Thristwn beseitigt. Ich muss Serel sagen, dass er sich nicht mehr einmischen wird. Sie wartet im Salzigen Mast auf mich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe Thristwn beseitigt. Ich muss Serel sagen, dass er sich nicht mehr einmischen wird. Sie wartet im Salzigen Mast auf mich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Die Wachen im Bordell haben gesagt, ich solle mit Maea sprechen, um Serel zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Maea sagte mir, dass Serel eintausend Pand für die Nacht koste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Serel glaubt, sie habe mehr Anrecht auf das Medaillon als Thristwn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Thristwn schlug vor, dass ich Maea bezahle, wenn ich mit Serel sprechen möchte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe das Medaillon an eine Beseelerin namens Nans verkauft. Thristwn wird enttäuscht sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe das Medaillon für Thristwn beschafft. Er hat mir gedankt und ist aufgebrochen, um seinen Clan zu versammeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Thristwn überzeugt, die Suche nach dem Medaillon aufzugeben. Serel freut sich, ein neues Leben beginnen zu können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Es war nicht leicht, aber ich habe das Medaillon für Thristwn beschafft. Er war nicht erfreut über das vergossene Blut, aber er ist aufgebrochen, sich wieder seinem Clan anzuschließen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich habe Thristwn gesagt, dass ich mich nicht einmischen würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich musste Thristwn töten, damit er Serel in Frieden lässt. Serel war betrübt über die Kunde, beschloss aber, ein neues Leben anzufangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Ich habe beschlossen, das Medaillon selbst zu behalten, anstatt es Thristwn zu geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Ich habe das Medaillon verloren, ehe ich zu Thristwn zurückkehren konnte. Er war traurig, dass es fort war, und ist aufgebrochen, um seinen Clan zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>Ich habe Thristwn getötet und kann keine Belohnung einfordern.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

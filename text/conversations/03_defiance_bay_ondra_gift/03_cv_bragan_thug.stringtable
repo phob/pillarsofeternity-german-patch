@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_bragan_thug</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ich hab genau so viel Recht, hier zu stehen, wie die Kerle, die in das Bordell da gehen. Wenn es ihnen nicht passt, was ich zu sagen habe, dann können sie auch woanders hingehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Zeig ihm den Dolch, den du bei Derrin gefunden hast.] "Gehört dir das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Egal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText> "Du hast hier vor zwei Tagen einen Knaben ermordet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Über was zum Teufel redest du da? Selbst wenn ich so einen Zwerg getötet hätte, du hast keinerlei Beweise dafür."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ja, der gehört mir, und niemand fasst meinen Dolch an und kommt lebend davon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Angreifen] "Na komm, versuch es doch einfach mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Spar dir die Schwierigkeiten. Für ein bisschen Kleingeld kannst du deinen Dolch und dein Leben behalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Bragan, zahl ihn einfach. Er sieht viel zäher als dieser Knabe aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Gut. Hier, bitte, dann bleibt das zwischen uns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Wir sind fertig. Verpiss dich." Bragan säubert sich mit dem Dolch seine Fingernägel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Hau ab. Wir haben nichts zu bereden."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\11_twin_elms_hearthsong\11_qst_downwind_dyrwood</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Den Stämmen ausgeliefert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fange Cwineths drywäldliche Expedition in der Wildnis der Nordlandschaft ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde die dyrwäldliche Expedition beim Pilgerlager in der Wildnis der Nordlandschaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Verfolge die dyrwäldliche Expedition bis zum östlichen Rand der Wildnis der Nordlandschaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Löse die Pattsituation zwischen der dyrwäldlichen Expedition und den Reißzähnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre zu Cwineth in der Nordlandschaft zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kehre zu den Reißzähnen in der Nordlandschaft zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Erstatte Esmar in der Nordlandschaft Bericht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Cwineth, eine Späherin aus dem Dyrwald, ist nach Zwillingsulmen gekommen, um Hilfe für ihre Freunde zu finden, die Teil einer Expedition zur Bergung verlorener Artefakte sind. Zwar wurde die Gruppe noch nicht direkt von den Glanfathanern konfrontiert, doch Cwineth hat während einer Patrouille bemerkt, dass die örtlichen Wachposten die Expedition bereits bemerkt haben. Cwineth hat mich gebeten, ihre Söldnerkameraden vor der drohenden Gefahr zu warnen, während sie versucht, die Erkundungen der glanfathanischen Verfolger zu sabotieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Cwineth, eine Späherin aus dem Dyrwald, der ich beim Himmlischen Bäumchen in Zwillingsulmen begegnet bin, hat mich gebeten, ihre Expedition vor einem bevorstehenden glanfathanischen Hinterhalt zu warnen. Ich soll die Expedition in der Nordlandschaft finden, neben dem Pfad, der zum Hylea-Tempel führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich bin in der Wildnis der Nordlandschaft angelangt, wo Cwineths Expedition neben dem Pilgerpfad zum Hylea-Tempel ihr Lager aufgeschlagen haben soll. Ich muss die Expedition warnen, dass ihnen glanfathanische Späher auf den Fersen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe die Ruinen gefunden, bei denen Cwineths Expedition kampiert hat. Es sind überall Spuren eines Kampfes zu sehen. Auf dem Boden führt eine Fährte nach Osten - vermutlich hat die Expedition sie beim Rückzug aus dem Kampf hinterlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe die Expedition im Osten der Nordlandschaft entdeckt. Sie haben sich bei den Überresten eines alten engwithanischen Turms verschanzt, über der engen Schlucht des Waldes.
+
+Unzählige glanfathanische Reißzähne haben die Dyrwäldler umzingelt und warten auf den richtigen Augenblick für den Angriff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe der Expedition aus dem Dyrwald geholfen - sie sind nun vor unmittelbarem Schaden sicher. Cwineth wartet am Südrand der Nordlandschaft darauf, dass ich ihr berichte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe den Reißzähnen geholfen. Esmar, der Anführer der Expedition aus dyrwäldlichen Söldnern, ist nicht länger. Die Reißzähne warten in der Nordlandschaft auf meinen Bericht - südlich von der Stelle, an der ich mich um die Söldner gekümmert habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe der Expedition aus dem Dyrwald geholfen - sie sind nun vor unmittelbarem Schaden sicher. Esmar wartet bei den östlichen Ruinen der Nordlandschaft auf meine Nachricht, dass seine Männer sicher aus dem Wald fliehen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe den Hauptmann der Expedition getroffen, Esmar, der sich in einer alten Ruine vor den Glanfathanern versteckt hat. Im Süden warten die Reißzähne, im Norden ein Rudel Stelgaer - die Dyrwäldler stecken in der Klemme. Würde man eines dieser Hindernisse entfernen, könnte die Expedition fliehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich bin einer Elfin begegnet, einer Jägerin der Reißzähne, Anführerin der Glanfathaner, die Cwineths Expedition verfolgen. Sie will, dass ich mich um die Dyrwäldler kümmere - als Beweis, dass ich ein Freund Eir Glanfaths bin, nicht einfach nur ein weiterer Plünderer aus dem Dyrwald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe die Reißzähne überzeugt, die Expedition gehen zu lassen - allerdings unter strengen Bedingungen. Esmar, Anführer der dyrwäldlichen Söldner, muss mit seinem Leben oder seiner Freiheit bezahlen, um seinen Gefährten sicheres Geleit aus glanfathanischen Landen zu verschaffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Jetzt, wo der Pfad frei ist, kann ich Esmar sagen, dass seine Männer ungefährdet aus dem Wald fliehen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich bin mit der Kunde über das Schicksal ihrer Kameraden zu Cwineth zurückgekehrt. Sie war erleichtert, von ihrer Flucht zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich bin mit der Kunde über das Schicksal der dyrwäldlichen Expedition zu der Anführerin der Reißzähne zurückgekehrt. Ich habe das dumpfe Gefühl, sie hätte sich der Söldner lieber selbst entledigt, doch durch meine Dienste habe ich dennoch ihre Gunst gewonnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich bin zu Esmar zurückgekehrt, um ihm zu sagen, dass seinen Männern und ihm nun ein Weg aus der Nordlandschaft offensteht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich bin mit der Kunde über das Schicksal ihrer Kameraden zu Cwineth zurückgekehrt. Esmar soll zwar als Gefangener zurückbleiben, doch durch sei Opfer stellt er sicher, dass der Rest der Expedition nach Hause zurückkehren darf.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

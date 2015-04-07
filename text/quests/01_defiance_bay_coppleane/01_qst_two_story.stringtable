@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_defiance_bay_coppleane\01_qst_two_story</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Hoch hinaus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Erzähle jemandem von dem Plan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Beschaffe Abrecan Doemenels Nachricht wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Gib Abrecan die Nachricht zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Stiehl das Herz der Weißmark.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Stiehl das Herz der Weißmark.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Gib Abrecan das Herz der Weißmark.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich habe erfahren, dass ein Adliger aus Farnheim - Fürst Reymont - ausgeraubt werden soll. Ich habe einen Brief gefunden, der den Plan in allen Einzelheiten beschreibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich habe die Pläne der Diebe aus purem Zufall durchkreuzt, als ich über ihr Versteck stolperte. In ihrem Brief stehen Anweisungen, wie man in Fürst Reymonts Villa einbrechen kann, um etwas zu stehlen, was als 'Herz der Weißmark' bezeichnet wird. 
+
+Der Brief wäre vermutlich sowohl für Fürst Reymont als auch für jemanden mit den Initialen 'AD' von großem Interesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Abrecan Doemenel hat eine Gruppe von Dieben angeheuert, um in Fürst Reymonts Villa einzubrechen. Leider sind die Diebe im Besitz eines Briefs, der ihn mit dem Verbrechen in Verbindung bringt.
+
+Er sagte mir, sie würden sich in Kupferweg verstecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe Abrecans Brief von den Dieben wiederbeschafft. Er rechnet damit, dass ich ihn ihm bringe. 
+
+Wenn ich aber andererseits Fürst Reymont berichte, dass das Herz der Weißmark gestohlen werden soll, belohnt er mich vielleicht für meine Ehrlichkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe den Brief, der den geplanten Diebstahl beschreibt, an Abrecan Doemenel zurückgegeben. Nun hat er mich beauftragt, das Herz der Weißmark zu stehlen. Abrecan glaubt, dass der Edelstein irgendwo im ersten Stock ist. Ich kann über ein offenes Fenster von der Straße aus in das Haus gelangen. Er möchte, dass kein Blut vergossen wird.
+
+Das Herz der Weißmark soll entweder an die Schmelztiegelritter oder an die Dutzenden verkauft werden. Beide Gruppierungen möchten sich damit die Freundschaft der Zwerge der Weißmark sichern. Das Haus Doemenel möchte nicht, dass eine der beiden Gruppen solch mächtige Verbündete gewinnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Abrecan Doemenel, der Thronerbe des verbrecherischen Imperiums der Familie Doemenel, war nicht sehr erfreut darüber, dass ich seine Männer getötet und seinen Diebstahl vereitelt habe. Er hat mir ein Ultimatum gestellt: Ich muss den Diebstahl zu Ende bringen und das Herz der Weißmark stehlen - oder der Zorn des Hauses Doemenel trifft mich. 
+
+Ich habe mich einverstanden erklärt, den Edelstein zu stehlen. Abrecan glaubt, dass er irgendwo im ersten Stock ist. Ich kann über ein offenes Fenster von der Straße aus in das Haus gelangen.
+
+Das Herz der Weißmark soll entweder an die Schmelztiegelritter oder an die Dutzenden verkauft werden. Beide Gruppierungen möchten sich damit die Freundschaft der Zwerge der Weißmark sichern. Das Haus Doemenel möchte nicht, dass eine der beiden Gruppen solch mächtige Verbündete gewinnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe Fürst Reymont das Herz der Weißmark gestohlen. Um meine Vereinbarung mit Abrecan einzuhalten, muss ich ihm den Edelstein nach Farnheim bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe das Herz der Weißmark aus Fürst Reymonts Villa gestohlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Fürst Reymont berichtet, dass jemand vorhat, einen wertvollen Edelstein aus seinem Haus zu stehlen, der als Herz der Weißmark bekannt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Abrecan Doemenel war nicht sehr erfreut, als ich versuchte zu gehen, nachdem ich ihm den Brief gebracht hatte. Zumindest habe ich den Plan vereitelt, Fürst Reymont zu bestehlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe Abrecan Doemenel das Herz der Weißmark gegeben. Im Gegenzug hat Abrecan versprochen, ein gutes Wort bei seinem Vater einzulegen, Gedmar Doemenel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich habe den Edelstein den Schmelztiegelrittern gegeben, damit sie sich mit den Zwergen der Weißmark verbünden können. Abrecan wird nicht erfreut sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich habe den Edelstein den Dutzenden gegeben, damit sie sich mit den Zwergen der Weißmark verbünden können. Abrecan wird nicht erfreut sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Ich habe Abrecan Doemenel getötet. Er wird das Herz der Weißmark nicht länger benötigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Nachdem sowohl Fürst Reymont als auch Abrecan Doemenel tot sind, gibt es niemanden mehr, der sich für den Plan interessiert, Fürst Reymont zu bestehlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

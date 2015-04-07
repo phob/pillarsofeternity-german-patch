@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_sweynur</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>69</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ah, du schon wieder." Sweynur hebt seinen Humpen. "Um was geht es?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich weiß nicht, wer du bist, und es ist mir auch ziemlich egal. Geh weiter, wir sind nicht hierher gekommen, um mit Ausländern zu plaudern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Trumbel, wir wissen, dass da drin noch mehr Getreide ist!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Wir werden uns nicht mit ein paar Krümeln zufriedengeben, während du dich an unseren Feldfrüchten fettfrisst!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Aus der Mühle dringt gedämpftes Geschrei. "Der erste von euch Suffköpfen, der durch die Tür kommt, kriegt eins direkt zwischen die Augen! Sweynur, die Götter seien meine Zeugen - ich werde dich wie einen Hund zur Strecke bringen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich habe dich vor der Mühle gesehen. Um was ist es denn da gegangen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Weggehen.] "Ich gehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Du schon wieder. Was willst du denn jetzt noch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Na, da hat aber jemand eine blühende Phantasie, was? Um was geht's denn hier? Darum, dass sich Trumbel für den Dorfkönig hält, nur weil ihm die Mühle gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Du solltest es dir genau überlegen, ob du mit dem Müller Geschäfte treiben willst. Das Getreide gehört schließlich uns!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Lass uns erstmal abziehen, Leute ... Aber wir kommen zurück, hörst du, Trumbel? Und wenn wir zurückkommen, dann wirst du uns einen fairen Preis bieten, sonst werden wir mit dir abrechnen, so wahr uns die Flamme helfe!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Trumbel sagt, dass du seine Familie bedroht hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Oh, das wundert mich gar nicht. Was für ein Adliger, dieser Trumbel. Zwei große, starke Kinder. Die reinste Seele in ganz Goldtal." Der Zwerg schnaubt. "Der Feigling sendet Boten aus, um seine Angelegenheiten für ihn zu erledigen? Na, du kannst zu ihm gehen und ihm sagen, dass wir wegen ihm schon seit Tagen nichts Festes mehr gegessen haben, dass wir uns wegen ihm die Schänke nicht mehr leisten können ... aber dass wir uns nicht an seiner Statt von irgendeinem Ausländer einschüchtern lassen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich habe Met mitgebracht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"He, ja tatsächlich! Bei der Flamme, ich hätte nie gedacht, dass ich mich über einen Krug dieses Scheißbiers vom Schwarzen Hund mal so freuen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Und wenn ich euch allen eine Runde ausgeben würde? Würdet ihr dann mit mir reden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Wenn du gegenüber dieser Familie auch nur deine Stimme erhebst, werde ich dich auf die Windmühlenflügel spannen, damit dich die Krähen auffressen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Vielleicht könnte ich für dich mit ihm sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Drohungen sind unnötig. Es wird doch sicherlich eine Lösung geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Dieser Feigling wird sich tagelang in seiner Mühle verschanzen." Der Zwerg mustert dich. "Aber bitte, wenn du es probieren möchtest, dann wünsche ich dir viel Glück. Wenn du es schaffen solltest, hast du bei uns was gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Der Zwerg lacht säuerlich. "Vielleicht solltest du weiterziehen, bevor noch deine Gefühle verletzt werden. Hier im Dyrwald lassen wir Männer nicht auf uns herumtrampeln und das auch noch gerecht nennen. In anderen Worten: Verpiss dich, Fremder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Was hast du hier drin dann verloren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Nach was sieht es denn aus? Ich werde so viel trinken, bis ich vergesse, wie sehr ich Trumbel eine Mistgabel durchs Gesicht treiben will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Weggehen.] "Ich gehe dann besser mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Angreifen] "Du bist ein gefährlicher Säufer, und ich werde dich zur Strecke bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"He, mach mal langsam." Sweynur reißt mit großen Augen abwehrend seine Arme hoch. "Du musst doch nicht gleich böse werden. Wir werden den Müller in Ruhe lassen. Verdammt nochmal, wir haben ihm kein Haar gekrümmt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Sweynur zieht es kurz in Betracht. Er schaut die anderen an. "Also gut. Bring uns was, mit dem wir unsere Kehlen von innen befeuchten können, dann könnte ich gewillt sein, mit dir ein paar Worte auszutauschen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Schau mal, den Müller zu bedrohen macht überhaupt keinen Sinn. Ihr habt ihn doch schon mit dem Rücken zur Wand. Vielleicht könntet ihr ein paar der anderen Dörfler um Hilfe bitten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Sweynur sieht dich eine lange Augenblicke an, während er große Schlucke aus seinem Krug nimmt. Schließlich seufzt er. "Du hast Recht. Wenn es so weiter geht wie jetzt, werden wir nur an diesem Baum da enden." Er schaut seine Kameraden an. "Sagt Trumbel, dass wir ihn in Ruhe lassen werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Sweynur aus seinem Stuhl zerren] "Wenn du einen Kampf mit Trumbel willst, dann sollten wir für ausgeglichene Verhältnisse sorgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Vielleicht könntest du mir mehr darüber erzählen, was hier vor sich geht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Es ist so, wie ich gesagt habe. Der Müller kontrolliert die Getreidepreise. Er behauptet von sich, gerecht zu sein, aber ich weiß es sicher, dass Leute wie Aufra nur die Hälfte von uns zahlen." Der Zwerg seufzt. "Und vielleicht sind wir ein bisschen grob zu ihm gewesen. Aber was hätten wir denn tun sollen? Wir können nicht mehr weiterzahlen. Wir werden verhungern, und meinst du etwa, Trumbel würde das dann leid tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Weggehen.] "Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Trumbel wird niemanden mehr über den Tisch ziehen. Er ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Tot? Wie ist das-" Er wirft dir einen fragenden Blick zu, scheint es sich dann aber eines Besseren zu überlegen. "Verdammt. Es mag ja ein bisschen hitzig geworden sein, aber ... Ich hatte immer gedacht, dass der alte Mann zur Vernunft käme, bevor etwas passiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Genau, bleib ruhig. Wir werden unser Met trinken, als sei nichts passiert, und dann werden wir uns so viel schnappen, wie wir können. Wenn die Leute das erfahren, werden sie wie Ratten über das Getreide herfallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Was wäre, wenn ich dir sagen würde, dass Trumbel seine Meinung über die Getreidepreise geändert hat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Der Zwerg schaut blinzelnd zu dir hoch. "Wie jetzt, im Ernst?" Er tauscht ein paar Blicke mit seinen Kameraden aus, die zögerlich grinsen. "Der alte Mann hat mit sich reden lassen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Wurde aber auch Zeit. Ich habe ihnen ja gesagt, dass er zur Vernunft kommen würde, aber er hat sich verdammt nochmal viel Zeit dafür gelassen." Er lässt ein paar Kupferstücke auf den Tisch klimpern. "Hier, kauf dir einen Krug Met auf unsere Kosten. Jetzt können wir es uns ja wieder leisten. Das gilt auch für euch beide. Das Met geht auf mich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Die Wangen des Zwergs zittern vor Wut. "Es geht darum, dass er uns kaum was von dem Weizen abgibt, das wir ihm bringen, und dann zieht er uns noch über den Tisch, wenn wir Getreide kaufen müssen. Es geht um Bauern, die Hunger leiden, während sich ein paar reiche Bastarde an ihrer Ernte bereichern." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Darauf läuft es doch verdammt nochmal hinaus. Und jetzt pack dich fort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Der Zwerg nickt dir zu. "Nicht dass wir nicht schätzen würden, was du getan hast, aber ... Vielleicht solltest du besser weiterziehen, Freund. Zwischen dem Magistrat und diesem Geschäft mit dem Weizen glaube ich nicht, dass es hier für dich viel zu holen gibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Also ... wer verteilt das Getreide?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Na, da hat aber jemand eine blühende Phantasie, was? Um was geht's denn hier? Darum, dass sich Trumbel für den Dorfkönig hält, nur weil ihm die Mühle gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Wir haben nur Hunger, das ist alles. Und so wie es aussieht, wird sich das auch nicht ändern. Wenn du dich auf die Seite diese verfaulten Bastards schlagen willst, dann nur zu. Du und dieses ganze beschissene Dorf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Bei den Göttern, das ist gut. Na gut, ich werde dir zuhören. Was hast du uns denn Wichtiges zu sagen, was eine Runde Met wert ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Vielleicht könnte ich für euch mit Trumbel sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Keine Ahnung, was wir angesichts des Ernteausfalls machen sollen. Sonst können wir uns kaum etwas dazuverdienen. Ob Pasca wohl ein bisschen Hilfe in der Schänke braucht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Wir werden uns schon bald auf den Weg machen. Sichere Reisen, Fremder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ach, du bist zum Protzen gekommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ich kann dir gar nicht genug danken! Vielleicht können wir jetzt die Jahreszeit überstehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Du hast deinen Standpunkt dargelegt. Lass uns einfach in Ruhe, verstanden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Ihm eine Klinge an den Hals legen] "Möchtest du das nochmal probieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Sweynurs Augen weiten sich. Er hebt seine Hände und versucht, sein Kinn nach oben von der scharfen Klinge deiner Waffe weg zu bewegen. "Jetzt mach mal langsam. Du musst doch nicht gleich böse werden. Wir werden den Müller in Ruhe lassen. Verdammt nochmal, wir haben ihm kein Haar gekrümmt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Sweynur taumelt mit aufgerissenen Augen aus seinem Stuhl, und seine Kameraden ziehen ihre Waffen. "Auf ihn, Kumpel!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Du schon wieder. Um was geht es denn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ha! Glaubst du etwa, zu ihm durchzukommen, wo wir es auch nicht geschafft haben? Der Mann ist so dumm wie ein Torfmoor. Ich habe gehört, dass er sich die Seele lesen ließ und herausgefunden hat, dass seine Verwandten Sonnread-Bäume für ihre aedyranischen Fürsten anbauen, bis sie herausfanden, dass ihre Seite am Verlieren war. Das erklärt auch, warum seine Knie immer noch schmerzen, wenn ein Fürst oder eine Lady über die Straße geht und er sich verbeugen soll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Wegen dieser Schwierigkeiten mit dem Müller ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Schlag Haken, du Karnickel. Ich habe dir nichts mehr zu sagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Dieser bucklige Speichellecker ... Denkt wohl, er könnte uns aushungern ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Wir geben ihm einen Tag Zeit, nicht länger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Sieh an, sieh an. Alle im Dorf reden über dich, und du gewährst UNS die Gunst deines Besuchs? Weswegen bist du hier, Ausländer? Ein Trinkspruch? Ein bisschen Applaus?" Er hebt seinen Krug zum gespielten Gruß.</DefaultText>
+      <FemaleText>"Sieh an, sieh an. Alle im Dorf reden über dich, und du gewährst UNS die Gunst deines Besuchs? Weswegen bist du hier, Ausländerin? Ein Trinkspruch? Ein bisschen Applaus?" Er hebt seinen Krug zum gespielten Gruß.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Sweynur wirft dir einen neugierigen Blick zu. "Dieses Geschäft? Lass es mich mal so sagen ... wenn du dich hier nützlich machen möchtest, solltest du vielleicht manchmal auch an die gewöhnlichen Gestandenen denken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Trumbel hält sich für den Dorfkönig, weil ihm die Mühle gehört. Er hält es für gerecht, dass er uns kaum was von dem Weizen abgibt, den wir ihm bringen, und dann zieht er uns noch über den Tisch, wenn wir Getreide kaufen müssen. Es gibt Bauern, die Hunger leiden, während sich dieser Bastard an ihrer Ernte bereichert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Vielleicht solltest du IHM deine Fragen stellen, Fremder. Wir haben genug davon, dass er hier den Fürst spielt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Sweynur wirft dir einen neugierigen Blick zu. "Dieses Geschäft? Lass es mich mal so sagen ... wenn du dich hier nützlich machen möchtest, solltest du vielleicht manchmal auch an die gewöhnlichen Gestandenen denken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Sweynur schüttelt knapp den Kopf. "Ich habe meine Meinung gesagt, und jetzt werde ich in Frieden mein Met trinken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Aloth kneift die Augen zusammen. "Vorsicht. Anscheinend sind sie aus demselben Holz geschnitzt wie diese Schläger, die mich angegriffen haben." Er rümpft seine Nase. "Und sie riechen auch so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Wurde aber auch Zeit. Ich habe ihnen ja gesagt, dass er zur Vernunft kommen würde, aber er hat sich verdammt nochmal viel Zeit dafür gelassen." Er lässt ein paar Kupferstücke auf den Tisch klimpern. "Hier, kauf dir einen Krug Met auf unsere Kosten. Jetzt können wir es uns ja wieder leisten. Das gilt auch für euch beide. Das Met geht auf mich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

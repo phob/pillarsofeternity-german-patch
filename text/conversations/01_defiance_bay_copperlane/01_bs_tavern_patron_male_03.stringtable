@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_tavern_patron_male_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bist du auch hier, um weise Worte zu hören?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Das Sanatorium hat mancherorts einen schlechten Ruf. Aber sie werden das Vermächtnis lösen, ganz bestimmt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich habe diesem jungen Glückspilz gerade erklärt, wie in Trutzbucht hinter den Kulissen die Drähte gezogen werden ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Es gibt Geschichten, dass Erol von Levi eines Nachts von einem Aumaua angegriffen wurde und seitdem verschwunden ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wenn Woedica ihren Thron wieder besteigt, wird jeder Mann mit seinem Platz zufrieden und glücklich sein. Nicht wie diese Emporkömmlinge von den Dutzenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_gm</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Traum und Erinnerung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Erfahre die Vergangenheit der Trauernden Mutter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Entdecke die Wichtigkeit des beunruhigenden Traums</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde heraus, was mit dem Hohlgeborenen bei der Geburtsglocke passiert ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich traf auf eine merkwürdige Frau, ich nur als die Trauernde Mutter kenne. Sie ist ein mächtiges Medium, das sich vor den Augen anderer verschleiert. Obwohl wir durch unser beider Verstand eine starke Verbindung haben, weiß ich kaum etwas über sie, geschweige denn, woher sie kommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Als ich die Trauernde Mutter zum ersten Mal unterwegs traf, erfuhr ich einen Traum - oder war es eine Erinnerung? - an die Geburt eines Kindes. 
+
+Vielleicht kann mir die Trauernde Mutter selbst erklären, was ich da gesehen habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich hatte noch einen anderen Traum über eine Geburt bei der Geburtsglocke, dieser aber fühlte sich seltsam verzerrt an. Er gab einen unheilvollen Unterton, und bekam den Eindruck, dass alles nicht so war, wie es schien. 
+
+Diese Frau versteht ihre eigene Vergangenheit nicht vollständig. Wenn ich erfahren will, wer sie wirklich ist, muss ich mich tiefer mit ihrer Geschichte befassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>In diesem letzten Traum brachte die Trauernde Mutter ein Hohlgeborenes auf die Welt. Und dennoch ... als die Zeit kam, das Kind seiner Mutter zu geben, benutzte sie ihre Fähigkeiten eines Mediums, um die Frau zu überzeugen, dass ihr Kind vollkommen und gesund ist. 
+
+Nur die Trauernde Mutter kann mir sagen, was das bedeutet ... und ob ich ihr jetzt vertrauen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Sie begriff nicht, dass ich in ihren Verstand hineingesehen hatte, und was genau diese Vision war, wusste sie auch nicht.
+
+Wenn ich ihr helfen kann, sich an die Einzelheiten zu erinnern, kann sie mir vielleicht mehr darüber erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>In der Erinnerung kam ein als Geburtsglocke bekannter Ort vor. Für die Trauernde Mutter war er eindeutig von großer Bedeutung - vielleicht kann sie mir erzählen, was dort geschah, und warum es für sie wichtig ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Die Trauernde Mutter war eine Hebamme bei der Geburtsglocke, und sie "deutete" die Seelen ungeborener Kinder. Sie gab aber zu, dass solche Deutungen oft frei erfunden war und darauf basierten, was die werdende Mutter hören wollte.
+
+Sie dachte wirklich, dass sie diesen Frauen und ihren Kindern damit einen Gefallen tat, war aber nicht mehr bereit, jetzt weiter über die Angelegenheit zu sprechen. Vielleicht wird sie sich mir im weiteren Verlauf unserer Reise noch mehr offenbaren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Wie merkwürdig. Ich habe gerade bemerkt, dass sie Adraglöckchen um ihr Handgelenk trägt ... dieselben Glöckchen, die sie angeblich immer den Neugeborenen gab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Als ich die Trauernde Mutter fragte, warum sie Geburtsglöckchen trüge, erwähnte sie das Hohlgeborene. Sie glaubt, dass sie gerettet werden können und sie spürt, dass wir unbedingt einen Weg finden müssen, sie zurückzuholen.
+
+Ich setzte sie unter Druck, worauf sie mir auswich. Ich weiß, dass noch mehr an der Geschichte dran ist, aber wahrscheinlich muss ich noch mehr Zeit mit ihr verbringen, um das Lügengespinst durchbrechen zu können, dass um uns beide herum geflochten hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Als ich der Trauernden Mutter über den Traum mit dem Hohlgeborenen berichtete, fiel sie in eine gefährliche Trance, aus der ich sie leider nicht mehr befreien konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Als ich der Trauernden Mutter über den Traum mit dem Hohlgeborenen berichtete, fiel sie in eine gefährliche Trance, aus der ich sie aber wieder herausholen konnte.
+
+Waidwens Vermächtnis begann, als sie Hebamme bei der Geburtsglocke war. Als das erste Hohlgeborene auf die Welt kam, flocht sie eine Illusion um den Verstand des Kindsmutter, damit sie sich um das Kind pflegen würde ... die Krise aber setzte sich fort, und sie reizte ihre Fähigkeiten bis an ihre Grenzen aus. 
+
+Die Erinnerungen an die seelenlosen Kinder und an die Kontrolle, die sie auf das Dorf ausübte, verfolgen sie noch immer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Diese Frau, wer auch immer sie war, begleitet mich nicht mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Die Trauernde Mutter ist gestorben. Merkwürdigerweise lässt meine Erinnerung an sie jeden Moment mehr nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Egal, was ihre Gründe waren - die Trauernde Mutter hat durch die Manipulation der Dörfler Unrecht getan, und ich glaube, das hat sie auch verstanden. Ich erklärte ihr, dass die Kontrolle anderer selbst im Angesicht einer Tragödie wie dem Vermächtnis ein schweres Unrecht sei. Manche Dinge müssen ihren natürlich Verlauf nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Die Trauernde Mutter wird immer noch von ihren Taten bei der Geburtsglocke und ihrem letztendlichen Scheitern bei der Rettung des Hohlgeborenen dort verfolgt. Trotzdem tat sie zu jener Zeit ihr Bestes. Wenn wir eine Gelegenheit finden zur Umkehr des Vermächtnisses finden können, weiß ich, dass es ungeachtet der Kosten die Mühen wert sein wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

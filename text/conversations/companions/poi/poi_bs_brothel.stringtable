@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\poi\poi_bs_brothel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Zu stark frittierter Kabeljau, wässriges Ale und Prostitution. Eine Bastion dyrwäldlerischer Kultur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Neue Länder besuchen, Sehenswürdigkeiten betrachten. Das Reisen liegt mir sehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich hoffe, du erwartest nicht, hier drin den Bleiernen Schlüssel zu finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich fordere dich heraus, sie zu fragen, was es für zwei Damen kosten würde. Auf einmal. Und zwar für welche, die mit einer riesigen Katze kopulieren würden. Wenn es weniger als tausend Pand kostet, bin ich dabei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Jetzt muss ich noch ein Zuhause für meinen restlichen Stab finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Dieser Ort ... er beschwichtigt einem den Verstand und lenkt einen ab."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"So etwas gibt es in Goldtal nicht. Nur Walaruna, die Milchmagd. Sie wusste, was sie tat."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

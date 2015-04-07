@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_gilded_vale\07_tsk_breaking_bread</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Um des Kornes Breite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Lege die Fehde zwischen Trumbel und Sweynur bei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Lege die Fehde zwischen Trumbel und Sweynur bei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Berichte Sweynur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Berichte Trumbel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Untersuche die Fehde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Berichte Sweynur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Berichte Trumbel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Einige der Bauern in Goldtal behaupten, das der Müller Trumbel Getreide zurückhält. Die hungrigen Bauern sind aufgebracht, und die Eskalation der Situation scheint wahrscheinlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>In der Schänke zum Schwarzen Hund sprach ich mit Sweynur. Er behauptet, der Müller Trumbel würde die gesamten Nahrungsvorräte des Dorfes für sich selbst behalten. Ich habe angeboten, mit Trumbel zu sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe mit Trumbel gesprochen, dem Müller von Goldtal. Er befürchtet, dass seine Familie von einer Gruppe Dörfler angegriffen werden wird, die behaupten, er würde ihnen ungerechte Preise für Getreide berechnen. Er hat mich gebeten, mit dem Anführer dieser Gruppe namens Sweynur zu sprechen, und den Konflikt zu beenden. Sweynur hält sich wahrscheinlich in der Schänke auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe den Müller überzeugt, seine Kontrolle der Getreidevorräte aufzugeben. Sweynur sollte damit zufrieden sein, aber es stellt sich die Frage, wie lange das Getreide ausreichen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe Sweynur überzeugt, Trumbel und seine Familie nicht mehr zu bedrohen. Trumbel wird erleichtert sein, das zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Die Spannungen zwischen dem Müller und einigen örtlichen Bauern scheinen den Siedepunkt zu erreichen. Dies zu untersuchen, könnte sich lohnen. Der Müller hat sich in seiner Mühle verbarrikadiert, und die Bauern sind vorerst in die hiesige Schänke gegangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe den Müller Trumbel erschlagen, was Sweynur vielleicht interessieren wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe Sweynur und seine Kohorten erschlagen. Diese Neuigkeiten könnten Trumbel erleichtern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich brachte Trumbel um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich brachte Sweynur und seine Verbündeten um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe den Müller erschlagen, was Sweynur vielleicht interessieren wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe Sweynur und seine Verbündeten erschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe Trumbel erschlagen, den Müller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe Sweynur erschlagen, den Bauern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Trumbel und Sweynur erschlagen. Egal, was jetzt aus dem Dorf und seinem Getreide wird - keiner von beiden wird dabei etwas zu sagen haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich überzeugte Trumbel, dass es in seinem besten Interesse wäre, mit Sweynur und seinen Lakaien gerecht zu handeln. Sweynur zeigte sich mit dem Ergebnis zufrieden und bot mir eine Runde in der Schänke und einige wenige Münzen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich überzeugte Sweynur, den Müller und seine Familie in Ruhe zu lassen. Sweynur und seine Kumpanen schienen von dieser Wende der Ereignisse eher enttäuscht zu sein, aber der Müller war erleichtert, seine Familie in Sicherheit zu wissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich erschlug Sweynur und sorgte so dafür, dass er Trumbel nicht mehr belästigen kann. Der Müller sollte jetzt in Sicherheit sein, und ihm Dorf gibt es jetzt ein paar Unruhestifter weniger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich erschlug Trumbel, den Müller von Goldtal. Sweynur und die anderen waren über meine proaktive Vorgehensweise etwas schockiert und beschlossen, schnell noch sie viel wie möglich aus dem Getreidespeicher zu holen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>Ich habe sowohl Trumbel als auch Sweynur getötet. Egal, über was sie sich gestritten hatten, es geht mich nichts an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30009</ID>
+      <DefaultText>Da ich einer der beteiligten Parteien erschlagen habe, sind die Verhandlung endgültig zu Ende.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30010</ID>
+      <DefaultText>Ich hatte einen Sinneswandel und brachte Trumbel um. Das Dorf wird ohne ihn auskommen müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

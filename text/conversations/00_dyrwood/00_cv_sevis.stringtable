@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_cv_sevis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein Mann, der Blut von seinem Panzerstecher wischt, dreht sich zu dir herum. Seine zusammengezogenen Augenbrauen verraten einen Moment der Verwirrung. Als er dich aber betrachtet, schleicht sich ihm langsam ein selbstsicheres Grinsen ins Gesicht. "Das Brandeisen trifft so weit von der Straße weg nicht oft auf Reisende. Was hätten sie hier schon zu suchen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ein Elf neigt dem anderen den Kopf zu. "Ist wahrscheinlich hinter dem Drachenei her, Boss, genau wie wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ein Zwerg flucht und spuckt ins Gras. "Das war eine rhetorische Frage, du Vollidiot." Er nimmt sein Schwert noch fester in die Hand. "Jedermann weiß, dass die Straßen zwischen den Dörfern vor Briganten nur so wimmeln. Sie sind ganz offensichtlich Banditen ... genau wie wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Angreifen] "Mach, was du willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Wir können uns doch die Beute bestimmt irgendwie teilen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich werde einfach wieder zurück zur Straße gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Warum sollte denn jemand ein Drachenei haben wollen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Er lacht. "Um es zu verkaufen natürlich. Wenn ich was essen wollte, hätte ich mir auch ein paar Schweine von diesem Bauernhof in Dyrfurt geschnappt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Eine hervorragende Idee."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Leg deine Kupferstücke und deine Ausrüstung einfach auf einen Haufen vor dich hin ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Dann teilen wir es gerecht unter uns auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Chef, ich glaube, sie werden sich nicht darauf einlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich würde dich ja gerne gehen lassen, aber Raolf hat etwas dagegen, Leuten in den Rücken zu schießen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die Banditen schauen einander an. Der Elf öffnet seinen Mund, um zu sprechen, die anderen aber bringen ihn schnell zum Schweigen.
+
+Ihr Anführer setzt wieder dieses selbstbewusste Grinsen auf. "Für ein gut erhaltenes Ei kann man vom richtigen Käufer mit Leichtigkeit 400 Kupferstücke bekommen. Da wir aber zuerst hier waren, müssen wir eine Fundgebühr draufschlagen, um uns für unsere Zeit und Mühen zu entschädigen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Der Elf hebt seine Pistole. "Ich habe viel geübt, musst du wissen! Ich könnte sie jetzt beidseitig treffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Lügen] "Nur blöd, dass Jungdrachen ihre Eier markieren. Sieh nur zu, dass du es der nächsten armen Sau verkauft hast, bevor die Mutter danach suchen kommt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Er grinst. "Danke für die Warnung, aber ich glaube, das Risiko werde ich eingehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Die anderen Banditen flüstern untereinander. Der Anführer hält seine Hand hoch. "Ruhe! Das glaubst du doch wohl selbst nicht ... und selbst wenn es stimmen sollte, haben wir es längst verkauft, bevor das passiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Lass uns ein Geschäft machen. Du geht deiner Wege und ich zahle dir den Wert des Eis aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[800 KS zahlen] "Nimm es. Und jetzt geh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Du bist wohl zu Scherzen aufgelegt. So viel zahle ich nicht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Was weißt du denn über Dracheneier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Er zuckt mit den Achseln. "Sie sind rund, groß, und kommen von Drachen und Jungdrachen. Was gibt es noch über sie zu wissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Reichlich, und das ist auch genau der Grund, warum du dich von ihren Nestern fernhalten solltest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Bei Jungdrachen gehe ich kein Risiko ein. Sag, was du willst, aber ich lass das lieber." Sie eilt davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Gut, dass wir ein Riesenei gleich in der Nähe haben. Nichts regt meinen Appetit mehr an, als Leichen zu fleddern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Raolf, ich glaube, ausnahmsweise hast du mal die richtige Idee."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Vorsicht. Das klingt das so, als würdest du meine Ehrlichkeit anzweifeln ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Er verbeugt sich. "Wenn ich etwas verstehe, dann vom Handeln. Ich kann nur hoffen, dass wir eines Tages wieder ins Geschäft kommen werden. Bis dahin, leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Lass sie gehen. Das heißt nur, dass mehr für uns übrigbleibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Wo wollt ihr Feiglinge hin?" Er beobachtet mit zunehmendem Entsetzen, wie Raolf und Norgar fliehen.
+
+Er sieht sich zu dir um. "Das Wichtigste zuerst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Das ... klingt aber gar nicht gut für uns." Er beginnt zurückzuweichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Raolf. Wenn ich dir den Witz erklären muss, ist er nicht mehr lustig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Er zuckt mit den Achseln und hebt seine Klinge hoch. "Einen Versuch war's wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Die Banditen schauen einander an. Der Elf öffnet seinen Mund, um zu sprechen, die anderen aber bringen ihn schnell zum Schweigen.
+
+Ihr Anführer setzt wieder dieses selbstbewusste Grinsen auf. "Ich dachte mir doch, dass du dich auf das Handeln verstehst. Für ein gut erhaltenes Ei kann man vom richtigen Käufer mit Leichtigkeit 400 Pand bekommen. Da wir aber zuerst hier waren, müssen wir eine Fundgebühr draufschlagen, um uns für unsere Zeit und Mühen zu entschädigen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ich habe schon allerlei tödliche Kreaturen gesehen. Wenige sind schlimmer als ein zorniger Jungdrache."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Hervorragende Idee. Ein wahrer Schildträger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Das ... klingt nicht gut für uns. Ich habe Geschichten über die Düsteren Schreiter gehört ..." Er beginnt zurückzuweichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

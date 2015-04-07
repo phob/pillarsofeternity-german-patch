@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1012_cv_guards</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sie schauen hoch, als du dich näherst. Du spürst etwas Eigenartiges, Juckendes in deinem Kopf, als ob dir jemand mit dünnen Fingern durch deine Gedanken fahren würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ein gedämpftes Leiden erfüllt deinen Verstand, gefolgt von einem ungleich lauteren, alarmierenden Kreischen einer der in Roben gehüllten Gestalten. Die Kreaturen drehen sich wie ein Wesen zu dir um und greifen dich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Eine Gruppe Robenträger blockiert den Weg. Ihre Köpfe besitzen eine fürchterliche Ähnlichkeit zu denen der Spinnen, von denen diese Höhlen befallen sind. Ihre Unterkiefer klappern mit kleinen, ständigen Bewegungen. Im gedämpften Licht der Höhlen scheinen ihre runden schwarzen Augen wie Juwelen zu leuchten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

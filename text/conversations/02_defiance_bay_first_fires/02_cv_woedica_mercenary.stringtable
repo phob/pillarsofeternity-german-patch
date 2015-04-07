@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_woedica_mercenary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Söldner beäugt dich misstrauisch, während du dich näherst, und hält seine Waffe bereit. "Was machst du hier? Du siehst nicht aus wie einer dieser Maskierten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Entspann dich. Wie sollte ich denn sonst von hier wissen, wenn ich nicht hierher gehören würde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Was geht hier vor sich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Da du es nicht weißt, gehörst du eindeutig nicht hierher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Er denkt vorsichtig nach, dann nickt er. "Na gut, geh' rein und melde dich bei der Akolythin. Sie wird dir dann eine Aufgabe zuweisen. Sie müssten gerade mit ihrem Treffen im großen Raum fertig geworden sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Der Wächter pfeift scharf, und du hörst in der Ferne alarmierte Rufe ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Hast du eine Ahnung, was hier vorgeht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ein Ratschlag, Freund – stelle keine Fragen. Geh einfach und tu, was man dir sagt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Weißt du etwas über diesen Ort?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Er schüttelt den Kopf. "Soweit ich das sagen kann, befinden wir uns unter Urfeuer. Möglicherweise unter diesem zerstörten Tempel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Angreifen] "Du hast Recht, aber ich gehe, wohin ich will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Mach es schnell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Der Söldner schaut auf seine Füße. "Bitte, geh rein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Er vermeidet es, dich anzusehen. "Kann ich dir helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Was geht hier vor sich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Erzähl mir von diesem Ort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Er hebt die Hände. "Ich habe keinen blassen Schimmer, das schwöre ich. Wir kümmern uns um uns selbst und halten nach ungebetenen Gästen Ausschau, so, wie deine Akolythin es uns aufgetragen hat. Ohne Fragen zu stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Soweit ich das sagen kann, befinden wir uns unter Urfeuer. Möglicherweise unter diesem zerstörten Tempel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Brauchst du sonst noch was? Ich denke, dass sie drinnen schon angefangen haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ich habe meine Maske drinnen liegen lassen. Lass mich vorbei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Sei vorsichtig, Wächter. Sein Verstand ist scharfkantig ... er will deine Absichten ergründen ..."</DefaultText>
+      <FemaleText>Sei vorsichtig, Wächterin. Sein Verstand ist scharfkantig ... er will deine Absichten ergründen ...</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Der Söldner schaut auf seine Füße. "Bitte, geh hinein." Seine Augen huschen zum Rest deiner Gruppe. "Du weißt, dass die Akolythin keine Gäste mag. Ich würde deine Freunde vor der Hauptkammer warten lassen."
+
+Er tritt nervös auf der Stelle. "Sie ist ohnehin schon übel gelaunt, weil jemand zu spät kam. Es wäre besser, sie nicht noch weiter zu provozieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[350 KP geben] "Vielleicht solltest du in die andere Richtung schauen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Er kratzt seine verschwitzte Handfläche. "Was da drin geschieht, geht mich nichts an. Meine Männer werden dich in Ruhe lassen, aber für die maskierten Gestandenen da hinten kann ich nichts versprechen."
+
+Er schnappt sich dein Geld und schaut weg. "Du bist auf dich allein gestellt, verstanden? Ich habe dich nicht gesehen, und ich kenne dich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

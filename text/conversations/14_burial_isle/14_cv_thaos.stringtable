@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_cv_thaos</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>140</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Wie hast du es gefunden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Das habe ich nicht. Es war Fürstin Webb."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ein weiterer Akt in einer langen Kette des trotzigen Widerstands. Bei all ihrem Wissen hat sie die Gehässigkeit doch immer der Vernunft vorgezogen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Sie hat dich geliebt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Die Vernunft hat in dieser Sache ihre Hand geführt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Du hast sie von ihrem Leid erlöst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Dann hätte sie gehorchen müssen. Ich bitte alle meine Anhänger um eine einzige Sache. Sie konnte sie mir nicht geben. Eine Verschwendung von seltenem Talent und Intellekt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Blinder Gehorsam ist viel verlangt von jemandem mit einem eigenen Kopf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Was ist mit deinen Gefährten? Sie sind dir in den Tod gefolgt. Ist es Loyalität, die sie herführt? Oder ist es, wie meine Agenten sagen ... haben sie keine eigene Bestimmung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Du scheinst dich wenig um Gehorsam zu scheren, wenn man deine Gesellschaft betrachtet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Thaos betrachtet Edér. "Du. Du hast Eothas angebetet, nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Deine Spione sind gut. Was hat mich verraten? Der Umhang?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Doch als dein Gott dich am dringendsten brauchte, hast du dich für dein Land entschieden."
+
+Edér runzelt verärgert die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Wir wurden angegriffen, und zwar nicht von jemanden, der wie ein Gott handelte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Thaos lächelt dünn, herablassend. "Dann hat deine Heimatstadt dich bei deiner Rückkehr gewiss als Helden empfangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Edér lächelt. "Sie haben Kuchen gebacken."
+
+"Und man darf wohl damit rechnen, dass die Leute nervös werden, wenn die Götter nicht da sind, um sie zu beruhigen. Vielleicht, wenn sie nicht alle zu sehr damit beschäftigt gewesen wären, sich gegenseitig zu töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Die Götter streiten, wie sie die Gesellschaft der Gestandenen am besten daran hindern können, sich selbst zu zerstören. Diese ... Einmischungen wären nicht nötig, wenn der sterbliche Instinkt nicht so krank wäre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Durance starrt Thaos an wie ein angriffslustiges Tier. Thaos beobachtet ihn ruhig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich habe meiner Göttin gedient, so wie du der deinen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Doch die anderen Erbauer wurden getötet. Elf von einem Dutzend. Warum du nicht? Warst du irgendwie anders? Errettbar in den Augen deines Gottes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Welches Verlangen ich auch gehabt haben mag, in ihren Augen rehabilitiert zu werden, es war Schwäche, die von der Sichtgabe des Wächters getilgt wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Oder lag es nur daran, dass deine Göttin dich auch tot sehen wollte, du das Offensichtliche aber nicht sehen konntest, weil du dich für so wichtig hieltest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Der verführerische Charme einer Hure. Nichts weiter. Aber der Zauber ist jetzt zerschlagen, Thaos, die Prüfung ist vorbei. Ich kann Freund und Feind unterscheiden. Und ich bin gekommen, um einem Feind seine Schulden zurückzuzahlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Du konntest einen Gott zerstören, weil ein anderer Gott es wünschte. Ohne ihre Hand, die dich führt, könntest du einen Gott ebenso wenig schlagen wie den Himmel. Du bist machtlos, impotent, und nicht nur wegen der Pocken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Als er Aloth sieht, zuckt Thaos' Mund verächtlich. "Nenne mir deinen Namen und dein Ansinnen, junger Akolyth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Aloths Augen verdüstern sich. "Mein Name gehört den Göttern und meine Hand dient ihnen. Und ich werde deinen Makel davon entfernen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Du dienst niemandem als dir selbst. Ohne Kontakt mit dem Orden kannst du keinem höheren Zweck dienen. Nur den niederen fleischlichen Notwendigkeiten. Du hast dich aus unseren Reihen ausgeschlossen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Nein." Er lächelt düster. "Ich habe mich über sie erhoben. Ich werde den Bleiernen Schlüssel auf eine Weise führen, wie du, der nichts weiter geblieben ist als ein Sklave der Götter, es nie konnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Thaos bleibt arrogant. "Ein Anführer ohne Erkenntnis, der eine Organisation anführt, die nicht hinterfragt. Welch eine Vision, Initiierter!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Thaos wendet sich dem großen Aumaua zu. "Du hast dein Leben der Aufgabe gewidmet, die Arbeit meines Volkes zu studieren. Warum?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Kanas Blick ist ruhig, als er Thaos ebenso mustert wie er ihn. "Ich dachte, wir könnten von deinem Volk viel lernen. Dass auch wir große Maschinen errichten könnten. Unsere Schiffe verbessern. Ein Reich errichten so riesig und beeindruckend wie das eure, auf euren Geheimnissen aufbauend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Und ist dir je der Gedanke gekommen, dass ihr nie dazu bestimmt war, diese Dinge zu verstehen? Dass sie jenseits eurer Vorstellungskraft liegen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Kana blinzelt. Ein Lächeln macht sich langsam auf seinem Gesicht breit. 
+
+"Natürlich. Doch wie sich herausstellt, ist das nicht von Belang. Ich werde diese Geheimnisse nach Hause bringen und sie vor tausenden von Augen und Ohren offenbaren. Es schert mich nicht, ob es einhundert Jahre dauert. Wir werden sie ergründen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Der Bleierne Schlüssel existiert, um genau das zu verhindern. Bring die Geheimnisse nach Hause und wir werden folgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Thaos blickt auf Sagani herab. "Du bist weit von zuhause entfernt, Zwergin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Sagani hebt ihr Kinn. "Ich wusste, dass meine Jagd mich weit von Massuk fort führen würde. Es war eine Herausforderung, die ich für mein Dorf gerne aufgenommen habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Eine Reise also? Sie muss wichtig sein, wenn sie dich so weit geführt hat und so lange gedauert hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Saganis Augen blitzen auf. "Alles, was es wert ist, getan zu werden, hat einen hohen Preis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Thaos hebt in gespielter Überraschung die Augenbrauen. "Hat es sich also gelohnt, einem sterbenden Tier von Dingen zu berichten, die es weder verstand, noch an die es sich erinnerte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Thaos' plötzliche Aufmerksamkeit lässt Pallegina ihr Gefieder aufplustern. "Wie ich höre, haben deine Ducs Bels dir eine Mission aufgetragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Pallegina hebt trotzig den Kopf. "Ihre Befehle entbinden mich nicht meiner größeren Verantwortung für die Sicherheit und das Wohlergehen der Republiken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Das solltest du vielleicht lieber lassen, Thaos. Beginne keinen Streit, den du nicht gewinnen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Du versuchst, Pallegina zu reizen? Äußerst unklug, mein Freund!", platzt Hiravias kichernd heraus. "Es sei denn, du bist der Meinung, zu viele Gliedmaßen zu besitzen - dann nur weiter so!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Und doch hast du nicht gehorcht. Du hast bereits den Ruf, das häufiger zu tun. Sie werden es natürlich wissen. Wäre es für eine würdige Sache gewesen, hätten sie dir vielleicht vergeben. Aber sie werden die Beseelung wohl kaum weiter verfolgen, nachdem sie sehen, was sie hier angerichtet hat."
+
+"Sie haben dir vertraut und du hast sie enttäuscht, wie immer, und du wirst wieder verstoßen werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Die Eltern tadeln, doch die Kinder sind sicher. Ob die Beseelungsforschung in den Republiken fortgeführt wird oder nicht, sie werden überleben. Das muss im Moment reichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Jedenfalls solltest du nicht so selbstgefällig sein, was mein Schicksal angeht, Thaos." Sie macht einen langen Schritt nach vorne, mit einem düsteren Lächeln im Gesicht. "Woedica reagiert auf Enttäuschungen wohl noch deutlich strenger als meine Ducs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Er richtet den Blick nach unten. "Was ist mit dir Orlaner? Meine Agenten berichten, du wärest weit von zuhause entfernt - was die Wegstrecke angeht, aber auch die Jahre. Haben deine Freunde sich als würdige Ablenkung von dem Schmerz der Ächtung erwiesen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ächtung? Nennt man so den Genitalausschlag, den ich von deiner Mutter habe?" Hiravias gutes Auge starrt Thaos' Hals an und der Ohrstummel des Orlaners zuckt.
+
+"Mach dir nichts vor, alter Mann, du weißt nichts über mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Dann erleuchte mich - dienst du Galawain oder Wael?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Hiravias lacht. "Ich diene niemandem, aber ich folge den Lehren Waels. Das Augenlose Gesicht hat keine Diener, nur Schüler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Doch welche Schwierigkeiten du auf dich genommen hast. Hättest du nur akzeptiert, dass du unfähig warst, einem der beiden Götter zu dienen, genau wie du unfähig warst, deinem Stamm zu dienen ... du hättest dir viel Mühe ersparen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Hiravias lächelt und schüttelt den Kopf. "Vielleicht bist du zu jung, um diese Dinge zu verstehen, Thaos, oder vielleicht zu einfältig. Ohne Schwierigkeiten entlang des Wegs ist man wahrer Schüler Waels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Und doch vermute ich, dass du in beiden Fällen in den Augen deines Gottes von geringer Bedeutung bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Thaos mustert deine Gruppe, einen nach dem anderen. "Ihr seid hier, weil ihr euch verirrt habt. Die Götter können nicht jeden erreichen, fürchte ich. Möge es euch in eurem nächsten Leben besser ergehen."
+
+Er richtet seinen Blick auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Deine Seele wurde erweckt, wurde mir zugetragen. Warum sonst würdest du meinen Schritten folgen wie ein streunender Straßenköter? Du glaubst, ich hätte dir etwas zu bieten. Doch unsere Angelegenheiten wurden vor langer Zeit abgeschlossen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Was weißt du über unsere Angelegenheiten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Unsere Angelegenheiten sind abgeschlossen, wenn du mir alles gesagt hast, was du weißt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Du glaubst, deine Fähigkeiten würden nur in eine Richtung fließen. Doch ich fürchte, so funktioniert das nicht. Nicht für mich. Du hast im Sanatorium meine Seele gesehen, doch ich habe auch die deine gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ich habe mein Leben nach den Lügen gelebt, die du verbreitet hast. Du schuldest mir die Wahrheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Einer von uns wird in diesem Raum sterben. Du kannst deine Lüge vorher eingestehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ich habe deine Fragen schon einmal beantwortet. Dass deine Seele nicht in der Lage ist, die Antworten zu akzeptieren, schert mich wenig."
+
+"Ich habe niemanden angelogen. Dich nicht und auch niemand anderen. Die Götter sind real. Sie sind alles, was sie für uns sein müssen, und die Welt ist dadurch besser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Du hast einer ganzen Generation ihren Platz in der Welt verwehrt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Das Herz dieses Landes hat einen Schlag ausgesetzt. Nichts weiter. Ich habe schon viel Schlimmeres getan. Ich habe das friedliche Königreich Tolosus in den Bürgerkrieg gestürzt. Ich habe den Monarchen von Desontio getötet, dessen Volk unter seiner Herrschaft niemals Not kannte, und ihn durch einen grausamen Despoten ersetzt, der sie in den Ruin geführt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Als die Pest die große Stadt Arborensis erreichte, sorgte ich dafür, dass das Heilmittel das nicht tat. Sie warfen ihre Toten vor die Stadt, bis die Leichenhaufen die Stadtmauern überragten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Nichts könnte diese Gräueltaten rechtfertigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Soll das den Schaden verringern, den du hier angerichtet hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ich wüsste nicht, was das alles mit mir zu tun haben sollte. Keiner dieser Orte existiert mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Da täuschst du dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Es gab eine Zeit, als deine Seele noch ein formloser Nebel war, als die Welt nur an falsche Götter glaubte. Tausende von ihnen. Götter, die ihnen sagten, Sklaven zu halten. Götter, die ihnen sagten, Krieg mit ihren Nachbarn zu führen und die Gefallenen zu essen. Götter, die ihnen sagten, ihre Kinder bei lebendigem Leibe zu verbrennen und sich als Zeichen ihres Glaubens mit ihrer Asche zu bedecken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Doch all das änderte sich, als sie von den wahren Göttern erfuhren. Unseren Göttern. All diese deformierten, bestialischen Instinkte versanken unter dem majestätischen Glanz unserer Götter. Man konnte es in ihren Augen sehen, wie die dumpfe Leere durch einen glühenden Funken ersetzt wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Sie zu lehren, dass es keine Götter gibt, hätte denselben Zweck erfüllt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Und zu etwas noch viel Schlimmerem geführt. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Dem Funken der falschen Hoffnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Du hast sie dazu gebracht, ihre Natur zu überwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Hast du dir diese Existenz vorgestellt? Die Existenz, die durch das Apostat entstanden wäre? Wir sind nicht alle so tugendhaft wie sie. Ohne unsere Götter würden die Bösesten, die Tyrannischsten diese Macht selbst an sich reißen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Es gibt keine falsche Hoffnung. Nur Hoffnung auf Dinge, die niemals kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Niemand kann seine Instinkte allein überwinden. Nur mit der Hilfe eines Gottes, den er respektiert und auf den er hört, auch wenn es seinen Impulsen widerstrebt, kann er auf Erfolg hoffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Doch mehr noch, es wäre eine leere Existenz." Thaos blickt dich nicht mehr an, während er spricht. Die uralte Maschine spiegelt sich tanzend und zuckend in seinen Augen.
+
+"Alle Mysterien für immer unbeantwortet. Jeder Sinn aus purer Sinnlosigkeit konstruiert. Kein Ende, kein Abschluss. Nur ein Rad, das sich gnadenlos dreht und unseren Geist zu Staub zermahlt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Du unterschätzt die Leute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Auch deine Art hat einen zu hohen Preis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Du hast Recht, das ist kein Leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ich habe in all meinen Jahren GENAU gesehen, wozu sie fähig sind. Was das Apostat verlangte, dazu war keiner fähig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Wenn es so sein muss, dann sei es so." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Besser, als eine Lüge zu leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Sich jeden Tag aufs Neue zu sagen, dass es von Bedeutung ist, was man tut, dass es nicht alles umsonst ist, dann die Welt nur ... Die Welt des Apostats ist auf dem Glauben an Lügen aufgebaut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Wenn du eine erbärmliche und leblose Existenz wünschst, dann nur zu. Aber ich werde nicht mit ansehen, wie der Rest der Welt mit einem solchen Fluch belastet wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Thaos scheint überrascht, es fehlen ihm die Worte. Er nickt abwesend, in Gedanken verloren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Thaos runzelt zornig die Stirn. "Zumindest den geringsten aller möglichen Preise! Bist du so dumm zu glauben, dass eine Welt ohne Glauben nicht von Katastrophen heimgesucht werden würde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Alles, was ich gesehen habe, die vielen Jahrtausende an Erfahrung ... Ich lasse mich von diesem Kurs nicht abbringen. Es ist der einzige Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Willst du sagen, das würde die Dinge irgendwie verbessern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Du hast alle belogen. Vor allem dich selbst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ich mache mir keine Illusionen, was den damit verbundenen Preis angeht. Aber was deine kurze Lebensspanne verschleiert ist, dass das nun einmal ist, was getan werden muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ihr Talent und ihr Intellekt waren zu groß für ihr Leben als deine Dienerin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Thaos' Augen blitzen vor plötzlicher Entrüstung auf. "Diese Frau hat in ihrem Leid mehr getan, als die meisten mit ihrem klaren, unwissenden Verstand je erreichen. Wenn sie nur gehorcht hätte. Welch eine Verschwendung von seltenem Talent und Intellekt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Um die richtige Perspektive zu zeigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Ganz genau. Ihre Geschichten sind Wassertropfen, die in ein endloses Meer fallen. Sie haben einen kurzen Augenblick lang eine eigenständige Bedeutung, dann sind sie fort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Gib es zumindest zu. Gib zu, dass die Götter keine wahren Götter sind. Ich muss es aus deinem Munde hören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Dann musst du aufgehalten werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Du bist blind, wenn du glaubst, dein Weg sei der einzige Weg. Du wirst von deinen eigenen Zweifeln kontrolliert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Du bist nicht der Erste, der das sagt, und du wirst nicht der Letzte sein. So lange der Kreislauf sich dreht, so lange wird mein Werk ununterbrochen fortgeführt werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Mit deiner Seele und tausenden von anderen werde ich diese Welt von ihrem Leid erlösen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Wir werden alle von unseren eigenen Zweifeln kontrolliert. Darum ist es besser, wenn wir von ihnen erlöst werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Du hast es nicht gründlich genug durchdacht. Du wirst diesen Ort nicht verlassen. Ich habe es einmal gestattet. Aber du hast deutlich gemacht, was für ein Fehler meine Gnade war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Thaos streckt seine Hände aus, als würde er einen ungesehenen Gast begrüßen. Er schließt die Augen und blickt gen Himmel.
+
+"Höre mich an, Woedica. Dein Diener bittet um Hilfe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Angreifen] "Diesmal bin ich nicht zum Reden hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Angreifen] "Wir haben einander nichts mehr zu sagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Mein Name gehörte den Göttern und meine Hand diente ihnen." Aloths Augen verdüstern sich. "Damit ist Schluss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Und ich hätte es schon vor Jahren tun sollen. Ich lebe lieber in Unsicherheit als in Knechtschaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Sagani zuckt zusammen. "Wichtig ist, dass ich bald zurückkehren werden. Und wenn ich das tue, verbringe ich meine Zeit dort, wo es wichtig ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Sagani zuckt zusammen. "Für Massuk ist es wichtig. Daher ist es wichtig für mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Ich DIENE Galawain nicht", zischt er. "Ich bin ein Instrument seines Willens."
+
+Hiravias stößt ein tiefes Knurren aus, seine Finger spreizen sich und seine Fingernägel wachsen zu schwarzen Krallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Ich diene beiden Göttern gleichermaßen", murmelt Hiravias mit zusammengekniffenen Augen. "Aber ich bin der Diener von keinem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Hiravias stößt ein langes Zischen aus, sein Körper entspannt sich, seine Krallen ziehen sich zurück.
+
+"Belächle meinen Kampf auf deine eigene Gefahr, Thaos. Ich wurde durch Herausforderung und Wettkampf neu geformt ... mir Mühe ersparen? Pfffft, Mühe, mein Freund, hat dazu geführt, dass ich stark genug bin, dir deine Lungen durch deinen Darm herauszureißen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Hiravias errötet, sein Ohrstummel zuckt. "Mein Stamm war unfähig, mir zu dienen!"
+
+Während er spricht, sticht er wütend mit dem Zeigefinger in die Luft vor Thaos. "Und ja, ich bin nicht fähig, einem Gott zu DIENEN! Ich muss nur mir selbst dienen. Kannst du das von dir sagen, Thaos? Bist du dein eigener Herr? Oder bist du nur Woedicas Amme?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Ich weiß es besser. Die Engwithaner waren nicht unfehlbar. Ihr wart nie Götter. All eure Experimente, eure niederträchtigen Verbrechen, eure glorreichen Errungenschaften ... Ihr wart nur ein Volk und eure Zeit kam und verstrich. Engwith ist nun eine Lektion für alle, die verblieben sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Kana senkt den Blick. "Ich dachte, wir könnten von deinem Volk viel lernen. Und das haben wir. Ihr habt mich eine wichtige Lektion gelehrt. Kein Wissen ist das Leid wert, das die Engwithaner über andere gebracht haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Kana blickt zu dir und dann wieder zurück. "Weil ich glaube, dass wir aus der Vergangenheit lernen können - und dieses Wissen nutzen, um uns zu verbessern. Ich wollte, dass Rauatai die Engwithaner übertrifft. Darauf aufbaut, was sie wussten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Das mag sein, doch ich versuche es weiter. Ich kann mir keine bessere Art vorstellen, mein Leben zu verbringen, als zu versuchen, die Welt um mich herum zu verstehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Ich muss es nicht verstehen. Ich habe gesehen, was aus deinem Volk geworden ist. Das ist die einzige Lektion, die ich brauche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Pallegina nickt stoisch. "Wir tun unser Bestes, doch das reicht letztlich nicht. Nie. Und doch ist noch Zeit für mich, Buße zu tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Edér lächelt. "Sie haben Kuchen gebacken."
+
+"Wie kann man den Leuten verübeln, dass sie den Glauben verlieren, wenn es die Götter sind, die sich falsch verhalten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Das haben sie mir gegeben. Es war nicht von Dauer, aber was ist das schon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"In deinem Fall weder Glaube noch Loyalität, will ich meinen. Dein Gott hat von seinen Anhängern Besseres verdient."
+
+Edérs Körper spannt sich an, doch er zügelt sich. Er zuckt mit den Schultern, doch in seinem Gesicht liegt Bitterkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Ich dienen allen - besser, als sie es je wissen werden."
+
+"Besser als kompetenter Diener zu leben denn als inkompetenter Herr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Es lag eine Botschaft darin, ob sie das nun beabsichtigte oder nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Deine Göttin war es, die mich tot sehen wollte. Ihre giftige Zunge hat Lügen in Magrans Ohr geflüstert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Du gönnst deiner Göttin zu wenig Anerkennung, Priester. Aber sie wusste immer ganz genau um deinen Wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Und dass Unsicherheit dich dorthin führen würde, wo sie jeden hinführt. Zu Zweifeln, zu Leere, zu den vielen Grausamkeiten, die der Unglaube inspiriert."
+
+"Du musst deinem Großmeister vergeben, dass er weiterhin skeptisch ist, was die Entscheidungen seines Initiierten angeht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Größere Zivilisationen als die deine haben schon versucht, zurückzuerlangen, was wir begraben haben. Je größer ihr Erfolg, desto schlimmer am Ende ihr Schicksal. Dafür habe ich gesorgt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Du lebst in der Zeit meines Volkes, Aumaua. Du schuldest ihnen mehr, als du je wissen wirst, und so wird es immer sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Du hast eine Waffe gebaut, die genau hielt, was sie versprach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Du hast mich einst überzeugt, dass die Götter mich von meiner Schuld erlösen würden. Aber es gibt niemanden, der uns beide von unseren Verbrechen erlöst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Du hast mich einst überzeugt, meine eigene Familie durch eingebildete Götter zu ersetzen. Die Götter waren uns beiden keine Familie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Du hast mich einst überzeugt, dass die Verbreitung deines falschen Glaubens helfen würde, Gräueltaten zu beenden. Doch hier stehst du und begehst sie selbst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Du hast mich einst überzeugt, alle meine Entscheidungen auf dem Willen der Götter fußen zu lassen. Doch du tust, wie dir beliebt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Schuld ist eine Krankheit des Verstands. Wenn der Verstand nicht mehr glaubt, er sei schuldig, dann ist das so gut wie eine Erlösung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Die Verbreitung unseres Glaubens hat viele solcher Gräuteltaten beendet. Ich tue, was ich tun muss, um dafür zu sorgen, dass das so bleibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Die Götter sind mir Familie genug."
+
+"Deine Familie hat dich enterbt. Ich habe dir geholfen, eine zu finden, die das nicht tut. Die Kraft einer Familie liegt in der Gewissheit, nicht allein zu sein. Das habe ich dir gegeben. Und nun will ich das auch für dieses verlassene Land bewahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Ich habe immer getan, was die Götter verlangten, und damit die Ordnung der Welt gesichert. Sie besitzen Weisheit und Perspektive wie kein Sterblicher sie je besitzen kann."
+
+"Dieses Land tut, wie ihm beliebt, und sieh dir an, was es davon hat. Es spielt Gott, es verübt im Namen seiner Forschung Gräueltaten."
+
+Er deutet auf die Maschine. "Das ist nur eine Lektion, an die man sich erinnern wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

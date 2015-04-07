@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_brothel_banter_vailians</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ach, welch wunderschöne Frauen. Ich habe ein Auge auf die nordische da an der Ecke geworfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Diese Frau hier? Ich fürchte, sie hat nur Augen für den Elf an der Theke, bon aimico."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Postenago! Nicht die! Das Vollblut-Glamfellen-Weib die Treppe hoch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich fürchte, frigide Frauen liegen mir nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Das liegt nur daran, dass du keinen Geschmack hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Dieser Ort ... Ich fürchte, dass er nicht so sauber ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Das hier ist ein Bordell, mein Freund, was hast du denn erwartet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ein sonderbarer Geruch liegt in der Luft. Vielleicht waschen sie die Bettlaken nicht allzu oft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Postenago, wir befinden uns direkt neben der Küche. Das was du riechst, sind Fischköpfe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Jetzt fühlt es sich besser an, Hunger zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Wir melden uns am Morgen beim Lagerhaus. Lass uns jetzt etwas angenehmere Gesellschaft suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ein hervorragender Plan. Ich fühle mich zu dieser herumlaufenden Schönheit hier hingezogen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ah, die gerade an der Arena vorbeigelaufen ist. Sie erinnert mich an deine Schwester."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Sie ... was?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vielleicht ist das jetzt nicht der richtige Zeitpunkt für die Geschichte. Llines! Noch eine Runde auf mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

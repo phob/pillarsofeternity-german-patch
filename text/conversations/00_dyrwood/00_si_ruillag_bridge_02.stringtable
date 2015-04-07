@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_si_ruillag_bridge_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vor dir liegt die Ruine einer Brücke. Der Großteil davon scheint schon vor Jahrhunderten in den Fluss gestürzt zu sein. Alles, was von ihr übrig ist, sind zwei zerklüftete Felsvorsprünge zu beiden Seiten des Wassers.
+
+Auf der anderen Seite siehst du ein bewaldetes Tal. Du bist eventuell in der Lage, die Kluft zu überspringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Auf die andere Seite springen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du überspringst die Kluft ohne Zwischenfälle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Kluft wird von [SkillCheck 0] überwunden, er verdreht sich allerdings beim Landen einen Knöchel.</DefaultText>
+      <FemaleText>Die Kluft wird von [SkillCheck 0] überwunden, sie verdreht sich allerdings beim Landen einen Knöchel.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

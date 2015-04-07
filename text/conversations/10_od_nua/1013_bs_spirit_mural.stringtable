@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1013_bs_spirit_mural</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser Geist steht stramm, sie starrt auf das andere Ende des Gangs. Auf einem Arm trägt sie einen schweren Rundschild, obwohl der wogende Schleier der Seelenenergie verdeckt, was darauf liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sie dreht ihren Kopf ein wenig.
+
+"Sie haben die Pestschmieden passiert. Wenn die Aufseher noch leben, könnten wir sie in den darunterliegenden Kammern aufhalten." Sie schnaubt. "Falls uns Cabiros und sein Bande Ränke schmiedender Zauberer noch nicht verraten haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Kinder des Rads?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ist das ihr Werk?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Schweigen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Die Meute könnte uns schon bald erreichen. Schließe besser schnell Frieden mit einem Gott, falls dich noch einer haben will." Sie hält inne und sieht dich an. "Hast du Angst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Schweigen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Angst vor was haben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Sie nickt einmal und dreht sich wieder um. "Das ist keine Schande. Du bist immer noch hier. Die Schwestern sind schon lange nach unten gegangen, um sich unter Od Nuas Roben zu verstecken, oder um das Leben unseres Fürsten zu verlängern. Hängt wohl von der Sichtweise ab."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Natürlich. Weder du, noch ich." Sie wendet sich ab. "Deine Hände zittern auch nicht. Ganz egal. Du bist hier. Wir werden ihnen einen Kampf liefern, an den sie sich erinnern werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"In der Tat. Was gibt es auch noch zu befürchten?" Sie schaut von dir weg. "Unsere eigenen Leute haben sich gegen uns gewendet. Was bleibt, sollten wir siegen? Wer wird dann die Maschinen am Laufen halten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Komm - lass uns die Verteidigung bei den Stufen organisieren, sie zu unseren Klingen drängen. Mit den Animaten neben uns werden sie keine Cha-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Der Geist schnappt mit aufgerissenem Mund nach Luft. Sie tastet nach etwas Unsichtbarem auf ihrem Rücken und geht einen Schritt zur Seite von dir weg. Ihre aufgerissenen Augen starren in deine. "Du ... Verrä ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ihr Bein gibt nach und als sie zu Boden fällt, dünnen sich die nebligen Lichter aus, die ihren Körper bilden, und zerstreuen sich ... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Diese ... Kinder des Rads? Was kümmert sie die Trauer von Od Nua? Sie denken, dass er ihnen die Unsterblichkeit versprochen hat, und jetzt haben sie uns in ihrem Streben danach umgebracht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Wenn sie nicht gewesen wären, nichts von all dem wäre passiert. Sie haben unseren großen Fürsten aus seiner Trauer in den Wahnsinn getrieben, ihn zu diesen Taten gezwungen." Sie hält inne. "Er war ein großer König, vielleicht wird er es wieder sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Während sich Od Nua mit seinem Riesen zufrieden gibt, graben sie nach dem Herz des Himmels." Sie lacht verbittert. "Dieser Wahnsinn, samt und sonders. Und trotzdem behält sie Od Nua dicht an seiner Seite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Vor der Schlacht fürchte ich mich nicht, ich fürchte mich, was nach unserem Sieg aus unserem Fürsten wird. Welchen Wahnsinn die Kinder des Rads ihm weiter in die Ohren flüstern werden. Vielleicht würde er aufhören, sobald ihm sein Sohn zurückgegeben wird. Aber werden sie ihn lassen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Angesichts von Feinden in der Ferne steht der Geist stramm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Hallo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Dieser Geist steht stramm, sie starrt auf das andere Ende des Gangs. Auf einem Arm trägt sie einen schweren Rundschild, obwohl der wogende Schleier der Seelenenergie verdeckt, was darauf liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Der Geist verweilt im Gang, wo er nach unsichtbaren Feinden Ausschau hält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Hallo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Der Geist antwortet nicht. Sie steht weiterhin still Wache und starrt ins Leere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Engwithanisch sprechen.] "Hallo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

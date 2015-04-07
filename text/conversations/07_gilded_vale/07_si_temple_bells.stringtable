@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_si_temple_bells</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>76</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein einem steinernen Überhang, der diese Mauer entlangläuft, hängen drei Glocken. Das Metall ist vom Staub und Schmutz vieler Jahre überzogen. Die größere Glocke in der Mitte wird von zwei kleineren Glocken flankiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die linke, kleinere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Die mittlere, große Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Die rechte, kleinere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Die mittlere, größere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Die rechte, kleinere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Die Glocke anhalten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Die linke, kleinere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Die rechte, kleinere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Die linke, kleinere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Die mittlere, größere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du stößt die Glocke an, und als sie in die andere Richtung schwingt, schlägt der Klöppel einen tiefen, mächtigen Ton gegen das schwere Eisen. Du spürst das Läuten in deiner Brust, während sich der Schall wie eine Welle durch die ruinierten Hallen ausbreitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Glocke läutet seltsam trällernd, wird schmerzhaft schrill und verhallt dann mit einem traurigen Ton. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Die Glocke läutet mit einem hohen, durchdringenden Ton verblüffender Lautstärke. Das Echo des Tons pflanzt sich fröhlich durch die Hallen fort, bis plötzlich ein Dutzend zwitschender Töne durch den Tempel hallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Die Glocken untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die Glocken scheinen vollständig intakt zu sein. Sie wurden aus dickem Eisen gefertigt und sehen äußerst schwer aus. An ihnen scheint es nicht viel Außergewöhnliches zu geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du greifst nach dem Klöppel, um ihn anzuhalten. Um dich herum verhallen die Echos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Du stößt die Glocke an, und als sie in die andere Richtung schwingt, schlägt der Klöppel einen tiefen, mächtigen Ton gegen das schwere Eisen. Du spürst das Läuten in deiner Brust, während sich der Schall wie eine Welle durch die ruinierten Hallen ausbreitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Die Glocke läutet seltsam trällernd, wird schmerzhaft schrill und verhallt dann mit einem traurigen Ton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Nochmal die linke Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Das fröhliche Läuten der Glocke schallt abermals durch die Ruinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Die linke Glocke ein drittes Mal läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Die mittlere, größere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Die rechte, kleinere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Nochmal die rechte Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Die linke Glocke ein viertes Mal läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Die mittlere, größere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Die rechte, kleinere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Das fröhliche Läuten der Glocke schallt abermals durch die Ruinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du stößt die Glocke an, und als sie in die andere Richtung schwingt, schlägt der Klöppel einen tiefen, mächtigen Ton gegen das schwere Eisen. Du spürst das Läuten in deiner Brust, während sich der Schall wie eine Welle durch die ruinierten Hallen ausbreitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Die Glocke läutet seltsam trällernd, wird schmerzhaft schrill und verhallt dann mit einem traurigen Ton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Das fröhliche Läuten der Glocke schallt abermals durch die Ruinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Eine seltsame Stille bricht über den Raum herein, die den Glockenklang und das ewige Tropfen der klammen Steine gleichermaßen verstummen lässt. Dann aber läuten die Glocken plötzlich so disharmonisch, laut und durchdringend los, dass du dir die Ohren zuhalten musst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Darauf folgt abermalige Stille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Du stößt die Glocke an, und als sie in die andere Richtung schwingt, schlägt der Klöppel einen tiefen, mächtigen Ton gegen das schwere Eisen. Du spürst das Läuten in deiner Brust, während sich der Schall wie eine Welle durch die ruinierten Hallen ausbreitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Die Glocke läutet seltsam trällernd, wird schmerzhaft schrill und verhallt dann mit einem traurigen Ton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Die linke, kleinere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Nochmal die mittlere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Das tiefe, nachhallende Geläut klingt durch die Ruinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Noch einmal die rechte Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Der eigenartige Glockenschlag läutet durch die Ruinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Nochmal die linke Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Das fröhliche Läuten der Glocke schallt abermals durch die Ruinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Noch einmal die linke Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Der eigenartige Glockenschlag läutet durch die Ruinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Nochmal die mittlere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Die Glocke läutet mit einem hohen, durchdringenden Ton verblüffender Lautstärke. Das Echo des Tons pflanzt sich fröhlich durch die Hallen fort, bis plötzlich ein Dutzend zwitschender Töne durch den Tempel hallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Das tiefe, nachhallende Geläut klingt durch die Ruinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Die linke, kleinere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Die mittlere Glocke ein drittes Mal läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Die mittlere Glocke ein viertes Mal läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Das tiefe, nachhallende Geläut klingt durch die Ruinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Die Glocke läutet seltsam trällernd, wird schmerzhaft schrill und verhallt dann mit einem traurigen Ton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Noch einmal die rechte Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Nochmal die rechte Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Die Glocke läutet mit einem hohen, durchdringenden Ton verblüffender Lautstärke. Das Echo des Tons pflanzt sich fröhlich durch die Hallen fort, bis plötzlich ein Dutzend zwitschender Töne durch den Tempel hallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Du stößt die Glocke an, und als sie in die andere Richtung schwingt, schlägt der Klöppel einen tiefen, mächtigen Ton gegen das schwere Eisen. Du spürst das Läuten in deiner Brust, während sich der Schall wie eine Welle durch die ruinierten Hallen ausbreitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Der eigenartige Glockenschlag läutet durch die Ruinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Die linke, kleinere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Nochmal die mittlere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Die rechte, kleinere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Der eigenartige Glockenschlag läutet durch die Ruinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Die Glocke läutet mit einem hohen, durchdringenden Ton verblüffender Lautstärke. Das Echo des Tons pflanzt sich fröhlich durch die Hallen fort, bis plötzlich ein Dutzend zwischender Töne durch den Tempel hallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Nochmal die linke Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Die mittlere, größere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Die rechte, kleinere Glocke läuten. ]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Die linke, kleinere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Die mittlere, größere Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Nochmal die rechte Glocke läuten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Die Glocke läutet mit einem hohen, durchdringenden Ton verblüffender Lautstärke. Das Echo des Tons pflanzt sich fröhlich durch die Hallen fort, bis plötzlich ein Dutzend zwitschender Töne durch den Tempel hallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Das tiefe, nachhallende Geläut klingt durch die Ruinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Der eigenartige Glockenschlag läutet durch die Ruinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Der eigenartige Glockenschlag läutet durch die Ruinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Alle drei Glocken läuten leise und melodisch, bevor sich ihre disharmonischen Stimmen zu einem mächtigen, aufbrausenden Geräusch erheben, das den gesamten Tempel zu erfüllen scheint - eine treibende Liedflut, die alle anderen Gedanken ertränkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Als das Läuten verhallt, kannst du aus der Richtung der Türen ein quietschendes Geräusch hören, als sich der Weg zur unteren Ebene öffnet.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

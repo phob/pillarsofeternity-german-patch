@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_tamra</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese große Frau ist in Felle gehüllt. Sie wirft dir einen scharfen Blick aus dunklen Augen zu. "Ich halte hier die besten Tierhäute in ganz Eir Glanfath in Händen - so dick, dass sie kein Stelgaer mit seinen Krallen durchbohren kann. Stiefel so weich, dass sie den Klang deiner Schritte verhüllen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ein Fell für deinen Herd vielleicht? Oder Pelze, um dich in kälteren Zeiten zu wärmen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Darf ich deine Waren sehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Hier - sieh, welche Beute unsere Jäger uns eingebracht haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Womit handelst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich habe gerade frische Ware bekommen, Caredh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich trage es an meiner Haut - ich verkaufe Tierhäute, von jedem erdenklichen Tier in Galawain. Estramorwn kommen aus allen Dörfern, um sie zu sehen. Wir sind als hervorragende Jäger bekannt. Jede Haut trägt die Geschichte einer großen Jagd in sich - und unsere Händler tragen sie in jeden Winkel unserer Lande."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

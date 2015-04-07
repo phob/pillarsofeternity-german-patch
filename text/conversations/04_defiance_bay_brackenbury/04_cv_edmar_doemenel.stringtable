@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_edmar_doemenel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>89</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fürst Gedmar Doemenel ist ein Mann mit Ausstrahlung. Er trägt edle Kleider im Stil des aedyranischen Adels, doch die Narben auf seinen Handknöcheln und die Brandwunden auf seinem Hals sieht man bei Hochgeborenen eher selten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Bis ich Kunde von Wenfelds Niedergang habe, haben wir nichts zu besprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Gedmar Doemenel nickt dir zu. "Was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich möchte gerne dem großen Hause Doemenel dienen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Nicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Du sollst meine Bedingungen kennen, bevor wir fortfahren." Er hält inne, um sicherzugehen, dass er deine ungeteilte Aufmerksamkeit hat. "Du hast meinem Haus bisher gut gedient. Jemand mit deinen Fähigkeiten ist im Hause Doemenel immer gefragt. Was ich von dir erfordere, wird sowohl gefährlich als auch illegal sein, wie du gewiss schon ahnst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ihr wollt dieses Unkraut also ausreißen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Fürst Doemenels Lippen kräuseln sich, als du dich ihm näherst. "Wie mir scheint, hat auch mein Sohn mit dir gesprochen. Das war nicht das Resultat, das ich erhofft hatte."
+
+"Doch vielleicht war Abrecans Gedanke nicht ganz abwegig. Jeder Ritter, der unsere Haustür passiert, blickt bereits über seine Schulter." Er lächelt fast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Marschall Wenfeld ist zu einem Problem geworden. Er legt ein allzu großes Interesse an einigen Geschäften des Hauses Doemenel an den Tag."
+
+"Er lässt sich weder bestechen, noch bedrohen, noch auf anderem Wege überzeugen. Er ist unverbesserlich. Ein Unkraut. Und wenn nichts unternehmen wird, wird er die geballte Macht der Schmelztiegelritter gegen uns richten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Gedmar richtet sich auf. "Wenfeld ist in Burg Schmelztiegel in Urfeuer zu finden, einem der am besten bewachten Gebäude in der Stadt. Seine Frömmigkeit dürfte es zu einem Kinderspiel machen, ihn allein abzupassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ein kühler Kopf und ein schweigsamer Mund. Sehr gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Gedmar schüttelt dir die Hand, mit einem schnellen, festen Händedruck. "Meine Ahnen haben die Bürger von Trutzbucht gelehrt, den Namen Doemenel zu fürchten und zu respektieren. Nach Hadrets Rebellion war es ... äußerst sinnvoll, sich einen Ruf aufzubauen."
+
+"Wir leben nicht in derselben Welt wie sie. Es braut sich Ärger zusammen, doch dieses Mal müssen wir vorsichtig sein, wenn wir nicht im Kreuzfeuer enden wollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Er fängt an, hinter seinem Schreibtisch auf- und abzugehen. "Wenn du versagst, bist du als Feind des Hausees Doemenel gebrandmarkt - und vieler anderer mächtiger Bürger von Trutzbucht." Lautlos überquert er den samtenen Teppich.
+
+"Die Gemüter in der Stadt sind erhitzt, und viele fühlen sich schnell bedroht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Du musst diese Aufgabe annehmen, ohne zuvor die Details zu kennen. Ich erwarte von jemandem, der die Gunst meines Hauses wünscht, absolute Loyalität." Er beobachtet dein Gesicht. "Wenn das zu viel verlangt ist, dann zieh dich zurück, jetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Da kann ich unmöglich einwilligen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Seine Hand ergreifen.] "Ich nehme die Bedingungen an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Er bleibt stehen, legt beide Hände auf seinen Schreibtisch und lehnt sich nach vorne. "Solltest du jedoch Erfolg haben, wirst du äußerst großzügig belohnt. Das Haus Doemenel ist ein wohlhabender und mächtiger Verbündeter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Fürst Doemenel hält dir über den Schreibtisch seine Hand entgegen. "Haben wir eine Übereinkunft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Gedmar zieht seine Hand ebenso plötzlich zurück, wie er sie angeboten hat. Er setzt sich und widmet seine Aufmerksamkeit wieder seinem Schreibtisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Dann haben wir nichts weiter zu besprechen. Entferne dich aus meinen Räumen und kehre in die Gegenwart meines weinschlürfenden Sohnes und seiner münzenzählenden Schwester zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Und wenn ich mich weigere?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Ein dunkler Ausdruck flackert über sein Gesicht. Er verschwindet so schnell, wie er gekommen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"In diesem Fall solltest du deine Bezahlung für erbrachte Dienste entgegennehmen und dich aus meiner Gegenwart entfernen. Wer nicht bedingungslos loyal ist, für den habe ich keine Verwendung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Die Schmelztiegelritter sind inmitten des Chaos recht kühn geworden. Sie fürchten die Dutzenden und ihre Fähigkeit, eine wütende Menschenmenge aufzustacheln." 
+
+"Sie versuchen, ihre Macht auf die einzige Weise durchzusetzen, die sie kennen - indem sie jede andere Machtgruppierung in der Stadt zerschlagen." Seine Hände ballen sich zu Fäusten. Die Narben auf seinen Knöcheln zeichnen sich weiß ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Sprecht offen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Marschall Wenfeld muss sterben. Für diese Aufgabe brauche ich jemanden, der listig und effizient ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich will, dass die Ritter gegen die Dutzenden in den Krieg ziehen, nicht gegen uns. Die Lage ist so angespannt, dass nicht viel nötig ist, um sie gegeneinander auszuspielen."
+
+"Legt dieses Symbol auf den Altar von Abydon in der Kapelle. Es wird den Rittern eine klare Botschaft senden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Er lächelt. "Du hast eine schnelle Auffassungsgabe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Es wird mir Spaß machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Verbeugen.] "Wie Ihr wünscht, Fürst Doemenel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Haltet das Geld bereit. Es wird nicht lange dauern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ich scheine dich falsch eingeschätzt zu haben. Leute von deiner Entschlossenheit sind selten ... und werden in meinem Haus geschätzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ich brauche Geld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ich brauche eine mächtige Waffe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ich möchte, dass einer Eurer Männer meine Festung bewacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ich bin vielleicht einmal auf Eure Hilfe angewiesen. Ich werde warten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Niemand soll sagen, dass ich meine Freunde vernachlässige. Eine Hand wäscht die andere. Überlege dir gut, was du von mir erbittest. Es könnte von Vorteil sein, einen Freund wie mich auf deiner Seite zu haben, der dir bei ... unerwarteten Entwicklungen hilft. Besonders in diesen Zeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Wie du wünschst. Das sollte mehr als ausreichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Gedmar widmet seine Aufmerksamkeit wieder seinem Schreibtisch. "Verzeih, aber ich bin beschäftigt. Du findest gewiss allein hinaus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Er öffnet eine Schublade, nimmt einen großen Lederbeutel heraus und legt ihn auf den Tisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ich erfordere einen Gefallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Lebt wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Er legt die Fingerkuppen zusammen. "Dann frag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ich will mehr über das Haus Doemenel erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Die perfekte Waffe für einen Assassinen mit deinen Fähigkeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Gewiss. Du findest mich hier, wenn du bereit bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Erledigt. Ich werde ihn sofort über seine neuen Pflichten in Kenntnis setzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Das hängt davon ab, was Ihr von mir verlangt, mein Fürst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Du wirst es nicht erfahren, wenn du mir nicht deine Loyalität zusicherst." Er verschränkt die Hände hinter dem Rücken. "Wir sind das älteste Adelshaus in Trutzbucht, nicht irgendeine Kaufmannsgilde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ich scheue mich nicht, mich unbeliebt zu machen, wie Abrecan bezeugen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Nur nicht zu selbstsicher. Es geht hier nicht um irgendwelchen Tand im Speicher eines Adligen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Es wird vollbracht werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Gedmar sagt etwas zu seiner Leibwache. Er poliert eine tödlich aussehende Krummklinge. Er dreht sich um, als du eintrittst, die Augen so kalt wie der Stahl in seinen Händen. "Sieh an, welch Überraschung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ich sollte dir wohl für dein Kommen danken. Du hast mir die Mühe erspart, dich finden zu lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ich habe keine Verwendung für dich. Verschwinde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ich brauche eine Einladung für das Treffen im Palast des Ducs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Die bekommst du." Er legt eine Hand auf deine Schulter. "Und wenn du die Anhörungen besuchst, wirst du gewiss die Interessen des Hauses Doemenel vertreten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Fürst Gedmar Doemenel ist ein Mann mit Ausstrahlung. Er trägt edle Kleider im Stil des aedyranischen Adels, doch die Narben auf seinen Handknöcheln und die Brandwunden auf seinem Hals sieht man bei Hochgeborenen eher selten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Fürst Doemenel nickt anerkennend. "Gut gemacht, Meine Kontakte in der Stadt berichten bereits von gewalttätigen Auseinandersetzungen zwischen den Schmelztiegelrittern und den Dutzenden. Während sie einander ablenken, nutzen wir neue Gelegenheiten, um unseren Reichtum und unsere Macht zu mehren. Niemand wird uns beobachten, und niemand wird uns aufhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Du weißt, wann du schweigen musst. Sehr gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Sein Blick wird eiskalt. "Ein schneller Verstand hilft mir mehr als eine schnelle Zunge. Ich hoffe, du kennst den Unterschied."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Für dein Gefeilsche und deine Mehrdeutigkeit ist jetzt nicht die Zeit. Entweder habe ich deine Loyalität oder ich habe sie nicht." Er verschränkt die Hände hinter dem Rücken. "Wir sind das älteste Adelshaus in Trutzbucht, nicht irgendeine Kaufmannsgilde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ich glaube, wir können zu einer Übereinkunft kommen. Du musst dir jedoch darüber im Klaren sein, dass du dich dadurch zweifellos zum Feind der Schmelztiegelritter und in geringerem Maße auch der Dutzenden machen würdest."
+
+Er blickt dich erwartungsvoll an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Leider haben meine Quellen mich darüber in Kenntnis gesetzt, dass du bereits in enger Verbindung mit den Schmelztiegelrittern stehst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ich kann das Risiko nicht eingehen, dass deine Loyalität zweigeteilt ist. Du verstehst das gewiss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ich habe entschieden, nicht für das Haus Doemenel zu arbeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Dann haben wir nichts weiter zu besprechen. Du findest allein hinaus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Wir haben nichts weiter zu besprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Fahrt fort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Ein Lächeln huscht über seine Lippen. "Wenn du kaum von uns gehört hast, ist es uns gelungen, unauffällig zu bleiben. Das ist in diesem Geschäft ein Muss."
+
+"Wir waren einmal eine der angesehensten Familien von ganz Trutzbucht. Unsere Vorfahren haben im Widerstandskrieg jedoch die falsche Seite gewählt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Leider haben meine Quellen mich darüber in Kenntnis gesetzt, dass du bereits in enger Verbindung mit den Dutzenden stehst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Das ist eine Erleichterung. Ich dachte, er würde uns mit einem Dolch im Rücken belohnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Ich habe in diesem Haus schon viele grausame Leute gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Wenn man schon einen von ihnen als Verbündeten haben muss, dann lieber die Doemenels als die Dutzenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Hiravias flüstert: "Männer wie er sind nichts als Kojoten auf zwei Beinen, aber ihn zum Freund zu haben ist etwas sicherer als ihn zum Feind zu haben. Es ist also gut, dass du seine Gunst gewonnen hast!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Aloth wendet sich dir zu und murmelt leise: "Einflussreiche Freunde nennt man das wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Oh, gut. Noch einer, der dich nicht ins Meer werfen will. Besser neben dem Hai schwimmen als vor ihm, was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Mord und Intrigen. Du weißt, wie man eine Dame unterhält."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Nun, nach dieser Sache wird jemand recht zornig sein, das ist gewiss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Ich dachte, die Doemenels würden nicht wollen, dass ihre Stadt vom Krieg zerrissen wird, aber durch die Provokation der Dutzenden und der Ritter wird genau das passieren. Merla, diese Familie ist noch schlimmer als ich dachte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Wenn wir jemanden töten würden, um weitere Kämpfe zu VERHINDERN, könnte ich das vielleicht verstehen. Aber dieser Mord soll nur noch mehr Morde provozieren ... Ich hoffe bei Wael, dass all das einen positiven Ausgang nimmt, den ich nur noch nicht sehen kann ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Sei gewarnt, [Player Name]. Ich bezweifle, dass er besser mit Fehlschlägen umzugehen weiß als sein Sohn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Es ist doch gewiss kein Mord nötig, um sie gegeneinander aufzuhetzen. Vielleicht ein aggressiv formulierter Brief?" Kana seufzt. "Wenn es so weitergeht, verbringen wir den Rest unseres Lebens im Kerker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Genau wie gehofft - die Dutzenden und die Ritter reißen sich bei der kleinsten Provokation in Stücke. Jemand muss wieder für Ordnung in der Stadt sorgen."
+
+Er nickt dir langsam zu. "Du wirst dich noch freuen, die siegreiche Seite gewählt zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Für ein Volk mit einer so kurzen Geschichte haben wir Dyrwäldler ein langes Gedächtnis. Meine Ahnen waren nicht mehr in denselben Kreisen willkommen, also mussten sie sich anpassen." Er reibt die Fingerkuppen seiner Seidenhandschuhe aneinander.
+
+"Letztlich hat es ein gutes Ende für uns genommen. Wir sind in eine einzigartige Stellung als Meister des Schwarzhandels in Trutzbucht aufgestiegen. Und damit ging eine etwas andere Art der Macht einher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Mein Sohn hat erwähnt, dass du vielleicht kommst, um Arbeit zu erbitten. Und deinen Status zu verbessern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Mein Sohn hat erwähnt, dass du eine Einladung zu den Anhörungen im Palast benötigst. Ich kann sie dir beschaffen, und dich in meinem Haus aufsteigen lassen, wenn du mir gute Dienste leistest."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

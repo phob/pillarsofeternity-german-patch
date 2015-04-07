@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\12_twin_elms_oldsong\12_qst_the_streamstilled</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>In das Weiße Nichts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde Mittagsfrost in Zwillingsulmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde den Frostbruch in Mittagsfrost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Versiegele den Frostbruch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kehre nach Teir Evron in Ulmenkap zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre nach Teir Evron in Ulmenkap zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Rymrgand hat mir eine Vision eines Tors gezeigt - des Frostbruchs - und der Bleichelfen, die versuchen, es zu öffnen. In der Vision sind die Elfen zu Schnee zerfallen und ich habe das Tor mit einem Eiskristall versiegelt, den ich noch immer in der Hand hielt, als der Wachtraum endete.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Der Frostbruch schien sich in einem Tempel namens Mittagsfrost zu befinden. Wenn ich Rymrgands heiligen Ort in Zwillingsulmen finden kann, finde ich vielleicht auch heraus, was die Vision zu bedeuten hat.
+
+Die Einheimischen müssen mehr über diesen Ort wissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe Mittagsfrost gefunden, Rymrgands Tempel in Altlied. Der Frostbruch muss hier sein. Wenn ich ihn finde, kann ich ihn mit dem Splitter aus meinem Traum schließen, so wie Rymrgand es wünscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe endlich den Frostbruch gefunden. Wenn ich den Splitter in der gefrorenen Tür platziere, wird sie geschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe die Aufgabe abgeschlossen, die Rymrgand mir aufgegeben hat. Nun kann ich nach Teir Evron zurückkehren, um ihn um seinen Segen zu bitten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe Glasvahl den Splitter gegeben, wodurch er in das Weiße Nichts gelangen konnte. Der Splitter ist fort und der Frostbruch noch geöffnet - es gibt keinen anderen Weg als zurück zu Rymrgand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Mittagsfrost liegt in Altlied. Anscheinend hat der Tempel den See dort zufrieren lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe den Frostbruch in Mittagsfrost geschlossen und Glasvahl und seinen Clan daran gehindert, ihn zu passieren. Rymrgand, Ondra und Skaen waren erfreut und haben versprochen, mir beim Abstieg in die Grube nach Sonne im Schatten zu helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Glasvahl und seinem Clan gestattet, den Frostbruch zu passieren - und Rymrgand überzeugt, dass ihn das auch ehrt. Rymrgand, Ondra und Skaen haben geschworen, mir beim Abstieg in die Grube nach Sonne im Schatten zu helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe Glasvahl und seinem Clan gestattet, den Frostbruch zu passieren. Rymrgand war nicht erfreut und hat sich geweigert, mir zu helfen - ich muss die Hilfe eines anderen Gottes gewinnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

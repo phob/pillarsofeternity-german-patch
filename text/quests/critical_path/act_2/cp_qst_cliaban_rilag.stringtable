@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_2\cp_qst_cliaban_rilag</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Durch das Tor des Todes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise in das Dorf Dyrfurt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sprich mit Beodmar im Tempel von Dyrfurt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Reise nach Clîaban Rilag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Suche nach Zeichen des Bleiernen Schlüssels in Clîaban Rilag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Finde jemanden in der Stadt, der etwas über die Ruinen weiß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Reise nach Clîaban Rilag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Vision der Akolythin zeigte mir mysteriöse Ruinen irgendwo außerhalb von Dyrfurt. Der Bleierne Schlüssel hat Agenten entsandt, um die Stätte zu finden, doch ich weiß nicht, aus welchem Grund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich weiß nicht genau, wo sich diese Ruinen befinden. Doch vielleicht weiß das jemand in Dyrfurt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe erfahren, dass Beodmar, der ansässiger Priester, die engwithanischen Ruinen in der Gegend kennt. Er könnte mir vielleicht dabei helfen, die Stätte zu finden, nach der ich suche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Beodmar zeigte mir, wo ich Clîaban Rilag finde. Er warnte mich jedoch, Abstand zu den glanfathanischen Stämmen zu halten, die die Ruine bewachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe es in die Ruinen geschafft, die die Akolythin mir gezeigt hatte. Ich habe möglicherweise einen Hinweis darauf gefunden, was der Bleierne Schlüssel hier vorhat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe endlich das Dorf Dyrfurt erreicht. Es ist ein verschlafenes kleines Nest im Nirgendwo, aber es muss hier jemanden geben, der mit den Ruinen vertraut ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Beodmar ist tot, aber ich konnte von seiner Seele erfahren, wo ich Clîaban Rilag finde.
+
+Die Essenz des alten Mannes strahlte ein Gefühl der düsteren Vorahnung aus - ich konnte aber nicht ergründen warum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich hatte eine Vision, in der Agenten des Bleiernen Schlüssels ihre Seelen der engwithanischen Maschine in Clîaban Rilag überließen. Sie vollführten das gleiche Ritual, dessen ich außerhalb von Cilant Lîs Zeuge gewesen bin. Das bedeutet, dass sie das wohl im gesamten Dyrwald machen. Die Gedanken eines der Agenten ließen vermuten, dass sie dort waren, um sicherzugehen, dass die Säuglinge in der Gegend Hohlgeburten sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

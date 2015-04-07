@@ -1,0 +1,1581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\cyclopedia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>289</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Orte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dorf Dyrfurt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Charaktere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Wissen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die schmiedenden Ritter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Dunrydstraße</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Dutzenden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ethik Nôl</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Reißzähne</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Haus Doemenel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Der Dyrwald</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Das Reich Aedyr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Eir Glanfath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Schmelztiegelritter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Admeth Hadret</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Edrang Hadret</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Galven Regd</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>St. Waidwen: Vom Bauern zum Gott</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Der Krieg des Heiligen: Vom Beginn bis zum Götterhammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Die Monde von Eora</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Beseelung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Wahre Geschichten aus dem Land der Lebenden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Der Kalender</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Aedyranische Bräuche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Glanfathanische Bräuche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Poesie aus Naasitaq</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Poesie aus Glanfathan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Heilige Skaen-Schrift</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Heilige Magran-Schrift</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Heilige Berath-Schrift</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Heilige Woedica-Schrift</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Heiliger Eothasia-Schrift</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Dyrwäldlerische Farce</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Readceranisches Stück über Moral</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Vailianische Tragödie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Leben und Wirken des Pandgram</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Monster des Todesfeuer-Archipels</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Das Ewige Weiß</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Der große westliche Hirsch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Käfer sind nicht ganz so groß wie ein Mann, aber aufgrund ihres einschüchternden Äußeren verscheuchen sie die meisten Reisenden. Besucher werden von diesen beängstigend großen Insekten stets beeindruckt und erschreckt, was das Bild des Dyrwalds als kaum zivilisiertes, rückständiges Nest bekräftigt. Die weite Wildnis in und um den Dyrwald (und Eir Glanfath) herum gibt den Käfern genügend Platz, sich zu vermehren. Die erfolgreichste große Käferart kann sich nicht nur in ihrer Umgebung tarnen, sondern sich auch Rückenpanzer aus gewöhnlichen und widerstandsfähigen Materialien wie Holz, Stein und Adra wachsen lassen. Von glanfathanischen Stämmen ist bekannt, dass sie aus den Rückenpanzern und Beinen dieser Käfer grobe Schilde und sogar Waffen fertigen. 
+
+Obwohl allem Anschein nach das Gegenteil zutrifft, wohnt dem gemeinen Käfer eine vielschichtige Komplexität inne. Wenn sie sich für ein Material entscheiden, aus dem sie ihren Panzer wachsen lassen, tun sie dies derart bewusst, dass es an Kunst grenzt. Waldkäfer graben häufig komplizierte Löcher in ihre Rückenpanzer. Indem sie Luft durch diese behelfsmäßigen Röhren blasen, spielen sie eine unheimliche Musik an, mit der sie Geschlechtspartner anlocken. Steinkäfer tragen rudimentäre Hauer und Hörner, mit denen sie sich verteidigen und Beute angreifen können. Die Feinheiten von Adra-Käfer sind noch nicht sonderlich gut bekannt - man weiß eigentlich nur, dass sie nur schwer zu töten sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Phantome sind Seelen, die sich nach dem Tod nicht richtig vom Körper gelöst haben. Die geschieht üblicherweise durch ein schweres Trauma, besonders im Falle eines gewaltsamen Todes. Im Gegensatz zu verlorenen Seelen, die mit normalen Sterblichen nicht mehr interagieren oder von ihnen erkannt werden können, behalten Phantome (wie Schatten und Cean Gŵla) eine Verbindung zur physischen Welt. Bei ihren Angriffen auf andere Lebensformen machen sie keine Unterschiede.
+
+Phantome können sich auch aus Gestandenen manifestieren, die besonders chaotische Leben gelebt haben, besonders aus Gewaltverbrechern und Verrückten. Unter den richtigen Umständen kann jeder zum Phantom werden, aber die Angst vor Phantomen - und ihre Verbindung mit den Geisteskranken - kann dazu führen, dass anfällige Individuen in vielen Gemeinschaften gemieden werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Oger sind große, dickhäutige Kreaturen mit einer ungefähre Körpergröße von 3-4 Metern. Sie sind sehr muskelkräftig und trägen üblicherweise die Felle oder Häute ihrer Beute. Keulen, Äxte und Streitkolben aus Knochen oder Holz sind ihre bevorzugten Waffen. 
+
+Oger sind ebenso intelligent (oder intelligenter) wie die "zivilisierten" Rassen, aber aufgrund ihrer überwältigenden Feindseligkeit gegen Artgenossen bleibt ihre Zahl gering. Trotz ihrer angeborenen Intelligenz hat sie ihr sprunghaftes Temperament schon immer daran gehindert, sich länger an einem Ort zu konzentrieren, um etwas von bedeutendem kulturellen Wert hervorzubringen. Die meisten leben halbnomadisch und abgeschieden in der Wildnis, wo sie mit geringerer Wahrscheinlichkeit auf andere Oger treffen. Eigentlich finden sie nur während der Paarungszeit halbwegs zuverlässig zueinander, was ihre Zahl meistens ebenso reduziert wie erhöht. Oger mit "friedlicheren" Charakterzügen bemühen sich besonders, jeglichen Kontakt zu vermeiden.
+
+In den seltenen Fällen, in denen Oger tatsächlich zusammenarbeiten, werden sie meistens von einer Oger-Oberin angeführt. Letztere sind sogar noch größer als männliche Oger, verhalten sich ihren Artgenossen gegenüber aber eher weniger aggressiv. Wenn sich Oger gruppiert haben, stellen sie für andere Gestandene oft eine unüberwindbare Bedrohung dar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Schatten entstehen, wenn Kreaturen mit stark zersplitterten Seelen sterben, ohne wieder in den Kreislauf der Wiedergeburt zurückzukehren. Weil diese Seelen beschädigt sind, ziehen sie anderen Kreaturen im vergeblichen Versuch, sich selbst zu heilen, Essenz ab. Je mehr Essenz Schatten stehlen, desto mächtiger und gefährlicher werden sie. Während sie Essenz verschlingen, nehmen sie auch Teile greifbarer Materie auf, was ihnen eine sichtbare, wenn auch verschwommene Gestalt gibt. Glücklicherweise können Schatten Seelen, die immer noch an einen Körper oder an ein Objekt gebunden sind, nur wenig spirituelle Energie entziehen. Zur Stillung ihres Hunger nach Essenz verlassen sich hauptsächlich auf Kreaturen wie die Pŵgra, die Seelen aus ihrer physischen Form ziehen können.
+
+Schatten sind dafür bekannt, Schlafenden spirituelle Energie zu entziehen, wenn ihre Seelen nicht so stark wie gewöhnlich an ihre Körper gebunden sind. Dies führt zu schrecklichen Albträumen, die beim Geschädigten am nächsten Tag zu Erschöpfungen führt. Wenn plötzlich ein ganzes Dorf beginnt, Albträume zu erleiden, ist es sehr wahrscheinlich, dass sich dort ein besonders starker Schatten niedergelassen hat.
+
+Da Schatten spirituelle Energie absorbieren, sind sie für Kreaturen, die sich auf spirituelle Sicht verlassen, unsichtbar. Dies hat zu Experimenten geführt, Schatten an Rüstungen oder andere Objekte zu binden, um jene zu tarnen, die von solchen Kreaturen nicht gesehen werden wollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Junge Drachen beginnen ihren Lebenskreislauf als Lindwürmer, obwohl die meisten nicht über diese Entwicklungsstufe hinauskommen. Lindwürmer sind schlau und gerissen, aber nicht sonderlich intelligent. Um sich zu einem Jungdrachen (und schließlich zu einem Drachen) zu entwickeln, muss ein Lindwurm genügend Platz und Ressourcen haben. Wenn sie in der Nähe anderer Jungdrachen und Drachen leben, entwickeln sie sich nicht. Sie müssen sich einen Lebensraum suchen, der nicht bereits von einem größeren Artgenossen beansprucht wird.
+
+Da ihre weiteren Entwicklungschancen gering sind, scließen sich die meisten Lindwürmern in Gewölben zusammen. Sie sind mutige und höchst aggressive Kreaturen, wenn auch nicht sonderlich intelligent - dies wird durch die intensive Konkurrenz um Nahrung und Territorien erfordert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Im gesamten Östlichen Abschnitt gibt es riesige und feindselige Spinnen in einer erschreckenden Vielfalt an Formen, Farben und Größen. Diese Riesenspinnen sind viel aggressiver als ihre winzigen Verwandten und machen aktiv Jagd auf menschliche und tierische Beute. Selbst die schwächste von ihnen, die Speerspinne, kann einen unvorbereiteten Gestanden mit Leichtigkeit töten. Obwohl die Speerspinne ungiftig ist, kann sie mit ihren spitzen Beinen, von denen sie auch ihren Namen hat, selbst durch Rüstungen hindurch schreckliche Verletzungen zufügen.
+
+Die Elfenbeinspinnen und Witwenmacher sind noch tödlicher als Speerspinnen, da sie hochgiftig sind. Darüber hinaus kann die Elfenbeinspinne ihre Beute verlangsamen, indem sie ihr Netze entgegenschleudert. Witwenmacher spinnen zwar keine Netze, dafür ist ihr Gift außerordentlich wirksam.
+
+Die sagenumwobenen Kristallfresser sind enorme und mächtige Kreaturen, die man nur selten abseits der entlegensten Gegenden in Eir Glanfath sieht. Sie besitzen magischen Fähigkeiten, was manchen Zauberern zufolge daran liegt, dass sie Adra und verzauberte Edelsteine fressen. Zusätzlich zu ihrer Fähigkeit, ein Feld tödlicher Kristalldornen zu erzeugen, verwandelt das Gift des Kristallfressers das Fleisch und Blut eines Opfers vorübergehend in Stein. Aufeinanderfolgende Angriffe des Kristallfressers auf einen gelähmten Feind führen schnell zum Tod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Lauerer bestehen aus einer Kolonie mehrerer verschiedener Parasiten, fleischfressender Pflanzen und Pilze, die zusammen Jagd auf Beute machen. Im Kollektiv sind sie über drei Meter groß und bilden einen ungefähr anthropomorph aussehenden "Körper" aus Ranken, Blättern, Blättern und Erde. Die Koexistenz derart vieler separater Organismen macht es schwierig, sie auszuschalten. Normalerweise hat man die besten Chancen, wenn man die zur Fortbewegung erforderlichen Teile abtrennt oder die gesamte Kolonie einfach anzündet. 
+
+Während sich noch immer Geheimnisse darum ranken, wie die Lauerer ihre Form halten können, spekulieren manche, dass sie sich bilden, wenn sich bestimmte fleischfressende Pflanzen auf einem gemeinsamen Wirt treffen, beispielsweise den ausgehöhlten Opfern von Feuchtsporen. Sobald die Kolonie dann stark genug ist, kann sie sich eigenständig fortbewegen. Diese Theorie wird davon untermauert, dass sich in aufgeschnittenen Lauerern Knochen und andere sterbliche, von Wurzeln und Sporen durchlöcherte Überreste finden. 
+
+Lauerer sind dafür berüchtigt, sich in voller Sicht zu verstecken. Oftmals legen sie ihrer Beute regungslos zwischen Bäumen und Büschen stehend Hinterhalte. Sie scheinen über rudimentäre Intelligenz zu verfügen und zumindest so klug zu sein, um Nahrungsvorräte anzulegen. Mehrere bewusstlose Opfer in den Ranken eines Lauerers zu sehen, die zum späteren Fressen aufgehoben werden, ist keine Seltenheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Einst wurden Löwen in den Ebenen östlich und südlich von Eir Glanfaths ausgedehnten Wäldern oft gesichtet, aber die Kolonisierung im Östlichen Abschnitt hat die Großkatzen in die relative Sicherheit des Territoriums zwischen den glanfathanischen und dyrwäldlerischen Siedlungen zurückgedrängt. Zusätzlich zu ihrer enormen Kraft sind Löwen für ihr Gebrüll bekannt, einem furchterregenden Geräusch, das selbst dem tapfersten Gestandenen die Angst ins Herz treiben kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Wo auch immer es Hirsche gibt, bald sind die Wölfe da." Dieses aedyranische Sprichwort, bei dem oft der erste Satzteil ausgelassen wird, deutet die Verwundbarkeit an, die von den frühen Siedlern im Östlichen Abschnitt oft empfunden wurde. Außerdem steht es für die langjährige Assoziation der Aedyraner (wörtlich: "Das Volk des Hirschen") mit den vierbeinigen Raubtieren, die im Dyrwald wie im aedyranischen Reich gleichermaßen allgegenwärtig sind.
+
+Die Geschwindigkeit von Wölfen ist ebenso legendär wie ihre Fähigkeit, ihre Beute zu Boden zu bringen, um sie mit verheerenden Angriffen zu töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Diese riesigen Pilze sind fast so groß wie ein ausgewachsener Aumaua und verfügen über einen breiten und farbenfrohen Hut. Ihr enormes Gewicht können sie nur mit den Dutzenden von Wurzeln um ihre Basis herum halten.
+
+Feuchtsporen sind im Vergleich zu anderen Pilzen einzigartig, was ihren Appetit auf die Seelen lebender Kreaturen angeht. Oftmals wachsen und wandeln sie in Gruppen über den Waldboden und suchen nach geschwächten oder erschöpften Reisenden, die sich nicht mehr wehren können. Sobald sie einen Wirt gefunden haben, verbinden sie sich mit ihm und versorgen ihn mit lebensnotwendigen Nährstoffen, während sie seine Essenz verschlingen. Sobald sie einen Wirt gefunden haben, verhalten sich Feuchtsporen extrem aggressiv und greifen alles und jeden mit ihren gezackten Giftwurzeln an, der sich ihrem Fressen nähert.
+
+Feuchtsporen zehren zuerst von den verdorbensten und zersplitterten Energien einer Seele und fahren so lange fort, bis vom Wort nicht mehr übrigbleibt als eine seelenlose Hülle. Diese macht Feuchtsporenfleisch für erfahrene Apotheker zu einem nützlichen Reinigungsmittel für Seelenläuterungsarzneien und -techniken. Falsch angewendet kann diese Behandlung aber zu Amnesie und, in extremen Fällen, zu Seelenzersplitterung führen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Sporlinge sind die Larven von Feuchtsporen. Diese humanoiden Lebensformen sind zwar mobile und wendiger als ihre erwachsenen Gegenstücke, dafür aber auch viel schwächer. Sie bilden sich aus den Feuchtsporen und gehen unter Zuhilfenahme ihrer erhöhten Mobilität auf Nahrungssuche. Wie Feuchtsporen ernähren sich auch Sporlinge von verfallender organischen Stoffen und Seelenessenz. Bevor sie selbst zu Feuchtsporen reifen, müssen sie sich ausreichende Vorräte beider Nahrungsquellen anfressen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Diese schlaksigen Riesen sind doppelt so groß wie ein durchschnittlicher Mensch. Ihre Körper sind mit riesigen Pilzflechten überzeugen, aus denen eine übelriechende, eiterähnliche Flüssigkeit läuft. Ihre übergroßen Arme und Beine enden in riesigen Klauen, mit denen sie einen Mann entzwei reißen können. Von ihrem übergroßen Kopf hängen Dutzende schleimige Tentakel locker herab, und ihre riesigen Mäuler sind voller gezackter, rasiermesserscharfer Zähne. Trolle haben ein lange Gesichter, Kinns und Nasen, und wirre, drahtige und pilzverseuchte Haare auf den Köpfen. Dass sie Waffen, Werkzeuge oder Kleidung benutzen würden, hat noch niemand beobachtet.
+
+Wenn man sich einen Troll ansieht, kann man nur schwer feststellen, ob sie sich im harmonischen Verbund mit Flechten, Moos und Pilzen entwickelt haben, oder ob sie von ihnen übernommen wurden, denn das von Natur aus klamme Fleisch von Trollen bietet diesen Pflanzen ideale Wachstumsbedingungen. Sie bieten den Trollen ausgezeichnete Tarnung und etwas Schutz vor den Elementen, und in mageren Zeiten bieten die von ihnen produzierten Enzyme den Trollen eine begrenzte Nahrungsquelle.
+
+Aufgrund ihrer Symbiose mit diesen Pflanzen leben Trolle üblicherweise in stark bewaldeten Gebieten, obwohl man sie gelegentlich auch in klammen Untergrundumgebungen sehen kann, in denen es auch viele Flechten und Pilze gibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Die Vithrack sind extrem seltene und äußerst gefährliche Kreaturen, die von Natur aus mediale Fähigkeiten haben. Ihre Gestalt ist größtenteils humanoid, obgleich sie leicht größer und dünner als Menschen sind. Dafür aber haben sie mit Fangzähnen bewehrte, spinnenartige Köpfe. Wie Spinnen können auch sie Seide spinnen. Anstatt Netze zu weben, setzen sie diese Fähigkeit aber dazu ein, komplexe, bienenstockartige Gebäude zu bauen und äußerst komplexe, dünne Seile herzustellen. 
+
+Männliche und weibliche Vithrack sind nicht voneinander zu unterscheiden. Wie Medien sind auch sie hauptsächlich Zauberwirker und Gedankenmanipulatoren, obwohl sie, in die Enge getrieben, auch mit ihren Fangzähnen angreifen. Die psionischen Kräfte der Vithrack ermöglichen ihnen, gedanklich miteinander zu kommunizieren. Wie viele soziale Insektoiden gibt es in ihrer Gesellschaft eine Reihe bestimmter Rollen, einschließlich Späher und Verteidiger. 
+
+Aufgrund ihrer geringen Geburtenrate spielen die Vithrack trotz ihrer extremen Intelligenz und Kraft in der Welt keine große Rolle. Obwohl diese geringe Geburtenrate wahrscheinlich für ihre berüchtigte Feindseligkeit anderen Rassen gegenüber verantwortlich ist, hat sie die Vithrack bezüglich ihrer eigenen Art auch äußerst selbstlos gemacht: Ihre Nester verteidigen sie bis zum Tod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>In diesen amorphen Wolken wirbelt es nur vor stürmischer Energie. Im Mahlstorm materialisieren und verschwinden innerhalb eines Augenblicks Dutzende humanoider Gestalten. Während ihre Hände verzweifelt in die Luft um die Masse herum greifen und krallen, schreien ihre Gesichter vor stillem Schmerz.
+
+Bîaŵacs (Seelenwinde), wie man diese Stürme nennt, führen oft zu Zerstörungen. Wenn Seelen aus Körpern gerissen und im Auge des Sturms gefangen werden, können sie sich miteinander und mit allen allen Elementarsubstanzen im Mahlstrom verbinden. Sie stellen pures Chaos und Durcheinander - sie zu vernichten wird als Gnade für die Seelen aufgefasst, die im Inneren gefangen sind. 
+
+Das Experimentieren mit der Erzeugung von Seelenschanden ist eine andere fragwürdige Aktivität, die Beseelern in vielen Kreisen einen schlechten Ruf eingebracht hat. Manche sehen das als gefährlich und unmenschlich an, andere dagegen als ein Mittel zum Zweck an. Die Erzeugung von Seelenschande ist ein Vorwurf, den viele verängstigte Gestandene Beseelern machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Bei einer Delempŵgra ("verfallenes Blatt"), öfters Pŵgra ("verfallen") genannt, ist eine Delemgan, die durch die Zerstörung ihrer Heimat in Form eines Baums oder eines Adra-Steins verdorben wurde. Sie sind so hässlich wie Delemgan schön sind - spindeldürr, ausgezehrt und mit unterkühlter Hautfarbe. Ihre Haar sind tot, dunkel und schleimig, ihre Gesichtszüge verzerrt, und ihre Zähne sind lang und scharf. Im Gegensatz zu Delemgan sind sie nicht von Lichtflecken umgeben, und sie sind eher bereit, unglückselige Reisende mit ihren langen Krallen anzugreifen. Pŵgra schmücken sich mit den Schädeln, Häuten und Federn von Tieren, die sie getötet haben.
+
+So, wie die Delemgan versuchen, die Gesundheit ihrer Wälder zu bewahren, versuchen die Pŵgra, ihnen zu schaden, was sie zu Todfeinden macht. Der Verfall, mit dem sie infiziert sind, unterstützt ihre Angriffe mit einem grässlichen Gift, macht ihre Körper aber auch schwach und brüchig, weshalb sie verwundbar gegen Stichangriffe und Hiebe mit stumpfen Waffen machen. 
+
+Da sie aus einem gesunden Wald nicht länger Essenz gewinnen können, müssen sie überleben, indem sie Pflanzen, Tieren und Gestandenen Energie entziehen. Das macht sie zu natürlichen Verbündeten von Schatten, die sich auf ähnliche Weise ernähren, und beide genießen die Vorteile einer gemeinsamen Jagd. 
+
+Generell sind sie allen Lebensformen feindselig gesinnt, aber ihre Hauptfeinde sind üblicherweise Waldläufer und Druiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Die Delemgan sind Waldgeister von Eir Glanfath, die an uralte (oftmals versteinerte) Bäume oder Adra-Monumente gebunden sind. Ihre Körper scheinen fast denen von Elfen zu gleichen, ihre Haut aber ist hölzern und ihre Haare sind lang und pflanzenartig (Adragan scheinen Haut aus Adra zu haben). Delemgan leuchten schwach und sind oft von winzigen Lichtflecken umgeben. Sie tragen zwar keine Kleidung, aber aufgrund des Fehlens von Geschlechtsorganen haben sie nun allgemein humanoide Gestalt. Delemgan sind rein magische Wesen und benutzen beim Angriff keine physischen Waffen. Ihre Attraktivität setzen sie in Kombination mit ihren magischen Fähigkeiten, was üblicherweise zum Aufhalten von Angreifen geschieht, oder um sie in den Tod zu locken.
+
+Diese Kreaturen beziehen ihre Essenz aus ihren Umgebungen. Obwohl sie physische Körper haben und getötet werden können, wenn man dieser Körper vernichtet, hängt ihr Überleben auch von der Gesundheit ihrer Umgebung ab. Naturgemäß empfinden sie anderen Lebewesen gegenüber keine Feindseligkeit, aber ihre Territorien verteidigen sie mit wilder Entschlossenheit. Demzufolge können Delemgan und Adragan ("Adra-Geborene") abhängend von dem Wohlergehen ihrer Umgebung und davon, ob sich andere Erforscher oder Abenteurer in der Vergangenheit als gefährlich oder bösartig herausgestellt haben, mehr oder weniger feindselig sein. Sie sind eine natürliche Blockade großangelegter Bauprojekte. Während die ländlichen Stämme in Eir Glanfath oftmals friedlich mit ihnen zusammenleben, können expandierende oder im Bau befindliche Städte und Dörfer von feindseligen Delemgan heimgesucht werden Auch manche Gestandene sind gegen die Zerstörung von Delemgan-Lebensräumen. Diese Vorstellung wird im Allgemeinen von den Stadtbewohnern unterstützt, die glauben, dass ihre Seelen einfach in anderen Wäldern oder zurück in Gestandene wiedergeboren werden. 
+
+Traditionell verhalten sich Delemgan Waldläufern und Druiden gegenüber friedfertig. Ihre spirituelle Verbindung mit Bäumen hat bei ihnen zu einem tieferen Verständnis der Verbindung zwischen Waldläufern und deren tierischen Gefährten geführt, obwohl eine definitive Beziehung dazu noch belegt werden muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Ein voll ausgewachsener Drache ist ein kolossales Wesen und im Ruhezustand höher als die meisten von Gestandenen erbauten Gebäude. Wenn sie sich auf ihre Hinterbeine stellen, sind sie mit Leichtigkeit doppelt so hoch.
+
+Drachen haben das Reifestadium ihres Lebenskreislaufs erreicht. Wie Jungdrachen haben sie sich an ihren Lebensraum angepasst, wenn auch umfassender. Ihre Farbgebung, Ornamentik und sogar ihr Körperbau entspricht dem ausgewählten Territorium, was auch für ihre Angriffs- und Verteidigungsarten gilt. Da sie bereits ein Territorium beansprucht haben und von anderen Drachen und Jungdrachen kaum bedroht werden, sind sie naturgemäß zurückhaltender und meiden unnötige Konflikte. 
+
+Nur Drachen können sich paaren. Im Allgemeinen ist das der einzige Anlass, der einen Drachen dazu bewegt, sein Gebiet auf der Suche nach Artgenossen zu verlassen. Bei Erreichen des Drachenstadiums wird das Geschlecht dieser Kreaturen festgelegt. Wenn die umgebenden Drachenbevölkerung aber zu einseitig sind, können einzelne Drachen ihr Geschlecht wechseln. Da nur wenige Kreaturen überhaupt dieses Stadium erreichen, ist diese Fähigkeit für das Überleben der Spezies unerlässlich.
+
+Drachen sind intelligenter als die meisten anderen fühlenden Wesen, ihr einsiedlerisches Wesen hindert sie aber daran, auf bedeutsame Weise mit anderen Spezies zu interagieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Jungdrachen repräsentieren das mittlere Stadium im Lebenskreislauf eines Drachen. Sie haben sich aus Lindwürmern entwickelt, aber das Drachenstadium noch nicht erreichen (viele werden das nie). Jungdrachen verteidigen ihre Territorien aggressiv und versuchen, es so weit wie möglich zu erweitern. Anderen Jungdrachen gegenüber sind sie feindselig eingestellt, da sie Konkurrenten um die knappen Ressourcen sind.
+
+Ihre Farbgebung richtet sich am beanspruchten Territorium. Lebt ein Jungdrachen beispielsweise in einem Sumpf, kann er grünlich, bräunlich oder schwarz gefärbt sein, Nickhäute, eine flache Schnauze und erhöhte Nüstern haben. Obwohl alle Jungdrachen Feuer speien können, entwickeln viele auch alternative, andere Elemente umfassende Angriffsarten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Druiden glauben, dass Essenz am stärksten und harmonischsten ist, wenn sie mit der Naturwelt verbunden ist. Da die meisten Wesen Seelen (oder Teile von Seelen) haben, die schon dutzende oder hunderte Lebenskreisläufe durchlebt haben, verfügen sie bereits über eine Verbindung zur Naturwelt. Das Erlernen und Üben von Geisterwandlerformen dreht sich darum, sich vorausgegangene Leben nutzbar zu machen und die Stärken und Fähigkeiten (wenn nicht gar die tatsächlichen Erinnerungen) der Seelenverwandten im Königreich der Tiere zu erfahren. Druiden glauben auch, dass das Geisterwandeln einem Individuum ermöglicht, die eigene Essenz besser auszugleichen und zu stärken, indem es sich an vergangenen Leben "ausrichtet." Diese Praktik vermeidet das Trauma einer vollständigen Erweckung, die Druiden als unnatürlich und erzwungen betrachten.
+
+Fähige Druiden können mehrere Geisterwandlerformen erlernen. Sie glauben, dass jede Form dem Anwender einzigartige Erfahrungen gewährt und seine oder ihre Essenz näher ans perfekte Gleichgewicht bringt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Waldläufer wählen als Gefährten oft Tiere aus, zu denen sie eine starke natürliche Verbundenheit haben. Der Vorgang der Seelenbindung verbindet Waldläufer und Tier derart, dass beide Entitäten Ausdauer, Gesundheit und letztendlich den Tod teilen. Man glaubt, dass sich Waldläufer an Tiere binden, in denen sie zuletzt oder am lebendigsten wiedergeboren wurden. Nach Aufbau der Verbindung trennen sich Waldläufer und Gefährte nie mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Aufgrund der Geschwindigkeit und einzigartigen Angriffsform von Speerspinnen kämpfen traditionellerweise nur äußerst tapfere (oder dumme) Schwertkämpfer und -kämpferinnen zu Übungszwecken gegen sie - vor allem die Reißzähne. Heutzutage wird diese Tradition nur noch von den urigsten und robustesten angehenden Kriegern verfolgt. Die Speerspinne ist als eines der verwegensten arachnoiden Raubtiere bekannt, da sie sich zum Beutefang weniger auf ihre Netze als auf ihre gezackten Beine verlässt. Aus diesem Grund entfernt sich diese Spezies auch weiter von ihrem Nest als die meisten anderen Spinnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Stelgaer sind große Raubkatzen. Während Jungtiere häufig als Einzelgänger jagen, bilden erwachsene Stelgaer zur Verteidigung ihres Territoriums, zur Jagd auf Beute und zum Aufziehen ihrer Jungen häufig Rudel. Diese Katzen sind aggressiv und äußerst anpassungsfähig. Bestimmte Populationen der Spezies finden sich in vielseitigen Umgebungen, von heißen Ebenen bis hin zur gefrorenen Tundra. Durch die Siedlungen von Gestandenen wurden sie größtenteils aus dem Territorium um Trutzbucht vertrieben. Aus diesem Grund kommen sie in Eir Glanfath häufiger vor. Ihr Status als tödliche Raubtiere hat sie bei Galawain-Anhängern zu einer beliebten Jagdtrophäe gemacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Ein Schlamm ist ein beweglicher, fleischfressender Schimmelpilz, der sich in dunklen, klammen Umgebungen bildet, die ganz oder fast unberührt bleiben. Beim Wachsen ernährt sich ein Schlamm von den Bakterien, Pilzen und Kleininsekten in seiner Umgebung. Sobald sie die Größe eines Hundes erreicht haben, beginnen sie, Jagd auf größere Beute zu machen - einschließlich Menschen. 
+
+Wie alle anderen lebenden Kreaturen verfügen sie über ein Maß an Seelenessenz, aber das Fehlen von Intelligenz und eines richtigen Nervensystems macht sie hirnlos aggressiv und schwer abhaltbar. Aufgrund ihrer Viskosität und Mobilität können sie überraschend flinke Angriffe ausführen, und sie können ätzende Enzyme "spucken", die Fleisch und Rüstungen auflösen. Einige der gefährlicheren Varianten der Spezies sind Krankheitsüberträger, weshalb Konfrontationen mit ihnen besonders gefährlich sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Cean Gŵla sind gewalttätige und verwirrte Geister, die nicht in der Lage oder bereit waren, den Schleier zu überwinden. Konkret sind dies die Geister von Frauen, die unter besonders tragischen oder traumatischen Umständen zu Tode kommen. Daher auch der Name "Cean Gŵla", was übersetzt "Blutmutter" bedeutet. Die weit verbreitete Vorstellung, Cean Gŵla seien die Geister von sitzengelassenen Gespielinnen, hat sich in letzter Zeit geändert, da die Effekte von Waidwens Vermächtnis größeren Bevölkerungsteilen bekannt werden. Da es jetzt so viele Hohlgeburten gibt und gleichzeitig viel mehr Cean Gŵla gesichtet werden, nehmen viele an, dieser Geister seien mit Müttern verbunden, die bei der Geburt gestorben sind. In Wirklichkeit manifestieren sich Cean Gŵla ebenso bereitwillig aus Frauen, die bei Gewaltverbrechen oder Unfällen gestorben sind, oder aus denen, die besonders gewalttätige Leben geführt haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>In den Städten des Dyrwalds haben die Will-o-Wisps einen fast mythologischen Status und kommen in mehreren Ammenmärchen vor. Eines der beliebtesten davon deutet an, dass Will-o-Wisps die Seelen verlorener Kinder sind, die auf ihre nächsten Leben zuwandern. In ländlichen Gebieten betrachten jene, die regelmäßig in Kontakt mit Will-o-Wisps kommen, diese Geschichte einigermaßen amüsiert. 
+Wisps sind bekannt dafür, verlassene Ruinen und andere verlorene Orte zu bewohnen. Man hält sie für neugierige Kreaturen, dass sie Reisenden manchmal für kurze Zeit folgen. Obwohl Wisps normalerweise friedlich sind, reagieren sie auf Provokationen mit notorischen Aggressivität, und wenn sie eine Bedrohung ihrer Territorien wahrnehmen, verteidigen sie diese mit äußester Brutalität. Aus diesem Grund werden Wisps oft als das Unkraut der Geisterwelt beschrieben - schnell, zur schnellen Regeneration fähig und in großer Zahl fast nicht aufzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Animaten wurden ursprünglich zur Bewachung von Königsgräbern geschaffen. Die frühsten Erschaffer von Animaten banden die Seelen ihrer stärksten Krieger und Diener an komplexe Skulpturen, die entsprechend dem Rang der darin gefangenen Seele aus verschiedenen Materialien gefertigt wurden. Als sich das technologische Wissen für diesen Verfahren weiter verbreitete, begannen mächtige Beseeler, selbst Animaten für ihren persönlichen Schutz zu schaffen. Dabei verwendeten sie alle Waffen und Materialien, die gerade verfügbar waren. 
+
+Animaten können nur mit loyalen Seelen erschaffen werden, denen großes Engagement zur Erfüllung ihrer Pflichten innewohnt. Das Erschaffungsritual kann widerwilligen Subjekten zwar trotzdem aufgezwungen werden, mangelnde Entschlossenheit in deren Seelen kann aber zu Abscheulichkeiten führen, die sofort versuchen, sich brachial selbst zu zerstören, wobei oft auch Unbeteiligte zu Schaden kommen. Selbst erfolgreich erschaffene Animaten sind anfällig gegen beginnende Zweifel, und die meisten Schaffer von Animaten bemühen sich sehr, das Aufkommen solcher Zweifel zu verhindern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Darguls haben den ersten unumkehrbaren Schritt des Verfalls eines nominell toten Körpers erreicht, der von Seelenenergie erhalten wird. Auf dieser Stufe haben sie bereits einen Teil ihrer Erinnerungen und geistigen Fähigkeiten eingebüßt, behalten aber so viel Selbstbewusstsein, dass sie ihren eigenen Verfall bemerken. Ihr unersättlicher Hunger und unvermeidbarer Verfall macht Darguls rücksichtsloser und aggressiver als Fampire, obwohl sie geheime und abgeschiedene Orte aufsuchen müssen, um sich der Aufmerksamkeit und Rache zivilisierter Gesellschaften zu entziehen. Manche Fampire fürchten diese Stufe mehr als die folgenden, da sie wissen, dass sie genügend ihrer Fähigkeiten behalten werden, um ihren eigenen Verfall bewusst zu erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Fampire sind Gestandene, deren Leben auf unnatürliche Weise verlängert wurden. Obwohl sie ihre normale humanoide Erscheinung größtenteils beibehalten, sind sie stets nur ein paar verpasste Mahlzeiten davon entfernt, sich in hirnlose Monster zu verwandeln - und das wissen sie auch. Da Fampire individuelle Persönlichkeiten und Erinnerungen beibehalten, kann sich dieses morbide Wissen auf verschiedene Arten manifestieren: Manche ziehen sich zurück und werden vorsichtig, weshalb sie jegliche Bedrohungen umgehen, die sie frühzeitig schwächen oder vernichten könnten, andere dagegen werden zu extrovertierten Hedonisten, die solange sie können, jedem Vergnügen hinterherjagen, das die Welt zu bieten hat. Früher oder später fällt jeder Fampyr unweigerlich dem Verfall zum Opfer, sofern er nicht vorher getötet wird.
+
+Da Fampire zum Überleben die Essenz lebender Wesen benötigen, und das Blut Gestandener diesbezüglich die reicheste und unmittelbar verfügbarste Quelle darstellt, werden sie von den meisten zivilisierten Gesellschaften gemieden. Aus diesem Grund leben Fampire eher an den Rändern der Gesellschaft, sofern sie überhaupt daran teilnehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Wie Animaten werden Fleischkonstrukte von Beseelern geschaffen und von einer gefangenen Seele belebt. Im Gegensatz zu Animaten sind sie aber nicht vom Willen und der Loyalität der gebundenen Seele abhängig. Aus diesem Grund können Fleischkonstrukte nicht von Zweifeln zu Fall gebracht werden, dafür können sie aber nur einfache Anweisungen befolgen. Außerdem tendieren sie dazu, nicht so lange zu halten wie Animaten. Während die Seele in einem Animaten ihn jahrzehntelang oder gar jahrhundertelang mit Energie und Glauben versorgen kann, verblasst die an ein Fleischkonstrukt gebundene Seele allmählich von ihrer physischen Form, bis der Körper schließlich aufhört, auf die Energie der Seele zu reagieren. Die Gegner der Beseelung im Allgemeinen und von Fleischkonstrukten im Besonderen sehen dies als die Ablehnung der Seele eines unpassenden Körpers, und als Beweis dafür, dass Fleischkonstrukte Abscheulichkeiten sind.
+
+Selbst unter den Beseelern wird die Schaffung von Fleischkonstrukten kontrovers diskutiert. Manche fassen den Vorgang als "Seelenlobotomie" auf und glauben, dass man einer Seele das Weiterziehen in das nächste Leben gestatten sollte, als sie als geistlosen Treibstoff eines Körpers zu missbrauchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Das allgemeine Verständnis über Guls ist dahingehend, dass sie sich genügend Gerissenheit bewahren, um gefährliche Jäger und Gegner zu sein ... aber nicht genug, um sich über ihren raschen Verfall zu sorgen. Wie Darguls werden sie von abgeschiedenen Umgebungen abgezogen, obwohl sich manche auf der Suche nach leicht zugänglichem Fleisch in der Nähe von Friedhöfen aufhalten. Das Fleisch toter Gestandener sättigt den Hunger eines Guls, kann aber ihr Bedürfnis nach Seelenessenz kaum befriedigen. Die Bewohnung eines Friedhofs kann den Verfall von Guls sogar beschleunigen, da dies ihren Antrieb, lebenden Nahrungsquellen nachzustellen, reduzieren kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Wiedergänger sind Untote, deren Degeneration sogar über die relative Intelligenz eines Guls hinausgeht. Wiedergänger behalten ihren instinktiven Hunger, verfügen aber nicht mehr über den Willen oder die Intelligenz, ihn zufriedenstellend zu befriedigen. Sie werden von Umgebungen angezogen, wo es tote oder sterbende Körper zu finden gibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Skelette benötigen kein Fleisch oder keine Essenz mehr, aber ihr Tötungswille wurde ihnen über viele Stadien des fortschreitenden Verfalls eingeträufelt. Aus diesem Grund greifen sie jeden an, der sich ihnen nähert, versuchen hinterher aber nicht, ihre Opfer zu verschlingen. Die Essenz, die sie belebt, ist auf einfachstem Niveau, da Skelette keinerlei Spuren von Willen, Intelligenz oder Persönlichkeit mehr zeigen. Sofern es nicht getötet wird, kann sich ein Skelett letztendlich selbst zu Knochenmehl zermahlen oder seine Essenz durch Verdunstung in den Äther verlieren.
+
+Skelettzauberer sind die Überreste von Kriegern, Zauberern und anderen Abenteurern. In ihren allgemeinen Eigenschaften ähneln sie anderen Skeletten, sind im Kampf aber versierter und behalten einige rudimentäre Fähigkeiten aus ihren Abenteurerleben.
+
+Todeswächter sind eine abweichende Form dieser Skelette - sie sind fähig, leistungsstark und intelligent. Wenn Fampire den mit ihren Zustand verbundenen, allmählichen Verfall vermeiden möchten, können sie ein riskantes, kostspieliges und äußerst schmerzhaftes Verfahren riskieren, um das Gewebe von den Knochen zu trennen, was zu einem absolut selbstbewussten Skelett führt. Auf diese Weise verfällt die Essenz nicht mit dem Fleisch, sondern lagert sich in den Knochen ab, einer weitaus härteren Substanz. Da der auf diese Weise geschaffene Todeswächter faktisch nichts zum Überleben braucht und nicht mehr weiter verfällt, kann er so lange "leben", bis er getötet wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Seit dem Einsetzen von Waidwens Vermächtnis wendeten sich verzweifelte Familien hilfesuchend an Beseeler. Die Übertragung einer verlorenen Seele in einen lebenden Körper stand (für die meisten) außer Frage, da fast sämtliche dieser Transplantate in der sofortigen Erweckung der transplantieren Seele resultierten. Dadurch würde die Seele nämlich eher die Erinnerungen aus einem vergangenen Leben erlangen, als die den kürzlich geborenen Kindes. 
+
+Die Beseeler standen unter Druck, eine schnelle Lösung zu finden, obwohl sie sich gegen solche Eile aussprachen: würde man eine Tierseele in einen seelenlosen Kinderkörper transferieren, könnte das Kind Bewusstsein, Instinkt und Wille erlangen. Da Tierseelen weniger individuelle Persönlichkeit und Erinnerungen als Seelen von Gestandenen haben, behauptete man, dass die Kinder in der Lage sein könnten, im Laufe der Zeit in ihre neue Seele hineinzuwachsen und den schwächeren Tiergeist zu überlagern - und sich demzufolge zu gesunden Kindern zu entwickeln. Im ganzen Dyrwald wurden schnell Transplantate durchgeführt, und man unterzog zehntausende Kinder diesem Verfahren. 
+
+Dadurch schienen sie Bewusstsein und Wille zurückzubekommen, und eine Zeitlang hielt man die Geretteten Kinder für geheilt. Als sie aber älter wurden, stellte sich heraus, dass sie nicht wie andere Kinder waren. Sie hatten kaum Verständnis oder Interesse für gesellschaftliche Normen, und benahmen sich oft merkwürdig. Beim Erreichen des Jugendalters begannen sich diese Unterschiede in physischen Veränderungen zu ihren Altersgenossen zu manifestieren - die Kinder begannen, sich in Wichte zu verwandeln.
+
+Der erste von ihnen war eine Orlaner-Jugendliche. Nachdem sie volljährig geworden war, wuchsen ihr tierische Reißzähne und sie entwickelte einen wilden Appetit. Obwohl ihre Familie versuchte, ihren Zustand zu verbergen, massakrierte sie schließlich alle Familienangehörigen und entkam in die Wildnis. Schon bald kamen andere Gerettete Kinder hinzu, und zahlreiche gebrochene Familien mussten mitansehen, wir sich ihre Kinder in gefräßige Biester verwandelten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Skuldr sind große Säugetiere, die in annähernder oder völliger Dunkelheit in Höhlen leben. Aus diesem Grund sehen sie nur schlecht und müssen sich bei der Beutejagd auf ihren Gehörsinn verlassen. Die Vorwölbungen und Haare auf ihren Ohren ermöglichen ihnen, Luftströmungen zu erkennen, was bei der Bewegung in einer unterirdischen Bewegung von größter Wichtigkeit ist. Sie kommunizieren durch Kreisch- und Klicklaute, die sie wie ein Echolot einsetzen. Sie sind Gemeinschaftswesen - das Nisten und Aufziehen der Jungtiere erfolgt gemeinsam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Xaurips sind reptilische Humanoiden und ungefähr so groß wie Orlaner. Sie schmücken sich mit den Knochen gefallener Feinde - meistens Xaurips rivalisierender Stämme. Auch große Federn, die sie an ihre Kleidung hängen und heften, gefallen ihnen gut. Die Hautfarbe von Xaurips kann zwischen hellgrün und rostbraun variieren. Ihre langen Schnauzen (die das Sprechen unmöglich machen) und ihr übermäßig aggressives Verhalten hat sie daran gehindert, mit den zivilisierteren Rassen der Welt zu kommunizieren. Sie leben in abgeschiedenen Stammesgebieten und sind für dafür bekannt, alle Unbedarfte, die ihren Weg kreuzen, erbarmungslos anzugreifen.
+ 
+Xaurips verehren Drachen als Gottheiten und errichten ihre Gemeinden um die Nester dieser mächtigen Kreaturen. Es ist nicht ungewöhnlich, dass kleine Stämme nomadisch umherziehen, bis sie einen Jungdrachen oder Drachen zum Anbeten gefunden haben. Hat sich ein Stamm einmal einem Drachen geweiht, wird er ihn um jeden Preis verteidigen. Aufwendige Rituale, bei denen der Drache Xaurip-Opfer verschlingt, sind gängige Praxis. Wenn der Drache älter und größer wird, entwickeln sich diese Opfer zu großen religiösen Ereignissen, die hunderten Xaurips das Leben kosten. Die Macht und das Prestige eines Xaurip-Stamms hängt direkt mit dem Alter seines Drachen zusammen. Die mächtigsten Stämme gibt es schon seit Jahrhunderten, wenn nicht Jahrtausenden. Die Krieger und Schamanen dieser großen Stämme bemalen ihre Körper für gewöhnlich, um ihren Drachengöttern zu ähneln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Genauigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Die Genauigkeit spielt bei fast jedem Angriff eine Rolle. Sie beeinflusst, wie wahrscheinlich es ist, dass der Angriff eine Wirkung auf das Ziel hat. Genauigkeit wird hauptsächlich durch die Klasse und die Stufe eines Charakters festgelegt, wird aber auch durch Talente und andere aktive Effekte wie Zauber oder Gegenstände beeinflusst. Wird ein Angriff unternommen, wird die Genauigkeit mit der jeweiligen Verteidigung des Ziels verglichen, um festzustellen, wie der Angriffswurf modifiziert wird. Liegt die Genauigkeit über der Verteidigung des Ziels, erhöht sich die Wahrscheinlichkeit eines Treffers oder kritischen Treffers und die Wahrscheinlichkeit eines leichten Treffers oder Fehlschlags sinkt.
+Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, werden mit einem kleinen Genauigkeitsbonus verstärkt, der auf der Stufe des Charakters basiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Abwehr</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Abwehr ist die Verteidigung, die genutzt wird, um direkten Nahkampf- und Fernkampfangriffen gegen den Charakter zu widerstehen, die keine Wirkungsbereichangriffe sind. Die Abwehr wird durch die Klasse, die Stufe, die Wahrnehmung und die Entschlossenheit des Charakters festgelegt, kann aber auch durch Schilde, bestimmte Waffen, Talente und andere Effekte von Zaubern oder Gegenständen beeinflusst werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Tapferkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Die Tapferkeit widersteht Angriffen gegen das Immunsystem des Charakters (z.B. Gift, Krankheit usw.).
+ Sie wird durch die Klasse des Charakters, seine Stufe, seine Macht und seine Verfassung definiert, kann aber auch durch andere Effekte beeinflusst werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Reflexe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Durch die Reflexe-Verteidigung kann der Verteidiger physisch schädlichen Wirkungsbereichangriffen ausweichen (z.B. Explosionen, Blitzschlägen). Sie wird durch die Klasse des Charakters, seine Stufe, seine Gewandtheit und seine Wahrnehmung definiert, kann aber auch durch andere Effekte beeinflusst werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Wille</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Die Wille-Verteidigung widersetzt sich mentalen Angriffen (z.B. einem Zauber, der das Ziel mental lähmt). Sie wird durch die Klasse des Charakters, seine Stufe, seinen Intellekt und seine Entschlossenheit definiert, kann aber auch durch andere Effekte beeinflusst werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Geblendet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Genauigkeit wird für alle Quellen um 25 reduziert. Wahrnehmung wird um 4 reduziert. Bewegung wird um 2 reduziert. Reflexe und Abwehr werden um 20 reduziert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Bezaubert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Ein bezaubertes Ziel kämpft mit verringerter Wirksamkeit für den Feind. Geschwindigkeit, Genauigkeit und alle Verteidigungen werden um 25 reduziert. Bezaubert ist exklusiv, das heißt ein Charakter kann nie mit mehr als einem Bezaubert-Effekt gleichzeitig belegt sein. Ein neuer Effekt hebt einen bestehenden Effekt auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Verwirrt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Verwirrte Charaktere verhalten sich unvorhersehbar. Ein verwirrtes Ziel führt alle 6 Sekunden eine der folgenden Handlungen aus: Normal verhalten, einen Verbündeten angreifen, in eine zufällige Richtung gehen oder nichts tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Benommen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Die Genauigkeit eines benommenen Ziels wird um 10 reduziert. Gewandtheit, Wahrnehmung und Intellekt werden alle um jeweils 2 reduziert, Geschwindigkeit wird um 15% reduziert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Dominiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Ein dominiertes Ziel unterwirft sich dem Willen des Feindes und nutzt alle Mittel, die ihm zur Verfügung stehen, um seine früheren Kameraden anzugreifen. Dominiert-Effekte sind stärker als Bezaubert-Effekte und heben diese auf. Dominiert ist exklusiv, das heißt ein Charakter kann nie mit mehr als einem Dominiert-Effekt gleichzeitig belegt sein. Ein neuer Effekt hebt einen bestehenden Effekt auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Flankiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Abwehr wird um 10 reduziert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Verängstigt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Entschlossenheit und Gewandtheit werden um 2 reduziert, Genauigkeit wird um 10 reduziert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Humpelnd</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Gewandtheit wird um 2 reduziert, Bewegung wird um 3 reduziert, Reflexe werden um 20 reduziert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Gelähmt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Ein gelähmtes Ziel kann keinerlei Handlungen unternehmen. Seine Gewandtheit wird auf 0 gesetzt, seine Reflexe und seine Abwehr um jeweils 40 reduziert. Gelähmt-Effekte sind stärker als Betäubt-, Bewegungsunfähig- oder Niedergeschlagen-Effekte und heben diese auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Versteinert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Die Seele eines versteinerten Charakters verwandelt seinen Körper vorübergehend in unbeweglichen, brüchigen Stein. Er leidet unter denselben Wirkungen wie ein gelähmter Charakter - allerdings wirken Angriffe sich direkt auf seine Gesundheit aus, nicht auf seine Ausdauer. Versteinert-Effekte sind stärker als Gelähmt-, Betäubt-, Bewegungsunfähig- oder Niedergeschlagen-Effekte und heben diese auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Niedergeschlagen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Niedergeschlagene Charaktere können keine Handlungen unternehmen. Gewandtheit wird um 2 reduziert. Reflexe und Abwehr werden um 10 reduziert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Erkrankt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Wenn ein Charakter erkrankt, werden alle seine Attribute um 1 reduziert. Tapferkeit und Wille werden um 10 reduziert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Bewegungsunfähig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Bewegungsunfähige Charaktere sind am Boden festgewurzelt - sie sind zwar handlungsfähig, können ihre aktuelle Position aber nicht verlassen. Gewandtheit wird um 2 reduziert. Genauigkeit wird für alle Quellen um 5 reduziert. Reflexe und Abwehr werden um 20 reduziert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Betäubt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Betäubte Charaktere können keinerlei Handlungen unternehmen. Gewandtheit, Wahrnehmung und Intellekt werden alle um jeweils 4 reduziert. Reflexe und Abwehr werden um 30 reduziert. Reflexe und Abwehr werden um 30 reduziert. Setzt Bewegungsunfähig und Niedergeschlagen außer Kraft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Geschockt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Entschlossenheit und Gewandtheit werden jeweils um 4 reduziert. Genauigkeit wird für alle Quellen um 20 reduziert. Geschockt-Effekte sind stärker als Verängstigt-Effekte und heben diese auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Geschwächt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Die Macht und die Verfassung von geschwächten Charakteren werden jeweils um 2 reduziert. Bewegung wird um 2 reduziert. Tapferkeit und Wille werden um 20 reduziert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Geprellte Rippen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Charaktere mit geprellten Rippen werden mit einem Malus auf ihre Tapferkeit-Verteidigung und ihre Verfassung belegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Gehirnerschütterung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Gehirnerschütterungen belegen den Intellekt sowie die Wille-Verteidigung des Charakters mit einem Malus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Verstauchtes Handgelenk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Ein verstauchtes Handgelenk führt zu einem Malus auf Abwehr und Genauigkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Geschwollenes Auge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Charaktere mit einem geschwollenen Auge werden mit einem Malus auf Genauigkeit und Wahrnehmung belegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Verdrehter Knöchel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Ein verdrehter Knöchel reduziert die Reflexe und die Gewandtheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Verdrehtes Knie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Charaktere mit einem verdrehten Knie werden mit einem Malus auf Bewegungsgeschwindigkeit und Gewandtheit belegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Verdrehte Schulter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Eine verdrehte Schulter führt zu einem Malus auf Aktionsgeschwindigkeit und Macht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Kritischer Treffer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Ein kritischer Treffer ist jeder Angriffswurf über 100. Ein kritischer Treffer, der Schaden verursacht, erhöht den verursachten Gesamtschaden um 25%. Ein kritischer Treffer bei Effekten mit einer Dauer (meistens Wirkungen wie Erkrankt oder Gelähmt) erhöht die Dauer um 50%.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Leichter Treffer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Ein leichter Treffer ist jeder Angriffswurf zwischen 16 und 50. Ein leichter Treffer verringert Schaden und Dauer um 50%.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Treffer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Ein Treffer ist jeder Angriffswurf zwischen 51 und 100. Wenn ein Angriff einen Treffer verursacht, richtet dieser Treffer normalen Schaden an und hat eine normale Dauer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Verteidigungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>In Pillars of Eternity gibt es vier Verteidigungen: Abwehr, Tapferkeit, Reflexe und Wille. Jede Verteidigung dient als Schutz gegen eine andere Kategorie von Angriffen durch den Angriffswurf. Abwehr dient als Schutz gegen die meisten direkten Waffenangriffe oder Angriffe, die Waffen ähneln. Tapferkeit bietet Schutz gegen körperliche Versuche, einen Charakter zu überwältigen oder seinen Körper innerlich anzugreifen (z.B. durch ein Gift). Körperliche Wirkungsbereichsangriffe wie Feuerbälle oder Blitze werden durch die Reflexe abgeschwächt. Fast alle mentalen Angriffe treffen auf die Wille-Verteidigung.
+
+Tapferkeit, Reflexe und Wille basieren alle auf Attributspaaren. Macht und Verfassung definieren die Tapferkeit. Geschicklichkeit und Wahrnehmung definieren die Reflexe, und Intellekt und Entschlossenheit definieren den Willen. Die Basisabwehr wird durch die Wahrnehmung und die Entschlossenheit des Charakters definiert. Alle Charaktere erhalten mit jedem Stufenaufstieg pauschale Boni auf ihre Verteidigungen. Darüber hinaus können Zauber, Fähigkeiten, Wirkungen und Gegenstände die Verteidigungen eines Charakters modifizieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Wirkungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Wirkungen sind explizit gebündelte Gruppen von Statuseffekten, die auf einen Charakter angewandt werden können - und auch vorübergehend ausgesetzt oder vollständig entfernt. Einige Wirkungen können von stärkeren oder Wirkungen aufgehoben werden, die meisten Wirkungen können jedoch auch neben anderen Wirkungen bestehen bleiben.
+
+Wenn ein Zauber gegen ein Ziel gewirkt wird, werden der Zauber und seine untergeordenten Effekte und Wirkungen alle in einem prozedural-gebündelten Container zusammengefasst, der durch den Zauber generiert wird.
+
+Wenn diese prozedural-gebündelten Container angewandt werden, während eine identische Version bereits aktiv ist (z.B. Segen auf ein Ziel gewirkt, das bereits unter dem Einfluss von Segen steht), wird die alte Version durch die neue ersetzt.
+
+Unabhängig davon, mit wie vielen Effekten das Ziel belegt ist, werden grundsätzlich nur die besten Boni und nur die schlimmsten Mali angewandt.
+
+Einige Kreaturen können manchen Wirkungen gegenüber immun sein. In diesem Fall können diese Wirkungen nicht auf diese Kreaturen angewandt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Passiv</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Wird ein Charakter mit passiven Talenten oder Fähigkeiten ausgestattet, erhält er den entsprechenden Bonus automatisch. Ein Charakter mit 'Reflexe der Schlange' erhält den Bonus auf seine Reflexe beispielsweise automatisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Aktiv</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Aktive Talente oder Fähigkeiten müssen vom Spieler aktiviert werden. Ein Kämpfer mit der Fähigkeit Niederschlag muss beispielsweise in der Aktionsleiste das Niederschlag-Symbol auswählen und dann ein Ziel für die Fähigkeit bestimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Angriffsauflösung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Alle Angriffe in Pillars of Eternity vergleichen den Genauigkeitswert des Angreifers mit einer von vier Verteidigungen des Ziels: Abwehr (direkte Nah- und Fernkampfangriffe), Tapferkeit (Angriffe gegen das Immunsystem wie Gift oder Krankheit), Reflexe (Wirkungsbereichangriffe) und Wille (mentale Angriffe). 
+
+Es wird eine Zahl zwischen 1 und 100 generiert und zu der Differenz zwischen Genauigkeit und Verteidigung addiert, um das Ergebnis des Angriffs zu berechnen. Bis 15 = Fehlschlag, 16 - 50 = leichter Treffer, 51-100 = Treffer, ab 100 = Kritischer Treffer. 
+
+In einem ausgeglichenen Angriff-/Verteidigung-Szenario werden die meisten Angriffe Treffer oder leichte Treffer sein. Wenn die Genauigkeit über der Verteidigung liegt, ist die Wahrscheinlichkeit von Kritischen Treffern höher. Wenn die Verteidigung über der Genauigkeit liegt, ist die Wahrscheinlichkeit von Fehlschlägen höher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Fehlschlag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Ein Fehlschlag ist jeder Angriffswurf von 15 oder weniger. Ein Fehlschlag verursacht keinen Schaden, keine Statuseffekte und keine Wirkungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Schadensreduktion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Wenn ein Angriff trifft, gibt es einen Hauptfaktor zur Minderung des entstehenden Schadens: Die Schadensreduktion, kurz SR. Der SR-Wert basiert meist auf Rüstung, viele Kreaturen besitzen jedoch auch natürliche SR oder können ihre SR durch Magie, Fähigkeiten, Talente oder andere Ausrüstung erhöhen.
+
+Die Schadensreduktion wird direkt von allem erlittenen Schaden abgezogen. Ein Angriff, der einem Ziel mit 7 SR ursprünglich 20 Schaden zufügen würde, wird also auf 13 reduziert.
+
+Der tatsächlich erlittene Schaden kann nie unter die Schwelle von 20% des ursprünglichen Wertes sinken. Wird dieser Mindestwert erreicht, erscheint im Kampfprotokoll in der Angriffszeile die Meldung MIN.
+
+Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadensreduktionswerte gegen die unterschiedlichen Schadenstypen. Niedrigere SRs schützen gegen weniger Schaden, so dass das Ziel gegen Angriffe dieses Typs anfälliger ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Konzentration</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Die Konzentration eines Charakters legt fest, wie wahrscheinlich es ist, dass seine Zauber oder Angriffe im Kampf unterbrochen werden. Jeder Entschlossenheit-Punkt erhöht die Konzentration eines Charakters - und steht dem Unterbrechung-Wert des Angriffs gegenüber. Wie bei Angriffswürfen wird für Unterbrechungen ein zufälliger Wurf verwendet, um zu bestimmten, ob die Unterbrechung erfolgreich ist. Wenn die Konzentration größer ist als der Unterbrechung-Wert, ist die Wahrscheinlichkeit einer Unterbrechung niedriger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Ausdauer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Die Ausdauer steht für die kurzfristige Überlebensfähigkeit eines Charakters. Schaden, der nicht durch die Schadensreduktion eines Charakters absorbiert wird, trifft direkt seine Ausdauer und Gesundheit. Tränke und Heilmagie (zum Beispiel von einem Paladin, Priester oder Druiden) können die Ausdauer im Kampf regenerieren. Wenn die Ausdauer eines Charakters auf 0 sinkt, wird er bewusstlos. Ein bewusstloser Charakter kann durch eine Beleben-Fähigkeit wieder zurück in den Kampf geholt werden. Andernfalls erhält der Charakter am Ende des Kampfes seine gesamte Ausdauer zurück (wenn er zur siegreichen Partei gehört).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Gesundheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Gesundheit ist langfristiger Schaden (sie kann nur durch eine Rast und bestimmte Talente regeneriert werden). Schaden, der nicht durch die Schadensreduktion eines Charakters absorbiert wird, trifft direkt seine Gesundheit und Ausdauer. Wenn die Gesundheit eines Charakters auf 0 fällt, wird er entweder verstümmelt oder getötet (je nach gewählter Einstellung). Ein verstümmelter Charakter, dessen Gesundheit auf 0 fällt, wird immer getötet - unabhängig von den Einstellungen. Im Gegensatz zur Ausdauer wird die Gesundheit eines Charakters nach einem Kampf nicht wiederhergestellt - die Gesundheitswerte der Charaktere sind aber viel höher als ihre Ausdauerwerte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Verstümmelt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Ein verstümmelter Charakter ist ein Charakter, dessen Gesundheit auf 0 gefallen ist. Nach Kampfende erhält er 1 Gesundheit zurück, wird jedoch mit schweren Mali auf alle Verteidigungen und auf die Genauigkeit belegt. Wenn er erneut getroffen wird und dabei 1 Gesundheitsschaden erleidet, wird er sofort getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Verletzungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Verletzungen sind langfristige Wirkungen. "Langfristig" heißt, dass sie anhalten, bis der Charakter rastet. Verletzungen entstehen meist durch geskriptete Interaktionen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Spähen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Der Spähmodus wird für zwei Zwecke verwendet: Schleichen und suchen. Schleichen kann dir einen taktischen Vorteil gegen schwierige Feinde verleihen - oder dir helfen, ihnen aus dem Weg zu gehen. Suchen ermöglicht es dir, Fallen und versteckte Gegenstände zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Versteck</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Das Lager enthält alle überschüssigen Gegenstände des Spielers, die nicht in das Inventar einzelner Charaktere passen. Außerdem werden im Lager besondere Gegenstände wie Handwerksmaterialien und Questgegenstände abgelegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Unterbrechung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Die Unterbrechung legt die Wahrscheinlichkeit fest, dass ein Charakter die Handlung seines Gegners aufhebt. Sie wird mit der Konzentration des anderen Charakters verglichen.
+ Der Wurf nutzt einen Unterbrechung-Wert von dem Angriff (Waffe oder sonstiger Angriff), der dann mit der Konzentration des Ziels (basierend auf seiner Entschlossenheit) verglichen wird. Es wird eine Zahl von 1 - 100 gewürfelt, dann wird die Unterbrechung addiert und die Konzentration abgezogen. Ist das Ergebnis 51 oder höher, spielt das Ziel eine Trefferreaktion ab und seine aktuelle Handlung geht verloren. Die Dauer der Unterbrechung hängt von der Unterbrechungsstärke der Waffe bzw. des Angriffs ab. Eine Unterbrechung, die auf eine Figur angewandt wird, die schon unter einer Unterbrechung mit einer längeren Dauer leidet, hat keinen Effekt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Pro Begegnung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Eine Fähigkeit, die eine bestimmte Anzahl von Verwendungen pro Begegnung hat, kann pro Kampfbegegnung nur begrenzt oft eingesetzt werden. Eine Fähigkeit mit 3 Verwendungen pro Begegnung kann beispielsweise nur 3 mal in einem einzelnen Kampf eingesetzt werden. Am Ende des Kampfes werden die Verwendungen für die nächste Begegnung wieder zurückgesetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Pro Ruhephase</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Eine Fähigkeit, die eine bestimmte Anzahl von Verwendungen pro Ruhephase hat, kann nur begrenzt oft eingesetzt werden, bevor sie erschöpft ist. Eine Fähigkeit mit 3 Verwendungen pro Ruhephase kann beispielsweise nur 3 mal eingesetzt werden. Um die Verwendungen zurückzusetzen, muss der Charakter rasten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Modal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Eine modale Fähigkeit löst einen Effekt aus, der so lange anhält, so lange die Fähigkeit aktiv ist. Die eifrige Aura eines Paladins verleiht beispielsweise jedem in der Nähe des Paladins Boni, so lange die Aura aktiv ist. Modale Fähigkeiten werden oft zu Gruppen zusammengefügt, so dass nur eine modale Fähigkeit einer Kategorie gleichzeitig aktiv sein kann. Diese Gruppen werden dadurch widergespiegelt, wie die Fähigkeiten in der Aktionsleiste organisiert sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Tod</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Wenn die Gesundheit eines Charakters in bestimmten Schwierigkeitsgraden auf 0 fällt, geht der Charakter zu Boden und wird verstümmelt - bzw. getötet, wenn er bereits verstümmelt war. Ein toter Charakter ist endgültig tot und kann nicht zurückgeholt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Gift</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Ein Gift-Effekt kann ein Statuseffekt oder eine Wirkung sein, meistens durch den Angriff einer Kreatur, oft aber auch durch einen Zauber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Krankheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Krankheiten können einen Charakter mit den verschiedensten Statuseffekten oder Wirkungen belegen. Ein Krankheitseffekt stammt meist von einem Zauber, oft aber auch von dem Angriff einer Kreatur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Erholung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Erholung ist die Zeit zwischen Handlungen eines Charakters. Längere Handlungen führen zu einer proportional längeren Erholung. Rüstungen wirken sich ebenfalls stark auf die Erholung aus. Grundsätzlich führen schwerere Rüstungen zu längeren Erholungsmali.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Festung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Die Festung, auch als Caed Nua bekannt, dient als Operationsbasis zur Lagerung von Gegenständen, zum Rasten, zur Organisation, zur Gruppenverwaltung - und als Investition. Viele Funktionen der Festung stehen erst zur Verfügung, wenn du sie ausgebaut hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Sekundäre Verteidigungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Sekundäre Verteidigungen werden für Angriffe der zweiten Stufe verwendet, beispielsweise das Gift eines Dolchs. In diesem Beispiel zielt der erste Angriff (der Dolchstoß) auf eine Verteidigung (Abwehr) und der zweite Angriff - der des Gifts - wird nur überprüft, wenn der erste Angriff ein Treffer war. Ist der Angriff ein Treffer, wird die Sekundäre Verteidigung überprüft (in diesem Fall Tapferkeit gegen Gift), um seine Wirkung zu bestimmen. Trifft der erste Angriff nicht, wird die Sekundäre Verteidigung nicht überprüft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Schadensarten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>In Pillars of Eternity gibt es acht Schadensarten: Hieb-, Stich-, Schmetter-, Verbrennungs-, Elektroschock-, Säure-, Frost- und reinen Schaden. Die Schadensarten werden dazu genutzt, zu bestimmten, wie leicht ein Ziel solchem Schaden widerstehen kann, basierend auf seinen Schadensreduktionen. Eine Kreatur oder Rüstung kann einer Schadensart gegenüber sehr resistent sein, einer anderen gegenüber aber sehr anfällig. 
+
+Manche Waffen oder Angriffe können mehrere Schadensarten anrichten oder zeigen zwischen ihren Schadensarten ein "oder". Wenn ein "oder" aufgeführt wird, verursacht der Angriff immer die Schadensart, gegen die das Ziel am anfälligsten ist. Reiner Schaden ist die einzige Schadensart, die alle Schadensreduktionen ignoriert - und meist mit Giften und ähnlichen Effekten in Verbindung steht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Unterbrochen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Antilopen sind in den Ebenen des Östlichen Abschnitts häufig anzutreffen. Obwohl die Kolonisierung und damit einhergehend die vermehrte Jagd ihre Herden ausgedünnt haben, sind sie noch immer im ganzen Dyrwald in großer Zahl anzutreffen, oft in leicht bewaldeten Gebieten. Antilopen sind für gewöhnlich nicht feindselig, können jedoch in Gesellschaft von Waldläufern als furchterregende tierische Gefährten angetroffen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Der Dyrwald besitzt eine gesunde Bärenpopulation, auch wenn die meisten der Tiere die zivilisierten Gebiete und Straßen der Gestandenen meiden. Adlige jagen manchmal zum Vergnügen Bären, doch die meisten Kolonisten, älteren Dyrwäldler und Glanfathaner gehen ihnen einfach aus dem Weg. In den Wäldern des Östlichen Abschnitts ist reichlich Wild zu finden, das sich sehr viel weniger erbittert wehrt als ein zorniger Bär.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Wildschweine gelten als Ärgernis und Gefahr in den Gegenden, in denen die meisten Kolonisten sich niederlassen. Die aggressiven und furchtlosen Tiere haben schon viele Menschen- und Elfenkinder sowie ausgewachsene Orlaner getötet. Wildschweinrudel können für jeden Reisenden oder Entdecker eine echte Bedrohung darstellen. Wildschweine sind schwer zu besiegen, ihre Zähne sind bei Händlern und Zauberern aber sehr begehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Todeswächter sind außerordentlich selten. Sie entstehen manchmal beim Ableben einer besonders entschlossenen Person, die sich weigert, die physische Welt zu verlassen und ins Jenseits überzugehen. Am häufigsten tritt diese schreckliche Verwandlung bei Paladinen auf, aber auch Priester und andere Fanatiker erleiden dieses Schicksal oft. Todeswächter bewohnen weiter ihre früheren Körper, doch die Energie, die es der Seele erlaubt, in der physischen Welt zu bleiben, verzehrt das Fleisch rasch, so dass nur Knochen zurückbleiben. Todeswächter werden durch ihren Zustand oft in den Wahnsinn getrieben. Sie sind furchterregende Feinde, die jeden vor Angst und Schrecken erzittern lassen, der ihnen gegenübersteht. Ihre brüchige Verbindung zum Jenseits ermöglicht es ihnen, furchterregende Feuerbälle oder Schatten zu beschwören und sogar mit einem einzigen Wort die Lebenden zu töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Angriffsbindung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Jedes Mal, wenn ein Charakter aus kurzer Distanz einen Feind mit einer Nahkampfwaffe angreift, entsteht eine Angriffsbindung. Sobald der Angreifer nah genug am Gegner ist, wird er an ihn gebunden. Mit dem Beginn der Angriffsbindung hört der Charakter auf sich zu bewegen. Der Charakter kann sich zwar wieder bewegen, das löst jedoch einen Absetzangriff aus. Wenn ein Charakter seine Bindung löst, hat er einen kurzen Augenblick Zeit, bevor der Feind versuchen kann, die Angriffsbindung wiederherzustellen.
+
+Einige Wirkungen machen es einem Charakter unmöglich, eine Angriffsbindung mit einem Feind einzugehen. Gelähmt, Versteinert, Niedergeschlagen und Betäubt beenden alle automatisch die Angriffsbindung und können verwendet werden, um sich aus heiklen Situationen zu retten.
+
+Hinweis: Es gibt eine Reihe von Talenten und Fähigkeiten, die sich auf die Regeln zur Angriffsbindung auswirken, beispielsweise Ehrenwerter Rückzug, Stellung halten, Verteidiger (Kämpfer), Wilder Sprint (Barbar) und Flucht (Schurke). Einige Kreaturen - vor allem große - können mit mehr als einem Gegner gleichzeitig eine Angriffsbindung eingehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Flankieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Wenn im Nahkampf zwei Angreifer aus unterschiedlichen Richtungen eine Nahkampfbindung mit ein und demselben Gegner eingehen, 'flankieren' sie ihn. Dadurch wird der Verteidiger mit dem Flankiert-Status belegt - er leidet unter verschiedenen Mali und kann mit einem Schleichangriff angegriffen werden. Jeder Zustand, der die Angriffsbindung eines Angreifers aufhebt, entfernt auch den Flankiert-Status des Verteidigers, wenn dieser nicht ohne den Angreifer aufrecht gehalten werden kann.
+
+Hinweis: Es gibt einige Fähigkeiten, die Ausnahmen zu den üblichen Flankierungsregeln verleihen, zum Beispiel 'Einer alleine' (Barbar), Pirscher (Waldläufer) und Phantomfeinde (Medium).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Addition (Stacking)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Die Addition - auch Stacking genannt - legt fest, wie Boni und Mali addiert werden. Der Einfachheit halber unterscheidet das Spiel vier grundlegende Bonikategorien: Passiv, Waffen, aktiv/modal und Ausrüstung.
+
+Alle Boni und Mali aus passiven Quellen und Waffen können addiert werden.
+
+Aktive und modale Boni (z.B. aus Fähigkeiten oder Verbrauchsgegenständen) wenden auf die jeweilige Statistik den höchsten Bonus und den niedrigsten Malus an. Wenn der Zauber eines Zauberers beispielsweise +3 auf Abwehr verleiht und die Aura eines Paladins +5, beträgt der aktive/modale Bonus +5, der Bonus von +3 verfällt. Wenn derselbe Zauber auch einen Bonus auf Macht verleiht, wird dieser dennoch angwendet (sofern er nicht von einem höheren Macht-Bonus einer anderen aktiven/modalen Quelle übertrumpft wird).
+
+Ausrüstung wendet ebenfalls den höchsten Bonus und den niedrigsten Malus auf die jeweilige Statistik an. Dazu zählen alle Gegenstände, die direkt am Charakter ausgerüstet sind, mit Ausnahme von Waffen. Ausrüstung ist eine eigenständige Kategorie, separat von aktiv/modal - daher werden die höchsten Boni und niedrigsten Mali aus jeder Kategorie addiert.
+
+Wirkungen (z.B. Betäubt, Niedergeschlagen) gelten im Allgemeinen als aktive Effekte. Wenn eine Wirkung auf einen Charakter angewandt wird, während dieselbe Wirkung bereits aktiv ist, wird die Dauer der bestehenden Wirkung ersetzt, wenn die neue Dauer länger ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Erschöpfung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Erschöpfung steht für die körperlichen und psychologischen Auswirkungen anstrengender Aktivitäten auf einen Charakter. Die Erschöpfung baut sich mit der Zeit auf, während der Charakter reist, Gebiete erforscht und vor allem kämpft. Einige geskriptete Interaktionen führen auch zu Erschöpfung, wenn sie besonders anstrengend sind. Die Athletik-Fähigkeit verlangsamt automatisch die Entstehung von Erschöpfung aus allen Quellen.
+
+Erschöpfung durchläuft mehrere Phasen. Anfänglich wird der Charakter nur mit kleinen Mali belegt, doch mit der Zeit werden diese immer ernster.
+
+Am einfachsten lassen sich die Effekte der Erschöpfung aufheben, indem der Charakter rastet. Einige Verbrauchsgegenstände können die Erschöpfung eines Charakters aber auch verringern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Rastvorräte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Rastvorräte werden benötigt, um in den meisten Wildnis- und Verliesgebieten zu rasten. Die Gegenstände stehen für eine Reihe von Dingen, die nötig wären, um ein Nachtlager aufzuschlagen, Essen zu kochen, Wunden zu versorgen und sich zu erholen. Viele Läden verkaufen Rastvorräte, manchmal findet man sie aber auch in Behältern oder bei Feinden. Der Schwierigkeitsgrad des Spiels schränkt die maximale Anzahl an Rastvorräten ein, die du gleichzeitig mit dir tragen kannst. In niedrigeren Schwierigkeitsgraden kannst du mehr Rastvorräte mitnehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Werkzeuge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Auf deinen Reisen durch den Östlichen Abschnitt findest du eine Vielzahl einfacher oder spezialisierter Werkzeuge. Gegenstände wie Brecheisen und Enterhaken können alle in geskripteten Interaktionen verwendet werden. Diese Gegenstände müssen nicht ausgerüstet werden, sondern werden aus dem Inventar entfernt, wenn sie verwendet werden.
+
+Dietriche sind eine besondere Art von Werkzeug, die dazu dienen, Schlösser zu knacken. Wenn der Mechanik-Wert des Charakters hoch genug ist, ist für das Knacken eines Schlosses kein Dietrich erforderlich (und es wird daher kein Dietrich aufgebraucht). Bei kniffligen Schlössern musst du aber eventuell einige Dietriche opfern, um Erfolg zu haben. Wie andere Werkzeuge auch müssen die Dietriche nicht im individuellen Inventar eines Charakters liegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Voller Angriff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Viele Fähigkeiten verwenden entweder einen Vollen Angriff oder einen Primärangriff. Wenn solche Fähigkeiten eingesetzt werden, wendet der Charakter den Effekt entweder durch einen Angriff mit allen momentan ausgerüsteten Waffen (Voller Angriff) an oder durch einen Angriff mit seiner primären ausgerüsteten Waffe (Primärangriff).
+
+Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der Schaden und andere Effekte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Primärangriff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Abydon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Gott der Golems, der Maschinen, des Fleißes, der Stärke, der Hoffnung und des Bestrebens. Vor allem in der Arbeiterklasse verehrt. "Der Golem" soll einst in der Lage gewesen sein, eine menschenähnliche Gestalt anzunehmen, wie die meisten anderen Götter. Dann aber soll er getötet worden sein, woraufhin er in der Hülle eines gewaltigen Golems zurückkehrte. Es existieren verschiedene Berichte über seinen Tod, von denen aber keiner als bestätigt gilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Berath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Gott des Todes, der Kreisläufe, der Türen, der Sterblichkeit und der Unvermeidbarkeit. Berath ist der Hüter des Kreislaufs von Leben und Tod. Es heißt, er würde die Leben derer fordern, die ihre Zeit verlebt haben. In den Volkssagen taucht Berath meist in der Form des Bleichen Paladins oder des Totengräbers auf, zweier skelettartiger Gestalten, welche diese Todgeweihten herausfordern oder überlisten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Eothas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Gott der Wiedergeburt, der Erlösung, der Morgendämmerung, des Frühlings und des Lichts. Wird meist als Mann mit einer silbernen Krone dargestellt, der eine Kerze in der Hand trägt. Soll im Krieg des Heiligen in den Körper des readceranischen Bauern Waidwen gefahren und am Ende des Krieges gemeinsam mit Waidwen vernichtet worden sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Galawain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Gott der Jagd, der Meuchelmörder, der Verfolgung, der Wildnis und der Raubtiere. Soll manchmal die Gestalt eines in Felle gekleideten Jägers oder eines großen Hundes annehmen. Galawain steht für das Überleben der Starken und das Auslöschen der Schwächen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Hylea</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Göttin des Himmels, der Mutterschaft, der Kreativität, des Gesangs, des Erfindungsreichtums, der Sprache und der Künste. Nimmt keine besondere physische Gestalt an, soll aber in Vögeln aller Art anwesend sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Magran</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Göttin des Krieges, des Feuers, der Transformation, der Läuterung, des Verzehrs und der Prüfungen. Schutzgöttin des Dyrwalds. Soll die Götterhammer-Bombe gesegnet haben, die Waidwen und möglicherweise auch Eothas ausgelöscht hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Ondra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Göttin der Ozeane, der vergessenen Dinge, des Verlusts, der Unnachgiebigkeit und der Trauer. Soll sich einst in den Mond verliebt haben und versucht haben, ihn zu sich zu ziehen, mit katastrophalen Folgen. Die Leute bringen Erinnungen an Dinge, die sie vergessen möchten, zu ihren Tempeln, und ihre Priester werfen diese Erinnerungsstücke ins Meer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Rymrgand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Gott der Entropie, der Kälte, des Winters, des Pechs, der Hungersnot und der Naturkatastrophen. Manifestiert sich als riesiger Albino-Auerochse, der sich in einem gewaltigen Schneesturm fortbewegt. In den schwerfälligen Fußstapfen Rymrgands folgen Tod und Zerfall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Skaen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Gott des Trotzes, der gewaltsamen Rebellion, des geheimen Hasses, der Verschwörungen, der Missgunst und des Neids. Oft als entstellter und vernarbter Sklave dargestellt, wird oft von den Unterworfenen und Mittellosen verehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Wael</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Gott der Geheimnisse, der Enthüllen, der Illusionen, der Kryptographie, der Verschleierung, der Wahrnehmung, der Träume und der Visionen. Wael ist ein Mysterium ohne beständige Gestalt oder beständiges Geschlecht. Seine - oder ihre - Anhänger lieben es, Geheimnisse zu schaffen oder zu ergründen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Woedica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Göttin der Gerechtigkeit, des Gesetzes, des Schwurs, der Versprechen, der Herrschaft, der Rache, des Gedächtnisses und der Hierarchien. Wird als alte Adlige dargestellt, die eine zerbrochene Krone auf dem Kopf trägt. Soll einst über die anderen Götter geherrscht haben, wurde aber gestürzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Aedyranisches Reich</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Eine Nation, die vor vierhundert Jahren aus der Verschmelzung eines menschlichen und eines Elfenkönigreichs hervorging, beherrscht von einem Fercönyng ("erster König") oder einer Mecwyn ("erhabene Königin"). Sowohl der Dyrwald als auch Readceras waren zunächst Kolonien von Aedyr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Dyrwald</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Eine koloniale Nation, die von Siedlern aus dem aedyranischen Reich gegründet wurde. Nach einer Reihe von Konflikten mit Aedyr erlangte das Gebiet im Jahr 2672 AI seine Unabhängigkeit. Heute herrscht ein Duc über das Land, der von sieben Grafen gewählt wird, welche seine Grafschaften überwachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Eir Glanfath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Ein Gebiet, das aus dem Wald südöstlich des Flusses Bael besteht, bevölkert von einer Gruppe lose verbundener Stämme, die gemeinsam als Glanfathaner bekannt sind. Ein Rat der sechs mächtigsten Stämme regiert das Land. In Eir Glanfath befinden sich zahlreiche Ruinen engwithanischer Stätten, die für die Glanfathaner heilig sind. Die Ruinen sind immer wieder Gegenstand schwerer Konflikte mit Kolonisten aus dem Dyrwald, deren Siedlungen oft auf glanfathanischem Gebiet liegen und die die Ruinen auf der Suche nach Relikten plündern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Engwith</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Der Name einer ausgestorbenen Zivilisation, die über zwei Jahrtausende alt ist. Ihr Bevölkerungszentrum soll sich dort befunden haben, wo heute Eir Glanfath und Dyrfurt liegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Readceras</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Dyrwalds Nachbar im Norden. Readceras ist eine Nation, die fest in ihrem eothasianischen Glauben verwurzelt ist. Begonnen hat dieser Eifer während des Kriegs des Heiligen, und selbst, nachdem Eothas offenbar tot ist, lässt er nicht nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Vailianische Republiken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Eine Handelsmacht und die ehemalige Kolonie einer größeren, älteren Nation, Alt-Vailia. Die Republiken liegen südlich des Dyrwalds und Eir Glanfaths und werden von einem Duc regiert, der vom "Consuagli Asegia" gewählt wird, einem Rat aus 14 Ducs, darunter auch die fünf mächtigsten, die "Ducs Bels".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Adra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Ein muschelähnliches organisches Material, wegen seiner guten Formbarkeit bei Handwerkern beliebt - und wegen seiner Fähigkeit, Seelen anzulocken, festzuhalten und zu kanalisieren bei Beseelern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Beseelung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Die Wissenschaft der Seelenmanipulation. Ein umstrittenes und relativ junges Forschungsgebiet. In einigen Nationen - zum Beispiel Aedyr - verboten, in anderen Ländern - zum Beispiel dem Dyrwald und den Vailianischen Republiken - dagegen erlaubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Erweckte Seele</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Für gewöhnlich hat man keine bewussten Erinnerungen an seine früheren Leben. Wer jedoch eine erweckte Seele besitzt, der hat entweder Erinnerungen an ein früheres Leben oder es manifestiert sich sogar eine ganze Persönlichkeit aus einem früheren Leben. Genau wie gewöhnliche Erinnerungen entstehen Erweckungen häufig, wenn man in der Gegenwart etwas sieht, was einen an ein vergangenes Erlebnis zurückdenken lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Beraths Rad</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Auch bekannt als das "Rad von Leben und Tod" oder einfach "das Rad". Beraths Rad ist eine metaphorische Vorstellung, die das kollektive Wogen von Seelen beschreibt, die mit dem Tod aus ihrem Körper entweichen, die Welt über Adra-Säulen verlassen und dann in neuen Körpern wiedergeboren werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Bîaŵac</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Ein Sturm, der nur in der Wildnis von Eir Glanfath auftritt. Wer innerhalb des Sturms gefangen ist, dem wird die Seele aus dem Leib gerissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Essenz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Seelen bestehen aus Essenz. Diese Seelenmaterie steht bei Beseelern hoch im Kurs, denn für ihre Experimente benötigen sie sie häufig als Ressource.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Hohlgeburt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Ein Kind, das ohne Seele geboren wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Verlorene</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Nach dem Tod eines Körpers entweicht die Seele und findet einen Weg in eine Adra-Säule, so dass sie wieder in den eoranischen Kreislauf der Wiedergeburt eintauchen kann. Manchmal gelingt es Seelen nicht, diese Säulen zu erreichen, oder sie weigern sich, sie zu betreten. Diese Seelen werden als "verlorene Seelen" oder "die Verlorenen" bezeichnet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Säuberungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Nach dem Krieg des Heiligen trachteten dyrwäldische Mobs danach, alle Anhänger von Eothas zu töten, insbesondere in ländlichen Gebieten. Ausgehend von der Stadt Kaltmorg, die Waidwens Truppen angeblich widerstandslos passieren ließ, wurden Eothasianer gejagt, gefoltert und auf den Straßen ermordet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Krieg des Heiligen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Begann als Bauernaufstand in Readceras, angeführt von einem Bauern namens Waidwen, der sagte, der Gott Eothas sei in seinen Körper gefahren. Nachdem er die readceranische Regierung gestürzt hatte, fiel Waidwen in den benachbarten Dyrwald ein, wo er besiegt wurde - ausgelöscht von einer Waffe, die nur die "Götterhammerbombe" genannt wurde. Seitdem hat niemand mehr etwas von Eothas gehört.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Erlösung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Ein Versuch von Beseelern, die Todesfälle von Hohlgeburten während Waidwens Vermächtnis einzudämmen, indem die Seelen von Tieren in hohlgeborene Kinder eingesetzt wurden - in der Hoffnung, sie könnten dann selbständig leben. Die Praxis war ein katastrophaler Fehlschlag und führte ohne Ausnahme dazu, dass die Kinder zu Wichten wurden. Sie wird daher oft "die grausame Erlösung" genannt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Waidwens Vermächtnis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Eine weit verbreitete Seuche unbekannten Ursprungs, die dazu führte, dass Säuglinge im Dyrwald ohne Seelen geboren wurden. Ihren Namen erhielt die Seuche, weil sie etwa zeitgleich mit dem Tod von St. Waidwen im Krieg des Heiligen begann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>Wächter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Jemand, der mit der seltenen Gabe geboren wurde (oder sie später erlangte), Seelen zu sehen - und manchmal sogar zu lesen oder mit ihnen zu kommunizieren. Es gibt viele unterschiedliche Berichte, wie Wächter zu ihrer Fähigkeit gelangen, und man begegnet weitaus häufiger jemandem, der nur vorgibt, ein Wächter zu sein, als einem wahren Wächter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Wicht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Ein hohlgeborenes Kind, das durch die Wissenschaft der Beseelung zum Wirtskörper für die Seele eines Tieres wurde. Mit der Zeit werden alle diese Kinder wild und gewalttätig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Gottheiten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Orte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Wissen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>Verschiedenes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

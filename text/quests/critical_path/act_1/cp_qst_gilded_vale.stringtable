@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_1\cp_qst_gilded_vale</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Goldtal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise nach Goldtal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Durchquere das Talholz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Untersuche den Leichnam von Caldara de Berranzi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Ruh dich etwas aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Sprich mit Magistrat Urgeat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Goldtal soll eines der reichsten Dörfer im Dyrwald sein, in dem es an Gelegenheiten zum Arbeiten und Reichwerden nur so wimmeln soll. Mir wurde gesagt, dass sie neuen Siedlern Land anbieten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Reise nach Goldtal ist lang gewesen, und sie ist noch nicht ganz vorbei. Glücklicherweise hat mich das Reisen mit der Karawanen vor einigen Gefahren des Dyrwalds bewahrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe das Talholz erreicht. Das Dorf Goldtal liegt direkt vor mir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Goldtal hat gar nichts mit den Beschreibungen gemein. Ich bin mir nicht sicher, welche Art von Arbeit ich hier finden werde ... wenn überhaupt. Noch schlimmer aber ist, dass die seltsamen Visionen immer noch nicht aufgehört haben.
+
+Der örtliche Magistrat schlug mir vor, einen Beseeler zu Rate zu ziehen. Leider hängt die einzige Beseelerin Goldtals von einem Baum in der Dorfmitte. Aber es kann wohl nicht schaden, den Leichnam zu durchsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Magistrat Urgeat schlug mir vor, in der Schänke abzusteigen, während er für mich nach einer eigenen Unterkunft sucht. Alles hier ist im Stillstand, während er auf Neuigkeiten über Fürst Raedrics Baby wartet. 
+
+Anscheinend bleibt mir kaum etwas anderes übrig, als abzuwarten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>In meinen Schlaf mischten sich seltsame Träume ... aber vielleicht hat Magistrat Urgeat mittlerweile alles erledigt. Es könnte sich lohnen, ihn erneut anzusprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Mit der Karawane zu reisen hat eine Weile lang meinen Zwecken gedient, jetzt aber haben Odema und die anderen keinen Nutzen mehr für mich. Ich habe es alleine nach Goldtal geschafft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich sah mich gezwungen, in die Ruinen zu fliehen. Da der Rückweg blockiert ist, muss ich darauf hoffen, dass es einen anderen Ausweg gibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe es endlich aus den Ruinen hinausgeschafft, aber ich bin nicht alleine. Vor mir haben sich einige merkwürdige, verhüllte Gestalten versammelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Die mysteriösen Gestalten scheinen eine seltsame Maschine zu aktivieren. Etwas muss schiefgegangen sein, da es zu einem plötzlichen Energieblitz kam, durch den die verhüllten Fremden getötet wurden ... und ich hatte seltsame Visionen, für die ich keine Erklärung finde. Hoffentlich kann ich in Goldtal Antworten finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Endlich habe ich Goldtal erreicht. Es ist nicht unbedingt das, was ich erwartet hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich bin in der Schänke nicht mehr willkommen. Ich werde im Freien zelten müssen, bis der Magistrat Neuigkeiten erfährt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Die Situation in Goldtal hat sich verändert. Nach einem Problem bei der Geburt seines Kindes bietet Fürst Raedric Reisenden nicht länger Land an, und der Magistrat hat mir mitgeteilt, dass man nicht wünscht, dass ich mich hier niederlasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Da der Magistrat nun tot ist, werde ich in Goldtal wohl kaum eine ständige Bleibe finden können. Jetzt bleibt mir nur noch, in der Schänke abzusteigen.
+
+Meine Reise hat mich ermüdet, und das Geflüster scheint nur noch schlimmer zu werden. Vielleicht wird es meinem Leiden zuträglich sein, eine Nacht durchzuschlafen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Da ich mich nun tief unterhalb einer engwithanischen Stadt befinde und der Rückweg zur Oberfläche unklar ist, werde ich unwahrscheinlich in nächster Zeit nach Goldtal zurückkehren, um mich weiter mit dem Magistrat über eine Unterkunft unterhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Magistrat Urgeat schlug mir vor, in der Schänke abzusteigen, während er für mich nach einer eigenen Unterkunft sucht. Alles hier ist im Stillstand, während er auf Neuigkeiten über Fürst Raedrics Baby wartet. Anscheinend bleibt mir kaum etwas anderes übrig, als abzuwarten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

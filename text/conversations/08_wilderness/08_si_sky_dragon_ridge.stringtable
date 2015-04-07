@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_si_sky_dragon_ridge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine Treppe windet sich den Berg hinauf. Du steigst mühsam höher und höher. Die Aussicht ist beeindruckend. 
+
+Nach einem kurzen Stück wird dein Fortschritt allerdings unterbrochen. Ein großer Felsen scheint von oben auf den Pfad gefallen zu sein - und liegt nun mitten in deinem Weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der Felsen liegt eng an der Felswand, so dass du auf dieser Seite nicht an ihm vorbei gelangst. Auf der Seite des Abhangs ist jedoch gerade genug Platz, um auf die andere Seite zu gelangen. Der Felsen hat bei der Landung jedoch die Stufen darunter zerschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Den Weg mit Hammer und Meißel freiräumen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Den Felsen aus dem Weg schieben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Versuchen, um den Felsen herumzugehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die Steine rollen mit einem lauten Echo den Abhang hinunter. Das Geräusch scheint über dir etwas zu wecken. Ein Schatten kreuzt den Pfad, so schnell wie ein Blitz, und verschwindet, bevor du erkennen kannst, wer ihn verursacht hat. Du siehst jedoch die rasch immer größer werdenden Umrisse von weiteren Steinen, die von oben auf dich herab geworfen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Wer räumt den Weg frei?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Slot 0].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Slot 1].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Slot 2].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Slot 3].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Slot 4].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Slot 5].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Niemand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du trittst einen Schritt zurück, um zu überlegen, was du tun kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Slot 0] drückt mit aller Kraft gegen den Felsen. Nach einigen angestrengten Augenblicken beginnt er, langsam über die zerstörten Stufen zu rutschen und zu rollen - und stürzt dann in die Tiefe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Slot 0] stemmt die Schulter gegen den Felsen und müht sich ab, ihn zu bewegen. Nach einer Weile wird jedoch offensichtlich, dass der Stein sich nicht bewegen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Slot 1] drückt mit aller Kraft gegen den Felsen. Nach einigen angestrengten Augenblicken beginnt er, langsam über die zerstörten Stufen zu rutschen und zu rollen - und stürzt dann in die Tiefe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Slot 1] stemmt die Schulter gegen den Felsen und müht sich ab, ihn zu bewegen. Nach einer Weile wird jedoch offensichtlich, dass der Stein sich nicht bewegen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Slot 2] drückt mit aller Kraft gegen den Felsen. Nach einigen angestrengten Augenblicken beginnt er, langsam über die zerstörten Stufen zu rutschen und zu rollen - und stürzt dann in die Tiefe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Slot 2] stemmt die Schulter gegen den Felsen und müht sich ab, ihn zu bewegen. Nach einer Weile wird jedoch offensichtlich, dass der Stein sich nicht bewegen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Slot 3] drückt mit aller Kraft gegen den Felsen. Nach einigen angestrengten Augenblicken beginnt er, langsam über die zerstörten Stufen zu rutschen und zu rollen - und stürzt dann in die Tiefe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Slot 3] stemmt die Schulter gegen den Felsen und müht sich ab, ihn zu bewegen. Nach einer Weile wird jedoch offensichtlich, dass der Stein sich nicht bewegen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Slot 4] drückt mit aller Kraft gegen den Felsen. Nach einigen angestrengten Augenblicken beginnt er, langsam über die zerstörten Stufen zu rutschen und zu rollen - und stürzt dann in die Tiefe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Slot 4] stemmt die Schulter gegen den Felsen und müht sich ab, ihn zu bewegen. Nach einer Weile wird jedoch offensichtlich, dass der Stein sich nicht bewegen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Slot 5] drückt mit aller Kraft gegen den Felsen. Nach einigen angestrengten Augenblicken beginnt er, langsam über die zerstörten Stufen zu rutschen und zu rollen - und stürzt dann in die Tiefe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Slot 5] stemmt die Schulter gegen den Felsen und müht sich ab, ihn zu bewegen. Nach einer Weile wird jedoch offensichtlich, dass der Stein sich nicht bewegen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Den Stein mit Hammer und Meißel zu bearbeiten ist beschwerlich, du kommst nur langsam voran. Zumal mehrere Teile des Felsens zu hart sind und du anderswo weiterarbeiten musst. Nach einer Weile zahlt sich deine Mühe aus und ein Teil des Felsens bricht ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Ohne zu zögern duckst du dich unter einen kleinen Felsvorsprung. Die Steine schlagen hart auf der Erde auf und springen die Treppe hinab oder fallen in den Abgrund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Deine Gruppe duckt sich schnell unter einen kleinen Felsvorsprung - aber [SkillCheck 0] stolpert und erreicht den sicheren Unterstand nicht. Ein plötzlicher Hagel aus faustgroßen Steinen und kleineren Kieseln regnet auf [SkillCheck 0] hinab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Nach diesen Mühen setzt du den Aufstieg fort und der Rest der Reise verläuft ohne Zwischenfälle. 
+
+Schließlich stehst du am Fuß einer letzten sich windenden Treppe, an deren Ende du die aufragenden Säulen von Hyleas Nest siehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Mit Wunden und blauen Flecken übersät springt [SkillCheck 0] die letzten Meter in Sicherheit. Nach einer kurzen Weile verklingt das donnernde Gepolter der fallenden Steine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Als du dich dem Felsen näherst, wird klar, dass die Felskante kaum Platz für einen Stiefel bietet. Die Kiesel machen jeden Schritt zu einer Gefahr. Einen Augenblick gezögert und ein Stein rollt unter dem Gewicht von [Slot 0] davon und den Abhang hinab. [Slot 0] eilt erschrocken auf die andere Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Als du dich dem Felsen näherst, wird klar, dass die Felskante kaum Platz für einen Stiefel bietet. Die Kiesel machen jeden Schritt zu einer Gefahr. Einen Augenblick gezögert und ein Stein rollt unter dem Gewicht von [Slot 1] davon und den Abhang hinab. [Slot 1] eilt erschrocken auf die andere Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Als du dich dem Felsen näherst, wird klar, dass die Felskante kaum Platz für einen Stiefel bietet. Die Kiesel machen jeden Schritt zu einer Gefahr. Einen Augenblick gezögert und ein Stein rollt unter dem Gewicht von [Slot 2] davon und den Abhang hinab. [Slot 2] eilt erschrocken auf die andere Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Als du dich dem Felsen näherst, wird klar, dass die Felskante kaum Platz für einen Stiefel bietet. Die Kiesel machen jeden Schritt zu einer Gefahr. Einen Augenblick gezögert und ein Stein rollt unter dem Gewicht von [Slot 3] davon und den Abhang hinab. [Slot 3] eilt erschrocken auf die andere Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Als du dich dem Felsen näherst, wird klar, dass die Felskante kaum Platz für einen Stiefel bietet. Die Kiesel machen jeden Schritt zu einer Gefahr. Einen Augenblick gezögert und ein Stein rollt unter dem Gewicht von [Slot 4] davon und den Abhang hinab. [Slot 4] eilt erschrocken auf die andere Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Als du dich dem Felsen näherst, wird klar, dass die Felskante kaum Platz für einen Stiefel bietet. Die Kiesel machen jeden Schritt zu einer Gefahr. Einen Augenblick gezögert und ein Stein rollt unter dem Gewicht von [Slot 5] davon und den Abhang hinab. [Slot 5] eilt erschrocken auf die andere Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Du drückst dich elegant durch den schmalen Platz neben dem Felsen und erreichst ohne Zwischenfall die andere Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Du drückst mit aller Kraft gegen den Felsen. Der Felsen beginnt langsam über die zerstörten Stufen zu rutschen und zu rollen - und stürzt dann in die Tiefe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Du legst deine Hände auf die Seite des Felsens und drückst mit aller Kraft nach vorne. Doch so sehr du dich auch abmühst, der Stein ist viel zu schwer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Als du dich dem Felsen näherst, wird klar, dass die Felskante kaum Platz für einen Stiefel bietet. Die Kiesel machen jeden Schritt zu einer Gefahr. Einen Augenblick gezögert und ein Stein rollt unter deinem Gewicht davon und den Abhang hinab. Du eilst erschrocken auf die andere Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Die Gegend untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

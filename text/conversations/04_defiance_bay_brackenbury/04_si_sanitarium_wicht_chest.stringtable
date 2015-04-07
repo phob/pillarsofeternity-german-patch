@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_si_sanitarium_wicht_chest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>In einer Ecke von Moedreds Labor steht eine große, abgewetzte Truhe. Sie scheint etwas Wichtiges zu enthalten, allein ihrer Größe nach zu urteilen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Die Truhe genauer untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Die Truhe öffnen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Die Truhe in Ruhe lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Die Truhe aufschließen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Dir fällt nichts Besonderes auf, mit Ausnahme des großen Vorhängeschlosses an der Vorderseite. Was der Beseeler hier auch aufbewahrt, er will es vor fremden Augen und Händen schützen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die staubfreie Oberfläche der Truhe und die langen Kratzspuren auf dem Fliesenboden lassen vermuten, dass die Truhe häufig verwendet und im Labor bewegt wird - trotz ihrer beträchtlichen Größe. 
+
+Tiefe aber schmale Furchen sind in das Holz an den Rändern der Truhe geritzt. Sie sehen aus wie Krallenspuren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Die Truhe ist offen, von ihrem grauenhaften Inhalt befreit. Es befinden sich nur einige Stofffetzen und ein abgenagter Rattenknochen darin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die Truhe ist mit einem schweren Schloss gesichert. Es ist zu robust, um es zu zerbrechen, und der Mechanismus sieht kompliziert aus, kaum zu knacken. Du musst den Schlüssel finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du nimmst den Schlüssel, den du von Helig beschafft hast, und steckst ihn in das Schloss. Er passt perfekt und dreht sich mit einem festen Klacken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die Truhe enthält keine Zauberbücher oder Schätze. Stattdessen starrst du in die wilden Augen und den mit scharfen Zähnen besetzten Schlund einer missgestalteten, monströsen Kreatur. Ihre menschliche Gestalt liegt unter knochigen Auswucherungen und schrecklichen Krallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Geschockt erkennst du die vage Form eines jungen Mädchens unter den lang gezogenen, verformten Knochen und der grauen Haut. Sie knurrt und springt aus der Truhe - nicht auf dich zu, sondern auf Moedred. Moedred hat keine Zeit mehr zu schreien, bevor ihm die Kehle herausgerissen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Geschockt erkennst du die vage Form eines jungen Mädchens unter den lang gezogenen, verformten Knochen und der grauen Haut. Sie knurrt und springt aus der Truhe, mit ausgestreckten Krallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

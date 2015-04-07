@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_pallegina_hub</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>84</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als dich Pallegina kühl abschätzt, leuchtet in ihren Augen ein göttlicher Funke. "Brauchst du was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich habe über deinen Orden nachgedacht, die Bruderschaft der Fünf Sonnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Pallegina nickt sanft. "In den Republiken nennen wir das Frermàs mes Canc Suolias. Die fünf Sonnen sind die 'Ducs Bels', die Groß-Ducs, die über die mächtigsten Republiken herrschen: Spirento, Ancenze, Selona, Ozia und Revua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Die Ducs Bels sorgen für den Fortschritt der Republiken, sie halten uns an der Spitze von Handel und Technologie, sie bewahren unsere Stärke gegen unsere Rivalen. Wir Brüder sind darauf eingeschworen, sie zu unterstützen und sie zum Wohle der Republik und ihrer Bürger zu beschützen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Du erwähnst 'Brüder', aber ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Aber mein Brustharnisch wölbt sich an den falschen Stellen?" Sie grinst kurz. "Ich mag ja wie eine Frau aussehen und auch wie eine klingen, aber laut den Gesetzen der Republiken bin ich keine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"'Gottähnliche', wie sie Leute wie mich nennen, können niemals Kinder gebären, also können wir demnach auch keine 'echten' Frauen sein. Für die meisten unfruchtbaren Frauen in den Republiken ist das so, als würde die Sonne in ihren Leben untergehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Für mich aber bedeutete es etwas anderes, nämlich Freiheit. Die Bruderschaft hat eine Regel gegen den Beitritt von Frauen, mich aber ließ man zu. Viele lehnten die Entscheidung ab, aber ich habe schon vor langer Zeit gelernt, das zu ignorieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Wie funktioniert das denn? Fünf Ducs können doch nicht immer derselben Meinung sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Sie wirft ihren Kopf in den Nacken und lacht. "Ha ha ha! Natürlich nicht. Sie streiten sich in der Songretta Ducala ohne Unterlass. Der Bruderschaft ist es verboten, bei den Debatten Partei zu ergreifen - nicht dass ich das wollte. Ich würde lieber im Kampf gegen die Feinde der Republiken Leib und Leben riskieren, als dem ewigen Geleiere im ducalen Kongress zuzuhören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Unsere Loyalität gilt keinen einzelnen Ducs, sondern den Ducs als Einheit, ihrem kollektiven Willen und ihren Beschlüssen. Wir folgen den Mandaten des ducalen Kongresses. Wir erhalten Anweisungen von einzelnen Ducs, aber sie verstehen wohl, für was wir nicht eingesetzt werden dürfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Was ist an den Vailianischen Republiken denn so toll?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Wann bist du ein 'Bruder' geworden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich trat dem Orden bei, als ich noch sehr jung war ... nur sechs Jahre alt. Meine Abschlussprüfungen bestand ich erst, als ich schon zwanzig war. Dass es tatsächlich passieren würde, damit hatte ich niemals gerechnet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Was halten die Leute in den Vailianischen Republiken von den Gottähnlichen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Wie allen Andersartigen wird mir entweder Neugier oder Angst entgegengebracht. Und wenn sie verängstigt sind ... ", sie zuckt mit den Achseln, " ... dann werden sie wütend. Sie wollen, dass die Welt Sinn für sie macht, und Leute wie ich können da verwirrend wirken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Und glaube mir, die Leute lassen sich leicht verwirren." Als ihre Stimme und ihr Blick abschweifen, spricht sie mit ernsterem Ton. Einen langen Augenblick später schaut sie wieder zu dir zurück. "Egal wo wir sind, wir alle müssen uns selbst schützen. Anders zu sein, heißt sich immer über die eigene Schulter zu schauen, egal in welcher Gesellschaft du dich befindest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Du gehörst zu den Gottähnlichen, nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Sie stößt ein kurzes Lachen aus. "Ja, so nennen sie mich. Da ich noch nie einen Gott getroffen habe, weiß ich auch nicht, wie sie sind. Ich verstehe auch nicht, warum alle anderen zu wissen glauben, warum ich so geboren wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Von wo in den Vailianischen Republiken stammst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Warum bist du über die Beseelung in Trutzbucht besorgt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Die Leute sehen in den Republiken eine Nation von Kaufleuten. Sicher, wir betreiben viel Handel durch Trutzbucht, aber der größte Wert für uns ist nicht in einem Hauptbuch zu finden - wir handeln mit geistigem Eigentum, mit Ideen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Der Dyrwald und die Vailianischen Republiken sind bei der Beseelung weltweit führend. Sollte der Dyrwald Verbote gegen die Erforschung und Praktizierung der Beseelung einführen, würde das ernste Auswirkungen für die Vailianischen Republiken haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Das Dorf, in dem meine Familie lebte, wurde von Piraten angegriffen. Als ich jung war, kam so etwas nicht selten vor. Die Piraten waren mehr ein Ärgernis als eine tatsächliche Bedrohung, aber sie waren derart hartnäckig, dass es der Duc von Ozia für angemessen hielt, die Frermàs zur Erledigung der Angelegenheit zu entsenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ich war in die Vorstellung verliebt, einer von ihnen zu sein. Damals hatte ich noch nicht einmal eine Vorstellung, was es heißt, einem Land zu dienen. Ich wusste auch nicht wirklich, was genau die Republiken waren. Ich war nur ein kleines Mädchen, aber vielleicht wollte ich so wie sie sein, weil ich sah, wie sie von den Leuten gefeiert wurden. Ich sah, wie ihnen die Leute für ihre Taten dankten. Vor allem aber sah ich, wie sie aufbrachen - und diesen Ort verließen, der sich für mich wie ein Gefängnis anfühlte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Mein Vater verachtete mich und meine Gegenwart. Als er erfuhr, dass die Bruderschaft meine Art aufnahm, weil wir nicht als Frauen angesehen wurden, fragte er, ob er mich für die Steuern eintauschen könnte, die er für sein Land schuldete. Der Musterungsoffizier glaubte, eine 'Gottähnliche' wie mich in den Rängen zu haben, sei prestigeträchtig, also nahm er mich trotz meiner physischen Einschränkungen auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ich wurde in einem Fischerdorf in der Nähe von Biageppe geboren." Sie wirft ihre Stirn in Falten, und ihre Augen schauen weg, als würden sie nach einer verlorenen Erinnerung suchen. "Kann mich nicht an den Namen erinnern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Sie macht mit ihrer gefiederten Hand eine abfällige Handbewegung. "Ich war nur ein paar Jahre dort. Meine beste Erinnerung an diesen Ort ist, ihn zu verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Wie alle anderen Brüder auch wuchs ich unter den Bastionen von Ozian auf. Es war nicht einfach, aber ich zog es dem Ausnehmen von Fischen vor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Vor langer Zeit stand das Großreich von Vailia in seiner Blüte. Als das Reich in die kriegerischen Staaten von Alt-Vailia zerfielen, ging ein Großteil der alten Kultur verloren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Die Vailianischen Republiken sind eine Wiedergeburt der Kultur von Groß-Vailia, aber wir sind mehr als nur das. Während Alt-Vailia damit zufrieden war, immer in die Vergangenheit zu schauen, werden die Republiken die Zukunft formen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Und wie hast du dich ihnen schließen angeschlossen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"War es schwierig?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Warum wolltest du den Ducs dienen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Es war schwieriger, als ich es mir vorgestellt hatte, aber ich war nur ein Kind. Kinder können die tatsächliche Schwierigkeit von Dingen nicht verstehen, aber das macht sie den Zweifeln gegenüber unverwüstlich, die uns im Alter plagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Trotzdem: Die Kindheit mündet schließlich in das Jugendalter. Das war der Zeitpunkt, ab dem mich die jungen Männer dafür zu hassen begannen, weil ich anders war. Nicht 'gottähnlich', sondern eine Frau unter Männern." Sie tritt unbehaglich auf der Stelle. "Viele Jahre lang war es nur schwer zu ertragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich brauchte drei Anläufe, um die körperlichen Prüfungen zu bestehen, die allen Brüdern abverlangt werden. Solches Scheitern ist nicht ungewöhnlich, aber man benutzte es bis zu dem Tag, an dem ich ging, gegen mich. Erst als ich in Dienst gestellt wurde, konnte ich den Schmähungen entkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Warum hat dich dein Vater verachtet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Weil ich anders geboren wurde, aber vor allem deshalb, weil meine Mutter durch meine Geburt verletzt wurde, und deshalb keine weiteren Kinder bekommen konnte." Sie zuckt schwach mit den Achseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Das ist ... merkwürdig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Das ist der Grund, weshalb mich mein Vater bei der Bruderschaft eintauschte. Meine Mutter ... sie war anders, gütiger, versöhnlicher als er. Sie machte mich nicht für das verantwortlich, was ich war. Aber wenn mich mein Vater ansah, dann sah er nur das Ende seiner Blutlinie, und dafür hasste er mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ich wünschte, ich wäre als gewöhnliches Kind geboren worden. Ich wünschte, ich wäre als etwas anderes geboren, als ich bin ... oder dass ich woanders geboren worden wäre, wo es einen Platz für mich gibt. Aber das war nicht so. In den Republiken sehen mich die Leute an und halten mich für eine Gottähnliche. Ich kann nicht heiraten, und in den meisten Städten kann ich nicht mal Handel treiben. Meine Erscheinung regt die Leute einfach viel zu sehr auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Obwohl ich kein Teil dieses Ordens sein konnte, sah ich den Wert darin. Ich dachte, wenn ich dabei helfen könnte, die Republiken zu bewahren, dann würden die Leute schon sehen, dass es für meine Art einen Platz in unserer Gesellschaft gibt. Die Ducs sind gute Anführer, aber sie brauchen die Bruderschaft zur Unterstützung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Siehst du die Beseelung nur als etwas, mit dem man handeln kann?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Findest du nicht, dass die Beseelung mit Gefahren behaftet ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Sie schnaubt verächtlich. "Ich bin zwar keine Wissenschaftlerin, aber ich glaube, dass wir alle von der Beseelung profitieren können. Es gibt zu viele Fragen darüber zu beantworten, wer wir sind - warum ich so bin, wie ich bin. Wüssten wir die Antworten darauf, könnten wir vielleicht das Leben aller verbessern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Natürlich ist sie gefährlich, aber wir Bewohner des Östlichen Abschnitts sind Kinder von Pionieren. Wir begehren die Gefahr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Sie nickt entschieden. "Das ist der Grund, warum die besten Forschungen in der Neuen Welt angestellt werden müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Die Alt-Vailianer sehen Größe in den Taten ihrer Vorväter und glauben, selbst dadurch aufgewertet zu werden. Sie sind ein erschöpftes Volk aus einer verblassenden Zeit. Die großen Städte des Reichs waren einst voller Schönheit, aber heute leben nur noch wenige, die das mit eigenen Augen gesehen haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ich würde gerne deine Meinung über etwas erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Ihr gefiederter Kopf nickt knapp. "Frage, dann wirst du es erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Wie laufen die Dinge deiner Meinung nach?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Du hast viel Zeit im Dyrwald verbracht. Was hältst du von ihm?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Sehen die Republiken das Aedyr-Reich als Bedrohung an?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Was weißt du über Rauatai?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Sie haben Beeindruckendes mit Kanonen und Artillerie erreicht, und manche ihrer Schiffsentwürfe sind recht interessant, aber sie spucken wegen bescheidener Errungenschaften zu große Töne." Sie lächelt sanft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Niemand stellt ernsthaft in Frage, ob die Republiken alle Seewege des Östlichen Abschnitts kontrollieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Niemand stellt ernsthaft in Frage, ob die Republiken alle Seewege des Östlichen Abschnitts kontrollieren." Sie zuckt mit den Achseln. "Nichts für ungut!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Wir sahen das Reich als Bedrohung an. Seit der Revolution im Dyrwald haben die Republiken von dem dadurch entstandenen Schutzschild profitiert. Das ist der andere Grund, weshalb ich den Fall von Trutzbucht fürchte. Wenn der Dyrwald schwach ist, wird Aedyr sicherlich die Dominanz der Republiken im Östlichen Abschnitt auf die Probe stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Der Dyrwald ist kein Vergleich zu den Republiken, aber er ist einer unserer engsten Verbündeten. Mit keinem anderen Land treiben wir mehr Handel, und bei der Unterstützung der Beseelungsforschung haben wir keinen größeren Verbündeten als ihn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Pallegina schüttelt leicht den Kopf. "Trotzdem kann ich die Besessenheit der Dyrwäldler mit Rache und Fehden ebenso wenig verstehen wie den allgegenwärtigen Hass auf Orlaner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Die Orlaner von Eir Glanfath kämpfen wir alle anderen auch um ihr Zuhause und ihre Kultur. Die kämpfen zwar mit schmutzigen Tricks, aber wären meine Feinde doppelt so groß wie ich, würde ich nicht anders handeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Unsere Leben sind merkwürdig. Mein Vater hätte auch anders mit mir umgehen können. Er hätte mich nach der Geburt umbringen können. Keiner in diesem Dorf hätte deswegen eine geringere Meinung von ihm gehabt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Sie zuckt mit den Achseln, und unter ihren Augenlidern gleiten die Membranen ihrer Augen nach außen und wieder zurück. "An die Bruderschaft verkauft zu werden, stellte sich als die bessere Alternative heraus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Dein Verhalten ist ungebührlich. Wenn man sich in den Republiken in einer mit überwältigenden Macht verbundenen Position befindet, wird Zurückhaltung von einem erwartet. Leute so schlecht zu behandeln, wie du es tust ... " Sie schüttelt den Kopf. "Das sagt nichts Gutes über deinen Charakter aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Du bist wie einer dieser Dyrwäldler, die immer mit einem Feuer im Magen darauf warten, es auf jemand zu speien, der ihnen in den Weg kommt. Manchmal kommt die Zeit zum Kämpfen, aber nicht alle Probleme können mit einem Schwert gelöst werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Gar nicht so schlecht." Sie zuckt mit den Achseln und denkt einen Moment lang nach. "Trotzdem ist es gut, seine Meinung zu sagen ... sieh dich nur vor, dass du es nicht vor jedem tust. Diskretion führt einen manchmal weiter als Ehrlichkeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ich glaube, es würde besser laufen, wenn du nicht Verrat als eine Art von Schlüssel ansähst, mit dem du jedes Problem aufsperren kannst, auf das wir stoßen." Leicht ärgerlich wackelt sie mit einem Finger vor deinem Gesicht. "Nicht jedermann wird von seinem Verstand geleitet. Wenn du versuchst, Leidenschaft mit Logik einzusperren, wirst du jedes Mal scheitern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Pallegina seufzt und fährt sich mit einer Hand über die Federn entlang ihrer Wange. "Gar nicht so schlecht, aber du musst ein bisschen lockerer werden. Wenn ich mich mit jemandem durch den halben Dyrwald kämpfen soll, würden ein paar Gespräche mehr sicherlich nicht schaden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Sie zuckt mit den Achseln und wirft beiläufig eine Hand hoch. "Keine Beschwerden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ich wollte dich noch etwas anderes über die Bruderschaft fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Sprechen wir über etwas anderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Pallegina nickt knapp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Als Pallegina sanft nickt, gleiten die Membranen von Palleginas goldenen Augen nach außen und wieder zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ich bin froh, dass du siehst, dass man mit Diplomatie weit kommen kann. In der Bruderschaft werden wir dazu ausgebildet, unsere physische Stärke zu bewahren und mit Köpfchen und Worten durch die meisten Konflikte zu kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Zur Bekräftigung ihrer Worte hebt sie einen gefiederten Finger. "Es gibt immer eine Zeit für den Kampf, aber ich stelle mit Freuden fest, dass du zurückhaltend genug bist, um nicht jede Gelegenheit dafür zu nutzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Soviel also zu Thaos." Als Pallegina in die große Maschine hineinschaut, gleiten die Membranen von Palleginas goldenen Augen nach außen und wieder zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Jetzt hast du die Chance, die Dinge wieder zurechtzurücken, die richtige Reihenfolge wiederherzustellen. Der Dyrwald wird mehrere Generationen brauchen, um sich zu erholen, aber wenigstens werden diese Seelen ihren Weg zurück zum Rad finden - so, wie es sein soll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Die Ducs würden mich dafür umbringen, das zu sagen, aber du solltest den Dyrwald mit diesen Seelen stärken. Diese Kinder wird nichts zurückbringen. Der Dyrwald hat genug gelitten, zu viel. Dies kann ihnen die Stärke zum Weitermachen geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ich brauche dich an meiner Seite, um Botschafter Agosti zur Abwechslung mal zum Zuhören zu bewegen. Lass mich wissen, wann ich mich dir anschließen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Lasst uns gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Noch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

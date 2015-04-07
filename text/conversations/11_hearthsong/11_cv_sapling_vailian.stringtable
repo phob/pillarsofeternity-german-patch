@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_sapling_vailian</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Die Dyrwäldler servieren bessere Getränke, aber die Glanfathaner bauen Tavernen, die ich auch tatsächlich besuchen möchte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Die Stämme sind so feindselig gegenüber Außenseitern, dabei hat der Handel mit uns ihr Leben deutlich verbessert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Weißt du, was in diesen engwithanischen Ruinen nicht versteckt ist? Rezepte für anständige Getränke ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Es gibt hier so viele Orlaner - nicht wie zuhause. Deswegen sind die Tische wohl auch so niedrig."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

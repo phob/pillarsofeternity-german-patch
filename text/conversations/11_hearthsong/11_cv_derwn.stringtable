@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_derwn</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese stämmige Frau lächelt dich breit an, als du dich näherst. "Ah, du hast es gehört, wie ich sehe. Eine gute Klinge hat eine Stimme, die ihrem Besitzer zusingt. Welche Waffe hat nach dir gerufen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Du brauchst bessere Waffen für die Jagd. Wie der Zufall es will, kann ich dich damit versorgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Zeig mir deine Waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Sieh dich nur um. Meine Waffen sind der Stolz von Eir Glanfath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Jeder Freund von Eir Glanfath ist mir willkommen. Ich weiß, dass du gerechten Handel mit uns treibst, und so behandle ich dich ebenfalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Erzähl mir von deiner Handwerkskunst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Sieh dich nur in Ruhe um. Vielleicht spricht dich ja etwas an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich bevorzuge lautlose Waffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Einen Bogen vielleicht? Damit kannst du einen Eber aus einhundert Schritten Entfernung erlegen. Oder vielleicht bevorzugst du etwas Kleineres - ich habe viele gute Dolche. Ich weiß, dass du etwas finden wirst, was dir gefällt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Meine Waffen sprechen für sich - und jeder Mann und jede Frau auf diesem Markt kennt meinen Wert. Selbst Tamra. Ich trage das Wissen meines Vaters in mir - und das seiner Mutter vor ihm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Nimm eine meiner Klingen in die Hand, und du hältst eine Waffe, die über fünf Generationen perfektioniert wurde." Derwn schnaubt verächtlich. "Sie sagen, ich sollte solch gute Waffen nicht an Estarmorwn vergeuden. Ich sage, eine gute Waffe, die unbenutzt verstaubt, ist die wahre Vergeudung."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

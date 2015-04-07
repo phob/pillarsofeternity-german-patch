@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_merchant_lora</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die junge Frau steht neben einem Karren und beobachtet die Menge mit großen, intelligenten Augen, die dich ins Visier nehmen, als du dich näherst. "Lass dir ruhig Zeit, Reisender. Wenn du nach verzauberten Schriftrollen oder Gewändern suchst, bist du bei mir richtig."</DefaultText>
+      <FemaleText>Die junge Frau steht neben einem Karren und beobachtet die Menge mit großen, intelligenten Augen, die dich ins Visier nehmen, als du dich näherst. "Lass dir ruhig Zeit, Reisende. Wenn du nach verzauberten Schriftrollen oder Gewändern suchst, bist du bei mir richtig."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Zeig mir deine Waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Verkaufst du einen Dolch aus Markstahl?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Sie stellt sich auf die Zehenspitzen und deutet auf einen Stand zwischen den Treppen. "Du suchst bestimmt nach Igrun. Siehst du den großen Aumaua dort drüben? Er verkauft Waffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Kann ich sonst noch etwas für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Es freut mich immer, ein vertrautes Gesicht zu sehen. Wie kann ich dir helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich untersuche einige Vermisstenfälle. Ich habe gehört, dass deine Schwester verschwunden ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich ... " Loras Stimme senkt sich zu einem Flüstern. "Ich dachte nicht, dass mir jemand helfen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Wenn ich dir irgendetwas sagen kann, was helfen könnte, frag einfach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Wann und wo hast du deine Schwester das letzte Mal gesehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Als Kora verschwand, habe ich es in der Dunrydstraße versucht, bei den Schmelztiegelrittern, selbst bei den Dutzenden hier." Sie zeigt mit dem Daumen auf das große Gebäude hinter ihr. "Niemand hatte die Zeit, nach einem verschwundenen Mädchen zu suchen." Sie beißt sich auf die Lippe. "Das war vor drei Wochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Was hat Kora zu der Zeit ihres Verschwindens gemacht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Hast du Kora mit jemanden gesehen, als sie verschwand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Mehr muss ich im Moment nicht wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Lora legt beide Hände über ihr Herz. "Du weißt nicht, wie viel mir das bedeutet. Einfach nur zu wissen, dass tatsächlich jemand nach ihr sucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich habe noch mehr Fragen über Kora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Sie war - ist - gerne unter Menschen. Sie stand schon immer gerne im Mittelpunkt. Ich fürchte, weiter kann ich es nicht einschränken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Sie war bei uns zuhause und hat sich auf ihren großen Auftritt vorbereitet. Das war vor drei Wochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Sie war gerade einer Theatertruppe beigetreten, sie hieß ... äh ..." Lora runzelt die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Du weißt es. Konzentriere dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Das Sternenfest! Genau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Sie wird plötzlich lebhafter, wachsamer ... und ernster. "Natürlich"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Sie war ziemlich unerfahren." Lora zögert. "Ich glaube, deswegen war sie so aufgeregt, dass sie eine Rolle bekommen hatte. Ich fürchte, mehr weiß ich nicht darüber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Sie hatte gerade eine Rolle beim Sternenfest bekommen. Ich kann dir nicht viel darüber sagen. Ich wollte sie erst nach ihrem großen Debüt ausquetschen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ich bringe Kunde von deiner Schwester. Kora ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Sie ..." Loras Augen füllen sich mit Tränen. "Ich weiß nicht, was ich sagen soll. Ich habe gehofft und gehofft, aber tief in mir drin wusste ich es wohl schon. Aber das macht es nicht leichter ..." Sie wischt sich eine Träne von der Wange. "Wenn doch nur früher jemand nach ihr gesucht hätte ... sofort, als ich um Hilfe gebeten habe ... vielleicht wäre sie dann jetzt hier ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ja, du hast Recht." Sie wischt sich die Augen. "Ich muss mich um ihr Begräbnis kümmern. Danke, dass du sie gefunden hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Es sind dunkle Tage in Trutzbucht. Die Behörden tun, was sie können, aber sie haben begrenzte Ressourcen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Die Behörden hier scheren sich einen Dreck um die einfachen Leute. Ihre Nachlässigkeit ist unverzeihlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Es ließ sich nicht verhindern. Quäle dich nicht damit, was hätte sein können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Wir haben die Verantwortlichen gefasst und verhindert, dass anderen dasselbe Schicksal widerfährt. Das ist es, was jetzt zählt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Erzähl mir von Kora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Vergiss es. Ich will dich etwas Anderes fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Sie ist meine kleine Schwester. Sie war schon immer eine Träumerin. Sie war überzeugt, dass etwas Besonderes auf sie warten würde, dass man sich an sie erinnern würde und sie glücklich und wichtig werden würde." Lora schüttelt den Kopf. "Sie hat jede Menge Herz, aber nicht annähernd so viel Engagement. Aber als sie diese Stelle beim Theater bekam, da dachte ich, sie würde sich ändern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Endlich haben die Kämpfe ein Ende. Ich musste zwar meinen Wagen ersetzen, aber ich kann froh sein, dass ich noch lebe."
+
+"Brauchst du Schriftrollen oder verzauberte Kleidung? Zum Glück konnte ich fast alle meine Waren retten."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

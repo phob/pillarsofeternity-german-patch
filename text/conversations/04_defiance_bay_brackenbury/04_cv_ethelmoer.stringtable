@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_ethelmoer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>67</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine gut gepflegte Statue eines Mannes im mittleren Alter wacht über den Raum. Reglos blickt sie über das geschäftige Treiben hastig dahineilender Akademiker, die von hoffnungsvollen Verzweifelten bedrängt werden.
+
+Sie strahlt eine starke Wärme aus, die du auch am anderen Ende des Raumes spürst. Unter dem Stein ruht eine menschliche Seele. Du spürst, wie ihre Aufmerksamkeit sich auf dich richtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ah, der Wächter. Was führt dich hierher?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hast du etwas Interessantes erfahren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Irgendetwas Neues?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Sei gegrüßt. Ich hoffe, du bringst keine neue Kunde von Ärger in meinem Sanatorium."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ihr könntet ein Mitglied des Bleiernen Schlüssels in eurer Mitte haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Erzähl mir von dem Sanatorium."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ethelmoer stöhnt und der Stein um ihn herum bebt. "Ich hätte darauf verzichten können, das zu hören.
+
+Wie oft haben sie sich in unsere Angelegenheiten eingemischt. Natürlich kann man selten sicher sein, ob sie die Finger im Spiel hatten, oder ob das Unglück von allein zugeschlagen hat. Aber einige ihrer weniger fähigen Infiltratoren wurden hin und wieder enttarnt. Sie sind ein konstantes Ärgernis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vielleicht. Führt Caedman Azo Experimente an den Patienten hier aus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Experimente? Caedman Azo ist jetzt für das Wohlergehen der Patienten zuständig. Er ist nicht mehr befugt, Experimente auszuführen."
+
+"Ich bin ... enttäuscht von Caedman. Ich hatte gehofft, er könnte deine Ermittlungen weiterbringen. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ah, du bist zurück. Kann ich dir irgendwie behilflich sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Bitte fasse dich kurz. Nach dem, was hier geschehen ist, wirst du mir verzeihen, dass ich unsere Gespräche nicht in die Länge ziehen möchte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ich habe Azo konfrontiert. Ich war gezwungen, ihn zu töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Er seufzt angewidert. "Welch Vergeudung. Es gab hier niemanden, der talentierter war. Ich hatte gehofft, seinen Ruf mit der Zeit wiederherzustellen. Doch ein Verstand wie der seine, so voller Ideen, bietet wenig Raum für Geduld."
+
+"Ich würde der Sache weiter nachgehen, doch die Wahrheit ist, du hast dieser Institution einen Gefallen erwiesen. Wären seine Fehltritte jemals ans Licht der Öffentlichkeit gelangt, hätte es einen fürchterlichen Aufschrei gegeben. Ich war blind, ihm ein zweites Mal zu vertrauen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ich suche einen Beseeler namens Moedred."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Es ist lange her, dass ein Wächter diese Hallen mit seiner Anwesenheit beehrt hat." Seine Stimme erzeugt ein tiefes Echo, das den Boden unter deinen Füßen erzittern lässt. "Ich beneide dich um deinen natürlichen Tiefblick. Er wäre mir zu Lebzeiten bei meiner Arbeit eine große Hilfe gewesen."
+
+"Nun denn, was führt dich in mein Sanatorium?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Moedred ... natürlich. Du findest ihn unten, im ersten Raum auf der rechten Seite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Bist du der Beseeler, der die Relikte von Imatl gekauft hat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Es gibt einen großen und berüchtigten Schwarzmarkt für nicht katalogisierte engwithanische Relikte. Ich halte mich tunlichst von ihm fern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Eine Geschichtsstunde? Welch seltenes Vergnügen. Die meisten, die herkommen, möchten nur dem Tod ein Schnippchen schlagen."
+
+"Wir sind eine alte Institution, für dyrwaldsche Verhältnisse. Wir befinden uns in unserem 94. Jahr. Wie es in so vielen Städten der Fall ist, brachte das Wachstum von Trutzbucht eine ganze Reihe von Problemen mit sich. Eines der schlimmsten war, dass jene, die mit ... sagen wir ... unglücklichen Seelen geboren wurden, in Scharen die Straßen bevölkerten. Daher das Sanatorium."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich frage mich, wie du in diesen ... Zustand ... geraten bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"In die Statue, meinst du? Nun." Er lacht. "Ich war alt! Und es erschien mir einfach falsch ... ein ganzes Leben im Dienste der Entdeckung, nur um es im Tod alles zu verlieren. Irgendwo würde ich irgendwann in einem neuen Körper erwachen, ahnungslos und unwissend, und einen völlig anderen Weg einschlagen. All meine Erfahrungen wären vergeudet gewesen."
+
+"Wenn wir je die Grundlagen unserer Existenz ergründen wollen, müssen wir unsere physischen Limitierungen überwinden. Davon bin ich überzeugt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Er ist gewiss in seinem Büro oder auf einer der Patientenstationen. Ich gewähre dir sofortigen Zugang, damit du ihn finden kannst. Du wirst dich gewiss mit ihm noch weiter über diese Angelegenheit unterhalten wollen. Und ich zumindest bin äußerst neugierig, was er zu sagen hat."
+
+"Sei vorsichtig auf den Stationen. Es gibt dort einige gefährliche Fälle. Außerdem bitte ich dich: Versuche, die Patienten nicht unnötig aufzuregen. Sie haben schon genug Sorgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Bitte, ich habe die Kontrolle über das Untergeschoss verloren! Ich habe keine Zeit zum Plaudern!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Was um alles in der Welt ist da unten passiert? Du hattest nur die Erlaubnis, Fragen zu stellen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Es ist ... kompliziert. Ein Patient, Uscgrim, arbeitete für den Bleiernen Schlüssel, allerdings ohne es zu wissen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ich hatte die Lage unter Kontrolle, bis ich den Spion des Bleiernen Schlüssels getötet habe, woraufhin er ein Fleischkonstrukt beseelte ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Du beendest deine Erklärung und Ethelmoer bricht sein Schweigen. "Ich habe ... Berichte ... gelesen von Menschen, die zu dem fähig sind, was du beschreibst. Es gibt nur sehr wenige dieser Berichte. Sie sind allesamt kurz und niemals verlässlich. Manche glauben sogar, sie alle würden ein- und dieselbe Person beschreiben." 
+
+"Sollte sich eine solche Person hier unter uns befinden und unseren Niedergang planen ... Ach, hätte ich doch wieder einen Körper, um in dieser Zeit der Not wirklich von Nutzen sein zu können. Ich fürchte mich vor der Zukunft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Azo wurde von einem Patienten beeinflusst, doch dieser Patient war dabei nicht er selbst ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Erneut muss ich bemerken, wie neidisch ich auf deine Gaben bin. Sie sind gewiss äußerst nützlich, wenn man seine Identität bestätigen möchte."
+
+"Du stehst ebenfalls im Zwist mit dem Bleiernen Schlüssel, nehme ich an?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Sie haben etwas, was ich brauche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Sie führen etwas im Schilde, und ich will herausfinden was."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Mir gefällt nicht, wofür sie stehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Das würde ich so nicht sagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ich hoffe, du suchst nicht nach Wissen. Sie teilen es nicht sonderlich gerne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Sie führen IMMER etwas im Schilde. Dessen kannst du dir gewiss sein. Wenn du in ihren Plänen eine Rolle spielst, so hast du mein vollstes Mitgefühl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Wenn du herausfinden konntest, WOFÜR genau sie TATSÄCHLICH stehen, würde ich das nur allzu gerne hören. Mir scheinen sie nichts weiter zu sein als eine Gruppe von Feiglingen, die sich gegen die Flut stemmen, weil sie ihnen Angst macht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Nun, mir ist es recht gleichgültig, so lange du mir nur sagst, WER in meinen Mauern Unheil plant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Hast du einen Hinweis, wer diese Person sein könnte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ich nehme an, dass es ein Patient ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Das weiß ich erst, wenn ich ihr begegnet bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Es wäre unklug, irgendjemanden auszuschließen. Jeder ist verdächtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Also gut. In diesem Fall würde ich empfehlen, dass du zunächst mit unseren Beseelern sprichst. Sie haben regelmäßig mit Patienten wie auch mit Kollegen zu tun. Du findest sie hier oben oder in ihren Büros unten."
+
+"Du wirst mir alles Verdächtige sofort melden. Das ist meine einzige Bedingung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Seine Stimme nimmt einen bedrohlichen Ton an, der überall um dich herum schwingt. "Ich vertraue darauf, dass du bei zukünftigen Ermittlungen vorsichtiger vorgehen wirst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ich bin dankbar, dass du die Bedrohung beseitigen konntest, ehe unschuldige Leben gefordert wurden. Es hat nicht viel zu einem weiteren Skandal gefehlt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Zumindest konntest du den Schaden lindern, den der Bleierne Schlüssel anrichten konnte. Sie hätten jeden hier töten können, wenn du sie nicht daran gehindert hättest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Diese Episode heute reicht als Prüfung schon mehr als aus. Die Kunde wird früher oder später durchsickern - ein weiterer Rückschlag für uns, in einer Zeit, in der unsere Arbeit wichtiger ist denn je."
+
+"Ich vertraue darauf, dass deine Geschäfte hier damit beendet sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Weiterzuleben als Teil von etwas, was ich mit aufgebaut habe, erschien mir ein besseres Vermächtnis als das, welches die Natur im Sinn hatte."
+
+"Die Übertragung selbst war recht simpel, was unsere Techniken angeht. Dafür bin ich dankbar. Das Spielen mit Seelen ist sehr viel einfacher zu akzeptieren, wenn es nicht die eigene ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Aber ich vermisse es, mich aktiv an den wissenschaftlichen Bemühungen hier zu beteiligen. Hin und wieder hat einer unserer Beseeler Erbarmen und zieht mich bei einem Problem zu Rate, aber sie sind von Natur aus eifersüchtig und scheuen daher meist die Zusammenarbeit."
+
+"Wenn du selbst darüber nachdenkst, kann ich dir sagen, dass es nicht für jene geeignet ist, die sich schnell zu langweilen beginnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Farnheim war die natürliche Wahl. Es war noch im Wachstum begriffen, aber es gab auch damals schon viel Geld hier. Diese Einrichtung verdankt ihr Überleben vor allem der Neugier der Wohlhabenden, wenn du mich fragst."
+
+"Zur Zeit unserer Gründung stand man der Beseelung sehr misstrauisch gegenüber, genau wie heute. So viele Fortschritte gingen verloren, weil einige wenige sich fahrlässige Fehltritte geleistet haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Doch mit der Zeit geriet das in Vergessenheit, wie es immer ist. Seitdem stehen wir an der Spitze der neuen Beseelungsbewegung. Wir haben unzähligen talentierten Forschern eine Heimat gegeben und die Grenzen unseres Wissens ausgelotet und erweitert, auf eine, nie für möglich gehaltene Weise."
+
+"Einige der ersten sicheren Seelenübertragungen wurden hier durchgeführt, und wir waren Pioniere der Seelenreinigung, der Ahnenanalyse, der Seelenkonservierung ... die Liste ist lang, wie ich mit Stolz sagen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Heute ist es ... nun, ich kann nicht sagen, dass es noch immer so ist. Es gab Bemühungen, uns zum Schließen zu zwingen. Sie gehen von den nervöseren Bewohnern des Dyrwalds aus, die zwar leidenschaftlich sind, aber nicht sehr weitsichtig. Die Leute sehen dieses ... dieses Vermächtnis und sie sehen, dass es etwas ist, was sie nicht verstehen. Es ist also nur natürlich, dass sie misstrauisch gegenüber allen sind, die das im Gegensatz zu ihnen tun. Für sie sieht es aus, als würden wir etwas verbergen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Just in diesem Moment befindet sich einer unser Vertreter im Palast und verteidigt die gesamte Wissenschaft der Beseelung in einer Anhörung vor dem Duc, so absurd das auch klingen mag. Wenn die Anhörung nicht gut verläuft, könnte sie das Ende der Beseelung im Dyrwald bedeuten." 
+
+"Ich fürchte, Aevar könnte sich durch all diese Unruhen beeinflussen lassen, auch wenn es noch so irrational ist. Wir werden sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Bank Node 74</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Nicht katalogisiert?" Hiravias blinzelt ungläubig. "Das ist der beste Euphemismus, den ich für 'gestohlen' gehört habe, seit ich meinen fünften Dieb getötet habe. Er beharrte darauf, das Artefakt, das er gestohlen hatte, sei 'nicht in Verwendung', weshalb er es an sich nehmen dürfe."
+
+Sein Gesicht hellt auf und er lächelt, als er ergänzt " ... da habe ich das erste Mal einen Mann mit Efeuranken erwürgt. Vor seinem Hund. Den Hund habe ich natürlich gehen lassen - hältst du mich denn für ein Monster? Beantworte das lieber nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Was ist mit Azo? Welche Rolle haben seine Experimente in dieser Katastrophe gespielt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Azo hat nur versucht, den Patienten zu helfen. Der Bleierne Schlüssel hat ihn ausgenutzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Der Bleierne Schlüssel hätte auch ohne Azo einen Weg gefunden, sich in die Belange des Sanatoriums einzumischen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Wäre ich nicht gewesen, hätten Azos Experimente letztlich zu einem weiteren Skandal geführt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Ich hätte ihn nie isolieren dürfen. Ich hätte wissen müssen, dass er zu einer Täuschung greift."
+
+"Am klügsten wäre es, ihm seine Experimente zu gestatten - eng überwacht, natürlich. Einem Verstand wie dem seinen muss man die Freiheit geben, zu erschaffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Deine Halbantwort lässt auf Befangenheit schließen. Aber sie lässt auch vermuten, dass ich keine bessere Antwort von dir erwarten kann."
+
+"Caedman wird hier bleiben, aber er wird überwacht. Und unter keinen Umständen wird er Zugang zu irgendwelcher Ausrüstung haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Zum denkbar schlechtesten Zeitpunkt. Sprich nicht weiter. Caedman Azo ist in dieser Einrichtung nicht länger willkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Weiß hier irgendjemand etwas über Erweckungen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Eine Beseelerin im unteren Stockwerk ist den ganzen weiten Weg von Revua gekommen, um sie zu studieren. Geht über die Treppe hinunter und sucht nach Bellasege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ich habe Unterlagen gefunden, aus denen hervorgeht, dass Azo fragwürdige Experimente ausführt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Du hast hier genug getan. Du musst hier verschwinden, sofort."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

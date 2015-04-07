@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_2\cp_qst_sanitarium</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der wartende Mann</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sprich mit dem Oberwärter des Sanatoriums von Farnheim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Befrage die Beseeler zu möglichen verdächtigen Aktivitäten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Sprich mit Ethelmoer über Azo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Untersuche die Patientenstation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Befrage Patienten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Befrage Gram auf der Nordstation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Sprich mit dem Patienten am Ende des Ganges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Überwältige Uscgrim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Befrage Gram auf der Nordstation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Suche nach dem Agenten des Bleiernen Schlüssels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Finde den "Ort des Elends und Wahnsinns".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Der Akolyth des Bleiernen Schlüssels hat mir die Vision eines Agenten an einem "Ort des Elends und Wahnsinns" gezeigt. Ich muss diesen Agenten finden und seinen oder ihren Plan ergründen. Vielleicht erhalte ich so Hinweise, wie ich den Mann finden kann, nach dem ich suche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich sollte mit dem Oberwärter des Sanatoriums sprechen, Ethelmoer, um meine Suche nach dem Bleiernen Schlüssel dort abzustimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Oberwärter Ethelmoer hat mir gestattet, mit den Beseelern im Sanatorium zu besprechen, um zu sehen, ob sie etwas Ungewöhnliches bemerkt haben, was auf Aktivitäten des Bleiernen Schlüssels hinweisen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Caedman Azo war nicht in seinem Büro. Offensichtlich führt er geheime Experimente durch. Ich sollte mit dem Oberwärter darüber sprechen. Es bleibt abzuwarten, ob eine Verbindung zu den Aktivitäten des Bleiernen Schlüssels besteht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe vom Oberwärter die Erlaubnis bekommen, die Patientenstation zu betreten. Der Beseeler, der für die Patienten verantwortlich ist, Caedman Azo, hat nicht genehmigte Experimente durchgeführt. Sein verdächtiges Verhalten ist meine beste Spur zum Agenten des Bleiernen Schlüssels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Azo behauptet, dass er in letzter Zeit kaum Gelegenheit gehabt habe, Patienten zu beobachten. Er schlug vor, dass die "weniger stark eingeschränkten" Patienten im vorderen Bereich der Station vielleicht etwas Ungewöhnliches bemerkt haben könnten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Freyol erwähnte einen Mann namens Gram auf der Nordstation, an dem Caedman Azo häufig Experimente durchführt ... und zwar nicht mit Grams Einverständnis, wie es scheint. Vielleicht kann Gram die Frage beantworten, ob Azo mit dem Bleiernen Schlüssel zusammenarbeitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ein Blick in die Seele eines halb wahnsinnigen Patienten namens Gram hat mich auf die Spur eines Jungen tief auf der Nordstation gebracht, der sich seltsam verhält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich habe herausgefunden, dass der Mann, den ich suche, die Kontrolle über einen Patienten namens Uscgrim übernommen hat. Uscgrim muss überwältigt werden, damit ich von dem Mann erfahren kann, wie ich meine Erweckung rückgängig machen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Azos eigene Unterlagen haben gezeigt, dass er manchmal Patienten dazu gezwungen hat, an Experimenten teilzunehmen, obwohl sie nicht wollten. Ein Patient aus der Nordstation, Gram, war besonders häufig Versuchsperson bei diesen Experimenten. Vielleicht kann Gram die Frage beantworten, ob Azo mit dem Bleiernen Schlüssel zusammenarbeitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Nachdem ich das Sanatorium gegen mich aufgebracht habe, muss ich den Agenten des Bleiernen Schlüssels allein finden. Er - oder sie - müsste sich noch immer im Sanatorium befinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Der Akolyth des Bleiernen Schlüssels hat mir eine reiche Gegend gezeigt, in der es aber auch Elend und Wahnsinn gibt. Jemand wartete dort, ein "Gefanger aus freiem Willen".
+
+Wenn ich diese Person finden will, muss ich diese Gegend finden. Vielleicht wissen die Wächter, wo das ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Moedred hat erwähnt, dass die Patienten des Sanatoriums aufgeregter seien als gewöhnlich - und dass Caedman Azo für ihre Pflege verantwortlich sei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Cafden glaubt, dass Caedman Azo Experimente durchführt, obwohl es ihm verboten worden ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Audmer sagte, wenn etwas Seltsames im Sanatorium vor sich gehen würde, dann gewiss im unteren Stockwerk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Nans sagte, sie sei zu beschäftigt mit ihrer eigenen Forschung, um darauf zu achten, was im Sanatorium vor sich geht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich habe Azo getötet, aber vielleicht finde ich in seinen Forschungsnotizen etwas Nützliches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Als ich Azo zur Rede gestellt habe, hat er zugegeben, dass er Gram auf unethische Weise behandelt habe. Er bestand jedoch darauf, dass ich mit Gram spreche, um selbst zu sehen, wie sehr sich sein Zustand verbessert habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Freyol hat erwähnt, dass Caedman Azo der Einzige sei, der Zugang zur Nordstation habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Freyol hat erwähnt, dass Caedman Azo der Einzige sei, der Zugang zur Nordstation habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Bellasege behauptet, sie wäre nicht die Richtige, um sie nach dem Verhalten anderer zu fragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Ich habe von Azo den Schlüssel zur Nordstation erhalten. Er hat ihn nur widerwillig herausgerückt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Ich habe von Azo den Schlüssel zur Nordstation erhalten. Er hat ihn nur widerwillig herausgerückt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>Ich habe Patientenakten gefunden, die darauf hindeuten, dass Caedman Azo an einem Patienten namens Gram gegen dessen Willen Experimente durchgeführt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe einen Agenten des Bleiernen Schlüssels im Sanatorium enttarnt. Er hat die Fähigkeit, die Kontrolle über Menschen mit schwachen Seelen zu erlangen. Auf diese Weise nutzte er einen der Patienten, um Caedman Azos Beseelungsforschungen zu beeinflussen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

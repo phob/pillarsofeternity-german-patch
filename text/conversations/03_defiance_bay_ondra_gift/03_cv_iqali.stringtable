@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_iqali</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die goldenen Augen der Bleichelfe sind wie ein Sonnenuntergang im Winter gefärbt. Sie berührt deine Wange mit kühler Hand. "Du siehst so aus, als siehst du weit gereist. Lass mich dir die Bedeutung von Behaglichkeit und Erholung zeigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Erzählen Sie mir von sich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wie viel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen] "Nein, danke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich bin aus den gefrorenen Landen am südlichen Ende der Welt nach Trutzbucht gekommen. Nur wenige aus meinem Volk reisen so weit nach Norden, aber niemand versteht sich so gut wie wir darauf, eine kalte Nacht zu erwärmen."
+Ihre Haut scheint in der verdunkelten Schänke zu leuchten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Wie ich gehört habe, ist unser neu gewonnener Frieden und diese Ruhe dir zu verdanken. Stimmt das? Für dich nur zweihundert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ihre dünnen Lippen kräuseln sich nach oben. "Nur fünfhundert Pand, dann kannst du das größte Geheimnis der südlichen Künste erleben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[200 KP zahlen] "Na schön."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[500 KP zahlen] "Na schön."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Ihre dünnen Lippen kräuseln sich nach oben. "Nur dreihundert Pand, dann kannst du das größte Geheimnis der südlichen Künste erleben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[300 KP zahlen] "Na schön."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Diese Hallen sind zwar schön, aber kalt. Sollen wir sie ein bisschen aufwärmen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich fürchte, nach dir werden alle Liebhaber kalt und langweilig auf mich wirken." Sie blickt kurz mit glänzenden, goldenen Augen zu dir hoch. "Und doch überlege ich schon, fortzugehen und meine Dienste weit entfernt von dem Staub und der Feuchtigkeit von Trutzbucht anzubieten." Sie seufzt. "Aber ich kenne wenige Dörfer im Dyrwald."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Oh, solche Freuden habe ich noch nie genossen. Du musst unbedingt zu mir zurückkehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Oh, solche Freuden habe ich noch nie genossen. Du musst unbedingt zu mir zurückkehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Oh, solche Freuden habe ich noch nie genossen. Du musst unbedingt zu mir zurückkehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Komm jederzeit zu mir zurück, wenn du in einer einsamen Nacht Gesellschaft suchst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ich habe zufälligerweise eine Festung in einiger Entfernung. Du bist dort jederzeit willkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Weggehen] "Vielleicht sehen wir uns bei meinem nächsten Besuch wieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Das werden wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Vielleicht später."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ein verlockendes Angebot. Vielleicht sehen wir uns dann dort."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

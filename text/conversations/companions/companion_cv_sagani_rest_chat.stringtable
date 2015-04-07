@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_sagani_rest_chat</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>67</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Fünf Jahre für mich, für Itumaak müssen das um die dreißig sein." Als der Fuchs seinen Namen hört, schaut er auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wie läuft die Suche?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Es ist eine lange Jagd gewesen." Sie legt sich ihren Bogen zurecht, den sie über der Schulter trägt. "Eine lange Zeit ohne meine Familie. Früher überquerte ich die Tundra von Naasitaq auf der Spur von Karibuherden. Ich wollte Kallu und unsere Kinder nicht verlassen, aber ich war begierig darauf, Länder zu besuchen, die meine Leute sonst kaum besuchen."
+
+"Aber fünf Jahre, ohne ihn zu finden ... " Sie kratzt an einer Schwiele an ihrem Mittelfinger. "Ist wie zwei Stunden Knutscherei. Ich bin bereit, es abzuschließen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Warum musst du Persoq denn finden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Seelenbergung ist eine alte Dorftradition. Wir nennen es Tarneq-Ilitsaak." Sie seufzt. "Einmal in jeder Generation suchen wie die Seele eines hoch angesehenen - und längst verstorbenen - Dorfältesten. Wir erzählen ihm, was sich im Dorf verändert hat, wie sich die Leute an ihn erinnern."
+
+"Die einzige andere Tarneq-Ilitsaak in meinem Leben fand statt, als ich noch ein Mädchen war, nicht lange nach Persoqs Tod. Wir labten uns eine Woche lang an Walfischspeck und fermentierter Milch, und dann ehrten wir die auserwählte Jägerin als Heldin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Dann ist sie gegangen und wir haben uns wieder unserer Pflicht gewidmet. Wir haben ihren Namen bei Festen weiterhin in den Himmel gesungen, aber ansonsten haben wir nicht von ihr gesprochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Aha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Sagani, ich bin mir sicher, dass sich dein Dorf noch an dich erinnert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Das ist nett von dir, aber ich bin nicht so zerbrechlich, dass ich meinen Namen in den Versammlungshallen gesungen hören muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Die Leute vergessen oftmals, was sie nicht vor sich haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Sie runzelt die Stirn. "Ich denke oft daran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich mache mir keine Sorgen darüber, von meinem Dorf vergessen zu werden. Aber ... manchmal frage ich mich, ob sich mein Mann und meine Kinder an mich erinnern, ob sie oft an mich denken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Das muss schwierig sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Sie seufzt. "Trotzdem, es macht keinen Sinn, sich damit aufzuhalten. Ich frage mich öfter, ob sich Persoq überhaupt an uns erinnern wird."
+
+Sie blickt dich von der Seite an. "Du ... behauptest, Seelen zu sehen. Was glaubst du wohl? Erinnerst du dich an deine vergangenen Leben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ja, in Fragmenten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Sie lehnst sich eine Haaresbreite näher zu dir hin. "Wirklich? Wie fühlt sich das an?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Das ist ... merkwürdig. Meistens fühlt es sich so an, als ob ich verrückt werden würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Sie lehnt sich zurück. "Ich beneide dich nicht. Ich sollte mich wohl glücklich schätzen, dass ich mich nur um das vergangene Leben einer anderen Person sorgen muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Unbehaglich. Ich würde das alles gerne so schnell wie möglich vergessen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Frustrierend. Ich wünschte nur, ich wüsste mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich habe viel über mich selbst gelernt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Der Farbstreifen über ihre Augen weitet sich. "Gute Dinge, hoffe ich. Vielleicht ist Persoq auch so sein. Würde es mir sehr erleichtern, ihm über das Dorf zu berichten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Manche Teile mag ich, andere nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Nein, nicht eindeutig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Dachte ich mir. Die meisten Leute zumindest nicht. Ich glaube, dass ich Persoq deshalb daran erinnern soll, was er in unserem Dorf zurückgelassen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Was würdest du ihm über dein Dorf erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Sie streift sich einen Zopf hinter ihre Schulter. "Massuk ist heute wahrscheinlich genau so, wie es schon vor hundert Jahren gewesen ist. Wir leben zwischen Tundra und gefrorenen Wäldern, und das Land gibt so viel, wie es nimmt. Unsere Unbill aber bringt uns näher zusammen,
+
+und durch unsere Ältesten werden wir wirklich geeint. Sie bewahren die Geschichten vergangener Generationen, und sie führen uns von Jahreszeit zu Jahreszeit - durch gute und magere Jahre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Itumaak streift gegen ihre Hüfte, worauf sie ihn am Kopf kratzt.
+
+"In jüngster Zeit hat es viele gute Jahre gegeben. Meine Tanten sagen, dass wir aufgrund der Jagdgebiete, bei deren Einrichtung Persoq beteiligt war, weniger Scharmützel mit Nachbardörfern hatten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"In schlechten Jahren verlassen wir uns auf den Handel mit den Kaufleuten, die an unseren Küsten vorbeikommen. Wir tauschen Walross-Stoßzähne und Robbenpelze für Getreide, das uns durch die harten Winter bringt. 
+
+Viele dieser Abkommen hat ebenfalls Persoq eingefädelt." Sie hält das Bärenfigürchen hoch. "Dieses Figürchen hat er von einem der Aumaua-Schiffe bekommen, die mit uns Handel trieben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Das klingt danach, als hätte Persoq viel für dein Volk getan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Sie stopft den Adra-Bär zurück in ihren Rucksack aus Karibuhaut. "Daran soll ich ihn ja erinnern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Massuk muss ein Dorf mit starkem Zusammenhalt sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Ihre Stimme wird leiser. "Als Familie." Sie stopft den Adra-Bär zurück in ihren Rucksack aus Karibuhaut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Klingt aber danach, als ob du auf deiner eigenen Jagd unterwegs wärst. Spürst du den Nervenkitzel der Verfolgung, oder bist bereit für das Ende dieser Jagd?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Es ist zu früh, um das sagen zu können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Sie nickt. "Also gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Sie steht auf, streckt sich und sieht sich um. "Wir haben die Dunkelheit auf unserer Seite. Sollen wir weiterziehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ich möchte mich gerne noch etwas länger unterhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Lasst uns gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Sie steht auf, streckt sich und sieht sich um. "Wir könnten genau so gut weiterziehen, so lange wir noch Tageslicht haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich genieße mein Abenteuer. Jeder Tag bringt einem etwas Neues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Sie lacht und schlägt sich aufs Knie. "Genau das, was ich von einem kernigen Naturburschen erwartet hätte. Eins ist sicher: Es ist wirklich erfrischend, mit jemandem zu reisen, der den Geruch einer frischen Spur zu schätzen weiß."</DefaultText>
+      <FemaleText>Sie lacht und schlägt sich aufs Knie. "Genau das, was ich von einem kernigen Naturmädel erwartet hätte. Eins ist sicher: Es ist wirklich erfrischend, mit jemandem zu reisen, der den Geruch einer frischen Spur zu schätzen weiß."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Das vor allem von jemandem zu hören, der nicht in einem Lager aufgewachsen ist, ist erfrischend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Sie lächelt. "In der Tat erfrischend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"So wie jetzt herumzurennen hält mich davon ab, was mir wichtig ist. Ich hatte gehofft, mich niederzulassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Vermutlich hat dich das in erste Linie in den Dyrwald geführt, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Sie nickt. "Ich vermute, du bist ein bisschen mehr Bequemlichkeit als das gewöhnt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Spielt das eine Rolle? Ich habe hierbei eh keine große Wahl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Ihre Stirn legt sich in Falten. "Ich weiß was du meinst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Wäre es nicht auch so zu vielen dieser Entwicklungen gekommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Es liegt in der Pflicht eines Ältesten, gemäß den Bedürfnissen und Wünschen des Dorfes zu führen." Sie stopft den Adra-Bär zurück in ihren Rucksack aus Karibuhaut. "Also, wer weiß das schon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Hat sich dein Dorf seit seiner Zeit sehr verändert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ich möchte nicht darüber reden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Dann werde ich nicht nachbohren. Es geht um Persoqs Vergangenheit - und an was von unserem Dorf er sich erinnert - jedenfalls sollte ich mich darauf konzentrieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Natürlich tun sie das! Das müssen sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ich möchte es gerne glauben. Und dennoch ... manchmal gehen ganze Tage vorbei, und mir wird klar, dass ich nicht an sie gedacht habe. Solche Tage sind zwar selten, aber sie kommen vor."
+
+Sie schaut weg und zupft am Riemen ihres Köchers. "Es beschämt mich, daran zu denken, aber noch mehr ängstigt es mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Zu ihnen zurückzukehren - darauf kommt es an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Sie nickt. "Praktisch und wahr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Was ist mit ihr geschehen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ich glaube nicht, dass sie jemals zurückgekehrt ist. Manchmal laufen die Dinge so." Sie verschränkt ihre Arme mit ernstem Gesichtsausdruck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Dann solltest du nach Hause gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ich kann nicht. Ohne Persoq zurückzugehen, wäre ... " Sie schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Was für ein Abenteuer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Sie grinst müde. "So hat es auf jeden Fall angefangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Das sieht anstrengend aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Trigger Conv Node 66</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Das macht mich stutzig darüber, was Persoq noch über unser Dorf weiß, oder ob ihm eine Runde am Rad wie bei den meisten von uns die Einzelheiten aus dem Verstand gerissen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

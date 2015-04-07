@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_gilded_vale\07_qst_vengence_from_grave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Rache aus dem Grab</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Konfrontiere Nonton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde den Mann mit dem roten Umhang</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Während ich die Wildnis des Talholzes erkundete, fand ich eine kleine Höhle, in der ein stattlicher Bär lebte. In dieser Höhle fand ich einen teilweise gefressenen Leichnam und einen Geist, der mir über eine Art Magie die letzten Moment im Leben eines Mannes vermittelte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Im Talholz fand ich einen seltsamen Jäger, der mir berichtete, sein Freund sei von einem großen Bären in der Gegend gefressen worden. Nachdem ich die Umgebung erkundet hatte, fand ich die Höhle mitsamt dem Bären und Perlys Überresten. Ich erlebte eine Vision von Perlys letzten Augenblicken, die mir eine weitaus schmutzigere Wahrheit offenbarten: Sein Freund Nonton lähmte ihn, als er versuchte, dem Bär zu entkommen. Welche Gründe Nonton dafür hatte, ist unklar. Vielleicht kann ich mehr Antworten bekommen, indem ich den Mann direkt konfrontiere. Nonton lebt im nahegelegenen Dorf Goldtal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>In den Tiefen der Talholz-Höhle stieß ich auf einen großen, am Leichnam eines Mannes fressenden Bären. Allem Anschein nach war sein Opfer selbst erst vor Kurzem in sein Versteck geraten. Als ich mich dem Körper näherte, hatte ich eine plötzliche Vision der letzten Augenblicke des Mannes, und erkannte ihn als einen Jäger aus Goldtal. In der Vision wurde er von einem Freund in die Höhle geführt. Als der Bär angriff, lähmte ihn sein Jagdfreund und floh, worauf er gefressen wurde. Das einzige erkennbare Merkmal des Täters war dessen roter Umhang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Nachdem ich Ingroeds Version der Geschichte gehört hatte, beschloss ich, ihr und Nonton das Verlassen Goldtals zu gestatten. Vielleicht können sie an einem weit von hier entfernten Ort ein neues Leben beginnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ihr brachte Ingroed und Nonton für ihren Anteil an Perlys Tod um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich erschlug den Jäger Nonton und fand daraufhin Beweise für seine Verbrechen gegen einen alten Freund in einer Höhle im Talholz. Ich erzählte Perlys Geist vom Tod seines Mörders. Vielleicht wird seine sorgenschwere Seele jetzt ins nächste Leben übergehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich erschlug Ingroed und Nonton und fand daraufhin Beweise für Nontons Verbrechen gegen einen alten Freund in einer Höhle im Talholz. Ich erzählte Perlys Geist, das sein Mörder seine gerechte Strafe erhalten hat. Vielleicht wird seine sorgenschwere Seele jetzt ins nächste Leben übergehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich brachte Nonton um, den Mann aus der Vision ... und Ingroed gleich mit. Was auch immer die Geschichte hinter Perlys Tod sein mag, sie stirbt mit ihnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

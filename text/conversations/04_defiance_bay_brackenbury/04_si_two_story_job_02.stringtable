@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_si_two_story_job_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine Brise kühler Luft streift dein Gesicht, als du aus dem Fenster blickst. Die mit Ranken bewachsene Wand unter dir endet auf einer gepflasterten Straße zwei Stockwerke weiter unten. Ein Sturz aus dieser Höhe könnte gefährlich sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Das Seil hinabklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Die Ranken hinabklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Ranken ächzen und stöhnen, aber du schaffst es bis nach unten, ehe sie unter deinem Gewicht zusammenbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du kletterst aus dem Fenster. Du packst das Seil und lässt dich die Wand hinab, bis du den sicheren Boden erreicht hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Einen Enterhaken sichern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du haust den Haken in das edle, dunkle Holz des Fensterbretts. Er scheint fest genug zu sitzen und bewegt sich nicht, als du daran rüttelst.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

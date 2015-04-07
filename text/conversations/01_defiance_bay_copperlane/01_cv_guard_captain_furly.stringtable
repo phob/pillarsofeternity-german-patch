@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_guard_captain_furly</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Willkommen in Trutzbucht. Aber benimm dich in unserer Stadt, verstanden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Was kannst du mir über Trutzbucht sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Es tut mir leid, ich habe keine Zeit. Aber es klingt, als würde dieser Irre von den Dutzenden, Rowan, wieder Unruhe stiften wollen." Er nickt mit dem Kopf Richtung Tor. 
+
+"Er sagt dir bestimmt gerne alles über die Stadt. Durchzogen von der Propaganda der Dutzenden, versteht sich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich suche nach dem Woedica-Tempel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Du wirkst nervös. Was ist denn los?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Er kratzt sich am Bart. "Ich weiß nicht, was du dort willst." Er zuckt mit den Achseln. "Wenn du deine Neugier nicht zügeln kannst, musst du nach Urfeuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Tausende davon, offen gesagt. Es kommen Flüchtlinge aus allen Himmelsrichtungen, weil sie irrtümlicherweise glauben, hier wären die Dinge besser. Das Vermächtnis hätte uns irgendwie ausgespart. Also kommen sie mit keinerlei Aussichten und kaum Geld in der Tasche ... und machen alles nur noch schlimmer."
+
+Er mustert dich von oben bis unten. "Nichts für ungut!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Er grunzt. "Und viel Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_sidly</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>44</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die junge Frau trägt eine einfache, doch gut geschnittene Uniform. Sie beobachtet das Kommen und Gehen um sie herum mit stiller Aufmerksamkeit.
+
+"Gibt es Neuigkeiten? Oder bist du nur hier, um die herzogliche Herrenhalle zu sehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Was ist die herzogliche Herrenhalle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Was passiert hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Es ist der Regierungssitz hier in Trutzbucht. Hier erklärte Duc Admeth vor etwa 150 Jahren die Freiheit von der aedyranischen Herrschaft." 
+
+Sie senkt ihre Stimme und grinst. "Es ist auch eine Brutstätte regionaler Politik. Vertrau mir, der Klatsch hier schlägt alles, was du in Schänken oder Freudenhäusern in der Stadt zu hören bekommst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich bin ein Page hier in der Herrenhalle. Ich richte Nachrichten aus und mache Besorgungen für den Duc und dessen Berater. Die Bezahlung ist nicht besonders gut, doch ich kann mir keine bessere Einführung in die Politik vorstellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Erzähl mir etwas über den amtierenden Duc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Sie lacht. "Wo soll ich anfangen? Wir haben Treffen, öffentliche Anhörungen und Zeremonien, und das sind nur die Dinge, die öffentlich passieren."
+
+Sie lehnt sich etwas vor. "Hier arbeiten der Duc und seine höchsten Berater, daher gibt es immer jemanden, der eine Gefälligkeit eintauschen möchte. Leider ist es mir nicht möglich, über diese Dinge zu reden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Aber wenn du die offizielle Version möchtest ..." Sie räuspert sich und gestikuliert im Gegenuhrzeigersinn durch die Herrenhalle. "Wir haben einen Schrein, der Magran gewidmet ist, offizielle Unterlagen und Räumlichkeiten für öffentliche Anhörungen und Ratsversammlungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Erzähl mir von Magrans Schrein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Findet im Moment eine Anhörung statt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich möchte dich etwas anderes fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ein Symbol dafür, wie Magran Trutzbucht beschützt. Seit der Unabhängigkeit steht sie für den revolutionären Geist des Dyrwalds, und ihre Beteiligung am Bau der Götterhammerbombe hat ihre Bedeutung für uns nur unterstrichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Was für Unterlagen werden hier gelagert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Hauptsächlich langweilige, offizielle Akten. Volkszählungen, Steuerunterlagen, Milizregister. Ich versuche, mich davon fernzuhalten. Als ich einmal neugierig war, wurde ich sofort dazu verpflichtet, die Hälfte der Akten neu einzusortieren."
+
+Sie gähnt. "Der schlimmste Tag meines Lebens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Oh ja. Duc Aevar trifft sich seit Wochen mit einigen der wichtigsten Anführer der Stadt. Sie überlegen, wie sie mit dem Vermächtnis umgehen sollen."
+
+"Aber die ganze Angelegenheit ist ein großes Geheimnis. Ich wollte mich in der Mittagspause einmal in die Galerie setzen, wurde aber sofort fortgeschickt." Sie zieht die Nase hoch. "Aber es dreht sich viel um die Beseelung, es hat also einen guten Grund, warum sie sich hinter geschlossenen Türen treffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Sie schaut um sich. "Das war einmal Eldrid Wenfeld. Doch vor Kurzem gab es einen 'Vorfall'. Selbst ich war schockiert. Ich habe schon gesehen, wie er sich mit Politikern angelegt hat, doch Debatten wie diese werden nie gewalttätig. Zumindest nicht in der Herrenhalle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Das wäre Aevar Wolfsgrinsen. Lasst euch vom Titel aber nicht täuschen. Unsere Ducs werden seit der Unabhängigkeit gewählt."
+
+"Manche finden Duc Aevar eher grob – er ist ein Adliger aus dem Grenzland. Ich persönlich finde, dass ein wilder Typ genau das ist, was Trutzbucht braucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Willkommen in der herzoglichen Herrenhalle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Natürlich. Ich bin immer auf dem Laufenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Das 'Vermächtnis'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Waidwens Vermächtnis. So nennen viele Leute den Ausbruch von Hohlgeburten. Die Theorie lautet, dass es sich um eine Strafe für das Einmischen in die Beseelung handelt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Was sind Hohlgeburten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Sie hebt eine Augenbraue. "Du kommst wirklich frisch aus der Karawane. Hohlgeburten sind Kinder, die ohne Seele geboren werden. Die meisten leben nicht sehr lange - die übrigen haben meist eine Art Behandlung von den Beseelern erhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Warum ist die Beseelung so umstritten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ich verstehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Sie lacht. "Wo soll ich anfangen? Traditionalisten glauben, sie sei ein Verbrechen an den Göttern. Natürlich ist es riskant, in Seelen herumzustochern, aber die fortschrittlicheren Elemente glauben, das sei unsere einzige Chance, wieder für gesunde Geburten zu sorgen."
+
+"Und es hilft nicht, dass die Beseelungsforschung oft alte engwithanische Relikte verwendet, die 'illegal' aus Ruinen in Eir Glanfath geplündert wurden ... " Sie zuckt plötzlich mit ihren Zeige- und Mittelfingern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Wie auch immer, das Vermächtnis ist das Thema, über das Politiker neuerdings ständig tuscheln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Suchst du nach Neuigkeiten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Erzähl mir von den Gerüchten aus der Herrenhalle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich habe gehört, dass ein paar Wachen von Marschall Wenfeld in Erbhügel verschwunden sind. Ich kenne keine Einzelheiten, aber er ist deswegen außer sich gewesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Zurzeit nichts Neues. Alle reden über die Flüchtlinge, die aus der Wildnis in die Stadt strömen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ein Attentäter hat Marschall Wenfeld hier in der Herrenhalle ermordet! Kaum zu glauben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Geh da bloß nicht raus! Auf den Straßen herrschen Unruhen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ah, die Politik des Dyrwalds. Sie ändert sich so schnell, dass man kaum mitkomment. Es ist besser, sich in den Tavernen umzuhören, als zu versuchen, unauffällig in den Gängen des Palasts herumzulungern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Multipliziere das mit zehn, dann wäre es genau wie in den Republiken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Unglaublich, dass der Mob hier nicht alles zerstört hat. Jetzt, wo Duc Aevar fort ist, steht uns jede Menge Arbeit bevor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Was hältst du von der Beseelung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ich? Ich glaube, die wahre Gefahr der Beseelung ist es, einen echten Gelehrten mit einem teuren Hochstapler zu verwechseln. Wir kriegen hier jeden Tag einen neuen Fall - irgendein armes Paar im Geschenk oder in Kupferweg, das sein letztes Kupferstück für eine Wunderheilung für sein ungeborenes Kind ausgegeben hat. Es funktioniert nie."
+
+Sie schüttelt den Kopf. "Es bricht einem das Herz, aber meistens können wir nichts für sie tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Sie kratzt sich am Hals. "Dort brennen auch die ersten der heiligen Feuer, aber Fyrga, die Ruhige Begeisterte, hat Mühe, sie am Brennen zu halten. Angeblich sucht sie nach einem Nachfolger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Sie kratzt sich am Hals. "Dort brennen auch die ersten der heiligen Feuer, aber Fyrga, die Ruhige Begeisterte, hat Mühe, sie am Brennen zu halten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Dort brennen auch die ersten der heiligen Feuer. Auch, wenn man nicht gläubig ist, ist es ein beeindruckender Anblick."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

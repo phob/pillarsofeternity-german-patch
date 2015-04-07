@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_defiance_bay_coppleane\01_qst_intimate_stranger</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Sein altes Ich</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Gib Purnisc den Ring von Kaenra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde heraus, was in Purniscs Haus in Kupferweg geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Finde Kaenra in Kupferweg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Stelle Nyrid zur Rede.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Töte Nyrid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Hole den Ring von Kaenra im Fuchs und Gans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Befreie Purnisc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>In einem Haus in Kupferweg ist etwas Ungewöhnliches geschehen. Ein Mann namens Purnisc verhält sich seltsam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Kaenra hat mich gebeten, Purnisc den Verlobungsring zurückzubringen, den er ihr geschenkt hatte. Sie sagte, dass Purnisc Haus neben dem Marktplatz in Kupferweg liege.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Das Haus neben dem Markt von Kupferweg ist zu einer Svef-Höhle geworden. Purnisc war zuhause, aber irgendetwas an dem Mann schien seltsam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Nach allem, was in Purniscs Haus geschehen ist und was ich dort erfahren habe, sollte ich mit Kaenra sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Ein Zauberer namens Nyrid hat sich als Purnisc ausgeben. Den echten Purnisc habe ich oben gefunden. Es ist Zeit, Nyrid zur Rede zu stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Nyrid und seine Schergen haben mich angegriffen, als ich ihnen gesagt habe, dass ich den echten Purnisc oben gefunden habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Ich habe Kaenra gesagt, dass ich ihren Ring nicht abliefern werde, aber ich bezweifle, dass sie einen anderen Kurier findet. Ich könnte ihn immer noch von hier holen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Nachdem Nyrid fort ist, ist die Gefangenschaft des echten Purnisc beendet. Er wartet oben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe den echten Purnisc blutend und gefesselt in einem Raum im oberen Stockwerk seines Hauses gefunden. Er hat mir gesagt, dass der Hochstapler ein Zauberer namens Nyrid sei, und mich gebeten, ihn zu töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Der Mann, der vorgab, Purnisc zu sein, griff mich an, sobald ich anfing, Fragen zu stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe den Mann getötet, der sich als Purnisc ausgegeben hat. Vielleicht ist der echte Purnisc hier noch irgendwo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe den echten Purnisc wissen lassen, dass er nun in Sicherheit ist. Er flehte mich an, seiner Verlobten Kaenra nichts von seiner Beteiligung am Svefhandel zu sagen - und versprach mir einen Nachlass auf seine Waren, wenn ich sie überzeuge, zu ihm zurückzukehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe den Mann getötet, der sich als Purnisc ausgegeben hat. Das sollte ich dem wahren Purnisc sagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe Purnisc wie aufgetragen den Ring gegeben, aber er schien ihn nicht zu erkennen. Ich könnte wieder zurück zu Kaenra gehen, aber irgendetwas an der ganzen Geschichte stimmt nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich habe vorhin mit Kaenra im Fuchs und Gans gesprochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Nyrid hat mir einen Nachlass auf seine Waren versprochen, wenn ich Purnisc für ihn töte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Purnisc hat mich gebeten, seine Verlobte Kaenra in Kupferweg zu suchen. Er will sie zurückhaben, und er will nicht, dass sie von seinem Handel mit Svef erfährt. Im Gegenzug für meine Hilfe hat er mir einen Nachlass versprochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Ich habe im Fuchs und Gans Purniscs Verlobte Kaenra getroffen. Sie schien nicht zu wissen, dass der echte Purnisc ein Gefangener in seinem eigenen Haus ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Als ich in Purniscs Haus war, habe ich erfahren, dass Purnisc mit Svef handelt. Ich habe Kaenra davon berichtet und sie war entsetzt, dass er sie angelogen hat. Sie hat mir dennoch für alles gedankt, was ich für sie getan habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe die Wahrheit über Purniscs angebliche Gewalt gegen Kaenra herausgefunden. Kaenra war erleichtert zu hören, dass der Mann, der sie angegriffen hat, nicht der echte Purnisc war. Sie hat mir überschwänglich für meine Hilfe gedankt und schien es kaum erwarten zu können, wieder in die Arme ihres geliebten Verlobten zurückzukehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe Kaenra gesagt, dass ich Purnisc getötet habe. Sie hat die Nachricht nicht gut aufgenommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Quest gescheitert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich habe die Wahrheit über Purniscs angebliche Gewalt gegen Kaenra herausgefunden. Kaenra war erleichtert zu hören, dass der Mann, der sie angegriffen hat, nicht der echte Purnisc war. Sie hat mir überschwänglich für meine Hilfe gedankt, war aber wenig begeistert darüber, dass ich als Bezahlung für meine Arbeit den Verlobungsring behalten habe, den Purnisc ihr geschenkt hatte. Er kann aber gewiss das Geld für einen neuen auftreiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Ich bin zu Kaenra zurückgekehrt und habe ihr gesagt, dass ich Purnisc wie gewünscht den Ring gegeben hätte. Sie hat mir für meine Güte gedankt und schien bereit, die Sache hinter sich zu lassen und ihr Leben weiterzuleben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Als ich in Purniscs Haus war, habe ich erfahren, dass Purnisc mit Svef handelt. Ich habe Kaenra davon berichtet und sie war entsetzt, dass er sie angelogen hat. Allerdings konnte ich sie überzeugen, Purnisc noch eine Chance zu geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>Ich habe Kaenra gesagt, dass Nyrid ihren Verlobten Purnisc getötet habe. Sie hat die Nachricht nicht gut aufgenommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30009</ID>
+      <DefaultText>Nach all diesen Ereignissen wollte Purnisc, dass ich seine Verlobte Kaenra für ihn finde und sie überzeuge, zu ihm zurückzukehren. Ich habe abgelehnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30010</ID>
+      <DefaultText>Ich bin einen Handel mit Nyrid eingegangen und habe Purnisc im Austausch gegen einen Nachlass auf Svef getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

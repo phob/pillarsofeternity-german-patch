@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_defiance_bay_heritage_hill\05_cv_tayr_nowneth_machine_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Eine zackige Adra-Säule erhebt sich vor dir, umgeben von einer Steinmauer und durchzogen von Kupferadern. Das Panel ist mit Runen bedeckt, die du nun verstehst.
+
+Du erkennst Wörter für "Ende" und "Halten". Im Moment steht die Scheibe auf "Halten". Du erkennst an einer Inschrift auch, dass die Art und Weise, wie man die Scheibe dreht, dazu dient, das Gerät zu bremsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Die Maschine untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>["Ende" wählen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Die Leistung der Maschine maximieren, um sie hoffentlich zu überlasten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Als das Wort deine Lippen verlässt, senkt sich die Scheibe unter deiner Hand in das Adra. Über dir ertönt ein Geräusch wie ein Donnerschlag.
+
+Das Leuchten in der Maschine erlischt und sie kommt zur Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du murmelst einen Befehl und drehst die Scheibe kräftig. Die Türme drehen sich schneller und schneller und wackeln auf ihren Achsen. Das Licht, das die Maschine erfüllt, wird so hell, dass du die Augen abwenden musst.
+
+Du blickst weg und bedeckst deine Ohren, doch der Donnerschlag, der folgt, lässt den Boden unter dir erzittern. Als du zurückblickst, liegt die Maschine in Trümmern, für immer zerstört.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Ein Sonnenstrahl aus Kupferdrähten umgibt eine Scheibe, die etwa doppelt so groß ist wie ein Hühnerei. Die Drähte kreuzen sich und vereinen sich und enden in perlenbesetzten Knoten. Jeder Draht hat einen Ausgangspunkt irgendwo am Rand der Scheibe.
+
+Um die Scheibe herum befinden sich Runen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Den Essenzfluss nach Aldhelms Anweisungen auf dich selbst umleiten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Eine zackige Adra-Säule erhebt sich vor dir, umgeben von einer Steinmauer und durchzogen von Kupferadern. Das Panel ist mit Runen bedeckt, die du nun verstehst.
+
+Du erkennst Wörter für "Ende" und "Halten". Im Moment steht die Scheibe auf "Halten". Du erkennst an einer Inschrift auch, dass die Art und Weise, wie man die Scheibe dreht, dazu dient, das Gerät zu bremsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Die Scheibe drehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Es geschieht nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Du blickst auf die Kupferdrähte und erinnerst dich daran, was Aldhelm dir gezeigt hat. Du drehst die Scheibe zu den am weitesten entfernten Knoten und befiehlst der Maschine, die Essenz freizugeben.
+
+Deine Knochen summen und deine Zähne klappern, als du von einer seltsamen Macht erfüllt wirst. Dein Blut fühlt sich an, als würde es kochen. Du drückst deine Hände gegen deinen Kopf, um den wachsenden Druck zu lindern. Gerade, als du losschreien willst, lässt der Schmerz nach und du fühlst nur noch Macht.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

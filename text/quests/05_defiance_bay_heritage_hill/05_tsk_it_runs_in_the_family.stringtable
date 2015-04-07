@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\05_defiance_bay_heritage_hill\05_tsk_it_runs_in_the_family</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Sicherer Hafen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Suche im Valtas-Herrenhaus in Erbhügel nach Saeda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Geh zum Mausoleum der Familie Valtas in Erbhügel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Rette Saeda aus dem Mausoleum der Familie Valtas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich bin in einer Villa in Erbhügel auf eine bizarre Szene gestoßen. Drei Darguls standen vor einer Tür und riefen nach jemandem namens "Saeda".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich bin einer Villa auf eine Gruppe von Darguls gestoßen, die gegen eine verschlossene Tür hämmerten und jemanden namens "Saeda" riefen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Die Hinweise, die ich in der Villa der Familie Valtas gefunden habe, weisen darauf hin, dass Saeda aus dem Haus geflohen ist und sich im Mausoleum der Familie versteckt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe ein Mädchen gefunden, das sich in einem Grab versteckt hielt. Es muss Saeda sein, das Mädchen, das vor den Darguls in der Villa geflohen ist.
+
+Was wohl in dem Haus mit ihr geschehen ist?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe einen Brief gefunden, der die Gärtner anwies, das Mausoleum der Familie zu reinigen. Der Schlüssel wird über dem Herd in der Küche aufbewahrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Saedas Vater hat ein Testament hinterlassen, in dem er verfügt, dass er und seine Familie im Mausoleum der Familie Valtas begraben werden sollen, "rechterhand des Ducs Hadret".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe den Haken gefunden, an dem der Schlüssel hängen sollte, doch er war nicht dort. Vermutlich hat ihn schon jemand an sich genommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Es gibt eine kleine Öffnung nach draußen. Jemand muss einen Teil der Wand herausgeschlagen haben. Wohin dieser Jemand dann gegangen ist, ist eine andere Frage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Saeda ist tot. Die Darguls in ihrem Haus sind nun ihr geringstes Problem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Saeda zu Aldhelm Graeg im Teir Nowneth geschickt. Es ist ein tragisches Ende für sie, aber ich musste ihn nähren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe Saeda aus dem Bezirk geschickt. Sie konnte nicht mehr länger in dem Grab bleiben, und der Weg zurück war sicher.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

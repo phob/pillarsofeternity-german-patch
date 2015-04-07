@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_2\cp_qst_heritage_hill</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Endloses Erbe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Betritt den Turm in Erbhügel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Steige auf den Turm in Erbhügel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde heraus, wie die engwithanische Maschine in Erbhügel funktioniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Finde Icantha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kümmere dich um die engwithanische Familie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Finde den Turm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Der Akolyth hat mir eine Vision eines antiken Turmes in einem verlassenen Bezirk von Trutzbucht gezeigt. Ein seltsamer Mann machte sich in dem Turm an einer Art Maschine zu schaffen. Ich habe auch eine Frau mit einer Narbe über dem Herzen gesehen. Ich weiß nicht, wer sie ist, aber ich nehme an, dass sie der Schlüssel zu den Geschehnissen dort ist.
+
+Der Bleierne Schlüssel war aus irgendeinem Grund an diesem Turm interessiert. Ich muss herausfinden, wozu er dient, wenn ich ihre Pläne ergründen will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Der Turm, den ich sah, ragt über die Mauern um Erbhügel empor. Ich hoffe, dass ich dort das nächste Teil des Rätsels finde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Die Vision des Akolythen hat mich nicht auf das vorbereitet, was ich hier gefunden habe. Der ganze Distrikt wimmelt von wiederbelebten Leichen. Es wird nicht leicht, mich zur Spitze des Turms vorzukämpfen ... und ich weiß nicht, was mich dort erwartet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe auf dem Turm eine uralte Maschine gefunden. Und genau wie der Akolyth es mir gezeigt hat, ist hier oben noch jemand.
+
+Vielleicht kann er mir sagen, was hier geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich muss mit Icantha in Erbhügel sprechen. Sie weiß anscheinend etwas Wichtiges über den Turm. Es könnte mir helfen, die Ziele des Bleiernen Schlüssels zu verstehen. 
+
+Das würde erklären, warum der Akolyth so besorgt um diese Frau war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Nun, da ich die engwithanische Sprache verstehe, kann ich zu der Maschine im Teir Nowneth zurückkehren und etwas gegen den Fluch tun, unter dessen Bann Erbhügel steht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Der Akolyth des Bleiernen Schlüssels zeigte mir einen uralten Turm in der Nähe eines Friedhofs, der sich in einer Gegend mit heruntergewirtschafteten Anwesen befindet.
+
+Das Verfolgen dieser Spur macht es erforderlich, dass ich den Turm finde. Vielleicht wäre es ein guter Anfang, mich durchzufragen. Gut möglich, dass du patrouillierenden Justiziare die Stadt wie ihre Westentasche kennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Die Wache am Tor nach Erbhügel sagte, ich bräuchte eine Sondergenehmigung von Wyla in der Burg in Urfeuer, um den Bezirk zu betreten.
+
+Allerdings könnte ein großzügiger Einsatz von Münzen oder Gewalt die Wache auch überzeugen, mich einzulassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe den Ghul getötet, den ich auf dem Turm in der Vision des Akolythen gesehen habe. Ich glaube, er wollte herausfinden, wie die engwithanische Maschine bedient wird. Offensichtlich war ihm das noch nicht gelungen, aber vielleicht hat er etwas, was mir helfen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Aldhelm, der verfaulende Beseeler auf dem Turm, hat mir versprochen, mir einen Weg zu zeigen, wie ich stärker werden kann, wenn ich von Icantha die Worte beschaffe, die man braucht, um den Turm zu steuern ... und etwas, was ihn stärkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Aldhelms Verfall ist rasant fortgeschritten. Er sah aus, als würde er mich gleich anfallen, als ich mit ihm sprechen wollte. Wenn ich seine Hilfe will, muss ich ihm ein Opfer schicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe die blasse Frau aus der Vision des Akolythen gefunden, aber sie ist nicht bereit, mir zu helfen. Vielleicht hat der Mann aus der Vision einen Rat, wie ich mit ihr umgehen muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe erfahren, dass die engwithanischen Maschinen im Dyrwald verwendet werden können, um Seelen zu bewegen. Außerdem habe ich die engwithanische Sprache gelernt - ich kann die Maschinen nun also bedienen. Ich habe die Maschine auf dem Teir Nowneth ausgeschaltet. Die Seelen in Erbhügel können nun in den Kreislauf entlassen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe erfahren, dass die engwithanischen Maschinen im Dyrwald verwendet werden können, um Seelen zu bewegen. Außerdem habe ich die engwithanische Sprache gelernt - ich kann die Maschinen nun also bedienen. Um zu verhindern, dass die Maschine je wieder verwendet werden kann, habe ich die gefangenen Seelen von Erbhügel geopfert, um die Maschine zu zerstören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe erfahren, dass die engwithanischen Maschinen im Dyrwald verwendet werden können, um Seelen zu bewegen. Außerdem habe ich die engwithanische Sprache gelernt - ich kann die Maschinen nun also bedienen. Ich habe diese Maschine genutzt, um die Kraft der Seelen zu absorbieren, die in Erbhügel gefangen waren.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

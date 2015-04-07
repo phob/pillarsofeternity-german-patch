@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\stronghold</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>88</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>{0} läuft ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>{0} hinzugefügt! Die Quest läuft in {1} ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>{0} Bauten abgeschlossen:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Herstellungsmaterialien wurden gesammelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Gefolgsmann-Zahltag!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>{0} bricht auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>{0} erhielt {1} als Bezahlung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>{0} erhielt {1} als Bezahlung und kehrte in den aktiven Dienst zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>{0} erhielt nicht {1} als Bezahlung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>{0} erhielt nicht {1} als Bezahlung und steht nicht mehr im aktiven Dienst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>{0} abgeschlossen! {1} kehrt mit {2} zur Festung zurück. Die Beute wartet in der Schatztruhe deiner Herrenhalle auf dich!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>{0} griff die Festung an!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>{0} erhielt nicht {1} als Bezahlung und verließ die Festung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>{0} griff die Festung an, aber dabei entstanden keine Schäden!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>{0} wurde vernichtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>{0} wurde getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Dir entstehen Schulden in Höhe von {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Steuern eingetrieben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>{0} ging an Banditen verloren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>{0} wurde verdient.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Deine Schulden wurden zurückgezahlt!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Deine Schulde wurden auf {0} reduziert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Alle Einnahmen gingen an Banditen verloren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Gefängnisausbruch! {0} ist aus dem Kerker entkommen!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Entführung! {0} wurde aus der Festung entführt!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>{0} wurde von den Entführern umgebracht!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>{0} wurde von {1} befreit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>{0} stattet der Festung einen Besuch ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Deine Sicherheitsleute berichten, dass {0} die Festung in {1} angreifen wird!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>{0} ist angekommen und sucht nach Arbeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Eine Gruppe ist eingetroffen und möchte die Freiheit von {0} erkaufen. Im Austausch für den Gefangenen bieten sie {1} oder {2} an.</DefaultText>
+      <FemaleText>Eine Gruppe ist eingetroffen und möchte die Freiheit von {0} erkaufen. Im Austausch für die Gefangene bieten sie {1} oder {2} an.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>{0} beendet die Eskorte von {1} und kehrt zur Festung zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>{0} lässt {1} zurück. Sie kehren zur Festung zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Ein Bittsteller aus {0} ist eingetroffen und ersucht {1} oder eine Eskorte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die Erinnerung an deinen Umgang mit {0} verblasst und deine Reputation hat sich erholt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>{0} ist eingetroffen und bietet dir {1} für {2} zum Kauf an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Du ignorierst der Bittsteller, worauf er die Festung verlässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du ignorierst die Bittstellerin, worauf sie die Festung verlässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>{0} verlässt die Festung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>{0} war unterwegs nach Caed Nua, wurde aber auf der Straße von Briganten belästigt und musste fliehen. Überlege dir, deine Sicherheitsmaßnahmen zum Schutz von Reisenden zu verstärken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>{0} Erfahrung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Geld</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Gegenstände</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Reputation bei {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>{0} und {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Nichts Neues zu berichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>{0}, ein grausamer Herrscher aus dem Norden, ist in der Festung eingetroffen.</DefaultText>
+      <FemaleText>{0}, eine grausame Herrscherin aus dem Norden, ist in der Festung eingetroffen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>{0}, ein hiesiger Dorftrottel, ist in die Festung spaziert und beabsichtigt, eine Weile zu bleiben.</DefaultText>
+      <FemaleText>{0}, eine hiesige Dorftrottelin, ist in die Festung spaziert und beabsichtigt, eine Weile zu bleiben.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Ein gesuchter Verbrecher namens {0} ist in der Festung eingetroffen.</DefaultText>
+      <FemaleText>Eine gesuchte Verbrecherin namens {0} ist in der Festung eingetroffen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>{0}, ein alter Held aus dem Krieg des Heiligen, ist in der Festung eingetroffen.</DefaultText>
+      <FemaleText>{0}, eine alte Heldin aus dem Krieg des Heiligen, ist in der Festung eingetroffen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Ein wohlhabender Adliger namens {0} ist in der Festung eingetroffen.</DefaultText>
+      <FemaleText>Eine wohlhabende Adlige namens {0} ist in der Festung eingetroffen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>{0}, ein aedyranischer Würdenträger, ist in der Festung eingetroffen.</DefaultText>
+      <FemaleText>{0}, eine aedyranische Würdenträgerin, ist in der Festung eingetroffen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>{0}, ein Händler für exotische Waren, ist in der Festung eingetroffen und bietet seltene Gegenstände feil.</DefaultText>
+      <FemaleText>{0}, eine Händlerin für exotische Waren, ist in der Festung eingetroffen und bietet seltene Gegenstände feil.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>{0} sind eingetroffen und verlangen für ihre Mühen Geld oder sicheres Geleit durch die Wildnis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Ein entfernter Verwandter von {1} ist in der Festung eingetroffen und bittet darum, sie für Geld auslösen zu dürfen.</DefaultText>
+      <FemaleText>Eine entfernte Verwandte von {1} ist in der Festung eingetroffen und bittet darum, sie für Geld auslösen zu dürfen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>{0}, ein Sklavenhalter aus Readceras, ist eingetroffen und möchte einen Gefangenen kaufen.</DefaultText>
+      <FemaleText>{0}, eine Sklavenhalterin aus Readceras, ist eingetroffen und möchte einen Gefangenen kaufen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>{0}, ein Beseeler, ist eingetroffen und bittet um einen Gefangenen, um an ihm zu experimentieren.</DefaultText>
+      <FemaleText>{0}, eine Beseelerin, ist eingetroffen und bittet um einen Gefangenen, um an ihm zu experimentieren.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Runde {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>{3} {6}, {4}: Stunde {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Endet in {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Geht in {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Noch {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Beinahe wurde er auf der Straße von Räubern überfallen, doch deine Patrouillen konnten einschreiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Beinahe wurde sie auf der Straße von Räubern überfallen, doch deine Patrouillen konnten einschreiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Insgesamt bezahlter Lohn: {0}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Ein Angriff stand kurz bevor, doch deine Patrouillen haben den Feind abgehalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Feindliche Truppen nähern sich deiner Festung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Eine Verbesserung wurde fertiggestellt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Ein Besucher ist eingetroffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Feindliche Truppen haben deine Festung angegriffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Gefolgsleute wurden bezahlt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Steuern wurden eingetrieben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>In deiner Festung steht ein neues Abenteuer zur Verfügung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Ein Abenteuer wurde abgeschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Ein Gefangener ist entkommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Ein Besucher wurde entführt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Ich bin in Kupferweg dem bezahlten Schläger Nyrid begegnet, der die Identität eines Svefverkäufers angenommen hatte, der seinem Lieferanten Geld schuldete. Er nutzte die Identität, um Svef zu verkaufen und so den Verlust des Lieferanten wettzumachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Naedle ist eine Agentin des Bleiernen Schlüssels, die mich in der Sturmwallschlucht überfallen wollte. Nachdem ihre Gefährten sich nicht trauten, mich zu bekämpfen, änderte sie ihre Meinung und ergab sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Kestorik war ein Späher für eine Gruppe von Vithrack, die in den Endlosen Pfaden von Od Nua hausten. Er bat mich, ihn zu töten, doch ich hielt es für besser, ihn im Verlies wegzusperren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Aefre ist ein Mitglied der Dutzenden, das eine Belästigungskampagne gegen die Kunden des Salzigen Masts geführt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Hauptmann Esmer fand sich plötzlich von Glanfathanern umzingelt, nachdem er in ihr Gebiet eingedrungen war. Die Glanfathaner erklärten sich bereit, ihn gehen zu lassen, wenn ich ihn als Gefangenen halte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Eorn war ein Flüchtling, der wegen des Mordes an einem Schmelztiegelritter gesucht wurde. Ich habe ihn in den Katakomben unter Trutzbucht entdeckt und entschieden, ihn selbst für seine Verbrechen zu bestrafen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Gramrfel griff mich mit einer Gruppe von todesliebenden Räubern an, als ich durch Magrans Gabelung reiste. Wie sich zeigte, war er nicht bereit für seinen eigenen Tod. Er flehte mich an, ihn stattdessen gefangenzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>{0}: Getötet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>{0}: Entführt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Ereignis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>{0}: Ignoriert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Verschiedenes</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

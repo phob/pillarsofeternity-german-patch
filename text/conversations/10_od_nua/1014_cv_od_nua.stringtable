@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1014_cv_od_nua</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>174</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Das silbrige Gesicht dreht sich mit kaltem, ruhigen Ausdruck zu. Aus den Augenhöhlen der Maske geben flackernde Flammen ihr unheilvolles Licht ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Wer bist du?" Seine Stimme scheint durch die ganze Kammer zu hallen. Selbst als der Raum um dich herum noch dunkler zu werden scheint, wird das Licht in den Augen der Maske plötzlich heller. "Würdest du deinen König verlassen? Ergreife dein Schwert! In den Kampf! Der Feind ist gekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich glaube nicht, dass es einen Kampf gibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Die Stufen hoch? Nach all den Mühen, die ich auf mich genommen habe, um hier herunter zu kommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Du vergisst das Antlitz unseres Herrn?" Zu Füßen des Schattens strömen Wirbel der Finsternis empor, und als sie sich in die Luft erheben, wendet sich die schimmernde Maske deinem Gesicht zu. "Nein. Besser wäre es zu sagen, dass du die Dinge klarer siehst als meine Untertanen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Trägt deine Burg meinen Namen?" Die Maske neigt sich nach oben, als ob sie durch Fels und Erde die Burg selbst sehen könnte. "Werden Stein und Mörtel mein Vermächtnis sein?" Unter den Rändern von Od Nuas Maske siehst du schwache Feuer flackern. "Da wir das Werk der Götter vollbracht und die menschliche Seele geformt haben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Wenn du nicht der Herr dieses Orts bist, wer dann?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Du hast die Endlosen Pfade gebaut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Wie kann es sein, dass du immer noch hier bist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Da war der Schmerz. Ich erwachte etwas später. Erwachte, oder wurde mir anderweitig ... bewusst, dass ich wieder auf der Welt war. Dass ich sehen und hören konnte, Erinnerungen hatte. Immer, Erinnerungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Du bist hier gefangen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Was ist der Grund dafür, dass die Pfade überrannt wurden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ist das deine Rechtfertigung? Dass deine Trauer die aller anderen übertrifft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"So hat es nicht begonnen. Wie könnte es auch? Ich war verrückt vor Trauer. Ich versammelte Arbeiter, Magier, Diener. Wir stürzten uns kopfüber in unsere Aufgabe. Ich war blind vor Tränen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Und durch diese barbarischen Taten begannen wir endlich zu lernen, die Ränder dieses Schleiers zu finden. Meine Leute sagten mir, dass sie meinen Sohn finden könnten - aber wir hatten noch nicht die Mittel und Wege, um ihn sicher zu extrahieren. Intakt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Und als wir endlich der Entdeckung nahe waren, wurden wir verraten. All das, was wir bezahlt hatten ... die verlorenen Leben ... die Beschmutzung unserer Seelen ... Alles für nichts. Sie zerstörten den Riesen, sie trennten ihn von seinen Wurzeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Hinter Od Nuas Maske erklingt ein leiser, stoßender Schmerzenslaut. "Ich werde ihn nie wiedersehen, selbst im Tod nicht. Wir wurden noch endgültiger voneinander getrennt, als ob ich ihn niemals gekannt hätte, Er wird mich vergessen haben. Habe ich nicht dafür bezahlt? Haben sie mich nicht alles gekostet, was ich hatte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Zeit. Der Druck der Zeit. Zu unserer Zeit scheuchten wir solche Biester von unseren Arbeitsstätten. Sie waren uns nur vorübergehend lästig, mit der Zeit aber wurde ihnen gestattet, sich zu vermehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Was haben sie aus ihrer Trauer gemacht? Nichts! Keiner von ihnen hat es gewagt! Keiner hat es probiert. Ich hatte die Vision, und die Leute folgten mir. Sie glaubten. Sie wussten, was ich versprach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Wenn ich meine Festung behalten möchte, muss ich mich um den Meister in der Tiefe kümmern. An deiner Statue habe ich kein Interesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Du hast sehr vielen Leuten Unrecht angetan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Angreifen.] "Deinen Leuten wird endlich Gerechtigkeit widerfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Nein. Nein! Od Nuas Augen lodern auf. "Ein zweites Mal wird man mich nicht verraten! DAS wirst du mir nicht nehmen!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Solange diese Präsenz verbleibt, wird die Burg nicht dein sein, und du wirst sie nicht besiegen. Die Höhlen werden sich einmal mehr füllen, sie werden die Stufen heraufkriechen, und all die deinen werden sterben. Verlass diesen Ort. Vergiss unsere Namen, solange du noch kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"... Ja. Ich weiß. Wie könnte ich es nicht wissen? Auch daran erinnere ich mich. Ich hatte ... so viele Jahre Zeit, über all das nachzudenken, mich zu erinnern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vielleicht ist die Zeit zum Loslassen gekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Du hast dieses Schicksal verdient, ich werde dich ihm überlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ich ... " Hinter Od Nuas Maske entzündet sich ein blaues Feuer und wirft ein blasses Licht auf die Fliesen. "Nein. Nein - du wirst von hier weggehen und sie mitbringen. Du wirst die Meute wieder mitbringen, mit Klingen und Feuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ich habe es versucht!" Sein Aufschrei hallt durch die Kammer. "Ich kann es nicht, Der Kummer brennt in mir wie ein Feuer, das alle Gedanken auffrisst." Als würde es antworten, züngelt das Feuer unter den Rändern seiner Maske hervor und schickt dir eine Hitzewelle entgegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Was bist du, Geist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Der Schatten taucht wie eine Wunde in der Welt auf, die aufgeschlitzt wurde und nun den Blick auf eine hohle Finsternis freigibt. Unterhalb einer sich windenden Schattenkrone befindet sich eine schimmernde Maske, die das Gesicht eines älteren Mannes darstellt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"So viele Stunden und Tage des Grübelns. Wäre ich nur einen Moment früher dagewesen. Hätte ich ihn nur an diesem Morgen am Aufbruch gehindert. Hätte ich nur gewusst, dass ich ihn niemals wiedersehen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Verloren, das Wandeln auf diesen endlosen Pfaden, dieser Kummer. Dass er für immer unerreichbar ist, an einem dunkleren Ort, weg von mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Oder willst du jetzt gar Antworten von mir haben, endlich den Schlüssel zu deiner großen Geschichte finden, damit du an Lagerfeuern sitzen und den neuen Bewohnern der Welt von deinen Entdeckungen erzählen kannst, als du die Knochen ihrer Vorväter durchwühlt hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Nein. Ich weiß bereits, warum du das getan hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Ich bin gekommen, um den Angriffen auf Caed Nua ein Ende zu setzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ich glaube, in solch einer Geschichte könnte eine Lehre verborgen sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ich bin [Player Name]. Ich bin gekommen, um den Meister in der Tiefe zu suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Aber dein Opfer hast du auch nicht gefunden, denn vor dir steht Od Nua. Im Leben König eines großen Volkes, jetzt Meister von nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Was ist mit diesem Ort geschehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Od Nuas Stimme erlangt kühle Erhabenheit. "Wir suchten nach dem Ort, wo sich die Adern der Welt treffen, wo eine Seele aus dem Adra gezogen werden könnte, falls wir es schafften, die Seele intakt zu halten, ihre Erinnerung zu bewahren. Wir sind so nah, es ist fast geschafft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Es erscheint mir passend, dass du wie alle hier unten gefangen bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Das mag ja so sein, dennoch bin ich komplett." Seine Augen brennen weiß vor Zorn. "Es sei denn, du bewirkst das Gegenteil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Einen Moment lang gibt es nur Stille. "Dann bist du keine meiner verlorenen Seelen, kein Soldat. Ich habe keine Macht über dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Er ging vor langer Zeit verloren. Diese Schlacht, und noch mehr." Zu Füßen des Schattens strömen Wirbel der Finsternis empor, und als sie sich in die Luft erheben, wendet sich die schimmernde Maske deinem Gesicht zu. "Du bist keine meiner verlorenen Seelen, kein Soldat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Vor dir steht Od Nua. Im Leben König eines großen Volkes, im Tod Meister von nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Du bist so dreist, du bist keiner meiner Untertanen. Keine verlorene Seele, kein Soldat." Die Stimme des Schattens wird kalt und verbittert. "Bist du wegen der Reichtümer gekommen? Für das Gold, dass du aus den Gräbern der Toten rauben kannst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Aber du kannst sie ja sehen, was von ihnen übrigbleibt. So wie der Verrückte vor dir. So wie ich. Meine Untertanen. Mein Volk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Die Endlosen Pfade ... Tausend Hände plagten sich, sie zu erschaffen. Geleitet aber wurden sie von meiner Stimme, meinem Willen. Das große Werk unserer Zeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Warum hast du Biester losgeschickt, um mich anzugreifen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ja, hauptsächlich geht es um die Reichtümer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Dich angreifen? Mit welchem Zweck? Dein Gesicht ist mir unbekannt. Was von meinem Königreich verbleibt, ist hier gebunden. Diese Grenze kann ich nicht überqueren." Er schaut in Richtung des verdunkelten Gangs hinter dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Ich habe einen Teil dessen gesehen, was du angerichtet hast. Du hast keinerlei Mitgefühl verdient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Du bist an Geistern und Staub vorbeigezogen. Welche Weisheit kann man wohl dadurch gewinnen? Dann sag mir, weshalb sollte ein Mann solch einen Ort errichten, warum so tief graben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Du bist ein verrückter Tyrann, du hast dein Volk gefoltert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Um den Schlüssel zur Unsterblichkeit zu finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Um deinen Kummer zu stillen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Welche Rolle spielt das noch? All das liegt lange zurück"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Mein Volk schuf einen Riesen für mich, enorm und wundersam in Gestalt, auf dass er meiner Seele gerecht werden würde, in ihm zu wohnen." Er streckt eine Hand aus und deutet mit einer dunklen, spitzen Klaue auf die Stufen. "Ich habe ihn nicht ... angesehen, seit ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>" ... Von Zeit zu Zeit kommen viele Seelen zu diesem Ort. Der Adra zieht sie in die Tiefe, und dort vergehen sie." Die Maske wendet sich dir abermals zu. "Aber nicht von mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"An diese ... Kammer, erinnere ich mich. Die letzten Augenblicke. Und indem ich mich an sie erinnere, kehre ich zu meiner Macht zurück. Folglich ist es manchmal ... verlockend, zu verweilen, einem König zu ähneln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Etwas lebt in dem Ort unter uns und labt sich dort an meinem Volk - so wie es schon war, als wir noch atmeten. Es ist ein altes, urzeitliches Ding, und du wirst es ebenso wenig bezwingen, wie wir unsere Ignoranz besiegen konnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Od Nua erschaudert plötzlich, und seine Gestalt scheint sich zu verdrehen und zu winden. Die Zacken seiner dunklen Krone werden lang, und die Oberfläche seiner Maske schlägt Wellen wie geschmolzenes Erz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Die Maske wendet sich dir zu, und aus ihren Augen laufen Ströme goldenen Feuers. "Niemand geht dort außer Od Nuas Blutlinie. Du wirst diesen Ort nicht betreten. Dort nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Spinne dir nach Herzenslust eine lächerliche Geschichte. Erzähle ihnen, was es war, dass das engwithanische Volk seinem König gestohlen, welchen Verrat es begangen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Schau her, und sieh, welche Reichtümer dich erwarten." Od Nuas Augen lodern in weißen Flammen auf. "Ich bin Od Nua, Herr meines Volks, der ins Herz des Himmels griff und die Toten zurück ins Leben zog."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Der Tod selbst wird sterben, und in unserem Sieg werden wir denen den Schleier von den Augen reißen, die ihn einst um sich scharten! Ich werde das Gesicht meines Sohnes abermals erblicken. Ich werde ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>" ... Ich werde mit einer habgierigen Kreatur sprechen, zweitausend Jahre zu spät." Od Nua betrachtet dich einen Augenblick. "Und sie als mit mir verwandt erkennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Nach all diesen Jahren spüre ich noch immer Verlangen nach ihr, und das wird auch in tausend Jahren noch so sein. ... Mein Schatz war kein Gold, und hier wirst du auch keins finden, da sie es aus meiner Burg gerissen haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>" ... Wenn nicht das, so erinnere mich auch an alles andere. Den Schmerz des Sterbens. Der Verlust brennt so scharf wie an dem Tag, an dem mir mein Sohn genommen wurde. Sollten solche Dinge nicht auch von der Zeit eingefordert werden, wie es mit unseren Worten, unserer Kunst und unseren Leben geschehen ist? Ist die Erinnerung so schrecklich, dass sich die Zeit nicht traut, sie zu berühren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Was ist die Unsterblichkeit schon mehr als eine Erinnerung? Und hier sind wir alle, der Gnade der Erinnerung ausgeliefert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Nein, nein. Denn wir fanden das einfach genug. Cabiros verschlingt Freunde, Seelen und Leben so lange, wie es ihm danach verlangt. Die Kinder des Rads schneiden Krankheiten aus ihren Geistern. Selbst die Türen wimmeln nur so vor immerwährenden Seelen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Für einen flüchtigen Augenblick. Ich hätte sie alle rechtzeitig gerettet. Wir hätten sie so leicht hinter dem Schleier hervorschnappen können, wie wir sie durch ihn hindurchwirken konnten. Wir hätten das Rad selbst zum Stillstand bringen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Vielleicht ist der Geist deines Sohnes hier noch irgendwo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Der Geist wendet sich von dir ab. "Was weißt du schon über die Trauer? ... Es ist wie eine Wunde in mir, die meinen Tod überlebt hat. Sie blutet immer noch. Wie könnte irgendein Werk eines Mannes solch eine Wunde stillen? Und trotzdem habe ich es versucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Was ist dort unten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Ist es so merkwürdig? Ich kann die Kraft in dir sehen ... ich kann sie spüren. Mittlerweile musst du die Grenzen des Schleiers gesehen haben, wie leicht man seine Fesseln abwirft, wenn man unter Druck gesetzt wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Sie werden alles zerstören, wofür ich gearbeitet habe sie werden meine einzige Hoffnung stehlen." Od Nua hebt seine Arme, die nun zu peitschenden Schattenranken geworden sind. "Werden wir dem Pöbel gestatten, uns aus dieser Welt zu schlagen? Meinen Sohn ein zweites Mal zu stehlen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Auf, Soldaten! Auf, Bezwinger des Todes! Haltet sie von der Statue fern! Werdet ihr euren Herrn alleine kämpfen lassen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Auf einmal ist eine so deutliche Veränderungen in der Luft, dass sie dir ein Kribbeln das Rückgrat hochschickt. Aber aus der Finsternis kommt ... nichts, und die Echos von Od Nuas Befehl verhallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>" ... Meine Soldaten, sie sind fort, oder sie treiben, jenseits meiner Kontrolle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Oder, so wäre es gewesen, hätten sie mich bloß beenden lassen. Wenn sie verstanden hätten, dass solch eine ... scheußliche Basis eine wundersame Errungenschaft hervorbringen kann. Dass sie derselbe Fluch, den ich zu heilen suchte, sie im Gegenzug befallen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Dass mir mein Sohn von einem Moment zum nächsten für immer verloren sein könnte, ist ... Grausam." Kummer legt sich auf seine Stimme, die durch die Kammer hallt. "Er möchte nur, dass ich stolz auf ihn bin. Wie kann ein Vater seinen Sohn davon überzeugen, dass er auch dann das Licht in seinem Leben sein wird, wenn er selbst nichts zustande bringt? Wie, wenn er nicht mehr da ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Zweitausend Jahre habe ich am Abgrund des Sieges gestanden. Ich kann mich weder zurückziehen, noch hinübergehen. Ich bin im selben Fels verankert, den ich formte, um meinen Leichnam abzuschirmen. Und all diese Zeit ist er dort, nur eine Handbreit außer Reichweite. Jenseits von mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Haben sie in all ihren Leben denn gar nichts geliebt? Nichts verloren? Ehefrauen, Ehemänner, Kinder?" Od Nuas Schatten erschaudert, und seine Gestalt scheint sich zu verdrehen und zu wenden. Die Zacken seiner dunklen Krone werden lang, und die Oberfläche seiner Maske schlägt Wellen wie geschmolzenes Metall. "Kann ich es ihnen dann nicht zeigen? Wie sehr es schmerzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Der Fels scheint unter deinen Füßen zu erbeben, und die Luft wird kalt. Aber aus der Finsternis kommt ... nichts, und die Echos von Od Nuas Befehl verhallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Still betrachtet sein Geist den Kristall, in dem sein Körper eingeschlossen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Was bist du, dass ich mich um dein Leben kümmern sollte? Wann haben sie mich hier gefangen? Ich kann diese Grenze nicht überqueren, der Weg ist mir versperrt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Selbst jetzt kann ich ihn nicht erreichen, sie haben sie zerschmettert. Meine Statue, mein Denkmal. Die Ader ist durchtrennt, und ich bin von der Quelle abgeschnitten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Und immer noch lebt etwas in dem Ort unter uns und labt sich dort an meinem Volk - so wie es schon war, als wir noch atmeten. Ein altes, urzeitliches Ding. Du wirst es ebenso wenig bezwingen, wie wir unsere Ignoranz besiegen konnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Ich verstehe deine Trauer, aber weshalb all das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Wenn dieses Ding für die Angriffe auf Caed Nua verantwortlich ist, dann könnte ich vielleicht uns beiden helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Etwas mit einer größeren Reichweite, denn außerhalb dieser erbärmlichen Kammer habe ich keine Macht. Der Fels ist wie ein Anker." Die Maske wendet sich wieder dem Kristall und dem Körper darin in der Raummitte zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Bleib ruhig, ich will dir nicht schaden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Toten Königen bin ich keine Rechenschaft schuldig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Du kannst nichts tun, was ich nicht gerne erleiden würde, um dich von diesem Ort fernzuhalten Denkst du, du kannst mich narren? Wir haben zu viele Verräter erlitten." Od Nua führt eine Hand zu seinem Gesicht, worauf das Feuer dort schwächer wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Sollen sie doch hierher hinabsteigen ... und dann vergehen. Etwas, das noch älter ist als ich, lebt unter uns, und dort verschlingt es, was die Biester dieses Ortes den Adra taumelnd nach unten schicken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Wie? Wirst du das zerstören, das das Ende meines Volks überlebt hat? ... Nein. Du wirst es nur verärgern. Es wird dein Leben wie Wasser trinken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"... Vielleicht blieb meinem Sohn nicht genügend Zeit, um ... Alles ging so schnell. Seine Seele ging schnell in den Strom über, aber ich konnte sie wiederfinden. Ich fand sie, sie war so nah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Und dann, die Invasoren - die Meuterei. Verräter, allesamt. Sie kamen, um die Maschinen zu zerschmettern, die Kristalle. Sie nahmen keine Rücksicht auf die geopferten Leben, die Fortschritte, die wir erzielt hatten. Eine Seele aus dem Nachleben zu reißen? Ihn in meine Arme zurückzuholen? Ich war so nah dran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Die Meute erschlug meine Treusten, dann kamen sie zu mir. Eine Klinge in den Bauch, wie bei einem räudigen Hund ... Ich aber beraubte sie ihrer Trophäe: Wenigstens mein Körper würde nicht von diesem Ort getrennt werden. Ich wirkte ... einen letzten Zauber." Er deutet auf den Kristall in der Mitte des Raumes und betrachtet ihn einige Augenblicke lang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Und was ist passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Du hast dich hier selbst eingeschlossen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Dein Volk wollte sich dafür rächen, was du ihnen angetan hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Nichts derart Konkretes. Ich wollte nur auf eine Weise sterben, die sie aufhielt. Es ... war nicht angenehm. Hätte ich Zeit zum Nachdenken gehabt ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Er dreht sich abrupt zu dir herum. "Ich werde keine Eindringlinge tolerieren, nicht hier. Die Schwestern ... die Schwestern werden mich immer noch bewachen. Kinder des Rads. Dies ist nicht die Ewigkeit, nach der sie sich gesehnt hatten, nicht die Entdeckung, die ich versprochen hatte. Trotzdem verweilen sie hier, gebunden nur durch ihre Treue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"All die Seelen, die die Pfade jemals gekannt haben. Immer noch an den Adra gebunden. Auf ihre Chance zur Wiedergeburt wartend, oder gefangen in den Fragmenten." Er führt eine formlose Hand zu seiner Maske, nur um sie wieder fortzureißen, als ob sie verbrüht worden wäre. " ... Mein Sohn. Irgendwo. Irgendwo muss er sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Ich stellte mir nicht vor, dass ich gefangen wäre. Welche Kraft könnte mich schon halten? Und doch: Keine meiner Bemühungen, diesen Ort zu verlassen hat je ... Manchmal kann ich spüren, was über mir liegt, aber nie, was unter mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Rache?" Die Schatten um dich herum werden länger. "Und was ist mit meiner Rache? Ein Sohn, von mir genommen in der Blüte seines Lebens. Mein Junge. Nicht durch Krankheit oder Alter. Nicht gut. Verstehst du? Und doch verweilte seine Seele in der Welt der Lebenden. Ich wusste es. Ich spürte es. Aber sprechen konnte ich nicht mit ihm. Ich konnte ihn nicht hören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Du schon. Ich spüre es bei dir." Die Stimme des Geists klingt heiser. "Aber wir kommen zweitausend Jahre zu spät."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>" ... Oh, wie ich mich noch an ihn erinnere. Sein Gesicht. Ich brauche keine Schnitzerei, um mich zu erinnern. Er war seiner Mutter sehr ähnlich, und wollte kämpfen wie sie. Aber er hatte mein Temperament, mein erbärmliches Aussehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Er hebt seine Fäuste, um die sich Rauchschwaden winden. "Ich hätte die ganze Welt abgeschlachtet, nur um ihn wiederzubekommen. Man hätte sie dafür ehren sollen, dass sie ihre Leben für seine Wiederbelebung gaben, um ihren Prinz zu retten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Ich hätte ihnen das gewährt. Ich hätte ihnen gestattet, alle gewünschten Lehren daraus zu ziehen, hätte ich nur meinen Sohn haben können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Und selbst wenn manche von ihnen nur kamen, um ihr Wissen zu testen - wenigstens trugen sie zu unserem Verständnis bei. Wir sind unserem Ziel so nah gekommen. Du kannst es dir nicht vorstellen. Die Frustration darüber schwärte nur in mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Du siehst die hohlen Überreste. Die leeren, sinnlosen Grausamkeiten. Aber du siehst nicht, was daraus entstand. Die Dinge, die wir lernten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Und jetzt werden sie von dem, was dort lebt, aus den Tiefen nach oben gejagt. Vom ... neuen Meister dieses Orts der sich an den Seelen all derer labt, die den Pfaden erlegen sind. Aus Kummer oder Gier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Ich bin an diesen Ort gebunden, oder ich wurde mit ihm verflucht. Ich weiß es nicht. Ich habe versucht, die Stufen zu überqueren. Die ... Erinnerungen überkommen mich. Ich wache hier auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Auf diese Weise sind Jahrhunderte vergangen. Im Halbschlaf. Aber ich wache rechtzeitig auf. Ich wache immer auf. Und ich bin hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Ich kann nicht aufhören ... daran zu denken." Hinter Od Nuas Augen kommt ein Licht auf, dass in eine orangefarbene Flamme mündet. "Jeden Moment, den ich verloren habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Od Nua benötige einen Moment zum Sprechen. "Zeit. Der Druck der Zeit. Zu unserer Zeit scheuchten wir solche Biester von unseren Arbeitsstätten. Sie waren uns nur vorübergehend lästig, mit der Zeit aber wurde ihnen gestattet, sich zu vermehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Anfangs war nichts. Schwächliche Versuche. Falsche Anfänge. Tage, an denen nichts geschah. Und die ganze Zeit über war ich sicher, Zeit zu verlieren. Ich gestattete, neue Methoden auszuprobieren, damit wir unser Wissen um die Seele vertiefen konnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Nach all dieser Zeit ... nein, du wirst nicht sein, was mich von hier fortschickt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Du würdest nur vernichtet werden, wie es jeder anderen Seele geht, die hierher kommt. Ich kann es nicht riskieren, dass du dich an der Statue zu schaffen machst. Nein. Ich werde es nicht gestatten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Angreifen.] "Od Nua, alle Dinge müssen ein Ende finden. Du bist schon viel zu lange hier gewesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Auf, Soldaten! Auf, Bezwinger des Todes! Verteidigt euren Herrn!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Glaubst du, dass diese Möglichkeit nicht meine Gedanken beherrscht? Ich wurde gebunden, als ob sie es beabsichtigt hätten. Es ist eine Ironie, über die ich länger nachgedacht habe, als du auf der Erde gewandelt bist. Und jetzt glaubst du, mir Ratschläge erteilen zu können?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Nicht die Kammer bindet dich, sondern deine Wut, dein Kummer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Das ist ... Nein. Ich habe versucht, diesen Ort zu verlassen. Ich würde zu meinem Sohn gehen. Ich würde mich durch nichts aufhalten lassen. Du lügst." Die Augen des Schattens glühen in unheilvollem Licht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Die Seelen hier - sie sind alle innerhalb eines Augenblicks gefangen. Sie können sich nicht selbst befreien. So verhält es sich auch mit dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"So sei es. Glaube, was du willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Was dein Sohn wohl denken würde, wenn er dich so sähe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Lass mal gut sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ja. Du sprichst von etwas, das du nicht verstehst. Das du nicht verstehen kannst,"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>[Angreifen.] "Ich werde dir hier ein Ende setzen - und mich dann darum kümmern, was jenseits dieser Stufen liegt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Du meinst, für immer hier zu bleiben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Aber es zerstört diesen Ort! So sicher, wie es die Engwithaner getan haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"In Ordnung, dann lass es sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Es bedroht eure Welt. Euer Heim. Nicht das meine, denn wir sind schon lange tot. Für mich ist es nicht mehr als ein Hindernis. Und wenn auch es endlich nicht mehr ist, dann werde ich meine Chance bekommen. Ich habe so lange gewartet, das kann ich nicht riskieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Ich bin nur hier, um meine Festung zu verteidigen. Ich muss diese Kreatur besiegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Auf, Soldaten! Auf, Bezwinger des Todes! Kinder des Rads! Andara! Riomara! Isarna! Haltet ihn von der Statue fern!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Du kommst nach all dieser Zeit, um mir zu sagen, dass ich vergessen muss? Das werde ich nicht. Das darf ich nicht. Ich bin alles, das übrig ist. Wenn ich vergesse ... dann wird nichts mehr von ihm übrig sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Du musst nicht vergessen, du musst nur dir selbst vergeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Wenn es sein muss, dann werde ich so lange bleiben, bis die Sonne ins Meer fällt! Meine Zeit wird kommen. Ich werde bekommen, was ich will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Nein! Das ... das ist nicht mein Werk! Es kann nicht so einfach sein!" Flammen schlagen aus den Augen der Maske. "Ich werde die Invasoren aus den Gängen vertreiben. Ich werde diese letzten Stufen hinabgehen und dort mein großes Werk vollenden! Niemand wird mich daran hindern!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Du wirst von deiner eigenen Trauer hier gefangen gehalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Ich kann dir nicht helfen. Ich mache mich besser auf den Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Ich muss weiterreisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Sie dich doch um, da sind keine Invasoren!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Jedes Mal, wenn du versuchst zu gehen, verlierst du die Kontrolle über dich. Kannst du es nicht sehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>[Angreifen.] "In dir ist nichts mehr übrig, was sich zu retten lohnen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Die Luft zwischen euch kühlt ab. Dein Atem wird von eisigen Wolken begleitet. "Er würde mich nicht erkennen. Was sie aus mir gemacht haben. Du ... du wirst nicht von ihm sprechen. Du kennst ihn nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Du hast Hunderte Unschuldige zu seinem Wohl ermordet. Würde er dir dafür danken?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Du bist nichts als ein lächerlicher, wimmernder alter Narr, der zu viel Angst hat, seine Kammern zu verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Wenn du wie der Rest die Kontrolle verlierst, wird nichts mehr übrig sein. Kämpfe dagegen an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Etwas wird da sein. Sein Geist ist immer noch dort draußen, irgendwo. Ist das nicht genug?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Mit einem Geräusch wie splitterndes Eis bilden sich Bruchstellen in Od Nuas Maske. Zu deinen Füßen beginnt sich Eis auf dem Boden nach außen hin auszubreiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Hast du seinen Namen vergessen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Alle längst vergangen, ja. Und trotzdem auch hier, vor mir. Ich sehe ihn noch immer. Die Erinnerung vergeht nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Begleitet von einem schrecklichen, rasselnden Kreischen erhebt sich Od Nuas Schatten in die Luft. "Verräter! Eindringlinge!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Verlieren ... soll ich all das verlieren, was noch übrig ist, obwohl ich bereits eine Ewigkeit in Reue verbracht habe? Ha, du denkst, du könntest mich narren!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Od Nua dreht sich weg und betrachtet den Raum, dann richtet er sein feuriges Starren wieder auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Od Nua, so beweise dich doch endlich. Bring den Mut auf, loszulassen. Geh, und suche deinen Sohn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Es ist kein Verlust, nur ein Weg zu etwas Neuem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Ich versuche, dir zu helfen! Warum hörst du mir nicht zu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Die dunkle Gestalt von Od Nuas Gespenst erschaudert und wirft sich herum. Die Luft um dich herum wird kalt, bis sich Eis auf den Fliesen bildet. Die Schatten scheinen das Licht anzuziehen und drohen, dich in die Finsternis zu stürzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Und dann beginnen die glühenden Kohlen, die Od Nuas Augen sind, zu flackern und zu erlöschen. "Es ist ... vorbei. Endlich." Seine Gestalt scheint sich aufzulösen, und die Finsternis macht schwachem Licht den Weg frei, worauf sie gänzlich verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>" ... Maros ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Nein. Ich weiß ihn noch. Er klingt in meinen Ohren ... Er wird mich vergessen haben. Es gibt ... nichts, an das er sich erinnern könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>" ... Nein. Niemals." Mit einem Geräusch wie brechendes Eis bilden sich Bruchstellen in Od Nuas Maske. Zu deinen Füßen beginnt sich Eis auf dem Boden nach außen hin auszubreiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Ich habe mich selbst zerstört, lange, bevor sich die Leute gegen mich erhoben. Es gibt Taten, die Narben auf der Seele zurücklassen, Verletzungen, die einfach nicht heilen, die bis ins nächste Leben andauern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Wenn ich jetzt gehe, wird er sie sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Lass ihn für sich selbst urteilen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Ist dem so? Wenn ich also verflucht werden soll, dann ... Wenn man mich von allem, was ich war und was ich liebte, berauben wird, dann werde ich auch alle, die hier herabkommen, ebenso behandeln! Du wirst hier in Vergessenheit geraten. Dein Name wird nichts mehr bedeuten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Das Gespenst scheint größer zu werden, er zieht die Finsternis zu sich. "Keiner wird es wagen, diesen Ort jemals wieder zu betreten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

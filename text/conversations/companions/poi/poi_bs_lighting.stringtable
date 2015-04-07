@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\poi\poi_bs_lighting</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"[Player Name], du steckst voller Überraschungen, was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Schau dir nur an, wie groß das hier ist ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Schau dir das an! Ein Stadt, die alle anderen lächerlich wirken lässt. Und lange verloren ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Unglaublich! Ich wusste ja, dass die Erbauer Wunder wirken konnten, aber das hier ... das hier ist FANTASTISCH!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Hier sind viele Seelen in Aufruhr ... umrandet von Wut, Gewalt." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Kannst du das noch einmal machen? Ich hatte etwas im Auge. Ich habe es verpasst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Nun beleuchten wir unseren eigenen Weg, Wächter."</DefaultText>
+      <FemaleText>"Nun beleuchten wir unseren eigenen Weg, Wächterin."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

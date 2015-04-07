@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\00_dyrford_ulterior_motives</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Katz und Maus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Durchsuche die Umgebung des Dorfes Dyrfurt nach Nyfre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde Nyfre und locke sie aus Dyrfurt heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde Nyfre und locke sie aus Dyrfurt heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kehre zu Nyfre in der Dracogen-Schänke zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre zu Nyfre in der Dracogen-Schänke zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Führe Medreth von Nyfre weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Kehre zu Medreth am westlichen Ende von Dyrfurt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Kehre zu Nyfre in der Dracogen-Schänke zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Kehre zu Medreth am westlichen Ende von Dyrfurt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Eine Frau namens Nyfre ist auf der Flucht und versteckt sich in Dyrfurt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Nyfre hat mir gesagt, dass jemand nach ihr sucht. Sie bat mich, im Dorf nach verdächtigen Gestalten Ausschau zu halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Medreth bat mich, Nyfre zu finden, eine Diebin, die unsere gemeinsamen Freunde im Haus Doemenel bestohlen hat. 
+
+Sie ist Orlanerin. Wenn ich sie finde, soll ich sie davon überzeugen, Dyrfurt zu verlassen sei sicher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Medreth sagte mir, dass er nach Nyfre sucht, einer Mörderin aus der Trutzbucht, die Dutzende Kinder getötet hat.
+
+Sie ist Orlanerin. Wenn ich sie finde, soll ich sie davon überzeugen, Dyrfurt zu verlassen sei sicher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Neben dem Fluss am westlichen Ende des Dorfes stieß ich auf Nyfres Verfolger Medreth. Er erzählte mir eine völlig andere Geschichte über Nyfre - dass sie eine Kindsmörderin auf der Flucht sei.
+
+Er möchte Nyfre einen Hinterhalt legen. Wenn ich ihm glaube, kann ich sie in seine Falle locken. Andernfalls sollte ich Nyfre warnen, besser nach Osten zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Neben dem Fluss am westlichen Ende des Dorfes stieß ich auf Nyfres Verfolger Medreth. Er sagte mir, dass sie von den Doemenels gestohlen hätte, und dass er jetzt dabei ist, sie aufzuspüren.
+
+Er möchte Nyfre einen Hinterhalt legen. Wenn ich ihn unterstützen möchte, was die Doemenels zweifelsohne schätzen würden, kann ich sie in seine Falle locken. Andernfalls kann ich Nyfre warnen, besser nach Osten zu ziehen. Das zu hören würde den Doemenels allerdings gar nicht gefallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich sagte Nyfre, wo Medreth auf sie wartete, und sie entwischte ihm. Als letzten Gefallen bat sie mich, ihr mehr Zeit zu erkaufen, indem ich ihn in eine andere Richtung schicke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich habe Nyfre aus ihrem Versteck gelockt und sie zu Medreth geschickt. Wenn er noch immer bei diesem Tempel wartet, hat er vielleicht eine Belohnung für mich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich habe Nyfres Verfolger Medreth gefunden und getötet. Ich muss Nyfre sagen, dass sie Dyrfurt jetzt verlassen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Ich habe Nyfre getötet. Medreth wird sich freuen zu hören, dass ich seine Arbeit für ihn erledigt habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Es erschien mir komisch, dass jemand wie Medreth Nyfre hinterhergeschickt wurde. Er sieht nicht gerade wie ein Offizieller aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Als ich Medreth über die Schmelztiegelritter befragte, zeigte er eine interessante Reaktion. Ich glaube, dass er sie überhaupt nicht mag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Nyfre nannte keine Einzelheiten, aber sie behauptete, sie hätte in der Trutzbucht einige mächtige Kriminelle verärgert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe Nyfre getroffen. Sie befindet sich im Obergeschoss der Dracogen-Schänke, und sie versucht, ihren Verfolgern auszuweichen. Ich habe sie bisher nicht zu Medreth geschickt - oder sie vor ihm gewarnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe Nyfre im Obergeschoss der Dracogen-Schänke getroffen. Sie gab zu, dass sie auf der Flucht ist, aber sie schien mir nicht das Monster zu sein, als das Medreth sie beschrieben hatte. Ich habe sie bisher nicht zu Medreth geschickt - oder sie vor ihm gewarnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe Medreth getötet. Nyfre wird sich freuen zu hören, dass ich ihre Verfolger beseitigt habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe Medreth getötet. Nyfre wird sich freuen zu hören, dass ich ihre Verfolger beseitigt habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich habe Nyfre getötet, aber es waren offenbar noch mehr Leute hinter ihr her. Wenn ihre Verfolger in Dyrfurt sind, kann ich vielleicht etwas von ihnen erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Ich habe Medreth getötet. Nyfre wird sich freuen zu hören, dass ich ihre Verfolger beseitigt habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Ich habe Medreth getötet. Nyfre wird sich freuen zu hören, dass ich ihre Verfolger beseitigt habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Hendyna hat mir berichtet, dass vor kurzem eine Orlanerin in der Dracogen-Schänke eingekehrt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Hendyna hat mir berichtet, dass vor kurzem eine Orlanerin in der Dracogen-Schänke eingekehrt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Medreth getötet und Nyfre die Flucht gestattet. Sie war für ihre zweite Chance dankbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Nyfre getötet. Medreth war überrascht, aber es schien ihm nichts auszumachen, dass ich seine Drecksarbeit für ihn erledigt hatte. Er schlug mir vor, dem Haus Doemenel bei meinem nächsten Besuch in Trutzbucht mein Aufwartung zu machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe den Intrigen zwischen Medreth und Nyfre ein Ende gesetzt, indem ich sie beide getötet habe. Sie haben beide nichts Gutes im Schilde geführt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich erzählte Nyfre, wo Medreth wartete, damit sie ihm entkommen konnte. Medreth war darüber nicht sehr glücklich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich schickte Nyfre direkt in Medreths Falle. Er zeigte mir gegenüber größte Wertschätzung und deutete an, das Haus Doemenel würde sich ebenso verhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich schickte Nyfre direkt in Medreths Falle. Er zeigte mir gegenüber größte Wertschätzung und deutete an, das Haus Doemenel würde sich ebenso verhalten. Er schien nicht zu wissen, dass ich mich bereits mit den Doemenels verkracht hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Ich erzählte Nyfre, wo Medreth wartete, damit sie ihm entkommen konnte, und schickte Medreth noch dazu in die entgegengesetzte Richtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_maea</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>103</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Aumaua-Frau beobachtet dich misstrauisch. Eine Hand hält sie verkrampft an ihrer Seite, aber als du dich ihr näherst, entspannt sie sich und lächelt dir freundlich, wenn auch schwächlich zu. "Ich sehe kaum jemand, der so ausgerüstet ist wie du und nicht nach Streit sucht. Du suchst doch nicht nach Streit, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Willkommen zurück. Angesichts dieser Radaubrüder da draußen befürchte ich, dass es hier nicht mehr so lebendig wie sonst sein wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Immer eine gute Sache, ein paar warme Körper hier drin zu haben. Hast du schon Fortschritte mit diesen Schlägern gemacht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Hier bist du immer willkommen. Willst du ordentlich auf den Putz hauen? Oder vielleicht nur ein bisschen entspannen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Aumaua kneift ihre Augen zusammen. "Du schon wieder. Was brauchst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Welche Art von Problemen hast du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich bin für etwas ... Ruhe hergekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ein Stirnrunzeln spielt über ihre blauen Gesichtszeichnungen. "Die Art, die schlecht fürs Geschäft sind. Meine schwer arbeitenden Jungs und Mädchen werden von örtlichen Schlägern belästigt, und unsere Kunden auch. Sie sind nach diesem Hohlgeburten-Ausbruch aufgetaucht und haben meine Stammkunden vergrault."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Laut, leise - wie du willst, so lange du im Voraus zahlst. Ich habe Damen, Kerle ... und ein paar, bei denen ich mir nicht sicher bin. Du kannst mit allen reden, die dir gefallen. Wenn dir aber Serel gefällt, kannst du direkt mit mir verhandeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Sag mir, wie ich dir helfen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich habe die Anführerin gefunden. Sie wird dir keine Schwierigkeiten mehr bereiten - und auch niemand anderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Maea lächelt und zeigt dir ihre großen, messerscharfen Zähne. "Diese Neuigkeiten müssen gefeiert werden. Nimm dir ein paar Kupferpand und vergnüge dich." Ihr Lächeln wird breiter. "Und wenn du beschließen solltest, dich hier zu vergnügen, dann bekommst du meinen Sonderrabatt. Wenn du dich nur erholen willst, dann kannst du das Zimmer umsonst haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Gibt es hier jemanden namens Serel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Sie lacht. "Ach Schätzchen, du musst neu in der Stadt sein. Sie ist das gefragteste Mädchen im ganzen Viertel. Wenn du Zeit mit ihr verbringen möchtest, dann musst du nur fragen. Sie kostet tausend Pand pro Nacht, aber sie ist jede Münze wert. Zumindest sagen das die Leute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ein wissendes Grinsen legt ihre blauen Zeichnungen in Falten. "Also, was kann ich für einen strammen Burschen wie dich tun?"</DefaultText>
+      <FemaleText>Ein wissendes Grinsen legt ihre blauen Zeichnungen in Falten. "Also, was kann ich für ein fesches Mädel wie dich tun?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[1000 KP zahlen] "Ich hätte gerne eine Nacht mit Serel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Vielleicht ein anderes Mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Du findest ihr Quartier im oberen Stockwerk." Sie legt eine große Hand auf deine Schulter. "Lass dich nicht von den stämmigen Burschen vor ihrer Tür abschrecken - sie sollen nur dafür sorgen, dass alle eine schöne Zeit haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich hätte gerne einfach nur ein Zimmer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Still, in der Tat." Sie zögert. "Ach, und solltest du eine deiner 'Bekanntschaften' mitbringen, dann seht zu, dass ihr keine Unordnung macht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ich hätte gerne einfach nur ein Zimmer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[500 KP zahlen] "Ich hätte gerne eine Nacht mit Serel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Viel Spaß."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ein neues Gesicht? Willkommen im Salzigen Mast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Willst du es mal mit ihr probieren?" Sie knufft dich in die Rippen. "Für deine Hilfe mit meinem kleinen Problem kann ich dir einen Sonderpreis von fünfhundert anbieten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Willst du es mal mit ihr probieren?" Sie knufft dich in die Rippen. "Besser kannst du dein Geld im Geschenk gar nicht anlegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Laut, leise - wie du willst, so lange du im Voraus zahlst. Ich habe Damen, Kerle ... und ein paar, bei denen ich mir nicht sicher bin. Du kannst mit allen reden, die dir gefallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Du brauchst mich, um an diesen Verbrechern ein Exempel zu statuieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Niemand sollte drangsaliert werden. Ich muss dem ein Ende setzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich könnte mir das mal ansehen, wenn dabei etwas für mich drin ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Wenn du mich wieder ins Geschäft ist, dann soll das nicht dein Schaden sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Das würde mich eigentlich nichts ausmachen, so lange damit das Problem gelöst werden kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Maea zieht dich näher zu sich heran. "Diese Schläger ziehen in Gruppen durch die Gegend, was mir sagt, dass das keine zufälligen Vorfälle sind." 
+
+Sie tippt dir mit einem ihrer großen Finger auf die Brust. "Wenn du dafür sorgst, dass diese Angriffe aufhören, werde ich einen sehr ansprechenden Weg finden, um dir zu danken." Sie zwinkert. "Verstanden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich habe Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Weggehen] "Ich werde mal sehen, was ich herausfinden kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Schieß los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Was weißt du über diese Angriffe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Erzähl mir mehr über dein Geschäft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Sie winkt mit einer Hand zur Tür ab. "Du musst nur hinausgehen, dann siehst du es mit eigenen Augen. Diese Schläger warten gleich vor der Tür und belästigen jeden, der kommt oder geht." Sie schätzt dich ab. "Dich aber hätten sie wohl durchgelassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Sie reibt sich ihr Genick. "Angesichts all dieser Probleme läuft es nicht so gut, wie ich es gerne hätte. Ich betreibe ein ehrliches Geschäft und versuche nur, den Leuten ein bisschen Erholung und Entspannung zu verschaffen."
+
+ Sie nickt dir zu und senkt ihre Stimme. "Wenn du mir aus der Patsche hilfst, dann werde ich mich für dich um einen Sonderrabatt kümmern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Noch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Darüber wollte ich mit dir reden. Wie ich gehört habe, sollst du die Preise erhöht haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ich habe mit der Anführerin gesprochen. Sie ist damit einverstanden, dich in Ruhe zu lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Maeas Augenbrauen heben sich. "Na, das nenne ich aber eine willkommene Überraschung, die es sich zu feiern lohnt. Nimm dir ein paar Kupferpand und vergnüge dich." Ihr Lächeln wird breiter. "Und wenn du beschließen sollten, dich hier zu vergnügen, genießt du meinen Sonderrabatt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Was soll ich denn sonst tun? Ich muss für meine Angestellten und ihre Kunden bestimmte ... Maßnahmen ergreifen, besonders weil es hier im Viertel so viele Hohlgeburten gegeben hat, und da die Preise für Bittergurken so hoch ist, bleibt mir keine Wahl, als meine auch zu erhöhen."
+
+Sie tippt dir mit ihrem Finger auf die Brust. "Und wenn ich mir ansehe, mit welchem Beispiel die Doemenels vorangehen, dann fang mir bloß nicht mit Halsabschneiderei an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Das Vermächtnis wird eines Tages enden. Nimm jetzt einen kleinen Verlust hin, um deine Kunden zufrieden zu stimmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Einschüchtern] "Wenn du überhaupt im Geschäft bleiben willst, dann wirst du deine Preise senken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Weggehen] "Ich muss darüber nachdenken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"So ... habe ich es noch nie gesehen." Maea reibt sich ihr zweifarbiges Kinn. "Also gut. Ich werde alles wieder zurückfahren, aber ich nehme dich beim Wort, dass das Vermächtnis eines Tages enden wirst, hörst du?"
+
+Sie wendet sich zur Bar. "Ich muss zurück zur Arbeit. Brauchst du sonst noch was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ich könnte mit den Doemenels über ihre Bittergurkenpreise sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Dich um Hilfe zu bitten, war ein Fehler." Ihre Augen huschen zu den patrouillierenden Wachen. "Na gut, ich werde die verdammten Preise senken. Lieber stecke ich was ein, als dass ich ein Blutbad riskiere."
+
+Sie starrt dich wütend an. "Und jetzt bin ich mir sicher, dass du etwas Besseres zu tun hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Sie hebt ihre Arme. "He, es ist dein Hals. Bricanta Doemenel sollte am einfachsten zu überzeugen sein. Sie kümmert sich um die Buchhaltung der Familie. Mit ein bisschen Glück kannst du sie in ihrer Villa drüben in Farnheim finden."
+
+"Sieh dich aber bei ihr vor, sieh dich bei allen von ihnen vor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Erzähl mir etwas über dieses Gasthaus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ich dachte, das wäre so klar wie das Wasser unter den Docks." Sie lacht. "Das hier ist der Salzige Mast, das berühmteste Freudenhaus in ganz Trutzbucht. Alkohol gibt es hier, Betten auch - und wir stellen dir sogar die richtige Begleitung, um beides zu genießen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Still, in der Tat." Sie zögert. "Ach, und solltest du eine deiner 'Bekanntschaften' mitbringen, dann seht zu, dass ihr keine Unordnung macht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Still, in der Tat. Wenn du dich einsam fühlst, dann weißt du ja, wo du mich findest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Still, in der Tat. Wenn du dich einsam fühlst, dann weißt du ja, wo du mich findest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Die Doemenels haben sich einverstanden erklärt, nur für dich die Bittergurkenpreise zu reduzieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Maea lächelt und zeigt dir ihre großen, messerscharfen Zähne. "Diese Neuigkeiten müssen gefeiert werden. Und ich werde auch dafür sorgen, dass der Rest des Stadtviertels sich das Feiern auch leisten kann.
+
+"Nimm dir ein paar Kupferpand und vergnüge dich. Ihr Lächeln wird breiter. "Und wenn du beschließen sollten, dich hier zu vergnügen, dann bekommst du meinen Sonderrabatt. Wenn du dich nur erholen willst, dann kannst du das Zimmer umsonst haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ich habe die Anführerin festgesetzt. Die Schläger werden dir keine Probleme mehr machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Maeas Augenbrauen heben sich. "Das reicht mir. Nimm dir ein paar Kupferpand und vergnüge dich." Ihr Lächeln wird breiter. "Und wenn du beschließen sollten, dich hier zu vergnügen, genießt du meinen Sonderrabatt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Was kannst du mir über Serel sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Sie mustert dich von oben bis unten, während sie sich am Kinn kratzt. "Ich habe schon länger nach jemandem gesucht, der mir hilft, hier in der Gegend aufzuräumen ... und Straßengerüchten zufolge hast du schon ein paar Schlamassel beseitigt. Die Ritter sind zu sehr damit beschäftigt, um Duc Aevar herumzuschnüffeln, da haben sie keine Zeit, sich mit uns Gemeinen im Geschenk abzugeben ... und ich würde ihre Bürokratie sowieso viel lieber umgehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Sie mustert dich von oben bis unten, während sie sich am Kinn kratzt. "Auf der Straße sagt man sich, dass du gleichbedeutend mit Schwierigkeiten bist. Aber vielleicht das genau, was ich brauche."
+
+"Ich habe schon länger nach jemandem gesucht, der mir hilft, hier in der Gegend aufzuräumen. Die Ritter sind zu sehr damit beschäftigt, um Duc Aevar herumzuschnüffeln, da haben sie keine Zeit, sich mit uns Gemeinen im Geschenk abzugeben ... und ich würde ihre Bürokratie sowieso viel lieber umgehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Sie mustert dich von oben bis unten, während sie sich am Kinn kratzt. "Ich habe schon länger nach jemandem gesucht, der mir hilft, hier in der Gegend aufzuräumen. Die Ritter sind zu sehr damit beschäftigt, um Duc Aevar herumzuschnüffeln, da haben sie keine Zeit, sich mit uns Gemeinen im Geschenk abzugeben ... und ich würde ihre Bürokratie sowieso viel lieber umgehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Du findest ihr Quartier im oberen Stockwerk." Sie legt eine große Hand auf deine Schulter. "Und halte dein Temperament im Zaum, sonst müssen die stämmigen Burschen vor ihrer Tür grob werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Du findest ihr Quartier im oberen Stockwerk." Sie legt eine große Hand auf deine Schulter. "Und keinen Unsinn, den du sonst veranstaltest, hörst du? Benimm dich, sonst werden die stämmigen Burschen vor ihrer Tür grob."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Du bist ein helles Köpfchen, oder? Ich dachte, das wäre so klar wie das Wasser unter den Docks." Sie lacht. "Das hier ist der Salzige Mast, das berühmteste Freudenhaus in ganz Trutzbucht. Alkohol gibt es hier, Betten auch - und wir stellen dir sogar die richtige Begleitung, um beides zu genießen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ich möchte Erfrischungen bestellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Kann ich dich noch etwas anderes fragen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Sie zwinkert. "Das sagen sie am Anfang alle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Natürlich, der Klubs der kultivierten und angesehen Ehrenmänner befindet sich im Obergeschoss. Da oben findest du auch mehrere der am härtesten arbeitenden Jungs und Mädchen in ganz Trutzbucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Sie hebt eine Augenbraue und staubt ihre Hände an ihrer Schürze ab. "Was gibt es dieses Mal für Neuigkeiten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Dann sollen deine Kunden und Kurtisanen ihre eigenen Bittergurken kaufen. Dann können sie dich wenigstens nicht mehr für die Preise verantwortlich machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"So ... habe ich es noch nie gesehen." Maea reibt sich ihr zweifarbiges Kinn. "Ich werde meine Preise reduzieren. Der Rest ist wohl nicht mein Problem, jedenfalls nicht mehr."
+
+Sie wendet sich zur Bar. "Ich muss zurück zur Arbeit. Brauchst du sonst noch was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ich bin mit mir zu Rate gegangen. Du musst deine Preise senken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Sie verschränkt ihre wogenden Arme. "Und wie soll ich bitteschön über die Runden kommen, wenn mich die Doemenels wegen den Bittergurken ausquetschen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Weggehen] "Ich habe noch nichts erreicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Sagani blickt zu Kana hinüber. "Halte dir die Ohren zu, Junge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Wenn sie meint, sie will uns etwas backen, dann bin ich für Kekse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Pallegina rollt ihre goldenen Augen gen Himmel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Tja, wenn du nicht an der Belohnung interessiert bist, löse ich ihr Problem selbst!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Aloth wischt sich die Hände an den Roben ab und blickt sich um. "Ich würde ... die Belohnung lieber in Kupfer einfordern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Ich würde einfach mit der Wache mit den breiten Hüften sprechen. Aber wir sollten zumindest verhindern, dass ihre Leute vermöbelt werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Sagani hebt eine Augenbraue. "Hat nie jemand mit dir 'darüber' geredet? Bei unseren Kindern ist nämlich Kallu dafür zuständig. Aber wenn dir das noch nie jemand erklärt hat ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Sie ... sie backt also nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Für gewöhnlich besuche ich keine Bordelle, aber lass dich von mir nicht aufhalten." Sie runzelt verärgert die Stirn. "Meine Freros haben sich jedenfalls nie davon aufhalten lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Ein Rabatt! Tja, wenn das so ist, kann ich es mir kaum erlauben, die Empfehlungen des Hauses NICHT zu probieren!" Hiravias Hände suchen in seinem Wams nach Kupferstücken. "Ihr dürft gerne alle zu sehen. Keiner? Wirklich nicht?"
+
+Er zuckt mit den Schultern und sucht in seinen Kleidern weiter nach Geld. "Selber schuld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Äh, nur zu. Wirklich. Ich warte am Tresen. Mit einem Glas ... irgendwas, was Keime tötet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Naja, warum sollten wir nichts trinken. Hier geht man bestimmt nicht heraus, ohne das eine oder andere schmutzige Geheimnis belauscht zu haben. Und sich ein paar Krankheiten eingefangen zu haben ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Jeder Verstand hier ist ... voller Lust, Freude ... aber auch Sorge, Herzschmerz, Furcht ..."
+
+Sie überblickt die plaudernde, lachende, trinkende Menge. "Diese Gemächer wurden ebenso von der Verzweiflung über die Hohlgeburten erfüllt wie von anderen Dingen ..." Sie blickt zu Maea. "Eine Schande, das jemand so bereitwillig Profit daraus schlägt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Trutzbucht hat seit dem Abzug der Aedyraner keine solche Schlacht mehr gesehen. Zumindest hat diese nicht das Geschenk eingenommen."
+
+Sie überblickt die Kunden und Huren. "Wann kann wohl noch nicht sagen, was das für uns bedeutet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Was soll ich denn sonst tun? Ich muss für meine Angestellten und ihre Kunden bestimmte ... Maßnahmen ergreifen, besonders weil es hier im Viertel so viele Hohlgeburten gegeben hat, und da die Preise für Bittergurken so hoch ist, bleibt mir keine Wahl, als meine auch zu erhöhen."
+
+Sie tippt dir mit ihrem Finger auf die Brust. "Sag mal, du verstehst dich doch mit den Doemenels, oder nicht? Vielleicht kannst du einen Gefallen erbitten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Dumm von mir, mich an einen Freund der Dutzenden zu wenden. Hohlköpfige Provokateure, alle miteinander." Ihre Augen huschen zu den patrouillierenden Wachen. "Na gut, ich werde die verdammten Preise senken. Lieber stecke ich was ein, als dass ich ein Blutbad riskiere."
+
+Sie starrt dich wütend an. "Und jetzt bin ich mir sicher, dass du etwas Besseres zu tun hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Sie mustert dich von oben bis unten, während sie sich am Kinn kratzt. "Ich habe schon länger nach jemandem gesucht, der mir hilft, hier in der Gegend aufzuräumen ... und es heißt, du wüsstest, wie man die Dinge selbst in die Hand nimmt. Die Ritter sind zu sehr damit beschäftigt, um Duc Aevar herumzuschnüffeln. Sie haben keine Zeit, sich mit uns einfachem Pöbel im Geschenk abzugeben ... und ich würde ihre Bürokratie sowieso viel lieber umgehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Sie mustert dich von oben bis unten, während sie sich am Kinn kratzt. "Kaum jemand schert sich darum, was im Geschenk passiert, aber angeblich bist du anders. Die Ritter sind zu sehr damit beschäftigt, um Duc Aevar herumzuschnüffeln. Sie haben keine Zeit, sich mit uns einfachem Pöbel abzugeben ... und ich würde ihre Bürokratie sowieso viel lieber umgehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>In Durances Augen liegt ein Blick wie der eines Löwen, der zufällig eine Herde Rehe gesichtet hat. Mit beiden Händen und weißen Knöcheln umklammert er seinen Stab und überblickt den Raum. Er lacht leise vor sich hin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Vielleicht haben ein paar deiner Stammgäste Interesse, sich ein paar Münzen zu verdienen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Jawoll, wenn auch nur, um sie gleich wieder auszugeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

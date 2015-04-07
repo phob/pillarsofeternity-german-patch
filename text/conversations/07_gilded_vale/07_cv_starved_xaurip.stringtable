@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_starved_xaurip</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine zitternde, kränkliche Gestalt, kommt sich auf einen Speer stützend aus der Dunkelheit hervor. Durch ihre schuppige Haut zeichnen sich knorrige Ellbogen und dürre Rippen ab, aber du erkennst sie als einen Xaurip. Er beobachtet dich vorsichtig, während er in flatternden Seufzern atmet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Schon gut, ich werde dir nichts tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Der Kreatur Skuldr-Fleisch geben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Langsam zurückweichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Er macht einen Satz nach vorne, wobei er seinen Speer hebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du holst ein Stück Skuldr-Fleisch aus deinem Rucksack und wirfst es auf den Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Aufgrund des Fleischgeruchs bläht der Xaurip die Nüstern auf, während seine Augen zwischen dir und dem Fleisch hin und her schießen. Er kriecht auf das kostbare Gut zu, drückt dir den Speer in die Hand und packt sich das Fleisch im letzten Moment mit beiden Händen. 
+
+Seine Gurgel vibriert, als er das Fleisch geräuschvoll kauend verschlingt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Als die Kreatur ihren Kopf zur Seite neigt und sich dir nähert, stößt sie einen weiches, kehliges Klicken aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Der Xaurip beschnüffelt deinen Rücksack, bis ihn ein Fund in helle Aufregung versetzt. Er tritt zurück und deutet speichelnd auf deinen Rucksack, während er seinen Speer zu dir ausstreckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Kreatur beschnüffelt dich und findet nichts, was sie interessiert. Sie tritt zurück und nimmt abermals ihre defensive Haltung ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich werde dich in Stücke reißen, Echse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Deine Arme erheben und stillstehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Der Xaurip kneift die Augen zusammen, als er dich anzischt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Der Xaurip schließt zu dir auf, als du dich zurückziehst, und wackelt mit seinem Speer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Der Xaurip springt zurück, behält seinen Speer aber immer noch fest in den Händen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Der Xaurip kaut weiter an einem Knoten aus Knorpeln und Sehnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Der Xaurip beobachtet dich misstrauisch, als du gehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Bank Node 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Dieses Ding sieht ... hungrig aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Vorsicht. Normalerweise sind Xaurips nicht alleine unterwegs."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

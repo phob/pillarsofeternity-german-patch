@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_tuatanu</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Er lächelt dir breit zu, als du dich näherst. "Willkommen. Du bist das erste neue Gesicht, das ich seit geraumer Zeit gesehen habe. Was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Schön, dich wiederzusehen. Was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Schön, dich wiederzusehen. Ich fürchte, wir haben immer noch nur wenige Waren, aber du kannst dir gerne anschauen, was wir haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ah, du bist zurückgekommen. Kann ich dir mit etwas helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Tuatanu lächelt dich breit an. "Es freut mich immer, ein freundliches Gesicht zu sehen. Ich hoffe, das Tal ist nett zu dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Was hast du denn hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Weggehen.] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich fürchte, du kommst in einer seltsamen Zeit zu uns. Das Angebot ist mehr das, was es einmal war. Trotzdem haben wir noch gute Waffen und Rüstungen zu verkaufen. All das haben wir hier im Schwarzen Hammer geschmiedet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Zeig mir, was du zu verkaufen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Was ist passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich hatte andere Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Wir haben großen Nutzen aus den Vorräten gezogen, die du uns gebracht hast. Einige meiner besten Arbeiten. Wenn du mal unsere Spezialabteilung sehen möchtest, brauchst du es nur zu sagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich würde gerne deine Waren sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Weggehen.] "Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Wir haben einfach nicht genügend Vorräte dafür. Auf die nächste Lieferung warten wir jetzt schon eine Woche, und es gibt keinerlei Anzeichen auf ihren Verbleib. Ich muss vermuten, dass sie von Banditen überfallen wurden. Die Straße nach Osten ist voll mit ihnen. Vielleicht sind meine Arbeiter mit dem Wagen auch selbst über alle Berge gegangen, um die Waren zu Geld zu machen." Tuatanu schnaubt verächtlich. "Als ob sich dieser Haufen das trauen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Nach Lager der Dinge gehen die meisten unserer Waffen an Euer Gnaden, Fürst Raedric ... " Tuatanu blickt zu der Wache, die ihm am nächsten steht. " ... Und so soll das auch sein. Für Außenstehende bleibt aber nicht viel Auswahl übrig. "Wir haben einfach nicht genügend Eisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich werde deine Vorräte finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Von wo aus ist der Wagen aufgebrochen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich hatte andere Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Aber sicher. Was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Du erwähntest etwas über einen geringen Vorratsstand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich würde gerne deine Waren sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Natürlich. Besser wirst du nirgendwo finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Natürlich. Du wirst bestimmt etwas finden, was dir gefällt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Die Kiste übergeben.] "Ich habe die Lieferung gefunden, auf die du gewartet hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Weggehen.] "Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Wir haben den Wagen mit Waffen nach Neu-Heomar geschickt. Danach macht er einen Bogen durch Stammheim und andere Orte, um Vorräte einzukaufen. Der kürzeste Rückweg führt durch die Schwarzauen und dann durch die Wildnis im Norden." Tuatanu schüttelt den Kopf. "Hier ist ein Händler durchgekommen, der sagte, sie hätten es bis nach Stammheim geschafft, aber seitdem habe ich nichts mehr gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Tuatanu nickt. "Dann hast du meinen Dank. Wenn du diese Vorräte zurückbringst, dann werde ich dir viel mehr anzubieten haben. Für den Anfang bekommst du gleich einen Rabatt. Oh - und falls du meine Arbeiter finden solltest, so sage ihnen bitte, dass sie sich beeilen sollen, sonst können sie gleich auf dem Feld arbeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Tuatanu streckt die Hände nach der Kiste aus und hebt sie mühelos auf den Tresen. Ein breites Grinsen zieht ihm übers Gesicht. "Na, das hast du tatsächlich! Das sind ja hervorragende Neuigkeiten! Endlich können wir wieder an die Arbeit gehen - und dir zeigen, was Schwarzer Hammer-Qualität bedeutet, nicht diese leichten Schwertchen da."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ist das da dein Geschäft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ist es. Gibt es hier jetzt schon seit fast zwanzig Jahren. Über die Jahre habe ich schon alles Mögliche gesehen. Glückliche Begebenheiten ... und weniger glückliche." Tuatanu wirft der Wache, die an der Mauer Stellung bezogen hat, einen Blick zu. "Aber die Schmiede Schwarzer Hammer gibt es immer noch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Tuatanu denkt nach und kratzt sich am Kiefer. "Wenn du zufällig auch in diese Richtung unterwegs bist, könntest du dann vielleicht auf einen Güterwagen aufpassen? Oder zumindest auf meine Lieferung? Ich erwarte, dass sie die Abkürzung durch die Schwarzauen nehmen, und dafür gibt es nur eine gute Straße."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ich werde sie heil und gesund wieder zurückbringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich würde es trotzdem zu schätzen wissen, wenn du es versuchst. Wenn du mir zumindest die Vorräte zurückbringst, dann werde ich dir viel mehr anzubieten haben. Für den Anfang bekommst du gleich einen Rabatt. Und solltest du meine Arbeiter finden, so gib ihnen für mich einen ordentlich Schlag auf die Birne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Und hier auch noch ein paar Münzen für deine Schwierigkeiten." Sein zufriedener Gesichtsausdruck verdüstert sich. " ... Hast du jemanden beim Wagen gefunden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Der Wagen wurde von Banditen erbeutet. Ich bezweifle, dass deine Leute überlebt haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Vermutlich waren sie nicht der Ansicht, dass es sich lohnt, für Eisen zu sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Tuatanu nickt ernst. "Vielleicht. Das hoffe ich auch inständig. Die armen Kerle." Er seufzt. "Ich werde eh noch mehr Helfer einstellen müssen. Du möchtest dich nicht zufällig in Goldtal niederlassen und es mit Auslieferungen probieren?" Er zwinkert dir zu. "Vielen Dank für deine Unterstützung, Freund. Gib mir ein bisschen Zeit am Schmiedefeuer, dann kannst du dir eine Waffe aus der nächsten Produktion aussuchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Tuatanu schüttelt den Kopf und fährt sich mit einer Hand über seinen kahlen Schädel. "Die armen Kerle. Ich sagte ihnen immerzu, ein paar Wachen anzuwerben, anstatt sich das Geld dafür in die eigenen Taschen zu stecken." Er seufzt. "Ich werde noch mehr Helfer einstellen müssen. Du möchtest dich nicht zufällig in Goldtal niederlassen und es mit Auslieferungen probieren?" Er lächelt schwach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Vielen Dank für deine Unterstützung, Freund. Gib mir ein bisschen Zeit am Schmiedefeuer, dann kannst du dir eine Waffe aus der nächsten Produktion aussuchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Dieser Aumaua ist beeindruckend gebaut und ragt turmhoch über den Tresen. Sein Hautfarbe ist so dunkelblau wie die Tiefsee und seine kräftigen Arme sind voller definierter Muskeln. Sein kantiges Gesicht, das gleichermaßen mit Ruß und ausschweifenden Tätowierungen bedeckt ist, wird von kleinen Ohren eingerahmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Die Kiste übergeben.] "Ich glaube, ich habe deine Lieferung schon gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Hier, ein kleiner Vorgeschmack für dich." Er duckt sich hinter den Tresen und kommt mit einem schweren Holzschild in der Hand wieder hoch. "Großartiges Material stand dafür nicht zur Verfügung, aber es ist immer noch Schwarzer Hammer-Handwerkskunst. Nimm das doch ruhig schon mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Die Kiste übergeben.] "Ich glaube, ich habe deine Lieferung schon gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"So wie es aussieht, wurde ein Großteil unserer Vorräte zu Raedrics Festung geschickt, und ich kann mir nicht vorstellen, dass ich sie so bald zurückbekommen werden ... auch wenn er jetzt nicht mehr da ist. Für Außenstehende bleibt da nicht mehr viel Auswahl übrig. Wir haben einfach nicht mehr genügend Eisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Er grinst und du siehst eine Reihe von Zähnen, die spitz wie Dolche sind. "Willkommen! Es ist gut, mal ein neues Gesicht zu sehen. Suchst du nach einer Rüstung? Oder vielleicht nach einer guten Klinge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Er hat Recht wegen der Banditen. Die entsetzlichen Situationen in Dörfern wie diesem und der Exodus in die Städte haben skrupellosen Zeitgenossen viel zu viele Möglichkeiten eröffnet."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

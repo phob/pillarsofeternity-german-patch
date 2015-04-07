@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\10_od_nua\10_tsk_overseers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Siegel der Endlosen Pfade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde einen Weg, die versiegelte Tür zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Öffne die Tür</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Untersuche das mysteriöse Siegel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Finde einen Verwendungszweck für die drei Siegel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Verstreut in den Endlosen Pfaden von Od Nua befinden sich mysteriöse Siegel, die mit vergessenen Runen und Symbolen graviert sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Auf der sechsten Ebene der Endlosen Pfade habe ich eine große, versiegelte Tür gefunden, die zu schwer ist, um sie aufzubrechen. In der Tür befinden sich drei Mulden, in denen sich einst etwas befunden haben muss, da sie von merkwürdigen Symbolen umgeben sind. Wie auch immer, wenn ich weitergehen will, muss ich einen Weg finden, die Tür zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe drei Siegel mit Gravuren gefunden, die in die drei Mulden der Tür passen, die ich gefunden habe. Wenn ich sie wieder einsetze, wird mir der Weg vielleicht freigegeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Bei der Erkundung der Endlosen Pfade habe ich ein schweres, graviertes Siegel gefunden. Sein Verwendungszweck ist nicht klar, aber die abgenutzten Gravuren scheinen engwithanischen Ursprungs zu sein. Vielleicht kann ich bei meinen weiteren Erkundungen noch mehr Informationen finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe drei Siegel gefunden, die jeweils mit einem anderen Juwel versehen waren: Saphir, Peridot und Blutstein. Die auf die Siegel gravierten Schriftzeichen scheinen Engwithanisch zu sein, was nahelegt, dass diese Siegel vor langer Zeit an diesem Ort einmal einen Zweck erfüllt haben müssen. Mit etwas Glück sind sie nicht nur reine Dekorationsstücke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Es gelang mir, die versiegelte Tür zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

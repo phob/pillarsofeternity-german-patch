@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_coren</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Bei Waels augenlosem Gesicht, bist du ein kurzer Oger. Aber warum bist du grün, und wie schaffst du es, dass die Enten so um dich herumfliegen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ich bin kein Oger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Er streckt vorsichtig die Hand nach dir aus und zieht sie dann zurück. "Hmm, lieber nicht. Enten sind giftig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Was redest du da?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Lass mich raten - du hast zu viel Weißblatt geraucht? Oder bist du irgendwie an Schneekappe gekommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Er klatscht in die Hände und lacht. "Schneekappe. Schneeeeeekappe. So wenige Leute kennen Schneekappe, von Ogern ganz zu schweigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Deine Enten, deine grüne Haut. Soll ich lauter sprechen? Langsamer? Sag Bescheid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Du bist Schreiber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Er nickt. "Ja, ich ... bin SCHREIBER."
+
+"Ich lese Bücher, ich schreibe Bücher, ich habe einmal ein Buch gegessen, weil es ein wenig aussah wie eine Torte. Oder vielleicht war es eine Torte, die aussah wie ein Buch ... interessant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ich suche nach Vianna."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ich mag Vianna! Sie redet immer über Metallmänner, was seltsam ist, weil ich mir ziemlich sicher bin, dass sie keine Schneekappe isst."
+
+Er legt die Stirn in Falten. "Ich rede auch nicht über Metallmänner, und ich esse Schneekappe. Hhm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Egal, jedenfalls ist sie nicht da. Ist nach Ondras Geschenk geflogen, trifft sich da mit ihrer Freundin Bessia. Nein, Clessia. Ja, Clessia. Clessia heißt die Freundin, mit der sie sich trifft. In Ondras Geschenk. In einem Haus, nicht auf einem Boot. Nordhaus. Leeres Haus."
+
+"In Ondras Geschenk gibt es viele Boote. Wir sollten mal zusammen rudern gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Coren schwankt etwas hin und her. "Deine Haut ist immer noch grün, aber du hast deine Enten verloren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Er strahlt dich an und nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Erzähl mir von dem Schlafsaal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Die Schreiber, die in der Halle der aufgedeckten Geheimnisse arbeiten, schlafen da. Ich bin Schreiber."
+
+Er schnüffelt. "Hier riecht es nach alten Socken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Zeig mir, was du zu verkaufen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Oh, oh, oh! Ich bin auch Kräutersammler. Blumen. Pflanzen. Ich verkaufe sie. Meistens esse ich sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

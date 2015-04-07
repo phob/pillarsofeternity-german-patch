@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_clyver_rimgund</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>101</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Kommandant Clyver steht vor einem massiven Tisch und studiert eine Karte. Er runzelt die Stirn mit grimmigem Gesichtsausdruck. "Flüchtlinge aus allen Ecken des Dyrwalds. Die Dutzenden sorgen mit ihrer Beseelung für viel Aufruhr. Bei diesem Tempo werden wir doppelt so viele Soldaten in Trutzbucht auf Patrouille schicken müssen."
+
+Er öffnet den Mund, um einem seiner Männer etwas zu sagen, folgt jedoch dem Blick des Soldaten über seine Schulter zu dir. "Ja? Kann ich dir irgendwie helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Gibt es sonst noch etwas, das ich für dich tun kann?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hast du diese Vailianerin schon gefunden? Dunstan braucht ihre Forschungsunterlagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Was stehst du hier so rum? Dunstan wartet auf diese Forschungsunterlagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Dunstan wird den ersten Trupp Schmiederitter im Handumdrehen zusammenstellen. Nun wird der Hochrichter seine Schmiedemeister auf Burg Flottenbrecher damit beauftragen, mehr zu produzieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Kommandantin Aranroed soll in Kürze Anslogs Kompass erreichen. Je früher sie mit diesen Forschungsunterlagen zur Burg Flottenbrecher zurückkehren kann, desto besser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Kommandant Clyver wischt sich eine Blutspur von der Stirn. "In einem Augenblick bildeten meine Justiziare die Schmiederitter aus und im nächsten wurden sie in Stücke geschnitten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Warum hast du nicht genügend Soldaten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Du hast das Kommando über die Schmelztiegelritter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Eine Sekunde lang scheint es, als würde er nichts sagen. Er gibt seine Entschlossenheit jedoch mit einem Seufzen auf. 
+
+"Burg Flottenbrecher. Der Hochrichter hat fast die Hälfte meiner Novizen und noch mehr meiner Justiziare zu einer Burg auf der anderen Seite von Neu-Heomar bestellt." In seinen Augen flackert Frust auf. "Es ist nicht meine Aufgabe, die Befehle des Hohen Gerichts in Frage zu stellen. Doch aus diesem Grund mangelt es uns an Personal. Und wir sind nur ein paar Funken entfernt von der Anarchie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich habe Viannas Notizen erhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Erzähl mir über die Ritter des Schmelztiegels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Er verschränkt die Arme hinter dem Rücken. "Wir sind die einzige Berufsarmee in Trutzbucht, oder im Dyrwald, die sich darum kümmert. Wir verteidigten die Stadt zur Zeit von Hadret. Seitdem haben wir unsere Ausbildung verbessert, doch die Dunrydstraße kann bestätigen, dass viele unserer Offiziere aus guter Dyrwalder Kampfschule stammen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Wie kann ich dir helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Er nickt. "Gut gemacht. Bring sie sofort zu Dunstan. Wenn du fertig bist, habe ich vielleicht noch mehr Arbeit für dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich habe eine Kopie von Viannas Forschungsunterlagen gemacht, und der Hochrichter hat einen Kurier zu Anslögs Kompass gesendet, um sie entgegenzunehmen. Die Aktivitäten der Dutzenden haben so stark zugenommen, dass der Kurier Trutzbucht nicht erreichen konnte. Und nachdem Vianna entführt wurde, müssen wir davon ausgehen, dass sie über unsere Pläne Bescheid wissen."
+
+Er zeigt mit dem Finger eines polierten Panzerhandschuhs auf dich. "Aus diesem Grund schicke ich dich, um die Forschungsunterlagen abzuliefern. Du solltest den Dutzenden nicht bekannt sein. Noch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Anslögs Kompass ist eine kleine Lagune nördlich von Trutzbucht. Dein Ansprechpartner ist eine Kommandantin namens Aranroed – sie wird sich bei den Docks mit dir treffen.
+
+Komm zurück, wenn du fertig bist. Der Hochrichter hat die Erweiterung der Schmiederitter zur höchsten Priorität erklärt, was bedeutet, dass es auch meine ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Betrachte es als erledigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ich muss darüber nachdenken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Er krault sich seinen ergrauten Bart. "Ich werde umgehend Meldung an Burg Flottenbrecher machen lassen. Wir haben die Schmiederitter eindeutig nicht so gut verstanden, wie wir dachten. Fürs Erste müssen wir weiterhin auf die alte Weise rekrutieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ich brauche eine Audienz bei Duc Aevar. Ich will bei den Anhörungen dabei sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Er zieht eine Augenbraue hoch. "Wenn du einen Gefallen willst, dann solltest du dich lieber darauf vorbereiten, deine Schulden zu bezahlen. Und seit Kurzem habe ich persönliche Probleme ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Und wir werden dich gerne dabei haben. Aevar wird deine Anwesenheit gewiss überzeugend finden. Und wir brauchen jede erdenkliche Unterstützung, damit er der Beseelung eine Chance gibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Clyver schaut wieder auf seine Karte. "Ich weiß deine Hilfe bei der Beschaffung der Forschungsunterlagen über die Schmiederitter zu schätzen, doch ich brauche noch immer die Pläne, die dem Kurier des Hochrichters übergeben wurden. Ich befürchte, dass ich mich auf nichts anderes einlassen kann, solange wir uns nicht darum gekümmert haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Schmiedemeister Dunstan arbeitet mit einer Beseelungsgelehrten zusammen, um etwas zu bauen, das wir als Schmiederitter bezeichnen – Krieger, die durch unsere Straßen patrouillieren können, ohne unter Müdigkeit, Ungehorsam oder Angst zu leiden. Einige Provokateure bewerfen sie mit Steinen, wir müssen uns aber keine Sorgen machen, dass es uns entgleitet."
+
+"Er hat die Rüstung gebaut, wir brauchen jedoch die Forschungsunterlagen der Gelehrten. Leider war sie die letzten Male nicht anwesend, als meine Novizen nachsahen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Hier in Trutzbucht. Der Hochrichter stellt die Führung unseres Ordens dar. Er befindet sich derzeit jedoch auf Burg Flottenbrecher.
+
+Meine Aufgabe besteht darin, unsere Streitkräfte in Trutzbucht zu beaufsichtigen und die Ordnung für den Duc aufrechtzuerhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Was diese Einladung zur Anhörung der Beseelung angeht ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Hast du Viannas Forschungsunterlagen für Dunstan gefunden? Wir können Gefallen besprechen, sobald du dich als würdig erwiesen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ich würde dir ja gerne helfen, ich kann aber nicht, bevor ich mich nicht um die Anweisung des Hochrichters gekümmert habe. Befehle sind Befehle, das gilt auch für mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Gib ihm das Herz der Weißmark] "Ich habe ein Juwel, nach dem du gesucht hast ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Er schnappt nach Luft, während er auf das glühende Juwel in seiner Hand blickt. Er schließt seinen Panzerhandschuh darum, wobei das sanfte Licht noch immer zwischen seinen Fingern hindurch schimmert. "In der Tat sehr gute Arbeit. Ich weiß nicht, wie dir das gelungen ist, das bleibt aber unter uns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Er schaut auf das Juwel in deiner Hand und spottet. "Eine Kopie. Und eine schlechte noch dazu."
+
+Er dreht sich weg. "Du findest den Weg nach draußen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Ich weiß, dass du auf der Suche nach dem Herzen der Weißmark bist. Interesse, es mir abzukaufen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Kannst du bei so vielen Neuankömmlingen nicht einfach weitere Soldaten anwerben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Weitere Rekruten bedeuten gleichzeitig mehr Ausbildung, was mehr Zeit von meinen erfahrenen Soldaten erfordert, die ich nicht habe."
+
+Er dreht sich halb weg. "Egal, ich kann mir nicht vorstellen, wieso dich das interessieren sollte. Doch wenn du die Zeit hast, mich darüber auszufragen, dann hast du vielleicht auch die Zeit, etwas Konstruktives zu tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Hör auf, so dramatisch zu sein. Du hast dir diese Karriere ja ausgesucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Ein finsterer Blick verdunkelt sein Gesicht. "Es ist mehr als nur eine Karriere, und ich habe es keine Sekunde lang bereut. Meine Berufung ist es, diese Stadt und jeden darin zu verteidigen. Selbst so undankbare arrogante Fatzken wie du."
+
+Er kommt einen Schritt auf dich zu, während seine Offiziere das Ganze weiterhin still verfolgen. "Und wenn du dich den ganzen Weg hierher geschleppt hast, nur um dann heiße Luft zu produzieren, dann hast du auch die Zeit, um etwas Konstruktives zu tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Kann ich irgendwie helfen? Ich weiß mit mir umzugehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Was ist denn los? Kannst du denn nicht einen Haufen verzweifelter, obdachloser und halb verhungerter Zivilisten in Schach halten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Das ist schade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Und ich nehme an, du weißt auch, wie man eine ganze Stadt verteidigt? Wie du deine Streitkräfte mit halber Mannstärke auf Patrouille schickst? Wie du aufgebrachte Massen im Zaum hältst, ohne sie zur Gewalt anzustacheln?"
+
+Er kommt einen Schritt auf dich zu, während seine Offiziere das Ganze weiterhin still verfolgen. "Wenn du dich den ganzen Weg hierher geschleppt hast, nur um dann heiße Luft zu produzieren, dann hast du auch die Zeit, um etwas Konstruktives zu tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Das ist es. Und wenn du nichts Besseres zu tun hast, als das Offensichtliche zu benennen, dann kannst du mir auch aushelfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Er schenkt dir ein schmales Lächeln. "Immer wieder erfrischend, jemanden kennenzulernen, der ein Problem eher behebt, als sich darüber zu beschweren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Vianna lebt mit dem Rest der Schreiber draußen in Kupferweg. Ich kann derzeit jedoch keine Soldaten entbehren. Begib dich zum Schreiber-Schlafsaal und versuche, sie zu finden. Wenn du die Forschungsunterlagen findest, bring sie einfach zu Dunstan. Das ist ja sowieso sein Fachgebiet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ich weiß Vorsicht zu schätzen, vergiss aber nicht, wo in Trutzbucht die wahre Macht liegt. Wir tun immerhin die Arbeit des Duc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Wir können reden, sobald all diese verdammten Schmiederitter in der Burg erledigt wurden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Das könnte zum Besten sein. Die Schmiederitter sind offensichtlich zu unberechenbar, um sicher eingesetzt zu werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Das heißt, dass umsonst Leben geopfert wurden? Studiere die Schmiederitter weiter – ich bin mir sicher, dass du eine Möglichkeit finden wirst, sie unter Kontrolle zu bringen. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Er nickt. "Ich bin froh, dass du meiner Einschätzung der Lage zustimmst. Und, wenn ich auf Dunstan gehört hätte, wäre all das überhaupt nicht passiert. Diesen Fehler werde ich nicht noch einmal machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Er starrt dich einen Moment lang an und lächelt dann leicht. "Es ist selten, dass mich jemand dazu bringt, meine Meinung zu ändern. Also gut. Wir werden die Forschungen vorantreiben, wobei wir immer nur einen Schmiederitter gleichzeitig aktivieren - und ihn schwer bewachen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Mir wurde jedoch berichtet, du seist ein enger Verbündeter des Hauses Doemenel. So sehr ich deine Hilfe auch zu schätzen weiß, wir können nicht mit Kriminellen zusammenarbeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Mir wurde jedoch berichtet, du seist ein enger Verbündeter der Dutzenden." Er schaut finster drein. "Ich bin mir sicher, du verstehst, dass eine weitere Zusammenarbeit uns in eine prekäre Lage bringen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Wir haben einfach nicht die Mannstärke hierfür."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Gibt es sonst noch etwas, das ich für dich erledigen soll?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ich habe mich entschieden, dir bei deiner Sache zu helfen. Was soll ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Er lächelt freundlich. "Was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Sind das die Forschungsunterlagen, nach denen du gesucht hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Clyver studiert die Notizen und nickt langsam. "Das sieht gut aus. Bring sie gleich zu Dunstan – er wartet an der Schmiede. Komm zurück, wenn du fertig bist. Ich habe vielleicht noch mehr Arbeit für dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Sobald du ihm die Forschungsunterlagen gebracht hast, kann er dir jegliche Waffen oder Rüstungen verkaufen, wenn du Bedarf hast. Er schmiedet und repariert all unsere Ausrüstungen – du wirst keinen fähigeren Schmied in Trutzbucht finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Sobald du ihm die Forschungsunterlagen gebracht hast, kann er dir jegliche Waffen oder Rüstungen verkaufen, wenn du Bedarf hast. Er schmiedet und repariert all unsere Ausrüstungen – du wirst keinen fähigeren Schmied in Trutzbucht finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Ich gehe aber davon aus, dass sie danach von deiner Zusammenarbeit mit uns erfahren werden. Und sie werden nicht wirklich erfreut darüber sein. Genauso wenig wie die Doemenels." Er schnaubt. "Sie versuchen, das Familienunternehmen zu erweitern, und schicken uns erneut, um im Weg zu stehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Wir sind nun dafür verantwortlich, durch die Stadt zu patrouillieren und für Frieden zu sorgen. Bei so vielen Flüchtlingen, die vom Land in die Stadt strömen, ist das wichtiger denn je. Leider haben wir uns damit Feinde gemacht, vor allem unter den Dutzenden und einigen der  ... eher unternehmerischen Familien in Trutzbucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Was haben die Dutzenden denn gegen euch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Erzähl mir von diesen 'unternehmerischen Familien'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ich verstehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Er schnaubt. "Das sind Demagogen und Unruhestifter. Sie vergessen, dass Trutzbucht eine der größten Städte der Welt ist, und nicht irgendein Außenposten an der Grenze.
+
+Die meisten von ihnen sind Söldner an guten Tagen, und den Rest der Zeit Straßenschläger. Ich muss nicht erwähnen, dass sie keinen Nerv für Gesetz und Ordnung haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Insbesondere das Haus Doemenel. Sie sind eine der ältesten und edelsten Familien der Stadt und ihre größte kriminelle Organisation.
+
+Ihr Patriarch, Gedmar, versuchte, einen Vorteil aus dem Aufruhr zu ziehen, um seine Geschäfte anzukurbeln. Wir hatten ihn unter Kontrolle, worüber er nicht wirklich erfreut war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Die Überlebenden schulden ihr Leben jedoch deinem Können."
+
+Er dreht sich zu dir, sein Blick von Respekt erfüllt. "Du hast tapfer gekämpft. Eines jeden erfahrenen Soldaten würdig. Ich ernenne dich daher zum Justiziar ehrenhalber. Als Belohnung für deine Dienste, akzeptiere bitte diese Klinge und diese Rüstung, die eines Ritters des Schmelztiegels würdig sind. Wenn es noch etwas gibt, das ich für dich tun kann, dann musst du nur fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Die Beseelung wird in den meisten Gebieten der Republik toleriert, aber einige Vailianer betreiben ihre Forschungen lieber in der wissenschaftlichen Gemeinschaft von Trutzbucht. Ich hoffe, sie wurde nicht aus der Stadt verjagt - oder noch schlimmer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Der Hochrichter? Das scheint eine große Sache zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Die Dutzenden erkennen kaum etwas - nur das, wovon sie sich bedroht fühlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Die Stadt vor der Aufwiegelung der Dutzenden zu beschützen scheint ein würdiges Ziel zu sein. Zweifellos zu wichtig, um es einem einfachen Kurier zu übertragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Willst du dich wirklich in diese Intrigen verstricken lassen? Wenn wir ja sagen, könnten wir gewiss einen Blick in die Forschungsunterlagen werfen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"'Noch'. Ein verräterisches Wort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Wenn der Hochrichter beteiligt ist, stecken wir wirklich mittendrin. Willst du hier vielleicht eine politische Karriere beginnen, [Player Name]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Unsere Stadt fällt um uns herum zusammen und diese verdammten Narren von den Dutzenden greifen uns in den Straßen an. Ich würde gerne jeden einzelnen von ihnen hängen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Ich gehe aber davon aus, dass sie danach von deiner Zusammenarbeit mit uns erfahren werden. Und sie werden nicht sonderlich erfreut darüber sein. Genauso wenig wie die Doemenels." Er schnaubt. "Sie versuchen, das Familienunternehmen zu erweitern, und nehmen es uns übel, dass wir ihnen dabei im Weg stehen."
+
+"Ich brauche jemanden, dem ich vertrauen kann - und du hast deine Integrität sowohl in meinen Diensten als auch in Trutzbucht unter Beweis gestellt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Ich gehe aber davon aus, dass sie danach von deiner Zusammenarbeit mit uns erfahren werden. Und sie werden nicht sonderlich erfreut darüber sein. Genauso wenig wie die Doemenels." Er schnaubt. "Sie versuchen, das Familienunternehmen zu erweitern, und nehmen es uns übel, dass wir ihnen dabei im Weg stehen."
+
+"Ich brauche jemanden, der die Angelegenheit regeln kann, ohne unnötige Aufmerksamkeit zu wecken. Du hast deine Diskretion sowohl in meinen Diensten als auch in Trutzbucht unter Beweis gestellt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ich gehe aber davon aus, dass sie danach von deiner Zusammenarbeit mit uns erfahren werden. Und sie werden nicht sonderlich erfreut darüber sein. Genauso wenig wie die Doemenels." Er schnaubt. "Sie versuchen, das Familienunternehmen zu erweitern, und nehmen es uns übel, dass wir ihnen dabei im Weg stehen."
+
+"Ich brauche jemanden, der auch mit unvorgesehenen Ereignissen fertig wird. Du hast sowohl in meinen Diensten als auch in Trutzbucht unter Beweis gestellt, dass du jeder Unwägbarkeit gewachsen bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Ich gehe aber davon aus, dass sie danach von deiner Zusammenarbeit mit uns erfahren werden. Und sie werden nicht sonderlich erfreut darüber sein. Genauso wenig wie die Doemenels." Er schnaubt. "Sie versuchen, das Familienunternehmen zu erweitern, und nehmen es uns übel, dass wir ihnen dabei im Weg stehen."
+
+"Ich brauche jemanden, der schnell reagieren kann, wenn die Lage es erfordert. Du hast eine scharfe Zunge, aber einen noch schärferen Verstand, [PlayerName]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Er starrt dich einen Moment lang an und lächelt dann leicht. "Es ist selten, dass mich jemand dazu bringt, meine Meinung zu ändern. Aber ich vertraue dir und deinen unerschütterlichen Prinzipien. Also gut. Wir werden die Forschungen vorantreiben, wobei wir immer nur einen Schmiederitter gleichzeitig aktivieren - und ihn schwer bewachen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Er nickt. "Ich weiß, wie unerschütterlich du zu deinen Prinzipien stehst - und ich bin froh, dass du meiner Einschätzung der Lage zustimmst. Und wenn ich auf Dunstan gehört hätte, wäre all das überhaupt nicht passiert. Diesen Fehler werde ich nicht noch einmal machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Ich habe vernommen, dass die Schmelztiegelritter den Beseelungsanhörungen im Palast beiwohnen werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"In der Tat." Er verschränkt die Hände hinter dem Rücken. "Duc Aevar verlässt sich auf die Ritter, als kluge Berater und zur Verteidigung. Die Zukunft unserer Stadt und unserer Nation wird zu großen Teilen davon abhängen, wie wir mit dieser Angelegenheit umgehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Was hältst du von der Beseelung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Wir wären Narren, sie nicht weiter zu erforschen. Ich habe gesehen, zu was die Forscher in Farnheim fähig sind - sie bauen Konstrukte, sie diagnostizieren Seelenkrankheiten, sie machen sich rohe Essenz zum Werkzeug. Das Potenzial ist gewaltig."
+
+"Die Kritiker sagen, es sei zu gefährlich, es würde die Götter erzürnen. Aberglaube und Unsinn. Natürlich ist es riskant, in die Seele einzutauchen, aber das viel größere Risiko liegt darin, nichts zu tun, während das Vermächtnis uns langsam auffrisst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Trotz der Vorfälle mit den Schmelztiegelrittern muss die Beseelung in anderen Bereichen weiter erforscht werden. Die Beseeler können noch viel tun, um Seelenkrankheiten zu heilen, Essenz zu stärken, vielleicht sogar die Effekte des Vermächtnisses zu lindern."
+
+Er kratzt sich am Kinn. "Wir wissen es erst, wenn wir es versuchen. Und wir können nicht untätig herumsitzen, während unsere Rivalen zusehen, wie wir schwach werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Berichte mir von den Anhörungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Er runzelt griesgrämig die Stirn. "Sie schreiten langsamer voran als gehofft. Die Dutzenden veranstalten einen Aufstand, sobald jemand auch nur das Wort Beseelung erwähnt. Und die Doemenels verschleiern alles absichtlich. Dennoch bin ich zuversichtlich, dass Aevar irgendwann zur Vernunft kommt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Sprechen wir über etwas Anderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"In der Tat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[Lügen] "In der Tat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ich sorge dafür, dass er Vernunft annimmt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Und wir werden dich gerne dabei haben. Selbst bei deinem ... bunten Ruf wird Aevar deine Anwesenheit gewiss überzeugend finden. Und wir brauchen jede erdenkliche Unterstützung, damit er der Beseelung eine Chance gibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Ich wusste, dass sie nichts als Ärger machen, aber dass die Dutzenden es wagen würden ... " Er schüttelt den Kopf. "Sie werden den Tod des Marschalls zehnfach bezahlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Verdammt soll er sein, dieser Gedmar Doemenel mit seinem törichten Ehrgeiz." Er schüttelt den Kopf. "Ich wusste, dass er ehrgeizig ist, aber ich hätte mir nie träumen lassen, dass er einen Marschall in seiner eigenen Feste ermorden würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Als ein Gast der Ritter? Angesichts deiner Verbindungen zu gewissen ... verbrecherischen Elementen in Farnheim steht das leider völliger außer Frage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Als ein Gast der Ritter? Angesichts deiner Verbindungen zu diesen Unruhestiftern in der Expeditionshalle steht das leider völliger außer Frage."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_stronghold\06_tsk_boss_outlaw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld: Gerissener Cyrdel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte den Gerissenen Cyrdel und nimm seinen Kopf an dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bringe den Kopf des Gerissenen Cyrdel zu Oberwärter Fyrgen in Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Der berüchtigte Gesetzlose, der 'Gerissener Cyrdel' genannt wird, soll für seine Verbrechen sterben. Er wurde mit seinen Komplizen bei Magrans Gabelung gesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Der Gerissene Cyrdel und seine Bande von Gesetzlosen sind aus dem Gefängnis geflohen und wurden zuletzt bei Magrans Gabelung gesehen. Wenn ich seinen Kopf als Beweis bringen kann, dass der Mann tot ist, erhalte ich eine Belohnung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Der Gerissene Cyrdel wird keine unschuldigen Bürger mehr belästigen. Ich muss nur noch seinen Kopf zu Oberwärter Fyrgen bringen, dann erhalte ich meine Belohnung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe das Kopfgeld für den Gerissenen Cyrdel eingefordert.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

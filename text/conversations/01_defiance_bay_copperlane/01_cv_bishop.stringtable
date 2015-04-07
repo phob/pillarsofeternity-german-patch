@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_bishop</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Mann hinter dem Tresen ist beinahe so groß wie ein Aumaua. Ein Griff ragt hinter seinem Rücken hervor und sein Gesicht ist ein permanentes, stoisches Stirnrunzeln. Er nickt dir leicht zu. "Kommst du zum Trinken?"
+
+Vor ihm steht ein winziger Zinnkelch. Er dreht ihn in einer Hand, trinkt aber nicht daraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Erzähl mir etwas über dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Recht viel los hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich heiße Bishop. War früher Gelehrter Beraths. Jetzt bin ich Wirt im Fuchs und Gans und sorge dafür, dass niemand Ärger macht." Er bewegt sich ein wenig und du siehst einen Kriegshammer, den er am Rücken trägt.
+
+"Was gibt es sonst noch zu sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Wie bist du vom Geistlichen zum Wirt geworden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Hast du ein Zimmer für mich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich zeige dir, was ich habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich will einen Abenteurer anheuern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Davon gibt es hier jede Menge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ich bestelle ein paar Erfrischungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Willkommen im Fuchs und Gans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Willst du etwas trinken?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Das Gasthaus wurde in der Frühzeit der Unabhängigkeit des Dyrwalds gegründet, von einem reisenden Gelehrten namens Erol von Levi. Er wollte einen Ort schaffen, an dem Gestandene jeder Herkunft sich versammeln und über die Belange ihres neuen Landes sprechen konnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Er legt seine Ellbogen auf das polierte Holz des Tresens. "Es dauerte nicht lange und es war hier gerammelt voll. Adlige aus Farnheim diskutierten mit Dockarbeitern aus dem Geschenk, während Soldaten mit Politikern zankten. Die Dyrwäldler sind nicht dafür bekannt, Konflikten aus dem Weg zu gehen." Er trinkt aus dem winzigen Kelch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Bald kamen auch Gestandene von den Höfen und aus den Siedlungen." Er deutet auf die Tür, als würde er damit rechnen, dass eine große Menschenmenge hineingetorkelt kommt. "Das Gasthaus wurde unter vailianischen Matrosen noch beliebter als der Salzige Mast. Und das war das Problem."
+
+Er leert seinen Kelch. "Was die Leute auch über Toleranz und Streitkultur sagen, irgendwann kommt jeder an seine Grenzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Erol fand sich plötzlich auf der falschen Seite eines Streits mit dem falschen Thayn wieder. Und als er einige Tage später spurlos verschwand, sagten manche, eben dieser Thayn sei daran schuld."
+
+Er zuckt die Schultern und legt die Hände breit über den Tresen, während er den Raum überblickt. "Aber Erol wusste, aus welcher Richtung der Wind geweht kam. Wenn du mich fragst, ist er aus der Stadt verschwunden. Hat sich irgendwo versteckt und gehofft, dass vernünftigere Köpfe sich in Trutzbucht durchsetzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Er grinst schief. "Wenn er es jetzt nur sehen könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Was ist dann passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ich kann mir vorstellen, dass es interessant wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Dann reden wir über etwas Anderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Die Reise ist nicht so lang, wie man denkt. Es fing mit den Hohlgeburten an. Und damit." Er holt eine schwarze Flasche von unter dem Tresen hervor und füllt den Zinnkelch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Es war der Sohn meiner Schwester." Er nimmt einen Schluck. "Ganz am Anfang von Waidwens Vermächtnis. Er war einer der ersten." 
+
+"Ich hätte nie gedacht, dass nach ihm noch so viele kommen würden. Tragödien sind Teil des Kreislaufes, doch auf sie folgt die Wiedergeburt. Und doch trauerten jedes Jahr mehr Eltern um ihre hohlgeborenen Kinder. Und die Götter blieben stumm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Er lehnt sich nach vorne, die Arme auf dem Tresen verschränkt. "Berath verspricht die Wiedergeburt. Kreisläufe. Aber der einzige Kreislauf, den ich finden konnte, war dieser hier." Er klopft auf den Tresen. "Trinken. Noch mehr trinken. Und noch mehr. Bis ich nicht mehr wusste, wie ich überhaupt nach Hause gekommen bin. Aufwachen. Wiederkommen."
+
+"Schließlich wachte ich eines Tages auf und meine Familie hatte die Sachen gepackt und war fort. Vielleicht waren sie schon seit Tagen weg und ich hatte es nicht gemerkt. Aber sie waren weg. Also kam ich her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Seitdem habe ich mich gebessert. Nicht, dass ich meine Antworten gefunden hätte." Er leert den Kelch. "Ich habe nur aufgehört, Fragen zu stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Du hast also deinen Glauben verloren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Das ist hart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Welche Antwort hattest du denn erwartet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Er nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ich höre mir die Geschichte ein andermal an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Weißt du irgendwas über einen Dolch aus Markstahl?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Er hebt seine Augenbrauen. "Sowas habe ich über meinen Tresen noch nicht gesehen, soviel ist sicher." Er pocht auf das glatte Tresenholz.
+
+"Aber ich würde hier nicht gegen jemand wetten, der eine solche Klinge mit sich führt. Schau mal im oberen Stockwerk nach - vor nicht allzu langer Zeit sah ich eine schwerbewaffnete Gruppe in diese Richtung gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

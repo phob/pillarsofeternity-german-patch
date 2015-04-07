@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_kendal_soul</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Eine protzige Halskette liegt auf dem Boden. Der Verschluss ist kaputt und die Edelsteine zerschmettert. Sie sieht wertlos aus, selbst wenn sie nicht beschädigt wäre, aber sie ist voller Essenz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Die Halskette berühren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Sie in Ruhe lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Seele reagiert auf deine Nähe. Sie zieht dich in eine Erinnerung hinein, die sie noch nicht vollständig versteht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du öffnest die Augen. Elcga liegt neben dir - reglos, von tiefen, gleichmäßigen Atemzügen abgesehen. Du schlägst ihre seidene Bettwäsche zurück, schnappst dir deine Kleider und gehst auf Zehenspitzen nach unten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Auf den Straßen von Farnheim werfen die Adligen dir abfällige Blicke zu. Für sie bist du kaum besser als die Huren im Salzigen Mast. Aber eines Tages wird jemand deinen wahren Wert erkennen.
+
+Jemand anderes als Elcga. Sie ist unterhaltsam und großzügig, gewiss, aber sie ist nur ein Sprungbrett für dich. Bald wirst du nicht mehr auf ihre Almosen angewiesen sein.
+
+Dass du es geschafft hast, sie über so viele Monate hinweg zu täuschen beweist nur, dass du perfekt für diese neue Sache geeignet bist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Schauspielerin mit den silbrigen Augen hat dich eingeladen. Sie versucht, dich auf deine große Rolle vorzubereiten, aber du hörst nur mit einem halben Ohr zu. Stattdessen betrachtest du deine Umgebung. 
+
+Nicht so extravagant, wie du gedacht hättest, aber du bist sowieso nur auf der Durchreise. Bald wirst du reichen Mäzenen begegnen, deren Geld vielleicht sogar noch lockerer sitzt als Elcgas, und dann geht es erst richtig los. Das hier ist nur der Anfang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Schauspielerin hört auf zu quatschen und öffnet eine Falltür im Boden. Der Raum darunter ist so kalt und dunkel wie ein Grab. Trotz der Schreie in deinem Kopf bewegen sich deine Beine weiter vorwärts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Seele zieht sich von dir zurück, vor Schrecken zitternd. Was auch als nächstes geschieht, sie weigert sich, diesen Augenblick noch einmal zu durchleben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Seele zieht sich von dir zurück, vor Schrecken zitternd. Was auch als nächstes geschieht, sie weigert sich, diesen Augenblick noch einmal zu durchleben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Was auch mit dir geschehen ist, es ist jetzt vorbei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Du hast andere Leute wie entbehrliche Dinge behandelt, und sie dich auch. Mir erscheint das nur gerecht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ich höre dich nicht. Wie bitte? Ach, richtig, du bist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Nervöse, panische Energie vergiftet die Atmosphäre. Was auch passiert ist, die Seele scheint in diesem Augenblick gefangen zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Irgendwann musst du dich dem stellen, was mit dir geschehen ist. Sonst wirst du ewig hier festhängen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Deine Worte hallen nach, doch die Seele ist zu sehr auf ihre eigene Qual fixiert, um ihnen Beachtung zu schenken.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

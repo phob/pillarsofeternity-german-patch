@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_danna</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Danna schlendert in Begleitung eines Trupps Doemenel-Fußsoldaten durch die Tür. Ihr behandschuhte Hand lässt sich auf dem Heft ihre Waffe liegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Als sie dich ansieht, hat sie ein spöttisches Lächeln auf dem Gesicht. "Anscheinend tat ich falsch daran, dein Versagen zu übersehen, aber keine Sorge: Diesen Fehler werde ich kein zweites Mal begehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Sie nickt dir anerkennend zu. "Aha, wir hatten wohl einen Sinneswandel? Glaub mir, es macht viel Spaß, auf der Seite der Sieger zu kämpfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Danna lehnt sich gegen den Türpfosten. "Sieht so aus, als wären wir gerade noch rechtzeitig gekommen. Bitte, lasst euch von mir nicht stören." Ihre schlanken Finger zucken gegen ihr Heft. "Ich würde sowieso gerne vermeiden, meinen neuen Handschuhe schmutzig zu machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Na, bekommen wir kalte Füße?" Sie zieht ihre Klinge. 
+
+"Wenn es so sein soll, dann kannst du gerne zusammen mit Verzano zugrunde gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Hoffentlich hast du das, was er dir schuldete, aus ihm herausbekommen ... denn von diesem Narren wird schon bald nicht mehr viel übrig sein."
+
+Als du das Lagerhaus verlässt, hörst du Verzano aufschreien, was aber schnell unterbunden wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Als sie dich ansieht, hat sie ein spöttisches Lächeln auf dem Gesicht. "Anscheinend tat ich falsch daran, dein Versagen zu übersehen, aber keine Sorge: Diesen Fehler werde ich kein zweites Mal begehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Sie nickt dir anerkennend zu. "Aha, wir hatten wohl einen Sinneswandel? Lasst euch von mir nicht stören."
+
+Sie schaut Verzano an und zieht sich einen Finger über die Kehle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Hoffentlich hast du das, was er dir schuldete, aus ihm herausbekommen ... denn von diesem Narren wird schon bald nicht mehr viel übrig sein."
+
+Danna zieht ihre Klinge, während ihre Leibwächter gegen Verzanos Soldaten antreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Gut gemacht. Freunde wie dich kann das Haus Doemenel immer gebrauchen, musst du wissen. Sprich doch nächstes Mal mit meinem Bruder Abrecan, wenn du in Farnheim bist. Er wird sicherlich ein paar Aufträge für dich haben."
+
+Sie pfeift ihren Leibwächtern zu, die ihre aus dem Lagerhaus folgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Nimm dir das mit Verzano nicht zu Herzen. Er ist selbst daran schuld."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

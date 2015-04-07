@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_pallegina</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Das Kind der Fünf Sonnen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sprich mit Agosti in der vailianischen Botschaft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Hilf Pallegina, ein Handelsabkommen mit der Anamenfath in Zwillingsulmen auszuhandeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Warne Agosti in der vailianischen Botschaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Hilf Pallegina, das Handelsabkommen mit der Anamenfath in Zwillingsulmen auszuhandeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Pallegina glaubt, dass die vailianischen Republiken im Dyrwald Entscheidungen treffen, die unmittelbare Profite versprechen, langfristig aber drastische Konsequenzen für die Republiken haben werden. Sie hätte gerne deine Hilfe dabei, den vailianischen Repräsentanten, Botschafter Agosti, zu überzeugen, dass sich die Republiken auf dem falschen Weg befinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Pallegina möchte in der vailianischen Botschaft in Urfeuer mit Botschafter Agosti sprechen. Sie hofft, ihn überzeugen zu können, dass die vailianischen Republiken im Dyrwald kurzsichtige Pläne verfolgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Trotz größter Anstrengungen bestand Botschafter Agosti darauf, dass Pallegina ihre Befehle zur Aushandlung eines Handelsabkommen zwischen den vailianischen Republiken und den Glanfathanern mit der Anamenfath in Zwillingsulmen befolgt. Solch ein Abkommen würde dem Dyrwald den Handel stehlen, was wiederum zu Spannungen zwischen dem Dyrwald und den Republiken führen würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich muss zur vailianischen Botschaft in Zwillingsulmen gehen, und ihn davor warnen, dass sich der Bleierne Schlüssel für Palleginas Untersuchung interessiert. Als ihr Vorgesetzter könnte auch er zum Ziel werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Trotz des Aufeinandertreffens mit dem Bleiernen Schlüssel hat Palleginas Befehl, mit der Anamenfath in Zwillingsulmen ein Handelsabkommen auszuhandeln, weiterhin Bestand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Leider hat Botschafter Agosti das Aufeinandertreffen mit dem Bleiernen Schlüssel nicht überlebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Pallegina befolgte ihre Befehle der Ducs der Vailianischen Republiken und handelte das Handelsabkommen aus, auf das sie bestanden. Dem Dyrwald den Handel mit den Glanfathanern zu stehlen wird aber zu größeren Spannungen zwischen dem Dyrwald und den Republiken führen - möglicherweise sogar zum Krieg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Pallegina änderte die Bedingungen des Handelsabkommens, dass ihr die Ducs der Vailianischen Republiken gegeben hatten, und hinderte die Republiken daran, den Handeln mit den Glanfathanern zu stehlen. Damit bewahrte sie die Beziehungen zwischen dem Dyrwald und den Republiken, aber wenn die Republiken letztendlich überhaupt nicht von diesem Abkommen profitieren, wird sie ihre Position in ihrem Orden einbüßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Pallegina ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

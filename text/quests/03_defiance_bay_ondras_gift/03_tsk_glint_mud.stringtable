@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_defiance_bay_ondras_gift\03_tsk_glint_mud</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Geheime Fracht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Finde die fehlenden Stücke des engwithanischen Zepters in Ondras Gift.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Bringe die Zepterstücke ins Sanatorium von Farnheim zu Nans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Kehre mit den Zepterstücken zu Nans zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Finde die Beseelerin, die engwithanische Artefakte von Imatl gekauft hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>In Ondras Gift habe ich den alten Deckarbeiter Imatl getroffen. Er gehörte zu einer Flussschiffbesatzung, die mehrere Frachtkisten und einige Kisten mit engwithanischen Artefakten beförderte. Da die Besatzung von mehreren Rüstungen aus Clîaban Rilag angegriffen wurde, lief das Schiff auf Grund.
+
+Imatl sucht jetzt nach jemandem, der die drei fehlenden Stücke eines zerbrochenen Zepters birgt. Er kennt eine Beseelerin, die gewillt sein könnte, das Artefakt zu kaufen, sofern ich alle Teile davon finde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Imatl sagte mir, dass die anderen Stücke des Artefakts wahrscheinlich in das Flachwasser unter den Docks gespült wurden. Wenn ich alle fehlenden Stücke finde, könnte ich in der Lage sein, mehr über diesen Gegenstand zu erfahren und einen höheren Preis für ihn erzielen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Imatls Freundin Nans ist eine Beseelerin und eine Expertin für engwithanische Artefakte. Sie wird den Wert dieser Stücke kennen, und vielleicht auch, ob man sie wieder zusammensetzen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Ich fand drei Stücke des Zepters. Imatl wird wissen, was damit zu tun ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Ich kann die vier Zepterstücke zu der Imatl bekannten Beseelerin bringen, aber jetzt muss ich diese Person selbst finden.
+
+
+Nachdem ich so mit Imatl umgesprungen bin, wird er mir sicherlich nicht mehr helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe ein Stück der zerbrochenen Reliquie gefunden. Anscheinend fehlen die anderen Teile noch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe zwei Stücke der zerbrochenen Reliquie gefunden. Sie scheinen zusammenzupassen, aber etwas anderes scheint noch zu fehlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe das dritte Stück der zerbrochenen Reliquie gefunden. Wenn ich diese drei Fragmente zusammenfüge, bilden sie ein Zepter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Nans hat angeboten, das Zepter für 1800 Pand zu reparieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich konnte Nans herunterhandeln, er repariert das Zepter für 1500 Pand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Nans hat angeboten, das Zepter für 1800 Pand zu reparieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich konnte Nans herunterhandeln, er repariert das Zepter für 1500 Pand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Nans für die Reparatur des Zepters viel Geld bezahlt, aber das restaurierte Zepter ist eine mächtige Waffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich habe Nans die Zepterstücke verkauft. Sie bot mir nicht so viel, wie ich gehofft hatte, aber ihr Preis war für ein zerbrochenes Artefakt wohl in Ordnung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich habe Nans die Zepterstücke verkauft, und wir beide den guten Zustand der Fragmente bemerkten, zahlte sie mir noch ein paar Münzen zusätzlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Ich brachte Nans um und werde das Artefakt nicht verkaufen oder reparieren können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>Ich brachte Imatl um, und jetzt werde ich nie erfahren, was ich mit den Zepterstücken anfangen soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

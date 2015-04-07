@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_oldsong\12_cv_noonfrost_breach_altar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Aus dem Boden erhebt sich ein Podest aus schwarzem Eis. Der Altar wird von langen, fingerartigen Eiskristallen umgeben und durchbohrt, die so hart und klar wie Diamanten sind.
+
+In die Mitte des Altars wurde ein Locht gemeißelt. Tiefer als ein paar Zentimeter kann es zwar nicht sein, aber es saugt trotzdem die Luft um dich herum an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Das Loch mit Rymrgand Splitter schließen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Der Splitter passt perfekt.
+
+Während sich seine Position stabilisiert, löst sich die Kälte um den Altar herum auf. Gleichermaßen scheint das Portal vor dir dicker zu werden, und das mysteriöse Leck verengt sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_cv_iovara_end</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Thaos ist tot. Ich hätte nicht gedacht, dass ich das erleben würde. Die Welt wird ihm keine Träne nachweinen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Er herrscht nicht mehr über meine Seele. Ich mache mir jetzt Sorgen über den, dem er diente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Anscheinend haben sich die Dinge geklärt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Einerseits bringt das Erleichterung, aber sein Geheimnis zu kennen, ist eine Bürde für sich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Hoffentlich bringt dir seine Niederlage etwas Erleichterung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Es ist mehr, als ich gehofft hatte. Du hattest Recht damit, dass ich es bis zum Ende durchziehen sollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Sein Wissen war ihm über all seine Leben hinweg eine Last. Ein kurzes Leben kann auch eine Gnade sein.
+
+Trotzdem ließ es Thaos zu, dass er von diesem Wissen definiert wurde, und schließlich verschlang es ihn. Ich glaube nicht, dass dieser Weg allen vorgegeben ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Und sie ist die weitaus größere Bedrohung. Diese Niederlage wird sie nicht untätig hinnehmen. Du musst aufmerksam bleiben, denn jetzt hast du sicherlich ihre Aufmerksamkeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich danke dir für das, was du hier getan und für die Lektionen, die du mich gelehrt hast. Auf das wir uns eines Tages wiedersehen werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Iovara hält ihre Hand zum Abschied hoch, und ihr Geist verblasst und verschwindet aus deinen Augen. Du kannst keine weiter Spur von ihr fühlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

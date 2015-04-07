@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_leaden_key_agent</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>67</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mehrere verschleierte Figuren stehen in Reihe vor einer vermummten Frau. Die Gestalt an der Spitze der Formation nähert sich ihr und die Frau legt ihre ausgestreckte Hand auf die Stirn des Fremden.
+
+Sie stehen in stiller Verbundenheit, während du zuschaust. Einige Augenblicke später macht der Fremde einen Schritt zur Seite und nimmt wieder seinen Platz im Kreis um die Statue ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich habe deinen Bericht erwartet. Schnell."
+
+Die Frau winkt dich mit dem Finger näher heran. Sie legt dir die offene Hand auf die Stirn und du fühlst die Hitze ihrer Handfläche durch das dicke Material deiner Kapuze.
+
+Ihre Stimme ist so leise und sanft, dass du nicht sicher bist, ob sie laut oder nur in deinem Kopf spricht. 
+
+"Nenne mir deinen Namen und dein Ansinnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Was ist das für ein Ort?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Dies sind die Überreste des Tempels von Woedica." Die Akolythin zeigt dir eine große Struktur, die von den Gläubigen umgeben ist. 
+
+"Die Feuer der Revolution zerstörten alles über uns und hinterließen lediglich diese verlassenen Überreste. Ideal für unsere Zwecke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich bin die Akolythin. Das ist alles, was du wissen musst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Alle Augen im Raum sind auf dich gerichtet und du nimmst ein schnelles, wütendes Murmeln wahr.
+
+"Brüder, Schwestern  ... ein Eindringling befindet sich unter uns. Schnappt ihn euch!"</DefaultText>
+      <FemaleText>Alle Augen im Raum sind auf dich gerichtet und du nimmst ein schnelles, wütendes Murmeln wahr.
+
+"Brüder, Schwestern  ... ein Eindringling befindet sich unter uns. Schnappt sie euch!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Mein Name gehört den Göttern und meine Hand dient ihnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Das geht dich nichts an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ihre Stimme ertönt erneut, voll und klangvoll. "Welche Gesellschaft suchst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ich suche nach der Gesellschaft der Schatten, auf dass unsere Anstrengungen geheim bleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ist das ein Angebot?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Erzähl mir von deinen Anstrengungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Zu sehen, dass das Werken von Freunden und Wilden nicht die Knochen stört, welche die Götter vergraben haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Angreifen] "Ich würde es dir lieber zeigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Die Stimme läutet wie eine Glocke zwischen deinen Ohren. "Wie erfahren wir von deinem Ansinnen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ihr sollt es erfahren durch das Geständnis meiner Zunge, die Taten meiner Hand und den Eid auf meine Seele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ich habe dich zuerst gefragt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Und wie wird dein Eid bewahrt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Er ist durch den Bleiernen Schlüssel versiegelt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich habe genug davon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Undeutliches Murmeln.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Ihre Stimme erreicht dich als ein Flüstern, das sich zuerst in ein Ohr und dann in das andere Ohr schlängelt. "Willkommen. Erzähle mir von deinen Taten."
+
+In deinem Kopf erkennst du ein Gebäude, herrlich mit Flechtwerk und Fliesen, an einer makellosen Prachtstraße gelegen. Die Wohlhabenden und Gelehrten gehen ein und aus und tauschen Wissen und Münze aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Doch es beherbergt auch Elend und Wahnsinn. Irgendwo in seinem verfaulten Kern sitzt ein Mann, mit verfilztem Haar, doch mit wachsamen Augen. Er beobachtet und wartet, ein Gefangener aus freiem Willen.
+
+Die Frage der Akolythin hallt in deinem Kopf. "Wartet er noch immer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich weiß es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Die Vision der Akolythin führt dich aus Trutzbucht hinaus zu einer Stadt in der Wildnis mit einer Wassermühle. Auf einem Schild an einem der Wege steht "Dyrfurt". Mehrere Gestalten drängen sich zusammen, eingewickelt in Umhängen und Kapuzen.
+
+In deinem Kopf zeichnet sich plötzlich das Bild von Ruinen ab. Zwei skelettartige Abbilder flankieren einen Spalt in einer Gebirgswand.
+
+"Sind sie angekommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ungewiss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Deine Informationen sollten weitergegeben werden. Nun zu deiner nächsten Aufgabe ..."
+
+Die Ruinen verblassen in deinem Kopf und an ihrer Stelle taucht der Schatten einer Wohngegend auf. Zerfallene Wohngebäude pflastern die Umgebung eines Friedhofs und eines alten Turms. Wilde Gestalten schleichen durch die Straßen, und in dem Turm beugt sich ein Mann über einen seltsamen Mechanismus. Du kannst ihn nicht deutlich erkennen, er hat jedoch etwas Unnatürliches an sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Das sollte ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Angreifen] "Ich bin eigentlich hier, um dich aufzuhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Ihre Hand liegt leicht auf deinem Kopf. "Hast du Fragen, Diener?"</DefaultText>
+      <FemaleText>Ihre Hand liegt leicht auf deinem Kopf. "Hast du Fragen, Dienerin?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Erinnere mich an den Mann im Turm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Könnte ich nochmal die Vision der Ruinen sehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Zeig mir den Gefangenen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Du siehst den Schatten einer Wohngegend. Zerfallene Wohngebäude pflastern die Umgebung eines Friedhofs und eines alten Turms. Wilde Gestalten schleichen durch die Straßen, und in dem Turm beugt sich ein Mann über einen seltsamen Mechanismus. Du kannst ihn nicht deutlich erkennen, er hat jedoch etwas Unnatürliches an sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Die Vision der Akolythin führt dich aus Trutzbucht hinaus zu einer Stadt, von der du irgendwie weißt, dass sie Dyrfurt heißt. Mehrere Gestalten drängen sich zusammen, eingewickelt in Umhängen und Kapuzen.
+
+In deinem Kopf zeichnet sich plötzlich das Bild von Ruinen ab. Zwei skelettartige Abbilder flankieren einen Spalt in einer Gebirgswand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>In deinem Kopf erkennst du ein Gebäude, herrlich mit Flechtwerk und Fliesen, an einer makellosen Prachtstraße gelegen. Die Wohlhabenden und Gelehrten gehen ein und aus und tauschen Wissen und Münze aus.
+
+Doch es beherbergt auch Elend und Wahnsinn. Irgendwo in seinem verfaulten Kern sitzt ein Mann, mit verfilztem Haar, doch mit wachsamen Augen. Er beobachtet und wartet, ein Gefangener aus freiem Willen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Vor deinen Füßen liegt am Boden der zerknautschte Körper einer Frau. Sie trägt eine schwarze Robe mit einem Abzeichen, das einem Schlüssel ähnelt.
+
+Als du dich dem Körper der Toten näherst, greifen dich wütende Gefühle an. Die Stimme der Toten heult in deinen Ohren, und ihr nachklingendes Bewusstsein zerreißt dein eigenes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Zurückweichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Ihre Essenz kribbelt dir durch Knochen und Membranen. Sie füllt den Raum zwischen deinen Ohren und hinter deinen Augen, und krallt sich immer tiefer in dein Inneres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Du richtest all deine Konzentration auf eine einzige Willensanstrengung, wie eine scharfe Spitze, die die wütende Seele wie ein Insekt in einer Vitrine festnagelt. Als du es unter Kontrolle hast, bist du in der Lage, es und die drei Gedanken, die darin herumschwirren, zu untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Den Gedanken über den Turm untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Fragen über den Gefangenen stellen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[In die Ruinen schauen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Du siehst den Schatten einer Wohngegend. Zerfallene Wohngebäude pflastern die Umgebung eines Friedhofs und eines alten Turms. Wilde Gestalten schleichen durch die Straßen, und in dem Turm beugt sich ein Mann über einen seltsamen Mechanismus. Du kannst ihn nicht deutlich erkennen, er hat jedoch etwas Unnatürliches an sich.
+
+Irgendwo in der Nähe erkennst du eine Frau mit einer Narbe über dem Herzen. Du erkennst, dass sie etwas hat, das er braucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>In deinem Kopf erkennst du ein Gebäude, herrlich mit Flechtwerk und Fliesen, an einer makellosen Prachtstraße gelegen. Die Wohlhabenden und Gelehrten gehen ein und aus und tauschen Wissen und Münze aus.
+
+Doch es beherbergt auch Elend und Wahnsinn. Irgendwo in seinem verfaulten Kern sitzt ein Mann, mit verfilztem Haar, doch mit wachsamen Augen. Er beobachtet und wartet, ein Gefangener aus freiem Willen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Die Vision der Akolythin führt dich aus Trutzbucht hinaus zu einer Stadt in der Wildnis mit einer Wassermühle. Auf einem Schild an einem der Wege steht"Dyrfurt". Mehrere Gestalten drängen sich zusammen, eingewickelt in Umhängen und Kapuzen.
+
+In deinem Kopf zeichnet sich plötzlich das Bild von Ruinen ab. Zwei skelettartige Abbilder flankieren einen Spalt in einer Gebirgswand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Sie reißt die Hand zurück. Ein stechender Schrei ertönt unter ihrer Kapuze. "Betrüger!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Später vielleicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Bank Node 71</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Sei vorsichtig. Wer sie auch sind, sie erwarten wohl keine ... neuen Mitglieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Haltet ihn auf. Und vor allem ..." Du siehst eine leichenblasse Frau mit einer Narbe über dem Herzen. "... lasst nicht zu, dass er sie trifft."
+
+Die Akolythin zeigt dir eine Tür im Erdgeschoss des Turms, eine scheinbar undurchdringliche Felsplatte aus Stein und Kupfer. Doch dann zeigt sie dir den unsichtbaren Spalt zwischen zwei perfekt aufeinander passenden Hälften, und du verstehst, wie die Kupfervenen einen Befehl umsetzen. Der Befehl entspringt deinem Geist mit überraschender Vertrautheit.
+
+Du weißt, wie die Tür zu öffnen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Du erkennst auch eine Tür im Erdgeschoss des Turms, eine scheinbar undurchdringliche Felsplatte aus Stein und Kupfer. Doch dann zeigt dir die Akolythin den unsichtbaren Spalt zwischen zwei perfekt aufeinander passenden Hälften, und du verstehst, wie die Kupfervenen einen Befehl umsetzen. 
+
+Du weißt, wie die Tür zu öffnen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Haltet ihn auf. Und vor allem ..." Du siehst eine leichenblasse Frau mit einer Narbe über dem Herzen. "... lasst nicht zu, dass er sie trifft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Die Augen der Frau verengen sich hinter ihrer Maske, während sie dein unbedecktes Gesicht bemerkt. "Eindringling!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Die Frau wendet sich zu dir um. Sie scheint sich über deine schlecht passende Kapuze zu wundern.
+
+"Du bist spät, Diener."
+
+Ihr Gesicht ist zwar verborgen, doch du spürst ihren Zorn in ihrer gefährlich tiefen Stimme und in dem plötzlichen Schweigen der übrigen in der Kammer.</DefaultText>
+      <FemaleText>Die Frau wendet sich zu dir um. Sie scheint sich über deine schlecht passende Kapuze zu wundern.
+
+"Du bist spät, Dienerin."
+
+Ihr Gesicht ist zwar verborgen, doch du spürst ihren Zorn in ihrer gefährlich tiefen Stimme und in dem plötzlichen Schweigen der übrigen in der Kammer.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Die Frau wendet sich zu dir um. 
+
+"Du bist spät, Diener."
+
+Ihr Gesicht ist zwar verborgen, doch du spürst ihren Zorn in ihrer gefährlich tiefen Stimme und in dem plötzlichen Schweigen der übrigen in der Kammer.</DefaultText>
+      <FemaleText>Die Frau wendet sich zu dir um.
+
+"Du bist spät, Dienerin."
+
+Ihr Gesicht ist zwar verborgen, doch du spürst ihren Zorn in ihrer gefährlich tiefen Stimme und in dem plötzlichen Schweigen der übrigen in der Kammer.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Die vermummte Frau blickt hinter dich auf deine Begleiter. Die anderen Gestalten tun es ihr gleich und murmeln.
+
+Die Frau zeigt mit einem langen Finger auf dich. "Haltet sie auf!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Ihre Essenz lodert auf und versucht, dein Blut zum Kochen zu bringen, deine Erinnerung zu verbrennen, und deine Knochen von innen zu sprengen. Doch zwischen den Schlägen siehst du etwas anderes aufleuchten – einen Turm, einen Gefangenen, und eine Ruine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Versuchen, die Aufgaben zu sehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Du siehst eine Versammlung von Männern und Frauen, die Roben wie die ihre tragen, ihre Gesichter aber hinter Masken verborgen haben. Du siehst, wie sie sich ihr, die sie als "Akolythin" kennen, einer nach dem anderen nähern, und sie legt jedem die Hand auf die Stirn und durchsucht ihre Gedanken.
+
+Sie prüft sie mit ritualisierten Fragen, und sie antworten, dass ihr Eid "durch den Bleiernen Schlüssel versiegelt" sei. Sie fragen jeden nach ihren Aufgaben. Sie gibt ihnen neue. Und das alles ohne Worte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

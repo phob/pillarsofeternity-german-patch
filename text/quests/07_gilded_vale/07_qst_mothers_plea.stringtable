@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_gilded_vale\07_qst_mothers_plea</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Das Flehen einer Mutter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Begib dich nach Anslogs Kompass und sprich mit Mutter Ranga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Beseitige die Xaurips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Aufra zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Sammle Feuchtsporen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Auf Geheiß des Fürsten von Goldtal werden alle Mütter mit hohlgeborenen Kindern aus dem Dorf verstoßen. Aufra befürchtet, dass sich schon bald zu diesen Frauen gehören könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>In Goldtal traf ich Aufra, Caliscas Schwester. Aufra erwartet ein Kind und macht sich Sorgen, dass auch sie ein Hohlgeborenes zur Welt bringen könnte, wie es schon viele unglückliche Frauen vor ihr erlitten haben. Sie bat mich, in den Süden zu Anslogs Kompass zu reisen, wo ich die Aumaua-Heilerin Ranga aufsuchen soll, von der gesagt wird, sie kenne einen Weg, Aufras Kind seine Seele zu erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Anstatt einer Bezahlung bat mich Ranga, ihren Xaurip-Helfer Tana zu unterstützen, der anscheinend von Mitgliedern seines früheren Stammes gejagt wird. Ihr Lager befindet sich im Nordosten der Lagune, und Ranga hat mich gebeten, sie zu beseitigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich erlangte die Mixtur, um die mich Aufra gebeten hat, aber Mutter Ranga teilte mir mit, dass dieser Trank statt eines Heilmittels lediglich eine Hebammen-Arznei zur Verbesserung von Aufras Gesundheit sei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Zum Brauen von Rangas Trank wird anscheinend ein besonderer Teil eines der Sporlinge benötigt, die es in der nahegelegenen Meereshöhle zu finden gibt. Sie hat mich gebeten, einen Sporling für sie zu holen, während sie am Rest der Mixtur arbeitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe die Lagune erreicht. Ranga soll hier irgendwo leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe mich um Rangas unliebsame Nachbarn gekümmert. Vielleicht wird sie jetzt gewillt sein, mir als Gegenleistung zu helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe die Sporen erlangt, um die mich Ranga gebeten hat. Sobald ich sie zu ihr gebracht habe, sollte sie in der Lage sein, die Mixtur fertigzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich brachte den Trank zu Aufra zurück und ließ sie in dem Glauben, dass er die erwarteten magischen Eigenschaften besitzt. Vielleicht werden sie und ihr Kind ja Glück haben. Die Zeit wird es zeigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich brachte den Trank zu Aufra und erzählte ihr die Wahrheit über die Mixtur. Sie war verständlicherweise enttäuscht, wusste meine Bemühungen aber trotzdem zu schätzen. Jetzt hat sie nur noch geringe Hoffnung, dass sie und ihr Kind eine Zukunft in Goldtal haben werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ranga ist umgebracht, und mit ihr sind auch ihre Geheimnisse gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich brachte den Trank zu Aufra zurück und ließ sie in dem Glauben, dass er die erwarteten magischen Eigenschaften besitzt. Vielleicht werden sie und ihr Kind ja Glück haben. Die Zeit wird es zeigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

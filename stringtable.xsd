@@ -1,0 +1,26 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="StringTableFile">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element type="xs:string" name="Name"/>
+        <xs:element type="xs:integer" name="NextEntryID"/>
+        <xs:element type="xs:integer" name="EntryCount"/>
+        <xs:element name="Entries">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Entry" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:integer" name="ID"/>
+                    <xs:element type="xs:string" name="DefaultText"/>
+                    <xs:element type="xs:string" name="FemaleText"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

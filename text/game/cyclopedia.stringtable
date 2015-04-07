@@ -317,11 +317,11 @@ Aufgrund ihrer geringen Geburtenrate spielen die Vithrack, trotz ihrer extremen 
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>In diesen amorphen Wolken wirbelt es nur vor stürmischer Energie. Im Mahlstrom materialisieren und verschwinden innerhalb eines Augenblicks Dutzende humanoider Gestalten. Während ihre Hände verzweifelt in die Luft um die Masse herum greifen und krallen, schreien ihre Gesichter vor stillem Schmerz.
+      <DefaultText>In diesen amorphen Wolken wirbelt es nur vor stürmischer Energie. Im Mahlstrom materialisieren und verschwinden innerhalb eines Augenblicks dutzende humanoider Gestalten. Während ihre Hände sich verzweifelt in der Luft um die Masse herum festkrallen und ins Leere greifen, schreien ihre Gesichter vor stillem Schmerz.
 
-Bîaŵacs (Seelenwinde), wie man diese Stürme nennt, führen oft zu Zerstörungen. Wenn Seelen aus Körpern gerissen und im Auge des Sturms gefangen werden, können sie sich miteinander und mit allen Elementarsubstanzen im Mahlstrom verbinden. Sie stellen pures Chaos und Durcheinander dar - sie zu vernichten wird als Gnade für die Seelen aufgefasst, die im Inneren gefangen sind. 
+Bîaŵacs (Seelenwinde), wie man diese Stürme nennt, lassen oft solch eine Seelenfäulnis entstehen. Wenn Seelen aus Körpern entrissen und im Auge des Sturms gefangen werden, können sie sich miteinander und allen Elementarsubstanzen im Mahlstrom verbinden. Sie stellen pures Chaos und Durcheinander dar - sie zu vernichten wird als Gnade für die Seelen aufgefasst, die im Inneren gefangen sind.
 
-Das Experimentieren mit der Erzeugung von Seelenschanden ist eine andere fragwürdige Aktivität, die Beseelern in vielen Kreisen einen schlechten Ruf eingebracht hat. Manche sehen das als gefährlich und unmenschlich, andere dagegen als ein Mittel zum Zweck an. Die Erzeugung von Seelenschaden ist ein Vorwurf, den viele verängstigte Gestandene Beseelern machen.</DefaultText>
+Die Experimentielle Erzeugung dieser Seelenfäulnis ist eine andere fragwürdige Aktivität, die Beseelern in vielen Kreisen einen schlechten Ruf eingebracht hat. Manche sehen das als gefährlich und unmenschlich, andere dagegen als ein Mittel zum Zweck. Die Erzeugung einer Seelenfäulnis wird daher von vielen verängstigten Gestandenen Beseelern vorgeworfen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -739,22 +739,22 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>Verdrehtes Knie</DefaultText>
+      <DefaultText>Verstauchtes Knie</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Charaktere mit einem verdrehten Knie werden mit einem Malus auf Bewegungsgeschwindigkeit und Gewandtheit belegt.</DefaultText>
+      <DefaultText>Charaktere mit einem verstauchten Knie werden mit einem Malus auf Bewegungsgeschwindigkeit und Gewandtheit belegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>Verstauchte Schulter</DefaultText>
+      <DefaultText>Verrenkte Schulter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Eine verstauchte Schulter führt zu einem Malus auf Aktionsgeschwindigkeit und Macht.</DefaultText>
+      <DefaultText>Eine verrenkte Schulter führt zu einem Malus auf Aktionsgeschwindigkeit und Macht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

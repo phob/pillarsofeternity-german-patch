@@ -1,4 +1,10 @@
+*/lib/*
 *.gitattributes*
 *exclude.lst*
+*pre-commit*
 *README.md*
+*Readme-Commit-Hook.txt*
 *rollout.sh*
+*stringtable.xsd*
+*xsdv.cmd*
+*xsdv.sh*

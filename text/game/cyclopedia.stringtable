@@ -684,7 +684,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Die Macht und die Verfassung von geschwächten Charakteren werden jeweils um 2 reduziert. Bewegung wird um 2 reduziert. Tapferkeit und Wille werden um 20 reduziert.</DefaultText>
+      <DefaultText>Die Macht und die Verfassung von geschwächten Charakteren werden jeweils um 2 reduziert. Bewegung wird um 1 reduziert. Tapferkeit und Wille werden um 20 reduziert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -954,8 +954,10 @@ Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadens
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>Die Unterbrechung legt die Wahrscheinlichkeit fest, dass ein Charakter die Handlung seines Gegners aufhebt. Sie wird mit der Konzentration des anderen Charakters verglichen.
- Der Wurf nutzt einen Unterbrechung-Wert von dem Angriff (Waffe oder sonstiger Angriff), der dann mit der Konzentration des Ziels (basierend auf seiner Entschlossenheit) verglichen wird. Es wird eine Zahl von 1 - 100 gewürfelt, dann wird die Unterbrechung addiert und die Konzentration abgezogen. Ist das Ergebnis 51 oder höher, spielt das Ziel eine Trefferreaktion ab und seine aktuelle Handlung geht verloren. Die Dauer der Unterbrechung hängt von der Unterbrechungsstärke der Waffe bzw. des Angriffs ab. Eine Unterbrechung, die auf eine Figur angewandt wird, die schon unter einer Unterbrechung mit einer längeren Dauer leidet, hat keinen Effekt.</DefaultText>
+      <DefaultText>Die Unterbrechung legt die Wahrscheinlichkeit fest, dass ein Charakter die Handlung seines Gegners aufhebt.
+ Der Wurf nutzt einen Unterbrechung-Wert von dem Angriff (Waffe oder sonstiger Angriff), der dann mit der Konzentration des Ziels (basierend auf seiner Entschlossenheit) verglichen wird. Es wird eine Zahl von 1 - 100 gewürfelt und die Unterbrechung dazu addiert. Ist das Ergebnis höher als die Konzentration, spielt das Ziel eine Trefferreaktion ab und seine aktuelle Handlung geht verloren.
+
+Die Dauer der Unterbrechung hängt von der Unterbrechungsstärke der Waffe bzw. des Angriffs ab. Eine Unterbrechung, die auf eine Figur angewandt wird, die schon unter einer Unterbrechung mit einer längeren Dauer leidet, hat keinen Effekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

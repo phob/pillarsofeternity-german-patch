@@ -23,7 +23,7 @@ else
 fi
 EXIT_CODE=0
 # Show files about to be commited that do not match validate xml structure
-for FILE in `git diff-index --name-only ${against} | grep *.stringtable`; do
+for FILE in `git diff-index --name-only ${against} | grep stringtable`; do
     ./xsdv.sh stringtable.xsd ${FILE}
     EXIT_CODE=`expr ${EXIT_CODE} + $?`
 done

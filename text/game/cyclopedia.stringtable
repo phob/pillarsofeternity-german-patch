@@ -564,7 +564,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Die Genauigkeit eines benommenen Ziels wird um 10 reduziert. Gewandtheit, Wahrnehmung und Intellekt werden alle um jeweils 2 reduziert, Geschwindigkeit wird um 15% reduziert.</DefaultText>
+      <DefaultText>Die Genauigkeit eines benommenen Ziels wird um 10 reduziert. Gewandtheit, Wahrnehmung und Intellekt werden um jeweils 2 reduziert, Angriffsgeschwindigkeit wird um 15% reduziert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -604,7 +604,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Gewandtheit wird um 2 reduziert, Bewegung wird um 3 reduziert, Reflexe werden um 20 reduziert.</DefaultText>
+      <DefaultText>Die Gewandtheit eines humpelnden Ziels wird um 2 reduziert, Bewegung wird um 1,5 reduziert, Reflexe werden um 20 reduziert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -664,7 +664,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Betäubte Charaktere können keinerlei Handlungen unternehmen. Gewandtheit, Wahrnehmung und Intellekt werden alle um jeweils 4 reduziert. Reflexe und Abwehr werden um 30 reduziert. Reflexe und Abwehr werden um 30 reduziert. Setzt Bewegungsunfähig und Niedergeschlagen außer Kraft.</DefaultText>
+      <DefaultText>Betäubte Charaktere können keinerlei Handlungen unternehmen. Gewandtheit, Wahrnehmung und Intellekt werden alle um jeweils 4 reduziert. Reflexe und Abwehr werden um 30 reduziert. Setzt Bewegungsunfähig und Niedergeschlagen außer Kraft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -684,7 +684,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Die Macht und die Verfassung von geschwächten Charakteren werden jeweils um 2 reduziert. Bewegung wird um 2 reduziert. Tapferkeit und Wille werden um 20 reduziert.</DefaultText>
+      <DefaultText>Die Macht und die Verfassung von geschwächten Charakteren werden jeweils um 2 reduziert. Bewegung wird um 1 reduziert. Tapferkeit und Wille werden um 20 reduziert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -764,7 +764,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Ein kritischer Treffer ist jeder Angriffswurf über 100. Ein kritischer Treffer, der Schaden verursacht, erhöht den verursachten Gesamtschaden um 25%. Ein kritischer Treffer bei Effekten mit einer Dauer (meistens Wirkungen wie Erkrankt oder Gelähmt) erhöht die Dauer um 50%.</DefaultText>
+      <DefaultText>Ein kritischer Treffer ist jeder Angriffswurf über 100. Ein kritischer Treffer, der Schaden verursacht, erhöht dessen Gesamtschaden um 50%. Ein kritischer Treffer bei Effekten mit einer Dauer (meistens Wirkungen wie Erkrankt oder Gelähmt) erhöht die Laufzeit um 50%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -806,7 +806,7 @@ Tapferkeit, Reflexe und Wille basieren alle auf Attributspaaren. Macht und Verfa
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>Wirkungen sind explizit gebündelte Gruppen von Statuseffekten, die auf einen Charakter angewandt werden können - und auch vorübergehend ausgesetzt oder vollständig entfernt. Einige Wirkungen können von stärkeren oder Wirkungen aufgehoben werden, die meisten Wirkungen können jedoch auch neben anderen Wirkungen bestehen bleiben.
+      <DefaultText>Wirkungen sind eine besondere Gruppe von Statuseffekten, die auf einen Charakter angewendet, unterdrückt oder vollständig entfernt werden können. Einige Wirkungen können von anderen überschrieben oder zeitweise ausgesetzt werden. Die meisten hingegen können zeitgleich bestehen.
 
 Wenn ein Zauber gegen ein Ziel gewirkt wird, werden der Zauber und seine untergeordenten Effekte und Wirkungen alle in einem prozedural-gebündelten Container zusammengefasst, der durch den Zauber generiert wird.
 
@@ -954,8 +954,10 @@ Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadens
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>Die Unterbrechung legt die Wahrscheinlichkeit fest, dass ein Charakter die Handlung seines Gegners aufhebt. Sie wird mit der Konzentration des anderen Charakters verglichen.
- Der Wurf nutzt einen Unterbrechung-Wert von dem Angriff (Waffe oder sonstiger Angriff), der dann mit der Konzentration des Ziels (basierend auf seiner Entschlossenheit) verglichen wird. Es wird eine Zahl von 1 - 100 gewürfelt, dann wird die Unterbrechung addiert und die Konzentration abgezogen. Ist das Ergebnis 51 oder höher, spielt das Ziel eine Trefferreaktion ab und seine aktuelle Handlung geht verloren. Die Dauer der Unterbrechung hängt von der Unterbrechungsstärke der Waffe bzw. des Angriffs ab. Eine Unterbrechung, die auf eine Figur angewandt wird, die schon unter einer Unterbrechung mit einer längeren Dauer leidet, hat keinen Effekt.</DefaultText>
+      <DefaultText>Die Unterbrechung legt die Wahrscheinlichkeit fest, dass ein erfolgreicher Angriff die derzeitige oder nächste Handlung seines Gegners verzögert.
+ Der Wurf nutzt den Unterbrechung-Wert des Angreifers (basierend auf seiner Wahrnehmung), der dann mit der Konzentration des Ziels (basierend auf seiner Entschlossenheit) verglichen wird. Es wird eine Zahl von 1 - 100 gewürfelt und die Unterbrechung dazu addiert. Ist das Ergebnis höher als die Konzentration, spielt das Ziel eine Trefferreaktion ab und seine aktuelle Handlung wird verzögert.
+
+Die Dauer der Unterbrechung hängt von der Unterbrechungsstärke der Waffe bzw. des Angriffs ab. Eine Unterbrechung, die auf eine Figur angewandt wird, die schon unter einer Unterbrechung mit einer längeren Dauer leidet, hat keinen Effekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Feuerpeitsche</DefaultText>
+      <DefaultText>Brennend</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,12 +96,12 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Rostpeitsche</DefaultText>
+      <DefaultText>Zersetzend</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Zerschlagungspeitsche</DefaultText>
+      <DefaultText>Wuchtig</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,7 +141,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Frostpeitsche</DefaultText>
+      <DefaultText>Frostig</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Schnittpeitsche</DefaultText>
+      <DefaultText>Stechend</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,12 +191,12 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Schockpeitsche</DefaultText>
+      <DefaultText>Schockend</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Hiebpeitsche</DefaultText>
+      <DefaultText>Schneidend</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,7 +331,7 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Feuerfest</DefaultText>
+      <DefaultText>Brandresistent</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -341,12 +341,12 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Rostfest</DefaultText>
+      <DefaultText>Zersetzungsresistent</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Zerschlagungsresistent</DefaultText>
+      <DefaultText>Wuchtresistent</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -456,7 +456,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Stichsicher</DefaultText>
+      <DefaultText>Stichresistent</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

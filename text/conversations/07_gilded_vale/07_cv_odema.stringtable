@@ -6,52 +6,52 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Der Karawanenmeister schließt seine Ansprache vor der Gruppe ab, worauf sein buschiger roter Schnurrbart und seine Hängewangen wie zur Bekräftigung erbeben.</DefaultText>
+      <DefaultText>Der Karawanenmeister schließt seine Ansprache vor der Gruppe ab, woraufhin sein buschiger roter Schnauzbart und seine Hängewangen wie zur Bekräftigung erbeben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Die ganze Gegend wimmelt nur so von diesen Hüttenbewohnern, die euch für euer unbefugtes Betreten nur zu gerne mit ihrer Axt begrüßen würden. Achtet also darauf, dass ihr auf ihren verdammten heiligen Felsen keine Schlammspuren hinterlasst."</DefaultText>
+      <DefaultText>"Die ganze Gegend wimmelt nur so von diesen Hüttenbewohnern, die euch für euer unerlaubtes Betreten nur zu gerne mit 'ner Axt begrüßen würden. Passt also auf, dass ihr keine Schlammspuren auf ihren heiligen glühenden Felsen hinterlasst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Heute Nacht bleiben alle zusammen, und am Morgen werden wir den Weg freimachen. Goldtal ist weniger als eine Tagesreise entfernt. Verstanden?"
+      <DefaultText>"Heute Nacht bleiben wir hier und morgen früh wird der Weg freigeräumt. Goldtal is keine Tagesreise weit entfernt. Verstanden?"
 
-Schließlich wendet sich der Karawanenmeister dir zu und schätzt dich stirnrunzelnd von oben bis unten ab.</DefaultText>
+Schließlich wendet sich der Karawanenmeister dir zu und legt die Stirn in Falten, während er dich mustert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Könnte ein Hauch von Grollfäule sein. Hier in der Gegend gibt es einen Stechkäfer, der das überträgt. Sobald das durch deine Eingeweide durch ist, wird es dir wieder besser gehen. Es sei denn, du trinkst kein Wasser, denn dann wirst du in einem Tag tot sein."</DefaultText>
+      <DefaultText>"Leichte Grollfäule, vielleicht. Gibt 'n Stechkäfer in der Gegend, der das überträgt. Erstmal durch deine Eingeweide durch, gehts wieder. Nur wenn du genug trinkst, natürlich ... andernfalls bist du in 'nem Tag tot."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Hierzulande wächst eine kleine rosa Beere, die man Frühlingsbeere nennt. Ungefähr so groß wie ein Fingernagel. Wenn man sie isst, kriegt man höllische Magenkrämpfe, aber die Grenzbewohner machen einen Tee daraus, der die Eingeweide beruhigt. Sollte dich über die Nacht bringen. Du solltest dich mal umsehen, ob du welche finden kannst. Währenddessen schauen wir mal, ob wir nicht ein bisschen Wasser für dich auftreiben können."</DefaultText>
+      <DefaultText>"Da gibts 'ne Beere in der Region, klein und rosa. Nennt sich Frühlingsbeere. Ungefähr so groß wie ein Fingernagel. Verursacht höllische Magenkrämpfe, wenn mans isst, aber die Grenzbewohner machen einen Tee draus, der die Eingeweide beruhigt. Sollte dich über die Nacht bringen. Sieh dich mal um, ob du welche finden kannst. Währenddessen sorg ich dafür, dass wir etwas Wasser für dich auftreiben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Odema schaut über seine Schulter zu seinem Assistenten, einem kernigen Mann namens Sparfel, der einen alten, sonnengebleichten Bogen trägt.
+      <DefaultText>Odema schaut über seine Schulter zu seinem Gehilfen, einem kernigen Mann namens Sparfel, der einen alten, sonnengebleichten Bogen trägt.
 
-"Ich weiß, dass du vor Einbruch der Dunkelheit jagen möchtest, aber kümmere dich trotzdem zuerst um die Auffüllung unserer Wasservorräte. Hier ist jemand krank." Er nickt in deine Richtung.
+"Ich weiß, du willst jagen bevor es noch dunkler wird, aber kümmer dich trotzdem zuerst um unserere Wasservorräte. Hier ist jemand krank." Er nickt in deine Richtung.
 
 Sparfel nickt und lässt den abgenutzten Bogen über seine Schulter gleiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Moment. Nimm dir jemand mit. Ich weiß ja, dass du kein hilfloser Grünling bist wie die meisten der anderen, aber sollte es dich erwischen, will ich nicht nach der Leiche suchen müssen. Schließlich habe ich einen Terminplan einzuhalten."
+      <DefaultText>"Moment. Nimm dir jemand mit. Ich weiß ja, dass du kein hilfloser Grünling bist wie die meisten der anderen. Aber wenns dich erwischt, will ich nicht nach der Leiche suchen müssen. Muss mich an den Zeitplan halten."
 
-Er schaut über die Reisenden und lässt seinen Blick dann länger auf einer robusten, gepanzerten Frau ruhen, die während der Reise die Nächte auf unebenem Boden ohne Decke oder Kissen verbracht hat.</DefaultText>
+Er schaut über die Reisenden und lässt seinen Blick dann länger auf einer kräftigen, gepanzerten Frau ruhen, die während der Reise die Nächte auf unebenem Boden ohne Decke oder Kissen verbracht hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>"Calisca. Calisca!"
 
-Die Frau schaut in aller Seelenruhe zu dir hoch.</DefaultText>
+Die Frau schaut in aller Seelenruhe zu euch auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,18 +76,18 @@ Die Frau schaut in aller Seelenruhe zu dir hoch.</DefaultText>
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Odema kichert und schüttelt seinen Kopf. Er sieht dich an. "Hör nicht auf sie, du bist in guten Händen."
+      <DefaultText>Odema schnaubt und schüttelt den Kopf. Er sieht dich an. "Hör nicht auf sie, du bist in guten Händen."
 
 Er wirft ihr einen Seitenblick zu. "Und überhaupt: Ich zahle viel zu gut."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Odemas leichtes Grinsen zieht sich unter seinen Schnurrbart zurück und er wird abermals streng.
+      <DefaultText>Odemas leichtes Grinsen verschwindet hinter seinem Schnauzbart und er wird abermals ernst.
 
-"Fort mit dir. Heodan sollte Vorräte haben. Sieh zu, dass er dich ausrüstet, bevor du losziehst. Wir befinden uns in einem rauen Land."
+"Fort mit dir. Heodan sollte Vorräte haben. Rüste dich aus, bevor du losziehst. Wir befinden uns in einem rauen Land."
 
-"Hol dir deine Beeren und komm schnell wieder zurück. Und wenn auch nur das Geringste sein sollte, lässt du alles fallen und nimmst die Beine unter den Arm. Irgendwas liegt heute Nacht in der Luft. Sollte es ein Bîaŵac sein, werden wir Unterschlupf in den Ruinen suchen. Ich scheiß auf die Hüttenbewohner."</DefaultText>
+"Schnapp dir die Beeren und komm sofort wieder zurück. Und wenn auch nur das Geringste sein sollte, lässt du alles stehen und liegen und nimmst die Beine in die Hand. Irgendwas liegt in der Luft heut' Nacht. Wenns ein Bîaŵac ist, suchen wir Deckung in den Ruinen. Scheiß auf die Hüttenbewohner."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -102,7 +102,7 @@ Er wirft ihr einen Seitenblick zu. "Und überhaupt: Ich zahle viel zu gut."</Def
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ist es gefährlich da draußen?"</DefaultText>
+      <DefaultText>"Ist es gefährlich hier draußen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -112,19 +112,19 @@ Er wirft ihr einen Seitenblick zu. "Und überhaupt: Ich zahle viel zu gut."</Def
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Sie wachsen auf Büschen, die hier ziemlich gewöhnlich sind. Sehen ziemlich komisch aus. Du wirst sie erkennen, wenn du sie siehst. Ich glaube nicht, dass du dich weit von der Straße entfernen musst, um fündig zu werden."</DefaultText>
+      <DefaultText>"Sie wachsen an Büschen, die hier ziemlich verbreitet sind. Sehen irgendwie komisch aus. Du wirst sie erkennen, wenn du sie siehst. Wirst dich wohl nicht weit von der Straße entfernen müssen, um einen zu finden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Nichts, was es nicht auf der Hälfte aller Hügel in Eir Glanfath zu sehen gibt. Wenn es dir nichts ausmacht, dir hier und da einen Pfeil einzufangen, kannst du ihren Schnickschnack in Trutzbucht zu Geld machen. Sie haben sie zwar nicht gebaut, aber wenn sie nicht wie eine Bärenmutter darauf aufpassen, bin ich das Bildnis."</DefaultText>
+      <DefaultText>"Die gleichen wie auf der Hälfte aller Hügel hier in Eir Glanfath. Der Schnickschnack dadrin bringt in Trutzbucht viel Geld, wenn es dir nichts ausmacht, dir hier und da 'nen Glanfathaner-Pfeil einzufangen. Die haben sie zwar nicht erbaut, aber wenn sie nicht wie eine Bärenmutter darauf aufpassen, bin ich das Bildnis."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Die Ruinen hier in der Gegend sind natürlich schon zigmal geplündert worden. Da drin gibt es nichts mehr, was auch nur einen halben Pand wert wäre."
+      <DefaultText>"Die in der Gegend sind natürlich schon zigmal geplündert worden. Nichts übrig, was auch nur 'nen halben Pand wert wäre."
 
-Zwinkernd fügt er hinzu: "Habe ich zumindest gehört."</DefaultText>
+Zwinkernd fügt er hinzu: "Hab ich zumindest gehört."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -134,9 +134,9 @@ Zwinkernd fügt er hinzu: "Habe ich zumindest gehört."</DefaultText>
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Odema zuckt mit den Achseln. "Gibt verschiedene Namen für sie. Die Siedler nennen sie Engwithaner."
+      <DefaultText>Odema zuckt mit den Achseln. "Gibt verschied'ne Namen für die. Die Siedler nennen sie Engwithaner."
 
-"Niemand, denen sie so gut gefielen, dass sie etwas gegen ihren Verfall taten - soviel steht fest."</DefaultText>
+"Haben ihnen zumindest nicht so sehr gefallen, dass sie was gegen ihren Verfall getan hätten - soviel steht fest."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,27 +146,27 @@ Zwinkernd fügt er hinzu: "Habe ich zumindest gehört."</DefaultText>
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>" ... Und auch nicht, wenn das Wetter hält." In seiner Stimme klingt Besorgnis mit, aber er geht nicht weiter darauf ein.</DefaultText>
+      <DefaultText>"... Und auch nicht, wenn das Wetter hält." In seiner Stimme klingt Besorgnis mit, aber er geht nicht weiter darauf ein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Wie ist denn das Wetter hier draußen ?"</DefaultText>
+      <DefaultText>"Wie ist denn das Wetter hier draußen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Zu dieser Jahreszeit? Hauptsächlich Regen ... und Wind. Von Zeit zu Zeit gibt es hier draußen aber noch eine andere Art von Wind. Die Einheimischen nennen ihn Bîaŵac, geboren aus dem Äther - dem Weg der Geister. Selbst habe ich ihn nicht erlebt - und da kann ich auch drauf verzichten."</DefaultText>
+      <DefaultText>"Zu dieser Jahreszeit? Regen, hauptsächlich ... und Wind. Gibt hier draußen aber noch 'ne andere Art von Wind, von Zeit zu Zeit. Die Einheimischen nennen ihn Bîaŵac, geboren aus dem Äther - dem Weg der Geister. Hab ich nie erlebt, muss ich auch nich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Dann geh, bevor es zu dunkel wird."</DefaultText>
+      <DefaultText>"Geh schon, bevor es zu dunkel wird."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Warte immer noch auf Sparfel, was auch bedeutet, dass er mich wieder ignoriert hat." Osric schüttelt seinen Kopf. "Wenn ich gewusst hätte, dass er uns aufhalten will, dann hätte ich ihn einfach hinten an einen Wagen gebunden und ihn mitgeschleift."</DefaultText>
+      <DefaultText>"Ich warte immer noch auf Sparfel. Was bedeutet, dass er mich wieder ignoriert hat." Odema schüttelt den Kopf. "Hätt ich gewusst, dass er uns nur aufhält, hätt ich ihn einfach hinten an einen Wagen gebunden und mitgeschleift."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,26 +176,26 @@ Zwinkernd fügt er hinzu: "Habe ich zumindest gehört."</DefaultText>
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Odema runzelt die Stirn. "Gibt es kein Adra, wo du herkommst?"
+      <DefaultText>Odema runzelt die Stirn. "Gibts kein Adra dort, wo du herkommst?"
 
-"Naja, Adra wächst jedenfalls einfach so aus dem Boden. Er reicht sehr tief und schlägt Wurzeln wie die Bäume. Wenn man den Geschichten glauben will, dann reichen manche von ihnen bis ins Herz der Welt."</DefaultText>
+"Naja, Adra wächst halt einfach so aus dem Boden. Reicht tief, wie Baumwurzeln. Manche bis ins Herz der Welt, glaubt man den Geschichten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Es ist mehr eine Hülle als ein richtiger Fels. Leichter zu bearbeiten, wenn man ein Steinmetz ist."
+      <DefaultText>"Mehr eine Hülle als ein richtiger Fels. Leichter zu bearbeiten, wenn man ein Steinmetz ist."
 
-"Adra hat alle möglichen Eigenschaften, und scheint eine Art Eigenleben zu haben. Wenn man ihn ausgräbt, stirbt er, und verliert seinen Glanz. Die Leute glauben, dass er früher wahrscheinlich noch gewachsen ist, heutzutage aber nicht mehr."</DefaultText>
+"Hat alle möglichen seltsamen Eigenschaften und eine Art Eigenleben. Stirbt, wenn man ihn ausgräbt - verliert seinen Glanz. Die Leute glauben, dass er früher wahrscheinlich noch gewachsen ist, heutzutage aber nicht mehr."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Die Seelenmetzger in Trutzbucht setzen ihn für andere Dinge ein. Wie ich gehört habe, kann Adra die Seele eines Mannes aufnehmen, aber das muss ich nicht unbedingt sehen. Ich hab schon genug, um das ich mir Sorgen mache, da muss ich sowas nicht auch noch sehen."</DefaultText>
+      <DefaultText>"Die Seelenmetzger in Trutzbucht benutzen ihn für Verschiedenes. Hab gehört, es kann jemandes Seele aufnehmen, aber das brauch ich nicht unbedingt sehen. Hab schon genug Sorgen, auch ohne sowas zu erleben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Es tut mir leid, aber wenn du dein Wasser willst, dann solltest du ihn besser finden. Er hat nämlich alle Wasserschläuche mitgenommen."</DefaultText>
+      <DefaultText>"Tut mir leid. Wenn du dein Wasser willst, gehst du ihn wohl besser suchen. Er hat alle Wasserschläuche."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@ Zwinkernd fügt er hinzu: "Habe ich zumindest gehört."</DefaultText>
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Alle bleiben nah bei den Wagen, kapiert? Bleibt aus den Wäldern raus, und solltet ihr einen Spaziergang durch diese Ruinen da oben planen, so werden euch die Biester holen." Er nickt in Richtung einer bedrohlich wirkenden schwarzen Masse am Berghang.</DefaultText>
+      <DefaultText>"Alle bleiben bei den Wagen, kapiert? Bleibt aus den Wäldern raus - und die Biester sollen euch holen, wenn ihr einen Spaziergang durch diese Ruinen da oben plant." Er nickt in Richtung einer bedrohlich wirkenden, schwarzen Masse am Berghang.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich gestehe dir zu, dass es bei der Beseelung auch einige Versager gegeben hat - Baelreach unter anderem - aber rechtfertigt das wirklich Angriffe auf unschuldige Gläubige? Abergläubige Gestandene haben nicht wenig Blut vergossen."</DefaultText>
+      <DefaultText>"Ich gestehe dir zu, dass es bei der Beseelung auch einige Fehlschläge gegeben hat - Baelreach unter anderem - aber rechtfertigt das wirklich Angriffe auf unschuldige Seelenforscher? Auch die abergläubigen Gestandenen haben nicht wenig Blut vergossen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Das ist kein Vergleich! Beseeler genießen den Vorteil der Bildung, und damit einhergehend ist die Autorität. Und Verantwortung."</DefaultText>
+      <DefaultText>"Das ist kein Vergleich! Beseeler genießen die Vorzüge der Bildung, und mit ihr Autorität. Und Verantwortung."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,12 +116,12 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Wir haben uns so verstanden, wie es Brüder tun. Er machte sich einen Spaß daraus, mich am Morgen mit Wasser aufzuwecken, und ich füllte seine Stiefel mit beißenden Ameisen."</DefaultText>
+      <DefaultText>"Wir haben uns so verstanden, wie es Brüder tun. Er machte sich einen Spaß daraus, mich am Morgen mit einem Schwall Wasser aufzuwecken. Ich füllte seine Stiefel mit beißenden Ameisen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Zuhause in Tâkowa haben sich meine eigenen Brüder und Schwestern ein ziemlich gutes Leben gemacht. ... Ich weiß nicht, ob sie nach mir suchen würden, stürbe ich so fern der Heimat."</DefaultText>
+      <DefaultText>"Meinen Brüdern und Schwestern ist es ziemlich gut ergangen, zuhause in Tâkowa. ...ich weiß nicht, ob sie nach mir suchen würden, stürbe ich so fern der Heimat."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>" ... Hast du schon mal aufgeschaut und warst plötzlich überrascht, wo du dich befandst? Ich glaube, ich habe jetzt gerade erst begriffen, dass ich ein Jahr von meiner Heimat weg bin."</DefaultText>
+      <DefaultText>" ... Hast du schon mal aufgeschaut und warst plötzlich überrascht, wo du dich befandest? Ich glaube, ich habe gerade erst begriffen, dass ich schon ein Jahr lang weg von meiner Heimat bin."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Kana, dich scheint ja kaum etwas zu belasten, oder?"</DefaultText>
+      <DefaultText>"Kana, dich kann nichts aus der Ruhe bringen, oder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Ich weiß es eigentlich nicht. Ich bin nie in einer der Todesfeuer-Siedlungen gewesen, und meine Eltern haben mir nur sehr wenig erzählt. Hauptsächlich Piratengeschichten."</DefaultText>
+      <DefaultText>"Ich weiß es eigentlich nicht. Ich bin nie in einer der Todesfeuer-Siedlungen gewesen und meine Eltern haben mir nur sehr wenig erzählt. Hauptsächlich Piratengeschichten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,7 +186,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Wael löst gar nichts, aber er hilft dabei, dich auf den rechten Weg zu führen, damit du selbst lernen kannst. Wenn er uns Antworten gab, so war das daraus resultierende Wissen ohne jeden Wert."</DefaultText>
+      <DefaultText>"Wael löst gar nichts, aber er hilft dabei, dich auf den rechten Weg zu führen, damit du selbst lernen kannst. Wenn er uns Antworten gäbe, so wäre das daraus resultierende Wissen ohne jeden Wert."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Brüder können lustig sein. Du würdest wohl überrascht sein, wie weit sie gehen können."</DefaultText>
+      <DefaultText>"Brüder können lustig sein. Du würdest wohl überrascht sein, wie weit sie gehen würden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Weiter südlich als im Dyrwald bin ich selbst noch nie gewesen. Vielleicht werde ich zurückkommen, nachdem ich den Ranga Nui überzeugt habe, und mir all diese Dinge alle selbst ansehen."</DefaultText>
+      <DefaultText>"Weiter südlich als im Dyrwald bin ich selbst noch nie gewesen. Vielleicht werde ich zurückkommen, nachdem ich den Ranga Nui überzeugt habe, und mir all diese Dinge selbst ansehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,7 +236,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Ich muss sagen, es ist wunderbar, jemanden zum Diskutieren zu haben! Man möchte meinen, dass sie das an der Sagenakademie eher zu schätzen wüssten ... "</DefaultText>
+      <DefaultText>"Ich muss sagen, es ist wunderbar, jemanden zum Diskutieren zu haben! An der Sagenakademie ist dies leider nicht so erwünscht, wie man meinen würde... "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,7 +246,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"In Tâkowa haben wir ein Denkmal für den Krieg des Heiligen. Man sagt, ein Rauatai-Artilleriemeister hätte zu der Götterhammerbombe beigetragen. Ich habe mich gefragt -"</DefaultText>
+      <DefaultText>"In Tâkowa haben wir ein Denkmal für den Krieg des Heiligen. Man sagt, ein Artilleriemeister der Rauatai hätte an der Konstruktion der Götterhammerbombe mitgewirkt. Ich habe mich gefragt -"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

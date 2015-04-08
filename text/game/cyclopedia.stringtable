@@ -664,7 +664,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Betäubte Charaktere können keinerlei Handlungen unternehmen. Gewandtheit, Wahrnehmung und Intellekt werden alle um jeweils 4 reduziert. Reflexe und Abwehr werden um 30 reduziert. Reflexe und Abwehr werden um 30 reduziert. Setzt Bewegungsunfähig und Niedergeschlagen außer Kraft.</DefaultText>
+      <DefaultText>Betäubte Charaktere können keinerlei Handlungen unternehmen. Gewandtheit, Wahrnehmung und Intellekt werden alle um jeweils 4 reduziert. Reflexe und Abwehr werden um 30 reduziert. Setzt Bewegungsunfähig und Niedergeschlagen außer Kraft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -764,7 +764,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Ein kritischer Treffer ist jeder Angriffswurf über 100. Ein kritischer Treffer, der Schaden verursacht, erhöht den verursachten Gesamtschaden um 25%. Ein kritischer Treffer bei Effekten mit einer Dauer (meistens Wirkungen wie Erkrankt oder Gelähmt) erhöht die Dauer um 50%.</DefaultText>
+      <DefaultText>Ein kritischer Treffer ist jeder Angriffswurf über 100. Ein kritischer Treffer, der Schaden verursacht, erhöht dessen Gesamtschaden um 50%. Ein kritischer Treffer bei Effekten mit einer Dauer (meistens Wirkungen wie Erkrankt oder Gelähmt) erhöht die Laufzeit um 50%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -806,7 +806,7 @@ Tapferkeit, Reflexe und Wille basieren alle auf Attributspaaren. Macht und Verfa
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>Wirkungen sind explizit gebündelte Gruppen von Statuseffekten, die auf einen Charakter angewandt werden können - und auch vorübergehend ausgesetzt oder vollständig entfernt. Einige Wirkungen können von stärkeren oder Wirkungen aufgehoben werden, die meisten Wirkungen können jedoch auch neben anderen Wirkungen bestehen bleiben.
+      <DefaultText>Wirkungen sind eine besondere Gruppe von Statuseffekten, die auf einen Charakter angewendet, unterdrückt oder vollständig entfernt werden können. Einige Wirkungen können von anderen überschrieben oder zeitweise ausgesetzt werden. Die meisten hingegen können zeitgleich bestehen.
 
 Wenn ein Zauber gegen ein Ziel gewirkt wird, werden der Zauber und seine untergeordenten Effekte und Wirkungen alle in einem prozedural-gebündelten Container zusammengefasst, der durch den Zauber generiert wird.
 

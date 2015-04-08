@@ -564,7 +564,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Die Genauigkeit eines benommenen Ziels wird um 10 reduziert. Gewandtheit, Wahrnehmung und Intellekt werden alle um jeweils 2 reduziert, Geschwindigkeit wird um 15% reduziert.</DefaultText>
+      <DefaultText>Die Genauigkeit eines benommenen Ziels wird um 10 reduziert. Gewandtheit, Wahrnehmung und Intellekt werden um jeweils 2 reduziert, Angriffsgeschwindigkeit wird um 15% reduziert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -604,7 +604,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Gewandtheit wird um 2 reduziert, Bewegung wird um 3 reduziert, Reflexe werden um 20 reduziert.</DefaultText>
+      <DefaultText>Die Gewandtheit eines humpelnden Ziels wird um 2 reduziert, Bewegung wird um 1,5 reduziert, Reflexe werden um 20 reduziert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -954,8 +954,8 @@ Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadens
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>Die Unterbrechung legt die Wahrscheinlichkeit fest, dass ein Charakter die Handlung seines Gegners aufhebt.
- Der Wurf nutzt einen Unterbrechung-Wert von dem Angriff (Waffe oder sonstiger Angriff), der dann mit der Konzentration des Ziels (basierend auf seiner Entschlossenheit) verglichen wird. Es wird eine Zahl von 1 - 100 gewürfelt und die Unterbrechung dazu addiert. Ist das Ergebnis höher als die Konzentration, spielt das Ziel eine Trefferreaktion ab und seine aktuelle Handlung geht verloren.
+      <DefaultText>Die Unterbrechung legt die Wahrscheinlichkeit fest, dass ein erfolgreicher Angriff die derzeitige oder nächste Handlung seines Gegners verzögert.
+ Der Wurf nutzt den Unterbrechung-Wert des Angreifers (basierend auf seiner Wahrnehmung), der dann mit der Konzentration des Ziels (basierend auf seiner Entschlossenheit) verglichen wird. Es wird eine Zahl von 1 - 100 gewürfelt und die Unterbrechung dazu addiert. Ist das Ergebnis höher als die Konzentration, spielt das Ziel eine Trefferreaktion ab und seine aktuelle Handlung wird verzögert.
 
 Die Dauer der Unterbrechung hängt von der Unterbrechungsstärke der Waffe bzw. des Angriffs ab. Eine Unterbrechung, die auf eine Figur angewandt wird, die schon unter einer Unterbrechung mit einer längeren Dauer leidet, hat keinen Effekt.</DefaultText>
       <FemaleText />

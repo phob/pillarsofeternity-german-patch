@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Die ganze Gegend wimmelt nur so von diesen Hüttenbewohnern, die euch für euer Eindringen nur zu gerne mit 'ner Axt begrüßen würden. Passt also auf, dass ihr keine Schlammspuren auf ihren heiligen glühenden Felsen hinterlasst."</DefaultText>
+      <DefaultText>"Die ganze Gegend wimmelt nur so von diesen Hüttenbewohnern, die euch für euer Eindringen nur zu gerne mit 'ner Axt begrüßen würden. Passt also auf, dass ihr keinen Dreck auf ihren heiligen glühenden Felsen hinterlasst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23,7 +23,7 @@ Schließlich wendet sich der Karawanenmeister dir zu und legt die Stirn in Falte
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Leichte Grollfäule, vielleicht. Gibt 'n Stechkäfer in der Gegend, der das überträgt. Erstmal durch deine Eingeweide durch, gehts wieder. Natürlich nur, wenn du genug trinkst ... andernfalls bist du in 'nem Tag tot."</DefaultText>
+      <DefaultText>"Leichte Grollfäule, vielleicht. Gibt 'n Stechkäfer in der Gegend, der das überträgt. Sobald das durch dich durch ist, gehts dir wieder besser. Natürlich nur, wenn du genug trinkst ... andernfalls bist du in 'nem Tag tot."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -183,7 +183,7 @@ Zwinkernd fügt er hinzu: "Hab ich zumindest gehört."</DefaultText>
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Mehr eine Hülle als ein richtiger Fels. Leichter zu bearbeiten, wenn man ein Steinmetz ist."
+      <DefaultText>"Mehr eine Hülle als ein richtiger Fels. Einfacher zu bearbeiten, wenn man ein Steinmetz ist."
 
 "Hat alle möglichen seltsamen Eigenschaften und eine Art Eigenleben. Stirbt, wenn man ihn ausgräbt - verliert seinen Glanz. Die Leute glauben, dass er früher noch hie und da gewachsen ist, aber heutzutage nicht mehr."</DefaultText>
       <FemaleText />
@@ -195,7 +195,7 @@ Zwinkernd fügt er hinzu: "Hab ich zumindest gehört."</DefaultText>
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Tut mir leid. Wenn du dein Wasser willst, gehst du ihn wohl besser suchen. Er hat alle Wasserschläuche."</DefaultText>
+      <DefaultText>"Tut mir leid. Wenn du Wasser willst, gehst du ihn wohl besser suchen. Er hat alle Wasserschläuche."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

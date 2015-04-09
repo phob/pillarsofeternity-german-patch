@@ -39,7 +39,7 @@ Sie blickt zum ersten Mal auf und mustert dich. "Das ist also die Wächterin, di
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Die Anhörungen können jeden Tag beendet sein. Du musst schnellstens einen Weg hinein finden."</DefaultText>
+      <DefaultText>"Die Anhörungen können jederzeit zu Ende gehen. Du musst schnellstens einen Weg hinein finden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -89,7 +89,7 @@ Sie blickt zum ersten Mal auf und mustert dich. "Das ist also die Wächterin, di
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Nicht nur du hast Interesse an ihren jüngsten Aktivitäten. Ich habe allein dieses Jahr bei dem Versuch, jemand in ihre Reihen einzuschleusen, vier Medien verloren. Wir können daher weiterhin nur mutmaßen, wer der Gruppe angehört ... und welche Ziele sie hat. Was wohl bedeutet, dass wir viel mit ihnen gemeinsam haben."
+      <DefaultText>"Nicht nur du hast Interesse an ihren jüngsten Aktivitäten. Ich habe allein dieses Jahr bei dem Versuch, jemand in ihre Reihen einzuschleusen, vier Medien verloren. Wir können daher weiterhin nur mutmaßen, wer der Gruppe angehört und welche Ziele sie hat. Was wohl bedeutet, dass wir viel mit ihnen gemeinsam haben."
 
 "Ich habe dich hergebeten, weil ich wissen wollte, was dein Interesse an all dem ist. Ich dachte, wir könnten einander vielleicht helfen. Warum suchst du nach dem Bleiernen Schlüssel?"</DefaultText>
       <FemaleText />
@@ -421,7 +421,7 @@ Ihre Mundwinkel zucken. "Er muss rasend sein vor Zorn."</DefaultText>
       <ID>101</ID>
       <DefaultText>"Mit ALLEN? Das muss dich einige Mühe gekostet haben, drei äußerst unterschiedliche Organisationen verprellt zu haben."
 
-"Bei allen Bestien Galawains, ich hoffe, es war kein großer Fehler, auf dich zu setzen. Das ist wahrlich SELTEN inkompetent."</DefaultText>
+"Bei allen Bestien Galawains, ich hoffe, es war kein schrecklicher Fehler, auf dich zu setzen. Das ist wahrlich SELTEN inkompetent."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -433,7 +433,7 @@ Ihre Mundwinkel zucken. "Er muss rasend sein vor Zorn."</DefaultText>
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Es wäre am besten, wenn niemand von der Beteiligung der Dunrydstraße weiß. Dann fällt es ihnen leichter, die Wahrheit anzunehmen."</DefaultText>
+      <DefaultText>"Es wäre am besten, wenn niemand von der Beteiligung der Dunrydstraße wüsste. Dann fiele es ihnen leichter, die Wahrheit anzunehmen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -452,14 +452,14 @@ Ihre Mundwinkel zucken. "Er muss rasend sein vor Zorn."</DefaultText>
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Jeder sieht in Aevar etwas anderes, deswegen sitzt er auf dem Thron. Für die Grenzbewohner ist er einer von ihnen. Für die Patrioten ist er ein Seelennachfahre von Admeth Hadret. Für die Adligen stammt er aus einer alten und ehrwürdigen Familie."
+      <DefaultText>"Jeder sieht in Aevar etwas anderes. Deswegen sitzt er auf dem Thron. Für die Grenzbewohner ist er einer von ihnen. Für die Patrioten ist er ein Seelennachfahre von Admeth Hadret. Für die Adligen stammt er aus einer alten und ehrwürdigen Familie."
 
-"All das sind Halbwahrheiten oder Übertreibungen. Märchen, die er selbst in die Welt gesetzt hat."</DefaultText>
+"All das sind Halbwahrheiten oder Übertreibungen, Märchen, die er selbst in die Welt gesetzt hat."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Der Mann hinter den Märchen ist vielleicht nicht der schärfste Verstand im Dyrwald, aber er besitzt Menschenkenntnis. Er weiß, wenn jemand ehrlich ist und wenn er lügt. Er weiß, wenn jemand stark ist und wenn er schwach ist. Die anderen Angelegenheiten überlässt er mir."
+      <DefaultText>"Der Mann hinter den Märchen ist vielleicht nicht der schärfste Verstand im Dyrwald, aber er besitzt Menschenkenntnis. Er weiß, wenn jemand ehrlich ist und wenn jemand lügt. Er weiß, wenn jemand stark ist und wenn jemand schwach ist. Die anderen Angelegenheiten überlässt er mir."
 
 "Nach außen gibt er gerne vor, ein wenig einfältig zu sein. Lass dich nicht täuschen. Bevor er Duc wurde, war er Fallensteller, und zwar ein ganz hervorragender."</DefaultText>
       <FemaleText />

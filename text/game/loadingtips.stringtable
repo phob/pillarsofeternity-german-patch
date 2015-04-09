@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Pillars of Eternity wurde durch die Beiträge von mehr als 77000 Fans ermöglicht. Wir von Obsidian möchten allen für ihr Feedback, ihre Unterstützung und die Gelegenheit zur Schaffung dieses Spiel danken.</DefaultText>
+      <DefaultText>Pillars of Eternity wurde durch die Beiträge von mehr als 77000 Fans ermöglicht. Wir von Obsidian möchten allen für ihr Feedback, ihre Unterstützung und die Gelegenheit zur Schaffung dieses Spiels danken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,17 +21,17 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Einige Kreaturen und Rüstungsarten sind besonders widerstandsfähig oder anfällig gegen bestimmte Schadensarten. Sieh dir die Schadensreduktionen der Kreatur in ihrem Tooltip und im Bestiarium an, um zu erfahren, welche Waffen und Zauber besonders effektiv gegen sie sind.</DefaultText>
+      <DefaultText>Einige Kreaturen und Rüstungsarten sind besonders widerstandsfähig oder anfällig gegen bestimmte Schadensarten. Sieh dir die Schadensreduktionen der Kreatur im entsprechenden Tooltip und im Bestiarium an, um zu erfahren, welche Waffen und Zauber besonders effektiv sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Alle Angriffe werden von einer von vier Verteidigungen abgeschwächt: Abwehr, Tapferkeit, Reflexe oder Wille. Wenn ein Feind hohen Widerstand gegen eine Angriffsart besitzt, probiere es mit einem Angriff, der auf eine andere Verteidigung abzielt.</DefaultText>
+      <DefaultText>Alle Angriffe werden von einer von vier Verteidigungen abgeschwächt: Abwehr, Tapferkeit, Reflexe oder Wille. Wenn ein Feind einen hohen Widerstand gegen eine dieser Angriffsarten besitzt, probiere es mit einem Angriff, der auf eine andere Verteidigungsart abzielt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Wenn ein Angriff ein Ziel trifft und Schaden anrichtet, wird er für gewöhnlich durch die Schadensreduktion des jeweiligen Schadenstyps reduziert. Schadensreduktion kann Schaden nicht vollständig abwenden, ihn aber deutlich reduzieren.</DefaultText>
+      <DefaultText>Wenn ein Angriff ein Ziel trifft und Schaden anrichtet, wird dieser für gewöhnlich durch die Schadensreduktion des jeweiligen Schadenstyps reduziert. Schadensreduktion kann Schaden nicht vollständig abwenden, ihn aber deutlich reduzieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Die Schadensart 'Direktschaden' ignoriert immer die Schadensreduktionen des Ziels. Nur eine kleine Anzahl von Angriffen - beispielsweise Gifte oder mentale Fähigkeiten - verursacht Direktschaden.</DefaultText>
+      <DefaultText>Die Schadensart 'Direktschaden' ignoriert die Schadensreduktionen des Ziels. Nur eine kleine Anzahl von Angriffen - beispielsweise Gifte oder mentale Fähigkeiten - verursacht Direktschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,17 +56,17 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Alle Waffen, Schilde oder Rüstungen können verzaubert werden. Dazu muss auf der Beschreibungsseite auf die Schaltfläche 'Verzaubern' geklickt werden.</DefaultText>
+      <DefaultText>Alle Waffen, Schilde oder Rüstungen können verzaubert werden, indem man auf der entsprechenden Beschreibungsseite auf die Schaltfläche 'Verzaubern' klickt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Tränke, Schriftrollen und Lebensmittel können geschaffen werden, indem im Inventar eines beliebigen Gruppenmitglieds auf 'Herstellen' geklickt wird.</DefaultText>
+      <DefaultText>Tränke, Schriftrollen und Lebensmittel können geschaffen werden, indem man im Inventar eines beliebigen Gruppenmitglieds auf 'Herstellen' klickt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Alle Rezepte im Verzaubern-Menü verwenden eine Art von Edelstein, eine Art von Pflanze, eine Art von Kreaturkörperteil und etwas Kupfer. Die meisten Zutaten werden in mehreren Rezepten verwendet.</DefaultText>
+      <DefaultText>Alle Rezepte im Verzauberungsmenü benötigen einen bestimmten Edelstein, eine bestimmte Pflanze, einen bestimmten Teil einer Kreatur und ein paar Kupfermünzen. Die meisten Zutaten werden in mehreren Rezepten verwendet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Die meisten Ereignisse in der Festung finden durch das Verstreichen der Spielzeit statt. Das Eintreiben von Steuern, das Abschließen von Nebenabenteuern und die Erstellung von Herstellungszutaten finden statt, wenn du Quests abschließt.</DefaultText>
+      <DefaultText>Die Dauer der meisten Ereignisse in deiner Festung richten sich nach dem Verstreichen der Spielzeit. Das Eintreiben von Steuern, das Abschließen von Abenteuern und die Erzeugung von Herstellungszutaten finden statt, wenn du Quests abschließt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,82 +86,82 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Effekte, die sich auf dieselbe Statistik auswirken, schließen sich oft gegenseitig aus. In diesem Fall verwendet das Spiel nur den jeweils höchsten Bonus dieser Art.</DefaultText>
+      <DefaultText>Effekte, die sich auf dieselbe Eigenschaft auswirken, schließen sich oft gegenseitig aus. In diesem Fall verwendet das Spiel nur den jeweils höchsten Bonus dieser Art.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Nahkampfbindung macht es schwierig für Charaktere, sich im Nahkampf von Verteidigern zu entfernen. Die Bindung kann jedoch durch eine Reihe von Wirkungen durchbrochen worden, unter anderem Niedergeschlagen, Betäubt, Gelähmt und Versteinert.</DefaultText>
+      <DefaultText>Nahkampfbindung macht es schwierig für Charaktere, sich im Nahkampf von Verteidigern zu entfernen. Die Bindung kann jedoch durch eine Reihe von Gebrechen aufgehoben worden, darunter Niedergeschlagen, Betäubt, Gelähmt und Versteinert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Durch die Entscheidungen deines Charakters in Dialogen und Quests baut er einen Ruf auf - einen allgemeinen und einen separaten bei einzelnen Gruppierungen. Charaktere in der Welt reagieren auf diese Entscheidungen und diesen Ruf - auf gute oder schlechte Weise.</DefaultText>
+      <DefaultText>Durch die Entscheidungen deines Charakters in Dialogen und Quests baust du dir einen Ruf auf - einen allgemeinen und einen separaten bei einzelnen Gruppierungen. Charaktere in der Welt reagieren auf diese Entscheidungen und diesen Ruf - auf gute oder schlechte Weise.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>In Dialogen übernimmt dein Hauptcharakter das Reden. Gefährten können jedoch manchmal ihre Meinung einbringen oder Vorschläge machen. In geskripteten Interaktionen können mehr Mitglieder der Gruppe teilnehmen.</DefaultText>
+      <DefaultText>In Dialogen übernimmt dein Hauptcharakter das Reden. Gefährten können jedoch manchmal ihre Meinung einbringen oder Vorschläge machen. In geskripteten Interaktionen können mehrere Mitglieder der Gruppe teilnehmen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Der Schwierigkeitsgrad beeinflusst, welche Kreaturen (und wie viele) im Kampf erscheinen. Nur 'Pfad der Verdammten' verändert die Statistiken der Kreaturen, die erscheinen.</DefaultText>
+      <DefaultText>Der Schwierigkeitsgrad beeinflusst, welche Kreaturen im Kampf erscheinen (und wie viele) . Nur 'Pfad der Verdammten' verändert die Statistiken der Kreaturen, die erscheinen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Macht wirkt sich auf sämtlichen Schaden und sämtliche Heilung des Charakters sowie auf seine Tapferkeit-Verteidigung aus. Außerdem kann sie in Dialogen und geskripteten Interaktionen für Prüfungen der Stärke und Kraft genutzt werden.</DefaultText>
+      <DefaultText>Macht wirkt sich auf sämtlichen verursachten Schaden und sämtliche Heilung des Charakters sowie auf seine Tapferkeit-Verteidigung aus. Außerdem kann sie in Dialogen und geskripteten Interaktionen für das Bestehen von Prüfungen, in denen Stärke oder Kraft erforderlich ist, genutzt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Verfassung wirkt sich auf die Ausdauer und Gesundheit des Charakters sowie auf seine Tapferkeit-Verteidigung aus. Außerdem kann sie in geskripteten Interaktionen genutzt werden, um körperliche Anstrengungen zu überstehen.</DefaultText>
+      <DefaultText>Verfassung wirkt sich auf die Ausdauer und Gesundheit des Charakters sowie auf seine Tapferkeit-Verteidigung aus. Außerdem kann sie in geskripteten Interaktionen genutzt werden, um physische Anstrengungen zu überstehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Gewandtheit wirkt sich auf die Aktionsgeschwindigkeit von Charakteren sowie auf ihre Reflexe-Verteidigung aus. Sie kann auch in Dialogen und geskripteten Interaktionen verwendet werden, um Fingerfertigkeitskunststücke oder schnelle Bewegungen auszuführen.</DefaultText>
+      <DefaultText>Gewandtheit wirkt sich auf die Aktionsgeschwindigkeit von Charakteren sowie auf ihre Reflexe-Verteidigung aus. Sie kann auch in Dialogen und geskripteten Interaktionen verwendet werden, wenn ein hohe Fingerfertigkeit oder Schnelligkeit erforderlich sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Die Wahrnehmung wirkt sich auf die Chance aus, dass ein Charakter Angriffe unterbricht, und trägt zu den Abwehr- und Reflexe-Verteidigungen bei. Sie kann auch in Dialogen und geskripteten Interaktionen verwendet werden, um kleine oder verborgene Details zu entdecken.</DefaultText>
+      <DefaultText>Die Wahrnehmung wirkt sich auf die Chance aus, dass ein Charakter Angriffe unterbricht, und trägt zu den Abwehr- und Reflexe-Verteidigungen bei. Sie kann auch in Dialogen und geskripteten Interaktionen verwendet werden, um kleine oder verborgene Details zu bemerken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Der Intellekt wirkt sich auf den Wirkungsbereich und die Dauer von Fähigkeiten sowie auf die Wille-Verteidigung aus. Außerdem kann er in Dialogen und geskripteten Interaktionen verwendet werden, wenn Logik oder Denkvermögen gefragt sind.</DefaultText>
+      <DefaultText>Der Intellekt wirkt sich auf den Wirkungsbereich und die Dauer von Fähigkeiten sowie auf die Willen-Verteidigung aus. Außerdem kann er in Dialogen und geskripteten Interaktionen verwendet werden, wenn Logik oder Denkvermögen gefragt sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Die Entschlossenheit wirkt sich auf die Konzentration und auf die Wille- und Abwehr-Verteidigungen aus. Außerdem kann sie in Dialogen und geskripteten Interaktionen verwendet werden, wenn rohe Willenskraft oder Charisma gefragt sind.</DefaultText>
+      <DefaultText>Die Entschlossenheit wirkt sich auf die Konzentration und auf die Willen- und Abwehr-Verteidigungen aus. Außerdem kann sie in Dialogen und geskripteten Interaktionen verwendet werden, wenn rohe Willenskraft, Eindringlichkeit oder Charisma erforderlich sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Die Athletik-Fähigkeit wird in geskripteten Interaktionen für Aktionen wie Klettern, Schwimmen und Springen verwendet. Klassen wie der Kämpfer und der Barbar beginnen mit einem Athletik-Bonus.</DefaultText>
+      <DefaultText>Athletik wird in geskripteten Interaktionen für Aktionen wie Klettern, Schwimmen und Springen verwendet. Klassen wie der Kämpfer und der Barbar beginnen mit einem Athletik-Bonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Die Wissen-Fähigkeit dient in Dialogen und geskripteten Interaktionen dazu, Hinweise zu entschlüsseln und sich an esoterisches Wissen zu erinnern. Klassen wie der Zauberer und der Sänger beginnen mit einem Wissen-Bonus.</DefaultText>
+      <DefaultText>Wissen dient in Dialogen und geskripteten Interaktionen dazu, Hinweise zu entschlüsseln und sich an esoterisches Wissen zu erinnern. Klassen wie der Zauberer und der Sänger beginnen mit einem Wissen-Bonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Die Mechanik-Fähigkeit wird verwendet, um in der Welt Schlösser zu knacken und Fallen zu entschärfen und um in geskripteten Interaktionen Maschinen zu bedienen. Klassen wie der Schurke und der Sänger beginnen mit einem Mechanik-Bonus.</DefaultText>
+      <DefaultText>Mechanik wird benötigt, um in der Welt Schlösser zu knacken und Fallen zu entschärfen und um in geskripteten Interaktionen Maschinen zu bedienen. Klassen wie der Schurke und der Sänger beginnen mit einem Mechanik-Bonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Die Heimlichkeit-Eigenschaft wird verwendet, um im Spähmodus nicht entdeckt zu werden. Klassen wie der Schurke und der Waldläufer beginnen mit einem Heimlichkeit-Bonus.</DefaultText>
+      <DefaultText>Heimlichkeit sorgt dafür, im Spähmodus nicht entdeckt zu werden. Klassen wie der Schurke und der Waldläufer beginnen mit einem Heimlichkeit-Bonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Die Überleben-Fähigkeit dient dazu, in Dialogen und geskripteten Interaktionen Pflanzen, Kreaturen und andere Bestandteile der natürlichen Welt zu identifizieren. Klassen wie der Waldläufer und der Barbar beginnen mit einem Athletik-Bonus.</DefaultText>
+      <DefaultText>Überleben dient dazu, in Dialogen und geskripteten Interaktionen Pflanzen, Kreaturen und andere Bestandteile der natürlichen Welt zu identifizieren. Klassen wie der Waldläufer und der Barbar beginnen mit einem Überlebens-Bonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,17 +176,17 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Sänger können nicht nur singen! Der Kampf an vorderster Front steht zwar nicht im Mittelpunkt ihrer Fähigkeiten, aber sie sind fähige Krieger und können andere Handlungen ausführen, während sie singen und Phrasen sammeln.</DefaultText>
+      <DefaultText>Sänger können nicht nur singen! Der Kampf an vorderster Front steht zwar nicht im Mittelpunkt ihrer Fähigkeiten, aber sie sind fähige Krieger und können andere Handlungen ausführen, während sie weiter singen und Phrasen ansammeln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Medien nutzen Fokus, um ihre Fähigkeiten einzusetzen. Sie können zusätzlichen Fokus sammeln, indem sie mit Waffen Schaden anrichten, während ihre Seelenpeitsche aktiv ist. Die Seelenpeitsche wird deaktiviert, wenn der Fokus eines Mediums vollständig gefüllt ist.</DefaultText>
+      <DefaultText>Medien nutzen Fokus, um ihre Fähigkeiten einzusetzen. Sie können zusätzlichen Fokus sammeln, indem sie mit Waffen Schaden anrichten, während ihre Seelenpeitsche aktiv ist. Die Seelenpeitsche wird deaktiviert, wenn der Fokusvorrat eines Mediums vollständig gefüllt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Druiden besitzen ein breites Spektrum an Wirkungsbereich-Angriffszaubern. Außerdem besitzen sie die Fähigkeit, sich durch Geisterwandeln in eine Tiergestalt zu verwandeln, in der sie mächtige Nahkampfkräfte besitzen.</DefaultText>
+      <DefaultText>Druiden besitzen ein breites Spektrum an Angriffszaubern, die einen gewissen Wirkungsbereich abdecken. Außerdem besitzen sie die Fähigkeit, sich in eine animalische Geistergestalt zu verwandeln, in der sie mächtige Nahkampfkräfte besitzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,12 +196,12 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Mönche besitzen mächtige unbewaffnete Angriffe, können jedoch alle ihre Fähigkeiten auch mit Standard-Nahkampfwaffen einsetzen. Einige ihrer Fähigkeiten können sie dann einsetzen, wenn sie es entscheiden - für viele Fähigkeiten ist es aber Voraussetzung, dass sie Schaden erleiden und Wunden generieren. Die Wunden können dann als Energiequelle für die Spezialfähigkeiten des Mönchs dienen.</DefaultText>
+      <DefaultText>Mönche besitzen mächtige unbewaffnete Angriffe, können jedoch alle ihre Fähigkeiten auch mit Standard-Nahkampfwaffen einsetzen. Während sie einige ihrer Fähigkeiten dann einsetzen können, wenn sie es wollen, ist es aber für viele ihrer Fähigkeiten Voraussetzung, dass sie Schaden erleiden und Wunden generieren. Disee Wunden können dann die Energie für die Spezialfähigkeiten des Mönchs bereitstellen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Paladine besitzen eine Mischung aus Unterstützungsfähigkeiten und offensiven Fähigkeiten. Seine eifrige Aura wirkt sich dauerhaft auf alle Verbündeten in der Nähe des Paladins aus. Ihre Ermunterungen belegen immer einen einzelnen Verbündeten mit einem mächtigen Effekt.</DefaultText>
+      <DefaultText>Paladine besitzen eine Mischung aus offensiven und Unterstützungsfähigkeiten. Die eifrige Auren des Paldins wirken sich dauerhaft auf alle Verbündeten in der Nähe aus. Ihre Ermunterungen belegen immer einen einzelnen Verbündeten mit einem mächtigen Effekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,17 +216,17 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Durch ihre Schleichangriff-Fähigkeit besitzen Schurken den höchsten Waffenschaden aller Klassen. Trifft ein Schurke einen Feind, der mit einer Wirkung belegt ist, die einen Schleichangriff ermöglicht, verursacht der Treffer automatisch zusätzlichen Schaden.</DefaultText>
+      <DefaultText>Durch ihre Schleichangriff-Fähigkeit besitzen Schurken den höchsten Waffenschaden aller Klassen. Trifft ein Schurke einen Feind, der an einem Gebrechen leidet, das einen Schleichangriff ermöglicht, verursacht der Treffer automatisch zusätzlichen Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Zauberer können nur Zauber wirken, die sich in ihrem ausgerüsteten Zauberbuch befinden. Zusätzliche Zauberbücher können in den Schnellauswahl-Plätzen des Zauberers abgelegt werden, der Zauberer kann jedoch mehrere Sekunden lang nicht auf die neuen Zauber zugreifen.</DefaultText>
+      <DefaultText>Zauberer können nur Zauber wirken, die sich in ihrem ausgerüsteten Zauberbuch befinden. Es können zwar zusätzliche Zauberbücher in den Schnellauswahl-Plätzen des Zauberers abgelegt werden, der Zauberer kann jedoch mehrere Sekunden lang nicht auf die neuen Zauber zugreifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Das Lager der Gruppe kann verwendet werden, um überflüssige Ausrüstung zu lagern, wenn die Inventare der Charaktere voll sind. Einige Arten von Gegenständen, beispielsweise Quest-Gegenstände und Zutaten, werden automatisch im Lager abgelegt.</DefaultText>
+      <DefaultText>Das Lager der Gruppe kann verwendet werden, um überflüssige Ausrüstung aufzubewahren, wenn sich die Inventare der Charaktere füllen. Einige Arten von Gegenständen wie Quest-Gegenstände und Zutaten werden automatisch im Lager abgelegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,7 +236,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Kleinere und schnellere Waffen haben meist eine niedrigere Unterbrechung-Wertung, greifen aber mit höherer Frequenz an.</DefaultText>
+      <DefaultText>Kleinere und schnellere Waffen haben meist eine niedrigere Unterbrechungwert, greifen aber mit höherer Frequenz an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,7 +281,7 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Waffen und Schilde verleihen Boni, die mit Boni von anderen Gegenstandstypen addiert werden.</DefaultText>
+      <DefaultText>Waffen und Schilde verleihen Boni, die mit Boni von anderen Gegenstandstypen kombiniert werden können.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -316,7 +316,7 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Die meisten Kreaturen entdecken einen Charakter kurz, nachdem sie am Rand des Kriegsnebels auftauchen. Um dich an Feinde anzuschleichen, verwende den Spähmodus.</DefaultText>
+      <DefaultText>Die meisten Kreaturen entdecken einen Charakter ziemlich schnell, wenn sie am Rand des Kriegsnebels auftauchen. Verwende den Spähmodus, um dich an Feinde anzuschleichen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -326,17 +326,17 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Sowohl das zentrale HUD als auch das Kampfprotokoll können minimiert werden, wenn du die Welt erkunden willst, so dass nur die Charakterporträts zu sehen sind.</DefaultText>
+      <DefaultText>Sowohl das zentrale HUD als auch das Kampfprotokoll können minimiert werden, wenn du die Welt erkunden willst während nur die Charakterporträts zu sehen sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Halte den Cursor über einen Angriff im Kampfprotokoll, um weitere Einzelheiten zu dem Angriff anzuzeigen.</DefaultText>
+      <DefaultText>Halte den Cursor über einen Eintrag zu einem Antriff im Kampfprotokoll, um weitere Einzelheiten anzuzeigen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Die rote Füllung auf dem Porträt eines Charakters steht für seinen Ausdauerverlust. Der Balken links neben dem Porträt steht für die Gesundheit. Der Gesundheitsbalken ändert seine Farbe, je mehr er sich der 0 nähert. Wenn die Gesundheit unter der maximalen Ausdauer liegt, zeigt ein Balken auf dem Porträt an, dass die Ausdauer begrenzt ist.</DefaultText>
+      <DefaultText>Die rote Füllung auf dem Porträt eines Charakters steht für seinen Ausdauerverlust. Der Balken links neben dem Porträt steht für die Gesundheit. Der Gesundheitsbalken ändert seine Farbe, je mehr er sich dem Nullpunkt annähert. Wenn die Gesundheit unter der maximalen Ausdauer liegt, zeigt ein grauer Balken auf dem Porträt an, dass die Ausdauer begrenzt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,7 +346,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Bewege den Cursor über die Symbole auf dem Porträt eines Charakters, um zu sehen, welche Zauber oder Fähigkeiten ihn momentan beeinflussen.</DefaultText>
+      <DefaultText>Bewege den Cursor über die Symbole rechts neben dem Porträt eines Charakters, um zu sehen, welche Zauber oder Fähigkeiten ihn momentan beeinflussen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,12 +361,12 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Das Bestiarium enthält alle Informationen, die du über sämtliche Kreaturen freigeschaltet hast, gegen die du je gekämpft hast. Je mehr Kreaturen du besiegst, desto mehr Informationen werden in jedem Eintrag freigeschaltet.</DefaultText>
+      <DefaultText>Das Bestiarium enthält alle Informationen, die du über sämtliche Kreaturen freigeschaltet hast, gegen die du je gekämpft hast. Je mehr Kreaturen du besiegst, desto mehr Informationen werden im entsprechenden Eintrag freigeschaltet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Der langsame Modus kann verwendet werden, um Charakteren im Kampf Befehle zu erteilen, ohne das Spiel zu pausieren. Der schnelle Modus ist nützlich, um Gebiete zu durchqueren, die deine Gruppe bereits erforscht hat.</DefaultText>
+      <DefaultText>Der langsame Modus kann verwendet werden, um Charakteren im Kampf Befehle zu erteilen, ohne das Spiel pausieren zu müssen. Der schnelle Modus ist nützlich, um Gebiete zu durchqueren, die deine Gruppe bereits erforscht hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,27 +376,27 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Wenn du mit Wirkungsbereich-Angriffen zielst, hat der Zielkreis eventuell einen äußeren Umfang. Der Raum zwischen dem inneren und dem äußeren Umfang ist ein 'nur Feinde'-Bereich. Verbündete, die in diesem Bereich stehen, nehmen durch den Zauber keinen Schaden.</DefaultText>
+      <DefaultText>Wenn du mit Angriffen zielst, die einen gewissen Gebietsschaden haben, beinhaltet der Zielkreis eventuell einen äußeren Umfang. Der Raum zwischen dem inneren und dem äußeren Umfang schadet nur Feinden. Verbündete, die in diesem Bereich stehen, nehmen durch den Zauber keinen Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Du kannst eine Kette von Aktionen planen, indem du die Umschalt-Taste gedrückt hältst, während du Befehle erteilst.</DefaultText>
+      <DefaultText>Du kannst eine Kette von Aktionen planen, indem du die Umschalttaste gedrückt hältst, während du Befehle erteilst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>NPCs mit goldenen Namensplaketten wurden von unseren Unterstützern entworfen. Durch die Interaktion mit ihnen kannst du ihre Seelen erforschen.</DefaultText>
+      <DefaultText>NPCs mit goldenen Namensplaketten wurden von unseren Unterstützern entworfen. Durch die Interaktion mit diesen NPCs kannst du ihre Seelen erforschen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Die Biographie deines Charakters schreibt sich im Verlauf deiner Abenteuer selbst. Im Tagebuch-Reiter des Quest-Fensters siehst du, wie sich dein Charakter entwickelt hat.</DefaultText>
+      <DefaultText>Die Biographie deines Charakters schreibt sich im Verlauf deiner Abenteuer selbst. Im Reiter für das Tagebuch im Questfenster siehst du, wie sich dein Charakter entwickelt hat.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Die Art und Weise, wie dein Charakter in Dialogen mit Personen interagiert, selbst die Nuancen, beeinflusst seinen Ruf. Wenn dein Ruhm größer wird, behandeln einige Charaktere dich vielleicht anders.</DefaultText>
+      <DefaultText>Die Art und Weise, wie dein Charakter in Dialogen mit Personen interagiert, selbst in Nuancen, beeinflusst seinen Ruf. Wenn dein Ruhm größer wird, behandeln einige Charaktere dich vielleicht anders.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Auf dem Porträt eines Gefährten erscheint ein Dialog-Symbol, wenn er etwas mit dir besprechen möchte.</DefaultText>
+      <DefaultText>Auf dem Porträt eines Gefährten erscheint ein Dialogsymbol, wenn er etwas mit dir besprechen möchte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,32 +416,32 @@
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Verwende die Tab-Taste, um interaktive Gegenstände in der Umgebung zu markieren.</DefaultText>
+      <DefaultText>Verwende die Tabtaste, um interaktive Gegenstände in der Umgebung anzuzeigen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Wenn du die Försterhütte bei deiner Festung baust, erhältst du Zugang zu zahlreichen Kopfgeldaufträgen. Kopfgeld-Quests sind herausfordernde Kampfbegegungen, die wertvolle Belohnungen einbringen kann, darunter auch einzigartige Gegenstände.</DefaultText>
+      <DefaultText>Wenn du die Försterhütte bei deiner Festung baust, erhältst du Zugang zu zahlreichen Kopfgeldaufträgen. Kopfgeldqests sind herausfordernde Kampfbegegungen, die wertvolle Belohnungen einbringen können, darunter auch einzigartige Gegenstände.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>NSCs mit goldenen Namen wurden von Backern gestaltet. Interagiere mit ihnen um die Möglichkeit zu haben diese einmaligen Geschichten zu erleben.</DefaultText>
+      <DefaultText>NPCs mit goldener Namensplakette wurden von Backern gestaltet. Interagiere mit ihnen, um die Möglichkeit zu haben, die einzigartige Geschichten jedes einzelnen dieser NPCs zu ergründen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>Das Grabstein-Symbol gibt eine Gedenkstätte an. Dies sind persönliche Mitteilungen unserer Backer. Spieler die sich völlig in der Welt vertiefen möchten, sollten diese meiden, da viele von den Mitteilungen die vierte Wand durchbrechen.</DefaultText>
+      <DefaultText>Das Grabsteinsymbol markiert eine Gedenkstätte. Hier finden sich persönliche Mitteilungen unserer Backer. Spieler, die sich völlig in die Spielwelt eintauchen wollen, sollten diese meiden, da viele dieser Mitteilungen möglicherweise die Immersion reduzieren könnten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Bei Umschalttaste-Linksklick auf einem Gegenstand in einem Behälter, wandert der Gegenstand direkt in dein Lager.</DefaultText>
+      <DefaultText>Klickt man auf einen Gegenstand in einem Behälter bei gleiczeitig gedrückter Umschalttaste, wandert der Gegenstand direkt in dein Lager.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Du kannst jede Fähigkeit auf eine Schnelltaste legen, wenn die Maus über der Fähigkeit liegt und die entsprechende Schnelltaste gedrückt wird.</DefaultText>
+      <DefaultText>Du kannst jede Fähigkeit auf eine Schnelltaste legen, indem du den Cursor über die Fähigkeit legst und die entsprechende Schnelltaste drückst.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

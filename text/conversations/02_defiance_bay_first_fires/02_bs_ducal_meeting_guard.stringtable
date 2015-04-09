@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"[Player Name], Fürst Doemenel hat uns von Ihrer Teilnahme unterrichtet. Die Galerie steht Ihnen nun offen."</DefaultText>
+      <DefaultText>"[Player Name], Fürst&#160;Doemenel hat uns von Ihrer Teilnahme unterrichtet. Die Galerie steht Ihnen nun offen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"[Player Name], Kommandant Clyver hat uns von Ihrer Teilnahme unterrichtet. Die Galerie steht Ihnen nun offen."</DefaultText>
+      <DefaultText>"[Player Name], Kommandant&#160;Clyver hat uns von Ihrer Teilnahme unterrichtet. Die Galerie steht Ihnen nun offen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"[Player Name], die Anhörung hat bereits begonnen. Lady Webb hat uns jedoch angewiesen, einen Platz für Sie auf der Galerie zu reservieren."</DefaultText>
+      <DefaultText>"[Player Name], die Anhörung hat bereits begonnen. Lady&#160;Webb hat uns jedoch angewiesen, einen Platz für Sie auf der Galerie zu reservieren."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

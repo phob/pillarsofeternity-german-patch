@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Eir Glanfath</DefaultText>
+      <DefaultText>Eir&#160;Glanfath</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Käfer sind nicht ganz so groß wie ein Mann, aber aufgrund ihres einschüchternden Äußeren verscheuchen sie die meisten Reisenden. Besucher werden von diesen beängstigend großen Insekten stets beeindruckt und erschreckt, was das Bild des Dyrwalds als kaum zivilisiertes, rückständiges Nest bekräftigt. Die weite Wildnis in und um den Dyrwald (und Eir Glanfath) herum gibt den Käfern genügend Platz, sich zu vermehren. Die erfolgreichste große Käferart kann sich nicht nur in ihrer Umgebung tarnen, sondern sich auch Rückenpanzer aus gewöhnlichen und widerstandsfähigen Materialien wie Holz, Stein und Adra wachsen lassen. Von glanfathanischen Stämmen ist bekannt, dass sie aus den Rückenpanzern und Beinen dieser Käfer grobe Schilde und sogar Waffen fertigen. 
+      <DefaultText>Käfer sind nicht ganz so groß wie ein Mann, aber aufgrund ihres einschüchternden Äußeren verscheuchen sie die meisten Reisenden. Besucher werden von diesen beängstigend großen Insekten stets beeindruckt und erschreckt, was das Bild des Dyrwalds als kaum zivilisiertes, rückständiges Nest bekräftigt. Die weite Wildnis in und um den Dyrwald (und Eir&#160;Glanfath) herum gibt den Käfern genügend Platz, sich zu vermehren. Die erfolgreichste große Käferart kann sich nicht nur in ihrer Umgebung tarnen, sondern sich auch Rückenpanzer aus gewöhnlichen und widerstandsfähigen Materialien wie Holz, Stein und Adra wachsen lassen. Von glanfathanischen Stämmen ist bekannt, dass sie aus den Rückenpanzern und Beinen dieser Käfer grobe Schilde und sogar Waffen fertigen. 
 
 Obwohl allem Anschein nach das Gegenteil zutrifft, wohnt dem gemeinen Käfer eine vielschichtige Komplexität inne. Wenn sie sich für ein Material entscheiden, aus dem sie ihren Panzer wachsen lassen, tun sie dies derart bewusst, dass es an Kunst grenzt. Waldkäfer graben häufig komplizierte Löcher in ihre Rückenpanzer. Indem sie Luft durch diese behelfsmäßigen Röhren blasen, spielen sie eine unheimliche Musik an, mit der sie Geschlechtspartner anlocken. Steinkäfer tragen rudimentäre Hauer und Hörner, mit denen sie sich verteidigen und Beute angreifen können. Die Feinheiten von Adra-Käfer sind noch nicht sonderlich gut bekannt - man weiß eigentlich nur, dass sie nur schwer zu töten sind.</DefaultText>
       <FemaleText />
@@ -259,7 +259,7 @@ Da ihre weiteren Entwicklungschancen gering sind, schließen sich die meisten Li
 
 Die Elfenbeinspinnen und Witwenmacher sind noch tödlicher als Speerspinnen, da sie hochgiftig sind. Darüber hinaus kann die Elfenbeinspinne ihre Beute verlangsamen, indem sie ihr Netze entgegenschleudert. Witwenmacher spinnen zwar keine Netze, dafür ist ihr Gift außerordentlich wirksam.
 
-Die sagenumwobenen Kristallfresser sind enorme und mächtige Kreaturen, die man nur selten abseits der entlegensten Gegenden in Eir Glanfath sieht. Sie besitzen magische Fähigkeiten, was manchen Zauberern zufolge daran liegt, dass sie Adra und verzauberte Edelsteine fressen. Zusätzlich zu ihrer Fähigkeit, ein Feld tödlicher Kristalldornen zu erzeugen, verwandelt das Gift des Kristallfressers das Fleisch und Blut eines Opfers vorübergehend in Stein. Aufeinanderfolgende Angriffe des Kristallfressers auf einen gelähmten Feind führen schnell zum Tod.</DefaultText>
+Die sagenumwobenen Kristallfresser sind enorme und mächtige Kreaturen, die man nur selten abseits der entlegensten Gegenden in Eir&#160;Glanfath sieht. Sie besitzen magische Fähigkeiten, was manchen Zauberern zufolge daran liegt, dass sie Adra und verzauberte Edelsteine fressen. Zusätzlich zu ihrer Fähigkeit, ein Feld tödlicher Kristalldornen zu erzeugen, verwandelt das Gift des Kristallfressers das Fleisch und Blut eines Opfers vorübergehend in Stein. Aufeinanderfolgende Angriffe des Kristallfressers auf einen gelähmten Feind führen schnell zum Tod.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -273,7 +273,7 @@ Lauerer sind dafür berüchtigt, sich in voller Sicht zu verstecken. Oft warten 
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Einst wurden Löwen in den Ebenen östlich und südlich von Eir Glanfaths ausgedehnten Wäldern oft gesichtet, aber die Kolonisierung im Östlichen Abschnitt hat die Großkatzen in die relative Sicherheit des Territoriums zwischen den glanfathanischen und dyrwäldlerischen Siedlungen zurückgedrängt. Zusätzlich zu ihrer enormen Kraft sind Löwen für ihr Gebrüll bekannt, einem furchterregenden Geräusch, das selbst dem tapfersten Gestandenen die Angst ins Herz treiben kann.</DefaultText>
+      <DefaultText>Einst wurden Löwen in den Ebenen östlich und südlich von Eir&#160;Glanfath&#2060;s ausgedehnten Wäldern oft gesichtet, aber die Kolonisierung im Östlichen Abschnitt hat die Großkatzen in die relative Sicherheit des Territoriums zwischen den glanfathanischen und dyrwäldlerischen Siedlungen zurückgedrängt. Zusätzlich zu ihrer enormen Kraft sind Löwen für ihr Gebrüll bekannt, einem furchterregenden Geräusch, das selbst dem tapfersten Gestandenen die Angst ins Herz treiben kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -337,9 +337,9 @@ Generell sind sie allen Lebensformen feindselig gesinnt, aber ihre Hauptfeinde s
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Die Delemgan sind Waldgeister von Eir Glanfath, die an uralte (oftmals versteinerte) Bäume oder Adra-Monumente gebunden sind. Ihre Körper scheinen fast denen von Elfen zu gleichen, ihre Haut aber ist hölzern und ihre Haare sind lang und pflanzenartig (Adragan scheinen Haut aus Adra zu haben). Delemgan leuchten schwach und sind oft von winzigen Lichtflecken umgeben. Sie tragen zwar keine Kleidung, aber aufgrund des Fehlens von Geschlechtsorganen haben sie nur im Allgemeinen eine humanoide Gestalt. Delemgan sind rein magische Wesen und benutzen beim Angriff keine physischen Waffen. Ihre Attraktivität setzen sie in Kombination mit ihren magischen Fähigkeiten ein, was üblicherweise zum Aufhalten von Angreifern geschieht, oder um sie in den Tod zu locken.
+      <DefaultText>Die Delemgan sind Waldgeister von Eir&#160;Glanfath, die an uralte (oftmals versteinerte) Bäume oder Adra-Monumente gebunden sind. Ihre Körper scheinen fast denen von Elfen zu gleichen, ihre Haut aber ist hölzern und ihre Haare sind lang und pflanzenartig (Adragan scheinen Haut aus Adra zu haben). Delemgan leuchten schwach und sind oft von winzigen Lichtflecken umgeben. Sie tragen zwar keine Kleidung, aber aufgrund des Fehlens von Geschlechtsorganen haben sie nur im Allgemeinen eine humanoide Gestalt. Delemgan sind rein magische Wesen und benutzen beim Angriff keine physischen Waffen. Ihre Attraktivität setzen sie in Kombination mit ihren magischen Fähigkeiten ein, was üblicherweise zum Aufhalten von Angreifern geschieht, oder um sie in den Tod zu locken.
 
-Diese Kreaturen beziehen ihre Essenz aus ihrer Umgebung. Obwohl sie physische Körper haben und getötet werden können, wenn man dieser Körper vernichtet, hängt ihr Überleben auch von der Gesundheit ihrer Umgebung ab. Naturgemäß empfinden sie anderen Lebewesen gegenüber keine Feindseligkeit, aber ihre Territorien verteidigen sie mit wilder Entschlossenheit. Demzufolge können Delemgan und Adragan ("Adra-Geborene") abhängend von dem Wohlergehen ihrer Umgebung und davon, ob sich andere Erforscher oder Abenteurer in der Vergangenheit als gefährlich oder bösartig herausgestellt haben, mehr oder weniger feindselig sein. Sie sind eine natürliche Blockade großangelegter Bauprojekte. Während die ländlichen Stämme in Eir Glanfath oftmals friedlich mit ihnen zusammenleben, können expandierende oder im Bau befindliche Städte und Dörfer von feindseligen Delemgan heimgesucht werden Auch manche Gestandene sind gegen die Zerstörung von Delemgan-Lebensräumen. Diese Vorstellung wird im Allgemeinen von den Stadtbewohnern unterstützt, die glauben, dass ihre Seelen einfach in anderen Wäldern oder zurück in Gestandene wiedergeboren werden. 
+Diese Kreaturen beziehen ihre Essenz aus ihrer Umgebung. Obwohl sie physische Körper haben und getötet werden können, wenn man dieser Körper vernichtet, hängt ihr Überleben auch von der Gesundheit ihrer Umgebung ab. Naturgemäß empfinden sie anderen Lebewesen gegenüber keine Feindseligkeit, aber ihre Territorien verteidigen sie mit wilder Entschlossenheit. Demzufolge können Delemgan und Adragan ("Adra-Geborene") abhängend von dem Wohlergehen ihrer Umgebung und davon, ob sich andere Erforscher oder Abenteurer in der Vergangenheit als gefährlich oder bösartig herausgestellt haben, mehr oder weniger feindselig sein. Sie sind eine natürliche Blockade großangelegter Bauprojekte. Während die ländlichen Stämme in Eir&#160;Glanfath oftmals friedlich mit ihnen zusammenleben, können expandierende oder im Bau befindliche Städte und Dörfer von feindseligen Delemgan heimgesucht werden Auch manche Gestandene sind gegen die Zerstörung von Delemgan-Lebensräumen. Diese Vorstellung wird im Allgemeinen von den Stadtbewohnern unterstützt, die glauben, dass ihre Seelen einfach in anderen Wäldern oder zurück in Gestandene wiedergeboren werden. 
 
 Traditionell verhalten sich Delemgan Waldläufern und Druiden gegenüber friedfertig. Ihre spirituelle Verbindung mit Bäumen hat bei ihnen zu einem tieferen Verständnis der Verbindung zwischen Waldläufern und deren tierischen Gefährten geführt, obwohl eine definitive Beziehung dazu noch belegt werden muss.</DefaultText>
       <FemaleText />
@@ -386,7 +386,7 @@ Fähige Druiden können mehrere Geisterwandlerformen erlernen. Sie glauben, dass
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Stelgaer sind große Raubkatzen. Während Jungtiere häufig als Einzelgänger jagen, bilden erwachsene Stelgaer zur Verteidigung ihres Territoriums, zur Jagd auf Beute und zum Aufziehen ihrer Jungen häufig Rudel. Diese Katzen sind aggressiv und äußerst anpassungsfähig. Bestimmte Populationen der Spezies finden sich in vielseitigen Umgebungen, von heißen Ebenen bis hin zur gefrorenen Tundra. Durch die Siedlungen von Gestandenen wurden sie größtenteils aus dem Territorium um Trutzbucht vertrieben. Aus diesem Grund kommen sie in Eir Glanfath häufiger vor. Ihr Status als tödliche Raubtiere hat sie bei Galawain-Anhängern zu einer beliebten Jagdtrophäe gemacht.</DefaultText>
+      <DefaultText>Stelgaer sind große Raubkatzen. Während Jungtiere häufig als Einzelgänger jagen, bilden erwachsene Stelgaer zur Verteidigung ihres Territoriums, zur Jagd auf Beute und zum Aufziehen ihrer Jungen häufig Rudel. Diese Katzen sind aggressiv und äußerst anpassungsfähig. Bestimmte Populationen der Spezies finden sich in vielseitigen Umgebungen, von heißen Ebenen bis hin zur gefrorenen Tundra. Durch die Siedlungen von Gestandenen wurden sie größtenteils aus dem Territorium um Trutzbucht vertrieben. Aus diesem Grund kommen sie in Eir&#160;Glanfath häufiger vor. Ihr Status als tödliche Raubtiere hat sie bei Galawain-Anhängern zu einer beliebten Jagdtrophäe gemacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1306,7 +1306,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>Aedyranisches Reich</DefaultText>
+      <DefaultText>Reich Aedyr</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1326,12 +1326,12 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>Eir Glanfath</DefaultText>
+      <DefaultText>Eir&#160;Glanfath</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>Ein Gebiet, das aus dem Wald südöstlich des Flusses Bael besteht, bevölkert von einer Gruppe lose verbundener Stämme, die gemeinsam als Glanfathaner bekannt sind. Ein Rat der sechs mächtigsten Stämme regiert das Land. In Eir Glanfath befinden sich zahlreiche Ruinen engwithanischer Stätten, die für die Glanfathaner heilig sind. Die Ruinen sind immer wieder Gegenstand schwerer Konflikte mit Kolonisten aus dem Dyrwald, deren Siedlungen oft auf glanfathanischem Gebiet liegen und die die Ruinen auf der Suche nach Relikten plündern.</DefaultText>
+      <DefaultText>Ein Gebiet, das aus dem Wald südöstlich des Flusses Bael besteht, bevölkert von einer Gruppe lose verbundener Stämme, die gemeinsam als Glanfathaner bekannt sind. Ein Rat der sechs mächtigsten Stämme regiert das Land. In Eir&#160;Glanfath befinden sich zahlreiche Ruinen engwithanischer Stätten, die für die Glanfathaner heilig sind. Die Ruinen sind immer wieder Gegenstand schwerer Konflikte mit Kolonisten aus dem Dyrwald, deren Siedlungen oft auf glanfathanischem Gebiet liegen und die die Ruinen auf der Suche nach Relikten plündern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1341,7 +1341,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>Der Name einer ausgestorbenen Zivilisation, die über zwei Jahrtausende alt ist. Ihr Bevölkerungszentrum soll sich dort befunden haben, wo heute Eir Glanfath und Dyrfurt liegen.</DefaultText>
+      <DefaultText>Der Name einer ausgestorbenen Zivilisation, die über zwei Jahrtausende alt ist. Ihr Bevölkerungszentrum soll sich dort befunden haben, wo heute Eir&#160;Glanfath und Dyrfurt liegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1356,12 +1356,12 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>Vailianische Republiken</DefaultText>
+      <DefaultText>Vailianischen Republiken</DefaultText> <!-- 'n' required to match at least some texts -->
       <FemaleText />
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>Eine Handelsmacht und die ehemalige Kolonie einer größeren, älteren Nation, Alt-Vailia. Die Republiken liegen südlich des Dyrwalds und Eir Glanfaths und werden von einem Duc regiert, der vom "Consuagli Asegia" gewählt wird, einem Rat aus 14 Ducs, darunter auch die fünf mächtigsten, die "Ducs Bels".</DefaultText>
+      <DefaultText>Eine Handelsmacht und die ehemalige Kolonie einer größeren, älteren Nation, Alt-Vailia. Die Republiken liegen südlich des Dyrwalds und Eir&#160;Glanfath&#2060;s und werden von einem Duc regiert, der vom "Consuagli Asegia" gewählt wird, einem Rat aus 14 Ducs, darunter auch die fünf mächtigsten, die "Ducs Bels".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1411,7 +1411,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>Ein Sturm, der nur in der Wildnis von Eir Glanfath auftritt. Wer innerhalb des Sturms gefangen ist, dem wird die Seele aus dem Leib gerissen.</DefaultText>
+      <DefaultText>Ein Sturm, der nur in der Wildnis von Eir&#160;Glanfath auftritt. Wer innerhalb des Sturms gefangen ist, dem wird die Seele aus dem Leib gerissen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1558,7 +1558,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
       <ID>289</ID>
       <DefaultText>Pillars of Eternity wurde mit der Großzügigkeit tausender Backer ermöglicht, von denen viele Inhalte zum fertigen Spiel beigetragen haben.
 
-NSCs mit goldenen Namen wurden von Backern gestaltet. Interagiere mit ihnen um die Möglichkeit zu haben diese einmaligen Geschichten zu erleben.
+NSCs mit goldenen Namensplaketten wurden von unseren Unterstützern entworfen. Interagiere mit ihnen, um die Möglichkeit zu haben, die einzigartigen Geschichten jedes einzelnen dieser NSCs zu ergründen.
 
 Das Grabstein-Symbol gibt eine Gedenkstätte an. Dies sind persönliche Mitteilungen unserer Backer. Spieler die sich völlig in der Welt vertiefen möchten, sollten diese meiden, da viele von den Mitteilungen die vierte Wand durchbrechen.</DefaultText>
       <FemaleText />

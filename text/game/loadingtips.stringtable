@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Nahkampfbindung macht es schwierig für Charaktere, sich im Nahkampf von Verteidigern zu entfernen. Die Bindung kann jedoch durch eine Reihe von Gebrechen aufgehoben worden, darunter Niedergeschlagen, Betäubt, Gelähmt und Versteinert.</DefaultText>
+      <DefaultText>Nahkampfbindung macht es schwierig für Charaktere, sich im Nahkampf von Angreifern zu entfernen. Die Bindung kann jedoch durch eine Reihe von Gebrechen aufgehoben werden, darunter Niedergeschlagen, Betäubt, Gelähmt und Versteinert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -436,7 +436,7 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Klickt man auf einen Gegenstand in einem Behälter bei gleiczeitig gedrückter Umschalttaste, wandert der Gegenstand direkt in dein Lager.</DefaultText>
+      <DefaultText>Klickt man auf einen Gegenstand in einem Behälter bei gleichzeitig gedrückter Umschalttaste, wandert der Gegenstand direkt in dein Lager.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

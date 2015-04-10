@@ -94,7 +94,7 @@ Dann schließlich lässt er seine Keule fallen.
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Ich verstecke mich vor Leuten wie dir." Er kratzt an einem Stoßzahn und starrt dich an. "Gestandene, von seltsamen Stürmen aus ihren Heimstätten getrieben. Banditen auf der Suche nach Blut und Gold. In der Nähe von Gestandenen ist meine Sorte bestenfalls unsicher ... aber jetzt? Die Gemüter erhitzen sich, und bei euren Alchemisten steht Ogerblut hoch im Kurs."
+      <DefaultText>"Ich verstecke mich vor Leuten wie dir." Er kratzt an einem Stoßzahn und starrt dich an. "Gestandene, von seltsamen Stürmen aus ihren Heimstätten getrieben. Banditen auf der Suche nach Blut und Gold. In der Nähe von Gestandenen ist meine Sorte bestenfalls unsicher&#160;… aber jetzt? Die Gemüter erhitzen sich, und bei euren Alchemisten steht Ogerblut hoch im Kurs."
 
 Er greift seine Keule noch fester.</DefaultText>
       <FemaleText />
@@ -125,7 +125,7 @@ Er fängt an, wieder zurück in den Schatten zu schlurfen. "Wenn du mich brauchs
       <ID>36</ID>
       <DefaultText>Er beobachtet dich unter dem dichten Dickicht seiner Augenbrauen. "Hmmh, für einen Dörfler zu gut ausgerüstet. Dann also ein Bandit von der Straße. Muss so sein."
 
-Der Oger schnaubt und festigt den Griff um seine Keule. "Ich habe zurückgezogen gelebt. Niemanden habe ich getötet ... gut, vielleicht außer den Narren, die leichtsinnig genug waren, mich bis hierher zu verfolgen. Warum suchst du nach mir?"</DefaultText>
+Der Oger schnaubt und festigt den Griff um seine Keule. "Ich habe zurückgezogen gelebt. Niemanden habe ich getötet&#160;… gut, vielleicht außer den Narren, die leichtsinnig genug waren, mich bis hierher zu verfolgen. Warum suchst du nach mir?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -145,7 +145,7 @@ Der Oger schnaubt und festigt den Griff um seine Keule. "Ich habe zurückgezogen
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"In einer Höhle voller Spinnen versteckt man sich doch schließlich nur, wenn es dort draußen etwas gibt, vor dem man sich wirklich fürchtet ... "</DefaultText>
+      <DefaultText>"In einer Höhle voller Spinnen versteckt man sich doch schließlich nur, wenn es dort draußen etwas gibt, vor dem man sich wirklich fürchtet&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@ Der Oger schnaubt und festigt den Griff um seine Keule. "Ich habe zurückgezogen
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Na dann ... viel Glück."</DefaultText>
+      <DefaultText>"Na dann&#160;… viel Glück."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -235,7 +235,7 @@ Der Oger schnaubt und festigt den Griff um seine Keule. "Ich habe zurückgezogen
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Welch Zufall, dass du fragst - du erinnerst dich, dass ich von Zwillingsulmen sprach, als wir uns das erste Mal begegnet sind? Mir wurde erzählt, dass dort einige Oger leben - und zwar nicht als Diener oder Sklaven."
+      <DefaultText>"Welch Zufall, dass du fragst&#160;– du erinnerst dich, dass ich von Zwillingsulmen sprach, als wir uns das erste Mal begegnet sind? Mir wurde erzählt, dass dort einige Oger leben&#160;– und zwar nicht als Diener oder Sklaven."
 
 Hiravias zuckt mit den Achseln und lächelt Korgrak an. "Den Druiden wird es wohl nicht gefallen, aufgegessen zu werden, aber vielleicht kann Korgrak ja lieb mit ihnen spielen?"</DefaultText>
       <FemaleText />
@@ -249,7 +249,7 @@ Hiravias zuckt mit den Achseln und lächelt Korgrak an. "Den Druiden wird es woh
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Weißt du, die Glanfathaner sind etwas toleranter, was Oger angeht. Angeblich leben in Zwillingsulmen einige Oger unter ihnen. Wenn ... dieser sich friedlich verhalten kann, kann er das vielleicht auch tun."</DefaultText>
+      <DefaultText>"Weißt du, die Glanfathaner sind etwas toleranter, was Oger angeht. Angeblich leben in Zwillingsulmen einige Oger unter ihnen. Wenn&#160;… dieser sich friedlich verhalten kann, kann er das vielleicht auch tun."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -264,12 +264,12 @@ Hiravias zuckt mit den Achseln und lächelt Korgrak an. "Den Druiden wird es woh
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Er drückt seine Keule so sehr, dass sie ächzend knackt. "Verdammt, muss ich mich wirklich von dir daran erinnern lassen, wie jämmerlich mein Schicksal ist?" Er schaut zu dir hinunter, während er seine Keule anhebt. "Und wenn das deine Art sein sollte, mich hinauszujagen ... "</DefaultText>
+      <DefaultText>Er drückt seine Keule so sehr, dass sie ächzend knackt. "Verdammt, muss ich mich wirklich von dir daran erinnern lassen, wie jämmerlich mein Schicksal ist?" Er schaut zu dir hinunter, während er seine Keule anhebt. "Und wenn das deine Art sein sollte, mich hinauszujagen&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Du musst nicht in dieser fürchterlichen Höhle bleiben. So ein stattlicher und starker Oger würde doch da draußen im Wald bestimmt keine Probleme haben ... "</DefaultText>
+      <DefaultText>"Du musst nicht in dieser fürchterlichen Höhle bleiben. So ein stattlicher und starker Oger würde doch da draußen im Wald bestimmt keine Probleme haben&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -365,7 +365,7 @@ Er schwingt sich seine Keule auf die Schulter, schaut zur Höhlenöffnung und ze
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Diese orlanische Händlerin ... sie verkauft Ogerblut?"</DefaultText>
+      <DefaultText>"Diese orlanische Händlerin&#160;… sie verkauft Ogerblut?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

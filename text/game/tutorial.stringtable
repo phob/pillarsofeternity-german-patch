@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Um ein Mitglied deiner Gruppe auszuwählen, klicke auf seinen/ihren Auswahlkreis oder sein/ihr Porträt oder drücke die Zifferntaste, die seiner Position in der Gruppe entspricht - beginnend auf der linken Seite mit der 1. Um mehrere Gruppenmitglieder auszuwählen, klicke auf einen beliebigen Punkt auf dem Bildschirm, halte die Maustaste gedrückt und ziehe den Cursor über die Kreise der Mitglieder, die du auswählen möchtest.</DefaultText>
+      <DefaultText>Um ein Mitglied deiner Gruppe auszuwählen, klicke auf seinen/ihren Auswahlkreis oder sein/ihr Porträt oder drücke die Zifferntaste, die seiner Position in der Gruppe entspricht&#160;– beginnend auf der linken Seite mit der 1. Um mehrere Gruppenmitglieder auszuwählen, klicke auf einen beliebigen Punkt auf dem Bildschirm, halte die Maustaste gedrückt und ziehe den Cursor über die Kreise der Mitglieder, die du auswählen möchtest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>An einem Gespräch nehmen du und ein anderer Charakter teil. Manchmal werfen auch umstehende Personen oder Gefährten etwas ein. Die Dialogauswahl, die du triffst, beeinflusst den Verlauf der Geschichte und wirkt sich mit der Zeit auf den Ruf deines Charakters aus. Die Charaktere in der Spielwelt hören von deinem Ruf - gut oder schlecht - und reagieren entsprechend auf dich.</DefaultText>
+      <DefaultText>An einem Gespräch nehmen du und ein anderer Charakter teil. Manchmal werfen auch umstehende Personen oder Gefährten etwas ein. Die Dialogauswahl, die du triffst, beeinflusst den Verlauf der Geschichte und wirkt sich mit der Zeit auf den Ruf deines Charakters aus. Die Charaktere in der Spielwelt hören von deinem Ruf&#160;– gut oder schlecht&#160;– und reagieren entsprechend auf dich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,12 +61,12 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Alle Charaktere im Spiel - Freund wie Feind - haben vier primäre Verteidigungen gegen Angriffe: Abwehr, Tapferkeit, Reflexe und Wille. Diese Verteidigungen basieren auf den Attributen des Charakters, seiner Stufe, seinen Gegenständen und anderen Effekten. Erfolgt ein Angriff, wird die Genauigkeit mit den jeweiligen Verteidigungen verglichen. Wenn die Genauigkeit unter der entsprechenden Verteidigung liegt, wird der Angriff mit einem Malus belegt und verfehlt mit höherer Wahrscheinlichkeit sein Ziel. Liegt die Genauigkeit über der entsprechenden Verteidigung, führt der Angriff mit einer höheren Wahrscheinlichkeit zu einem kritischen Treffer.</DefaultText>
+      <DefaultText>Alle Charaktere im Spiel&#160;– Freund wie Feind&#160;– haben vier primäre Verteidigungen gegen Angriffe: Abwehr, Tapferkeit, Reflexe und Wille. Diese Verteidigungen basieren auf den Attributen des Charakters, seiner Stufe, seinen Gegenständen und anderen Effekten. Erfolgt ein Angriff, wird die Genauigkeit mit den jeweiligen Verteidigungen verglichen. Wenn die Genauigkeit unter der entsprechenden Verteidigung liegt, wird der Angriff mit einem Malus belegt und verfehlt mit höherer Wahrscheinlichkeit sein Ziel. Liegt die Genauigkeit über der entsprechenden Verteidigung, führt der Angriff mit einer höheren Wahrscheinlichkeit zu einem kritischen Treffer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Alle Angriffe, die Schaden verursachen, müssen die Schadensreduktion (SR) des Ziels überwinden. Die SR eines Feindes reduziert den erlittenen Schaden um die angegebene Menge, bis zu einem Mindestprozentsatz. Wenn es dir nicht gelingt, einen Feind zu verletzen, versuche es mit anderen Waffen oder Angriffen, die eine andere Art von Schaden verursachen. Die meisten Feinde sind relativ immun gegen ein bis zwei Schadensarten - und anfällig gegen eine ähnliche Anzahl an Schadensarten.</DefaultText>
+      <DefaultText>Alle Angriffe, die Schaden verursachen, müssen die Schadensreduktion (SR) des Ziels überwinden. Die SR eines Feindes reduziert den erlittenen Schaden um die angegebene Menge, bis zu einem Mindestprozentsatz. Wenn es dir nicht gelingt, einen Feind zu verletzen, versuche es mit anderen Waffen oder Angriffen, die eine andere Art von Schaden verursachen. Die meisten Feinde sind relativ immun gegen ein bis zwei Schadensarten&#160;– und anfällig gegen eine ähnliche Anzahl an Schadensarten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,17 +76,17 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Du hast einen kritischen Treffer gelandet! Ein kritischer Treffer ist ein besseres Ergebnis als ein Treffer. Die Wahrscheinlichkeit, dass du einen kritischen Treffer landest, ist höher, wenn die Genauigkeit des Angriffs über der Verteidigung des Ziels liegt. Angriffe, die Schaden anrichten, richten höheren Schaden an, wenn sie als kritischer Treffer landen. Angriffe, die Statuseffekte oder Wirkungen auslösen, haben eine längere Dauer, wenn sie als kritischer Treffer landen. Leichte Treffer sind schwächer als Treffer - ihr Schaden ist niedriger, Effekte und Wirkungen halten weniger lang an.</DefaultText>
+      <DefaultText>Du hast einen kritischen Treffer gelandet! Ein kritischer Treffer ist ein besseres Ergebnis als ein Treffer. Die Wahrscheinlichkeit, dass du einen kritischen Treffer landest, ist höher, wenn die Genauigkeit des Angriffs über der Verteidigung des Ziels liegt. Angriffe, die Schaden anrichten, richten höheren Schaden an, wenn sie als kritischer Treffer landen. Angriffe, die Statuseffekte oder Wirkungen auslösen, haben eine längere Dauer, wenn sie als kritischer Treffer landen. Leichte Treffer sind schwächer als Treffer&#160;– ihr Schaden ist niedriger, Effekte und Wirkungen halten weniger lang an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Du greifst gerade einen Feind mit mindestens einer Verteidigung (Abwehr, Tapferkeit, Reflexe, Wille) an, die deutlich über der Genauigkeit des angreifenden Charakters liegt. Wenn die Verteidigung deutlich über der Genauigkeit liegt, kann es sehr schwer sein, einen Treffer zu landen - und unmöglich, einen kritischen Treffer zu landen. Versuche, die Genauigkeit des Angreifers zu erhöhen, oder verwende Zauber oder Fähigkeiten, die eine andere Verteidigung angreifen.</DefaultText>
+      <DefaultText>Du greifst gerade einen Feind mit mindestens einer Verteidigung (Abwehr, Tapferkeit, Reflexe, Wille) an, die deutlich über der Genauigkeit des angreifenden Charakters liegt. Wenn die Verteidigung deutlich über der Genauigkeit liegt, kann es sehr schwer sein, einen Treffer zu landen&#160;– und unmöglich, einen kritischen Treffer zu landen. Versuche, die Genauigkeit des Angreifers zu erhöhen, oder verwende Zauber oder Fähigkeiten, die eine andere Verteidigung angreifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Wenn ein Gruppenmitglied Schaden erleidet, beginnt es, Ausdauer und Gesundheit zu verlieren. Sein Porträt beginnt sich rot zu färben und die Gesundheitsanzeige links neben dem Porträt fängt langsam an sich zu leeren. Wenn das Porträt vollständig rot gefärbt ist, wird der Charakter bewusstlos. Die Ausdauer kann mit Tränken und Zaubern regeneriert werden, um Charaktere kampffähig zu halten - die Gesundheit kann aber nur durch eine Ruhephase wieder aufgefüllt werden.</DefaultText>
+      <DefaultText>Wenn ein Gruppenmitglied Schaden erleidet, beginnt es, Ausdauer und Gesundheit zu verlieren. Sein Porträt beginnt sich rot zu färben und die Gesundheitsanzeige links neben dem Porträt fängt langsam an sich zu leeren. Wenn das Porträt vollständig rot gefärbt ist, wird der Charakter bewusstlos. Die Ausdauer kann mit Tränken und Zaubern regeneriert werden, um Charaktere kampffähig zu halten&#160;– die Gesundheit kann aber nur durch eine Ruhephase wieder aufgefüllt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Wenn die Gesundheit auf 0 sinkt, fällt der Charakter sofort zu Boden. Je nach Schwierigkeitsgrad wird der Charakter entweder verstümmelt oder getötet. Ein verstümmelter Charakter wird mit einem schweren Kampfmalus belegt und stirbt, wenn er zusätzlichen Schaden erleidet. Getötete Charaktere sind einfach tot ... und in Pillars of Eternity ist der Tod endgültig.</DefaultText>
+      <DefaultText>Wenn die Gesundheit auf 0 sinkt, fällt der Charakter sofort zu Boden. Je nach Schwierigkeitsgrad wird der Charakter entweder verstümmelt oder getötet. Ein verstümmelter Charakter wird mit einem schweren Kampfmalus belegt und stirbt, wenn er zusätzlichen Schaden erleidet. Getötete Charaktere sind einfach tot&#160;… und in Pillars of Eternity ist der Tod endgültig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -128,7 +128,7 @@
       <ID>24</ID>
       <DefaultText>Der Spähmodus dient sowohl zur Tarnung als auch zum Finden verborgener Objekte wie Fallen und geheimer Behälter. 
 
-Im Spähmodus beginnen die Auswahlkreise deiner Charaktere, sich gelb zu füllen, wenn ein anderer Charakter anfängt sie zu bemerken. Wenn der Kreis vollständig gelb ist, wird der andere Charakter misstrauisch und sieht sich um - der Kreis füllt sich dabei rot. Ist der Kreis vollständig rot gefüllt, werden deine Charaktere entdeckt.
+Im Spähmodus beginnen die Auswahlkreise deiner Charaktere, sich gelb zu füllen, wenn ein anderer Charakter anfängt sie zu bemerken. Wenn der Kreis vollständig gelb ist, wird der andere Charakter misstrauisch und sieht sich um&#160;– der Kreis füllt sich dabei rot. Ist der Kreis vollständig rot gefüllt, werden deine Charaktere entdeckt.
 
 Die Fähigkeit eines Charakters, verborgene Objekte zu finden, basiert auf seiner Mechanik-Fähigkeit. Je höher die Mechanik-Fähigkeit, desto größer die Entfernung, auf die der Charakter Objekte finden kann.</DefaultText>
       <FemaleText />
@@ -150,7 +150,7 @@ Die Fähigkeit eines Charakters, verborgene Objekte zu finden, basiert auf seine
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Zauberer haben die Fähigkeit, eine atemberaubende Zahl von Zaubersprüchen zu lernen - sie werden aber immer von der Kapazität ihrer Zauberbücher beschränkt. Ein Zauberbuch kann immer nur vier Zaubersprüche jeder Stufe enthalten. Klicke im rechten Fenster auf einen Zauberspruch, um ihn aus dem Zauberbuch zu entfernen. Füge Zaubersprüche zu leeren Plätzen hinzu, indem du im linken Fenster auf den Zauberspruch klickst.</DefaultText>
+      <DefaultText>Zauberer haben die Fähigkeit, eine atemberaubende Zahl von Zaubersprüchen zu lernen&#160;– sie werden aber immer von der Kapazität ihrer Zauberbücher beschränkt. Ein Zauberbuch kann immer nur vier Zaubersprüche jeder Stufe enthalten. Klicke im rechten Fenster auf einen Zauberspruch, um ihn aus dem Zauberbuch zu entfernen. Füge Zaubersprüche zu leeren Plätzen hinzu, indem du im linken Fenster auf den Zauberspruch klickst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -175,7 +175,7 @@ Die Fähigkeit eines Charakters, verborgene Objekte zu finden, basiert auf seine
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Wenn ein Charakter aus der Gruppe entfernt wurde, kehrt er entweder in die Schänke zum Schwarzen Hund in Goldtal zurück oder - wenn du sie bereits besitzt - in deine Festung.</DefaultText>
+      <DefaultText>Wenn ein Charakter aus der Gruppe entfernt wurde, kehrt er entweder in die Schänke zum Schwarzen Hund in Goldtal zurück oder&#160;– wenn du sie bereits besitzt&#160;– in deine Festung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -200,7 +200,7 @@ Die Fähigkeit eines Charakters, verborgene Objekte zu finden, basiert auf seine
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Ausbauten deiner Festung kosten Geld - und brauchen Zeit. Ausbauten können die Sicherheit oder das Prestige deiner Festung erhöhen oder ihr zusätzliche Funktionalitäten verleihen, beispielsweise Ruhephasenboni, regelmäßige kostenlose Herstellungsmaterialien oder neue Läden.</DefaultText>
+      <DefaultText>Ausbauten deiner Festung kosten Geld&#160;– und brauchen Zeit. Ausbauten können die Sicherheit oder das Prestige deiner Festung erhöhen oder ihr zusätzliche Funktionalitäten verleihen, beispielsweise Ruhephasenboni, regelmäßige kostenlose Herstellungsmaterialien oder neue Läden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@ Die Fähigkeit eines Charakters, verborgene Objekte zu finden, basiert auf seine
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Gefolgsleute helfen im unglücklichen Falle eines Angriffs auf deine Festung, teure Kollateralschäden zu vermeiden. Sie kosten zwar Geld, doch die Kosten werden meistens durch die Vermeidung potenzieller Schäden ausgeglichen. Gefolgsleute tragen auch zur Sicherheit und Prestige der Festung bei - manchmal auch negativ.</DefaultText>
+      <DefaultText>Gefolgsleute helfen im unglücklichen Falle eines Angriffs auf deine Festung, teure Kollateralschäden zu vermeiden. Sie kosten zwar Geld, doch die Kosten werden meistens durch die Vermeidung potenzieller Schäden ausgeglichen. Gefolgsleute tragen auch zur Sicherheit und Prestige der Festung bei&#160;– manchmal auch negativ.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

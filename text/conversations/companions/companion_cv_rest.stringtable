@@ -42,9 +42,9 @@ Letztendlich zieht sie sich zurück. "Es tut mir leid. Welche Geheimnisse deine 
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Das ist der Grund, weshalb wir zusammen reisen. Dass einer die Kraft vieler nutzen kann, und dass viel durch den Sinn des Einzelnen ... ausgebessert werden kann."
+      <DefaultText>"Das ist der Grund, weshalb wir zusammen reisen. Dass einer die Kraft vieler nutzen kann, und dass viel durch den Sinn des Einzelnen&#160;… ausgebessert werden kann."
 
-Während sie dich anstarrt, scheint sich ihre Stirn mit einer neuen Art von Furcht in Falten zu legen. "Deine verdunkelte Vergangenheit ... belastet sie dich?"</DefaultText>
+Während sie dich anstarrt, scheint sich ihre Stirn mit einer neuen Art von Furcht in Falten zu legen. "Deine verdunkelte Vergangenheit&#160;… belastet sie dich?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@ Während sie dich anstarrt, scheint sich ihre Stirn mit einer neuen Art von Furc
       <ID>11</ID>
       <DefaultText>Du hast gerade begonnen, dich zu dehnen und die Schmerzen aus deinem Körper herauszubekommen, als du spürst, wie dir Aloth über deine Schulter schaut. Als du ihn bemerkst, schaut er schnell weg und knetet seine Hände zu sich windenden Fäusten.
 
-"Tut mir leid, [Player Name], ich wollte mich nicht an dich heranschleichen. Ich dachte nur, naja, du scheinst ... geistesabwesend zu sein."</DefaultText>
+"Tut mir leid, [Player Name], ich wollte mich nicht an dich heranschleichen. Ich dachte nur, naja, du scheinst&#160;… geistesabwesend zu sein."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,12 +81,12 @@ Während sie dich anstarrt, scheint sich ihre Stirn mit einer neuen Art von Furc
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Er lacht unbehaglich. "Verrückte alte Wächter, ein Kult auf unseren Fersen ... warum sollte man sich da keine Sorgen machen?"</DefaultText>
+      <DefaultText>Er lacht unbehaglich. "Verrückte alte Wächter, ein Kult auf unseren Fersen&#160;… warum sollte man sich da keine Sorgen machen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Ich habe nur bemerkt, dass du dich in letzter Zeit ein bisschen ... ungewöhnlich verhalten hast." Er scheint jeden Schweißtropfen aus seinen Fingern zu wringen. "Du redest mit Leuten, die nicht da sind, erlebst Teile deines vorherigen Lebens von Neuem ... Ich wollte nur sichergehen, dass du in Ordnung bist." Er starrt auf einen Punkt am Boden.</DefaultText>
+      <DefaultText>"Ich habe nur bemerkt, dass du dich in letzter Zeit ein bisschen&#160;… ungewöhnlich verhalten hast." Er scheint jeden Schweißtropfen aus seinen Fingern zu wringen. "Du redest mit Leuten, die nicht da sind, erlebst Teile deines vorherigen Lebens von Neuem&#160;… Ich wollte nur sichergehen, dass du in Ordnung bist." Er starrt auf einen Punkt am Boden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,7 +133,7 @@ Während sie dich anstarrt, scheint sich ihre Stirn mit einer neuen Art von Furc
       <ID>25</ID>
       <DefaultText>Er grinst schmerzhaft. "Du kennst mich zu gut,"
 
-"aber es scheint, als würden sich unsere Gebrechen unterscheiden. Iselmyr bringt sich dann und wann zur Geltung, aber das ist nichts Neues. Du andererseits ... " Er zieht an einer Haarlocke. "Dein Zustand scheint sich zu verschlechtern."</DefaultText>
+"aber es scheint, als würden sich unsere Gebrechen unterscheiden. Iselmyr bringt sich dann und wann zur Geltung, aber das ist nichts Neues. Du andererseits&#160;…" Er zieht an einer Haarlocke. "Dein Zustand scheint sich zu verschlechtern."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,19 +251,19 @@ Deine Augen sind schwer und du siehst verschwommen. Das vage Unwohlsein von Albt
       <ID>49</ID>
       <DefaultText>"He. He! Du bist wach? Gut."
 
-Er atmet aus. "Du hast - du hast dich herumgeworfen, hast deine Augen nach hinten gerollt. Und du hast gezuckt."
+Er atmet aus. "Du hast&#160;– du hast dich herumgeworfen, hast deine Augen nach hinten gerollt. Und du hast gezuckt."
 
 "Ich versuche seit einer Weile, dich aufzuwecken. Ich dachte schon, ich müsste einen Eimer kaltes Wasser holen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Du, äh - du scheinst nachts nur wenig Schlaf zu finden. Du hast dunkle Ringe unter den Augen."</DefaultText>
+      <DefaultText>"Du, äh&#160;– du scheinst nachts nur wenig Schlaf zu finden. Du hast dunkle Ringe unter den Augen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"In letzter Zeit nicht. Nachts kommen Träume ... und flüsternde Stimmen."</DefaultText>
+      <DefaultText>"In letzter Zeit nicht. Nachts kommen Träume&#160;… und flüsternde Stimmen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -334,7 +334,7 @@ Er schüttelt den Kopf. "Du musst damit aufhören. Ich habe dich halb verprügel
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Du bist zur Zeit sehr unruhig. Das erinnert mich an Maerwald - mehr, als mir lieb ist. Wenn ich etwas tun kann, sag es mir einfach."
+      <DefaultText>"Du bist zur Zeit sehr unruhig. Das erinnert mich an Maerwald&#160;– mehr, als mir lieb ist. Wenn ich etwas tun kann, sag es mir einfach."
 
 "Es fehlt nicht mehr viel. Halte noch eine Weile durch, wir kriegen dich wieder hin."</DefaultText>
       <FemaleText />
@@ -390,10 +390,10 @@ Er schüttelt den Kopf. "Du musst damit aufhören. Ich habe dich halb verprügel
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Versteck dich, so viel du willst, Wächter, aber es ist offensichtlich, dass du leidest, weil du mit dem Feuer der Götter gespielt hast - wie alle Wächter es verdienen."
+      <DefaultText>"Versteck dich, so viel du willst, Wächter, aber es ist offensichtlich, dass du leidest, weil du mit dem Feuer der Götter gespielt hast&#160;– wie alle Wächter es verdienen."
 
 "Aber du wurdest noch nicht gebrochen, Wächter. Gib deinen Feinden nicht diese Befriedigung, bevor es nötig ist."</DefaultText>
-      <FemaleText>"Versteck dich, so viel du willst, Wächterin, aber es ist offensichtlich, dass du leidest, weil du mit dem Feuer der Götter gespielt hast - wie alle Wächter es verdienen."
+      <FemaleText>"Versteck dich, so viel du willst, Wächterin, aber es ist offensichtlich, dass du leidest, weil du mit dem Feuer der Götter gespielt hast&#160;– wie alle Wächter es verdienen."
 
 "Aber du wurdest noch nicht gebrochen, Wächterin. Gib deinen Feinden nicht diese Befriedigung, bevor es nötig ist."</FemaleText>
     </Entry>

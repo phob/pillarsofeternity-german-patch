@@ -63,7 +63,7 @@ Die Arme der zwei Steinskulpturen deuten auf den Mund, als würden sie dich einl
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Du drehst dich um, siehst am anderen Ende der Straße jedoch dasselbe Bild - der kieferlose Schädel, flankiert von zwei skelettartigen Gestalten. 
+      <DefaultText>Du drehst dich um, siehst am anderen Ende der Straße jedoch dasselbe Bild&#160;– der kieferlose Schädel, flankiert von zwei skelettartigen Gestalten. 
 
 Die Skulpturen drehen die Köpfe zu dir. Ihre Finger krümmen sich langsam, sie winken dich heran.</DefaultText>
       <FemaleText />
@@ -117,8 +117,8 @@ Du drehst dich um und blickst hinter dich, wo du das Schädeltor vor dir siehst,
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Lass dich nicht von den Illusionen des Todesgottes einschüchtern, Wächter. Berath hat keine Macht über uns - noch nicht."</DefaultText>
-      <FemaleText>"Lass dich nicht von den Illusionen des Todesgottes einschüchtern, Wächterin. Berath hat keine Macht über uns - noch nicht."</FemaleText>
+      <DefaultText>"Lass dich nicht von den Illusionen des Todesgottes einschüchtern, Wächter. Berath hat keine Macht über uns&#160;– noch nicht."</DefaultText>
+      <FemaleText>"Lass dich nicht von den Illusionen des Todesgottes einschüchtern, Wächterin. Berath hat keine Macht über uns&#160;– noch nicht."</FemaleText>
     </Entry>
     <Entry>
       <ID>37</ID>
@@ -193,7 +193,7 @@ Du blickst auf und siehst vor dir das Schädeltor. Die Kerzen von Teir Evron bli
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Du schlägst zu und bist überrascht, wie leicht die Haut durch deinen Hieb nachgibt. Sie zerreißt wie getrocknetes Leinen - entlang einer Naht, die an seinem Arm beginnt und sich über seinen ganzen Körper erstreckt. Blut sprudelt in solchen Mengen aus ihm hervor, dass du dir schwer vorstellen kannst, dass er je etwas Anderes in sich getragen hat.
+      <DefaultText>Du schlägst zu und bist überrascht, wie leicht die Haut durch deinen Hieb nachgibt. Sie zerreißt wie getrocknetes Leinen&#160;– entlang einer Naht, die an seinem Arm beginnt und sich über seinen ganzen Körper erstreckt. Blut sprudelt in solchen Mengen aus ihm hervor, dass du dir schwer vorstellen kannst, dass er je etwas Anderes in sich getragen hat.
 
 Und tatsächlich, sobald das Blut den Zwerg verlassen hat, fällt er zusammen wie eine ausgetrocknete Hülle. Das Blut auf dem Pfad leuchtet mit der Essenz von tausend Seelen. Die Essenz verdampft, glänzende Fäden steigen in den Nachthimmel emport.
 
@@ -298,7 +298,7 @@ Du reißt dich von ihrem brüchigen Griff los.</DefaultText>
       <ID>63</ID>
       <DefaultText>Du beginnst, in ihre Richtung zu gehen. Es sieht unnatürlich aus, wie sie steht. Als wäre sie zu still. Als du näher kommst, erkennst du, dass es Hoheovatin Erona ist, mit der du bereits zu tun hattest. 
 
-Sie wurde versteinert. Ihre Beine enden in einem schlanken Baumstumpf und ihre Füße sind Wurzeln, die sie an den Pfad binden. Die goldenen Haare, an die du dich erinnerst, sind fort - ihr Kopf ist so kahl wie ein Baum im Winter.</DefaultText>
+Sie wurde versteinert. Ihre Beine enden in einem schlanken Baumstumpf und ihre Füße sind Wurzeln, die sie an den Pfad binden. Die goldenen Haare, an die du dich erinnerst, sind fort&#160;– ihr Kopf ist so kahl wie ein Baum im Winter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -340,14 +340,14 @@ Die leere Hülle seines Leichnams fällt auf die Straße.</DefaultText>
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Du drehst dich wieder zu der Straße vor dir um - und siehst dort den Zwerg warten. Als du in seine Richtung gehst, wird die Erde unter deinen Füßen hart und verwandelt sich in Steinplatten. Das fahle Sternenlicht schimmert und wird zu Kerzenflammen. 
+      <DefaultText>Du drehst dich wieder zu der Straße vor dir um&#160;– und siehst dort den Zwerg warten. Als du in seine Richtung gehst, wird die Erde unter deinen Füßen hart und verwandelt sich in Steinplatten. Das fahle Sternenlicht schimmert und wird zu Kerzenflammen. 
 
 Du erkennst, dass du die Vision verlassen hast und nach Teir Evron zurückgekehrt bist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Du drehst dich wieder zu der Straße vor dir um - und siehst dort die Elfin warten. Als du in ihre Richtung gehst, wird die Erde unter deinen Füßen hart und verwandelt sich in Steinplatten. Das fahle Sternenlicht schimmert und wird zu Kerzenflammen. 
+      <DefaultText>Du drehst dich wieder zu der Straße vor dir um&#160;– und siehst dort die Elfin warten. Als du in ihre Richtung gehst, wird die Erde unter deinen Füßen hart und verwandelt sich in Steinplatten. Das fahle Sternenlicht schimmert und wird zu Kerzenflammen. 
 
 Du erkennst, dass du die Vision verlassen hast und nach Teir Evron zurückgekehrt bist.</DefaultText>
       <FemaleText />
@@ -378,7 +378,7 @@ Würdest du in die sich stetig verändernde Landschaft treten, du bist dir siche
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Der Totengräber ... der Torhüter des Schleiers. Hoffentlich nicht unsereswegens hier. Mein Werk hier ist noch nicht vollendet."</DefaultText>
+      <DefaultText>"Der Totengräber&#160;… der Torhüter des Schleiers. Hoffentlich nicht unsereswegens hier. Mein Werk hier ist noch nicht vollendet."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -388,7 +388,7 @@ Würdest du in die sich stetig verändernde Landschaft treten, du bist dir siche
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>" ... Und der Bleiche Paladin."</DefaultText>
+      <DefaultText>"… Und der Bleiche Paladin."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -730,7 +730,7 @@ Der Totengräber deutet stumm auf die Straße, wo ein zerbrochener Baum und eine
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Befreie dich von dem Mann, der dich plagt ... den Erinnerungen, die dich plagen ... du wirst keinen Frieden finden, solange er lebt."</DefaultText>
+      <DefaultText>"Befreie dich von dem Mann, der dich plagt&#160;… den Erinnerungen, die dich plagen&#160;… du wirst keinen Frieden finden, solange er lebt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -757,7 +757,7 @@ Er klopft dir mit einer schmutzigen Pranke auf die Seite und lächelt. "Thaos wi
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Eine weitere Frage, die zu stellen sich lohnt - müssen wir Thaos zu Brei schlagen, um ihm Antworten zu entlocken?" Hiravias lächelt, als er diese Frage stellt. "Wie wahrscheinlich ist es wohl, dass der Bursche sein Wissen bereitwillig teilt? Es wird gewiss Spaß machen, ihm eine Erklärung zu entlocken ... "</DefaultText>
+      <DefaultText>"Eine weitere Frage, die zu stellen sich lohnt&#160;– müssen wir Thaos zu Brei schlagen, um ihm Antworten zu entlocken?" Hiravias lächelt, als er diese Frage stellt. "Wie wahrscheinlich ist es wohl, dass der Bursche sein Wissen bereitwillig teilt? Es wird gewiss Spaß machen, ihm eine Erklärung zu entlocken&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -827,12 +827,12 @@ Er klopft dir mit einer schmutzigen Pranke auf die Seite und lächelt. "Thaos wi
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>Deine Worte scheinen zu verhallen, sobald sie gesprochen sind, als wären sie in eine riesige Leere geschickt worden. Es wird totenstill und leise - und dann beginnt der Boden unter deinen Füßen zu beben.</DefaultText>
+      <DefaultText>Deine Worte scheinen zu verhallen, sobald sie gesprochen sind, als wären sie in eine riesige Leere geschickt worden. Es wird totenstill und leise&#160;– und dann beginnt der Boden unter deinen Füßen zu beben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>Die Luft um dich herum bewegt sich, als hätte ein nicht zu spürender Wind gedreht und unerwartete Wärme mit sich gebracht. Du spürst das seltsame Gewicht einer unsichtbaren Präsenz - und von Blicken, die auf dir ruhen.</DefaultText>
+      <DefaultText>Die Luft um dich herum bewegt sich, als hätte ein nicht zu spürender Wind gedreht und unerwartete Wärme mit sich gebracht. Du spürst das seltsame Gewicht einer unsichtbaren Präsenz&#160;– und von Blicken, die auf dir ruhen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -911,7 +911,7 @@ Der Bleiche Paladin neigt ihren Kopf. Das Sternenlicht glänzt auf ihrer hohlen 
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Immer gnädig - selbst, wenn Blut vergossen wird. In dieser Hinsicht ist der Tod der Helfer des Lebens."</DefaultText>
+      <DefaultText>"Immer gnädig&#160;– selbst, wenn Blut vergossen wird. In dieser Hinsicht ist der Tod der Helfer des Lebens."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

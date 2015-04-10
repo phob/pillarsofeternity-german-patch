@@ -65,12 +65,12 @@ Ihre nackte, ausgepeitschte Haut ist blutig gegeißelt oder abgezogen, und mit F
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Groteske Masken und Becken voller Blut ... Die meinen es ernst mit ihrem Wahnsinn, was?" Kana rümpft die Nase.</DefaultText>
+      <DefaultText>"Groteske Masken und Becken voller Blut&#160;… Die meinen es ernst mit ihrem Wahnsinn, was?" Kana rümpft die Nase.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Ein Ort des Todes ... Wir sollten hier nicht verweilen."</DefaultText>
+      <DefaultText>"Ein Ort des Todes&#160;… Wir sollten hier nicht verweilen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -314,7 +314,7 @@ Du spürst eine andere Präsenz im Blutbecken, verwirrt und wütend. Die anderen
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Wa- was geht hier vor sich? Was ist mit ihm?!"</DefaultText>
+      <DefaultText>"Wa– was geht hier vor sich? Was ist mit ihm?!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -341,7 +341,7 @@ Du spürst eine andere Präsenz im Blutbecken, verwirrt und wütend. Die anderen
       <ID>132</ID>
       <DefaultText>Hiravias wird blass, seine Augen weiten sich. "Was geschieht mit ihm? So tu doch jemand etwas! Er stirbt, wir müssen ihm helf-"
 
-Er bedeckt seine Augen mit seinen Händen, um den blutigen Anblick nicht zu ertragen. "Ich glaube, ich muss mich übergeben ... "</DefaultText>
+Er bedeckt seine Augen mit seinen Händen, um den blutigen Anblick nicht zu ertragen. "Ich glaube, ich muss mich übergeben&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,14 +351,14 @@ Er bedeckt seine Augen mit seinen Händen, um den blutigen Anblick nicht zu ertr
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Er ... er ist fort! Welche dunkle Magie haben wir mitangesehen?" Hiravias' gesundes Ohr steht auf, der Orlaner blickt sich in alle Richtungen um.
+      <DefaultText>"Er&#160;… er ist fort! Welche dunkle Magie haben wir mitangesehen?" Hiravias' gesundes Ohr steht auf, der Orlaner blickt sich in alle Richtungen um.
 
 "Wir müssen hier fort, solange wir es noch können!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Aber wie? Es ging ihm gut, und dann plötzlich, von einem Moment auf den nächsten ... Wir müssen irgendeine Zauberei ausgelöst haben. Eine Falle." 
+      <DefaultText>"Aber wie? Es ging ihm gut, und dann plötzlich, von einem Moment auf den nächsten&#160;… Wir müssen irgendeine Zauberei ausgelöst haben. Eine Falle." 
 
 Kana schüttelt den Kopf. "Verschwinden wir hier, bevor noch jemand dieser Magie zum Opfer fällt."</DefaultText>
       <FemaleText />
@@ -370,7 +370,7 @@ Kana schüttelt den Kopf. "Verschwinden wir hier, bevor noch jemand dieser Magie
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Hier wimmelt es voll rachsüchtiger Seelen ... mit bösen Absichten ..." Sie blickt dich einen Augenblick lang verwundert an und ihr Umriss verschwimmt. Der Augenblick vergeht ebenso schnell und sie wendet sich ab.
+      <DefaultText>"Hier wimmelt es voll rachsüchtiger Seelen&#160;… mit bösen Absichten&#160;…" Sie blickt dich einen Augenblick lang verwundert an und ihr Umriss verschwimmt. Der Augenblick vergeht ebenso schnell und sie wendet sich ab.
 
 "Verlassen wir diesen Ort."</DefaultText>
       <FemaleText />
@@ -432,7 +432,7 @@ Er fällt würgend und hustend auf die Knie. Aus seinem geöffneten Mund sprudel
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>Er macht einen Schritt zurück. "Ist er tot?" Er dreht langsam den Kopf, um dich anzusehen. "Du weißt wohl nicht ... " Er schluckt. "Unwichtig. Wir sollten gehen."</DefaultText>
+      <DefaultText>Er macht einen Schritt zurück. "Ist er tot?" Er dreht langsam den Kopf, um dich anzusehen. "Du weißt wohl nicht&#160;…" Er schluckt. "Unwichtig. Wir sollten gehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,12 +471,12 @@ Als die Blasen im Blutbecken verschwinden und sich die Wogen glätten, spürst d
       <ID>158</ID>
       <DefaultText>Hiravias wird blass, seine Augen weiten sich. "Was geschieht mit ihr? So tu doch jemand etwas! Jemand muss ihr helf-"
 
-Er bedeckt seine Augen mit seinen Händen, um den blutigen Anblick nicht zu ertragen. "Ich glaube, ich muss mich übergeben ... "</DefaultText>
+Er bedeckt seine Augen mit seinen Händen, um den blutigen Anblick nicht zu ertragen. "Ich glaube, ich muss mich übergeben&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Wa- was geht hier vor sich? Was ist mit ihr?!"</DefaultText>
+      <DefaultText>"Wa– was geht hier vor sich? Was ist mit ihr?!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -508,14 +508,14 @@ Du spürst eine andere Präsenz im Blutbecken, verwirrt und wütend. Die anderen
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Hier wimmelt es voll rachsüchtiger Seelen ... mit bösen Absichten ..." Sie blickt dich einen Augenblick lang verwundert an und ihr Umriss verschwimmt. Der Augenblick vergeht ebenso schnell und sie wendet sich ab.
+      <DefaultText>"Hier wimmelt es voll rachsüchtiger Seelen&#160;… mit bösen Absichten&#160;…" Sie blickt dich einen Augenblick lang verwundert an und ihr Umriss verschwimmt. Der Augenblick vergeht ebenso schnell und sie wendet sich ab.
 
 "Verschwinden wir hier."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>Er geht einen Schritt zurück. "Ist sie tot?" Er dreht langsam den Kopf, um dich anzusehen. "Du weißt wohl nicht ... " Er schluckt. "Egal. Wir sollten gehen."</DefaultText>
+      <DefaultText>Er geht einen Schritt zurück. "Ist sie tot?" Er dreht langsam den Kopf, um dich anzusehen. "Du weißt wohl nicht&#160;…" Er schluckt. "Egal. Wir sollten gehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -537,7 +537,7 @@ Du spürst eine andere Präsenz im Blutbecken, verwirrt und wütend. Die anderen
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Aber wie? Es ging ihr gut, und dann plötzlich, von einem Moment auf den nächsten ... Wir müssen irgendeine Zauberei ausgelöst haben. Eine Falle." 
+      <DefaultText>"Aber wie? Es ging ihr gut, und dann plötzlich, von einem Moment auf den nächsten&#160;… Wir müssen irgendeine Zauberei ausgelöst haben. Eine Falle." 
 
 Kana schüttelt den Kopf. "Verschwinden wir hier, bevor noch jemand dieser Magie zum Opfer fällt."</DefaultText>
       <FemaleText />
@@ -573,7 +573,7 @@ Sie fällt würgend und hustend auf die Knie. Aus ihrem geöffneten Mund sprudel
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Hast du etwas gehört? Ich glaube, ich habe etwas gehört ... "</DefaultText>
+      <DefaultText>"Hast du etwas gehört? Ich glaube, ich habe etwas gehört&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -593,14 +593,14 @@ Sie fällt würgend und hustend auf die Knie. Aus ihrem geöffneten Mund sprudel
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>Kana regt sich nicht und blickt sich in der Kammer um. "Seltsam ... Ich hatte gerade das eigenartige Gefühl, dass ..." Er runzelt die Stirn und blickt mit verwirrtem Gesicht hinter sich.</DefaultText>
+      <DefaultText>Kana regt sich nicht und blickt sich in der Kammer um. "Seltsam&#160;… Ich hatte gerade das eigenartige Gefühl, dass&#160;…" Er runzelt die Stirn und blickt mit verwirrtem Gesicht hinter sich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
       <DefaultText>Hiravias untersucht das Blutbecken, scheint aber den Kampf der Trauernden Mutter nicht zu bemerken.
 
-"Bilde ich mir das ein, oder wird dieses Blutbecken langsam ... größer?" Er schnuppert mehrere Augenblicke lang in die Luft und zuckt dann mit den Schultern. "Ich bilde mir wohl schon Dinge ein."</DefaultText>
+"Bilde ich mir das ein, oder wird dieses Blutbecken langsam&#160;… größer?" Er schnuppert mehrere Augenblicke lang in die Luft und zuckt dann mit den Schultern. "Ich bilde mir wohl schon Dinge ein."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -632,7 +632,7 @@ Du spürst eine andere Präsenz im Blutbecken, verwirrt und wütend. Die anderen
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>Durance stößt auf - er ist selbst überrascht davon. Er blickt sich um, ob es jemand bemerkt hat - dann lächelt er, weil es sein Geheimnis bleibt.</DefaultText>
+      <DefaultText>Durance stößt auf&#160;– er ist selbst überrascht davon. Er blickt sich um, ob es jemand bemerkt hat&#160;– dann lächelt er, weil es sein Geheimnis bleibt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -649,7 +649,7 @@ Du spürst eine andere Präsenz im Blutbecken, verwirrt und wütend. Die anderen
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>"Ich rieche immer nur Blut, Blut und noch mehr- Moment, ist das Lavendel?" Hiravias schnuppert in die Luft und zieht dann an seinem Kragen und riecht an seinem Wams.
+      <DefaultText>"Ich rieche immer nur Blut, Blut und noch mehr– Moment, ist das Lavendel?" Hiravias schnuppert in die Luft und zieht dann an seinem Kragen und riecht an seinem Wams.
 
 "Sind wir hier fertig oder wolltest du eine Runde in dem Blutbecken schwimmen? Gehen wir weiter," seine Stimme wird langsam und ernst, "für frische Luft würde ich töten."</DefaultText>
       <FemaleText />

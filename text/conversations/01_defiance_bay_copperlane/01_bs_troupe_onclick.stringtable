@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"... und so - äh ... ja?"</DefaultText>
+      <DefaultText>"… und so&#160;– äh&#160;… ja?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>" ... sieh nur! Ein müder Reisender, von deiner Flöte angelockt!"</DefaultText>
+      <DefaultText>"… sieh nur! Ein müder Reisender, von deiner Flöte angelockt!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,17 +21,17 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Aber nicht auf meine Ohren ... "</DefaultText>
+      <DefaultText>"Aber nicht auf meine Ohren&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Danke für die Hilfe, du darfst die Bühne nun wieder verlassen ... "</DefaultText>
+      <DefaultText>"Danke für die Hilfe, du darfst die Bühne nun wieder verlassen&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"- und so - äh ... und so möchte unser Publikum einen näheren Blick wagen, wie mir scheint!"</DefaultText>
+      <DefaultText>"- und so&#160;– äh&#160;… und so möchte unser Publikum einen näheren Blick wagen, wie mir scheint!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Nun, einer von uns zumindest ... "</DefaultText>
+      <DefaultText>"Nun, einer von uns zumindest&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

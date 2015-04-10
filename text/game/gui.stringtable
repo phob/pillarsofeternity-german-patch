@@ -7260,12 +7260,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1448</ID>
-      <DefaultText>Klasse-Freischaltungen</DefaultText>
+      <DefaultText>Klassenfähigkeiten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1449</ID>
-      <DefaultText>Keine neuen Klasse-Freischaltungen</DefaultText>
+      <DefaultText>Keine neuen Klassenfähigkeiten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8347,7 +8347,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1666</ID>
-      <DefaultText>Kämpfer-Fähigkeiten</DefaultText>
+      <DefaultText>Kämpferfähigkeiten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8357,17 +8357,17 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1668</ID>
-      <DefaultText>Schurke-Fähigkeiten</DefaultText>
+      <DefaultText>Schurkenfähigkeiten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1669</ID>
-      <DefaultText>Barbar-Fähigkeiten</DefaultText>
+      <DefaultText>Barbarenfähigkeiten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1670</ID>
-      <DefaultText>Mönch-Fähigkeiten</DefaultText>
+      <DefaultText>Mönchsfähigkeiten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8502,12 +8502,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1697</ID>
-      <DefaultText>Paladin-Fähigkeiten</DefaultText>
+      <DefaultText>Paladinfähigkeiten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1698</ID>
-      <DefaultText>Waldläufer-Fähigkeiten</DefaultText>
+      <DefaultText>Waldläuferfähigkeiten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8999,17 +8999,17 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1797</ID>
-      <DefaultText>Barbaren-Fähigkeiten betonen den Nahkampf gegen Gruppen von Feinden, indem der Schaden verstärkt wird, die Gruppe geschwächt wird oder dem Barbaren in ausweglosen Situationen Boni verliehen werden.</DefaultText>
+      <DefaultText>Barbarenfähigkeiten betonen den Nahkampf gegen Gruppen von Feinden, indem der Schaden verstärkt wird, die Gruppe geschwächt wird oder dem Barbaren in ausweglosen Situationen Boni verliehen werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1798</ID>
-      <DefaultText>Mönch-Fähigkeiten bieten eine Reihe von Effekten, um Nahkampfangriffe zu stärken, Schutz vor Wirkungen zu bieten oder den Spieß gegen Angreifer umzudrehen. Die meisten Mönch-Fähigkeiten werden durch Wunden genährt, einige besitzen jedoch auch ein Limit "pro Begegnung" oder "pro Ruhephase".</DefaultText>
+      <DefaultText>Mönchsfähigkeiten bieten eine Reihe von Effekten, um Nahkampfangriffe zu stärken, Schutz vor Wirkungen zu bieten oder den Spieß gegen Angreifer umzudrehen. Die meisten Mönchsfähigkeiten werden durch Wunden genährt, einige besitzen jedoch auch ein Limit "pro Begegnung" oder "pro Ruhephase".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1799</ID>
-      <DefaultText>Paladin-Fähigkeiten decken drei große Kategorien ab: Passive und modale Unterstützungsfähigkeiten für den Nahkampf, Unterstützungsfähigkeiten für ein einzelnes Ziel und einige gezielte Offensivfähigkeiten.</DefaultText>
+      <DefaultText>Paladinfähigkeiten decken drei große Kategorien ab: Passive und modale Unterstützungsfähigkeiten für den Nahkampf, Unterstützungsfähigkeiten für ein einzelnes Ziel und einige gezielte Offensivfähigkeiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9019,12 +9019,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1801</ID>
-      <DefaultText>Waldläufer-Fähigkeiten konzentrieren sich darauf, dem Waldläufer zusätzliche Offensivfähigkeiten zu verleihen, seinen tierischen Gefährten stärker zu machen oder die Verbindung zwischen dem Waldläufer und seinem tierischen Gefährten zu festigen.</DefaultText>
+      <DefaultText>Waldläuferfähigkeiten konzentrieren sich darauf, dem Waldläufer zusätzliche Offensivfähigkeiten zu verleihen, seinen tierischen Gefährten stärker zu machen oder die Verbindung zwischen dem Waldläufer und seinem tierischen Gefährten zu festigen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1802</ID>
-      <DefaultText>Schurke-Fähigkeiten verstärken Angriffe mit Fernkampf- oder Nahkampfwaffen. Viele verursachen Wirkungen, durch die der Schleichangriff des Schurke ermöglicht wird. Andere stärken den Schleichangriff des Schurken oder verleihen taktische Positionierungsfähigkeiten.</DefaultText>
+      <DefaultText>Schurkenfähigkeiten verstärken Angriffe mit Fernkampf- oder Nahkampfwaffen. Viele verursachen Wirkungen, durch die der Schleichangriff des Schurke ermöglicht wird. Andere stärken den Schleichangriff des Schurken oder verleihen taktische Positionierungsfähigkeiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

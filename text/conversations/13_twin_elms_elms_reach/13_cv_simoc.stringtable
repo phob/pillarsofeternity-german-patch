@@ -62,7 +62,7 @@ Er leert die Phiole mit einem langen Schluck. Als er dich wieder anblickt, leuch
 
 "Auf die Errettung meines Stammes."
 
-Er leert die Phiole mit einem langen Schluck. Er schluckt, würgt einige Sekunden lang und blickt dich dann zornig an. Sein Atem klingt kehlig und nass. "Du ... du hast mich vergiftet." Er beginnt, seine Hand zu den Kriegern im anderen Raum zu erheben.</DefaultText>
+Er leert die Phiole mit einem langen Schluck. Er schluckt, würgt einige Sekunden lang und blickt dich dann zornig an. Sein Atem klingt kehlig und nass. "Du&#160;… du hast mich vergiftet." Er beginnt, seine Hand zu den Kriegern im anderen Raum zu erheben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -79,7 +79,7 @@ Er leert die Phiole mit einem langen Schluck. Er schluckt, würgt einige Sekunde
       <ID>19</ID>
       <DefaultText>"Sei gegrüßt, [Player Name]. Ich-" Ein Hustenanfall überkommt ihn und er krümmt sich. 
 
-Als er sich wieder aufrichtet, hebt und senkt sich seine Brust mit gurgelnden Atemzügen. "Der Trank scheint noch immer ... unerwünschte Nebenwirkungen zu haben." Der misstrauische Blick auf seinem Gesicht verschwindet so schnell, wie er kam. "Was kann ich für dich tun?"</DefaultText>
+Als er sich wieder aufrichtet, hebt und senkt sich seine Brust mit gurgelnden Atemzügen. "Der Trank scheint noch immer&#160;… unerwünschte Nebenwirkungen zu haben." Der misstrauische Blick auf seinem Gesicht verschwindet so schnell, wie er kam. "Was kann ich für dich tun?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,12 +96,12 @@ Als er sich wieder aufrichtet, hebt und senkt sich seine Brust mit gurgelnden At
       <ID>23</ID>
       <DefaultText>"Ein uralter Ort der Opferrituale." Er verschränkt seine Finger. "In einer Höhle bei den großen Ulmen."
 
-"Rehstin und seine Druiden sind seit Generationen ein zentraler Bestandteil der glanfathanischen Gesellschaft ... ganz gleich, was einige der anderen Stämme sagen. Eir Glanfath konnte sich gegen die Estramorwn behaupten, weil manche von uns die Kraft des Opfers noch kennen."</DefaultText>
+"Rehstin und seine Druiden sind seit Generationen ein zentraler Bestandteil der glanfathanischen Gesellschaft&#160;… ganz gleich, was einige der anderen Stämme sagen. Eir Glanfath konnte sich gegen die Estramorwn behaupten, weil manche von uns die Kraft des Opfers noch kennen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Er mustert dich prüfend. "Du dagegen ... du scheinst grausame Notwendigkeiten zu verstehen."</DefaultText>
+      <DefaultText>Er mustert dich prüfend. "Du dagegen&#160;… du scheinst grausame Notwendigkeiten zu verstehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -140,7 +140,7 @@ Er hebt sein Kinn. "Wir waren schon immer der Grenzstamm. Und es war schon immer
       <ID>31</ID>
       <DefaultText>"Als Anamfath der Drei-Stoßzahn-Stelgaer führe ich unseren Stamm in allen Angelegenheiten."
 
-Er blickt zum Hauptraum der Hütte, wo andere sich versammelt haben. "Ich bin in Zwillingsulmen, um mit einigen der anderen Anamfatha über die Onolfên zu beraten - was ihr Hohlgeburten nennt. Wir haben hier nur sehr selten solche Geburten, aber es hat uns wachsamer gemacht, was unsere Nachbarn anbelangt."
+Er blickt zum Hauptraum der Hütte, wo andere sich versammelt haben. "Ich bin in Zwillingsulmen, um mit einigen der anderen Anamfatha über die Onolfên zu beraten&#160;– was ihr Hohlgeburten nennt. Wir haben hier nur sehr selten solche Geburten, aber es hat uns wachsamer gemacht, was unsere Nachbarn anbelangt."
 
 Ein Stelgaer reckt sich und lässt seine Krallen spielen.</DefaultText>
       <FemaleText />
@@ -162,7 +162,7 @@ Ein Stelgaer reckt sich und lässt seine Krallen spielen.</DefaultText>
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Die Leute machen daraus, was sie möchten. Und wenn es endet ... falls es endet ... erfinden sie auch dafür Gründe."</DefaultText>
+      <DefaultText>"Die Leute machen daraus, was sie möchten. Und wenn es endet&#160;… falls es endet&#160;… erfinden sie auch dafür Gründe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -238,7 +238,7 @@ Er schüttelt zornig den Kopf. "Diese Narren vom Kompass der Führung frohlocken
       <ID>52</ID>
       <DefaultText>"Es gehört den Druiden der Ethik Nôl. Viele fanden ihre Praktiken und Opfer zwar verstörend, doch sie haben uns Kriegsbemalung mit mächtigen Eigenschaften beschert."
 
-Er schüttelt den Kopf. "Diesen Ort zu verlieren, wo die Estramorwn vor unseren Toren stehen ... das wird uns kosten."</DefaultText>
+Er schüttelt den Kopf. "Diesen Ort zu verlieren, wo die Estramorwn vor unseren Toren stehen&#160;… das wird uns kosten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -252,12 +252,12 @@ Er schüttelt den Kopf. "Diesen Ort zu verlieren, wo die Estramorwn vor unseren 
       <ID>54</ID>
       <DefaultText>Er schnaubt. "In zweihundert Jahren sind Trutzbucht und Neu-Heomar aus ihren schiefen Pflastersteinen herausgewachsen. Sie brechen auf wie aufgedunsene Leichen."
 
-"Nein. Sie in unser Land einzuladen ... wäre unser Ende."</DefaultText>
+"Nein. Sie in unser Land einzuladen&#160;… wäre unser Ende."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Er betrachtet dich. "Du könntest helfen. Nur wenige haben die Nerven dazu, aber ich denke, es wäre genau richtig für jemanden mit deinen ... Neigungen."</DefaultText>
+      <DefaultText>Er betrachtet dich. "Du könntest helfen. Nur wenige haben die Nerven dazu, aber ich denke, es wäre genau richtig für jemanden mit deinen&#160;… Neigungen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -341,7 +341,7 @@ Er verschränkt die Arme. "Aber das wird die Estramorwn auf offenem Gelände nic
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Er deutet auf die Krieger, die sich um das Feuer versammelt haben. "Unsere Wildheit hat die Estramorwn vor weiteren Übergriffen zurückschrecken lassen. Sie berichten noch immer von unseren Taten im Krieg des Zerbrochenen Steins. Aber wenn ein Kind der Fischerkraniche unseren Stamm anführt, verlieren wir diese Kühnheit ... und die Estramorwn verlieren ihre Furcht vor uns."
+      <DefaultText>Er deutet auf die Krieger, die sich um das Feuer versammelt haben. "Unsere Wildheit hat die Estramorwn vor weiteren Übergriffen zurückschrecken lassen. Sie berichten noch immer von unseren Taten im Krieg des Zerbrochenen Steins. Aber wenn ein Kind der Fischerkraniche unseren Stamm anführt, verlieren wir diese Kühnheit&#160;… und die Estramorwn verlieren ihre Furcht vor uns."
 
 "Das Kind wird von den Seelen seiner Ahnen beeinflusst. In Krisenzeiten wird sie ihre Verwandten im Theinsumpf um Rat bitten. Was ich auch versuche, ihr beizubringen, es wird nicht reichen."</DefaultText>
       <FemaleText />
@@ -358,7 +358,7 @@ Er verschränkt die Arme. "Aber das wird die Estramorwn auf offenem Gelände nic
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Er betrachtet dich. "Du könntest helfen. Wenn du dein weiches Herz dazu bringen kannst, etwas Schwieriges ... aber Notwendiges zu tun."</DefaultText>
+      <DefaultText>Er betrachtet dich. "Du könntest helfen. Wenn du dein weiches Herz dazu bringen kannst, etwas Schwieriges&#160;… aber Notwendiges zu tun."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -390,7 +390,7 @@ Ein Stelgaer an Simocs Seite reibt seinen gewaltigen Kopf am Bein des Anamfaths.
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Er gibt dir einen Schlüssel. "Es gibt ein Haus im Südosten von Herdlied, neben dem Fluss. Das Kind wird schlafen, und ich habe dafür gesorgt, dass sie einige Zeit lang ... unbeaufsichtigt ist."
+      <DefaultText>Er gibt dir einen Schlüssel. "Es gibt ein Haus im Südosten von Herdlied, neben dem Fluss. Das Kind wird schlafen, und ich habe dafür gesorgt, dass sie einige Zeit lang&#160;… unbeaufsichtigt ist."
 
 Seine Stimme wird zu einem leisen Grollen. "Nimm sie und bringe sie zu Hüterin Wrdha in Blutiger Sand. Sie weiß, was zu tun ist. Wenn sie dir die flüssige Essenz gibt, bring sie mir."</DefaultText>
       <FemaleText />
@@ -511,7 +511,7 @@ Er nickt einmal. "Denke gut darüber nach, Estramor. Ich scheue nicht, jene zu b
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Nun, äh - da, wo ich herkomme ... heißt einen Stelgaer streicheln nicht das, was du glaubst ..."</DefaultText>
+      <DefaultText>"Nun, äh&#160;– da, wo ich herkomme&#160;… heißt einen Stelgaer streicheln nicht das, was du glaubst&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -540,7 +540,7 @@ Hiravias verschränkt die Arme und zuckt mit den Schultern. "Er hat allen Grund,
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Schön wäre es!", ruft Hiravias. "Dieses junge Fischerkranich-Mädchen ist ein großartiges Geschenk - du solltest dankbar sein!" Hiravias' Stimme wird zu einem leisen Flüstern. "Vor allem angesichts der ... Schwäche in deiner Familie."</DefaultText>
+      <DefaultText>"Schön wäre es!", ruft Hiravias. "Dieses junge Fischerkranich-Mädchen ist ein großartiges Geschenk&#160;– du solltest dankbar sein!" Hiravias' Stimme wird zu einem leisen Flüstern. "Vor allem angesichts der&#160;… Schwäche in deiner Familie."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -560,7 +560,7 @@ Hiravias verschränkt die Arme und zuckt mit den Schultern. "Er hat allen Grund,
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>Hiravias' Augen weiten sich angesichts dieser Bemerkung. "Niemand verspottet die Fischerkraniche außer mir", murmelt er leise und streckt seine Finger zu Krallen aus. "Aber ich gestehe ein, dass mein Stamm ... klug genug ist ... auf die sinnlosen Taktiken eines gerechten Kampfs zu verzichten."</DefaultText>
+      <DefaultText>Hiravias' Augen weiten sich angesichts dieser Bemerkung. "Niemand verspottet die Fischerkraniche außer mir", murmelt er leise und streckt seine Finger zu Krallen aus. "Aber ich gestehe ein, dass mein Stamm&#160;… klug genug ist&#160;… auf die sinnlosen Taktiken eines gerechten Kampfs zu verzichten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -595,7 +595,7 @@ Hiravias verschränkt die Arme und zuckt mit den Schultern. "Er hat allen Grund,
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Hiravias tritt näher und flüstert. "Das ist falsch ... Seelen werden nicht einfach auf andere 'übertragen' ohne ..." Hiravias verstummt und ballt die Fäuste.</DefaultText>
+      <DefaultText>Hiravias tritt näher und flüstert. "Das ist falsch&#160;… Seelen werden nicht einfach auf andere 'übertragen' ohne&#160;…" Hiravias verstummt und ballt die Fäuste.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -605,7 +605,7 @@ Hiravias verschränkt die Arme und zuckt mit den Schultern. "Er hat allen Grund,
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>Aloths Augen verengen sich zu Schlitzen. "Das klingt ... problematisch."</DefaultText>
+      <DefaultText>Aloths Augen verengen sich zu Schlitzen. "Das klingt&#160;… problematisch."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -738,30 +738,30 @@ Er räuspert sich. "Was kann ich für dich tun?"</DefaultText>
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Ich verstehe." Er schweigt mehrere Sekunden lang und blickt zu Boden. "Lliras war immer ein Knabe mit starkem Willen, wenn auch nicht mit starker Seele. Ich wünschte, er ... "
+      <DefaultText>"Ich verstehe." Er schweigt mehrere Sekunden lang und blickt zu Boden. "Lliras war immer ein Knabe mit starkem Willen, wenn auch nicht mit starker Seele. Ich wünschte, er&#160;…"
 
 Er räuspert sich. "Wie dem auch sei. Was brauchst du?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"So viele leere Kinder ... leere Familien ... und er stiehlt aus purem Ehrgeiz die Essenz dieses Kindes?"
+      <DefaultText>"So viele leere Kinder&#160;… leere Familien&#160;… und er stiehlt aus purem Ehrgeiz die Essenz dieses Kindes?"
 
-"Sollen seine Methoden sterben ... soll seine Linie enden ... wenn sie dazu führen."</DefaultText>
+"Sollen seine Methoden sterben&#160;… soll seine Linie enden&#160;… wenn sie dazu führen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Sind wir so weit gereist, um uns in Angelegenheiten der Politik zu verstricken ... der Kleingeisterei ...?"
+      <DefaultText>"Sind wir so weit gereist, um uns in Angelegenheiten der Politik zu verstricken&#160;… der Kleingeisterei&#160;…?"
 
-Ihr Gesicht besteht aus nichts als strengen, starren Linien. "Wir dürfen das nicht tun, Wächter ... Wir sind gekommen, um die Kinder zu retten ... die Zukunft des Dyrwalds. Ich werde nicht tatenlos zu sehen, wenn du dieses Werk des Bösen vollbringst."</DefaultText>
-      <FemaleText>"Sind wir so weit gereist, um uns in Angelegenheiten der Politik zu verstricken ... der Kleingeisterei ...?"
+Ihr Gesicht besteht aus nichts als strengen, starren Linien. "Wir dürfen das nicht tun, Wächter&#160;… Wir sind gekommen, um die Kinder zu retten&#160;… die Zukunft des Dyrwalds. Ich werde nicht tatenlos zu sehen, wenn du dieses Werk des Bösen vollbringst."</DefaultText>
+      <FemaleText>"Sind wir so weit gereist, um uns in Angelegenheiten der Politik zu verstricken&#160;… der Kleingeisterei&#160;…?"
 
-Ihr Gesicht besteht aus nichts als strengen, starren Linien. "Wir dürfen das nicht tun, Wächterin ... Wir sind gekommen, um die Kinder zu retten ... die Zukunft des Dyrwalds. Ich werde nicht tatenlos zu sehen, wenn du dieses Werk des Bösen vollbringst."</FemaleText>
+Ihr Gesicht besteht aus nichts als strengen, starren Linien. "Wir dürfen das nicht tun, Wächterin&#160;… Wir sind gekommen, um die Kinder zu retten&#160;… die Zukunft des Dyrwalds. Ich werde nicht tatenlos zu sehen, wenn du dieses Werk des Bösen vollbringst."</FemaleText>
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Die Trauernde Mutter schreckt entsetzt zurück. "Etwas derart Böses nur zu denken! Ein Kind der Politik wegen ermorden?" Ihr Gesicht verzerrt sich zu einer Maske des Zorns. "Wir dürfen nicht zulassen, dass diese Fäulnis ... dieser Wahnsinn ... fortgeführt wird."</DefaultText>
+      <DefaultText>Die Trauernde Mutter schreckt entsetzt zurück. "Etwas derart Böses nur zu denken! Ein Kind der Politik wegen ermorden?" Ihr Gesicht verzerrt sich zu einer Maske des Zorns. "Wir dürfen nicht zulassen, dass diese Fäulnis&#160;… dieser Wahnsinn&#160;… fortgeführt wird."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

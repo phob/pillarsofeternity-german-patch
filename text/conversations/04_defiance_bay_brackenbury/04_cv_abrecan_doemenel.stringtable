@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Du wirst die Aufgabe meiner Männer abschließen. Das dürfte für jemanden von deinem ... Ruf ... keine Schwierigkeit darstellen."</DefaultText>
+      <DefaultText>"Du wirst die Aufgabe meiner Männer abschließen. Das dürfte für jemanden von deinem&#160;… Ruf&#160;… keine Schwierigkeit darstellen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,8 +256,8 @@
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Er richtet seinen gierigen Blick auf dich. "Mein Vater, Gedmar, wird erfreut sein, dass ich einen solchen Edelstein gefunden habe ... und einen Verbündeten. Er ist oben. Geh und sprich mit ihm. Er sucht nach jemandem mit deinen Fähigkeiten."</DefaultText>
-      <FemaleText>Er richtet seinen gierigen Blick auf dich. "Mein Vater, Gedmar, wird erfreut sein, dass ich einen solchen Edelstein gefunden habe ... und eine Verbündete. Er ist oben. Geh und sprich mit ihm. Er sucht nach jemandem mit deinen Fähigkeiten."</FemaleText>
+      <DefaultText>Er richtet seinen gierigen Blick auf dich. "Mein Vater, Gedmar, wird erfreut sein, dass ich einen solchen Edelstein gefunden habe&#160;… und einen Verbündeten. Er ist oben. Geh und sprich mit ihm. Er sucht nach jemandem mit deinen Fähigkeiten."</DefaultText>
+      <FemaleText>Er richtet seinen gierigen Blick auf dich. "Mein Vater, Gedmar, wird erfreut sein, dass ich einen solchen Edelstein gefunden habe&#160;… und eine Verbündete. Er ist oben. Geh und sprich mit ihm. Er sucht nach jemandem mit deinen Fähigkeiten."</FemaleText>
     </Entry>
     <Entry>
       <ID>90</ID>
@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Einer meiner Männer hat einen Raub geplant ... und die Anweisungen an die Diebe auf meinem persönlichen Briefpapier verfasst." Er verzieht das Gesicht zu einer Grimasse. "Mit meinen Initialen darauf."</DefaultText>
+      <DefaultText>"Einer meiner Männer hat einen Raub geplant&#160;… und die Anweisungen an die Diebe auf meinem persönlichen Briefpapier verfasst." Er verzieht das Gesicht zu einer Grimasse. "Mit meinen Initialen darauf."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -353,7 +353,7 @@
       <ID>114</ID>
       <DefaultText>"Fürst Reymont sitzt auf einem Edelstein so groß wie die Eier eines Aumauas. Man nennt ihn das Herz der Weißmark."
 
-Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbietens zwischen den Schmelztiegelrittern und den Dutzenden. Sie kämpfen um die Ehre, ihn seinen ursprünglichen zwergischen Besitzern zurückgeben zu dürfen ... die äußerst mächtige Verbündete abgeben würden."</DefaultText>
+Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbietens zwischen den Schmelztiegelrittern und den Dutzenden. Sie kämpfen um die Ehre, ihn seinen ursprünglichen zwergischen Besitzern zurückgeben zu dürfen&#160;… die äußerst mächtige Verbündete abgeben würden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -380,7 +380,7 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Wunderbar. Das Wichtigste ist, dass du nicht bemerkt wirst. Das Letzte, was meine Fa- ... ich meine, was ich will, ist eine Blutfehde mit den Nachbarn." Er räuspert sich.
+      <DefaultText>"Wunderbar. Das Wichtigste ist, dass du nicht bemerkt wirst. Das Letzte, was meine Fa-&#160;… ich meine, was ich will, ist eine Blutfehde mit den Nachbarn." Er räuspert sich.
 
 "Komm wieder, wenn du das Herz der Weißmark hast. Enttäusche mich nicht."</DefaultText>
       <FemaleText />
@@ -417,7 +417,7 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Die Röte steigt ihm ins Gesicht. "Ich habe einfach jemanden ... von außen gebraucht."</DefaultText>
+      <DefaultText>Die Röte steigt ihm ins Gesicht. "Ich habe einfach jemanden&#160;… von außen gebraucht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -497,7 +497,7 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Er mustert dich. "Du hast einen gewissen ... Ruf. Aber ich habe ein Haus voller treuer Gefolgsleute."</DefaultText>
+      <DefaultText>Er mustert dich. "Du hast einen gewissen&#160;… Ruf. Aber ich habe ein Haus voller treuer Gefolgsleute."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -527,7 +527,7 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Nur, dass es einer der begehrtesten Edelsteine im Dyrwald ist. Wenn du ihn siehst, wirst du wissen, warum. Er leuchtet von innen - eine seltene Eigenschaft von Edelsteinen aus den Bergen in der Weißmark."
+      <DefaultText>"Nur, dass es einer der begehrtesten Edelsteine im Dyrwald ist. Wenn du ihn siehst, wirst du wissen, warum. Er leuchtet von innen&#160;– eine seltene Eigenschaft von Edelsteinen aus den Bergen in der Weißmark."
 
 "Wenn wir Reymont den Edelstein abluchsen, wird uns das einen schönen Profit einbringen und dem Stand unserer Rivalen innerhalb der Ritter und der Dutzenden schaden."</DefaultText>
       <FemaleText />
@@ -559,7 +559,7 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>Er begutachtet den Brief genau. "Ist das ... Blut? Das waren meine Männer, du Narr!" Er streicht mit seinem Finger den Lauf seiner Pistole entlang. "Ich gebe dir eine Gelegenheit, deinen Fehler wettzumachen."</DefaultText>
+      <DefaultText>Er begutachtet den Brief genau. "Ist das&#160;… Blut? Das waren meine Männer, du Narr!" Er streicht mit seinem Finger den Lauf seiner Pistole entlang. "Ich gebe dir eine Gelegenheit, deinen Fehler wettzumachen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -609,7 +609,7 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>Er schnaubt verächtlich. "Mit deiner Dreistigkeit könntest du es in unserem Haus weit bringen ... wenn du nicht vorher deswegen getötet wirst. Also gut - dann wollen wir mal sehen, wie du eine einfache Aufgabe bewerkstelligst."</DefaultText>
+      <DefaultText>Er schnaubt verächtlich. "Mit deiner Dreistigkeit könntest du es in unserem Haus weit bringen&#160;… wenn du nicht vorher deswegen getötet wirst. Also gut&#160;– dann wollen wir mal sehen, wie du eine einfache Aufgabe bewerkstelligst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -624,7 +624,7 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"Was die Einladung in den Palast des Ducs angeht ... "</DefaultText>
+      <DefaultText>"Was die Einladung in den Palast des Ducs angeht&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -671,7 +671,7 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Meine Schwester hat in den höchsten Tönen von dir gesprochen - das will etwas heißen. Wir könnten jemanden wie dich brauchen."</DefaultText>
+      <DefaultText>"Meine Schwester hat in den höchsten Tönen von dir gesprochen&#160;– das will etwas heißen. Wir könnten jemanden wie dich brauchen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -711,12 +711,12 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Nun, wenn du vorhast, ihn dazu zu bringen, zuerst zuzuschlagen ... "</DefaultText>
+      <DefaultText>"Nun, wenn du vorhast, ihn dazu zu bringen, zuerst zuzuschlagen&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>Aloths Augen weiten sich, als er dich anblickt. "Manieren ... "</DefaultText>
+      <DefaultText>Aloths Augen weiten sich, als er dich anblickt. "Manieren&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -731,7 +731,7 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>Sagani kratzt sich am Kinn. "Ich habe schon auf vielen Gütern in Privatbesitz gejagt, seit ich in den Norden gekommen bin ... im Grunde ist das hier nichts  wirklich anderes."</DefaultText>
+      <DefaultText>Sagani kratzt sich am Kinn. "Ich habe schon auf vielen Gütern in Privatbesitz gejagt, seit ich in den Norden gekommen bin&#160;… im Grunde ist das hier nichts  wirklich anderes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -746,7 +746,7 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"Alten Männern bei ihrem Streit um glänzende Steine helfen?" Hiravias zuckt mit den Achseln. "Immer noch besser, als in engwithanischen Ruinen herumzulungern. Wenn wir dich damit aus einem noch größerem Schlamassel heraushalten, ist es vielleicht keine schlechte Idee ... "</DefaultText>
+      <DefaultText>"Alten Männern bei ihrem Streit um glänzende Steine helfen?" Hiravias zuckt mit den Achseln. "Immer noch besser, als in engwithanischen Ruinen herumzulungern. Wenn wir dich damit aus einem noch größerem Schlamassel heraushalten, ist es vielleicht keine schlechte Idee&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -756,7 +756,7 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>"Ich bin schon vielen glanfathanischen Spähern ausgewichen - meistens, äh, indem ich davongelaufen bin ... aber eine schwer bewachte Villa zu durchsuchen ist etwas anderes, als ein leeres Grab zu durchkämmen."</DefaultText>
+      <DefaultText>"Ich bin schon vielen glanfathanischen Spähern ausgewichen&#160;– meistens, äh, indem ich davongelaufen bin&#160;… aber eine schwer bewachte Villa zu durchsuchen ist etwas anderes, als ein leeres Grab zu durchkämmen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -803,12 +803,12 @@ Sein schiefes Grinsen wird größer. "Er ist außerdem Gegenstand eines Wettbiet
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>"Unglücklicherweise ist es zu riskant, dass wir gemeinsam ... Geschäfte machen."</DefaultText>
+      <DefaultText>"Unglücklicherweise ist es zu riskant, dass wir gemeinsam&#160;… Geschäfte machen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>"Du musst vielleicht gewisse ... Bedenken überwinden, aber du wirst den Auftrag zu Ende bringen, den ich meinen Männern erteilt hatte."</DefaultText>
+      <DefaultText>"Du musst vielleicht gewisse&#160;… Bedenken überwinden, aber du wirst den Auftrag zu Ende bringen, den ich meinen Männern erteilt hatte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -845,16 +845,16 @@ Er reibt die Finger zusammen. "Und es schadet nicht, dass sich durch Zwietracht 
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>Er lacht. "Gar nicht. Die Dutzenden sagen, sie seien dagegen - aber das hält sie nicht davon ab, die Ruinen zu plündern und Runen und Gerätschaften an das Sanatorium zu verkaufen. Die Ritter sagen, sie seien für den Fortschritt - aber von wessen Fortschritt sprechen sie? Sie haben es auf Geldsäckel und Stellungen hier in Farnheim abgesehen. Und angeblich arbeiten sie heimlich selbst an ein paar Beseelungsprojekten."
+      <DefaultText>Er lacht. "Gar nicht. Die Dutzenden sagen, sie seien dagegen&#160;– aber das hält sie nicht davon ab, die Ruinen zu plündern und Runen und Gerätschaften an das Sanatorium zu verkaufen. Die Ritter sagen, sie seien für den Fortschritt&#160;– aber von wessen Fortschritt sprechen sie? Sie haben es auf Geldsäckel und Stellungen hier in Farnheim abgesehen. Und angeblich arbeiten sie heimlich selbst an ein paar Beseelungsprojekten."
 
 "Du verstehst sicher, warum wir uns heraushalten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>"Glücklicherweise musste ich mir bisher nicht selbst das Fleisch wundsitzen. Es heißt, sie seien wie jedes andere Treffen - es wird viel gebrüllt und intrigiert und wenig erreicht."
+      <DefaultText>"Glücklicherweise musste ich mir bisher nicht selbst das Fleisch wundsitzen. Es heißt, sie seien wie jedes andere Treffen&#160;– es wird viel gebrüllt und intrigiert und wenig erreicht."
 
-"Und während die Ritter und die Dutzenden über etwas streiten, was sie beide nicht verstehen, verlieren sie die wahren Probleme aus den Augen - Glanfathaner, die an unseren Grenzen Ärger machen, das allgegenwärtige Flüchtlingsproblem und die Vailianer, die bereit sind, uns unserem Schicksal zu überlassen."</DefaultText>
+"Und während die Ritter und die Dutzenden über etwas streiten, was sie beide nicht verstehen, verlieren sie die wahren Probleme aus den Augen&#160;– Glanfathaner, die an unseren Grenzen Ärger machen, das allgegenwärtige Flüchtlingsproblem und die Vailianer, die bereit sind, uns unserem Schicksal zu überlassen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

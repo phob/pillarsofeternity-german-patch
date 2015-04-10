@@ -60,7 +60,7 @@ Andere kritzeln Verse oder einfache Skizzen auf Blätter und verlieren sich in d
       <ID>22</ID>
       <DefaultText>Die größte Gruppe hat sich in der Mitte des Tempels versammelt. Sie singen eine üppige, chaotische Harmonie aus mehreren sich ergänzenden Melodien. Andere werden allein oder in Paaren von den Sängern angezogen, als würden sie von einem Windstoß oder einer Phrase des Lieds herbeigeweht.
 
-Ein Säuseln streift durch die Bäume. Du denkst, es sei der Wind, doch das Zwitschern wird zu einem Kreischen. Hunderte von Vögeln erheben sich in die Lüfte, alle in dieselbe Richtung - nur fort.</DefaultText>
+Ein Säuseln streift durch die Bäume. Du denkst, es sei der Wind, doch das Zwitschern wird zu einem Kreischen. Hunderte von Vögeln erheben sich in die Lüfte, alle in dieselbe Richtung&#160;– nur fort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -142,16 +142,16 @@ Er wackelt mit seinem Kopf und öffnet seinen Schnabel. Die reiche, trillernde M
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Wächter, mir scheint, wir stehen im legendären Hof der Vögel ..."
+      <DefaultText>"Wächter, mir scheint, wir stehen im legendären Hof der Vögel&#160;…"
 
-Sie schließt die Augen und hebt das Gesicht zum Himmel. "Ich spüre eine Präsenz ... Wärme und Hoffnung ..."</DefaultText>
-      <FemaleText>"Wächterin, mir scheint, wir stehen im legendären Hof der Vögel ..."
+Sie schließt die Augen und hebt das Gesicht zum Himmel. "Ich spüre eine Präsenz&#160;… Wärme und Hoffnung&#160;…"</DefaultText>
+      <FemaleText>"Wächterin, mir scheint, wir stehen im legendären Hof der Vögel&#160;…"
 
-Sie schließt die Augen und hebt das Gesicht zum Himmel. "Ich spüre eine Präsenz ... Wärme und Hoffnung ..."</FemaleText>
+Sie schließt die Augen und hebt das Gesicht zum Himmel. "Ich spüre eine Präsenz&#160;… Wärme und Hoffnung&#160;…"</FemaleText>
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Da. Der Federmantel. Wir stehen im Hof der Vögel - und dort steht die Himmelsmutter."</DefaultText>
+      <DefaultText>"Da. Der Federmantel. Wir stehen im Hof der Vögel&#160;– und dort steht die Himmelsmutter."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -280,7 +280,7 @@ Ein großer Papagei breitet seine roten und goldenen Schwanzfedern aus.
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Gut. Nun, ich hatte gehofft, einen Gefallen erbitten zu können ... "</DefaultText>
+      <DefaultText>"Gut. Nun, ich hatte gehofft, einen Gefallen erbitten zu können&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,7 +351,7 @@ Ein großer Papagei breitet seine roten und goldenen Schwanzfedern aus.
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Alle Götter - selbst Woedica - sind an einen Eid gebunden. Wir singen eine Harmonie, die Gestandenen eine andere. Und auch, wenn wir eine neue Melodie einführen können, in der Hoffnung, dass sterbliche Ohren sie hören und aufnehmen, unterbrechen wir ihren Chor nicht. Das würde zu einer Kakophonie zwischen den Göttern führen, die unseren Gesang und den euren übertönen würde."</DefaultText>
+      <DefaultText>"Alle Götter&#160;– selbst Woedica&#160;– sind an einen Eid gebunden. Wir singen eine Harmonie, die Gestandenen eine andere. Und auch, wenn wir eine neue Melodie einführen können, in der Hoffnung, dass sterbliche Ohren sie hören und aufnehmen, unterbrechen wir ihren Chor nicht. Das würde zu einer Kakophonie zwischen den Göttern führen, die unseren Gesang und den euren übertönen würde."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -408,8 +408,8 @@ Die Brise kitzelt dich am Ohr. "Friede und Wiederaufbau verleihen dem Leid einen
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Durance spuckt aus. "Ein Paradies für jene, die ihre Leben mit der Erkundung des Bedeutungslosen vergeuden wollen, während sie die Bedeutung der wahren Welt schänden. Oh, diese Bäume in Brand zu stecken, Wächter ... "</DefaultText>
-      <FemaleText>Durance spuckt aus. "Ein Paradies für jene, die ihre Leben mit der Erkundung des Bedeutungslosen vergeuden wollen, während sie die Bedeutung der wahren Welt schänden. Oh, diese Bäume in Brand zu stecken, Wächterin ... "</FemaleText>
+      <DefaultText>Durance spuckt aus. "Ein Paradies für jene, die ihre Leben mit der Erkundung des Bedeutungslosen vergeuden wollen, während sie die Bedeutung der wahren Welt schänden. Oh, diese Bäume in Brand zu stecken, Wächter&#160;…"</DefaultText>
+      <FemaleText>Durance spuckt aus. "Ein Paradies für jene, die ihre Leben mit der Erkundung des Bedeutungslosen vergeuden wollen, während sie die Bedeutung der wahren Welt schänden. Oh, diese Bäume in Brand zu stecken, Wächterin&#160;…"</FemaleText>
     </Entry>
     <Entry>
       <ID>89</ID>
@@ -435,7 +435,7 @@ Die Brise kitzelt dich am Ohr. "Friede und Wiederaufbau verleihen dem Leid einen
       <ID>93</ID>
       <DefaultText>Hiravias stößt mehrere zwitschernde Vogelrufe aus, als der Schwarm sich in die Luft erhebt.
 
-"Das ist nicht gut", murmelt Hiravias, während sich seine Miene verdüstert. "Etwas hat sie aufgeschreckt, aber sie sagen mir nicht was ... allerdings war meine Aussprache wohl auch nicht ganz korrekt und ich habe sie wohl als inkontinent bezeichnet ..."</DefaultText>
+"Das ist nicht gut", murmelt Hiravias, während sich seine Miene verdüstert. "Etwas hat sie aufgeschreckt, aber sie sagen mir nicht was&#160;… allerdings war meine Aussprache wohl auch nicht ganz korrekt und ich habe sie wohl als inkontinent bezeichnet&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -460,7 +460,7 @@ Die Brise kitzelt dich am Ohr. "Friede und Wiederaufbau verleihen dem Leid einen
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Die Trauernde Mutter hält den Kopf in den Händen. "Freudenlieder ... die zu Schmerzensschreien werden. Welcher Sinn, welche Lektion kann in dieser Zerstörung liegen?"</DefaultText>
+      <DefaultText>Die Trauernde Mutter hält den Kopf in den Händen. "Freudenlieder&#160;… die zu Schmerzensschreien werden. Welcher Sinn, welche Lektion kann in dieser Zerstörung liegen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -475,7 +475,7 @@ Die Brise kitzelt dich am Ohr. "Friede und Wiederaufbau verleihen dem Leid einen
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Kana blickt verwundert auf. "Vögel aus allen Ecken der Welt ... Da, ich sehe einige Rauatai-Tordalks!"</DefaultText>
+      <DefaultText>Kana blickt verwundert auf. "Vögel aus allen Ecken der Welt&#160;… Da, ich sehe einige Rauatai-Tordalks!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -518,8 +518,8 @@ Der Wind wird zu einem sanften Seufzen in deinen Ohren. "Du musst dich einem noc
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Die Trauernde Mutter wippt auf ihren Fußballen vor und zurück. "Es gibt einen Weg, Wächter! Noch gibt es Hoffnung ... "</DefaultText>
-      <FemaleText>Die Trauernde Mutter wippt auf ihren Fußballen vor und zurück. "Es gibt einen Weg, Wächterin! Noch gibt es Hoffnung ... "</FemaleText>
+      <DefaultText>Die Trauernde Mutter wippt auf ihren Fußballen vor und zurück. "Es gibt einen Weg, Wächter! Noch gibt es Hoffnung&#160;…"</DefaultText>
+      <FemaleText>Die Trauernde Mutter wippt auf ihren Fußballen vor und zurück. "Es gibt einen Weg, Wächterin! Noch gibt es Hoffnung&#160;…"</FemaleText>
     </Entry>
     <Entry>
       <ID>110</ID>
@@ -533,7 +533,7 @@ Der Wind wird zu einem sanften Seufzen in deinen Ohren. "Du musst dich einem noc
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Die Beseelung ist also wirklich derart mächtig?" Kana blickt nachdenklich drein. " ... Ich habe die Befehle unserer Ranga Nui immer respektiert, und die Hüter - aber das liegt daran, dass sie Respekt inspirieren. Zwischen dem Befehl und der Inspiration liegt der Fortschritt."</DefaultText>
+      <DefaultText>"Die Beseelung ist also wirklich derart mächtig?" Kana blickt nachdenklich drein. "… Ich habe die Befehle unserer Ranga Nui immer respektiert, und die Hüter&#160;– aber das liegt daran, dass sie Respekt inspirieren. Zwischen dem Befehl und der Inspiration liegt der Fortschritt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -568,7 +568,7 @@ Der Wind wird zu einem sanften Seufzen in deinen Ohren. "Du musst dich einem noc
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>Die Trauernde Mutter klatscht einmal in die Hände, wodurch die Musik eines Glockenspiels beginnt. "Nach langen Jahren sollen ihre Wunden geheilt werden, ihre Tränen getrocknet ... "</DefaultText>
+      <DefaultText>Die Trauernde Mutter klatscht einmal in die Hände, wodurch die Musik eines Glockenspiels beginnt. "Nach langen Jahren sollen ihre Wunden geheilt werden, ihre Tränen getrocknet&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -588,9 +588,9 @@ Der Wind wird zu einem sanften Seufzen in deinen Ohren. "Du musst dich einem noc
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Ach, könnten wir doch auch ihre Seelen heilen, ihre Narben ... "
+      <DefaultText>"Ach, könnten wir doch auch ihre Seelen heilen, ihre Narben&#160;…"
 
-"Ihre Jahre des Leids können nicht ungeschehen gemacht werden, sie können schwer auf ihren Leben lasten ... ja, es ist schwierige Gnade."</DefaultText>
+"Ihre Jahre des Leids können nicht ungeschehen gemacht werden, sie können schwer auf ihren Leben lasten&#160;… ja, es ist schwierige Gnade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -607,10 +607,10 @@ Die Vögel erheben sich zur Sonne. Sie verdunkeln sie und du fühlst dich einen 
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Die Augen der Trauernden Mutter sind fiebrig. "Wächter, dies ist die Hoffnung, an die ich mich geklammert habe ... dass die Kinder des Dyrwalds wiederhergestellt werden können, ihre Familien geheilt ... "
+      <DefaultText>Die Augen der Trauernden Mutter sind fiebrig. "Wächter, dies ist die Hoffnung, an die ich mich geklammert habe&#160;… dass die Kinder des Dyrwalds wiederhergestellt werden können, ihre Familien geheilt&#160;…"
 
 "Bringen wir Hyleas Wiederaufbau in dieses Land."</DefaultText>
-      <FemaleText>Die Augen der Trauerenden Mutter sind fiebrig. "Wächterin, dies ist die Hoffnung, an die ich mich geklammert habe ... dass die Kinder des Dyrwalds wiederhergestellt werden können, ihre Familien geheilt ... "
+      <FemaleText>Die Augen der Trauerenden Mutter sind fiebrig. "Wächterin, dies ist die Hoffnung, an die ich mich geklammert habe&#160;… dass die Kinder des Dyrwalds wiederhergestellt werden können, ihre Familien geheilt&#160;…"
 
 "Bringen wir Hyleas Wiederaufbau in dieses Land."</FemaleText>
     </Entry>
@@ -647,21 +647,21 @@ Ein einsamer Spatz landet auf dem Ast neben dir. Er beobachtet dich.</DefaultTex
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Die Trauernde Mutter klatscht in die Hände und das Glockenspiel ertönt wie Totenglocken. "Wäre es wirklich Gnade? Selbst, wenn es die Tränen von Eltern trocknen würde ... Mütter und Väter, die ihre Kinder gepflegt haben ... sie abgeschirmt haben ... "
+      <DefaultText>Die Trauernde Mutter klatscht in die Hände und das Glockenspiel ertönt wie Totenglocken. "Wäre es wirklich Gnade? Selbst, wenn es die Tränen von Eltern trocknen würde&#160;… Mütter und Väter, die ihre Kinder gepflegt haben&#160;… sie abgeschirmt haben&#160;…"
 
-"Es würde Kinder in halb erwachsene Körper sperren, die ihre Seelen nie kannten ... Körper, die von Jahren der Isolation gezeichnet sind, der Grausamen Erlösung, schlimmeren Dingen ..."</DefaultText>
+"Es würde Kinder in halb erwachsene Körper sperren, die ihre Seelen nie kannten&#160;… Körper, die von Jahren der Isolation gezeichnet sind, der Grausamen Erlösung, schlimmeren Dingen&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>Die Trauernde Mutter blickt dich entsetzt an. "Gib ihnen zuerst diese Leben, Wächter ... lasse sie die Liebe ihrer Eltern kennen, die auf sie warteten ... sie pflegten ... und lass ihre Rückkehr Heilung in den Dyrwald bringen."</DefaultText>
-      <FemaleText>Die Trauernde Mutter blickt dich entsetzt an. "Gib ihnen zuerst diese Leben, Wächterin ... lasse sie die Liebe ihrer Eltern kennen, die auf sie warteten ... sie pflegten ... und lass ihre Rückkehr Heilung in den Dyrwald bringen."</FemaleText>
+      <DefaultText>Die Trauernde Mutter blickt dich entsetzt an. "Gib ihnen zuerst diese Leben, Wächter&#160;… lasse sie die Liebe ihrer Eltern kennen, die auf sie warteten&#160;… sie pflegten&#160;… und lass ihre Rückkehr Heilung in den Dyrwald bringen."</DefaultText>
+      <FemaleText>Die Trauernde Mutter blickt dich entsetzt an. "Gib ihnen zuerst diese Leben, Wächterin&#160;… lasse sie die Liebe ihrer Eltern kennen, die auf sie warteten&#160;… sie pflegten&#160;… und lass ihre Rückkehr Heilung in den Dyrwald bringen."</FemaleText>
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Dies ist zwar die Hoffnung, an die ich mich einst klammerte ... Doch nun sehe ich es als falsche Gnade ... als Verlängerung des Leids."
+      <DefaultText>"Dies ist zwar die Hoffnung, an die ich mich einst klammerte&#160;… Doch nun sehe ich es als falsche Gnade&#160;… als Verlängerung des Leids."
 
-"Diese Seelen aus ihren Leben zu reißen war das Verbrechen von Thaos ... verschlimmern wir es nicht noch, indem wir sie aus ihrem natürlichen Kreislauf reißen."</DefaultText>
+"Diese Seelen aus ihren Leben zu reißen war das Verbrechen von Thaos&#160;… verschlimmern wir es nicht noch, indem wir sie aus ihrem natürlichen Kreislauf reißen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -721,7 +721,7 @@ Ein einsamer Spatz landet auf dem Ast neben dir. Er beobachtet dich.</DefaultTex
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Deine Worte scheinen zu verhallen, sobald sie gesprochen sind, als wären sie in eine riesige Leere geschickt worden. Es wird totenstill und leise - und dann beginnt der Boden unter deinen Füßen zu beben.</DefaultText>
+      <DefaultText>Deine Worte scheinen zu verhallen, sobald sie gesprochen sind, als wären sie in eine riesige Leere geschickt worden. Es wird totenstill und leise&#160;– und dann beginnt der Boden unter deinen Füßen zu beben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -769,7 +769,7 @@ Die gleichermaßen schwermütigen und schönen Melodien bannen dich. Die Welt wi
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>Du erwachst wie aus einem Traum und stehst in Teir Evron. Hyleas Lied - und die Macht ihres Segens - folgt dir noch immer.</DefaultText>
+      <DefaultText>Du erwachst wie aus einem Traum und stehst in Teir Evron. Hyleas Lied&#160;– und die Macht ihres Segens&#160;– folgt dir noch immer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

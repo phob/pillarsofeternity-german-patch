@@ -45,7 +45,7 @@ Die Speerspitze blitzt auf, als sie damit wütend in Richtung Tür gestikuliert.
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Sie stößt einen Seufzer der Erleichterung aus. "Du hast den Reißzähnen ... und mir ... einen großen Dienst erwiesen."
+      <DefaultText>Sie stößt einen Seufzer der Erleichterung aus. "Du hast den Reißzähnen&#160;… und mir&#160;… einen großen Dienst erwiesen."
 
 Larha atmet erneut tief durch. "Ich habe mich in dir getäuscht, Estramor. Ich habe dich nicht wahrhaftig gesehen. Bitte, nimm dieses Geschenk an, das deiner Ehre und deiner Fähigkeiten würdig ist."</DefaultText>
       <FemaleText />
@@ -112,7 +112,7 @@ Sie wendet den Blick ab. "Ich würde nicht oft eine Estramor um einen Gefallen b
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Möge ihnen das Blut in den Adern gefrieren ... "</DefaultText>
+      <DefaultText>"Möge ihnen das Blut in den Adern gefrieren&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@ Ihre Hand fällt langsam an ihre Seite. "Aber meine Brüder sagen, du hast uns R
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Alwah seufzt. "Ich höre deine Worte, Schwester ... "</DefaultText>
+      <DefaultText>Alwah seufzt. "Ich höre deine Worte, Schwester&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -214,7 +214,7 @@ Sie hebt den Kopf und blickt langsam zurück Richtung Eingang.</DefaultText>
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ich habe meine eigene Schwester geschickt, eine meiner besten Späherinnen, um die Fäulnis der Bleichelfen zu ergründen. Ich war sicher, die Anamfatha würden die Schändung von Mittagsfrost nicht länger ignorieren können, wenn Alwah sie mit eigenen Augen gesehen hat ... aber sie ist noch nicht zurückgekehrt."
+      <DefaultText>"Ich habe meine eigene Schwester geschickt, eine meiner besten Späherinnen, um die Fäulnis der Bleichelfen zu ergründen. Ich war sicher, die Anamfatha würden die Schändung von Mittagsfrost nicht länger ignorieren können, wenn Alwah sie mit eigenen Augen gesehen hat&#160;… aber sie ist noch nicht zurückgekehrt."
 
 Sie blickt weg. "Nun trage ich die Verantwortung für ihr Schicksal. Und ich kann die Reißzähne nicht auf die Suche schicken, ohne mich offen den Anamfatha zu widersetzen."</DefaultText>
       <FemaleText />
@@ -231,7 +231,7 @@ Sie blickt weg. "Nun trage ich die Verantwortung für ihr Schicksal. Und ich kan
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Sie wirft dir einen vorsichtigen Blick zu. "Ich wage nicht zu hoffen - egal, von welcher Katastrophe Mittagsfrost betroffen wurde, es fühlt sich nicht so an wie die Zusammenarbeit mit Gestandenen. Nichts aber würde mir so viel Freude bereiten, wie sie nochmal zu sehen." Sie starrt in den Sand und runzelt die Stirn. "Ich würde jede Hilfe nehmen, die du mir bieten kannst."</DefaultText>
+      <DefaultText>Sie wirft dir einen vorsichtigen Blick zu. "Ich wage nicht zu hoffen&#160;– egal, von welcher Katastrophe Mittagsfrost betroffen wurde, es fühlt sich nicht so an wie die Zusammenarbeit mit Gestandenen. Nichts aber würde mir so viel Freude bereiten, wie sie nochmal zu sehen." Sie starrt in den Sand und runzelt die Stirn. "Ich würde jede Hilfe nehmen, die du mir bieten kannst."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

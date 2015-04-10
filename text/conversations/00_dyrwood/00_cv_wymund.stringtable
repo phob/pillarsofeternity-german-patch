@@ -52,8 +52,8 @@ Er nimmt eine Haarlocke der jungen Frau in seine große, blutverschmierte Hand. 
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Wächter, lasse dieses Mädchen und ihr Kind nicht zum Spielball der Rache werden. Lass mich ihren Verstand berühren ... Ich kann sie von diesen Fesseln befreien ... und von den Erinnerungen, die sie gefangen halten."</DefaultText>
-      <FemaleText>"Wächterin, lasse dieses Mädchen und ihr Kind nicht zum Spielball der Rache werden. Lass mich ihren Verstand berühren ... Ich kann sie von diesen Fesseln befreien ... und von den Erinnerungen, die sie gefangen halten."</FemaleText>
+      <DefaultText>"Wächter, lasse dieses Mädchen und ihr Kind nicht zum Spielball der Rache werden. Lass mich ihren Verstand berühren&#160;… Ich kann sie von diesen Fesseln befreien&#160;… und von den Erinnerungen, die sie gefangen halten."</DefaultText>
+      <FemaleText>"Wächterin, lasse dieses Mädchen und ihr Kind nicht zum Spielball der Rache werden. Lass mich ihren Verstand berühren&#160;… Ich kann sie von diesen Fesseln befreien&#160;… und von den Erinnerungen, die sie gefangen halten."</FemaleText>
     </Entry>
     <Entry>
       <ID>40</ID>
@@ -72,7 +72,7 @@ Er nimmt eine Haarlocke der jungen Frau in seine große, blutverschmierte Hand. 
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Du versuchst, Aelys zu erreichen, und suchst die dunklen Klüfte ihres Verstandes. Ihre Psyche wird von der Essenz hundert rachsüchtiger Seelen vernebelt, und du befreist sie auf die einzige Weise, die du beherrschst - du reißt die fürchterlichen Erinnerungen heraus, an die sie sich geklammert haben.
+      <DefaultText>Du versuchst, Aelys zu erreichen, und suchst die dunklen Klüfte ihres Verstandes. Ihre Psyche wird von der Essenz hundert rachsüchtiger Seelen vernebelt, und du befreist sie auf die einzige Weise, die du beherrschst&#160;– du reißt die fürchterlichen Erinnerungen heraus, an die sie sich geklammert haben.
 
 Diese Aufgabe ist Schwerstarbeit und manche der Seelen schlagen und beißen nach deinem Verstand.</DefaultText>
       <FemaleText />
@@ -117,7 +117,7 @@ Schließlich bricht sie kraftlos zusammen. Die Anspannung pulsiert in ihrem Vers
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Für einen kurzen Augenblick schließt Aelys ihre Augen. Als sie sie wieder öffnet, hat sie einen leeren Gesichtsausdruck. Als sie aber die Szene vor sich aufnimmt - du, Wymund und die Maschinen in diesem seltsamen, dunklen Raum - wird aus ihrer Verwirrung Angst. Sie stößt einen erstickten Ruf aus.</DefaultText>
+      <DefaultText>Für einen kurzen Augenblick schließt Aelys ihre Augen. Als sie sie wieder öffnet, hat sie einen leeren Gesichtsausdruck. Als sie aber die Szene vor sich aufnimmt&#160;– du, Wymund und die Maschinen in diesem seltsamen, dunklen Raum&#160;– wird aus ihrer Verwirrung Angst. Sie stößt einen erstickten Ruf aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -139,7 +139,7 @@ Schließlich bricht sie kraftlos zusammen. Die Anspannung pulsiert in ihrem Vers
       <ID>84</ID>
       <DefaultText>Als Aleys zusammenbricht, schnappt Wymund nach Luft. 
 
-"Bei den Augen des Bildnisses, ist dir klar, was du getan hast? Sie wäre so oder so gestorben, aber wenigstens ... "
+"Bei den Augen des Bildnisses, ist dir klar, was du getan hast? Sie wäre so oder so gestorben, aber wenigstens&#160;…"
 
 "Dafür wirst du jetzt bezahlen, selbst wenn Harond verschont bleibt."</DefaultText>
       <FemaleText />
@@ -156,7 +156,7 @@ Schließlich bricht sie kraftlos zusammen. Die Anspannung pulsiert in ihrem Vers
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>Der Kuttenträger mustert dich langsam. "Seine Wege sind tatsächlich sehr subtil. Ich habe das Ritual des Bildnisses mit Beseelung verändert, um es ... vorhersehbarer zu machen. Das Mädchen wird in das Dorf zurückkehren und ihre Reise mit Harond fortsetzen ..."
+      <DefaultText>Der Kuttenträger mustert dich langsam. "Seine Wege sind tatsächlich sehr subtil. Ich habe das Ritual des Bildnisses mit Beseelung verändert, um es&#160;… vorhersehbarer zu machen. Das Mädchen wird in das Dorf zurückkehren und ihre Reise mit Harond fortsetzen&#160;…"
 
 Die Kapuze verschiebt sich, als er seinen Kopf neigt. "Gehe ich richtig der Annahme, dass du nicht die ganze Geschichte kennst?"</DefaultText>
       <FemaleText />
@@ -229,7 +229,7 @@ Mit einem Seufzen wendet er sich wieder dem Mädchen zu und bricht ihr Genick.</
       <ID>106</ID>
       <DefaultText>"Haronds Ehefrau gebar nichts als Hohlgeburten. Jetzt hat er also keinen Erben und Aelys, das Kind seiner Schwester, erreicht das heiratsfähige Alter. Ohne eigene Nachkommen würde Haronds Erbe auf Aelys' leibliche Nachkommen übertragen werden."
 
-"Er fand also einen Weg, um seine eigene adlige Blutlinie fortzusetzen ... und schwängerte dieses Mädchen, seine eigene Nichte."</DefaultText>
+"Er fand also einen Weg, um seine eigene adlige Blutlinie fortzusetzen&#160;… und schwängerte dieses Mädchen, seine eigene Nichte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -284,7 +284,7 @@ Er schubst sie nach vorne.</DefaultText>
       <ID>115</ID>
       <DefaultText>"Ich sollte dir für die Tötung des alten Mannes danken, aber du hast meine wochenlangen Vorbereitungen nutzlos gemacht." Er schaut auf den regungslosen Körper zu seinen Füßen hinab.
 
-"Und die einzige Geschichte, die die Leute hören werden, ist, dass Nestor Harond in Dyrfurt von einem Briganten ermordet wurde ... und nicht, dass er seine eigene Nichte geschwängert hat, um einen edelblütigen Erben zu erlangen."
+"Und die einzige Geschichte, die die Leute hören werden, ist, dass Nestor Harond in Dyrfurt von einem Briganten ermordet wurde&#160;… und nicht, dass er seine eigene Nichte geschwängert hat, um einen edelblütigen Erben zu erlangen."
 
 Er wendet sich den anderen vermummten Gestalten zu. "Tötet ihn."</DefaultText>
       <FemaleText />
@@ -341,7 +341,7 @@ Er nimmt eine Haarlocke der jungen Frau in seine große, blutverschmierte Hand. 
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Solche Gräuel hat diese Krise ausgelöst ... die Tochter des eigenen Blutes zu zwingen, ein Kind auszutragen ... unvorstellbar."</DefaultText>
+      <DefaultText>"Solche Gräuel hat diese Krise ausgelöst&#160;… die Tochter des eigenen Blutes zu zwingen, ein Kind auszutragen&#160;… unvorstellbar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,7 +376,7 @@ Er nimmt eine Haarlocke der jungen Frau in seine große, blutverschmierte Hand. 
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Bist du dir sicher? Das scheint mir etwas ... weit hergeholt zu sein."</DefaultText>
+      <DefaultText>"Bist du dir sicher? Das scheint mir etwas&#160;… weit hergeholt zu sein."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

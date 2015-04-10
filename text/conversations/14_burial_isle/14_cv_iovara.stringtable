@@ -15,7 +15,7 @@ Als du dich näherst, scheint die Flamme ruhiger und stärker zu werden, und die
       <ID>3</ID>
       <DefaultText>Der Schein verblasst, als hättest du dich an seine Intensität angepasst. Dort, wo er war, erscheint Iovara, ein utopischer Schatten, der über dem feuchten Zellenboden schwebt.
 
-Obwohl sie ohne Alter ist, erscheint sie dir verändert - eine leicht gebeugte Haltung, vielleicht, oder kaum merklich eingefallene Augen. Über ihr Gesicht zieht sich eine breite Narbe, faserig und wumartig, wo Flammen einst züngelten, selbst im Tod nicht verheilt.</DefaultText>
+Obwohl sie ohne Alter ist, erscheint sie dir verändert&#160;– eine leicht gebeugte Haltung, vielleicht, oder kaum merklich eingefallene Augen. Über ihr Gesicht zieht sich eine breite Narbe, faserig und wumartig, wo Flammen einst züngelten, selbst im Tod nicht verheilt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,12 +106,12 @@ Sie schüttelt besorgt den Kopf. "Oder habe ich lediglich ein zweites Mal versag
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Ich kann nur vermuten, dass deine Anwesenheit hier etwas mit Thaos zu tun hat. Die Energie dieses Ortes ... verändert sich, wenn er in der Nähe ist. Ich weiß nicht, was er getan hat, aber ich weiß von den Seelen, die diesen Ort nun passieren. Sie kommen nicht freiwillig."</DefaultText>
+      <DefaultText>"Ich kann nur vermuten, dass deine Anwesenheit hier etwas mit Thaos zu tun hat. Die Energie dieses Ortes&#160;… verändert sich, wenn er in der Nähe ist. Ich weiß nicht, was er getan hat, aber ich weiß von den Seelen, die diesen Ort nun passieren. Sie kommen nicht freiwillig."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Thaos hat sie aus dem Kreislauf gerissen. Er will Woedica mächtiger werden lassen - und die Schuld für seine Taten der Beseelung geben."</DefaultText>
+      <DefaultText>"Thaos hat sie aus dem Kreislauf gerissen. Er will Woedica mächtiger werden lassen&#160;– und die Schuld für seine Taten der Beseelung geben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,12 +121,12 @@ Sie schüttelt besorgt den Kopf. "Oder habe ich lediglich ein zweites Mal versag
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Ich sehe seinen Einfluss, der noch immer wie ein Schwert über deinem Nacken hängt. So, wie es immer war. Er hatte ... etwas in dir inspiriert. Auch bei deinem letzten Besuch sprachen wir über ihn."</DefaultText>
+      <DefaultText>"Ich sehe seinen Einfluss, der noch immer wie ein Schwert über deinem Nacken hängt. So, wie es immer war. Er hatte&#160;… etwas in dir inspiriert. Auch bei deinem letzten Besuch sprachen wir über ihn."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Es war kurz nach dem Prozess. Du warst ... aufgebracht. Wohl, weil du anfingst zu erkennen, dass es vielleicht wahr war, was ich lehrte."</DefaultText>
+      <DefaultText>"Es war kurz nach dem Prozess. Du warst&#160;… aufgebracht. Wohl, weil du anfingst zu erkennen, dass es vielleicht wahr war, was ich lehrte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,7 +191,7 @@ Sie schüttelt besorgt den Kopf. "Oder habe ich lediglich ein zweites Mal versag
       <ID>45</ID>
       <DefaultText>"Die engwithanischen Missionare wussten es alle, doch sie sagten es uns anderen nie. Sie wollten das Geheimnis mit in ihr Grab nehmen, und letzten Endes ließen sie zu, dass ihre Blutlinien aus der Erinnerung verblassten."
 
-"Ich hatte den Auftrag erhalten, mich einigen von ihnen in einem Tempel anzuschließen. Ich fand die Tür zu ihren Gemächern verschlossen vor, doch der Raum war aus Stein und die Tür war dünn. Ihre Stimmen drangen hindurch. Ich hörte ... genug. Ich untersuchte die Dinge, von denen sie gesprochen hatten, und es war alles wahr, genau, wie sie gesagt hatten."</DefaultText>
+"Ich hatte den Auftrag erhalten, mich einigen von ihnen in einem Tempel anzuschließen. Ich fand die Tür zu ihren Gemächern verschlossen vor, doch der Raum war aus Stein und die Tür war dünn. Ihre Stimmen drangen hindurch. Ich hörte&#160;… genug. Ich untersuchte die Dinge, von denen sie gesprochen hatten, und es war alles wahr, genau, wie sie gesagt hatten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,19 +221,19 @@ Sie schüttelt besorgt den Kopf. "Oder habe ich lediglich ein zweites Mal versag
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Die Frage hängt im Verstand der Trauernden Mutter, ein schwaches und unsicheres Ding. "Wir sind alle wie Kinder ... verwaist und allein. Wohin sollen wir uns wenden, um Rat zu erhalten? Schutz?"</DefaultText>
+      <DefaultText>Die Frage hängt im Verstand der Trauernden Mutter, ein schwaches und unsicheres Ding. "Wir sind alle wie Kinder&#160;… verwaist und allein. Wohin sollen wir uns wenden, um Rat zu erhalten? Schutz?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Wenn sie Recht hat und die Götter nicht real sind ... " Hiravias verstummt mitten im Satz, einen schmerzlichen Blick im Gesicht. "Was beten wir dann all diese Zeit über an?"
+      <DefaultText>"Wenn sie Recht hat und die Götter nicht real sind&#160;…" Hiravias verstummt mitten im Satz, einen schmerzlichen Blick im Gesicht. "Was beten wir dann all diese Zeit über an?"
 
 Sein Gesicht wird selbstgefällig und er spuckt auf den Boden. "In einer Sache hat sie Recht: Es gibt keinen Ersatz dafür, die Dinge mit eigenen Augen zu sehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>" ... Selbst die Götter sind also eine engwithanische Lüge. Lebten in Engwith denn nur Betrüger und Lügner?"</DefaultText>
+      <DefaultText>"… Selbst die Götter sind also eine engwithanische Lüge. Lebten in Engwith denn nur Betrüger und Lügner?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -268,12 +268,12 @@ Sein Gesicht wird selbstgefällig und er spuckt auf den Boden. "In einer Sache h
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Das ist nicht- das kann nicht stimmen. Eothas, er- er hat Wunder für Menschen gewirkt."</DefaultText>
+      <DefaultText>"Das ist nicht- das kann nicht stimmen. Eothas, er– er hat Wunder für Menschen gewirkt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Sie richtet ihre Aufmerksamkeit auf Durance. "Was, wenn es verbotenes Wissen war, das deinen Untergang besiegelt hat - kein Fehler deinerseits? Was ist mit deiner Schuld?"</DefaultText>
+      <DefaultText>Sie richtet ihre Aufmerksamkeit auf Durance. "Was, wenn es verbotenes Wissen war, das deinen Untergang besiegelt hat&#160;– kein Fehler deinerseits? Was ist mit deiner Schuld?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -298,7 +298,7 @@ Sein Gesicht wird selbstgefällig und er spuckt auf den Boden. "In einer Sache h
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Kana legt die Stirn in Falten. "Über tausende von Jahren hat die engwithanische Lüge unsere Sicht getrübt. Wie können wir sagen, es gibt keinen anderen Weg, wenn wir nie die Gelegenheit hatten, einen zu entdecken? Es warten noch Antworten in dieser Welt - wir sind nur nie auf die Idee gekommen, danach zu suchen."</DefaultText>
+      <DefaultText>Kana legt die Stirn in Falten. "Über tausende von Jahren hat die engwithanische Lüge unsere Sicht getrübt. Wie können wir sagen, es gibt keinen anderen Weg, wenn wir nie die Gelegenheit hatten, einen zu entdecken? Es warten noch Antworten in dieser Welt&#160;– wir sind nur nie auf die Idee gekommen, danach zu suchen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -323,7 +323,7 @@ Sein Gesicht wird selbstgefällig und er spuckt auf den Boden. "In einer Sache h
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>Sie blickt die Trauernde Mutter direkt an - sie scheint sie zu sehen, wie sie jeden anderen sieht. "Was, wenn der Kreislauf aus Geburt und Tod nichts ist als ein Werkzeug der endlosen Beschäftigung?"</DefaultText>
+      <DefaultText>Sie blickt die Trauernde Mutter direkt an&#160;– sie scheint sie zu sehen, wie sie jeden anderen sieht. "Was, wenn der Kreislauf aus Geburt und Tod nichts ist als ein Werkzeug der endlosen Beschäftigung?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -343,9 +343,9 @@ Sein Gesicht wird selbstgefällig und er spuckt auf den Boden. "In einer Sache h
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Nun ..." Hiravias verschränkt die Arme und stützt das Kinn in seine Hand.
+      <DefaultText>"Nun&#160;…" Hiravias verschränkt die Arme und stützt das Kinn in seine Hand.
 
-"Ich nehme an ...", antwortet Hiravias einen Augenblick später lächelnd, "ich würde immer wählen, was mich stärker macht ... aber anstatt es zu tun, weil Galawain es wünscht, würde ich es nur tun, weil ich es mir für mein eigenes Leben wünsche."
+"Ich nehme an&#160;…", antwortet Hiravias einen Augenblick später lächelnd, "ich würde immer wählen, was mich stärker macht&#160;… aber anstatt es zu tun, weil Galawain es wünscht, würde ich es nur tun, weil ich es mir für mein eigenes Leben wünsche."
 
 Hiravias grinst ein breites Lächeln und errötet plötzlich. Er neigt schnell sein Haupt und murmelt leise: "Oh, Galawain, wisse, dass dein bescheidener Diener nur rhetorisch sprach."</DefaultText>
       <FemaleText />
@@ -418,7 +418,7 @@ Schweißperlen sammeln sich auf Durance' Stirn und strömen sein Gesicht hinab, 
       <ID>121</ID>
       <DefaultText>"Gut gesagt", sagt Hiravias und nickt.
 
-"Bedenke nur dieses ganze Gespräch, das wir führen ... ob die Götter real sind oder nicht. Allein, dass wir die Frage stellen, zwingt uns, ganz genau zu beleuchten, was wir wissen. Selbst, wenn wir nicht mit Gewissheit sagen können, ob sie real sind oder nicht, an der Erforschung wachsen wir."</DefaultText>
+"Bedenke nur dieses ganze Gespräch, das wir führen&#160;… ob die Götter real sind oder nicht. Allein, dass wir die Frage stellen, zwingt uns, ganz genau zu beleuchten, was wir wissen. Selbst, wenn wir nicht mit Gewissheit sagen können, ob sie real sind oder nicht, an der Erforschung wachsen wir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,7 +428,7 @@ Schweißperlen sammeln sich auf Durance' Stirn und strömen sein Gesicht hinab, 
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Kana sieht weg. "Vielleicht. Wenn ich wieder all das glauben könnte, was ich glaubte, als ich Rauatai verließ ... "</DefaultText>
+      <DefaultText>Kana sieht weg. "Vielleicht. Wenn ich wieder all das glauben könnte, was ich glaubte, als ich Rauatai verließ&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -438,7 +438,7 @@ Schweißperlen sammeln sich auf Durance' Stirn und strömen sein Gesicht hinab, 
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Und in den Leben, die wir schaffen. Ist das nicht die Essenz des Mutterseins? Zu schaffen ... zu ehren ... zu nähren ... Sich selbst aufgeben um jemand anderes Willen."</DefaultText>
+      <DefaultText>"Und in den Leben, die wir schaffen. Ist das nicht die Essenz des Mutterseins? Zu schaffen&#160;… zu ehren&#160;… zu nähren&#160;… Sich selbst aufgeben um jemand anderes Willen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -542,7 +542,7 @@ Schweißperlen sammeln sich auf Durance' Stirn und strömen sein Gesicht hinab, 
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Das kann nicht sein." Er blickt zurück zu dir, nach Bestätigung heischend. "Wir folgen ihnen seit tausenden von Jahren. Wenn das stimmt ... "</DefaultText>
+      <DefaultText>"Das kann nicht sein." Er blickt zurück zu dir, nach Bestätigung heischend. "Wir folgen ihnen seit tausenden von Jahren. Wenn das stimmt&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -557,14 +557,14 @@ Schweißperlen sammeln sich auf Durance' Stirn und strömen sein Gesicht hinab, 
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>Kana lacht leise, auch wenn ihr Gesichtausdruck beunruhigt wirkt. "Neben dieser Theorie verblassen selbst meine kühnsten Gedanken. ... Aber wir haben doch selbst den Einfluss der Götter gesehen."</DefaultText>
+      <DefaultText>Kana lacht leise, auch wenn ihr Gesichtausdruck beunruhigt wirkt. "Neben dieser Theorie verblassen selbst meine kühnsten Gedanken.&#160;… Aber wir haben doch selbst den Einfluss der Götter gesehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Unsinn!", ruft Hiravias - und errötet, sobald ihm der Ausruf über die Lippen rutscht.
+      <DefaultText>"Unsinn!", ruft Hiravias&#160;– und errötet, sobald ihm der Ausruf über die Lippen rutscht.
 
-"Sie hat wohl noch nie den Zorn eines Gottes gespürt ... sonst wüsste sie, wie real die Götter sein können ..."</DefaultText>
+"Sie hat wohl noch nie den Zorn eines Gottes gespürt&#160;… sonst wüsste sie, wie real die Götter sein können&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -599,7 +599,7 @@ Schweißperlen sammeln sich auf Durance' Stirn und strömen sein Gesicht hinab, 
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>"Generation um Generation suchten sie, entwirrten sie die Fäden der Welt und legten ihre Geheimnisse offen. Eines Tages fanden sie eine Antwort - nur, dass die Antwort keine Antwort war. Es gab keine Götter, die man finden konnte. Oder wenn es sie gegeben hatte, waren sie fort."</DefaultText>
+      <DefaultText>"Generation um Generation suchten sie, entwirrten sie die Fäden der Welt und legten ihre Geheimnisse offen. Eines Tages fanden sie eine Antwort&#160;– nur, dass die Antwort keine Antwort war. Es gab keine Götter, die man finden konnte. Oder wenn es sie gegeben hatte, waren sie fort."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -641,7 +641,7 @@ Schweißperlen sammeln sich auf Durance' Stirn und strömen sein Gesicht hinab, 
       <ID>327</ID>
       <DefaultText>"Wenn KEINER den Weg kennt?" Hiravias blickt sie an und beginnt zu lächeln, während er sich am Kinn kratzt.
 
-"Jeder Schüler Waels weiß, dass deine Frage irrelevant ist. Unabhängig davon, ob sie weise sind oder nicht, die Götter können einem keine dauerhafte Weisheit geben - sie können einen nur inspirieren, im Laufe der Zeit selbst Weisheit zu finden."</DefaultText>
+"Jeder Schüler Waels weiß, dass deine Frage irrelevant ist. Unabhängig davon, ob sie weise sind oder nicht, die Götter können einem keine dauerhafte Weisheit geben&#160;– sie können einen nur inspirieren, im Laufe der Zeit selbst Weisheit zu finden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -651,7 +651,7 @@ Schweißperlen sammeln sich auf Durance' Stirn und strömen sein Gesicht hinab, 
     </Entry>
     <Entry>
       <ID>329</ID>
-      <DefaultText>Aloth lacht trocken und verbittert. "Ich fürchtete diese Möglichkeit von dem Moment an, an dem die Delemgan sie andeutete. Und doch bin ich fast erleichtert ... "</DefaultText>
+      <DefaultText>Aloth lacht trocken und verbittert. "Ich fürchtete diese Möglichkeit von dem Moment an, an dem die Delemgan sie andeutete. Und doch bin ich fast erleichtert&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -670,7 +670,7 @@ Er schüttelt den Kopf. "Ganz gleich, wie die Götter geschaffen wurden, sie exi
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>Sagani blickt dich mit offensichtlicher Sorge in den Augen an. "Wenn deine weite Reise dich nur an diesen Punkt geführt hat ... Es tut mir Leid."</DefaultText>
+      <DefaultText>Sagani blickt dich mit offensichtlicher Sorge in den Augen an. "Wenn deine weite Reise dich nur an diesen Punkt geführt hat&#160;… Es tut mir Leid."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -690,7 +690,7 @@ Er schüttelt den Kopf. "Ganz gleich, wie die Götter geschaffen wurden, sie exi
     </Entry>
     <Entry>
       <ID>337</ID>
-      <DefaultText>Der Farbstreifen auf Saganis Gesicht krümmt sich, als sie ihr Gesicht verzieht. "So düster kann es nicht sein. Die Herausforderungen, denen wir trotzen, die Entscheidungen, die wir angesichts großer Mühsal treffen - diese Dinge formen uns."</DefaultText>
+      <DefaultText>Der Farbstreifen auf Saganis Gesicht krümmt sich, als sie ihr Gesicht verzieht. "So düster kann es nicht sein. Die Herausforderungen, denen wir trotzen, die Entscheidungen, die wir angesichts großer Mühsal treffen&#160;– diese Dinge formen uns."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -700,12 +700,12 @@ Er schüttelt den Kopf. "Ganz gleich, wie die Götter geschaffen wurden, sie exi
     </Entry>
     <Entry>
       <ID>339</ID>
-      <DefaultText>"Es ist seitdem so viel geschehen ... Selbst wenn die Götter damals nicht real waren, vielleicht sind sie es jetzt. Real genug, um als Inspiration zu dienen."</DefaultText>
+      <DefaultText>"Es ist seitdem so viel geschehen&#160;… Selbst wenn die Götter damals nicht real waren, vielleicht sind sie es jetzt. Real genug, um als Inspiration zu dienen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>Kana blickt Iovara an, ihre Miene ist hart. "Aber das ist nicht ... Ist das die Wahrheit, für die wir gekommen sind? Dass selbst die Götter nicht echt sind?"</DefaultText>
+      <DefaultText>Kana blickt Iovara an, ihre Miene ist hart. "Aber das ist nicht&#160;… Ist das die Wahrheit, für die wir gekommen sind? Dass selbst die Götter nicht echt sind?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -715,12 +715,12 @@ Er schüttelt den Kopf. "Ganz gleich, wie die Götter geschaffen wurden, sie exi
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>"Die Dinge, die wir gesehen haben, die Geschichten, die wir erzählen werden ... Wenn wirklich nichts in der Welt real ist als das, bin ich dennoch zufrieden."</DefaultText>
+      <DefaultText>"Die Dinge, die wir gesehen haben, die Geschichten, die wir erzählen werden&#160;… Wenn wirklich nichts in der Welt real ist als das, bin ich dennoch zufrieden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>" ... Ha. Sie spricht, als wäre es eine grausame Wahrheit, aber denk darüber nach. Die vielen Jahre, die viele Macht - das war Engwiths Werk. Gestandene haben dies vollbracht. Sie haben Götter aus dem Nichts erschaffen!"</DefaultText>
+      <DefaultText>"… Ha. Sie spricht, als wäre es eine grausame Wahrheit, aber denk darüber nach. Die vielen Jahre, die viele Macht&#160;– das war Engwiths Werk. Gestandene haben dies vollbracht. Sie haben Götter aus dem Nichts erschaffen!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -744,26 +744,26 @@ Er schüttelt den Kopf. "Ganz gleich, wie die Götter geschaffen wurden, sie exi
       <ID>347</ID>
       <DefaultText>Kana schüttelt den Kopf. "Blick nicht mich an. Vielleicht bindet uns nichts. Rauatai zerreißt sich selbst in zwei Teile, auf der Suche nach Wahrheit." 
 
-"Und ich ... Ich wünschte, ich hätte meinen Hunger nach Wahrheit in den Hallen der Universität von Iore stillen können."</DefaultText>
+"Und ich&#160;… Ich wünschte, ich hätte meinen Hunger nach Wahrheit in den Hallen der Universität von Iore stillen können."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>"Ich ... Ich weiß es nicht. Ich habe die Antworten, die ich suchte, nie gefunden." 
+      <DefaultText>"Ich&#160;… Ich weiß es nicht. Ich habe die Antworten, die ich suchte, nie gefunden." 
 
 "Doch in jedem Land besitzen dieselben Götter Macht. Etwas in der Lüge hat uns alle angesprochen. Darin liegt eine Macht, was uns auch sonst unterscheiden und trennen mag."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>349</ID>
-      <DefaultText>"Ich ... Ich weiß es nicht. Ich habe die Antworten, die ich suchte, nie gefunden." 
+      <DefaultText>"Ich&#160;… Ich weiß es nicht. Ich habe die Antworten, die ich suchte, nie gefunden." 
 
-"Aber nach allem, was wir gesehen haben ... Ich glaube, die Götter reichen nicht aus. Vielleicht lösen sich die Fäden, werden aufgetrennt. Die Lüge ist zu alt."</DefaultText>
+"Aber nach allem, was wir gesehen haben&#160;… Ich glaube, die Götter reichen nicht aus. Vielleicht lösen sich die Fäden, werden aufgetrennt. Die Lüge ist zu alt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>350</ID>
-      <DefaultText>"Vielleicht soll es so sein, dass wir nicht eins sind. Jede Mühe, jede Suche nach einer einzigen Wahrheit wird scheitern - weil es nicht nur eine einzige Wahrheit gibt." 
+      <DefaultText>"Vielleicht soll es so sein, dass wir nicht eins sind. Jede Mühe, jede Suche nach einer einzigen Wahrheit wird scheitern&#160;– weil es nicht nur eine einzige Wahrheit gibt." 
 
 Kana sieht weg. "Wir suchen nach einfachen Antworten, doch die gibt es nicht."</DefaultText>
       <FemaleText />
@@ -803,7 +803,7 @@ Schweißperlen sammeln sich auf Durance' Stirn und strömen sein Gesicht hinab, 
       <ID>357</ID>
       <DefaultText>"Ich biete sie dir nicht an, diese Realität. Sie existiert, ob du das akzeptierst oder nicht."
 
-"Und diese Dinge, von denen du sprichst, diese Krankheiten, die geheilt werden müssen. Frage dich - wenn die Götter keinen Einfluss hatten, würden diese Dinge dann überhaupt existieren? Oder würde es der Welt besser gehen?"</DefaultText>
+"Und diese Dinge, von denen du sprichst, diese Krankheiten, die geheilt werden müssen. Frage dich&#160;– wenn die Götter keinen Einfluss hatten, würden diese Dinge dann überhaupt existieren? Oder würde es der Welt besser gehen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

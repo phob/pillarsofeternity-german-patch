@@ -27,7 +27,7 @@ Er geht einen Schritt zurück, wobei er die Arme ausbreitet und dir den Kadaver 
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Er kichert und kratzt sich am Stummel seines zur Hälfte abgetrennten rechten Ohres. "Ein widerspenstiger Stelgaer. Als ich mir die Innereien des Hirsches ansah, fiel mir das deformierte - aber köstliche - Herz auf. Er wäre ohnehin innerhalb eines Jahres daran verendet ... "</DefaultText>
+      <DefaultText>Er kichert und kratzt sich am Stummel seines zur Hälfte abgetrennten rechten Ohres. "Ein widerspenstiger Stelgaer. Als ich mir die Innereien des Hirsches ansah, fiel mir das deformierte&#160;– aber köstliche&#160;– Herz auf. Er wäre ohnehin innerhalb eines Jahres daran verendet&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -52,12 +52,12 @@ Er geht einen Schritt zurück, wobei er die Arme ausbreitet und dir den Kadaver 
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Fahre fort ... "</DefaultText>
+      <DefaultText>"Fahre fort&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ich wurde von den Zelebranten des Habicht und Efeu-Zirkels des Fischerkranisch-Stammes ausgebildet. Ich weiß mehr als genug über Naturmagie und ... naja ..." Auf seinem Gesichts macht sich ein spitzbübisches Grinsen breit. "Einem guten Kampf gehe ich jedenfalls auch nicht aus dem Weg."</DefaultText>
+      <DefaultText>"Ich wurde von den Zelebranten des Habicht und Efeu-Zirkels des Fischerkranisch-Stammes ausgebildet. Ich weiß mehr als genug über Naturmagie und&#160;… naja&#160;…" Auf seinem Gesichts macht sich ein spitzbübisches Grinsen breit. "Einem guten Kampf gehe ich jedenfalls auch nicht aus dem Weg."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@ Er beugt seinen Kopf zu dir und kaut weiter an einem Fetzen Hirschfleisch. "Mach
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Als Kind huldigte ich Galawain, um ein großer Jäger zu werden, aber seit dem hier ... " - er deutet auf seine Augenklappe - "habe ich Wael kennengelernt, Ihn, der sieht und nicht gesehen wird'."</DefaultText>
+      <DefaultText>"Als Kind huldigte ich Galawain, um ein großer Jäger zu werden, aber seit dem hier&#160;…"&#160;– er deutet auf seine Augenklappe&#160;– "habe ich Wael kennengelernt, Ihn, der sieht und nicht gesehen wird'."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,9 +121,9 @@ Er beugt seinen Kopf zu dir und kaut weiter an einem Fetzen Hirschfleisch. "Mach
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Der Fürst der Jagd, Gönner aller Suchenden ... " Er verstummt. "Das fragst du den Falschen."
+      <DefaultText>"Der Fürst der Jagd, Gönner aller Suchenden&#160;…" Er verstummt. "Das fragst du den Falschen."
 
-Er schiebt seine Haare zur Seite, was eine genauere Betrachtung seiner Augenklappe gestattet - auf das abgenutzte Leder wurde das stilisierte Muster eines Augen gestickt.</DefaultText>
+Er schiebt seine Haare zur Seite, was eine genauere Betrachtung seiner Augenklappe gestattet&#160;– auf das abgenutzte Leder wurde das stilisierte Muster eines Augen gestickt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -204,7 +204,7 @@ Er kichert und lässt die Eingeweide auf den Boden fallen. "Ich zolle deiner Tap
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"So ... köstlich", sagt er mit zuckendem Gesicht. Er kaut fleißig weiter und schluckt die Innereien mit einem gequälten Lächeln hinunter.
+      <DefaultText>"So&#160;… köstlich", sagt er mit zuckendem Gesicht. Er kaut fleißig weiter und schluckt die Innereien mit einem gequälten Lächeln hinunter.
 
 "Jetzt weiß ich, dass der Hirsch zuletzt Holunderbeeren gefressen hat", meint er schmatzend. "Willst du wirklich nicht ein bisschen probieren?"</DefaultText>
       <FemaleText />
@@ -262,7 +262,7 @@ Itumaak hängt seine rosa Zunge aus dem Mund.</DefaultText>
       <ID>56</ID>
       <DefaultText>Der Orlaner lächelt, öffnet seinen Mund, als wolle er sprechen, und verstummt dann.
 
-"Wael ist der Gott der Geheimnisse und der Verdunkelung. Wael schreitet in unsere Taten kaum ein, noch diktiert oder beschränkt er sie - und er gibt sich auch nicht einfach so zu erkennen. Ich würde sagen, dass ich mehr über Wael nachdenke, als ihm zu folgen oder zu dienen."</DefaultText>
+"Wael ist der Gott der Geheimnisse und der Verdunkelung. Wael schreitet in unsere Taten kaum ein, noch diktiert oder beschränkt er sie&#160;– und er gibt sich auch nicht einfach so zu erkennen. Ich würde sagen, dass ich mehr über Wael nachdenke, als ihm zu folgen oder zu dienen."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

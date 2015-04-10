@@ -20,7 +20,7 @@ Er ist so auf seine Arbeit konzentriert, dass er dich erst bemerkt, als dein Sch
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Still und ruhig. Endlich ist es vorbei ... "</DefaultText>
+      <DefaultText>"Still und ruhig. Endlich ist es vorbei&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -30,12 +30,12 @@ Er ist so auf seine Arbeit konzentriert, dass er dich erst bemerkt, als dein Sch
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Wer - und was - bist du?"</DefaultText>
+      <DefaultText>"Wer&#160;– und was&#160;– bist du?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Nicht deine Hilfe brauche ich, sondern ... " Aldhelm knurrt wütend. "Harridan. Megäre." Er schaudert und runzelt die Stirn. "Vergeudet ihre Zeit mit Frivolitäten. Und weigert sich dann, sich nützlich zu machen."
+      <DefaultText>"Nicht deine Hilfe brauche ich, sondern&#160;…" Aldhelm knurrt wütend. "Harridan. Megäre." Er schaudert und runzelt die Stirn. "Vergeudet ihre Zeit mit Frivolitäten. Und weigert sich dann, sich nützlich zu machen."
 
 "Runen. Die Runen sind das letzte Teil des Rätsels. Icantha kennt sie. Sie gibt sie dir und du kannst die Maschine ausschalten. Unsere Seelen befreien."</DefaultText>
       <FemaleText />
@@ -74,12 +74,12 @@ Er ist so auf seine Arbeit konzentriert, dass er dich erst bemerkt, als dein Sch
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Forschung." Er ballt konzentriert die Fäuste. "Wir sind hier, um Forschung zu betreiben. Den Turm erforschen. Ein Auftrag von ... Göttern, es ist nicht mehr wichtig."</DefaultText>
+      <DefaultText>"Forschung." Er ballt konzentriert die Fäuste. "Wir sind hier, um Forschung zu betreiben. Den Turm erforschen. Ein Auftrag von&#160;… Göttern, es ist nicht mehr wichtig."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Er wendet sich zu dir, belebt von einer plötzlichen Leidenschaft. "Jahrelang tue ich das schon! Jahre. Ich weiß, wie diese Dinger funktionieren. Aber ich weiß nicht ... " Er blickt auf den verlassenen Bezirk unter dem Turm. " ... wie das passiert ist."
+      <DefaultText>Er wendet sich zu dir, belebt von einer plötzlichen Leidenschaft. "Jahrelang tue ich das schon! Jahre. Ich weiß, wie diese Dinger funktionieren. Aber ich weiß nicht&#160;…" Er blickt auf den verlassenen Bezirk unter dem Turm. "… wie das passiert ist."
 
 Er zeigt auf die Straßen. "Man kann nirgendwo hin. Das ist das Problem. Ihre Seelen sind hier gefangen wie Fliegen in einem Glas. Sie klammern sich an fauliges Fleisch."</DefaultText>
       <FemaleText />
@@ -96,7 +96,7 @@ Er zeigt auf die Straßen. "Man kann nirgendwo hin. Das ist das Problem. Ihre Se
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Keine Zeit langsam zu machen. Aber ... " Frust macht sich in seinem Gesicht breit. "Ich kann es erklären. Halte einen Magnet über Eisensplitter und sie bleiben hängen, ja? Reibe die Hand über Stahlwolle und die Haare auf deinem Kopf folgen."
+      <DefaultText>"Keine Zeit langsam zu machen. Aber&#160;…" Frust macht sich in seinem Gesicht breit. "Ich kann es erklären. Halte einen Magnet über Eisensplitter und sie bleiben hängen, ja? Reibe die Hand über Stahlwolle und die Haare auf deinem Kopf folgen."
 
 "So ist es mit dieser Maschine."
 
@@ -112,7 +112,7 @@ Er reibt sich mit den Fäusten die Augen. "Nein. Konzentriere dich auf diese hie
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Er fährt mit zitternder Hand über die Runen auf dem Sockel. "Linien und Kreise, das ist alles. Aber Icantha kennt sie. Ich muss es wissen ... "</DefaultText>
+      <DefaultText>Er fährt mit zitternder Hand über die Runen auf dem Sockel. "Linien und Kreise, das ist alles. Aber Icantha kennt sie. Ich muss es wissen&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -122,12 +122,12 @@ Er reibt sich mit den Fäusten die Augen. "Nein. Konzentriere dich auf diese hie
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Er knurrt und ergreift die kupfernen Bedienelemente. "Ich stehe so kurz davor! Ich kann es verstehen, den Mechanismus umkehren. Ich brauche nur Zeit. Zeit und ... " Er krümmt sich wegen eines Hustenanfalls. Als er dich wieder anblickt, blitzen seine Zähne für einen kurzen Moment auf.</DefaultText>
+      <DefaultText>Er knurrt und ergreift die kupfernen Bedienelemente. "Ich stehe so kurz davor! Ich kann es verstehen, den Mechanismus umkehren. Ich brauche nur Zeit. Zeit und&#160;…" Er krümmt sich wegen eines Hustenanfalls. Als er dich wieder anblickt, blitzen seine Zähne für einen kurzen Moment auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Du siehst tatsächlich aus, als wüsstest du das eine oder andere über Fliegen ... "</DefaultText>
+      <DefaultText>"Du siehst tatsächlich aus, als wüsstest du das eine oder andere über Fliegen&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +161,7 @@ Er blickt dich an und lässt seine Zunge über die Ränder seiner gesunden, star
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Ich habe ihn nicht gesehen. Mein Assistent ..." Er zögert, seine Lippen bewegen sich lautlos, als könnte er sich an seinen Namen nicht erinnern ... oder ihn nicht aussprechen. "Er hat ihn gesehen. Wir haben gelacht. Gesagt, er hätte Angst vor dem Friedhof. Vielleicht war es schon zu spät."
+      <DefaultText>"Ich habe ihn nicht gesehen. Mein Assistent&#160;…" Er zögert, seine Lippen bewegen sich lautlos, als könnte er sich an seinen Namen nicht erinnern&#160;… oder ihn nicht aussprechen. "Er hat ihn gesehen. Wir haben gelacht. Gesagt, er hätte Angst vor dem Friedhof. Vielleicht war es schon zu spät."
 
 "Ich weiß nicht, was er getan hat. Aber am Morgen war die Maschine eingeschaltet und wir wurden getötet. Die Leute waren bereits auf den Straßen und beschwerten sich, dass Nachbarn und Familienmitglieder sich seltsam verhielten."</DefaultText>
       <FemaleText />
@@ -211,7 +211,7 @@ Sein Körper zuckt und zittert. "Und vielleicht bringst du mir etwas? Etwas, um 
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Seine Augen funkeln und er leckt sich die Lippen mit einer rissigen und schrumpligen Zunge. "Du könntest helfen. Hilf mir, das zu beenden. Hilf mir, Nahrung zu finden ... "</DefaultText>
+      <DefaultText>Seine Augen funkeln und er leckt sich die Lippen mit einer rissigen und schrumpligen Zunge. "Du könntest helfen. Hilf mir, das zu beenden. Hilf mir, Nahrung zu finden&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,7 +226,7 @@ Sein Körper zuckt und zittert. "Und vielleicht bringst du mir etwas? Etwas, um 
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Sie hat hier gelebt, gefördert von einer Handvoll von Gönnern, denen sie ein Vermögen für die Übersetzung von engwithanischen Texten abgeknöpft hat. Nutzloses Zeug, hauptsächlich - Gedichte, Hymnen, Volkssagen."
+      <DefaultText>"Sie hat hier gelebt, gefördert von einer Handvoll von Gönnern, denen sie ein Vermögen für die Übersetzung von engwithanischen Texten abgeknöpft hat. Nutzloses Zeug, hauptsächlich&#160;– Gedichte, Hymnen, Volkssagen."
 
 "Eine geniale Frau, aber zu stolz, viel zu stolz."</DefaultText>
       <FemaleText />
@@ -248,14 +248,14 @@ Sein Körper zuckt und zittert. "Und vielleicht bringst du mir etwas? Etwas, um 
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Als ich erkannte, was geschehen war, war der Bezirk bereits abgeriegelt. Also aßen wir, wenn es nötig war, und schlossen uns im Turm ein, um zu arbeiten. Und dann kam der Hunger und es war kaum jemand übrig ... "</DefaultText>
+      <DefaultText>"Als ich erkannte, was geschehen war, war der Bezirk bereits abgeriegelt. Also aßen wir, wenn es nötig war, und schlossen uns im Turm ein, um zu arbeiten. Und dann kam der Hunger und es war kaum jemand übrig&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"In unserer elften Nacht geschah etwas. Lichter am Himmel und eine elektrostatische Aufladung in der Luft. Aber wir waren so vorsichtig ... "
+      <DefaultText>"In unserer elften Nacht geschah etwas. Lichter am Himmel und eine elektrostatische Aufladung in der Luft. Aber wir waren so vorsichtig&#160;…"
 
-"Wir waren in den Kammern unten. Trindig, mein Assistent, sagte, er habe eine Gestalt in Roben um den Turm schleichen sehen. Sie trug eine Maske. Und Messer in den Händen. Das waren nur Schatten, sagte ich ihm. Am nächsten Morgen fühlten wir uns seltsam. Als hätten wir seit Wochen nicht gegessen. So benommen, dass wir das Blut um unsere Betten herum zunächst nicht bemerkten, die seltsamen Wunden, die über Nacht erschienen waren ... "</DefaultText>
+"Wir waren in den Kammern unten. Trindig, mein Assistent, sagte, er habe eine Gestalt in Roben um den Turm schleichen sehen. Sie trug eine Maske. Und Messer in den Händen. Das waren nur Schatten, sagte ich ihm. Am nächsten Morgen fühlten wir uns seltsam. Als hätten wir seit Wochen nicht gegessen. So benommen, dass wir das Blut um unsere Betten herum zunächst nicht bemerkten, die seltsamen Wunden, die über Nacht erschienen waren&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -265,7 +265,7 @@ Sein Körper zuckt und zittert. "Und vielleicht bringst du mir etwas? Etwas, um 
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Aloths Lippen kräuseln sich angewidert. "Hätte ich einen Kupfer-Skeyt für jeden törichten Beseeler, dessen Durst nach 'Wissen' zu einer Katastrophe führte ... nun, dann wäre ich gewiss nie in Goldtal gelandet."</DefaultText>
+      <DefaultText>Aloths Lippen kräuseln sich angewidert. "Hätte ich einen Kupfer-Skeyt für jeden törichten Beseeler, dessen Durst nach 'Wissen' zu einer Katastrophe führte&#160;… nun, dann wäre ich gewiss nie in Goldtal gelandet."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -275,7 +275,7 @@ Sein Körper zuckt und zittert. "Und vielleicht bringst du mir etwas? Etwas, um 
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Hiravias knurrt und ballt die Hände zu Fäusten. "Ist es zu glauben - mein Clan hat die Unverfrorenheit, mich als seelenfleddernde Bestie zu geißeln, wenn ein ECHTES solches Monster frei durch Weretha streift ... "</DefaultText>
+      <DefaultText>Hiravias knurrt und ballt die Hände zu Fäusten. "Ist es zu glauben&#160;– mein Clan hat die Unverfrorenheit, mich als seelenfleddernde Bestie zu geißeln, wenn ein ECHTES solches Monster frei durch Weretha streift&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -287,12 +287,12 @@ Sein Körper zuckt und zittert. "Und vielleicht bringst du mir etwas? Etwas, um 
       <ID>136</ID>
       <DefaultText>"Ich habe sie die Treppe hochkommen hören. Sie klangen müde. Sie waren langsam."
 
-Er wischt sich den Mund ab. "Ich hätte die anderen zwei retten sollen. Aber ich hatte solchen Hunger ... "</DefaultText>
+Er wischt sich den Mund ab. "Ich hätte die anderen zwei retten sollen. Aber ich hatte solchen Hunger&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Dieses Mädchen. Warum ... warum ist sie hierhergekommen?" Er kneift die Augen zusammen und es wirkt, als würde er gleich weinen ... doch in seinem Körper scheint keinerlei natürliche Feuchtigkeit mehr vorhanden zu sein. "Ich wollte nicht. Ich habe mich im Schatten versteckt. Ich wollte sie gehen lassen."</DefaultText>
+      <DefaultText>"Dieses Mädchen. Warum&#160;… warum ist sie hierhergekommen?" Er kneift die Augen zusammen und es wirkt, als würde er gleich weinen&#160;… doch in seinem Körper scheint keinerlei natürliche Feuchtigkeit mehr vorhanden zu sein. "Ich wollte nicht. Ich habe mich im Schatten versteckt. Ich wollte sie gehen lassen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -327,7 +327,7 @@ Er wischt sich den Mund ab. "Ich hätte die anderen zwei retten sollen. Aber ich
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Finde sie. Irgendwo hier im Bezirk ... "</DefaultText>
+      <DefaultText>"Finde sie. Irgendwo hier im Bezirk&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -342,7 +342,7 @@ Er wischt sich den Mund ab. "Ich hätte die anderen zwei retten sollen. Aber ich
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>[Weggehen] "Wenn Icantha die Worte kennt, wozu brauche ich dann noch deine Hilfe ... "</DefaultText>
+      <DefaultText>[Weggehen] "Wenn Icantha die Worte kennt, wozu brauche ich dann noch deine Hilfe&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -359,8 +359,8 @@ Er runzelt die Stirn. "Icantha war hier. In Erbhügel. Muss immer noch hier sein
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Wir dürfen das nicht tun, Wächter ... dieser Bestie ist nicht mehr zu helfen. Begib dich nicht auf sein Niveau herab."</DefaultText>
-      <FemaleText>Wir dürfen das nicht tun, Wächterin ... dieser Bestie ist nicht mehr zu helfen. Begib dich nicht auf sein Niveau herab.</FemaleText>
+      <DefaultText>"Wir dürfen das nicht tun, Wächter&#160;… dieser Bestie ist nicht mehr zu helfen. Begib dich nicht auf sein Niveau herab."</DefaultText>
+      <FemaleText>Wir dürfen das nicht tun, Wächterin&#160;… dieser Bestie ist nicht mehr zu helfen. Begib dich nicht auf sein Niveau herab.</FemaleText>
     </Entry>
     <Entry>
       <ID>152</ID>
@@ -388,7 +388,7 @@ Er runzelt die Stirn. "Icantha war hier. In Erbhügel. Muss immer noch hier sein
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Natürlich müsstest du immer noch wissen, wie man die Maschine grundsätzlich bedient. Soweit ich weiß ... versteht allein Icantha, wie das zu bewerkstelligen ist."</DefaultText>
+      <DefaultText>"Natürlich müsstest du immer noch wissen, wie man die Maschine grundsätzlich bedient. Soweit ich weiß&#160;… versteht allein Icantha, wie das zu bewerkstelligen ist."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -410,12 +410,12 @@ Er runzelt die Stirn. "Icantha war hier. In Erbhügel. Muss immer noch hier sein
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"Probieren wir es mit dieser Konfiguration ... immer noch nichts. Verhexte Maschine!"</DefaultText>
+      <DefaultText>"Probieren wir es mit dieser Konfiguration&#160;… immer noch nichts. Verhexte Maschine!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"Und die Maschine ... dieser verfluchte Turm! Zweitausend Jahre lang schläft sie, leblos während Hunderter unserer Experimente, und wir erwachen an jenem Morgen und sie dreht sich von allein. Von allein! Wie können wir aufhalten, was wir nicht in Gang setzen konnten?"</DefaultText>
+      <DefaultText>"Und die Maschine&#160;… dieser verfluchte Turm! Zweitausend Jahre lang schläft sie, leblos während Hunderter unserer Experimente, und wir erwachen an jenem Morgen und sie dreht sich von allein. Von allein! Wie können wir aufhalten, was wir nicht in Gang setzen konnten?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -440,7 +440,7 @@ Er runzelt die Stirn. "Icantha war hier. In Erbhügel. Muss immer noch hier sein
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Moment, Runen - die engwithanischen Runen? Sie kann sie lesen? Er spricht so unbeeindruckt von dieser Leistung. Sprechen wir stattdessen mit dieser 'Megäre', [Player Name]. Ich würde sie gerne einmal befragen."</DefaultText>
+      <DefaultText>"Moment, Runen&#160;– die engwithanischen Runen? Sie kann sie lesen? Er spricht so unbeeindruckt von dieser Leistung. Sprechen wir stattdessen mit dieser 'Megäre', [Player Name]. Ich würde sie gerne einmal befragen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

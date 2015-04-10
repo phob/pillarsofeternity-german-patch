@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Trotz ihres unscheinbaren Aussehens bietet die Brigandine ihrem Träger beeindruckenden Schutz, was im Kampf allerdings auf Kosten der Bewegungsgeschwindigkeit geht. Sie besteht aus Dutzenden von Stahlplättchen, die zwischen Leinen oder Leder zusammengepresst sind. Diese Plättchen werden von den charakteristischen Nieten auf der Außenseite der Brigantine an Ort und Stelle gehalten.</DefaultText>
+      <DefaultText>Trotz ihres unscheinbaren Aussehens bietet die Brigandine ihrem Träger beeindruckenden Schutz, was im Kampf allerdings auf Kosten der Bewegungsgeschwindigkeit geht. Sie besteht aus Dutzenden von Stahlplättchen, die zwischen Leinen oder Leder zusammengepresst sind. Diese Plättchen werden von den charakteristischen Nieten auf der Außenseite der Brigantine auf Position gehalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -933,7 +933,7 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>Der Patient ist männlich und ungefähr 17 Jahre alt. Eingeliefert wegen katatoner Anfälle, denen gelegentlich jähzornige Ausbrüche folgten. Die einleitende Seelenanalyse deckte schwere Essenzfragmentierungen und -defizite auf. Letztere machten die Verwendung des Patienten im aktuellen Forschungsprojekt völlig unmöglich.</DefaultText>
+      <DefaultText>Der Patient ist männlich und ungefähr 17&#160;Jahre alt. Eingeliefert wegen katatoner Anfälle, denen gelegentlich jähzornige Ausbrüche folgten. Die einleitende Seelenanalyse deckte schwere Essenzfragmentierungen und -defizite auf. Letztere machten die Verwendung des Patienten im aktuellen Forschungsprojekt völlig unmöglich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1242,7 +1242,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>Streitflegel bestehen aus einer oft bedornten Metallkugel, die über eine kurze Kette mit einem Holz- oder Metallgriff verbunden ist. Aufgrund ihrer Wirksamkeit gegen Gegner mit Schild sind diese Waffen bei Soldaten beliebt.</DefaultText>
+      <DefaultText>Streitflegel bestehen aus einer oft bedornten Metallkugel, die über eine kurze Kette mit einem Holz- oder Metallgriff verbunden ist. Aufgrund ihrer Wirksamkeit gegen Gegner mit Schild sind diese Waffen bei den Soldaten beliebt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1743,7 +1743,7 @@ Der weise Mann schüttelt seinen Kopf und wischt sich die Tränen aus den Augen.
     </Entry>
     <Entry>
       <ID>360</ID>
-      <DefaultText>Brustharnische sind recht beliebt, da sie mäßigen Schutz bieten, ohne die Beweglichkeit des Trägers dabei derart einzuschränken, wie es schwerere Kettenhemden oder vollständige Plattenpanzer tun würden.
+      <DefaultText>Brustharnische sind recht beliebt, da sie mäßigen Schutz bieten, ohne die Beweglichkeit des Trägers dabei so wie die schwereren Kettenhemden und volle Plattenpanzer einzuschränken.
 
 Da sie besonders unter den Kriegern der Vailianischen Republiken weit verbreitet sind, entspricht die unter den Brustharnischen getragene Kleidung und Polsterung normalerweise vailianischer Mode.</DefaultText>
       <FemaleText />
@@ -2533,7 +2533,7 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
     </Entry>
     <Entry>
       <ID>518</ID>
-      <DefaultText>Ein jammervoller Bericht über Fulvanos Reisen im Dyrwald. Bevor seine Reise ein jähes Ende findet, nennt er die Meereshöhle, den Kompass und den Schädelring als Orientierungspunkte.</DefaultText>
+      <DefaultText>Ein beklagender Bericht über Fulvanos Reisen im Dyrwald. Bevor seine Reise ein jähes Ende findet, nennt er die Meereshöhle, den Kompass und den Schädelring als Orientierungspunkte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2627,14 +2627,14 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
     </Entry>
     <Entry>
       <ID>536</ID>
-      <DefaultText>Die beharrliche Nachtwache des Pilgers</DefaultText>
+      <DefaultText>Die dauerhafte Vigil der Pilger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>537</ID>
-      <DefaultText>Das Ende des Krieges des Heiligen und die Detonation der Götterhammerbombe wird von den Anhängern Eothas' auf der ganzen Welt noch immer betrauert. Obwohl der Konflikt die Gefolgschaft von Eothas im Dyrwald dezimierte, bleiben viele dem Gott der Morgenröte und Erlösung treu und sind zuversichtlich, dass er eines Tages auferstehen wird. Viele Anhänger begeben sich einmal im Jahr am Geburtstag des heiligen Waidwen auf Pilgerreisen zu Schreinen und Tempeln des Eothas (oder was davon noch übrig ist). Die Einzelheiten der Zeremonie variieren: In Readceras sind sie oft von Gesängen und Vorträgen der Predigten des heiligen Waidwen geprägt. Im Dyrwald, wo die Anhänger von Eothas oft verfolgt werden, kann es zu solchen Zeremonien gehören, bis zum Sonnenaufgang in respektvoller Stille auf der Stelle zu stehen. Dabei tragen die Gläubigen Rüstungen oder andere Gegenstände, die an Eothas und seine Führerschaft durch Waidwen erinnern sollen. 
+      <DefaultText>Das Ende des Krieges des Heiligen und die Detonation der Götterhammerbombe wird von den Anhängern Eothas' auf der ganzen Welt noch immer betrauert. Während der Konflikt die Gefolgschaft von Eothas im Dyrwald dezimierte, bleiben viele dem Gott der Morgenröte und Erlösung treu und sind zuversichtlich, dass er eines Tages auferstehen wird. Viele Anhänger begeben sich einmal im Jahr am Geburtstag des heiligen Waidwen auf Pilgerreisen zu Schreinen und Tempeln von Eothas (oder was davon noch übrig ist). Die Einzelheiten dieser Vigile unterscheiden sich voneinander: In Readceras sind sie oft von Gesängen und Vorträgen von Sermonen des heiligen Waidwen geprägt. Im Dyrwald, wo die Anhänger von Eothas oft verfolgt werden, kann es zu solchen Zeremonien gehören, bis zum Sonnenaufgang in respektvoller Stille auf der Stelle zu stehen. Rüstungen oder andere Gegenstände zu tragen, die Eothas oder seiner Herrschaft durch Waidwen gedenken, ist eine Gepflogenheit der Anhänger. 
 
-Dieser Helm trägt das Sonnensymbol der readceranischen Armee. Wahrscheinlich wurde er ursprünglich von einem Soldaten im Krieg des Heiligen getragen.</DefaultText>
+Dieser Helm trägt das Sonnensymbol der readceranischen Armee. Wahrscheinlich wurde er zuerst von einem Soldaten im Krieg des Heiligen getragen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2719,7 +2719,7 @@ Dieser Helm trägt das Sonnensymbol der readceranischen Armee. Wahrscheinlich wu
     </Entry>
     <Entry>
       <ID>557</ID>
-      <DefaultText>Obwohl er nie so berühmt war, wie er selbst von sich behauptete, so war der vailianische Entdecker Fulvano doch als Exzentriker bekannt, mit dem Wunsch die große weite Welt zu sehen. Wo immer es möglich war, reiste er zu Fuß, um die Sehenswürdigkeiten, Geräusche und Gerüche der Lande, die er durchquerte, wie ein Einheimischer erleben und würdigen zu können. Tatsächlich aber, so behauptete Fulvano regelmäßig, blieb das einzige Ergebnis seiner Erkundungen der Beweis, dass die Welt außerhalb der Vailianischen Republiken ein übler, stinkender Ort ist.
+      <DefaultText>Obwohl er nie so berühmt war, wie er selbst von sich behauptete, so war der vailianische Entdecker Fulvano doch als Exzentriker mit dem Wunsch bekannt, die große weite Welt zu sehen. Wo immer es möglich war, reiste er zu Fuß, um die Sehenswürdigkeiten, Geräusche und Gerüche der Lande, die er durchquerte, wie ein Einheimischer erleben und würdigen zu können. In Wirklichkeit aber behauptete Fulvano oft, dass seine Erkundungen nur bewiesen, dass die Welt außerhalb der Vailianischen Republiken im Vergleich zu seinem Heimatland ein übler, stinkender Ort war.
 
 Dieses Amulett soll Fulvano gehört haben. Er war von leichtem Aberglauben sehr angetan, und von diesem Talisman sagte er, er wäre eine Glücksquelle. Darüber hinaus diente er auch sentimentalen Zwecken, da er eines der großen Schiffe darstellt, die man üblicherweise an den Docks seines Heimatlandes sehen kann.</DefaultText>
       <FemaleText />
@@ -2751,7 +2751,7 @@ Dieses Amulett soll Fulvano gehört haben. Er war von leichtem Aberglauben sehr 
     </Entry>
     <Entry>
       <ID>563</ID>
-      <DefaultText>Schon Jahrhunderte, bevor die aedyranischen und vailianischen Beseeler das formelle Studium von Medien auf dem Kontinent einführten, waren die Brîshalgwin oder "Verstandsjäger" in ganz Eir Glanfath bekannt. Man respektierte - und fürchtete - sie für ihre Fähigkeiten, Seelenverbindungen wahrzunehmen.
+      <DefaultText>Schon Jahrhunderte, bevor die aedyranischen und vailianischen Beseeler das formelle Studium von Medien auf dem Kontinent einführten, waren die Brîshalgwin oder "Verstandsjäger" in ganz Eir&#160;Glanfath bekannt. Man respektierte - und fürchtete - sie für ihre Fähigkeiten, Seelenverbindungen wahrzunehmen.
 
 Als sich die ersten aedyranischen Kolonisten im Dyrwald niederließen, zogen sie sich schnell den Zorn ihrer glanfathanischen Nachbarn zu, weil sie - manchmal unabsichtlich, manchmal mit voller Absicht - in engwithanische Ruinen eindrangen. Eine taubstumme Orlanerin des Drei-Stoßzahn-Stelgaer-Stammes, ein übernatürlich begabtes Medium, setzte ihre Fähigkeiten zur Überwachung der Grenzen zu den Ruinen und zum Aufspüren der Kolonisten ein, die sie durch ihre Handlungen schändeten. 
 
@@ -3070,7 +3070,7 @@ Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei
     </Entry>
     <Entry>
       <ID>626</ID>
-      <DefaultText>Ernte des Herdes</DefaultText>
+      <DefaultText>Sesshaftenernte</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3580,7 +3580,7 @@ Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei
     </Entry>
     <Entry>
       <ID>729</ID>
-      <DefaultText>Ein einfacher Eisenhammer mit Meißel, nützlich zum Herummeißeln an harten Oberflächen, besonders wenn diese bereits Schwachstellen zeigen.</DefaultText>
+      <DefaultText>Ein einfacher Eisenhammer mit Meißel, nützlich zum Herummeißeln an harten Oberflächen, und dabei besonders solchen mit Strukturschäden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3625,7 +3625,7 @@ Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei
     </Entry>
     <Entry>
       <ID>738</ID>
-      <DefaultText>Wirksam zum Aufbrechen bestimmter Behälter, für Türen dagegen aufgrund der ungleichmäßigen und begrenzten Hebelwirkung nicht geeignet.</DefaultText>
+      <DefaultText>Wirksam zum Aufbrechen bestimmter Behälter, an Türen dagegen aufgrund der ungleichmäßigen und engen Hebelwirkung nicht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3827,7 +3827,7 @@ Irgendwas summt in ihnen, ein verblichenes Überbleibsel einer Essenz. Welche Ma
     </Entry>
     <Entry>
       <ID>775</ID>
-      <DefaultText>Hüte gibt es in vielen verschiedenen Formen, Größen und einer großen Auswahl an Farben. Dyrwäldler sind für ihre bescheidenen, rustikalen Hüte bekannt, während Vailianer mit breitkrempigen Hüten, geschmückt mit verschiedenen exotischen Federn, assoziiert werden.</DefaultText>
+      <DefaultText>Hüte gibt es in vielen verschiedenen Formen, Größen und einer großen Auswahl an Farben. Dyrwäldler sind für ihre bescheidenen, rustikalen Hüte bekannt, während Vailianer mit breitkrempigen Hüten geschmückt mit verschiedenen exotischen Federn assoziiert werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4520,7 +4520,7 @@ Zum letzten Mal: Halte dich von Trutzbucht fern. Wenn ich mich nicht einmal dara
     </Entry>
     <Entry>
       <ID>917</ID>
-      <DefaultText>Kochender Sprühnebel</DefaultText>
+      <DefaultText>Kochende Sprühnebel-Falle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4555,37 +4555,37 @@ Zum letzten Mal: Halte dich von Trutzbucht fern. Wenn ich mich nicht einmal dara
     </Entry>
     <Entry>
       <ID>924</ID>
-      <DefaultText>Starren des Adragan</DefaultText>
+      <DefaultText>Starren des Adragan-Falle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>925</ID>
-      <DefaultText>Wurfspießhagelfalle</DefaultText>
+      <DefaultText>Wurfspießhagel-Falle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>926</ID>
-      <DefaultText>Heimtückische Wolke</DefaultText>
+      <DefaultText>Heimtückische Wolke-Falle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>927</ID>
-      <DefaultText>Giftige Explosion</DefaultText>
+      <DefaultText>Giftige Explosion-Falle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>928</ID>
-      <DefaultText>Säule des Heiligen Feuers</DefaultText>
+      <DefaultText>Säule des Heiligen Feuers-Falle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>929</ID>
-      <DefaultText>Giftwurfspießfalle</DefaultText>
+      <DefaultText>Giftwurfspieß-Falle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>930</ID>
-      <DefaultText>Giftige Wolke</DefaultText>
+      <DefaultText>Giftige Wolke-Falle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5409,7 +5409,7 @@ Trindig</DefaultText>
     </Entry>
     <Entry>
       <ID>1104</ID>
-      <DefaultText>Diese robuste Brigandine wurde von der aedyranischen Abenteurerin, der sie einst gehörte, mehrfach verstärkt. Die dick ausgepolsterte Rüstung wurde Äru-Brekr genannt (Pfeilbrecher). Sie leistete der Abenteurerin gute Dienste, bis ihr Ruhm und ihr Reichtum sie nachlässig werden ließen und sie einen Gegner zu nah an sich heran ließ. Pfeilbrecher beschützte sie zwar vor Geschossen, bot jedoch nicht denselben Schutz gegen den Streitkolben, der ihr gegen die Schläfe geschlagen wurde.</DefaultText>
+      <DefaultText>Diese robuste Brigandine wurde von der aedyranischen Abenteurerin, der sie einst gehörte, mehrfach verstärkt. Die dick ausgepolsterte Rüstung wurde Äru-Brekr genannt (Pfeilbrecher). Sie leistete der Abenteurerin gute Dienste, bis ihr Ruhm und ihr Reichtum sie nachlässig werden ließen und sie einen Gegner zu nah an sich heran ließ. Pfeilbrecher beschützte sie zwar vor Geschossen, bot jedoch nicht denselben Schutz gegen einen Streitkolben, der ihr gegen die Schläfe geschlagen wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5644,7 +5644,7 @@ Der Sieg über die Oger war zwar nur von kurzer Dauer, doch die Geschichte wird 
     </Entry>
     <Entry>
       <ID>1142</ID>
-      <DefaultText>Carow Golan wird aus einer heiligen und seltenen Pflanze hergestellt, die tief in Eir Glanfath wächst. Die Mixtur wird fast ausschließlich für zeremonielle Zwecke oder von Kriegern, die in eine wichtige Schlacht ziehen, verwendet. Sie soll das Bewusstsein der eigenen Position in der Welt schärfen, so dass man Gefahren besser erkennen und kontern kann.</DefaultText>
+      <DefaultText>Carow Golan wird aus einer heiligen und seltenen Pflanze hergestellt, die tief in Eir&#160;Glanfath wächst. Die Mixtur wird fast ausschließlich für zeremonielle Zwecke oder von Kriegern, die in eine wichtige Schlacht ziehen, verwendet. Sie soll das Bewusstsein der eigenen Position in der Welt schärfen, so dass man Gefahren besser erkennen und kontern kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5699,7 +5699,7 @@ Der Sieg über die Oger war zwar nur von kurzer Dauer, doch die Geschichte wird 
     </Entry>
     <Entry>
       <ID>1153</ID>
-      <DefaultText>Weißblatt wird aus dem Weißblattkraut gewonnen, das im ganzen Dyrwald und in Eir Glanfath weit verbreitet ist. Die Pflanze wird getrocknet und geraucht, was ein Gefühl der Ruhe und eine tiefe Lethargie hervorruft.</DefaultText>
+      <DefaultText>Weißblatt wird aus dem Weißblattkraut gewonnen, das im ganzen Dyrwald und in Eir&#160;Glanfath weit verbreitet ist. Die Pflanze wird getrocknet und geraucht, was ein Gefühl der Ruhe und eine tiefe Lethargie hervorruft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5787,7 +5787,7 @@ Der Streitflegel selbst ist einzigartig, da die Stachelkugel an seinem Ende aus 
     </Entry>
     <Entry>
       <ID>1169</ID>
-      <DefaultText>Gaun ist eine weniger bekannte Erscheinung des Gottes Eothas. Er steht für den Kreislauf des Lebens und der Jahreszeiten und wird oft als Bauer mit einer Sense dargestellt. Er erfreut sich großer Beliebtheit unter ländlichen Anhängern von Eothas, die sich zu seinen verschiedenen Darstellungen als Ernährer, Hirte der Toten und Verteidiger gegen Ungerechtigkeiten hingezogen fühlen.
+      <DefaultText>Gaun ist ein weniger bekannter Aspekt des Gottes Eothas. Er steht für den Kreislauf des Lebens und der Jahreszeiten und wird oft als Bauer mit einer Sense dargestellt. Er erfreut sich großer Beliebtheit unter ländlichen Anhängern von Eothas, die sich zu seinen verschiedenen Identitäten als Ernährer, Hirte der Toten und Verteidiger gegen Ungerechtigkeiten hingezogen fühlen.
 
 Gauns Anteil soll von einem verstörten Schmied aus dem Dyrwald gefertigt worden sein, nachdem glanfathanische Plünderer sein Heimatdorf zerstört hatten. Nachdem er in einer benachbarten Siedlung angelangte, begann der Schmied sofort mit der Arbeit. Er wollte eine Waffe fertigen, die das Unrecht wiedergutmachen könne, das seinem Dorf widerfahren war. Mehrere Wochen lang schwitzte er über der Esse und schmiedete einen schweren Streitflegel, der mit kleinen, sichelförmigen Klingen besetzt war. Er war entschlossen, damit jeden zurückkehrenden Angreifer ins Jenseits zu befördern.</DefaultText>
       <FemaleText />
@@ -5867,7 +5867,7 @@ Obwohl alle Zauberbücher ihre Grenzen haben, da sie aus einer begrenzten Anzahl
     </Entry>
     <Entry>
       <ID>1190</ID>
-      <DefaultText>Bären sind beeindruckende Raubtiere und kommen überall in Eir Glanfath und im Dyrwald vor. Sie gehören zu den Biestern, die bei den Dienern des Jagdgottes höchstes Ansehen genießen, weshalb sie auch oft die größten und gefährlichsten Bären aufspüren, um ihre Fähigkeiten unter Beweis zu stellen. Bärenhäute erzielen hohe Preise, und die Klauen älterer Bären werden oft zu Halsketten oder Totems verarbeitet, die den Träger als bewährten Jäger ausweisen.</DefaultText>
+      <DefaultText>Bären sind beeindruckende Raubtiere und kommen überall in Eir&#160;Glanfath und im Dyrwald vor. Sie gehören zu den Biestern, die bei den Dienern des Jagdgottes höchstes Ansehen genießen, weshalb sie auch oft die größten und gefährlichsten Bären aufspüren, um ihre Fähigkeiten unter Beweis zu stellen. Bärenhäute erzielen hohe Preise, und die Klauen älterer Bären werden oft zu Halsketten oder Totems verarbeitet, die den Träger als bewährten Jäger ausweisen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5927,7 +5927,7 @@ Obwohl alle Zauberbücher ihre Grenzen haben, da sie aus einer begrenzten Anzahl
     </Entry>
     <Entry>
       <ID>1202</ID>
-      <DefaultText>Bären sind beeindruckende Raubtiere und kommen überall in Eir Glanfath und im Dyrwald vor. Sie gehören zu den Biestern, die bei den Dienern des Jagdgottes höchstes Ansehen genießen, weshalb sie auch oft die größten und gefährlichsten Bären aufspüren, um ihre Fähigkeiten unter Beweis zu stellen. Bärenhäute erzielen hohe Preise, und die Klauen älterer Bären werden oft zu Halsketten oder Totems verarbeitet, die den Träger als bewährten Jäger ausweisen.</DefaultText>
+      <DefaultText>Bären sind beeindruckende Raubtiere und kommen überall in Eir&#160;Glanfath und im Dyrwald vor. Sie gehören zu den Biestern, die bei den Dienern des Jagdgottes höchstes Ansehen genießen, weshalb sie auch oft die größten und gefährlichsten Bären aufspüren, um ihre Fähigkeiten unter Beweis zu stellen. Bärenhäute erzielen hohe Preise, und die Klauen älterer Bären werden oft zu Halsketten oder Totems verarbeitet, die den Träger als bewährten Jäger ausweisen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6075,7 +6075,7 @@ Als der örtliche Duc von ihrem Mut und der Not der Kinder hörte, ließ er Notv
     </Entry>
     <Entry>
       <ID>1231</ID>
-      <DefaultText>Das schimmernde Fleisch einer unglückseligen Kreatur.</DefaultText>
+      <DefaultText>Das glitzernde Fleisch einer unglückseligen Kreatur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6266,12 +6266,12 @@ Eine schreckliche Waffe, die jeden enttäuscht, der sie verwendet. Auf den erste
     </Entry>
     <Entry>
       <ID>1267</ID>
-      <DefaultText>Dieser leuchtend violette Trank hat eine ebenso sichtbare Wirkung, denn wer ihn trinkt verspürt augenblicklich eine Welle der Energie, die selbst die ausgemergeltesten und müdesten Wanderer wieder lebhaft und frisch werden lässt.</DefaultText>
+      <DefaultText>Dieser blubbernde violette Trank hat eine ebenso sichtbare Wirkung, denn wer ihn trinkt, der verspürt augenblicklich eine Welle der Energie, die selbst die ausgemergeltesten und müdesten Wanderer wieder lebhaft und frisch werden lässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1268</ID>
-      <DefaultText>Dieses stinkende aber mächtige Elixier macht sich die stärkende - wenn auch flüchtige - Macht von nekromantiegetränken Knochen zunutze. Sein Wert im Kampf lässt sich nicht leugnen, denn es verleiht selbst den unglückseligsten Kämpfern die Fähigkeiten eines erfahrenen Veterans.</DefaultText>
+      <DefaultText>Dieses stinkende aber mächtige Elixier macht sich die stärkende - wenn auch flüchtige - Macht von nekromantiegetränken Knochen zunutze. Sein Wert im Kampf lässt sich nicht leugnen, denn es verleiht selbst den unglückseligsten Kämpfern die Wirksamkeit eines erfahrenen Veterans.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6544,7 +6544,7 @@ Während des Widerstandskriegs wurde mehrfach versucht, die Waffe wiederzufinden
     </Entry>
     <Entry>
       <ID>1313</ID>
-      <DefaultText>Diese beliebte Falle verspricht dramatische Ergebnisse, denn sie beschwört eine gleißende Flammensäule an einer vorgegebenen Stelle. Auch wenn die Opfer durchaus das Gefühl haben können, die Götter hätten sie verlassen, ist die Wirkung dieser Falle nicht allein den Gläubigen vorbehalten.</DefaultText>
+      <DefaultText>Diese beliebte Falle verspricht dramatische Ergebnisse, denn sie beschwört eine gleißende Flammensäule an einer vorgegebenen Stelle. Auch wenn die Opfer durchaus das Gefühl haben können, die Götter hätten sie verlassen, ist der Mechanismus dieser Falle nicht allein den Gläubigen vorbehalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6564,7 +6564,7 @@ Während des Widerstandskriegs wurde mehrfach versucht, die Waffe wiederzufinden
     </Entry>
     <Entry>
       <ID>1317</ID>
-      <DefaultText>Die Sonnenlanzenfalle ist unter Eothasianern sehr beliebt. Sie ruft eine mächtige Lanze aus purem, gleißenden Licht herab, die mit tödlicher Kraft einschlägt. Eindringlinge, die nicht sofort aufgespießt werden, werden durch die Hitze oft bei lebendigem Leib verbrannt.</DefaultText>
+      <DefaultText>Die Sonnenlanzenfalle ist unter Eothasianern sehr beliebt. Sie ruft eine mächtige Lanze aus purem, gleißenden Licht herab, die mit tödlicher Kraft einschlägt. Die Eindringlinge, die nicht sofort aufgespießt werden, werden durch die Hitze oft bei lebendigem Leib verbrannt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6781,7 +6781,7 @@ Dieser Stab knistert mit Elektrizität und kann funkelnde Blitze auf Feinde absc
       <ID>1354</ID>
       <DefaultText>Der Krieg der Schwarzen Bäume brachte vielen Glanfathanern Not und Leid, doch für die Druidenorden stellte er eine besondere Tragödie dar - sie hatten nicht nur den Tod vieler Freunde und Verwandter zu beklagen, sondern auch die Zerstörung des Landes, das sie mehr verehrten als alles Andere. Einer dieser Druiden war Azureith, ein junger Ovate. 
 
-Er war tief verstört von dem Einsatz der Elemente, um die Natur gegen das Volk von Eir Glanfath zu wenden. Er fragte sich, ob er die letzten Tage seines Volkes miterlebte - und begann, durch die endlosen niedergebrannten Wälder zu wandern, auf der Suche nach etwas, irgendetwas, das ihm Grund zur Hoffnung geben würde. Er fand es in einem alten Eisenholzbaum, dick und knorrig, mit Wurzeln, die in Wellen durch den Boden verliefen, als wären sie dort verwoben worden. Er stand, wie er immer gestanden hatte, auch wenn der Stamm an der Seite bis weit über dem Boden versengt war. Alles um den Baum herum aber war von den Soldaten des Dyrwalds eingeäschert worden - in alle Himmelsrichtungen erstreckte sich über eintausend Hektar ein Ödland.
+Er war tief verstört von dem Einsatz der Elemente, um die Natur gegen das Volk von Eir&#160;Glanfath zu wenden. Er fragte sich, ob er die letzten Tage seines Volkes miterlebte - und begann, durch die endlosen niedergebrannten Wälder zu wandern, auf der Suche nach etwas, irgendetwas, das ihm Grund zur Hoffnung geben würde. Er fand es in einem alten Eisenholzbaum, dick und knorrig, mit Wurzeln, die in Wellen durch den Boden verliefen, als wären sie dort verwoben worden. Er stand, wie er immer gestanden hatte, auch wenn der Stamm an der Seite bis weit über dem Boden versengt war. Alles um den Baum herum aber war von den Soldaten des Dyrwalds eingeäschert worden - in alle Himmelsrichtungen erstreckte sich über eintausend Hektar ein Ödland.
 
 Azureith brach einen einzigen Ast von dem alten Baum ab (nicht, ohne zuvor seiner tiefen Dankbarkeit Ausdruck verliehen zu haben). Als fähiger organischer Magieschmied formte Azureith aus dem Ast eine Klinge, die jedem in einer Esse geschmiedetem Schwert zur Ehre gereichen würde. Er tränkte sie mit der Stärke der Elemente und schwor, eben jenen Elementen nie wieder ausgeliefert zu sein. Wenn der Baum überleben konnte, so konnte auch er es. 
 
@@ -6917,7 +6917,7 @@ Dieser Stab ist mit grinsenden Totenschädeln verziert. Er gibt einen fauligen, 
     </Entry>
     <Entry>
       <ID>1376</ID>
-      <DefaultText>Angeblich wurden die Stiefel mit dem Namen "Katzenflüstern" ursprünglich von den Hütern des Steins gefertigt, einem hauptsächlich aus Elfen bestehenden Stamm, dem die besten Jäger in Eir Glanfath angehörten. Es dauerte nicht lange, bis weniger ehrbare Geister das Potenzial der Stiefel erkannten.
+      <DefaultText>Angeblich wurden die Stiefel mit dem Namen "Katzenflüstern" ursprünglich von den Hütern des Steins gefertigt, einem hauptsächlich aus Elfen bestehenden Stamm, dem die besten Jäger in Eir&#160;Glanfath angehörten. Es dauerte nicht lange, bis weniger ehrbare Geister das Potenzial der Stiefel erkannten.
 
 Die Stiefel verschwanden spurlos und wurden jahrelang nicht gesehen. Ein elfischer Schurke namens Tahlvia fand die Katzenflüstern-Stiefel in Guthoffnung und "befreite" sie von ihrem Besitzer. Wie das Schicksal es jedoch wollte, verlor Tahlvia die Stiefel irgendwo in den Bergen der Weißmark.
 
@@ -6930,7 +6930,7 @@ Diese kniehohen Stiefel sind aus einem weichen Leder gefertigt, das dunkelviolet
 
 Verängstigt, hungrig und in dem Wissen, dass ihre Verfolger ihr auf den Fersen waren, kam sie zu einem Becken in der Form eines riesigen Hufabdrucks, gefüllt mit einer Flüssigkeit, die wie Eis schimmerte. Sie stieß ein Gebet zu Rymrgand aus und tauchte ihre Füße in die seltsame Flüssigkeit - sie tränkte ihre Stiefel mit einer Magie, die ihre Flucht beschleunigte und ihre Spuren verwischte.
 
- In der Hoffnung, ein neues Leben zu beginnen, reiste Malina zwei Monate später nach Eir Glanfath, wurde aber im Krieg der Schwarzen Bäume von einem orlanischen Brîshalgwin getötet.
+ In der Hoffnung, ein neues Leben zu beginnen, reiste Malina zwei Monate später nach Eir&#160;Glanfath, wurde aber im Krieg der Schwarzen Bäume von einem orlanischen Brîshalgwin getötet.
 
 Die Stiefel bestehen aus rauem, rötlich-braunem Leder. Die linke Seite des Stiefels ist mit dem stilisierten Bild eines Walrosses versehen.</DefaultText>
       <FemaleText />
@@ -7041,7 +7041,7 @@ Selbst andere Priester spotteten über ihre Fahrlässigkeit - aber tatsächlich 
       <ID>1397</ID>
       <DefaultText>Als der Gemahl und die Kinder von Elayna Himmelsreißer von Terwyn dem Schwarzherzigen gefangengenommen wurden, belagerte sie mit ihren Truppen seine Burg, in der Hoffnung, die Freilassung ihrer Familie aushandeln zu können. Stattdessen ließ Terwyn sie auf den Zinnen pfählen, während Elayna von unten hilflos zusehen musste. 
 
-Als Elayna diese Gräueltat sah, verließ sie jede Vernunft und sie rannte auf Terwyns Burg zu, zuerst vor Trauer, dann vor Zorn schreiend. Zur Überraschung aller Augenzeugen hörte Elayna plötzlich auf zu schreien und ging in Flammen auf, angeblich von Magran selbst berührt. Terwyns Soldaten feuerten ihre Pfeile ab, doch Elayna verlangsamte nicht einmal ihren Schritt. Sie schlug gegen die Burgtore wie ein Rammbock, brach hindurch und zerstreute Terwyns Soldaten. In dem verzweifelten Versuch, ihrem Zorn zu entgehen, warfen die verbliebenen Soldaten ihr ihren Herren vor die Füße. Ihre Flammen umschlangen ihn und niemand weiß, ob der grauenhafte Schrei, der folgte, aus ihrer oder seiner Kehle kam. Innerhalb weniger Minuten aber waren beide zu Asche verbrannt - nur diese Armschienen blieben zurück.
+Als Elayna diese Gräueltat sah, verließ sie jede Vernunft und sie rannte schreiend auf Terwyns Burg zu, erst vor Trauer, dann vor Zorn. Zur Überraschung aller Augenzeugen hörte Elayna plötzlich auf zu schreien und ging in Flammen auf, angeblich von Magran selbst berührt. Terwyns Soldaten feuerten ihre Pfeile ab, doch Elayna verlangsamte nicht einmal ihren Schritt. Sie schlug gegen die Burgtore wie ein Rammbock, brach hindurch und zerstreute Terwyns Soldaten. In dem verzweifelten Versuch, ihrem Zorn zu entgehen, warfen die verbleibenden Soldaten ihren Herren vor ihre Füße. Ihre Flammen umschlangen ihn und niemand weiß, ob der grauenhafte Schrei, der folgte, aus ihrer oder seiner Kehle kam. Innerhalb weniger Minuten aber waren beide zu Asche niedergebrannt - nur diese Armschienen blieben zurück.
 
 Diese Armschienen sind aus Bronze gefertigt, das mit einer dunkelgrünen Patina überzogen ist. In das Metall ist das Bild einer schlanken humanoiden Gestalt geritzt, die von Flammen umgeben ist. Seltsamerweise hat die Gestalt keinen Kopf, nur zwei blaue Kugeln, wo sich ansonsten die Augen befinden würden.</DefaultText>
       <FemaleText />
@@ -7160,7 +7160,7 @@ Mit der Zeit ging die Krankheit auch auf ihn über, schmolz ihm das Fleisch vom 
     </Entry>
     <Entry>
       <ID>1416</ID>
-      <DefaultText>Dieses Amulett wurde im Jahr 2664 AI von kaiserlichen Agenten aus den Ruinen von Eir Glanfath geborgen. In dem Versuch, den neuen und instabilen Frieden zwischen Gréf Admeth Hadret und den Glanfathanern zu zerschlagen, fanden sie sich plötzlich im Besitz zahlreicher mächtiger und mysteriöser Artefakte wieder. 
+      <DefaultText>Dieses Amulett wurde im Jahr 2664 AI von kaiserlichen Agenten aus den Ruinen von Eir&#160;Glanfath geborgen. In dem Versuch, den neuen und instabilen Frieden zwischen Gréf Admeth Hadret und den Glanfathanern zu zerschlagen, fanden sie sich plötzlich im Besitz zahlreicher mächtiger und mysteriöser Artefakte wieder. 
 
 Aedyranische Zauberer und Beseeler zeigten besonders großes Interesse an diesem Stück - zumal, nachdem ein kaiserlicher Wächter behauptete, er würde darin die Seele der Wälder des Dyrwalds sehen. Als einer der Zauberer, die das Amulett studierten, allerdings in den Wahnsinn getrieben wurde, kamen die Forschungen zum Erliegen. Das Artefakt wechselte den Besitzer und es wird angenommen, dass es von einem glanfathanischen Schurken zurückgestohlen wurde.
 
@@ -7607,12 +7607,12 @@ Sie verbrachte das letzte Jahrhundert ihres Lebens damit, einen Weg zu suchen, i
     </Entry>
     <Entry>
       <ID>1494</ID>
-      <DefaultText>Casŵen war eine der Brîshalgwin von Eir Glanfath, die um das Jahr 2785 AI von Beseelern aus dem Dyrwald ausgebildet wurden. Als fünfzehn Jahre später die Dunrydstraße gegründet wurde, schloß sie sich der neuen Einrichtung als eines der ersten Medien überhaupt an. Obwohl sie für eine Orlanerin relativ alt war, war sie eine der engagiertesten und fähigsten Agentinnen der Dunrydstraße. Sie wurde "Dunryd-Dämon" genannt, wegen ihrer gnadenlos methodischen Vorgehensweise. Sie war in ganz Trutzbucht berüchtigt dafür, mit ihrem Helm durch die Straßen zu streifen, auf der Suche nach Hinweisen und Verbindungen. Als der Krieg des Heiligen endete, war sie über vierzig und wurde in die Götterhammerzitadelle geschickt, um nach Spuren von St. Waidwen zu suchen. Sie kam niemals dort an. Jahre später wurde ihr Helm auf der Straße von Echoschlucht gefunden.</DefaultText>
+      <DefaultText>Casŵen war eine der Brîshalgwin von Eir&#160;Glanfath, die um das Jahr 2785 AI von Beseelern aus dem Dyrwald ausgebildet wurden. Als fünfzehn Jahre später die Dunrydstraße gegründet wurde, schloß sie sich der neuen Einrichtung als eines der ersten Medien überhaupt an. Obwohl sie für eine Orlanerin relativ alt war, war sie eine der engagiertesten und fähigsten Agentinnen der Dunrydstraße. Sie wurde "Dunryd-Dämon" genannt, wegen ihrer gnadenlos methodischen Vorgehensweise. Sie war in ganz Trutzbucht berüchtigt dafür, mit ihrem Helm durch die Straßen zu streifen, auf der Suche nach Hinweisen und Verbindungen. Als der Krieg des Heiligen endete, war sie über vierzig und wurde in die Götterhammerzitadelle geschickt, um nach Spuren von St. Waidwen zu suchen. Sie kam niemals dort an. Jahre später wurde ihr Helm auf der Straße von Echoschlucht gefunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1495</ID>
-      <DefaultText>Dieser enge Hut ist auch bekannt als Geizhalshaube und Schreiermütze. Er wurde von einem wenig bemerkenswerten Zauberer geschaffen, der überzeugt war, dass ihn nur eines von einer erfolgreichen Karriere in den arkanen Künsten abhielt - sein Mangel an Konzentration und die trivialen Ablenkungen engstirniger Geister. Dieser Hut ist mit seiner misanthropischen Essenz getränkt und erfüllte ihm zwei Herzenswünsche - die Leute gingen ihm aus dem Weg und er konnte leichter Zauber wirken. Er blieb unverheiratet und starb allein.
+      <DefaultText>Dieser enge Hut ist auch bekannt als Geizhalshaube und Schreiermütze. Er wurde von einem wenig bemerkenswerten Zauberer geschaffen, der überzeugt war, dass ihn nur eines von einer erfolgreichen Karriere in den arkanen Künsten abhielt - sein Mangel an Konzentration und die trivialen Ablenkungen engstirniger Geister. Dieser Hut ist mit seiner misanthropischen Essenz getränkt und erfüllte ihm zwei Herzenswünsche - die Leute gingen ihm aus dem Weg und er konnte leichter Zauber bewirken. Er blieb unverheiratet und starb allein.
 
 Dieser gelbe Schlapphut besitzt eine breite Krempe, dunkel mit Schweißflecken.</DefaultText>
       <FemaleText />
@@ -7724,7 +7724,7 @@ Nach Edrangs Tod im Jahr 2654 wurde Admeth zum Gréf des Dyrwalds, zum Entsetzen
     </Entry>
     <Entry>
       <ID>1513</ID>
-      <DefaultText>Eir Glanfath, Teil 1: Erster Kontakt</DefaultText>
+      <DefaultText>Eir&#160;Glanfath, Teil 1: Erster Kontakt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7749,7 +7749,7 @@ Nach Edrangs Tod im Jahr 2654 wurde Admeth zum Gréf des Dyrwalds, zum Entsetzen
     </Entry>
     <Entry>
       <ID>1518</ID>
-      <DefaultText>Geliebtes Land: Gedichte aus Eir Glanfath</DefaultText>
+      <DefaultText>Geliebtes Land: Gedichte aus Eir&#160;Glanfath</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7951,7 +7951,7 @@ Du Versiegelter wirst die Schwelle überschreiten.</DefaultText>
       <ID>1546</ID>
       <DefaultText>Erwähnt den Namen Pandgram gegenüber jemandem, der auch nur ein klein wenig über die Beseelung weiß, so muss man sich auf ein langes Streitgespräch gefasst machen. Öffentlich verunglimpft, im Privaten aber als Held und Genie verehrt, ist Pandgrams Geschichte mal revolutionär, mal schrecklich, mal geheimnisvoll. 
 
-Pandgram war fasziniert - manche würden sagen besessen - von dem Konzept der Beseelung. Sie beherrschte sein ganzes Leben, das er allein seinen Bemühungen widmete, sie zu verstehen. Er reiste häufig nach Eir Glanfath und in den Dyrwald, um die engwithanischen Ruinen zu besuchen. Dort machte er sich Notizen und fertigte Skizzen an. Er nahm mit zurück, was er nur konnte, um die Geheimnisse zu ergründen. Nach jahrelanger Forschung war Pandgram an dem Punkt angekommen, wo er nicht mehr alleine weiterarbeiten konnte. Er nahm einen Assistenten auf - Helig von Thein. Bald reiste Helig an Pandrgrams Statt nach Eir Glanfath und sammelte Wissen, während Pandgram zurückblieb, um zu experimentieren. Diese Partnerschaft erwies sich bald als fruchtbar und Pandgram gelang ein Durchbruch - ein Durchbruch, der sein Leben und die allgemeine Einstellung zur Beseelung für immer verändern sollte.
+Pandgram war fasziniert - manche würden sagen besessen - von dem Konzept der Beseelung. Sie beherrschte sein ganzes Leben, das er allein seinen Bemühungen widmete, sie zu verstehen. Er reiste häufig nach Eir&#160;Glanfath und in den Dyrwald, um die engwithanischen Ruinen zu besuchen. Dort machte er sich Notizen und fertigte Skizzen an. Er nahm mit zurück, was er nur konnte, um die Geheimnisse zu ergründen. Nach jahrelanger Forschung war Pandgram an dem Punkt angekommen, wo er nicht mehr alleine weiterarbeiten konnte. Er nahm einen Assistenten auf - Helig von Thein. Bald reiste Helig an Pandrgrams Statt nach Eir&#160;Glanfath und sammelte Wissen, während Pandgram zurückblieb, um zu experimentieren. Diese Partnerschaft erwies sich bald als fruchtbar und Pandgram gelang ein Durchbruch - ein Durchbruch, der sein Leben und die allgemeine Einstellung zur Beseelung für immer verändern sollte.
 
 Die Details seiner Experimente werden wohl nie wirklich bekannt sein, doch den Gerüchten und Geschichten zufolge hatte er Anfragen nach lebenden Versuchspersonen ausgesandt, die bereit wären, bei einem gefährlichen Experiment zu helfen, das ihr Leben verändern könnte - oder es beenden. Besonders wer ohnehin schon kurz vor dem Tod stand, wurde zur Teilnahme ermutigt. Die Reaktion war überwältigend und Pandgram konnte aus unzähligen Freiwilligen wählen. An diesem Punkt gelang ihm sein Durchbruch. Er entdeckte eine Möglichkeit, eine Seele zu befestigen - sie an ihren Körper zu binden, so dass sie diesen beim Tod nicht verlassen konnte.
 
@@ -8033,13 +8033,13 @@ Da Edrang die Pläne von Regd vereiteln konnte, verlief sich der Konflikt schlie
     </Entry>
     <Entry>
       <ID>1550</ID>
-      <DefaultText>Die Geschichte von Eir Glanfath vor der Entdeckung durch die Aedyraner ist schlecht dokumentiert. Die mündlichen Überlieferungen widersprechen sich häufig. Manche berichten von einer fortschrittlichen Zivilisation, die einfach verschwand, ihr gesamtes Wissen mitnahm und nur ihre Ruinen zurückließ. Andere sagen, die Glanfathaner selbst hätten solche Macht und Technologie entwickelt, dass sie sich beinahe selbst zerstört hätten, weshalb sie niemandem Zugang zu den Ruinen auf ihrem Land gewähren. Wie dem auch sei, verlässliche Informationen über das Gebiet Eir Glanfath gibt es erst, seit aedyranische Entdecker es im Jahr 2602 AI entdeckten.
+      <DefaultText>Die Geschichte von Eir&#160;Glanfath vor der Entdeckung durch die Aedyraner ist schlecht dokumentiert. Die mündlichen Überlieferungen widersprechen sich häufig. Manche berichten von einer fortschrittlichen Zivilisation, die einfach verschwand, ihr gesamtes Wissen mitnahm und nur ihre Ruinen zurückließ. Andere sagen, die Glanfathaner selbst hätten solche Macht und Technologie entwickelt, dass sie sich beinahe selbst zerstört hätten, weshalb sie niemandem Zugang zu den Ruinen auf ihrem Land gewähren. Wie dem auch sei, verlässliche Informationen über das Gebiet Eir&#160;Glanfath gibt es erst, seit aedyranische Entdecker es im Jahr 2602 AI entdeckten.
  
 Die Glanfathaner waren zuvor nicht an Begegnungen mit Fremden gewöhnt, und betrachteten das Eindringen in ihr Land daher als eine Art Prüfung. Die Ruinen, die das Land bedeckten, galten als heilig, und diese Fremden plünderten sie trotz zahlreicher Warnungen und stahlen Artefakte. Glanfathaner, die sich zur Wehr setzten, wurden gefangen genommen und versklavt, sie wurden zum Eigentum der neuen Kolonisten. Ihr Volk, ihr Vermächtnis und ihr Land standen auf dem Spiel. Die Glanfathaner schlugen zurück, in der Hoffnung, die Eindringlinge dauerhaft aus ihrem Land zu vertreiben. Doch trotz ihrer Bemühungen kamen immer mehr aedyranische Invasoren. Als das Jahr 2623 AI heranbrach, hatten die Aedyraner Städte gegründet, die Glanfathaner aus einigen Gebieten verdrängt und jeden versklavt, der sich widersetzte. Die Glanfathaner versuchten, in Frieden zu leben und die Aedyraner im Auge zu behalten. Bis auf einige Einzelfälle schien das auch zu funktionieren. Im Jahr 2626 AI kam dieser brüchige Frieden jedoch zu einem blutigen Ende. Eine Gruppe von Bauern wollte Ackerland schaffen, inmitten eines Gebiets, auf dem zahlreiche heilige Ruinen standen. Dabei stießen sie einen der uralten Hinkelsteine um. Ob es ein Versehen war oder absichtlich geschah, ist nicht bekannt. Doch der Vorfall löste einen Konflikt aus, der als Krieg des Zerbrochenen Steins in die Geschichte einging. Der Krieg war kurz, er dauerte weniger als ein Jahr, aber er war blutig und brutal. Mehrere tausend aedyranische Kolonisten starben, genau wie hunderte von Glanfathanern.
 
-Auch, nachdem der Krieg endete, nahmen die Angriffe auf die Aedyraner kein Ende. Ein Orlaner namens Regd wurde als Galven der Glanfathaner auserwählt. Er schwor, jeden Fremden für die Ungerechtigkeiten bezahlen zu lassen, die dem Land seines Volkes angetan worden waren. Er organisierte die glanfathanischen Reißzähne und führte im Verlauf der nächsten zwei Jahre eine Reihe von Angriffen aus. Es schien, als würden Regds Taktiken Erfolg zeigen und die Aedyraner aus Eir Glanfath vertreiben, doch dann begannen sie, sich zu wehren. Sie wurden deutlich organisierter, ihre Taktiken weniger vorhersehbar. Immer weniger von Regds Angriffen waren erfolgreich. Er fand heraus, dass ein neuer Gréf ernannt worden war, Edrang Hadret - jemand, der ähnliches taktisches Geschick besaß wie er selbst. Es entwickelte sich eine Pattsituation, keiner der beiden Anführer konnte mehr einen Vorteil über den anderen erlangen.
+Auch, nachdem der Krieg endete, nahmen die Angriffe auf die Aedyraner kein Ende. Ein Orlaner namens Regd wurde als Galven der Glanfathaner auserwählt. Er schwor, jeden Fremden für die Ungerechtigkeiten bezahlen zu lassen, die dem Land seines Volkes angetan worden waren. Er organisierte die glanfathanischen Reißzähne und führte im Verlauf der nächsten zwei Jahre eine Reihe von Angriffen aus. Es schien, als würden Regds Taktiken Erfolg zeigen und die Aedyraner aus Eir&#160;Glanfath vertreiben, doch dann begannen sie, sich zu wehren. Sie wurden deutlich organisierter, ihre Taktiken weniger vorhersehbar. Immer weniger von Regds Angriffen waren erfolgreich. Er fand heraus, dass ein neuer Gréf ernannt worden war, Edrang Hadret - jemand, der ähnliches taktisches Geschick besaß wie er selbst. Es entwickelte sich eine Pattsituation, keiner der beiden Anführer konnte mehr einen Vorteil über den anderen erlangen.
 
-Als Ergebnis des Patts fanden die Feindseligkeiten zwischen den beiden Gruppen ein Ende. Die Feinde unterzeichneten Verträge, um die Gewalt und die Anspannungen beizulegen. Regd trat als Galven zurück und kehrte zu seinem einfachen Leben zurück. Hadret stellte das Plündern der Ruinen von Eir Glanfath unter Strafe. Als Zeichen des guten Willens versuchte Hadret außerdem, die Sklaverei zu verbieten, was jedoch von den anderen Grafen und dem Fercönyng von Aedyr abgelehnt wurde. Es kam daher weiterhin gelegentlich zu gewalttätigen Auseinandersetzungen. Hadrets Verträge führten zu 20 Jahren des relativen Friedens für die Glanfathaner, die den Aedyranern zwar weiterhin misstrauisch gegenüberstanden, aber bereit waren, ihre Anwesenheit zu dulden, wenn es nicht anders ging.</DefaultText>
+Als Ergebnis des Patts fanden die Feindseligkeiten zwischen den beiden Gruppen ein Ende. Die Feinde unterzeichneten Verträge, um die Gewalt und die Anspannungen beizulegen. Regd trat als Galven zurück und kehrte zu seinem einfachen Leben zurück. Hadret stellte das Plündern der Ruinen von Eir&#160;Glanfath unter Strafe. Als Zeichen des guten Willens versuchte Hadret außerdem, die Sklaverei zu verbieten, was jedoch von den anderen Grafen und dem Fercönyng von Aedyr abgelehnt wurde. Es kam daher weiterhin gelegentlich zu gewalttätigen Auseinandersetzungen. Hadrets Verträge führten zu 20&#160;Jahren des relativen Friedens für die Glanfathaner, die den Aedyranern zwar weiterhin misstrauisch gegenüberstanden, aber bereit waren, ihre Anwesenheit zu dulden, wenn es nicht anders ging.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8085,18 +8085,18 @@ Ihr Glaube stimmt nicht mit dem überein, was gemeinhin als "druidischer Standpu
 
 Mir wurde von Bittstellern berichtet, die Finger, Zehen, ganze Glieder abtrennten. Ein Bauer soll angeblich seinen jüngsten Sohn geopfert haben.
 
-Eine weitere gute Frage, die von vielen gestellt wird, bezieht sich auf die Glanfathaner. Warum erlauben sie einer solch potenziell gewalttätigen, möglicherweise gefährlichen Gruppe, in Eir Glanfath zu leben? Warum vertreiben sie sie nicht? Gerüchten zufolge können die Ethik Nôl als einzige auf der Welt eine einzigartige Kriegsbemalung herstellen, mit Hilfe eines alten Rezeptes, das offenbar auf Blut basiert. Die Glanfathaner, so heißt es, sind überzeugt, dass diese Kriegsbemalung ihnen im Kampf einen gewaltigen Vorteil verleiht. Die Ethik Nôl dürfen in Zwillingsulmen bleiben, so lange sie die Glanfathaner damit beliefern.</DefaultText>
+Eine weitere gute Frage, die von vielen gestellt wird, bezieht sich auf die Glanfathaner. Warum erlauben sie einer solch potenziell gewalttätigen, möglicherweise gefährlichen Gruppe, in Eir&#160;Glanfath zu leben? Warum vertreiben sie sie nicht? Gerüchten zufolge können die Ethik Nôl als einzige auf der Welt eine einzigartige Kriegsbemalung herstellen, mit Hilfe eines alten Rezeptes, das offenbar auf Blut basiert. Die Glanfathaner, so heißt es, sind überzeugt, dass diese Kriegsbemalung ihnen im Kampf einen gewaltigen Vorteil verleiht. Die Ethik Nôl dürfen in Zwillingsulmen bleiben, so lange sie die Glanfathaner damit beliefern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1553</ID>
-      <DefaultText>Wenn man in Eir Glanfath den Namen Regd erwähnt, so werden einem Geschichten erzählt von einem glorreichen Freiheitskämpfer - einem Orlaner, der sein taktisches Geschick und seine militärische Ausbildung nutzte, um die Glanfathaner vor den Gräueltaten der Invasoren im Dyrwald zu beschützen. Fragt man im Dyrwald nach ihm, so hört man wütende Berichte über die schändlichen Taten eines hinterhältigen, unehrenhaften Orlaners, der die Bürger des Dyrwalds terrorisiert hat. Aus solchen Konflikten entstehen Legenden, und Galven Regd ist eine solche Legende.
+      <DefaultText>Wenn man in Eir&#160;Glanfath den Namen Regd erwähnt, so werden einem Geschichten erzählt von einem glorreichen Freiheitskämpfer - einem Orlaner, der sein taktisches Geschick und seine militärische Ausbildung nutzte, um die Glanfathaner vor den Gräueltaten der Invasoren im Dyrwald zu beschützen. Fragt man im Dyrwald nach ihm, so hört man wütende Berichte über die schändlichen Taten eines hinterhältigen, unehrenhaften Orlaners, der die Bürger des Dyrwalds terrorisiert hat. Aus solchen Konflikten entstehen Legenden, und Galven Regd ist eine solche Legende.
 
 Der Krieg des Zerbrochenen Steins begann durch ein Missverständnis zwischen den Glanfathanern, die im Dyrwald lebten, und den aedryranischen Kolonisten, die sich dort niederließen. Es gab bereits Spannungen zwischen den beiden Gruppen, da die Aedyraner Land für sich beanspruchten, von dem die Glanfathaner sagten, es befände sich bereits in ihrem Besitz. Da zudem noch Glanfathaner von Aedyranern gefangen genommen und versklavt wurden, war es nur eine Frage der Zeit, bis etwas das Fass zum Überlaufen brachte und die zwei Völker gegeneinander Krieg führten. Es gab zwar gelegentliche Scharmützel und Kämpfe zwischen isolierten Gruppen, aber keinen echten Konflikt ... bis zum Krieg des Zerbrochenen Steins.
 
 Ob beabsichtigt oder nicht, aedyranische Bauern, die Ackerland für ihre Feldfrüchte schaffen wollten, warfen einen der uralten Hinkelsteine um, die überall auf dem Land zu finden sind - und er zerbrach. Die Glanfathaner, welche die alten Ruinen im Dyrwald als heilig ansahen, reagierten schnell und gewalttätig, angeführt von einem besonders fanatischen Reißzahn namens Regd. Der Krieg war zwar nur von kurzer Dauer und die Glanfathaner gingen letztlich nicht als Sieger aus ihm hervor, doch Regd und seine Truppen konnten eine beträchtliche Zahl von Kolonisten eliminieren.
 
-Nach dem Ende des Krieges wurde Regd zum Galven - oder Anführer - der glanfathanischen Stimme gewählt. Seine Eignung als Anführer und seine Stärke im Kampf hatten ihm den Respekt aller Stämme von Eir Glanfath eingebracht. Da alle Stämme vereint hinter ihm standen, konnte er die Krieger derart organisiert befehligen und koordinieren, dass sie zu einer effektiven Armee wurden, vor deren nächstem Angriff die aedyranischen Kolonisten sich täglich fürchteten. Sein Name und sein Ruf verbreiteten sich unter beiden Völkern. In den zwei Jahren nach dem Krieg des Zerbrochenen Steins tötete Regd mit seinen Truppen durch Täuschung, Fehlinformation und Guerillataktiken Hunderte von Aedyranern. Die verbleibenden Grafen drängten den Fercönyng, etwas zu unternehmen, ehe noch mehr Adlige getötet wurden, doch Regd terrorisierte die Kolonisten weiter - und es schien, als würde sein Feldzug niemals ein Ende nehmen.
+Nach dem Ende des Krieges wurde Regd zum Galven - oder Anführer - der glanfathanischen Stimme gewählt. Seine Eignung als Anführer und seine Stärke im Kampf hatten ihm den Respekt aller Stämme von Eir&#160;Glanfath eingebracht. Da alle Stämme vereint hinter ihm standen, konnte er die Krieger derart organisiert befehligen und koordinieren, dass sie zu einer effektiven Armee wurden, vor deren nächstem Angriff die aedyranischen Kolonisten sich täglich fürchteten. Sein Name und sein Ruf verbreiteten sich unter beiden Völkern. In den zwei Jahren nach dem Krieg des Zerbrochenen Steins tötete Regd mit seinen Truppen durch Täuschung, Fehlinformation und Guerillataktiken Hunderte von Aedyranern. Die verbleibenden Grafen drängten den Fercönyng, etwas zu unternehmen, ehe noch mehr Adlige getötet wurden, doch Regd terrorisierte die Kolonisten weiter - und es schien, als würde sein Feldzug niemals ein Ende nehmen.
 
 Bis er auf Edrang Hadret traf.</DefaultText>
       <FemaleText />
@@ -8107,7 +8107,7 @@ Bis er auf Edrang Hadret traf.</DefaultText>
 
 Das Fest der Ahnen
 
-Das Fest der Ahnen findet während des Frühlingserwachens statt und wird zu Ehren der Besiedelung Eir Glanfaths durch die Glanfathaner gefeiert. Es ist eine einfache, drei Tage andauernde Zeremonie, die vor allem aus Festmahlen besteht. Diese Festmahle werden in den Ruinen abgehalten, die in ganz Eir Glanfath zu finden sind. Kränze aus Zweigen und Blumen werden in den Ruinen niedergelegt und die Glanfathaner beten zu den Göttern und danken ihnen für ihre Gesundheit und ihren Wohlstand.
+Das Fest der Ahnen findet während des Frühlingserwachens statt und wird zu Ehren der Besiedelung Eir&#160;Glanfath&#2060;s durch die Glanfathaner gefeiert. Es ist eine einfache, drei Tage andauernde Zeremonie, die vor allem aus Festmahlen besteht. Diese Festmahle werden in den Ruinen abgehalten, die in ganz Eir&#160;Glanfath zu finden sind. Kränze aus Zweigen und Blumen werden in den Ruinen niedergelegt und die Glanfathaner beten zu den Göttern und danken ihnen für ihre Gesundheit und ihren Wohlstand.
 
 Die Säuberung
 
@@ -8115,7 +8115,7 @@ Die Säuberung begann als Protest, der das Leid nachstellte, das den Glanfathane
 
 Festtag des Schwarzen Baums
 
-Der Festtag des Schwarzen Baums ist zugleich ein Gedenktag und ein Festmahl. Er findet am zweiten Tag des Herbsteinbruchs statt, wenn die Bäume noch bunt sind, ihre Blätter aber bereits verlieren und das Land kalt und dunkel wird. Die Glanfathaner erzählen an diesem Tag die Geschichte vom Krieg der Schwarzen Bäume und gedenken der Gefallenen. An Morgen hängen die Erwachsenen aufwändige Girlanden an den Ästen der Bäume auf. Die Girlanden bestehen aus roten, orangefarbenen und gelben Blumen. Sie stehen für die Flammen, die durch die Wälder von Eir Glanfath loderten und alles in ihrem Weg zerstörten. Nach einem Morgen des Fastens und der Besinnung dürfen die Kinder durch die Bäume rennen, die Girlanden abreißen und sie zurück zum Festmahl bringen, wo die Tische mit den Wildblumen dekoriert werden, um den Schrecken des Krieges in etwas Schönes zu verwandeln. Dann wird gegessen und es wird der Frieden gefeiert, der nun mit den Dyrwäldlern herrscht - und es wird darauf angestoßen, dass er noch viele Jahre halten möge.
+Der Festtag des Schwarzen Baums ist zugleich ein Gedenktag und ein Festmahl. Er findet am zweiten Tag des Herbsteinbruchs statt, wenn die Bäume noch bunt sind, ihre Blätter aber bereits verlieren und das Land kalt und dunkel wird. Die Glanfathaner erzählen an diesem Tag die Geschichte vom Krieg der Schwarzen Bäume und gedenken der Gefallenen. An Morgen hängen die Erwachsenen aufwändige Girlanden an den Ästen der Bäume auf. Die Girlanden bestehen aus roten, orangefarbenen und gelben Blumen. Sie stehen für die Flammen, die durch die Wälder von Eir&#160;Glanfath loderten und alles in ihrem Weg zerstörten. Nach einem Morgen des Fastens und der Besinnung dürfen die Kinder durch die Bäume rennen, die Girlanden abreißen und sie zurück zum Festmahl bringen, wo die Tische mit den Wildblumen dekoriert werden, um den Schrecken des Krieges in etwas Schönes zu verwandeln. Dann wird gegessen und es wird der Frieden gefeiert, der nun mit den Dyrwäldlern herrscht - und es wird darauf angestoßen, dass er noch viele Jahre halten möge.
 
 Bemerkenswert an der glanfathanischen Kultur ist auch die Vielzahl der Reisebräuche. Als halbnomadisches Volk besitzen die Glanfathaner eine Reihe von Traditionen, die ihre Sicherheit während der Reise gewährleisten sollen.
 
@@ -8387,7 +8387,7 @@ Rebelliere gegen jene, die dich entfernen möchten.</DefaultText>
       <ID>1563</ID>
       <DefaultText>Erwähnt man den Namen Waidwen, denken die meisten Leute nur an ein einziges Wort - Götterhammer. Das Echo dieses Ereignisses hallt durch die Zeit und ist auch Jahre nach der Zerstörung der Brücke von Evon Dewr noch zu hören, doch Waidwens bescheidene Herkunft ließ nicht ahnen, zu welch mächtiger Gewalt er einmal werden würde.
 
-Waidwen lebte ein einfaches Leben in einem entlegenen Winkel von Readceras, der Sohn eines Vorlas-Bauern. Er schuftete 22 Jahre lang neben seinem Vater auf den Feldern, bis sein Vater starb. Er erbte den Hof. Er spielte mit dem Gedanken, ihn zu verkaufen, doch er besaß keinerlei andere Fähigkeiten, also wurde auch er Vorlas-Bauer. In den vier Jahren nach dem Tod seines Vaters scheint in Waidwens Leben nichts Bemerkenswertes geschehen zu sein. Eines Tages aber, als er auf dem Feld arbeitete, änderte sich Waidwens Leben unwiderbringlich. Mit seinen Worten:
+Waidwen lebte ein einfaches Leben in einem entlegenen Winkel von Readceras, der Sohn eines Vorlas-Bauern. Er schuftete 22&#160;Jahre lang neben seinem Vater auf den Feldern, bis sein Vater starb. Er erbte den Hof. Er spielte mit dem Gedanken, ihn zu verkaufen, doch er besaß keinerlei andere Fähigkeiten, also wurde auch er Vorlas-Bauer. In den vier Jahren nach dem Tod seines Vaters scheint in Waidwens Leben nichts Bemerkenswertes geschehen zu sein. Eines Tages aber, als er auf dem Feld arbeitete, änderte sich Waidwens Leben unwiderbringlich. Mit seinen Worten:
 
 "Die Nacht brach herein, die Finger der Dämmerung hatten den Himmel bereits im Griff. Die Sonne war hinter dem Rand der Welt versunken und Sterne blitzten von jenseits des Schleiers hervor. Der Tag war still und die Felder lagen gebettet in Dunkelheit. Ich legte meine letzte Ernte des Tages nieder, als hinter mir plötzlich ein gleißendes Licht erstrahlte. Ich wandte mich um, Furcht in der Brust, nicht wissend, was ein solches Strahlen verursacht haben könnte.
 
@@ -8442,11 +8442,11 @@ In jüngsten Jahren ist der Aspekt des "Schmelztiegels" etwas in den Hintergrund
       <ID>1566</ID>
       <DefaultText>Anni Iroccio: Neujahr
 
-Der iroccianische Kalender ist zwar erst 150 Jahre alt (und noch dazu vailianischen Ursprungs), wird aber dennoch fast im gesamten Dyrwald und in den umliegenden Gegenden verwendet. Der Dyrwald verwendete bis vor kurzem den aedyranischen Kalender, gab ihn jedoch zugunsten des iroccianischen Kalenders auf. Der Wechsel verlief reibungslos und es gab kaum Widerstände, da der aedyranische Kalender hoffnungslos ungenau war.
+Der iroccianische Kalender ist zwar erst 150&#160;Jahre alt (und noch dazu vailianischen Ursprungs), wird aber dennoch fast im gesamten Dyrwald und in den umliegenden Gegenden verwendet. Der Dyrwald verwendete bis vor kurzem den aedyranischen Kalender, gab ihn jedoch zugunsten des iroccianischen Kalenders auf. Der Wechsel verlief reibungslos und es gab kaum Widerstände, da der aedyranische Kalender hoffnungslos ungenau war.
 
 Iroccio berechnete, dass der Planet etwa 334 Tage benötigt, um die Sonne zu umkreisen. Er nahm daher die neun Monate des aedyranischen Kalenders und teilte sie in sechzehn Monate von je zwanzig Tagen auf. Jede Jahreszeit besteht aus vier Monaten. Die Länge der Monate spiegelt wider, wie lange Belafa (einer unserer Monde) benötigt, um den Planeten zu umkreisen. Auf jede Jahreszeit folgen drei Tage, die keiner Jahreszeit zugehörig sind, und in denen der Übergang gefeiert wird. Die übrigen zwei Tage des Jahres - Neujahr und Mittjahr - dienen dazu, den Anfang und den Mittelpunkt des Jahres zu feiern.
 
-Um beim Übergang vom alten auf den neuen Kalender Verwirrung zu vermeiden, behielt Iroccio das Jahr bei. Obwohl der Kalender also erst seit 150 Jahren besteht, schreiben wir bereits das Jahr 2823 AI (Anni Iroccio).
+Um beim Übergang vom alten auf den neuen Kalender Verwirrung zu vermeiden, behielt Iroccio das Jahr bei. Obwohl der Kalender also erst seit 150&#160;Jahren besteht, schreiben wir bereits das Jahr 2823 AI (Anni Iroccio).
 
 Iroccio gab den Monaten vailianische Namen, doch im Dyrwald und den umliegenden Gebieten werden sie bei ihren übersetzten Namen genannt.
 
@@ -8523,17 +8523,17 @@ Als die Bevölkerung in der Gegend immer größer wird, etabliert der Fercönyng
     </Entry>
     <Entry>
       <ID>1569</ID>
-      <DefaultText>Wie ich bereits sagte, weiß die Welt im Allgemeinen nur wenig über diese Gruppe, da diese keine Außenseiter aufnimmt. Viele halten sie für fremdenfeindlich und offen feindselig gegenüber allen, die nach Eir Glanfath kommen. Doch die Wahrheit ist nicht so allumfassend und tödlich - und gewiss nicht so einfach. 
+      <DefaultText>Wie ich bereits sagte, weiß die Welt im Allgemeinen nur wenig über diese Gruppe, da diese keine Außenseiter aufnimmt. Viele halten sie für fremdenfeindlich und offen feindselig gegenüber allen, die nach Eir&#160;Glanfath kommen. Doch die Wahrheit ist nicht so allumfassend und tödlich - und gewiss nicht so einfach. 
 
-Es gibt viele Orte in Eir Glanfath, die für die Glanfathaner "magisch" oder "heilig" sind. Einer Legende nach verließen die Engwithaner urplötzlich ihr Königreich und brachen zu einem unbekannten Ort auf - nicht aber, ohne vorher die uralten glanfathanischen Stämme in das nun unbewohnte Land zu führen. Die Glanfathaner erhielten das fruchtbare Land als neue Heimat, doch im Gegenzug mussten sie einen Eid leisten. Die Glanfathaner erhielten den Auftrag, die engwithanischen Ruinen zu beschützen, bis die Engwithaner zurückkehren konnten. Sie mussten schwören, dass keine lebende Person, auch die Glanfathaner selbst nicht, Zugang zu den Ruinen erhalten würde. Anderen Berichten zufolge wurde den Glanfathanern mehr versprochen als nur eine Heimat - die Engwithaner sollen demnach die Gunst der Götter genossen haben und den Glanfathanern würde diese Ehre schließlich auch zuteil werden, wenn sie ihren Eid ehrten. 
+Es gibt viele Orte in Eir&#160;Glanfath, die für die Glanfathaner "magisch" oder "heilig" sind. Einer Legende nach verließen die Engwithaner urplötzlich ihr Königreich und brachen zu einem unbekannten Ort auf - nicht aber, ohne vorher die uralten glanfathanischen Stämme in das nun unbewohnte Land zu führen. Die Glanfathaner erhielten das fruchtbare Land als neue Heimat, doch im Gegenzug mussten sie einen Eid leisten. Die Glanfathaner erhielten den Auftrag, die engwithanischen Ruinen zu beschützen, bis die Engwithaner zurückkehren konnten. Sie mussten schwören, dass keine lebende Person, auch die Glanfathaner selbst nicht, Zugang zu den Ruinen erhalten würde. Anderen Berichten zufolge wurde den Glanfathanern mehr versprochen als nur eine Heimat - die Engwithaner sollen demnach die Gunst der Götter genossen haben und den Glanfathanern würde diese Ehre schließlich auch zuteil werden, wenn sie ihren Eid ehrten. 
 
 Seltsamerweise scheinen die Regeln innerhalb der Grenzen von Zwillingsulmen nicht so streng zu gelten, einer Siedlung, die auf einer großen Konzentration engwithanischer Gebäude errichtet wurde. Dies scheint aber wohl kein selektives Versehen der Glanfathaner zu sein, sondern Teil der ursprünglichen Abmachung.
 
-Wie dem auch sei, die Glanfathaner nahmen ihre Rolle als Wächter ernst. Sie verehrten die Stätten und entwickelten Rituale, um die Ruinen zu bewachen und zu beschützen. Mit der Zeit wurden diese Rituale für einige zu bloßer Gewohnheit, zu Formalitäten. Nicht mehr wert als andere überlieferte Legenden. Das soll nicht heißen, dass die Glanfathaner ihre Bemühungen einstellten, ihren Eid aufrechtzuhalten (siehe den Abschnitt über die Zehnjahresverträge in meinem Buch über Admeth Hadret), doch die bedingungslose Hingabe an den Eid schwankte von Stamm zu Stamm und von Clan zu Clan. Nicht so allerdings bei den Reißzähnen. Die Reißzähne sind eine Gruppe, die nicht durch Verwandschaft oder Gemeinschaft verbunden sind, sondern durch ihren Glauben. Von allen Gruppen in Eir Glanfath scheinen die Reißzähne sich der Einhaltung des Versprechens, das ihre Ahnen den Engwithanern machten, am stärksten verschrieben zu haben.
+Wie dem auch sei, die Glanfathaner nahmen ihre Rolle als Wächter ernst. Sie verehrten die Stätten und entwickelten Rituale, um die Ruinen zu bewachen und zu beschützen. Mit der Zeit wurden diese Rituale für einige zu bloßer Gewohnheit, zu Formalitäten. Nicht mehr wert als andere überlieferte Legenden. Das soll nicht heißen, dass die Glanfathaner ihre Bemühungen einstellten, ihren Eid aufrechtzuhalten (siehe den Abschnitt über die Zehnjahresverträge in meinem Buch über Admeth Hadret), doch die bedingungslose Hingabe an den Eid schwankte von Stamm zu Stamm und von Clan zu Clan. Nicht so allerdings bei den Reißzähnen. Die Reißzähne sind eine Gruppe, die nicht durch Verwandschaft oder Gemeinschaft verbunden sind, sondern durch ihren Glauben. Von allen Gruppen in Eir&#160;Glanfath scheinen die Reißzähne sich der Einhaltung des Versprechens, das ihre Ahnen den Engwithanern machten, am stärksten verschrieben zu haben.
 
-Die Tatsache, dass ihr Fanatismus und Eifer nicht so allumfassend sind, wie manche glauben, macht sie nicht weniger gefährlich. Die Reißzähne sind nicht dafür bekannt zu verhandeln, wenn sie sich im Recht fühlen. Wenn sie der Meinung sind, man habe eine heilige Stätte entweiht, so erfolgen ihr Urteil und ihre Strafe schnell und hart. Berichte über die Angriffe der Reißzähne sind bereits in Unterlagen aus der Zeit der ersten Erkundungen Eir Glanfaths zu finden. Selbst der kleinste Verstoß rechtfertigt in ihren Augen eine Hinrichtung.
+Die Tatsache, dass ihr Fanatismus und Eifer nicht so allumfassend sind, wie manche glauben, macht sie nicht weniger gefährlich. Die Reißzähne sind nicht dafür bekannt zu verhandeln, wenn sie sich im Recht fühlen. Wenn sie der Meinung sind, man habe eine heilige Stätte entweiht, so erfolgen ihr Urteil und ihre Strafe schnell und hart. Berichte über die Angriffe der Reißzähne sind bereits in Unterlagen aus der Zeit der ersten Erkundungen Eir&#160;Glanfath&#2060;s zu finden. Selbst der kleinste Verstoß rechtfertigt in ihren Augen eine Hinrichtung.
 
-Der Orden selbst scheint vor allem aus Jägern zu bestehen. Ob sie als fähige Jäger rekrutiert oder dazu ausgebildet werden, wenn sie in den Orden aufgenommen wurden, ist nicht bekannt. Der Autor ist der Auffassung, dass Ersteres zutrifft. Denn wenn sie den Reißzähnen erst einmal beigetreten sind, so rückt allen Quellen zufolge die Jagd nach Wild in den Hintergrund und ihre Hauptaufgabe besteht darin, Eir Glanfath zu patrouillieren und die Ruinen zu beschützen.</DefaultText>
+Der Orden selbst scheint vor allem aus Jägern zu bestehen. Ob sie als fähige Jäger rekrutiert oder dazu ausgebildet werden, wenn sie in den Orden aufgenommen wurden, ist nicht bekannt. Der Autor ist der Auffassung, dass Ersteres zutrifft. Denn wenn sie den Reißzähnen erst einmal beigetreten sind, so rückt allen Quellen zufolge die Jagd nach Wild in den Hintergrund und ihre Hauptaufgabe besteht darin, Eir&#160;Glanfath zu patrouillieren und die Ruinen zu beschützen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8581,7 +8581,7 @@ Belafa hängt groß und tief am Himmel. Er legt seine Reise um die Welt raschen 
 
 Cawldha
 
-Vor 315 Jahren wurde das Großreich von Vailia von schrecklichen Stürmen und beängstigenden Gezeiten heimgesucht. Die Aufzeichnungen zeigen, dass im Reich Aedyr dasselbe geschah, und dass mehrere neue aedyranische Kolonien entlang der Küste des Dyrwalds von Stürmen und Fluten völlig zerstört wurden. Zu jener Zeit beobachteten glanfathanische Astronomen während einer Finsternis etwas kleines, das neben Belafa kreiste.
+Vor 315&#160;Jahren wurde das Großreich von Vailia von schrecklichen Stürmen und beängstigenden Gezeiten heimgesucht. Die Aufzeichnungen zeigen, dass im Reich Aedyr dasselbe geschah, und dass mehrere neue aedyranische Kolonien entlang der Küste des Dyrwalds von Stürmen und Fluten völlig zerstört wurden. Zu jener Zeit beobachteten glanfathanische Astronomen während einer Finsternis etwas kleines, das neben Belafa kreiste.
 
 Nach ausgiebiger Erkundung erkannten sie, dass es ein kleiner Satellit mit einer äußerst unregelmäßigen Umlaufbahn war. Sie nannten ihn Cawldha Debh - den schwarzen Läufer. Da er kleiner ist als Belafa, wirkt er sich kaum auf die Welt aus, doch wenn seine Umlaufbahn mit der von Belafa zusammenfällt, lässt er die Gezeiten und das Wetter verrückt spielen - überall. Das geschieht mit einer launischen Häufigkeit und Schwere, so dass dieses Ereignis als "Liebespaargezeiten" bezeichnet wird. Cawldha wurde in den Ondra-Mythos integriert. Wenn beide Monde zu sehen sind, steigert sich Ondras Verlangen, sie zu erreichen, in das Zehnfache, wodurch die Wetterkatastrophen entstehen.</DefaultText>
       <FemaleText />
@@ -8826,7 +8826,7 @@ Vergesst nicht eure Königin.</DefaultText>
       <ID>1579</ID>
       <DefaultText>Im Jahr 2626 AI warf eine Gruppe von Bauern, die Ackerland schaffen wollte, versehentlich einen der uralten Adra-Hinkelsteine auf ihrem Land um. Dieses unschuldige Versehen weckte den Zorn der Ureinwohner und führte zum Ausbruch des Kriegs des Zerbrochenen Steins. Im Verlauf des Kriegs starben mehrere tausend Kolonisten und einige hundert Glanfathaner. Nachdem der Krieg offiziell beendet war, setzten die Glanfathaner noch zwei Jahre lang ihre Angriffe auf die Siedler mit unverminderter oder gar noch gesteigerter Aggressivität fort. Ihren brutalen Taktiken fielen unzählige Kolonisten, mehrere hochrangige Militärs, ein Graf und sechs Thayns zum Opfer.
 
-Die Grafen wählten Graf Edrang Hadret zum Gréf, um den glanfathanischen Angriffen ein Ende zu bereiten. Edrang war angesehen und galt als Meister der militärischen Taktik. Er erhielt den Auftrag, die glanfathanische Bedrohung zu beseitigen. Zwei Jahre lang bekämpfte Edrang die Glanfathaner, die von einem Orlaner namens Regd angeführt wurden. Keine der beiden Seiten konnte einen entscheidenden Vorteil gegenüber der anderen erlangen. Es kam zu einer angespannten Pattsituation. Dieses Patt führte dazu, dass die Feindseligkeiten sich im Sande verliefen. Im Jahr 2631 unterzeichneten die Dyrwäldler einen Vertrag mit den Glanfathanern. Regd legte sein Amt nieder, die Glanfathaner stellten ihre Angriffe ein und die Dyrwäldler betraten die Ruinen nicht mehr. Der Vertrag erzürnte den Adel von Aedyr, da er den Nachschub an Artefakten versiegen ließ. Edrang versuchte auch, die Sklaverei verbieten zu lassen, was ihm jedoch nicht gelang. Der Frieden zwischen dem Dyrwald und Eir Glanfath war daher instabil und wackelig. Es kam immer wieder zu kleinen gewalttätigen Auseinandersetzungen auf dem Lande. Diese waren aber nie von langer Dauer, da keine Seite einen weiteren Krieg wollte.</DefaultText>
+Die Grafen wählten Graf Edrang Hadret zum Gréf, um den glanfathanischen Angriffen ein Ende zu bereiten. Edrang war angesehen und galt als Meister der militärischen Taktik. Er erhielt den Auftrag, die glanfathanische Bedrohung zu beseitigen. Zwei Jahre lang bekämpfte Edrang die Glanfathaner, die von einem Orlaner namens Regd angeführt wurden. Keine der beiden Seiten konnte einen entscheidenden Vorteil gegenüber der anderen erlangen. Es kam zu einer angespannten Pattsituation. Dieses Patt führte dazu, dass die Feindseligkeiten sich im Sande verliefen. Im Jahr 2631 unterzeichneten die Dyrwäldler einen Vertrag mit den Glanfathanern. Regd legte sein Amt nieder, die Glanfathaner stellten ihre Angriffe ein und die Dyrwäldler betraten die Ruinen nicht mehr. Der Vertrag erzürnte den Adel von Aedyr, da er den Nachschub an Artefakten versiegen ließ. Edrang versuchte auch, die Sklaverei verbieten zu lassen, was ihm jedoch nicht gelang. Der Frieden zwischen dem Dyrwald und Eir&#160;Glanfath war daher instabil und wackelig. Es kam immer wieder zu kleinen gewalttätigen Auseinandersetzungen auf dem Lande. Diese waren aber nie von langer Dauer, da keine Seite einen weiteren Krieg wollte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8836,7 +8836,7 @@ Die Grafen wählten Graf Edrang Hadret zum Gréf, um den glanfathanischen Angrif
     </Entry>
     <Entry>
       <ID>1581</ID>
-      <DefaultText>Nach dem Krieg des Zerbrochenen Steins herrschte 21 Jahre lang Friede und Wohlstand. Abgesehen von gelegentlichen Sklavenaufständen oder Grenzstreitigkeiten geschah bis zum Jahr 2652 AI nichts Bemerkenswertes. Einige der Grafen des Dyrwalds waren es leid, von den Verträgen eingeschränkt zu sein. Ermutigt durch kaiserliche Quellen widersetzten sie sich den Dekreten und sandten Truppen aus, um die Ruinen im Dyrwald zu plündern. Die Reaktion der Glanfathaner kam nicht sofort, doch als sie schließlich kam, war sie brutal und blutig. Es kam zu einem Sklavenaufstand und Regd übernahm wieder das Kommando über seine Guerillakämpfer. Auch ein Kontingent von Delemgan schloss sich den Truppen an, so dass die Kämpfe in den Wäldern für die Soldaten des Drywalds noch tödlicher wurden.
+      <DefaultText>Nach dem Krieg des Zerbrochenen Steins herrschte 21&#160;Jahre lang Friede und Wohlstand. Abgesehen von gelegentlichen Sklavenaufständen oder Grenzstreitigkeiten geschah bis zum Jahr 2652 AI nichts Bemerkenswertes. Einige der Grafen des Dyrwalds waren es leid, von den Verträgen eingeschränkt zu sein. Ermutigt durch kaiserliche Quellen widersetzten sie sich den Dekreten und sandten Truppen aus, um die Ruinen im Dyrwald zu plündern. Die Reaktion der Glanfathaner kam nicht sofort, doch als sie schließlich kam, war sie brutal und blutig. Es kam zu einem Sklavenaufstand und Regd übernahm wieder das Kommando über seine Guerillakämpfer. Auch ein Kontingent von Delemgan schloss sich den Truppen an, so dass die Kämpfe in den Wäldern für die Soldaten des Drywalds noch tödlicher wurden.
 
 Edrang war zu dieser Zeit schon viel zu alt, um den Dyrwald in den Krieg zu führen. Er schickte seinen Sohn Admeth an seiner Statt. Admeth besaß das taktische Geschick seines Vaters. Er setzte den Wald am Fluss Isce Uar in Brand und versperrte den fliehenden Truppen den Weg. Einige der Glanfathaner konnten entkommen, doch Tausende starben in dem Inferno. Regd wurde gefangen genommen und nach Neu-Heomar gebracht. Mehrere Monate lang setzte Admeth immer wieder diese Taktik ein, um die Glanfthaner und Delemgan vom Schlachtfeld zu treiben. Der gesamte Krieg dauerte weniger als ein Jahr. Am Ende obsiegte der Dyrwald, allerdings zu einem grauenhaften Preis. Dieser Konflikt ging als der Krieg der Schwarzen Bäume in die Geschichte ein.
 
@@ -8859,9 +8859,9 @@ Unter Admeths Herrschaft erlebte der Dyrwald sieben produktive und profitable Ja
       <ID>1584</ID>
       <DefaultText>Die Beseelung, die unter aedryanischer Herrschaft verboten worden war, war nach Hadrets Rebellion rechtlich gesehen kein Tabu mehr. Akademiker begannen im Jahr 2681 AI damit, sie intensiv zu studieren. Bis zum Jahr 2697 AI gab es fast 40 Akademiker, die aktiv in dieser Disziplin forschten, sowohl im Dyrwald als auch in den Vailianischen Republiken - obwohl es bis dahin noch keinerlei nennenswerte Ergebnisse gegeben hatte. Im Jahr 2704 AI kam es zu einem tragischen Durchbruch, wenn man das so sagen kann. Ein Beseeler in Baelreach zertrümmerte versehentlich die Seelen von etwa einem Dutzend Freiwilligen, die ihm geholfen hatten. Als Vergeltung für ihren Tod stürmten die Bewohner der Gegend das Haus des Beseelers und töteten ihn. Der Graf der Region wollte keine Ressourcen verschwenden und das Volk nicht noch weiter erzürnen. Er ließ nicht nach dem Anführer der Selbstjustiz übenden Menge suchen - ließ aber auch die Beseelung nicht verbieten. Um ihre Sicherheit zu gewährleisten, zogen die meisten Beseeler aus den ländlichen Gebieten, in denen sie ihre Forschungen unternahmen, nach Trutzbucht. Viele von ihnen wählten den aufstrebenden und wohlhabenden Distrikt Farnheim als ihre neue Heimat. 
 
-In den nächsten 24 Jahren wurde die Beseelung zwar weiter erforscht und es gab auch einige kleinere Durchbrüche, doch je mehr die Forscher lernten, desto teurer und komplizierter wurde ihre Arbeit. Die meisten Beseeler konnten ihre Forschungen nicht ohne Spenden von reichen Personen und Organisationen finanzieren. Im Jahr 2737 AI drangen einige Beseeler in die verbotenen Ruinen von Eir Glanfath an. Sie waren verzweifelt und sahen keinen anderen Weg, in ihrer Arbeit Fortschritte zu machen. Sie entdeckten, dass es in einigen Stätten seltsame Artefakte gab, die im Zusammenhang mit der Seelenessenz zu stehen schienen. Sie begannen, Experimente mit diesen Artefakten anzustellen. Trotz ihrer anhaltenden Bemühungen konnten sie nicht genau in Erfahrung, was sie da eigentlich entdeckt hatten. Schließlich wurden sie von den Glanfathanern entdeckt, die einige von ihnen gefangen nahmen und forderten, dass man sie für ihre Verbrechen bestrafe. Die Behörden des Dyrwalds hatten keine andere Wahl, wenn sie die Verträge einhalten und den Frieden wahren wollten - sie ließen zu, dass die Beseeler nach alter glanfathanischer Tradition hingerichtet wurden. Das veranlasste den Duc dazu, ein weiteres Dekret zu erlassen - die Erforschung und Ausübung der Beseelung an heiligen glanfathanischen Stätten - oder nur in ihrer Nähe - sollte fortan mit dem Tod bestraft werden.
+In den nächsten 24&#160;Jahren wurde die Beseelung zwar weiter erforscht und es gab auch einige kleinere Durchbrüche, doch je mehr die Forscher lernten, desto teurer und komplizierter wurde ihre Arbeit. Die meisten Beseeler konnten ihre Forschungen nicht ohne Spenden von reichen Personen und Organisationen finanzieren. Im Jahr 2737 AI drangen einige Beseeler in die verbotenen Ruinen von Eir&#160;Glanfath an. Sie waren verzweifelt und sahen keinen anderen Weg, in ihrer Arbeit Fortschritte zu machen. Sie entdeckten, dass es in einigen Stätten seltsame Artefakte gab, die im Zusammenhang mit der Seelenessenz zu stehen schienen. Sie begannen, Experimente mit diesen Artefakten anzustellen. Trotz ihrer anhaltenden Bemühungen konnten sie nicht genau in Erfahrung, was sie da eigentlich entdeckt hatten. Schließlich wurden sie von den Glanfathanern entdeckt, die einige von ihnen gefangen nahmen und forderten, dass man sie für ihre Verbrechen bestrafe. Die Behörden des Dyrwalds hatten keine andere Wahl, wenn sie die Verträge einhalten und den Frieden wahren wollten - sie ließen zu, dass die Beseeler nach alter glanfathanischer Tradition hingerichtet wurden. Das veranlasste den Duc dazu, ein weiteres Dekret zu erlassen - die Erforschung und Ausübung der Beseelung an heiligen glanfathanischen Stätten - oder nur in ihrer Nähe - sollte fortan mit dem Tod bestraft werden.
 
-Um das Verhältnis mit den Glanfathanern wieder zu stärken, gestattete die Regierung des Dyrwalds im Jahr 2780 AI, dass einige Beseeler zusammen mit glanfathanischen "Verstandsjägern" - ihren Medien - Experimente durchführten. Es fand ein Informationsaustausch statt. Die Beseeler dokumentierten die Geheimnisse der Kräfte der Verstandsjäger. Die Verstandsjäger lernten neue Konzentrationstechniken, die ihnen halfen, ihre Kräfte in einer Weise einzusetzen, die kein Glanfathaner je gesehen hatte. Die Medien waren nicht mehr misstrauisch, was die Absichten der Beseeler anging. Sie vertrauten ihnen so sehr, dass sie die Glanfathaner überzeugten, einigen Beseelern beschränkten Zugang zu den Übungsplätzen der Glanfathaner zu gewähren. Die Anamfaths der glanfathanischen Stämme öffneten die Übungsplätze für die Beseeler. Sie durften nicht ins Innere - das blieb strengstens verboten - doch das allgemeine Entgegenkommen der Glanfathaner wurde als Durchbruch in der Beziehung zwischen dem Dyrwald und Eir Glanfath angesehen. In den nächsten acht Jahren konnten die Beseeler ihre Forschungen ungehindert weiterführen. Bis auf einige kleine Rangeleien gibt es nun seit fast 120 Jahren keine große Zwietracht zwischen den beiden Gruppen.</DefaultText>
+Um das Verhältnis mit den Glanfathanern wieder zu stärken, gestattete die Regierung des Dyrwalds im Jahr 2780 AI, dass einige Beseeler zusammen mit glanfathanischen "Verstandsjägern" - ihren Medien - Experimente durchführten. Es fand ein Informationsaustausch statt. Die Beseeler dokumentierten die Geheimnisse der Kräfte der Verstandsjäger. Die Verstandsjäger lernten neue Konzentrationstechniken, die ihnen halfen, ihre Kräfte in einer Weise einzusetzen, die kein Glanfathaner je gesehen hatte. Die Medien waren nicht mehr misstrauisch, was die Absichten der Beseeler anging. Sie vertrauten ihnen so sehr, dass sie die Glanfathaner überzeugten, einigen Beseelern beschränkten Zugang zu den Übungsplätzen der Glanfathaner zu gewähren. Die Anamfaths der glanfathanischen Stämme öffneten die Übungsplätze für die Beseeler. Sie durften nicht ins Innere - das blieb strengstens verboten - doch das allgemeine Entgegenkommen der Glanfathaner wurde als Durchbruch in der Beziehung zwischen dem Dyrwald und Eir&#160;Glanfath angesehen. In den nächsten acht Jahren konnten die Beseeler ihre Forschungen ungehindert weiterführen. Bis auf einige kleine Rangeleien gibt es nun seit fast 120&#160;Jahren keine große Zwietracht zwischen den beiden Gruppen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8935,14 +8935,14 @@ Der Gréf aber nutzte Mittel, die ihm seine glanfathanischen Verbündeten bereit
     </Entry>
     <Entry>
       <ID>1594</ID>
-      <DefaultText>Eir Glanfath, Teil 2: Konflikte und unerwartete Bündnisse</DefaultText>
+      <DefaultText>Eir&#160;Glanfath, Teil 2: Konflikte und unerwartete Bündnisse</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1595</ID>
       <DefaultText>Im Jahr 2652 AI begann alles zu zerfallen. Es wurde entdeckt, dass mehrere Ruinen geplündert worden waren. Alle Zeichen deuteten darauf hin, dass die Aedyraner den Vertrag gebrochen hatten. Die Glanfathaner hielten sich so lange sie nur konnten mit einem Urteil zurück, doch als die Beweise schließlich erdrückend wurden, schlugen sie mit all ihrer Macht zurück. Regd nahm wieder die Rolle des Anführers an und führte sein Volk in den Kampf gegen die Aedyraner. Anstatt wieder mit Edrang Hadret zu ringen, kreuzte Regd diesmal aber die Schwerter mit Edrangs Sohn Admeth Hadret. Admeth erwies sich also ebenso fähig - oder fähiger - wie sein Vater und setzte eine Taktik ein, mit der kein Glanfathaner gerechnet hatte. Um das Schlachtfeld zu räumen und dafür zu sorgen, dass der Feind sich nirgendwo verstecken konnte, ließ Admeth den gesamten Wald beim Fluss Isce Uar in Brand setzen und versperrte allen fliehenden Truppen mit seiner Armee den Weg. Einige überlebten das Gemetzel zwar, doch der Großteil der glanfathanischen Truppen kam um. Regd wurde in dem Chaos gefangen genommen und nach Neu-Heomar gebracht. Es kam zwar zu vielen weiteren Schlachten (in denen Admeth teilweise dieselbe Taktik einsetzte), doch die glanfathanischen Truppen hatten ihre Führung und ihre Entschlossenheit verloren. Sie wurden mühelos zerschlagen und noch vor Ende desselben Jahres war der Krieg der Schwarzen Bäume (wie er heute genannt wird) beendet.
 
-Um das Verhältnis zwischen den beiden Gruppen zu verbessern, führte Admeth neue Gesetze ein, die das Rauben neuer Sklaven aus Eir Glanfath einschränkten. Die Gesetze gaben Glanfathanern außerdem die Möglichkeit, ihre Verwandten aus der Gefangenschaft freizukaufen. Die Glanfathaner waren zwar nicht vollständig glücklich darüber, ihre Landsleute - die bereits frei gewesen waren - kaufen zu müssen, doch sie betrachteten diese Geste des guten Willens als ebensolche und stellten die Feindseligkeiten wieder ein. Sieben Jahre vergingen, in denen der Dyrwald unter Admeths Herrschaft stand. Die Glanfathaner hatten zum ersten Mal das Gefühl, dass wieder wahrer Frieden in ihr Land zurückkehren könnte. Dieser Frieden führte zu den vermutlich bedeutendsten Friedensverhandlungen, die es zwischen Eir Glanfath und dem Dyrwald je gab. Admeth schuf die Zehnjahresverträge, deren Name sich dadurch erklärt, dass sie zehn Jahre nach dem Ende des Kriegs der Schwarzem Bäume entstanden. Es wurde ein Zeitplan für die Freilassung aller glanfathanischen Sklaven festgelegt. Die Bürger von Eir Glanfath betrachteten den Dyrwald mit einer vorsichtigen Hoffnung. Durch den erweiterten Frieden zwischen den zwei Völkern und durch die neuen Verträge hofften sie, dass der Konflikt tatsächlich überwunden war.
+Um das Verhältnis zwischen den beiden Gruppen zu verbessern, führte Admeth neue Gesetze ein, die das Rauben neuer Sklaven aus Eir&#160;Glanfath einschränkten. Die Gesetze gaben Glanfathanern außerdem die Möglichkeit, ihre Verwandten aus der Gefangenschaft freizukaufen. Die Glanfathaner waren zwar nicht vollständig glücklich darüber, ihre Landsleute - die bereits frei gewesen waren - kaufen zu müssen, doch sie betrachteten diese Geste des guten Willens als ebensolche und stellten die Feindseligkeiten wieder ein. Sieben Jahre vergingen, in denen der Dyrwald unter Admeths Herrschaft stand. Die Glanfathaner hatten zum ersten Mal das Gefühl, dass wieder wahrer Frieden in ihr Land zurückkehren könnte. Dieser Frieden führte zu den vermutlich bedeutendsten Friedensverhandlungen, die es zwischen Eir&#160;Glanfath und dem Dyrwald je gab. Admeth schuf die Zehnjahresverträge, deren Name sich dadurch erklärt, dass sie zehn Jahre nach dem Ende des Kriegs der Schwarzem Bäume entstanden. Es wurde ein Zeitplan für die Freilassung aller glanfathanischen Sklaven festgelegt. Die Bürger von Eir&#160;Glanfath betrachteten den Dyrwald mit einer vorsichtigen Hoffnung. Durch den erweiterten Frieden zwischen den zwei Völkern und durch die neuen Verträge hofften sie, dass der Konflikt tatsächlich überwunden war.
 
 Im Jahr 2665 brachte Galven Medhra, eine Elfenfrau, die das Amt von Regd übernommen hatte, Kunde zu Admeth. Einige Dyrwäldler waren ertappt worden, wie sie Artefakte aus einem Grab geraubt hatten. Während der Ermittlungen wurde festgestellt, dass auch weitere Stätten geplündert worden waren. Da es sich um Einzelfälle handelte, die frühzeitig aufgehalten werden konnten, wollte Medhra keinen neuen Krieg beginnen, nachdem so lange Frieden geherrscht hatte. Admeth war dankbar für diese Geste der Höflichkeit und ließ die Verantwortlichen sofort aufspüren. Medhra stellte Admeth ihre Brîshalgwin ("Verstandsjäger") zur Seite, mit deren Hilfe Beweise gefunden wurden, die direkt zum Fercönyng führten. Admeth und Medhra waren nun Verbündete gegen den aedyranischen Fercönyng. Sie nutzten alle Mittel, die ihnen zur Verfügung standen, um zu verhindern, dass die Agenten des Fercönyngs in die Ruinen gelangten.
 
@@ -9728,7 +9728,7 @@ Retsim Namotatop</DefaultText>
       <ID>1711</ID>
       <DefaultText>Wie treffend, dass wir den Gott der Kreisläufe, Türen, Sterblichkeit und Unausweichlichkeit als Berath kennen, während die Vailianer eben jenen Gott als Cirono kennen. Denn Berath lehrt uns vor allem eins - das in allen Dingen Dualität besteht. Es liegt Leben im Tod, und Tod im Leben - erkenne und schätze diese Dualität und du ehrst Berath.
 
-In den Ruinen von Eir Glanfath wird Berath in Form von zwei halb skelettartigen Gestalten dargestellt - eine männlich, die andere weiblich: Bewnen i Ankew und Ankew i Bewnen, in der glanfathanischen Sprache wörtlich "Leben im Tod" und "Tod im Leben". Männlich und weiblich, innen und außen, Leben und Tod - wenn wir an Berath denken, stellen wir ihn uns oft als die zwei Seiten einer Münze vor, oder als die zwei Endpunkte einer Reise.
+In den Ruinen von Eir&#160;Glanfath wird Berath in Form von zwei halb skelettartigen Gestalten dargestellt - eine männlich, die andere weiblich: Bewnen i Ankew und Ankew i Bewnen, in der glanfathanischen Sprache wörtlich "Leben im Tod" und "Tod im Leben". Männlich und weiblich, innen und außen, Leben und Tod - wenn wir an Berath denken, stellen wir ihn uns oft als die zwei Seiten einer Münze vor, oder als die zwei Endpunkte einer Reise.
 
 Es heißt, dass Berath von allen Göttern die meisten Bittsteller hat. Vermutlich ist es wahr, denn wer von uns hat noch nie dafür gebetet, dass der Kreislauf stockt? Wer hat noch nie in einem Augenblick der Trauer Berath angeschrien, nur für einen geliebten Verstorbenen eine Ausnahme zu machen?
 
@@ -9785,7 +9785,7 @@ Wenn Woedica ihren Thron zurückerobert, wird meine Familie verstehen, dass ich 
     </Entry>
     <Entry>
       <ID>1718</ID>
-      <DefaultText>10 Jahre Morgendämmerung</DefaultText>
+      <DefaultText>10&#160;Jahre Morgendämmerung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9812,7 +9812,7 @@ Und doch geht die Sonne jeden Morgen am Osthimmel auf - und jeden Morgen beleuch
 
 Aber ich schlage meine Schüler erst, wenn sie die zweite dumme Frage stellen, denn wir alle beginnen jung und schwach - das ist eine Tatsache, keine Schande, und es ist ein zentraler Grundsatz in Galawains Lehren. Beharrlichkeit und Gerissenheit schätzt Galawain mehr als rohe Gewalt - eine Tatsache, die meine jungen Schüler oft vergessen. Es ist richtig und gut, dass die Starken die Schwachen anführen, und es ist ebenso gut, dass die Starken wieder und wieder geprüft werden, bis das Gleichgewicht sich verlagert. Galawain feiert die Stärke des Siegers und die Macht des wohlgenährten Jägers, doch vor allem feiert der Kluge Hund das umwälzende Wesen der Stärke. Galawains größter Wunsch für uns ist, dass die Beute zum Jäger wird, dass schreiende Säuglinge zu starken Jagdmännern heranwachsen, dass die Verirrten ihre eigene Erleuchtung finden.
 
-Das beste Beispiel für diese Philosophie sind die Riten der Anamfatha von Eir Glanfath. Wenn einer der spirituellen Anführer der Glanfathaner alt ist und sein Tod bevorsteht, zieht er in den Wald und konfrontiert Galawains Boten. Wenn der Suchergott befindet, das Leben, die Taten und die Seele des Anamfath seien würdig, ist die Belohnung ein schneller Tod und seine Seele schließt sich Galawains Rudel an. Wird er für unwürdig befunden, wird der Anamfath getötet, seine Seele wird gezwungen, selbst ihren Weg in das nächste Leben zu finden, und die Erinnerung an ihn wird aus den Annalen des Stammes ausgelöscht - das Überleben beginnt mit Stärke von innen, und schwache Anführer gefährden das gesamte Rudel. Das ist Galawain in seiner reinsten Form: Selbst am Ende des Lebens, muss man kämpfen, um würdig zu sein, um groß zu sein ... genau, wie man jeden Tag kämpfen muss, um sein Rudel zu nähren.
+Das beste Beispiel für diese Philosophie sind die Riten der Anamfatha von Eir&#160;Glanfath. Wenn einer der spirituellen Anführer der Glanfathaner alt ist und sein Tod bevorsteht, zieht er in den Wald und konfrontiert Galawains Boten. Wenn der Suchergott befindet, das Leben, die Taten und die Seele des Anamfath seien würdig, ist die Belohnung ein schneller Tod und seine Seele schließt sich Galawains Rudel an. Wird er für unwürdig befunden, wird der Anamfath getötet, seine Seele wird gezwungen, selbst ihren Weg in das nächste Leben zu finden, und die Erinnerung an ihn wird aus den Annalen des Stammes ausgelöscht - das Überleben beginnt mit Stärke von innen, und schwache Anführer gefährden das gesamte Rudel. Das ist Galawain in seiner reinsten Form: Selbst am Ende des Lebens, muss man kämpfen, um würdig zu sein, um groß zu sein ... genau, wie man jeden Tag kämpfen muss, um sein Rudel zu nähren.
 
 Der Suchergott ist leicht zu verstehen, wenn man aktiv nach Wissen sucht. Wer jedoch lediglich fragt, wer Wissen ohne die erforderliche Jagd begehrt, dem bleiben seine Geheimnisse verschlossen. Mein eigenes Fleisch und Blut hat mich einst gefragt: "Gefällt es Galawain, wenn man lernt zu jagen?" Ich sagte ja, fügte jedoch hinzu: "Galawain wäre es lieber, du würdest jagen, um zu lernen."</DefaultText>
       <FemaleText />
@@ -9923,7 +9923,7 @@ I und î ist der Unterschied zwischen "Knick" und "Krieg".
 O und ô ist der Unterschied zwischen "flott" und "rot".
 W und ŵ ist der Unterschied zwischen "Schutt" und "Mut".
 
-Man beachte den letzten Teil - in Eir Glanfath dient der Buchstabe w als unser Buchstabe u. Ihn als Konsonanten "www" auszusprechen ist die schnellste Art, einen Glanfathaner wissen zu lassen, dass man ein Dyrwäldler ist, der Schwierigkeiten hat, die Sprache zu erlernen. Siehe "Estramor" im untenstehenden Glossar.
+Man beachte den letzten Teil - in Eir&#160;Glanfath dient der Buchstabe w als unser Buchstabe u. Ihn als Konsonanten "www" auszusprechen ist die schnellste Art, einen Glanfathaner wissen zu lassen, dass man ein Dyrwäldler ist, der Schwierigkeiten hat, die Sprache zu erlernen. Siehe "Estramor" im untenstehenden Glossar.
 
 Und man behalte diese kniffligen Unterschiede im Hinterkopf:
 
@@ -10496,7 +10496,7 @@ Ich breche am Morgen nach Cilant Lîs auf. Dann muss ich nur noch das Relief fin
     </Entry>
     <Entry>
       <ID>1835</ID>
-      <DefaultText>Rituale sind Sonderformen magischer Schriftrollen. Das Ritual auf der Schriftrolle ermöglicht dem Leser, allen Verbündeten bestimmte langfristige Fähigkeitsboni zu gewähren.</DefaultText>
+      <DefaultText>Rituale sind Sonderformen magischer Schriftrollen. Das Ritual auf der Schriftrolle ermöglicht dem Leser, allen seiner oder ihrer Verbündeten langfristige, bestimmte Fähigkeitsboni zu gewähren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10631,7 +10631,7 @@ Ich breche am Morgen nach Cilant Lîs auf. Dann muss ich nur noch das Relief fin
     </Entry>
     <Entry>
       <ID>1862</ID>
-      <DefaultText>Dieser Gegenstand beschützt den Träger vor den unzähligen Gefahren, die die Welt von Eora heimsuchen. Als einer der Erscheinungen des Gottes Eothas repräsentiert Gaun die Ernte des hohen Alters, was hier von den vielen ineinandergreifenden Sicheln dargestellt wird, die den Ring bilden. Da Gaun auch dabei hilft, die Würde des hohen Alters zu schützen, haben auch seine Anhänger geschworen, das verfrühte Ernte junger Leben zu verhindern.</DefaultText>
+      <DefaultText>Dieser Gegenstand beschützt den Träger vor den unzähligen Gefahren, die die Welt von Eora heimsuchen. Als einer der Aspekte des Gottes Eothas repräsentiert Gaun die Ernte des hohen Alters, was hier von den vielen ineinandergreifenden Sicheln dargestellt wird, die den Ring bilden. Da Gaun auch dabei hilft, die Würde des hohen Alters zu schützen, haben auch seine Anhänger geschworen, das verfrühte Ernten junger Leben zu verhindern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10699,7 +10699,7 @@ Es ist verbrieft, dass Cafed die Waffe in der Schlacht von Alt-Geiran trug und a
 
 Mit der Zeit begann Cafed zu glauben, das Schwert sei von den glanfathanischen Künstlern, die es graviert hatten, verflucht worden. Seinen engsten Vertrauten sagte er, er wäre überzeugt, dass die Geister der Toten durch die Klinge zu ihm sprechen würden, wenn er schläft.
 
-Eines Abends trug der aufgebrachte Cafed das Schwert, gegen die Bitten seiner Gemahlin und seiner Soldaten, in die nebligen Wälder von Eir Glanfath. Sein Leichnam wurde nie gefunden, doch der nächste Straßenwächter, den der Graf nach Caed Nua schickte, fand das Schwert auf dem Thron in der Großen Halle der Festung liegend vor. Keiner der Soldaten konnte erklären, wie das Schwert dort hingekommen war. Seit jenem Tag hat kein Straßenwächter das Schwert je wieder getragen.</DefaultText>
+Eines Abends trug der aufgebrachte Cafed das Schwert gegen die Bitten seiner Gemahlin und seiner Soldatin in die nebligen Wälder von Eir&#160;Glanfath. Sein Leichnam wurde nie gefunden, doch der nächste Straßenwächter, den der Graf nach Caed Nua schickt, fand das Schwert auf dem Thron im Thronsaal liegend vor. Keiner der Soldaten konnte erklären, wie das Schwert dort hingekommen war. Seit jenem Tag hat kein Straßenwächter das Schwert je wieder getragen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10786,7 +10786,7 @@ Nach ihrem Tod wurde die Waffe an Aedwyns Enkel im Dyrwald weitergegeben. Als Th
     </Entry>
     <Entry>
       <ID>1889</ID>
-      <DefaultText>Einst wurden Löwen in den Ebenen östlich und südlich von Eir Glanfaths ausgedehnten Wäldern oft gesichtet, aber die Kolonisierung im Östlichen Abschnitt hat die Großkatzen in die relative Sicherheit des Territoriums zwischen den glanfathanischen und dyrwäldlerischen Siedlungen zurückgedrängt. Zusätzlich zu ihrer enormen Kraft sind Löwen für ihr Gebrüll bekannt, einem furchterregenden Geräusch, das selbst dem tapfersten Gestandenen die Angst ins Herz treiben kann.</DefaultText>
+      <DefaultText>Einst wurden Löwen in den Ebenen östlich und südlich von Eir&#160;Glanfath&#2060;s ausgedehnten Wäldern oft gesichtet, aber die Kolonisierung im Östlichen Abschnitt hat die Großkatzen in die relative Sicherheit des Territoriums zwischen den glanfathanischen und dyrwäldlerischen Siedlungen zurückgedrängt. Zusätzlich zu ihrer enormen Kraft sind Löwen für ihr Gebrüll bekannt, einem furchterregenden Geräusch, das selbst dem tapfersten Gestandenen die Angst ins Herz treiben kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

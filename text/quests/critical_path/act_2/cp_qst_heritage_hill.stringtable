@@ -53,7 +53,7 @@ Der Bleierne Schlüssel war aus irgendeinem Grund an diesem Turm interessiert. I
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Die Vision des Akolythen hat mich nicht auf das vorbereitet, was ich hier gefunden habe. Der ganze Distrikt ist von erweckten Leichen überrannt. Es wird nicht leicht, mich zur Spitze des Turms vorzukämpfen ... und ich weiß nicht, was mich dort erwartet.</DefaultText>
+      <DefaultText>Die Vision des Akolythen hat mich nicht auf das vorbereitet, was ich hier gefunden habe. Der ganze Distrikt ist von erweckten Leichen überrannt. Es wird nicht leicht, mich zur Spitze des Turms vorzukämpfen&#160;… und ich weiß nicht, was mich dort erwartet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@ Allerdings könnte auch ein großzügiger Einsatz von Münzen oder Gewalt die Wa
     </Entry>
     <Entry>
       <ID>20004</ID>
-      <DefaultText>Aldhelm, der verfaulende Beseeler auf dem Turm, hat mir versprochen, mir einen Weg zu zeigen, wie ich stärker werden kann, wenn ich von Icantha die Worte in Erfahrung bringe, die man braucht, um den Turm zu steuern ... und etwas, was ihn stärkt.</DefaultText>
+      <DefaultText>Aldhelm, der verfaulende Beseeler auf dem Turm, hat mir versprochen, mir einen Weg zu zeigen, wie ich stärker werden kann, wenn ich von Icantha die Worte in Erfahrung bringe, die man braucht, um den Turm zu steuern&#160;… und etwas, was ihn stärkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,17 +111,17 @@ Allerdings könnte auch ein großzügiger Einsatz von Münzen oder Gewalt die Wa
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Ich habe erfahren, dass die engwithanischen Maschinen im Dyrwald verwendet werden können, um Seelen zu bewegen. Außerdem habe ich die engwithanische Sprache gelernt - ich kann die Maschinen nun also bedienen. Ich habe die Maschine auf dem Teir Nowneth ausgeschaltet. Die Seelen in Erbhügel können nun in den Kreislauf entlassen werden.</DefaultText>
+      <DefaultText>Ich habe erfahren, dass die engwithanischen Maschinen im Dyrwald verwendet werden können, um Seelen zu bewegen. Außerdem habe ich die engwithanische Sprache gelernt&#160;– ich kann die Maschinen nun also bedienen. Ich habe die Maschine auf dem Teir Nowneth ausgeschaltet. Die Seelen in Erbhügel können nun in den Kreislauf entlassen werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Ich habe erfahren, dass die engwithanischen Maschinen im Dyrwald verwendet werden können, um Seelen zu bewegen. Außerdem habe ich die engwithanische Sprache gelernt - ich kann die Maschinen nun also bedienen. Um zu verhindern, dass die Maschine je wieder verwendet werden kann, habe ich die gefangenen Seelen von Erbhügel geopfert, um die Maschine zu zerstören.</DefaultText>
+      <DefaultText>Ich habe erfahren, dass die engwithanischen Maschinen im Dyrwald verwendet werden können, um Seelen zu bewegen. Außerdem habe ich die engwithanische Sprache gelernt&#160;– ich kann die Maschinen nun also bedienen. Um zu verhindern, dass die Maschine je wieder verwendet werden kann, habe ich die gefangenen Seelen von Erbhügel geopfert, um die Maschine zu zerstören.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30002</ID>
-      <DefaultText>Ich habe erfahren, dass die engwithanischen Maschinen im Dyrwald verwendet werden können, um Seelen zu bewegen. Außerdem habe ich die engwithanische Sprache gelernt - ich kann die Maschinen nun also bedienen. Ich habe diese Maschine genutzt, um die Kraft der Seelen zu absorbieren, die in Erbhügel gefangen waren.</DefaultText>
+      <DefaultText>Ich habe erfahren, dass die engwithanischen Maschinen im Dyrwald verwendet werden können, um Seelen zu bewegen. Außerdem habe ich die engwithanische Sprache gelernt&#160;– ich kann die Maschinen nun also bedienen. Ich habe diese Maschine genutzt, um die Kraft der Seelen zu absorbieren, die in Erbhügel gefangen waren.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

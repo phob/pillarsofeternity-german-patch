@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Das sind aber hohe Mauern ... aber von hier aus sehen sie gar nicht sicher aus."</DefaultText>
+      <DefaultText>"Das sind aber hohe Mauern&#160;… aber von hier aus sehen sie gar nicht sicher aus."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,8 +26,8 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Der Einzige, den ich hier im Auge behalten würde, bist du, Wächter ... also sei auf der Hut."</DefaultText>
-      <FemaleText>Die Einzige, die ich hier im Auge behalten würde, bist du, Wächterin ... also sei auf der Hut.</FemaleText>
+      <DefaultText>"Der Einzige, den ich hier im Auge behalten würde, bist du, Wächter&#160;… also sei auf der Hut."</DefaultText>
+      <FemaleText>Die Einzige, die ich hier im Auge behalten würde, bist du, Wächterin&#160;… also sei auf der Hut.</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>

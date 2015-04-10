@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Du ... verspürst monströse Lust daran, Schmerzen zuzufügen. Ich erkenne das Leiden, musst du wissen."</DefaultText>
+      <DefaultText>"Du&#160;… verspürst monströse Lust daran, Schmerzen zuzufügen. Ich erkenne das Leiden, musst du wissen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,8 +31,8 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Sie ... treffen mich zu einer schlechten Zeit an ... mein Fürst."</DefaultText>
-      <FemaleText>"Sie ... treffen mich zu einer schlechten Zeit an ... meine Fürstin."</FemaleText>
+      <DefaultText>"Sie&#160;… treffen mich zu einer schlechten Zeit an&#160;… mein Fürst."</DefaultText>
+      <FemaleText>"Sie&#160;… treffen mich zu einer schlechten Zeit an&#160;… meine Fürstin."</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

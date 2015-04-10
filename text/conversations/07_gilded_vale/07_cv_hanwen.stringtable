@@ -13,7 +13,7 @@ Als du dich näherst, richten sich alle Augen auf dich.</DefaultText>
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Danke für dein Verständnis. Der Sturm hat uns alles genommen, was wir besaßen - diese mageren Vorräte sind lebenswichtig für uns."</DefaultText>
+      <DefaultText>"Danke für dein Verständnis. Der Sturm hat uns alles genommen, was wir besaßen&#160;– diese mageren Vorräte sind lebenswichtig für uns."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23,9 +23,9 @@ Als du dich näherst, richten sich alle Augen auf dich.</DefaultText>
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Sie blinzelt ungläubig. "Plündern? Aber ... das hier ist ein Wrack - welchen Wert könnte es schon haben?"
+      <DefaultText>Sie blinzelt ungläubig. "Plündern? Aber&#160;… das hier ist ein Wrack&#160;– welchen Wert könnte es schon haben?"
 
-Die Männer und Frauen wenden sich ihr mit ängstlichen und besorgten Gesichtern zu. "Bitte ... wir brauchen diese Vorräte wirklich dringend. Der Sturm hat uns alles genommen! Wir möchten ja nichts stehlen, aber wir sind bettelarm - sollten wir denn diese Waren einfach auf den Grund des Flusses sinken lassen?"</DefaultText>
+Die Männer und Frauen wenden sich ihr mit ängstlichen und besorgten Gesichtern zu. "Bitte&#160;… wir brauchen diese Vorräte wirklich dringend. Der Sturm hat uns alles genommen! Wir möchten ja nichts stehlen, aber wir sind bettelarm&#160;– sollten wir denn diese Waren einfach auf den Grund des Flusses sinken lassen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -60,7 +60,7 @@ Die Männer und Frauen wenden sich ihr mit ängstlichen und besorgten Gesichtern
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Danke!" Sie seufzt und wischt sich Schweiß von der Stirn. "Du bist das erste Gute, das uns seit ... seit sehr langer Zeit widerfahren ist."
+      <DefaultText>"Danke!" Sie seufzt und wischt sich Schweiß von der Stirn. "Du bist das erste Gute, das uns seit&#160;… seit sehr langer Zeit widerfahren ist."
 
 Hanwen schnippt mit ihren Fingern einem ihrer Kameraden zu und deutet auf einen Haufen in der Sonne trocknender Vorräte. "Wir haben zwar nicht viel, aber bitte nimm dies als Zeichen unserer Dankbarkeit."</DefaultText>
       <FemaleText />
@@ -72,26 +72,26 @@ Hanwen schnippt mit ihren Fingern einem ihrer Kameraden zu und deutet auf einen 
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Meine Cousins ... sie warteten weiter oben am Weg und hielten nach-" Hanwen verstummt, als sie den Weg entlangschaut, den du gekommen bist. "Schwierigkeiten Ausschau ..."</DefaultText>
+      <DefaultText>"Meine Cousins&#160;… sie warteten weiter oben am Weg und hielten nach-" Hanwen verstummt, als sie den Weg entlangschaut, den du gekommen bist. "Schwierigkeiten Ausschau&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Sie haben uns angegriffen - wir handelten in Selbstverteidigung."</DefaultText>
+      <DefaultText>"Sie haben uns angegriffen&#160;– wir handelten in Selbstverteidigung."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Hanwen schaut auf und wischt sich die Augen ab. "Du sprichst von Selbstverteidigung ... nun, wir verteidigen uns gegen diesen Sturm!"
+      <DefaultText>Hanwen schaut auf und wischt sich die Augen ab. "Du sprichst von Selbstverteidigung&#160;… nun, wir verteidigen uns gegen diesen Sturm!"
 
-Sie erhebt die Stimme und ihr Gesicht rötet sich vor Erregung. "Die Fluten haben unseren ganzen Bauernhof zerstört! Uns ist nichts geblieben - gar nichts! Nichts zu essen, kein Dach über dem Kopf, und jetzt sind auch noch meine Cousins tot!"
+Sie erhebt die Stimme und ihr Gesicht rötet sich vor Erregung. "Die Fluten haben unseren ganzen Bauernhof zerstört! Uns ist nichts geblieben&#160;– gar nichts! Nichts zu essen, kein Dach über dem Kopf, und jetzt sind auch noch meine Cousins tot!"
 
-Sie schlägt die Hände über dem Kopf zusammen. "Wir möchten nicht gegen dich kämpfen. Wir haben schon genug verloren ... bitte lass uns einfach nur in Ruhe."</DefaultText>
+Sie schlägt die Hände über dem Kopf zusammen. "Wir möchten nicht gegen dich kämpfen. Wir haben schon genug verloren&#160;… bitte lass uns einfach nur in Ruhe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Du- du hast sie umgebracht!" Du siehst, wie Hanwen Tränen in die Augen schießen, bevor sie ihr Gesicht in ihren Händen vergräbt.
+      <DefaultText>"Du– du hast sie umgebracht!" Du siehst, wie Hanwen Tränen in die Augen schießen, bevor sie ihr Gesicht in ihren Händen vergräbt.
 
 Die Männer und Frauen um sie herum gehen einen Schritt zurück und betrachten dich vorsichtig.</DefaultText>
       <FemaleText />
@@ -103,7 +103,7 @@ Die Männer und Frauen um sie herum gehen einen Schritt zurück und betrachten d
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Ich kam hierher, um verschwundene Fracht aufzuspüren - wir hielten deine Cousins für Plünderer."</DefaultText>
+      <DefaultText>"Ich kam hierher, um verschwundene Fracht aufzuspüren&#160;– wir hielten deine Cousins für Plünderer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -115,7 +115,7 @@ Die Männer und Frauen um sie herum gehen einen Schritt zurück und betrachten d
       <ID>71</ID>
       <DefaultText>Die Gruppe tauscht nervöse Blicke aus, bis letztendlich eine Frau in schlammiger Kleidung vortritt und zu sprechen beginnt.
 
-"Wo sind Bretal und Teran?", will sie wissen. "Sie sind eben erst diesen Weg entlanggegangen und ... wir hörten Kampfgeräusche." Während sie auf deine Antwort wartet, kneift sie die Augen zusammen und führt eine Hand zum Messer in ihrem Gürtel.</DefaultText>
+"Wo sind Bretal und Teran?", will sie wissen. "Sie sind eben erst diesen Weg entlanggegangen und&#160;… wir hörten Kampfgeräusche." Während sie auf deine Antwort wartet, kneift sie die Augen zusammen und führt eine Hand zum Messer in ihrem Gürtel.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

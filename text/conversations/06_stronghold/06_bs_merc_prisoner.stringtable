@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Schau mal, vielleicht könnten wir ja ein Geschäft machen? Wenn du mich gehen lässt, könnte ich dich bezahlen ... "</DefaultText>
+      <DefaultText>"Schau mal, vielleicht könnten wir ja ein Geschäft machen? Wenn du mich gehen lässt, könnte ich dich bezahlen&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Lass mich in Ruhe ... du hattest deinen Spaß ..."</DefaultText>
+      <DefaultText>"Lass mich in Ruhe&#160;… du hattest deinen Spaß&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

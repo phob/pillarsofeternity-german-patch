@@ -40,7 +40,7 @@ Er mustert dich. "Neu in der Stadt, was? Du kommst zu spannenden Zeiten nach Tru
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Er tippt sich auf die Brust. "Wir sind eine Organisation interessierter Bürger, die Trutzbucht befreien möchten - von dem gefährlichen Einfluss der Beseeler und von der Tyrannei der Aristokraten, die sie unterstützen."
+      <DefaultText>Er tippt sich auf die Brust. "Wir sind eine Organisation interessierter Bürger, die Trutzbucht befreien möchten&#160;– von dem gefährlichen Einfluss der Beseeler und von der Tyrannei der Aristokraten, die sie unterstützen."
 
 "Außerdem sehen wir uns als eine Art Miliz, da die Schmelztiegelritter kaum noch mehr sind als eine Schar prahlerischen Jungadels."</DefaultText>
       <FemaleText />
@@ -52,7 +52,7 @@ Er mustert dich. "Neu in der Stadt, was? Du kommst zu spannenden Zeiten nach Tru
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Sie beschäftigt sich mit dem Studium und der Manipulation von Essenz, was wie jeder mit einem Funken Verstand weiß den Göttern vorbehalten ist. Die Aedyraner waren zumindest so klug, sie zu verbieten ... was aber auch das einzige Gute ist, was sich über sie sagen lässt."
+      <DefaultText>"Sie beschäftigt sich mit dem Studium und der Manipulation von Essenz, was wie jeder mit einem Funken Verstand weiß den Göttern vorbehalten ist. Die Aedyraner waren zumindest so klug, sie zu verbieten&#160;… was aber auch das einzige Gute ist, was sich über sie sagen lässt."
 
 "Sie ist nicht wie die Magie, das Zaubern oder das Seelenlesen, das ein Medium betreibt. Es gibt die Beseelung seit antiken engwithanischen Zeiten, weshalb diese Beseeler auch oft mit alten engwithanischen Artefakten herumhantieren."</DefaultText>
       <FemaleText />
@@ -64,7 +64,7 @@ Er mustert dich. "Neu in der Stadt, was? Du kommst zu spannenden Zeiten nach Tru
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Wir sind heute ein wichtiger Hafen, der Waren und Besucher aus aller Welt empfängt. Aber wir - oder zumindest einige von uns - möchten uns den Pioniergeist beibehalten, der uns vor 150&#160;Jahren die Freiheit gesichert hat."
+      <DefaultText>"Wir sind heute ein wichtiger Hafen, der Waren und Besucher aus aller Welt empfängt. Aber wir&#160;– oder zumindest einige von uns&#160;– möchten uns den Pioniergeist beibehalten, der uns vor 150&#160;Jahren die Freiheit gesichert hat."
 
 "Die Stadt ist in fünf Bezirke aufgeteilt: Kupferweg, Urfeuer, Ondras Geschenk, Farnheim und Erbhügel." Er zählt die Bezirke an seinen schwieligen Fingern ab.</DefaultText>
       <FemaleText />
@@ -197,7 +197,7 @@ Er blickt auf die Menge und senkt seine Stimme. "Du hast es vermutlich noch nich
       <ID>38</ID>
       <DefaultText>Seine Augen leuchten. "Und wir vergrößern uns laufend. Je mehr Leute unserer Meinung sind, desto besser für das Land."
 
-"Wenn du mehr hören willst, komm doch einmal in Admeths Lager vorbei - der Expeditionshalle. Dort gibt es viele Freigeister, die diesen ganzen Unsinn entlarven können, den einen die Adligen und die Beseeler glauben machen wollen. Für motivierte Abenteurer gibt es dort vielleicht sogar bezahlte Arbeit."</DefaultText>
+"Wenn du mehr hören willst, komm doch einmal in Admeths Lager vorbei&#160;– der Expeditionshalle. Dort gibt es viele Freigeister, die diesen ganzen Unsinn entlarven können, den einen die Adligen und die Beseeler glauben machen wollen. Für motivierte Abenteurer gibt es dort vielleicht sogar bezahlte Arbeit."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -217,7 +217,7 @@ Er blickt auf die Menge und senkt seine Stimme. "Du hast es vermutlich noch nich
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Unser ... nachdrücklicher Freund hat zumindest in einer Sache Recht."</DefaultText>
+      <DefaultText>"Unser&#160;… nachdrücklicher Freund hat zumindest in einer Sache Recht."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

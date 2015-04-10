@@ -51,15 +51,15 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Tot. So schnell?" Ein eigenartiges Lächeln zieht sich über Raedrics Gesicht, wobei er in wildem Triumph ... oder aus Schmerz die Zähne fletscht. "Dann hast du etwas vollbracht, mit dem viele vor dir gescheitert sind. Oh, wären meine Hauptmänner nur halb so effizient wie du." 
+      <DefaultText>"Tot. So schnell?" Ein eigenartiges Lächeln zieht sich über Raedrics Gesicht, wobei er in wildem Triumph&#160;… oder aus Schmerz die Zähne fletscht. "Dann hast du etwas vollbracht, mit dem viele vor dir gescheitert sind. Oh, wären meine Hauptmänner nur halb so effizient wie du." 
 
 "Goldtal steht in deiner Schuld, denn du hast das größte Hindernis seiner Wiederherstellung beseitigt." Er gibt einen leisen, amüsierten Laut von sich. "Und einer hartnäckigen Hornisse hast du mich dabei auch noch entledigt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Elendige Schlange!" Raedric wirft dir einen verächtlichen Blick zu und erhebt sich von seinem Thron. "Vielleicht wird deine Seele in irgendeinem wimmernden Bastard ein passenderes Zuhause finden, nachdem ich dir deinen jämmerlichen Kopf von den Schultern geschlagen habe." Er zieht seine Klinge. "Wachen - bringt ihn um."</DefaultText>
-      <FemaleText>"Elendige Schlange!" Raedric wirft dir einen verächtlichen Blick zu und erhebt sich von seinem Thron. "Vielleicht wird deine Seele in irgendeinem wimmernden Bastard ein passenderes Zuhause finden, nachdem ich dir deinen jämmerlichen Kopf von den Schultern geschlagen habe." Er zieht seine Klinge. "Wachen - bringt sie um."</FemaleText>
+      <DefaultText>"Elendige Schlange!" Raedric wirft dir einen verächtlichen Blick zu und erhebt sich von seinem Thron. "Vielleicht wird deine Seele in irgendeinem wimmernden Bastard ein passenderes Zuhause finden, nachdem ich dir deinen jämmerlichen Kopf von den Schultern geschlagen habe." Er zieht seine Klinge. "Wachen&#160;– bringt ihn um."</DefaultText>
+      <FemaleText>"Elendige Schlange!" Raedric wirft dir einen verächtlichen Blick zu und erhebt sich von seinem Thron. "Vielleicht wird deine Seele in irgendeinem wimmernden Bastard ein passenderes Zuhause finden, nachdem ich dir deinen jämmerlichen Kopf von den Schultern geschlagen habe." Er zieht seine Klinge. "Wachen&#160;– bringt sie um."</FemaleText>
     </Entry>
     <Entry>
       <ID>15</ID>
@@ -78,7 +78,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Du hast auf deine Art deine Fähigkeiten unter Beweis gestellt. Hätte ich solch einen Verbündeten wie dich, könnten wir zusammen den Leiden Goldtals ein Ende bereiten. Wir könnten den Fluch ein für alle Mal besiegen, und zu einem Leben zurückkehren, in dem solche ... strengen Maßnahmen nicht erforderlich sind."</DefaultText>
+      <DefaultText>"Du hast auf deine Art deine Fähigkeiten unter Beweis gestellt. Hätte ich solch einen Verbündeten wie dich, könnten wir zusammen den Leiden Goldtals ein Ende bereiten. Wir könnten den Fluch ein für alle Mal besiegen, und zu einem Leben zurückkehren, in dem solche&#160;… strengen Maßnahmen nicht erforderlich sind."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,33 +88,33 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Oh, ja ... Er und ich sind verwandt. Er ist sogar hinter diesen Mauern aufgewachsen. Er wusste um alle Privilegien, die unsere Familie anzubieten hatte. Ein gieriger Mann aber lechzt immer nach mehr, als er bekommt, wie großzügig das auch sein mag. Ich war der Älteste - Erbe des Verwalteramts unserer Ländereien. Er nicht."</DefaultText>
+      <DefaultText>"Oh, ja&#160;… Er und ich sind verwandt. Er ist sogar hinter diesen Mauern aufgewachsen. Er wusste um alle Privilegien, die unsere Familie anzubieten hatte. Ein gieriger Mann aber lechzt immer nach mehr, als er bekommt, wie großzügig das auch sein mag. Ich war der Älteste&#160;– Erbe des Verwalteramts unserer Ländereien. Er nicht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>"Im Zuge des Vermächtnisses kam das Chaos hierher. Panik und Verzweiflung. Kolsc nutzte dieses Chaos aus und säte Zwietracht in unseren Reihen. Mit falschen Versprechungen gewann er loyale Männer und Frauen für seine Sache. Gute Männer. Gute Frauen." 
 
-Einen Moment lang schweift Raedrics Blick in die Ferne. Dann schaut er dich plötzlich mit kräuselnden Lippen an. "Er floh rechtzeitig aus der Burg, um sich in der Wildnis hinter dem Dorf zu verkriechen ... um die Rolle eines Gemeinen zu spielen, um sich die Gunst der Leute zu erschleichen."</DefaultText>
+Einen Moment lang schweift Raedrics Blick in die Ferne. Dann schaut er dich plötzlich mit kräuselnden Lippen an. "Er floh rechtzeitig aus der Burg, um sich in der Wildnis hinter dem Dorf zu verkriechen&#160;… um die Rolle eines Gemeinen zu spielen, um sich die Gunst der Leute zu erschleichen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Und während er den Eroberer spielt, hat das Tal zu leiden. Familien, Händler, alle. Ich habe nicht genügend Männer, um die Straßen zu bewachen und uns gegen Kolscs Überfälle zu verteidigen. Darunter hat meine Aufmerksamkeit zu leiden, meine Herrschaft ... meine Familie ..." 
+      <DefaultText>"Und während er den Eroberer spielt, hat das Tal zu leiden. Familien, Händler, alle. Ich habe nicht genügend Männer, um die Straßen zu bewachen und uns gegen Kolscs Überfälle zu verteidigen. Darunter hat meine Aufmerksamkeit zu leiden, meine Herrschaft&#160;… meine Familie&#160;…" 
 
 Raedric atmet durch seine Nase aus. "Und wenn wir jederzeit von seinen verräterischen Ränken heimgesucht werden, kann ich auch nicht die notwendigen Anstrengungen unternehmen, um diesem Fluch ein Ende zu setzen"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Raedrics? Jetzt gibt es nur noch mich. Mit dem Namen Raedric aber war seit jeher Ruhm verbunden. Seit Generationen schon sind wir die Verwalter Goldtals gewesen. Seine Bevölkerung ersucht uns immer noch um Führung und Schutz - zuerst vor den Exzessen des Reichs - und nun vor den Gefahren, die im Dyrwald lauern."</DefaultText>
+      <DefaultText>"Raedrics? Jetzt gibt es nur noch mich. Mit dem Namen Raedric aber war seit jeher Ruhm verbunden. Seit Generationen schon sind wir die Verwalter Goldtals gewesen. Seine Bevölkerung ersucht uns immer noch um Führung und Schutz&#160;– zuerst vor den Exzessen des Reichs&#160;– und nun vor den Gefahren, die im Dyrwald lauern."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>"Das Vermächtnis", flüstert Raedric. "Kurz nach dem Tod des Zersplitterten Gottes fiel Waidwens Vermächtnis über unsere Lande." 
 
-Er schüttelt den Kopf. "Und mit dem Vermächtnis kam die Verzweiflung. Wie hätte das auch anders sein sollen, wenn uns der Fluch unserer Kinder beraubte - unserer Hoffnung?"</DefaultText>
+Er schüttelt den Kopf. "Und mit dem Vermächtnis kam die Verzweiflung. Wie hätte das auch anders sein sollen, wenn uns der Fluch unserer Kinder beraubte&#160;– unserer Hoffnung?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -124,17 +124,17 @@ Er schüttelt den Kopf. "Und mit dem Vermächtnis kam die Verzweiflung. Wie hät
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Gut ... gut. Es geht hier um zu viel, um unüberlegt zu handeln." Raedric lehnt sich vor. "Sei dir gewiss, Trutzbucht wird davon hören, wie sehr du mir geholfen hast."</DefaultText>
+      <DefaultText>"Gut&#160;… gut. Es geht hier um zu viel, um unüberlegt zu handeln." Raedric lehnt sich vor. "Sei dir gewiss, Trutzbucht wird davon hören, wie sehr du mir geholfen hast."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Du hast es in den eigenen Händen, mit dieser Rebellion kurzen Prozess zu machen. Ich habe viel zu viele Ressourcen auf Kolsc verschwendet ... und den Preis dafür gezahlt. Wenn du ihn umbringst, könnte ich meine Aufmerksamkeit wieder auf diese Plage richten. Der Priester und meine Beseelerin werden schon ein Heilmittel finden. Meine Familie wird die letzte sein, die unter diesem Vermächtnis zu leiden hat."</DefaultText>
+      <DefaultText>"Du hast es in den eigenen Händen, mit dieser Rebellion kurzen Prozess zu machen. Ich habe viel zu viele Ressourcen auf Kolsc verschwendet&#160;… und den Preis dafür gezahlt. Wenn du ihn umbringst, könnte ich meine Aufmerksamkeit wieder auf diese Plage richten. Der Priester und meine Beseelerin werden schon ein Heilmittel finden. Meine Familie wird die letzte sein, die unter diesem Vermächtnis zu leiden hat."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Er hat zweifelsohne versucht, dich mit seinen Lügen auf seine Seite zu ziehen. Er wird dir gestatten, dich ihm zu nähern, damit er dich noch mehr bearbeiten kann. Und dann - dann wirst du deine Chance bekommen."</DefaultText>
+      <DefaultText>"Er hat zweifelsohne versucht, dich mit seinen Lügen auf seine Seite zu ziehen. Er wird dir gestatten, dich ihm zu nähern, damit er dich noch mehr bearbeiten kann. Und dann&#160;– dann wirst du deine Chance bekommen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -149,7 +149,7 @@ Er schüttelt den Kopf. "Und mit dem Vermächtnis kam die Verzweiflung. Wie hät
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Gut." Raedric sinkt zurück auf seinen Sitz. Der Erfolg scheint ihn etwas Kraft gekostet zu haben, da auf seinem Gesicht nun eine Art ausgezehrter Müdigkeit liegt. "Du wirst nicht lange suchen müssen. Sein Lager befindet sich in der Wildnis hinter Goldtal. Seine Späher behalten die Straßen im Auge und warnen ihn vor meinen Truppen - du aber solltest mehr Glück haben. Kümmere dich um ihn und kehre dann hierher zurück. Für deine Mühe werde ich dich gerecht belohnen."</DefaultText>
+      <DefaultText>"Gut." Raedric sinkt zurück auf seinen Sitz. Der Erfolg scheint ihn etwas Kraft gekostet zu haben, da auf seinem Gesicht nun eine Art ausgezehrter Müdigkeit liegt. "Du wirst nicht lange suchen müssen. Sein Lager befindet sich in der Wildnis hinter Goldtal. Seine Späher behalten die Straßen im Auge und warnen ihn vor meinen Truppen&#160;– du aber solltest mehr Glück haben. Kümmere dich um ihn und kehre dann hierher zurück. Für deine Mühe werde ich dich gerecht belohnen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -189,7 +189,7 @@ Er schüttelt den Kopf. "Und mit dem Vermächtnis kam die Verzweiflung. Wie hät
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Ach nein? Oder wirfst du mir nur seinen Namen zu Füßen, um selbst verschont zu werden?" Raedric lächelt höhnisch. "Er setzt gleichermaßen große Hoffnungen in dich. Eine Ablenkung bist du auf jeden Fall, bestenfalls ein fähiger Meuchelmörder - so lange er deine Gegenwart zu seinem Vorteil ausnutzen kann."</DefaultText>
+      <DefaultText>"Ach nein? Oder wirfst du mir nur seinen Namen zu Füßen, um selbst verschont zu werden?" Raedric lächelt höhnisch. "Er setzt gleichermaßen große Hoffnungen in dich. Eine Ablenkung bist du auf jeden Fall, bestenfalls ein fähiger Meuchelmörder&#160;– so lange er deine Gegenwart zu seinem Vorteil ausnutzen kann."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -199,7 +199,7 @@ Er schüttelt den Kopf. "Und mit dem Vermächtnis kam die Verzweiflung. Wie hät
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Die Gesetze von Goldtal gelten für jeden in meinen Landen, und für niemand kann eine Ausnahme gelten. Ygrid erhielt ihre gerechte Strafe, egal was ihr Titel war, egal was sie mir bedeutete. Ganz gleich, was der Preis ist, ich werde alles ertragen. Aus dir ... aus dir spricht die Ignoranz."</DefaultText>
+      <DefaultText>"Die Gesetze von Goldtal gelten für jeden in meinen Landen, und für niemand kann eine Ausnahme gelten. Ygrid erhielt ihre gerechte Strafe, egal was ihr Titel war, egal was sie mir bedeutete. Ganz gleich, was der Preis ist, ich werde alles ertragen. Aus dir&#160;… aus dir spricht die Ignoranz."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -239,19 +239,19 @@ Er schüttelt den Kopf. "Und mit dem Vermächtnis kam die Verzweiflung. Wie hät
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Ich zahle meine Schulden. Hier habe ich ein Schwert, dass in meiner Familie schon seit Generationen weitergegeben wird - nun gehört es dir. Möge es dir bei deinen zukünftigen Unternehmungen gute Dienste erweisen." Raedric gestikuliert einem Wächter. "Und natürlich wirst du bezahlt werden."</DefaultText>
+      <DefaultText>"Ich zahle meine Schulden. Hier habe ich ein Schwert, dass in meiner Familie schon seit Generationen weitergegeben wird&#160;– nun gehört es dir. Möge es dir bei deinen zukünftigen Unternehmungen gute Dienste erweisen." Raedric gestikuliert einem Wächter. "Und natürlich wirst du bezahlt werden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Und nun ... " Raedric senkt seinen Blick. "Nun würde ich gerne meine Frau beerdigen und in die Zukunft schauen. Bevor man Goldtal sicher nennen kann, liegt noch sehr viel Arbeit vor uns. Vielen Dank für deine Unterstützung."</DefaultText>
+      <DefaultText>"Und nun&#160;…" Raedric senkt seinen Blick. "Nun würde ich gerne meine Frau beerdigen und in die Zukunft schauen. Bevor man Goldtal sicher nennen kann, liegt noch sehr viel Arbeit vor uns. Vielen Dank für deine Unterstützung."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Ich wusste, dass Berath solche Grausamkeiten nicht dulden würde - es sei denn, wir hätten seine Gunst verloren. Manche im Dorf klammern sich noch immer an einen falschen Glauben und huldigen dem falschen Gott. Sie verehren ihn im Geheimen, obwohl sie wissen, was das über uns bringt." 
+      <DefaultText>"Ich wusste, dass Berath solche Grausamkeiten nicht dulden würde&#160;– es sei denn, wir hätten seine Gunst verloren. Manche im Dorf klammern sich noch immer an einen falschen Glauben und huldigen dem falschen Gott. Sie verehren ihn im Geheimen, obwohl sie wissen, was das über uns bringt." 
 
-" ... Meine eigene Frau setzte ihre Ketzereien gegen meinen Willen fort. Und als unser Kind geboren wurde, sahen wir, dass keine Sünde unerkannt bleibt." Er mahlt mit seinen Zähnen. "Kein Mann kann sich Beraths Urteil entziehen. Keine Frau."</DefaultText>
+"… Meine eigene Frau setzte ihre Ketzereien gegen meinen Willen fort. Und als unser Kind geboren wurde, sahen wir, dass keine Sünde unerkannt bleibt." Er mahlt mit seinen Zähnen. "Kein Mann kann sich Beraths Urteil entziehen. Keine Frau."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,7 +266,7 @@ Er schüttelt den Kopf. "Und mit dem Vermächtnis kam die Verzweiflung. Wie hät
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Und während er den Eroberer spielt, hat das Tal zu leiden. Familien, Händler, alle. Ich habe nicht genügend Männer, um die Straßen zu bewachen und uns gegen Kolscs Überfälle zu verteidigen. Darunter hat meine Aufmerksamkeit zu leiden, meine Herrschaft ... meine Familie ..." 
+      <DefaultText>"Und während er den Eroberer spielt, hat das Tal zu leiden. Familien, Händler, alle. Ich habe nicht genügend Männer, um die Straßen zu bewachen und uns gegen Kolscs Überfälle zu verteidigen. Darunter hat meine Aufmerksamkeit zu leiden, meine Herrschaft&#160;… meine Familie&#160;…" 
 
 Raedric atmet durch seine Nase aus. "Und wenn wir jederzeit von seinen verräterischen Ränken heimgesucht werden, kann ich auch nicht die notwendigen Anstrengungen unternehmen, um diesem Fluch ein Ende zu setzen"</DefaultText>
       <FemaleText />
@@ -303,12 +303,12 @@ Raedric atmet durch seine Nase aus. "Und wenn wir jederzeit von seinen verräter
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Du hast deine Stärke unter Beweis gestellt ... wenn auch mit unerfreulichen Mitteln." Raedric winkt mit einer Hand und gestikuliert auf seine Wachen. "Und im Gegenzug bin ich großzügig zu denen, die loyal zu mir sind. Und sollten Münzen dein Antrieb sein, so solltest du wissen, dass ein Thayn des Dyrwalds einen weitaus besseren Verbündeten abgibt als ein mittelloser Titelheuchler."</DefaultText>
+      <DefaultText>"Du hast deine Stärke unter Beweis gestellt&#160;… wenn auch mit unerfreulichen Mitteln." Raedric winkt mit einer Hand und gestikuliert auf seine Wachen. "Und im Gegenzug bin ich großzügig zu denen, die loyal zu mir sind. Und sollten Münzen dein Antrieb sein, so solltest du wissen, dass ein Thayn des Dyrwalds einen weitaus besseren Verbündeten abgibt als ein mittelloser Titelheuchler."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Ich dachte, er würde besser aussehen - trotz der ganzen Inzucht."
+      <DefaultText>"Ich dachte, er würde besser aussehen&#160;– trotz der ganzen Inzucht."
 
 Edérs Gesicht ist zwar ruhig, aber du bemerkst, wie seine Hand zu seiner Waffe gleitet, als hätte sie ihren eigenen Verstand.</DefaultText>
       <FemaleText />
@@ -375,7 +375,7 @@ Edérs Gesicht ist zwar ruhig, aber du bemerkst, wie seine Hand zu seiner Waffe 
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>" ... Die Flamme hat sie verzehrt. Meine Ygrid." Raedric schaut auf den Dolch, und die Worte bleiben ihm kurz im Hals stecken. " ... Und unser Kind mit ihr."</DefaultText>
+      <DefaultText>"… Die Flamme hat sie verzehrt. Meine Ygrid." Raedric schaut auf den Dolch, und die Worte bleiben ihm kurz im Hals stecken. "… Und unser Kind mit ihr."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -392,7 +392,7 @@ Edérs Gesicht ist zwar ruhig, aber du bemerkst, wie seine Hand zu seiner Waffe 
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Erst als unser Sohn geboren war - diese hohle Ding. Dieses Monster. Dann - Erst dann wussten wir, zu was ihre Verbrechen geführt hatten." Raedric wirft dir einen elenden Blick zu. Er mahlt mit den Zähnen, sein Gesicht ist vom Ausbruch der Gefühle gerötet und fleckig. "Es war unerträglich."</DefaultText>
+      <DefaultText>"Erst als unser Sohn geboren war&#160;– diese hohle Ding. Dieses Monster. Dann&#160;– Erst dann wussten wir, zu was ihre Verbrechen geführt hatten." Raedric wirft dir einen elenden Blick zu. Er mahlt mit den Zähnen, sein Gesicht ist vom Ausbruch der Gefühle gerötet und fleckig. "Es war unerträglich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -422,7 +422,7 @@ Edérs Gesicht ist zwar ruhig, aber du bemerkst, wie seine Hand zu seiner Waffe 
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Und dieses ... Ding, diese stumme Anomalie ... hatte nicht genug Leben in sich, um es zu töten." Er kneift seine dunklen Augen zusammen. "Behalte deine Beschuldigungen für dich, Eindringling. Ich habe meine Pflicht getan."</DefaultText>
+      <DefaultText>"Und dieses&#160;… Ding, diese stumme Anomalie&#160;… hatte nicht genug Leben in sich, um es zu töten." Er kneift seine dunklen Augen zusammen. "Behalte deine Beschuldigungen für dich, Eindringling. Ich habe meine Pflicht getan."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -437,24 +437,24 @@ Edérs Gesicht ist zwar ruhig, aber du bemerkst, wie seine Hand zu seiner Waffe 
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Der Strahlende Gott lebt - und ich bin gekommen, um seine Strafe zu vollstrecken."</DefaultText>
+      <DefaultText>"Der Strahlende Gott lebt&#160;– und ich bin gekommen, um seine Strafe zu vollstrecken."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Raedric reißt die Augen auf, und sein bleiches Gesichts verzieht sich in einer Mischung aus Entsetzen und Abscheu. "Du - dass jemand wie du jemals mein Land betreten würde-!" Er erhebt sich von seinem Thron und zückt seine Klinge. "Wachen! Zu mir! Tötet dieses gotteslästerliche Schwein!"</DefaultText>
+      <DefaultText>Raedric reißt die Augen auf, und sein bleiches Gesichts verzieht sich in einer Mischung aus Entsetzen und Abscheu. "Du&#160;– dass jemand wie du jemals mein Land betreten würde-!" Er erhebt sich von seinem Thron und zückt seine Klinge. "Wachen! Zu mir! Tötet dieses gotteslästerliche Schwein!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Du bist ... einer vom Beraths Günstlingen." Er starrt doch offen an und mustert deine Gesichtszüge. "Ein Zeichen seiner Gegenwart unter uns." 
+      <DefaultText>"Du bist&#160;… einer vom Beraths Günstlingen." Er starrt doch offen an und mustert deine Gesichtszüge. "Ein Zeichen seiner Gegenwart unter uns." 
 
-"... Hat Kolsc es sich anders überlegt? Hat er sich endlich dem Zwillingsgott zugewandt und Abbitte geleistet?"</DefaultText>
+"… Hat Kolsc es sich anders überlegt? Hat er sich endlich dem Zwillingsgott zugewandt und Abbitte geleistet?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"... Nein. Dafür ... ist es nun zu spät."
+      <DefaultText>"… Nein. Dafür&#160;… ist es nun zu spät."
 
 "Dann hat er dich gekauft. Ein Söldner? Ansonsten haben seine schönen Worte eben noch einen gutgesinnten Ausländer in die Falle gelockt."</DefaultText>
       <FemaleText />
@@ -466,7 +466,7 @@ Edérs Gesicht ist zwar ruhig, aber du bemerkst, wie seine Hand zu seiner Waffe 
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Ich bin ich mir sicher. Mir jedenfalls steht nicht der Sinn danach ... Ich würde mich gerne bald mit ihm direkt auseinandersetzen, ihm aber fehlt der Mut, meine Herausforderungen anzunehmen."</DefaultText>
+      <DefaultText>"Ich bin ich mir sicher. Mir jedenfalls steht nicht der Sinn danach&#160;… Ich würde mich gerne bald mit ihm direkt auseinandersetzen, ihm aber fehlt der Mut, meine Herausforderungen anzunehmen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -481,7 +481,7 @@ Edérs Gesicht ist zwar ruhig, aber du bemerkst, wie seine Hand zu seiner Waffe 
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Selbst dann würde ich bezüglich deiner ... Indiskretionen Vorsicht walten lassen. Meine Dankbarkeit hat auch ihre Grenzen."</DefaultText>
+      <DefaultText>"Selbst dann würde ich bezüglich deiner&#160;… Indiskretionen Vorsicht walten lassen. Meine Dankbarkeit hat auch ihre Grenzen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

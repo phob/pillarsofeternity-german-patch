@@ -37,7 +37,7 @@ Sie seufzt, was eine geisterhafte Strähne ihres Haars zum Flattern bringt. "Du 
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Erinnere mich daran, was mit meinem ... äh, Vater passiert ist."</DefaultText>
+      <DefaultText>"Erinnere mich daran, was mit meinem&#160;… äh, Vater passiert ist."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@ Sie starrt auf das Blut, das ihr vom Finger tropft. "Warum gehst du nicht wieder
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>" ... meinen Vater auch?"</DefaultText>
+      <DefaultText>"… meinen Vater auch?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

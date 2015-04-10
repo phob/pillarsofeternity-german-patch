@@ -8,12 +8,12 @@
       <ID>1</ID>
       <DefaultText>Der Mönch reibt sich die Schläfen, das Gesicht in den Händen vergraben. Als du dich näherst, blickt er auf. "Dieses Zimmer braucht eine anständige Tür", murmelt er.
 
-"Meine Brüder und ich haben es angemietet, damit wir etwas Privatsphäre in diesem fremden Land genießen können. Vielleicht kannst du dir ein anderes Zimmer im Gasthaus suchen ... "</DefaultText>
+"Meine Brüder und ich haben es angemietet, damit wir etwas Privatsphäre in diesem fremden Land genießen können. Vielleicht kannst du dir ein anderes Zimmer im Gasthaus suchen&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Gib mir das!", ruft der Mönch und entreißt dir den Brief. Fast augenblicklich errötet er. "Ich meine, bitte - es ist äußerst wichtig!"</DefaultText>
+      <DefaultText>"Gib mir das!", ruft der Mönch und entreißt dir den Brief. Fast augenblicklich errötet er. "Ich meine, bitte&#160;– es ist äußerst wichtig!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -25,7 +25,7 @@ Der Mönch wirft den Brief zu Boden und hebt die Fäuste zum Kampf.</DefaultText
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Danke, dass du uns die Nachricht von unserem gefallenen Bruder überbracht hast. Wenn du uns nun bitte allein lassen würdest ... "</DefaultText>
+      <DefaultText>"Danke, dass du uns die Nachricht von unserem gefallenen Bruder überbracht hast. Wenn du uns nun bitte allein lassen würdest&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -50,7 +50,7 @@ Der Mönch wirft den Brief zu Boden und hebt die Fäuste zum Kampf.</DefaultText
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Die Augen des Mönchs weiten sich, er ballt die Fäuste so stark, dass seine Fingergelenke knacken. "Roben wie wir, sagst du? Hatte er etwas bei sich? Hat er dir etwas gesagt, dir etwas gegeben? Bitte, wir warten hier auf einen Ordensbruder, und wenn du ihn gefunden hast ... "
+      <DefaultText>Die Augen des Mönchs weiten sich, er ballt die Fäuste so stark, dass seine Fingergelenke knacken. "Roben wie wir, sagst du? Hatte er etwas bei sich? Hat er dir etwas gesagt, dir etwas gegeben? Bitte, wir warten hier auf einen Ordensbruder, und wenn du ihn gefunden hast&#160;…"
 
 Alle Augen blicken zu Boden. Die Mönche beginnen, im Chor Sprechgesänge zu rezitieren, zu Ehren ihres gefallenen Freundes.</DefaultText>
       <FemaleText />
@@ -74,7 +74,7 @@ Alle Augen blicken zu Boden. Die Mönche beginnen, im Chor Sprechgesänge zu rez
       <ID>16</ID>
       <DefaultText>Der Mönch verneigt sich, als du dich näherst. Er spricht mit aufgeregter Stimme, unfähig, seine Ungeduld zu verbergen.
 
-"Wenn du etwas willst, sprich - ansonsten lass uns in Frieden. Wir sind nicht laut, wir wollen keinen Streit, wir haben das Recht, uns hier aufzuhalten."</DefaultText>
+"Wenn du etwas willst, sprich&#160;– ansonsten lass uns in Frieden. Wir sind nicht laut, wir wollen keinen Streit, wir haben das Recht, uns hier aufzuhalten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@ Er wendet sich an die übrigen Mönche: "Meine Brüder, der Erzmartyr sendet Nac
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Danke, Fremder", sagt der Mönch, faltet die Hände vor sich und verneigt sich tief. "Deine Seele ist ehrlich. Ich muss gestehen, ich war überrascht ... als du mir die Nachricht überreichtest, erwartete ich, dass das Siegel gebrochen sei."
+      <DefaultText>"Danke, Fremder", sagt der Mönch, faltet die Hände vor sich und verneigt sich tief. "Deine Seele ist ehrlich. Ich muss gestehen, ich war überrascht&#160;… als du mir die Nachricht überreichtest, erwartete ich, dass das Siegel gebrochen sei."
 
 Der Mönch wird rot und lächelt zum ersten Mal. "Es freut mich, dass es in dieser Welt noch Anstand gibt."
 
@@ -145,26 +145,26 @@ Er greift in die Falten seiner Roben. "Hier, deine Ehrlichkeit gehört belohnt."
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Der Mönch hält seine Faust mehrere Sekunden lang in der Luft, seine Brüder stehen reglos da. Schließlich lässt der Anführer seine Faust sinken. "Ich ... entschuldige mich für mein vorschnelles Urteil."
+      <DefaultText>Der Mönch hält seine Faust mehrere Sekunden lang in der Luft, seine Brüder stehen reglos da. Schließlich lässt der Anführer seine Faust sinken. "Ich&#160;… entschuldige mich für mein vorschnelles Urteil."
 
 Der Mönch greift in seinen Beutel. "Bitte gestatte mir, dich dafür zu entschädigen, dass du den Brief seinem rechtmäßigen Empfänger überbracht hast."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Der Mönch starrt dich mit weit aufgerissenen Augen an, völlig perplex. "Du erinnerst dich nicht? Du hast einen Mann sterben sehen und einfach ... vergessen, was geschehen ist?"
+      <DefaultText>Der Mönch starrt dich mit weit aufgerissenen Augen an, völlig perplex. "Du erinnerst dich nicht? Du hast einen Mann sterben sehen und einfach&#160;… vergessen, was geschehen ist?"
 
 Er verschränkt die Arme vor der Brust und starrt dich mit hochgezogener Augenbraue zornig an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>[Ihm den Brief zeigen.] "Fast hätte ich es vergessen - er hat mir das hier gegeben."</DefaultText>
+      <DefaultText>[Ihm den Brief zeigen.] "Fast hätte ich es vergessen&#160;– er hat mir das hier gegeben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>[Lügen] "Vielleicht hat er versucht, mir etwas zu sagen, aber er lag im Sterben - ich konnte ihn nicht verstehen."</DefaultText>
+      <DefaultText>[Lügen] "Vielleicht hat er versucht, mir etwas zu sagen, aber er lag im Sterben&#160;– ich konnte ihn nicht verstehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,7 +176,7 @@ Er verschränkt die Arme vor der Brust und starrt dich mit hochgezogener Augenbr
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Danke, Fremder", sagt der Mönch, faltet die Hände vor sich und verneigt sich tief. "Deine Seele ist ehrlich. Ich muss gestehen, ich war überrascht ... als du mir die Nachricht überreichtest, erwartete ich, dass das Siegel gebrochen sei."
+      <DefaultText>"Danke, Fremder", sagt der Mönch, faltet die Hände vor sich und verneigt sich tief. "Deine Seele ist ehrlich. Ich muss gestehen, ich war überrascht&#160;… als du mir die Nachricht überreichtest, erwartete ich, dass das Siegel gebrochen sei."
 
 Der Mönch wird rot und lächelt zum ersten Mal. "Es freut mich, dass es in dieser Welt noch Anstand gibt."
 

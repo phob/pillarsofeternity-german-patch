@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Elendige ... Biester ..."</DefaultText>
+      <DefaultText>"Elendige&#160;… Biester&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Bitte, hilf mir hier ... "</DefaultText>
+      <DefaultText>"Bitte, hilf mir hier&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

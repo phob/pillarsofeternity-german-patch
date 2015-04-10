@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich würde nicht fragen, wenn es eine andere Wahl gäbe ... "</DefaultText>
+      <DefaultText>"Ich würde nicht fragen, wenn es eine andere Wahl gäbe&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Ossionus ... sie haben viele Invasionsversuche abgewehrt."</DefaultText>
+      <DefaultText>"Ossionus&#160;… sie haben viele Invasionsversuche abgewehrt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ich bin bereit ... ein Geständnis ... zu hören ... von dir."</DefaultText>
+      <DefaultText>"Ich bin bereit&#160;… ein Geständnis&#160;… zu hören&#160;… von dir."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

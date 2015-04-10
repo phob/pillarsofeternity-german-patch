@@ -42,7 +42,7 @@ Peregund schüttelt den Kopf, und als sie spricht, zucken ihre Ohren: "Und das w
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ich versuchte, ein paar schnelle Kupferstücke zu machen, aber ..." Sie beißt sich auf die Unterlippe und ihr Gesicht wird rot vor Wut. "Wieder mein verdammtes Pech - die verdammten Strömungen warfen meine Fähre auf die Felsen ... und zerschmetterten sie zusammen mit meinen Gewinnen in kleine Stückchen."</DefaultText>
+      <DefaultText>"Ich versuchte, ein paar schnelle Kupferstücke zu machen, aber&#160;…" Sie beißt sich auf die Unterlippe und ihr Gesicht wird rot vor Wut. "Wieder mein verdammtes Pech&#160;– die verdammten Strömungen warfen meine Fähre auf die Felsen&#160;… und zerschmetterten sie zusammen mit meinen Gewinnen in kleine Stückchen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,12 +81,12 @@ Sie kratzt sich am Ohr und errötet beim Sprechen. "Ich bin momentan ziemlich pl
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Als du dich näherst, springt Peregund auf die Füße. "Mein hilfsbereiter Fremder kehrt zurück! Konntest du schon etwas finden? Selbst wenn du nur noch Treibholz gefunden hast - allein zu wissen, dass diese Plünderer bekommen haben, was sie verdienten, würde mir schon die Stiefelhosen anfeuchten."</DefaultText>
-      <FemaleText>Als du dich näherst, springt Peregund auf die Füße. "Meine hilfsbereite Fremde kehrt zurück! Konntest du schon etwas finden? Selbst wenn du nur noch Treibholz gefunden hast - allein zu wissen, dass diese Plünderer bekommen haben, was sie verdienten, würde mir schon die Stiefelhosen anfeuchten."</FemaleText>
+      <DefaultText>Als du dich näherst, springt Peregund auf die Füße. "Mein hilfsbereiter Fremder kehrt zurück! Konntest du schon etwas finden? Selbst wenn du nur noch Treibholz gefunden hast&#160;– allein zu wissen, dass diese Plünderer bekommen haben, was sie verdienten, würde mir schon die Stiefelhosen anfeuchten."</DefaultText>
+      <FemaleText>Als du dich näherst, springt Peregund auf die Füße. "Meine hilfsbereite Fremde kehrt zurück! Konntest du schon etwas finden? Selbst wenn du nur noch Treibholz gefunden hast&#160;– allein zu wissen, dass diese Plünderer bekommen haben, was sie verdienten, würde mir schon die Stiefelhosen anfeuchten."</FemaleText>
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Danke für das Zurückholen meiner Fracht. Besuch mich doch mal in Trutzbucht - bei mir wirst du die besten Preise in der ganzen Stadt bekommen."</DefaultText>
+      <DefaultText>"Danke für das Zurückholen meiner Fracht. Besuch mich doch mal in Trutzbucht&#160;– bei mir wirst du die besten Preise in der ganzen Stadt bekommen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -115,7 +115,7 @@ Sie greift eine Tasche ihres Waffenrocks und übergibt dir etwas. "Betrachte die
       <ID>21</ID>
       <DefaultText>Peregund tritt ihre Fußspitze mehrmals in die Erde. "Das hatte ich fast erwartet. Naja, trotzdem danke für deine Unterstützung. Jetzt muss ich mir wohl überlegen, wie ich mir meine Investition zurückholen kann."
 
-Sie hört endlich auf, mit ihrem Fuß auszutreten, und stößt einen langen Seufzer aus. "Danke, dass du es probiert hast. Wenn du mal wieder in Trutzbucht bist, dann schau doch in meinem Geschäft vorbei - ich kann jeden Kunden gebrauchen."</DefaultText>
+Sie hört endlich auf, mit ihrem Fuß auszutreten, und stößt einen langen Seufzer aus. "Danke, dass du es probiert hast. Wenn du mal wieder in Trutzbucht bist, dann schau doch in meinem Geschäft vorbei&#160;– ich kann jeden Kunden gebrauchen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -130,7 +130,7 @@ Sie hört endlich auf, mit ihrem Fuß auszutreten, und stößt einen langen Seuf
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Der Verlust dieser Fracht kostet mich meinen ganzen Jahresgewinn. Vielleicht muss ich sogar auf die altmodische Art Geld verdienen ... auf dem Feld, argh."</DefaultText>
+      <DefaultText>"Der Verlust dieser Fracht kostet mich meinen ganzen Jahresgewinn. Vielleicht muss ich sogar auf die altmodische Art Geld verdienen&#160;… auf dem Feld, argh."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -150,7 +150,7 @@ Sie hört endlich auf, mit ihrem Fuß auszutreten, und stößt einen langen Seuf
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Verdammte Plünderer ... die haben keine Lust, sich eine anständige Arbeit zu suchen."</DefaultText>
+      <DefaultText>"Verdammte Plünderer&#160;… die haben keine Lust, sich eine anständige Arbeit zu suchen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -160,19 +160,19 @@ Sie hört endlich auf, mit ihrem Fuß auszutreten, und stößt einen langen Seuf
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Da die Brücke zerstört wurde, wäre es wohl das Beste, dem Fluss Richtung Norden zu folgen. Du wirst den Fluss weiter flussaufwärts überqueren können - aber du hast einen langen Weg vor dir."</DefaultText>
+      <DefaultText>"Da die Brücke zerstört wurde, wäre es wohl das Beste, dem Fluss Richtung Norden zu folgen. Du wirst den Fluss weiter flussaufwärts überqueren können&#160;– aber du hast einen langen Weg vor dir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Das Ersparte mehrerer Jahre ... einfach so den Fluss hinuntergespült zu sehen ..."</DefaultText>
+      <DefaultText>"Das Ersparte mehrerer Jahre&#160;… einfach so den Fluss hinuntergespült zu sehen&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Als ich an der Küste umherstreifte, um nicht gesunkene Frachtkisten zu bergen, wurde ich zu allem Übel auch noch von zwei Plünderern angegriffen!" Sie stampft mit einem Fuß auf den Boden. "Diese verdammten Briganten besaßen die Frechheit, anzugreifen! Ich konnte ihnen unverletzt entkommen, aber ... aber jetzt haben sie mit Gewalt alles gestohlen, was von meinem Vermögen übrig ist."
+      <DefaultText>"Als ich an der Küste umherstreifte, um nicht gesunkene Frachtkisten zu bergen, wurde ich zu allem Übel auch noch von zwei Plünderern angegriffen!" Sie stampft mit einem Fuß auf den Boden. "Diese verdammten Briganten besaßen die Frechheit, anzugreifen! Ich konnte ihnen unverletzt entkommen, aber&#160;… aber jetzt haben sie mit Gewalt alles gestohlen, was von meinem Vermögen übrig ist."
 
-Sie äugt dich einen langen Augenblick lang an, während sie ihr Kinn mit einer Hand umfasst. "Ach weißt du ... du siehst so aus, als würdest du dich gegen diese Plünderer viel besser schlagen als ich alte, kleine Frau ... Könnte ich dich zur Unterstützung anwerben?"</DefaultText>
+Sie äugt dich einen langen Augenblick lang an, während sie ihr Kinn mit einer Hand umfasst. "Ach weißt du&#160;… du siehst so aus, als würdest du dich gegen diese Plünderer viel besser schlagen als ich alte, kleine Frau&#160;… Könnte ich dich zur Unterstützung anwerben?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

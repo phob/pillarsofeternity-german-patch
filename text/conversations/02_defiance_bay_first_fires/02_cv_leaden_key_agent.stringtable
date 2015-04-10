@@ -53,10 +53,10 @@ Ihre Stimme ist so leise und sanft, dass du nicht sicher bist, ob sie laut oder 
       <ID>19</ID>
       <DefaultText>Alle Augen im Raum sind auf dich gerichtet und du nimmst ein schnelles, wütendes Murmeln wahr.
 
-"Brüder, Schwestern  ... ein Eindringling befindet sich unter uns. Schnappt ihn euch!"</DefaultText>
+"Brüder, Schwestern&#160; ... ein Eindringling befindet sich unter uns. Schnappt ihn euch!"</DefaultText>
       <FemaleText>Alle Augen im Raum sind auf dich gerichtet und du nimmst ein schnelles, wütendes Murmeln wahr.
 
-"Brüder, Schwestern  ... ein Eindringling befindet sich unter uns. Schnappt sie euch!"</FemaleText>
+"Brüder, Schwestern&#160; ... ein Eindringling befindet sich unter uns. Schnappt sie euch!"</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>
@@ -188,7 +188,7 @@ In deinem Kopf zeichnet sich plötzlich das Bild von Ruinen ab. Zwei skelettarti
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Deine Informationen sollten weitergegeben werden. Nun zu deiner nächsten Aufgabe ..."
+      <DefaultText>"Deine Informationen sollten weitergegeben werden. Nun zu deiner nächsten Aufgabe&#160;..."
 
 Die Ruinen verblassen in deinem Kopf und an ihrer Stelle taucht der Schatten einer Wohngegend auf. Zerfallene Wohngebäude pflastern die Umgebung eines Friedhofs und eines alten Turms. Wilde Gestalten schleichen durch die Straßen, und in dem Turm beugt sich ein Mann über einen seltsamen Mechanismus. Du kannst ihn nicht deutlich erkennen, er hat jedoch etwas Unnatürliches an sich.</DefaultText>
       <FemaleText />
@@ -322,7 +322,7 @@ In deinem Kopf zeichnet sich plötzlich das Bild von Ruinen ab. Zwei skelettarti
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Haltet ihn auf. Und vor allem ..." Du siehst eine leichenblasse Frau mit einer Narbe über dem Herzen. "... lasst nicht zu, dass er sie trifft."
+      <DefaultText>"Haltet ihn auf. Und vor allem&#160;..." Du siehst eine leichenblasse Frau mit einer Narbe über dem Herzen. "...&#160;lasst nicht zu, dass er sie trifft."
 
 Die Akolythin zeigt dir eine Tür im Erdgeschoss des Turms, eine scheinbar undurchdringliche Felsplatte aus Stein und Kupfer. Doch dann zeigt sie dir den unsichtbaren Spalt zwischen zwei perfekt aufeinander passenden Hälften, und du verstehst, wie die Kupfervenen einen Befehl umsetzen. Der Befehl entspringt deinem Geist mit überraschender Vertrautheit.
 
@@ -338,7 +338,7 @@ Du weißt, wie die Tür zu öffnen ist.</DefaultText>
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Haltet ihn auf. Und vor allem ..." Du siehst eine leichenblasse Frau mit einer Narbe über dem Herzen. "... lasst nicht zu, dass er sie trifft."</DefaultText>
+      <DefaultText>"Haltet ihn auf. Und vor allem&#160;..." Du siehst eine leichenblasse Frau mit einer Narbe über dem Herzen. "...&#160;lasst nicht zu, dass er sie trifft."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

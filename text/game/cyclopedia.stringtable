@@ -868,13 +868,13 @@ In einem ausgeglichenen Angriff-/Verteidigung-Szenario werden die meisten Angrif
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Wenn ein Angriff trifft, gibt es einen Hauptfaktor zur Minderung des entstehenden Schadens: Die Schadensreduktion, kurz SR. Der SR-Wert basiert meist auf Rüstung, viele Kreaturen besitzen jedoch auch natürliche SR oder können ihre SR durch Magie, Fähigkeiten, Talente oder andere Ausrüstung erhöhen.
+      <DefaultText>Wenn ein Angriff trifft, gibt es einen Hauptfaktor zur Minderung des entstehenden Schadens: Die Schadensreduktion, kurz SR. Der SR-Wert basiert meist auf der Rüstung. Viele Kreaturen besitzen jedoch auch eine natürliche SR oder können diese durch Magie, Fähigkeiten, Talente oder andere Ausrüstung erhöhen.
 
 Die Schadensreduktion wird direkt von allem erlittenen Schaden abgezogen. Ein Angriff, der einem Ziel mit 7 SR ursprünglich 20 Schaden zufügen würde, wird also auf 13 reduziert.
 
 Der tatsächlich erlittene Schaden kann nie unter die Schwelle von 20% des ursprünglichen Wertes sinken. Wird dieser Mindestwert erreicht, erscheint im Kampfprotokoll in der Angriffszeile die Meldung MIN.
 
-Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadensreduktionswerte gegen die unterschiedlichen Schadenstypen. Niedrigere SRs schützen gegen weniger Schaden, so dass das Ziel gegen Angriffe dieses Typs anfälliger ist.</DefaultText>
+Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadensreduktionswerte gegen die verschiedenen Schadenstypen. Niedrigere SRs schützen gegen weniger Schaden, so dass das Ziel gegen Angriffe dieses Typs anfälliger ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -884,7 +884,7 @@ Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadens
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>Die Konzentration eines Charakters legt fest, wie wahrscheinlich es ist, dass seine Zauber oder Angriffe im Kampf unterbrochen werden. Jeder Entschlossenheit-Punkt erhöht die Konzentration eines Charakters - und steht dem Unterbrechung-Wert des Angriffs gegenüber. Wie bei Angriffswürfen wird für Unterbrechungen ein zufälliger Wurf verwendet, um zu bestimmten, ob die Unterbrechung erfolgreich ist. Wenn die Konzentration größer ist als der Unterbrechung-Wert, ist die Wahrscheinlichkeit einer Unterbrechung niedriger.</DefaultText>
+      <DefaultText>Die Konzentration eines Charakters legt fest, wie wahrscheinlich es ist, dass seine Zauber oder Angriffe im Kampf unterbrochen werden. Jeder Entschlossenheit-Punkt erhöht die Konzentration eines Charakters - und steht dem Unterbrechung-Wert des Angriffs gegenüber. Wie bei Angriffswürfen wird für Unterbrechungen ein zufälliger Wurf verwendet, um zu bestimmen, ob die Unterbrechung erfolgreich ist. Wenn die Konzentration größer ist als der Unterbrechung-Wert, ist die Wahrscheinlichkeit einer Unterbrechung niedriger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1261,7 +1261,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>Göttin der Ozeane, der vergessenen Dinge, des Verlusts, der Unnachgiebigkeit und der Trauer. Soll sich einst in den Mond verliebt haben und versucht haben, ihn zu sich zu ziehen, mit katastrophalen Folgen. Die Leute bringen Erinnungen an Dinge, die sie vergessen möchten, zu ihren Tempeln, und ihre Priester werfen diese Erinnerungsstücke ins Meer.</DefaultText>
+      <DefaultText>Göttin der Ozeane, der vergessenen Dinge, des Verlusts, der Unnachgiebigkeit und der Trauer. Soll sich einst in den Mond verliebt und versucht haben, ihn zu sich zu ziehen, mit katastrophalen Folgen. Die Leute bringen Erinnungen an Dinge, die sie vergessen möchten, zu ihren Tempeln, und ihre Priester werfen diese Erinnerungsstücke ins Meer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1291,7 +1291,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>Gott der Geheimnisse, der Enthüllen, der Illusionen, der Kryptographie, der Verschleierung, der Wahrnehmung, der Träume und der Visionen. Wael ist ein Mysterium ohne beständige Gestalt oder beständiges Geschlecht. Seine - oder ihre - Anhänger lieben es, Geheimnisse zu schaffen oder zu ergründen.</DefaultText>
+      <DefaultText>Gott der Geheimnisse, der Enthüllen, der Illusionen, der Kryptographie, der Verschleierung, der Wahrnehmung, der Träume und der Visionen. Wael ist ein Mysterium ohne beständige Gestalt oder Geschlecht. Seine - oder ihre - Anhänger lieben es, Geheimnisse zu schaffen oder zu ergründen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

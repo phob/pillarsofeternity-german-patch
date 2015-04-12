@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Trotz ihres unscheinbaren Aussehens bietet die Brigandine ihrem Träger beeindruckenden Schutz, was im Kampf allerdings auf Kosten der Bewegungsgeschwindigkeit geht. Sie besteht aus Dutzenden von Stahlplättchen, die zwischen Leinen oder Leder zusammengepresst sind. Diese Plättchen werden von den charakteristischen Nieten auf der Außenseite der Brigantine auf Position gehalten.</DefaultText>
+      <DefaultText>Trotz ihres unscheinbaren Aussehens bietet die Brigandine ihrem Träger beeindruckenden Schutz, was im Kampf allerdings auf Kosten der Bewegungsgeschwindigkeit geht. Sie besteht aus Dutzenden von Stahlplättchen, die zwischen Leinen oder Leder zusammengepresst sind. Diese Plättchen werden von den charakteristischen Nieten auf der Außenseite der Brigantine an Ort und Stelle gehalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1242,7 +1242,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>Streitflegel bestehen aus einer oft bedornten Metallkugel, die über eine kurze Kette mit einem Holz- oder Metallgriff verbunden ist. Aufgrund ihrer Wirksamkeit gegen Gegner mit Schild sind diese Waffen bei den Soldaten beliebt.</DefaultText>
+      <DefaultText>Streitflegel bestehen aus einer oft bedornten Metallkugel, die über eine kurze Kette mit einem Holz- oder Metallgriff verbunden ist. Aufgrund ihrer Wirksamkeit gegen Gegner mit Schild sind diese Waffen bei Soldaten beliebt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1743,7 +1743,7 @@ Der weise Mann schüttelt seinen Kopf und wischt sich die Tränen aus den Augen.
     </Entry>
     <Entry>
       <ID>360</ID>
-      <DefaultText>Brustharnische sind recht beliebt, da sie mäßigen Schutz bieten, ohne die Beweglichkeit des Trägers dabei so wie die schwereren Kettenhemden und volle Plattenpanzer einzuschränken.
+      <DefaultText>Brustharnische sind recht beliebt, da sie mäßigen Schutz bieten, ohne die Beweglichkeit des Trägers dabei derart einzuschränken, wie es schwerere Kettenhemden oder vollständige Plattenpanzer tun würden.
 
 Da sie besonders unter den Kriegern der Vailianischen Republiken weit verbreitet sind, entspricht die unter den Brustharnischen getragene Kleidung und Polsterung normalerweise vailianischer Mode.</DefaultText>
       <FemaleText />
@@ -2533,7 +2533,7 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
     </Entry>
     <Entry>
       <ID>518</ID>
-      <DefaultText>Ein beklagender Bericht über Fulvanos Reisen im Dyrwald. Bevor seine Reise ein jähes Ende findet, nennt er die Meereshöhle, den Kompass und den Schädelring als Orientierungspunkte.</DefaultText>
+      <DefaultText>Ein jammervoller Bericht über Fulvanos Reisen im Dyrwald. Bevor seine Reise ein jähes Ende findet, nennt er die Meereshöhle, den Kompass und den Schädelring als Orientierungspunkte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2627,14 +2627,14 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
     </Entry>
     <Entry>
       <ID>536</ID>
-      <DefaultText>Die dauerhafte Vigil der Pilger</DefaultText>
+      <DefaultText>Die beharrliche Nachtwache des Pilgers</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>537</ID>
-      <DefaultText>Das Ende des Krieges des Heiligen und die Detonation der Götterhammerbombe wird von den Anhängern Eothas' auf der ganzen Welt noch immer betrauert. Während der Konflikt die Gefolgschaft von Eothas im Dyrwald dezimierte, bleiben viele dem Gott der Morgenröte und Erlösung treu und sind zuversichtlich, dass er eines Tages auferstehen wird. Viele Anhänger begeben sich einmal im Jahr am Geburtstag des heiligen Waidwen auf Pilgerreisen zu Schreinen und Tempeln von Eothas (oder was davon noch übrig ist). Die Einzelheiten dieser Vigile unterscheiden sich voneinander: In Readceras sind sie oft von Gesängen und Vorträgen von Sermonen des heiligen Waidwen geprägt. Im Dyrwald, wo die Anhänger von Eothas oft verfolgt werden, kann es zu solchen Zeremonien gehören, bis zum Sonnenaufgang in respektvoller Stille auf der Stelle zu stehen. Rüstungen oder andere Gegenstände zu tragen, die Eothas oder seiner Herrschaft durch Waidwen gedenken, ist eine Gepflogenheit der Anhänger. 
+      <DefaultText>Das Ende des Krieges des Heiligen und die Detonation der Götterhammerbombe wird von den Anhängern Eothas' auf der ganzen Welt noch immer betrauert. Obwohl der Konflikt die Gefolgschaft von Eothas im Dyrwald dezimierte, bleiben viele dem Gott der Morgenröte und Erlösung treu und sind zuversichtlich, dass er eines Tages auferstehen wird. Viele Anhänger begeben sich einmal im Jahr am Geburtstag des heiligen Waidwen auf Pilgerreisen zu Schreinen und Tempeln des Eothas (oder was davon noch übrig ist). Die Einzelheiten der Zeremonie variieren: In Readceras sind sie oft von Gesängen und Vorträgen der Predigten des heiligen Waidwen geprägt. Im Dyrwald, wo die Anhänger von Eothas oft verfolgt werden, kann es zu solchen Zeremonien gehören, bis zum Sonnenaufgang in respektvoller Stille auf der Stelle zu stehen. Dabei tragen die Gläubigen Rüstungen oder andere Gegenstände, die an Eothas und seine Führerschaft durch Waidwen erinnern sollen. 
 
-Dieser Helm trägt das Sonnensymbol der readceranischen Armee. Wahrscheinlich wurde er zuerst von einem Soldaten im Krieg des Heiligen getragen.</DefaultText>
+Dieser Helm trägt das Sonnensymbol der readceranischen Armee. Wahrscheinlich wurde er ursprünglich von einem Soldaten im Krieg des Heiligen getragen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2719,7 +2719,7 @@ Dieser Helm trägt das Sonnensymbol der readceranischen Armee. Wahrscheinlich wu
     </Entry>
     <Entry>
       <ID>557</ID>
-      <DefaultText>Obwohl er nie so berühmt war, wie er selbst von sich behauptete, so war der vailianische Entdecker Fulvano doch als Exzentriker mit dem Wunsch bekannt, die große weite Welt zu sehen. Wo immer es möglich war, reiste er zu Fuß, um die Sehenswürdigkeiten, Geräusche und Gerüche der Lande, die er durchquerte, wie ein Einheimischer erleben und würdigen zu können. In Wirklichkeit aber behauptete Fulvano oft, dass seine Erkundungen nur bewiesen, dass die Welt außerhalb der Vailianischen Republiken im Vergleich zu seinem Heimatland ein übler, stinkender Ort war.
+      <DefaultText>Obwohl er nie so berühmt war, wie er selbst von sich behauptete, so war der vailianische Entdecker Fulvano doch als Exzentriker bekannt, mit dem Wunsch die große weite Welt zu sehen. Wo immer es möglich war, reiste er zu Fuß, um die Sehenswürdigkeiten, Geräusche und Gerüche der Lande, die er durchquerte, wie ein Einheimischer erleben und würdigen zu können. Tatsächlich aber, so behauptete Fulvano regelmäßig, blieb das einzige Ergebnis seiner Erkundungen der Beweis, dass die Welt außerhalb der Vailianischen Republiken ein übler, stinkender Ort ist.
 
 Dieses Amulett soll Fulvano gehört haben. Er war von leichtem Aberglauben sehr angetan, und von diesem Talisman sagte er, er wäre eine Glücksquelle. Darüber hinaus diente er auch sentimentalen Zwecken, da er eines der großen Schiffe darstellt, die man üblicherweise an den Docks seines Heimatlandes sehen kann.</DefaultText>
       <FemaleText />
@@ -3070,7 +3070,7 @@ Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei
     </Entry>
     <Entry>
       <ID>626</ID>
-      <DefaultText>Sesshaftenernte</DefaultText>
+      <DefaultText>Ernte des Herdes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3580,7 +3580,7 @@ Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei
     </Entry>
     <Entry>
       <ID>729</ID>
-      <DefaultText>Ein einfacher Eisenhammer mit Meißel, nützlich zum Herummeißeln an harten Oberflächen, und dabei besonders solchen mit Strukturschäden.</DefaultText>
+      <DefaultText>Ein einfacher Eisenhammer mit Meißel, nützlich zum Herummeißeln an harten Oberflächen, besonders wenn diese bereits Schwachstellen zeigen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3625,7 +3625,7 @@ Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei
     </Entry>
     <Entry>
       <ID>738</ID>
-      <DefaultText>Wirksam zum Aufbrechen bestimmter Behälter, an Türen dagegen aufgrund der ungleichmäßigen und engen Hebelwirkung nicht.</DefaultText>
+      <DefaultText>Wirksam zum Aufbrechen bestimmter Behälter, für Türen dagegen aufgrund der ungleichmäßigen und begrenzten Hebelwirkung nicht geeignet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3827,7 +3827,7 @@ Irgendwas summt in ihnen, ein verblichenes Überbleibsel einer Essenz. Welche Ma
     </Entry>
     <Entry>
       <ID>775</ID>
-      <DefaultText>Hüte gibt es in vielen verschiedenen Formen, Größen und einer großen Auswahl an Farben. Dyrwäldler sind für ihre bescheidenen, rustikalen Hüte bekannt, während Vailianer mit breitkrempigen Hüten geschmückt mit verschiedenen exotischen Federn assoziiert werden.</DefaultText>
+      <DefaultText>Hüte gibt es in vielen verschiedenen Formen, Größen und einer großen Auswahl an Farben. Dyrwäldler sind für ihre bescheidenen, rustikalen Hüte bekannt, während Vailianer mit breitkrempigen Hüten, geschmückt mit verschiedenen exotischen Federn, assoziiert werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4520,7 +4520,7 @@ Zum letzten Mal: Halte dich von Trutzbucht fern. Wenn ich mich nicht einmal dara
     </Entry>
     <Entry>
       <ID>917</ID>
-      <DefaultText>Kochende Sprühnebel-Falle</DefaultText>
+      <DefaultText>Kochender Sprühnebel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4555,37 +4555,37 @@ Zum letzten Mal: Halte dich von Trutzbucht fern. Wenn ich mich nicht einmal dara
     </Entry>
     <Entry>
       <ID>924</ID>
-      <DefaultText>Starren des Adragan-Falle</DefaultText>
+      <DefaultText>Starren des Adragan</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>925</ID>
-      <DefaultText>Wurfspießhagel-Falle</DefaultText>
+      <DefaultText>Wurfspießhagelfalle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>926</ID>
-      <DefaultText>Heimtückische Wolke-Falle</DefaultText>
+      <DefaultText>Heimtückische Wolke</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>927</ID>
-      <DefaultText>Giftige Explosion-Falle</DefaultText>
+      <DefaultText>Giftige Explosion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>928</ID>
-      <DefaultText>Säule des Heiligen Feuers-Falle</DefaultText>
+      <DefaultText>Säule des Heiligen Feuers</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>929</ID>
-      <DefaultText>Giftwurfspieß-Falle</DefaultText>
+      <DefaultText>Giftwurfspießfalle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>930</ID>
-      <DefaultText>Giftige Wolke-Falle</DefaultText>
+      <DefaultText>Giftige Wolke</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5409,7 +5409,7 @@ Trindig</DefaultText>
     </Entry>
     <Entry>
       <ID>1104</ID>
-      <DefaultText>Diese robuste Brigandine wurde von der aedyranischen Abenteurerin, der sie einst gehörte, mehrfach verstärkt. Die dick ausgepolsterte Rüstung wurde Äru-Brekr genannt (Pfeilbrecher). Sie leistete der Abenteurerin gute Dienste, bis ihr Ruhm und ihr Reichtum sie nachlässig werden ließen und sie einen Gegner zu nah an sich heran ließ. Pfeilbrecher beschützte sie zwar vor Geschossen, bot jedoch nicht denselben Schutz gegen einen Streitkolben, der ihr gegen die Schläfe geschlagen wurde.</DefaultText>
+      <DefaultText>Diese robuste Brigandine wurde von der aedyranischen Abenteurerin, der sie einst gehörte, mehrfach verstärkt. Die dick ausgepolsterte Rüstung wurde Äru-Brekr genannt (Pfeilbrecher). Sie leistete der Abenteurerin gute Dienste, bis ihr Ruhm und ihr Reichtum sie nachlässig werden ließen und sie einen Gegner zu nah an sich heran ließ. Pfeilbrecher beschützte sie zwar vor Geschossen, bot jedoch nicht denselben Schutz gegen den Streitkolben, der ihr gegen die Schläfe geschlagen wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6075,7 +6075,7 @@ Als der örtliche Duc von ihrem Mut und der Not der Kinder hörte, ließ er Notv
     </Entry>
     <Entry>
       <ID>1231</ID>
-      <DefaultText>Das glitzernde Fleisch einer unglückseligen Kreatur.</DefaultText>
+      <DefaultText>Das schimmernde Fleisch einer unglückseligen Kreatur.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6271,7 +6271,7 @@ Eine schreckliche Waffe, die jeden enttäuscht, der sie verwendet. Auf den erste
     </Entry>
     <Entry>
       <ID>1268</ID>
-      <DefaultText>Dieses stinkende aber mächtige Elixier macht sich die stärkende - wenn auch flüchtige - Macht von nekromantiegetränken Knochen zunutze. Sein Wert im Kampf lässt sich nicht leugnen, denn es verleiht selbst den unglückseligsten Kämpfern die Wirksamkeit eines erfahrenen Veterans.</DefaultText>
+      <DefaultText>Dieses stinkende aber mächtige Elixier macht sich die stärkende - wenn auch flüchtige - Macht von nekromantiegetränken Knochen zunutze. Sein Wert im Kampf lässt sich nicht leugnen, denn es verleiht selbst den unglückseligsten Kämpfern die Fähigkeiten eines erfahrenen Veterans.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6564,7 +6564,7 @@ Während des Widerstandskriegs wurde mehrfach versucht, die Waffe wiederzufinden
     </Entry>
     <Entry>
       <ID>1317</ID>
-      <DefaultText>Die Sonnenlanzenfalle ist unter Eothasianern sehr beliebt. Sie ruft eine mächtige Lanze aus purem, gleißenden Licht herab, die mit tödlicher Kraft einschlägt. Die Eindringlinge, die nicht sofort aufgespießt werden, werden durch die Hitze oft bei lebendigem Leib verbrannt.</DefaultText>
+      <DefaultText>Die Sonnenlanzenfalle ist unter Eothasianern sehr beliebt. Sie ruft eine mächtige Lanze aus purem, gleißenden Licht herab, die mit tödlicher Kraft einschlägt. Eindringlinge, die nicht sofort aufgespießt werden, werden durch die Hitze oft bei lebendigem Leib verbrannt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7041,7 +7041,7 @@ Selbst andere Priester spotteten über ihre Fahrlässigkeit - aber tatsächlich 
       <ID>1397</ID>
       <DefaultText>Als der Gemahl und die Kinder von Elayna Himmelsreißer von Terwyn dem Schwarzherzigen gefangengenommen wurden, belagerte sie mit ihren Truppen seine Burg, in der Hoffnung, die Freilassung ihrer Familie aushandeln zu können. Stattdessen ließ Terwyn sie auf den Zinnen pfählen, während Elayna von unten hilflos zusehen musste. 
 
-Als Elayna diese Gräueltat sah, verließ sie jede Vernunft und sie rannte schreiend auf Terwyns Burg zu, erst vor Trauer, dann vor Zorn. Zur Überraschung aller Augenzeugen hörte Elayna plötzlich auf zu schreien und ging in Flammen auf, angeblich von Magran selbst berührt. Terwyns Soldaten feuerten ihre Pfeile ab, doch Elayna verlangsamte nicht einmal ihren Schritt. Sie schlug gegen die Burgtore wie ein Rammbock, brach hindurch und zerstreute Terwyns Soldaten. In dem verzweifelten Versuch, ihrem Zorn zu entgehen, warfen die verbleibenden Soldaten ihren Herren vor ihre Füße. Ihre Flammen umschlangen ihn und niemand weiß, ob der grauenhafte Schrei, der folgte, aus ihrer oder seiner Kehle kam. Innerhalb weniger Minuten aber waren beide zu Asche niedergebrannt - nur diese Armschienen blieben zurück.
+Als Elayna diese Gräueltat sah, verließ sie jede Vernunft und sie rannte auf Terwyns Burg zu, zuerst vor Trauer, dann vor Zorn schreiend. Zur Überraschung aller Augenzeugen hörte Elayna plötzlich auf zu schreien und ging in Flammen auf, angeblich von Magran selbst berührt. Terwyns Soldaten feuerten ihre Pfeile ab, doch Elayna verlangsamte nicht einmal ihren Schritt. Sie schlug gegen die Burgtore wie ein Rammbock, brach hindurch und zerstreute Terwyns Soldaten. In dem verzweifelten Versuch, ihrem Zorn zu entgehen, warfen die verbliebenen Soldaten ihr ihren Herren vor die Füße. Ihre Flammen umschlangen ihn und niemand weiß, ob der grauenhafte Schrei, der folgte, aus ihrer oder seiner Kehle kam. Innerhalb weniger Minuten aber waren beide zu Asche verbrannt - nur diese Armschienen blieben zurück.
 
 Diese Armschienen sind aus Bronze gefertigt, das mit einer dunkelgrünen Patina überzogen ist. In das Metall ist das Bild einer schlanken humanoiden Gestalt geritzt, die von Flammen umgeben ist. Seltsamerweise hat die Gestalt keinen Kopf, nur zwei blaue Kugeln, wo sich ansonsten die Augen befinden würden.</DefaultText>
       <FemaleText />

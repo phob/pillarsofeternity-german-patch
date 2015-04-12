@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Wenn ein Angriff einen Treffer verursacht, richtet dieser Treffer normalen Schaden an und hat eine normale Dauer. Ein leichter Treffer verringert Schaden und Dauer um 50%. Ein kritischer Treffer erhöht Schaden und Dauer um 50%.</DefaultText>
+      <DefaultText>Wenn ein Angriff einen T&#2060;reffer verursacht, richtet dieser T&#2060;reffer normalen Schaden an und hat eine normale Dauer. Leichte Treffer verringern Schaden und Dauer um 50%. Kritische Treffer erhöhen Schaden und Dauer um 50%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Durch ihre Schleichangriff-Fähigkeit besitzen Schurken den höchsten Waffenschaden aller Klassen. Trifft ein Schurke einen Feind, der an einem Gebrechen leidet, das einen Schleichangriff ermöglicht, verursacht der Treffer automatisch zusätzlichen Schaden.</DefaultText>
+      <DefaultText>Durch ihre Schleichangriff-Fähigkeit besitzen Schurken den höchsten Waffenschaden aller Klassen. Trifft ein Schurke einen Feind, der an einem Gebrechen leidet, das einen Schleichangriff ermöglicht, verursacht der T&#2060;reffer automatisch zusätzlichen Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,7 +261,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Das Führen von zwei Nahkampfwaffen gleichzeitig bietet zwar die schnellste Angriffsrate, nicht aber den Pro-Treffer-Schaden von Zweihandwaffen, die Genauigkeit einer einzelnen Einhand-Waffe oder den Abwehrbonus eines Schilds.</DefaultText>
+      <DefaultText>Das Führen von zwei Nahkampfwaffen gleichzeitig bietet zwar die schnellste Angriffsrate, nicht aber den Pro-T&#2060;reffer-Schaden von Zweihandwaffen, die Genauigkeit einer einzelnen Einhand-Waffe oder den Abwehrbonus eines Schilds.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Zweihand-Nahkampfwaffen richten den größten Pro-Treffer-Schaden an und können auch hohe Schadensreduktionen durchbrechen.</DefaultText>
+      <DefaultText>Zweihand-Nahkampfwaffen richten den größten Pro-T&#2060;reffer-Schaden an und können auch hohe Schadensreduktionen durchbrechen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Das Glossar enthält Definitionen und Erklärungen zu vielen Begriffen der Spielmechanik. Wenn du noch einmal genau wissen willst, wie kritische Treffer berechnet werden oder wie die Schadensreduktion funktioniert, öffne das Tagebuch und sieh nach!</DefaultText>
+      <DefaultText>Das Glossar enthält Definitionen und Erklärungen zu vielen Begriffen der Spielmechanik. Wenn du noch einmal genau wissen willst, wie Kritische Treffer berechnet werden oder wie die Schadensreduktion funktioniert, öffne das Tagebuch und sieh nach!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -3687,7 +3687,7 @@ Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei
       <ID>750</ID>
       <DefaultText>Aldhelm,
 
-Ich habe deine jüngsten Aufforderungen tatsächlich erhalten (die beiden davor auch). Ich hatte schon darauf gewartet, dass du an meiner Türschwelle auftauchst, um dir meine Antwort persönlich zu übermitteln: ein klares und unerschütterliches "Nein".
+Ich habe deine jüngsten Aufforderungen tatsächlich erhalten (die beiden davor auch). Ich hatte schon darauf gewartet, dass du an meiner Türschwelle auftauchst, um dir meine Antwort persönlich abzuholen: ein klares und unerschütterliches "Nein".
 
 Ich werde dir nicht helfen, vielmehr genieße ich sogar die Vorstellung, wie du und deine Mannschaft glorifizierter Ingenieure in diesem Turm sitzt und euch wegen den Runen, die ich jahrelang studiert habe, die Köpfe rauchen. Nichts bereitet mir größere Freude, als zu wissen, dass meine von dir so lange verunglimpfte Forschung jetzt das letzte fehlende Stück in deinem kleinen banalen Puzzle ist.
 
@@ -8195,7 +8195,7 @@ Heute haben die Doemenels sich wieder einen Namen gemacht und damit bewiesen, da
 
 Knappe
 
-Wenn ein Kandidat ausreichend Talent für die Schmiedekunst beweist (oder in letzter Zeit zumindest die Motivation und das Potenzial), wird er als Knappe in den Orden aufgenommen. Sobald er Mitglied des Ordens ist, beginnt seine Ausbildung. Diese ist in zwei Hauptbereiche unterteilt - Körper, überwacht vom Fürstmarschall, und Seele, überwacht vom Großschmelzer. An diesem Punkt ihres Fortschritts erhält der Knappe als Uniform lediglich eine einfache Stoffuniform in den Farben der Ritter.
+Wenn ein Kandidat ausreichend Talent für die Schmiedekunst beweist (oder in letzter Zeit zumindest die Motivation und das Potenzial), wird er als Knappe in den Orden aufgenommen. Sobald er Mitglied des Ordens ist, beginnt seine Ausbildung. Diese ist in zwei Hauptbereiche unterteilt - Körper, überwacht vom Fürstmarschall, und Seele, überwacht vom Fürstschmelzer. An diesem Punkt ihres Fortschritts erhält der Knappe als Uniform lediglich eine einfache Stoffuniform in den Farben der Ritter.
 
 Novize
 
@@ -8203,7 +8203,7 @@ Nach ausreichender Ausbildung legt der Knappe eine dreiteilige Prüfung ab. Er m
 
 Justiziar und Templus
 
-Wenn ein Novize bereit ist (worüber seine Lehrer und Ausbilder entscheiden), muss er eine Entscheidung treffen. Von diesem Punkt an werden sich seine Ausbildung und seine Fortschritte auf eine der zwei Disziplinen konzentrieren: Körper oder Seele. Novizen, die sich für den Körper entscheiden, setzen die militärische Ausbildung als Justiziar unter dem Fürstmarschall fort. Novizen, die sich für die Seele entscheiden, erhalten eine klerikale Ausbildung als Templus unter dem Großschmelzer. Ob Justiziar oder Templus, jeder muss zunächst das Ritual des Arms durchlaufen. Er erhält seine Plattenrüstung und sein Abydon-Abzeichen. Anschließend wird er zur Esse des Schmiedes gebracht (nach Abydon benannt) und erhält die Aufgabe, einen kleinen Nagel aus Eisen zu schmieden. Er befestigt den Nagel unter dem Abydon-Abzeichen an seiner Rüstung, wo er ihn für den Rest seines Lebens als Schmelztiegelritter trägt. Von nun an ist die Ausbildung des Ritters unveränderbar. Hat er den Körper gewählt, so beschreitet er diesen Weg bis an das Ende seiner Tage. Hat er die Seele gewählt, so darf er nicht vom Kurs abweichen. Aus diesem Grund wird er erst nach vielen Monaten der Ausbildung für diese Wahl gestellt.</DefaultText>
+Wenn ein Novize bereit ist (worüber seine Lehrer und Ausbilder entscheiden), muss er eine Entscheidung treffen. Von diesem Punkt an werden sich seine Ausbildung und seine Fortschritte auf eine der zwei Disziplinen konzentrieren: Körper oder Seele. Novizen, die sich für den Körper entscheiden, setzen die militärische Ausbildung als Justiziar unter dem Fürstmarschall fort. Novizen, die sich für die Seele entscheiden, erhalten eine klerikale Ausbildung als Templus unter dem Fürstschmelzer. Ob Justiziar oder Templus, jeder muss zunächst das Ritual des Arms durchlaufen. Er erhält seine Plattenrüstung und sein Abydon-Abzeichen. Anschließend wird er zur Esse des Schmiedes gebracht (nach Abydon benannt) und erhält die Aufgabe, einen kleinen Nagel aus Eisen zu schmieden. Er befestigt den Nagel unter dem Abydon-Abzeichen an seiner Rüstung, wo er ihn für den Rest seines Lebens als Schmelztiegelritter trägt. Von nun an ist die Ausbildung des Ritters unveränderbar. Hat er den Körper gewählt, so beschreitet er diesen Weg bis an das Ende seiner Tage. Hat er die Seele gewählt, so darf er nicht vom Kurs abweichen. Aus diesem Grund wird er erst nach vielen Monaten der Ausbildung für diese Wahl gestellt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8968,9 +8968,9 @@ Fürstjustiziar und Großtemplus
 
 Ein Marschall oder Schmelzer, der die Ritter unter seiner Obhut effektiv befehligt, kann die Stellung eines Fürstjustiziars (Körper) beziehungsweise eines Großtemplus (Seele) angeboten bekommen. Wer diese Befehlsposition annimmt, der wird von der Front abgezogen. Nur die hingebungsvollsten Anführer nehmen diesen Rang daher an, wenn er ihnen angeboten wird.
 
-Fürstmarschall und Großschmelzer
+Fürstmarschall und Fürstschmelzer
 
-Es gibt keinen einzelnen Ritter, der der gesamten Organisation vorsteht. Diese Verantwortung wird zwischen dem Fürstmarschall (Körper) und dem Fürstschmelzer (Seele) aufgeteilt. In diesen Rang kann ein Ritter nur aufsteigen, wenn er die Unterstützung der gesamten Ritterschaft besitzt. Er muss von einer Mehrheit der Ritter nominiert und gewählt werden. Hat er die Position einmal inne, so bekleidet er sie bis an sein Lebensende. Der Fürstmarschall und der Großschmelzer können von diesem Posten aus eigenem Willen abtreten - allerdings nur, wenn sie sich von ihrem Leben als Ritter verabschieden und in den Ruhestand gehen. Die Position ist mit solch intensiver Arbeit und solcher Verantwortung verbunden, dass viele sie ablehnen - selbst jene, die ihr gewachsen wären. Fürstmarschalls und Großschmelzer sind im ganzen Land bekannt und angesehen, nicht nur innerhalb der Ritter.</DefaultText>
+Es gibt keinen einzelnen Ritter, der der gesamten Organisation vorsteht. Diese Verantwortung wird zwischen dem Fürstmarschall (Körper) und dem Fürstschmelzer (Seele) aufgeteilt. In diesen Rang kann ein Ritter nur aufsteigen, wenn er die Unterstützung der gesamten Ritterschaft besitzt. Er muss von einer Mehrheit der Ritter nominiert und gewählt werden. Hat er die Position einmal inne, so bekleidet er sie bis an sein Lebensende. Der Fürstmarschall und der Fürstschmelzer können von diesem Posten aus eigenem Willen abtreten - allerdings nur, wenn sie sich von ihrem Leben als Ritter verabschieden und in den Ruhestand gehen. Die Position ist mit solch intensiver Arbeit und solcher Verantwortung verbunden, dass viele sie ablehnen - selbst jene, die ihr gewachsen wären. Fürstmarschalls und Fürstschmelzer sind im ganzen Land bekannt und angesehen, nicht nur innerhalb der Ritter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9746,7 +9746,7 @@ Berath rettet vielleicht unsere Verstorbenen nicht, aber er beantwortet unsere G
 
 Du hast mich einst gefragt, warum ich Ondra so sehr liebe - wie ich von Festlandbewohner zu einem Anhänger der Göttin der Meere werden konnte. Ich singe von der Trauer des Ozeans, auf dass ich die meine vergesse. Es ist Ondras Botschaft, die zu meinem Herzen spricht - ich habe mein Leben der Aufgabe verschrieben, anderen dabei zu helfen, schmerzliche Erinnerungen aufzugeben, denn mit dieser Gabe hat Ondra mich bedacht. Als ich meine junge Tochter verlor, waren meine Frau und ich untröstlich, bis ein Gabenbringer anbot, die Spielzeuge meines Kindes zu nehmen und sie in die tiefsten Wasser zu werfen. 
 
-Um ehrlich zu sein, habe ich mit den anderen Gabenbringern, die ich kenne, nie mit Ondra gesprochen ... sie ist meistens stumm, und wenn sie doch "spricht", dann mit Fluten und gewaltigen Wogen, nicht mit Worten. Aber wir singen von der Trauer des Ozeans, auf dass andere die ihre vergessen. Ondras Geschichte - die Geschichte des unerfüllten Verlangens - ist für Leute wie du und mich wirklich von Bedeutung. Magran kann einen nicht zum Sieg über die Trauer leiten, Hylea kann keine Freude in einen weinenden Mund stopfen ... nur Ondra kann uns die Stärke geben, durchzuhalten, wenn das Leben wertlos erscheint. Und das ist die Antwort auf deine Frage, warum ich meine Göttin so liebe.</DefaultText>
+Um ehrlich zu sein, habe weder ich noch die anderen Gabenbringern, die ich kenne, jemals mit Ondra gesprochen ... sie ist meistens stumm, und wenn sie doch "spricht", dann mit Fluten und gewaltigen Wogen, nicht mit Worten. Aber wir singen von der Trauer des Ozeans, auf dass andere die ihre vergessen. Ondras Geschichte - die Geschichte des unerfüllten Verlangens - ist für Leute wie du und ich wirklich von Bedeutung. Magran kann einen nicht zum Sieg über die Trauer leiten, Hylea kann keine Freude in einen weinenden Mund stopfen ... nur Ondra kann uns die Stärke geben, durchzuhalten, wenn das Leben wertlos erscheint. Und das ist die Antwort auf deine Frage, warum ich meine Göttin so liebe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

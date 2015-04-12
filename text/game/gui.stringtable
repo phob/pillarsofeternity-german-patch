@@ -3870,7 +3870,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>766</ID>
-      <DefaultText>T&#2060;reffer</DefaultText> <!-- persönliche Statistiken -->
+      <DefaultText>T&#2060;reffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6040,7 +6040,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1202</ID>
-      <DefaultText>Kritische Treffer können Betäubt bewirken</DefaultText>
+      <DefaultText>Chance auf Betäubung bei Kritischen Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

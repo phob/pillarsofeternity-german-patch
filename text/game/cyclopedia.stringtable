@@ -874,7 +874,7 @@ Die Schadensreduktion wird direkt von allem erlittenen Schaden abgezogen. Ein An
 
 Der tatsächlich erlittene Schaden kann nie unter die Schwelle von 20% des ursprünglichen Wertes sinken. Wird dieser Mindestwert erreicht, erscheint im Kampfprotokoll in der Angriffszeile die Meldung MIN.
 
-Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadensreduktionswerte gegen die verschiedenen Schadenstypen. Niedrigere SRs schützen gegen weniger Schaden, so dass das Ziel gegen Angriffe dieses Typs anfälliger ist.</DefaultText>
+Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadensreduktionswerte gegen die verschiedenen Schadenstypen. Eine niedrigere SR schützt weniger gegen Schaden, so dass das Ziel gegen Angriffe dieses Typs anfälliger ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

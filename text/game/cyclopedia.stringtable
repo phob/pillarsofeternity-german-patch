@@ -482,7 +482,7 @@ Xaurips verehren Drachen als Gottheiten und errichten ihre Gemeinden um die Nest
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Die Genauigkeit spielt bei fast jedem Angriff eine Rolle. Sie beeinflusst, wie wahrscheinlich es ist, dass der Angriff eine Wirkung auf das Ziel hat. Genauigkeit wird hauptsächlich durch die Klasse und die Stufe eines Charakters festgelegt, wird aber auch durch Talente und andere aktive Effekte wie Zauber oder Gegenstände beeinflusst. Wird ein Angriff unternommen, wird die Genauigkeit mit der jeweiligen Verteidigung des Ziels verglichen, um festzustellen, wie der Angriffswurf modifiziert wird. Liegt die Genauigkeit über der Verteidigung des Ziels, erhöht sich die Wahrscheinlichkeit eines Treffers oder kritischen Treffers und die Wahrscheinlichkeit eines leichten Treffers oder Fehlschlags sinkt.
+      <DefaultText>Die Genauigkeit spielt bei fast jedem Angriff eine Rolle. Sie beeinflusst, wie wahrscheinlich es ist, dass der Angriff eine Wirkung auf das Ziel hat. Genauigkeit wird hauptsächlich durch die Klasse und die Stufe eines Charakters festgelegt, wird aber auch durch Talente und andere aktive Effekte wie Zauber oder Gegenstände beeinflusst. Wird ein Angriff unternommen, wird die Genauigkeit mit der jeweiligen Verteidigung des Ziels verglichen, um festzustellen, wie der Angriffswurf modifiziert wird. Liegt die Genauigkeit über der Verteidigung des Ziels, erhöht sich die Wahrscheinlichkeit von T&#2060;reffer&#2060;n oder Kritischen Treffer&#2060;n und die Wahrscheinlichkeit von Leichten Treffer&#2060;n oder Fehlschläge&#2060;n sinkt.
 Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, werden mit einem kleinen Genauigkeitsbonus verstärkt, der auf der Stufe des Charakters basiert.</DefaultText>
       <FemaleText />
     </Entry>
@@ -759,27 +759,27 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Kritischer Treffer</DefaultText>
+      <DefaultText>Kritische Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Ein kritischer Treffer ist jeder Angriffswurf über 100. Ein kritischer Treffer, der Schaden verursacht, erhöht dessen Gesamtschaden um 50%. Ein kritischer Treffer bei Effekten mit einer Dauer (meistens Wirkungen wie Erkrankt oder Gelähmt) erhöht die Laufzeit um 50%.</DefaultText>
+      <DefaultText>Ein Kritischer Treffer ist jeder Angriffswurf über 100. Ein Kritischer Treffer, der Schaden verursacht, erhöht dessen Gesamtschaden um 50%. Ein Kritischer Treffer bei Effekten mit einer Dauer (meistens Wirkungen wie Erkrankt oder Gelähmt) erhöht die Laufzeit um 50%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Leichter Treffer</DefaultText>
+      <DefaultText>Leichte Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Ein leichter Treffer ist jeder Angriffswurf zwischen 16 und 50. Ein leichter Treffer verringert Schaden und Dauer um 50%.</DefaultText>
+      <DefaultText>Ein Leichter Treffer ist jeder Angriffswurf zwischen 16 und 50. Ein Leichter Treffer verringert Schaden und Dauer um 50%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>Treffer</DefaultText>
+      <DefaultText>T&#2060;reffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -846,14 +846,14 @@ Einige Kreaturen können manchen Wirkungen gegenüber immun sein. In diesem Fall
       <ID>154</ID>
       <DefaultText>Alle Angriffe in Pillars of Eternity vergleichen den Genauigkeitswert des Angreifers mit einer von vier Verteidigungen des Ziels: Abwehr (direkte Nah- und Fernkampfangriffe), Tapferkeit (Angriffe gegen das Immunsystem wie Gift oder Krankheit), Reflexe (Wirkungsbereichangriffe) und Wille (mentale Angriffe). 
 
-Es wird eine Zahl zwischen 1 und 100 generiert und zu der Differenz zwischen Genauigkeit und Verteidigung addiert, um das Ergebnis des Angriffs zu berechnen. Bis 15 = Fehlschlag, 16 - 50 = leichter Treffer, 51-100 = Treffer, ab 100 = Kritischer Treffer. 
+Es wird eine Zahl zwischen 1 und 100 generiert und zu der Differenz zwischen Genauigkeit und Verteidigung addiert, um das Ergebnis des Angriffs zu berechnen. Bis 15 = Fehlschläge, 16 - 50 = Leichte Treffer, 51-100 = T&#2060;reffer, ab 100 = Kritische Treffer. 
 
-In einem ausgeglichenen Angriff-/Verteidigung-Szenario werden die meisten Angriffe Treffer oder leichte Treffer sein. Wenn die Genauigkeit über der Verteidigung liegt, ist die Wahrscheinlichkeit von Kritischen Treffern höher. Wenn die Verteidigung über der Genauigkeit liegt, ist die Wahrscheinlichkeit von Fehlschlägen höher.</DefaultText>
+In einem ausgeglichenen Angriff-/Verteidigung-Szenario werden die meisten Angriffe Treffer oder Leichte Treffer sein. Wenn die Genauigkeit über der Verteidigung liegt, ist die Wahrscheinlichkeit von Kritischen Treffern höher. Wenn die Verteidigung über der Genauigkeit liegt, ist die Wahrscheinlichkeit von Fehlschlägen höher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>Fehlschlag</DefaultText>
+      <DefaultText>Fehlschläge</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

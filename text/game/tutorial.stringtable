@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Alle Charaktere im Spiel - Freund wie Feind - haben vier primäre Verteidigungen gegen Angriffe: Abwehr, Tapferkeit, Reflexe und Wille. Diese Verteidigungen basieren auf den Attributen des Charakters, seiner Stufe, seinen Gegenständen und anderen Effekten. Erfolgt ein Angriff, wird die Genauigkeit mit den jeweiligen Verteidigungen verglichen. Wenn die Genauigkeit unter der entsprechenden Verteidigung liegt, wird der Angriff mit einem Malus belegt und verfehlt mit höherer Wahrscheinlichkeit sein Ziel. Liegt die Genauigkeit über der entsprechenden Verteidigung, führt der Angriff mit einer höheren Wahrscheinlichkeit zu einem kritischen Treffer.</DefaultText>
+      <DefaultText>Alle Charaktere im Spiel - Freund wie Feind - haben vier primäre Verteidigungen gegen Angriffe: Abwehr, Tapferkeit, Reflexe und Wille. Diese Verteidigungen basieren auf den Attributen des Charakters, seiner Stufe, seinen Gegenständen und anderen Effekten. Erfolgt ein Angriff, wird die Genauigkeit mit den jeweiligen Verteidigungen verglichen. Wenn die Genauigkeit unter der entsprechenden Verteidigung liegt, wird der Angriff mit einem Malus belegt und verfehlt mit höherer Wahrscheinlichkeit sein Ziel. Liegt die Genauigkeit über der entsprechenden Verteidigung, führt der Angriff mit einer höheren Wahrscheinlichkeit zu einem Kritischen Treffer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,17 +71,17 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Manchmal sind eine Waffe oder ein Zauber einfach nicht geeignet, um die Schadensreduktion eines Feindes zu durchdringen. Wenn der Angriff ein Treffer ist, hebt die SR den gesamten theoretisch erlittenen Schaden bis auf einen kleinen Prozentsatz auf. Du hörst, wie deine Charaktere sich beschweren, wenn das passiert. Halte die Ohren offen, achte darauf, welche Schadensart abgeblockt wurde, und versuche es mit einer anderen Waffe oder einem anderen Zauber noch einmal.</DefaultText>
+      <DefaultText>Manchmal sind eine Waffe oder ein Zauber einfach nicht geeignet, um die Schadensreduktion eines Feindes zu durchdringen. Wenn der Angriff ein T&#2060;reffer ist, hebt die SR den gesamten theoretisch erlittenen Schaden bis auf einen kleinen Prozentsatz auf. Du hörst, wie deine Charaktere sich beschweren, wenn das passiert. Halte die Ohren offen, achte darauf, welche Schadensart abgeblockt wurde, und versuche es mit einer anderen Waffe oder einem anderen Zauber noch einmal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Du hast einen kritischen Treffer gelandet! Ein kritischer Treffer ist ein besseres Ergebnis als ein Treffer. Die Wahrscheinlichkeit, dass du einen kritischen Treffer landest, ist höher, wenn die Genauigkeit des Angriffs über der Verteidigung des Ziels liegt. Angriffe, die Schaden anrichten, richten höheren Schaden an, wenn sie als kritischer Treffer landen. Angriffe, die Statuseffekte oder Wirkungen auslösen, haben eine längere Dauer, wenn sie als kritischer Treffer landen. Leichte Treffer sind schwächer als Treffer - ihr Schaden ist niedriger, Effekte und Wirkungen halten weniger lang an.</DefaultText>
+      <DefaultText>Du hast einen Kritischen Treffer gelandet! Ein Kritischer Treffer ist ein besseres Ergebnis als ein T&#2060;reffer. Die Wahrscheinlichkeit, dass du einen Kritischen Treffer landest, ist höher, wenn die Genauigkeit des Angriffs über der Verteidigung des Ziels liegt. Angriffe, die Schaden anrichten, richten höheren Schaden an, wenn sie als Kritischer Treffer landen. Angriffe, die Statuseffekte oder Wirkungen auslösen, haben eine längere Dauer, wenn sie als Kritischer Treffer landen. Leichte Treffer sind schwächer als T&#2060;reffer - ihr Schaden ist niedriger, Effekte und Wirkungen halten weniger lang an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Du greifst gerade einen Feind mit mindestens einer Verteidigung (Abwehr, Tapferkeit, Reflexe, Wille) an, die deutlich über der Genauigkeit des angreifenden Charakters liegt. Wenn die Verteidigung deutlich über der Genauigkeit liegt, kann es sehr schwer sein, einen Treffer zu landen - und unmöglich, einen kritischen Treffer zu landen. Versuche, die Genauigkeit des Angreifers zu erhöhen, oder verwende Zauber oder Fähigkeiten, die eine andere Verteidigung angreifen.</DefaultText>
+      <DefaultText>Du greifst gerade einen Feind mit mindestens einer Verteidigung (Abwehr, Tapferkeit, Reflexe, Wille) an, die deutlich über der Genauigkeit des angreifenden Charakters liegt. Wenn die Verteidigung deutlich über der Genauigkeit liegt, kann es sehr schwer sein, einen T&#2060;reffer zu landen - und unmöglich, einen Kritischen Treffer zu landen. Versuche, die Genauigkeit des Angreifers zu erhöhen, oder verwende Zauber oder Fähigkeiten, die eine andere Verteidigung angreifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

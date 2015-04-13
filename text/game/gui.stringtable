@@ -6640,12 +6640,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1322</ID>
-      <DefaultText>... aber {1} mit zusätzlichem Effekt.</DefaultText>
+      <DefaultText>... jedoch ohne zusätzlichen Effekt.</DefaultText> <!-- {1}: ID 811 ('verfehlt') -->
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1323</ID>
-      <DefaultText>... und {1} mit zusätzlichem Effekt.</DefaultText>
+      <DefaultText>... sowie {1} für zusätzlichen Effekt:</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

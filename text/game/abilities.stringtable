@@ -1221,12 +1221,12 @@
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Quälender Zweifel am unerschütterlichen Glauben überfällt Feinde im Wirkungsbereich und verringert ihre Nahkampfgenauigkeit und die Reichweite ihrer kritischen Treffer.</DefaultText>
+      <DefaultText>Quälender Zweifel am unerschütterlichen Glauben überfällt Feinde im Wirkungsbereich und verringert ihre Nahkampfgenauigkeit und die Reichweite ihrer Kritischen Treffer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>Verstärkt die Entschlossenheit aller Verbündeten im Kampf und erhöht die Wahrscheinlichkeit eines kritischen Treffers.</DefaultText>
+      <DefaultText>Verstärkt die Entschlossenheit aller Verbündeten im Kampf und erhöht die Wahrscheinlichkeit eines Kritischen Treffers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1291,7 +1291,7 @@
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>Der Zauberwirker ist in der Lage, die Schwächen und Schwachstellen eines Feindes zu erkennen, als ob sie physikalisch greifbar wären, wodurch die Wahrscheinlichkeit eines kritischen Treffers erhöht wird.</DefaultText>
+      <DefaultText>Der Zauberwirker ist in der Lage, die Schwächen und Schwachstellen eines Feindes zu erkennen, als ob sie physikalisch greifbar wären, wodurch die Wahrscheinlichkeit eines Kritischen Treffers erhöht wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1411,7 +1411,7 @@
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>Verstärkt den Arm des Kämpfers, wodurch ein Teil seiner leichten Treffer zu Treffern wird und der Mindestschaden von Nahkampfwaffen erhöht wird.</DefaultText>
+      <DefaultText>Verstärkt den Arm des Kämpfers, wodurch ein Teil seiner Leichten Treffer zu Treffern wird und der Mindestschaden von Nahkampfwaffen erhöht wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1421,7 +1421,7 @@
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>Der Kämpfer bemüht sich zusätzlich, die wildesten Schläge abzuwehren, wodurch ein Teil aller eingehenden kritischen Treffer zu Treffern umgewandelt wird und alle eingehenden Treffer zu leichten Treffern.</DefaultText>
+      <DefaultText>Der Kämpfer bemüht sich zusätzlich, die wildesten Schläge abzuwehren, wodurch ein Teil aller eingehenden Kritischen Treffer zu Treffern umgewandelt wird und alle eingehenden Treffer zu Leichten Treffern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2316,7 +2316,7 @@
     </Entry>
     <Entry>
       <ID>478</ID>
-      <DefaultText>Stärkt den Verstand von Verbündeten im Wirkungsbereich mit Eifer, gewährt einen Bonus gegen Angriffe mit verwirrender oder benehmender Wirkung und verringert die Dauer jener aktuellen Wirkungen auf dem Ziel.</DefaultText>
+      <DefaultText>Stärkt den Verstand von Verbündeten im Wirkungsbereich mit Eifer und gewährt so einen Bonus gegen Angriffe, die Verwirrung oder Benommenheit verursachen und verringert die Dauer bestehender Effekte dieser Art.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3546,7 +3546,7 @@
     </Entry>
     <Entry>
       <ID>726</ID>
-      <DefaultText>Weniger Wunden</DefaultText>
+      <DefaultText>Geringere Wundresistenz</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4331,7 +4331,7 @@
     </Entry>
     <Entry>
       <ID>883</ID>
-      <DefaultText>Der Kämpfer erlangt einen besonderen Vorteil gegenüber Feinden, die versuchen, die Kampfhandlung zu vereiteln, indem er auf die Beine zielt. Führt dazu, dass Ziele von Treffern oder kritischen Treffern durch Absetzangriffe behindert werden.</DefaultText>
+      <DefaultText>Der Kämpfer erlangt einen besonderen Vorteil gegenüber Feinden, die versuchen, die Kampfhandlung zu vereiteln, indem er auf die Beine zielt. Führt dazu, dass Ziele von Treffern oder Kritischen Treffern durch Absetzangriffe behindert werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4501,7 +4501,7 @@
     </Entry>
     <Entry>
       <ID>917</ID>
-      <DefaultText>Nutzt den Vorteil der Ablenkung des Feindes, während dieser vom tierischen Gefährten des Waldläufers angegriffen wird, um den Feind zu betäuben (als Zweitangriff), wenn dem Waldläufer ein Treffer oder kritischer Treffer gelingt.</DefaultText>
+      <DefaultText>Nutzt den Vorteil der Ablenkung des Feindes, während dieser vom tierischen Gefährten des Waldläufers angegriffen wird, um den Feind zu betäuben (als Zweitangriff), wenn dem Waldläufer Treffer oder Kritische Treffer gelingen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4516,7 +4516,7 @@
     </Entry>
     <Entry>
       <ID>920</ID>
-      <DefaultText>Der Schurke nutzt eine Vielzahl hinterhältiger Taktiken, durch die ein Teil seiner Treffer zu kritischen Treffern wird.</DefaultText>
+      <DefaultText>Der Schurke nutzt eine Vielzahl hinterhältiger Taktiken, durch die ein Teil seiner Treffer zu Kritischen Treffern wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4546,7 +4546,7 @@
     </Entry>
     <Entry>
       <ID>926</ID>
-      <DefaultText>Der Schurke zeigt sich besonders geschickt darin, Angriffen auszuweichen, und verwandelt viele leichte Treffer in Fehlschläge.</DefaultText>
+      <DefaultText>Der Schurke zeigt sich besonders geschickt darin, Angriffen auszuweichen, und verwandelt viele Leichte Treffer in Fehlschläge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4696,7 +4696,7 @@
     </Entry>
     <Entry>
       <ID>956</ID>
-      <DefaultText>Verbündete erkennen den Eifer des Paladins und werden dadurch besonders inspiriert. Von dem eifrigen Fokus betroffene Verbündete wandeln 5&#160;% der gewöhnlichen Treffer in kritische Treffer um.</DefaultText>
+      <DefaultText>Verbündete erkennen den Eifer des Paladins und werden dadurch besonders inspiriert. Von dem eifrigen Fokus betroffene Verbündete wandeln 5&#160;% der gewöhnlichen Treffer in Kritische Treffer um.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4741,7 +4741,7 @@
     </Entry>
     <Entry>
       <ID>965</ID>
-      <DefaultText>Verbessert die Fertigkeit des Schurken zu verschlagenen Manövern, wodurch die Wahrscheinlichkeit erhöht wird, dass die Treffer des Schurken bei einem schmutzigen Kampf zu kritischen Treffern werden.</DefaultText>
+      <DefaultText>Verbessert die Fertigkeit des Schurken zu verschlagenen Manövern, wodurch die Wahrscheinlichkeit erhöht wird, dass die Treffer des Schurken bei einem schmutzigen Kampf zu Kritischen Treffern werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5065,7 +5065,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1025</ID>
-      <DefaultText>Kristallessers Frostsäule</DefaultText>
+      <DefaultText>Kristallfressers Frostsäule</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5515,7 +5515,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1115</ID>
-      <DefaultText>Wenn er eine Einhand-Nahkampfwaffe einsetzt, werden einige der leichten Treffer des Angreifers in Treffer umgewandelt.</DefaultText>
+      <DefaultText>Wenn er eine Einhand-Nahkampfwaffe einsetzt, werden einige der Leichten Treffer des Angreifers in Treffer umgewandelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

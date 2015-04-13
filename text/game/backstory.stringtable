@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Deine Familie gehört zur gesellschaftlichen Oberschicht, und deine Erziehung gab dir viele Vorteile gegenüber jenen von niederer Geburt. Du hattest Zugang zu erstklassiger Ausbildung und kennst dich auf extravaganten Feiern und Tanzveranstaltungen aus. Auch der Jagdsport und die politischen Sorgen des Landadels sind dir nicht fremd.</DefaultText>
+      <DefaultText>Deine Familie gehört zur gesellschaftlichen Oberschicht, und deine Erziehung gab dir viele Vorteile gegenüber jenen von niederer Geburt. Du hattest Zugang zu einer erstklassiger Ausbildung und kennst dich auf extravaganten Feiern und Tanzveranstaltungen aus. Auch der Jagdsport und die politischen Sorgen des Landadels sind dir nicht fremd.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Vor einiger Zeit hast du dein Heimatland verlassen und die Vertrautheit der Heimat mit dem großen Unbekannten der unbezwungenen Grenze getauscht.</DefaultText>
+      <DefaultText>Vor einiger Zeit hast du dein dir vertrautes Heimatland verlassen und es gegen das große Unbekannte der unbezwungenen Grenzlande getauscht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Du hast Visionen einer anderen Zeit und eines anderen Ortes gesehen. In einer großen Kammer gingst du auf eine große Maschine zu, vor der Mann stand. Du wolltest ihn etwas fragen, aber was genau, blieb unklar.</DefaultText>
+      <DefaultText>Du hast Visionen einer anderen Zeit und eines anderen Ortes gesehen. In einer großen Kammer gingst du auf eine große Maschine zu, vor der ein Mann stand. Du wolltest ihn etwas fragen, aber was genau, blieb unklar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,7 +246,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Du fandest dich in der großen Kammer wieder, die du zuerst in den Ruinen sahst, wo du zum ersten Mal auf den Bleiernen Schlüssel trafst. Am Fuß einer riesigen Adra-Säule sprachst du endlich mit einer Erscheinung von Thaos - derjenigen, der du eine Frage stellen wolltest. Bei der Konfrontation ging es um die Lügen, die er dir erzählt hatte, als er dich zum Verbleib im Orden überredete und mit denen er deine Loyalität gewann. Du wolltest wissen, ob es die Götter überhaupt gab. Er gab dir zwar keine direkte Antwort, implizierte aber, dass die weiteres Fragen der Gnade der Inquisition ausliefern würde.</DefaultText>
+      <DefaultText>Du fandest dich in der großen Kammer wieder, die du zuerst in den Ruinen sahst, wo du zum ersten Mal auf den Bleiernen Schlüssel trafst. Am Fuß einer riesigen Adra-Säule sprachst du endlich mit einer Erscheinung von Thaos - derjenigen, der du eine Frage stellen wolltest. Bei der Konfrontation ging es um die Lügen, die er dir erzählt hatte, als er dich zum Verbleib im Orden überredete und mit denen er deine Loyalität gewann. Du wolltest wissen, ob es die Götter überhaupt gab. Er gab dir zwar keine direkte Antwort, deutete aber an, dass weiteres Nachfragen dich der Gnade der Inquisition ausliefern würde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Als ihr nach der Arznei suchtest, gerietet ihr in einen Hinterhalt, und das Karawanenlager wurde von wütenden Einheimischen niedergemacht. Nachdem du sie besiegt hattest, wurdest du fast von einem Wind getötet, der drohte, die die Seele aus deinem Körper zu reißen.</DefaultText>
+      <DefaultText>Als ihr nach der Arznei suchtest, gerietet ihr in einen Hinterhalt, und das Karawanenlager wurde von wütenden Einheimischen niedergemacht. Nachdem du sie besiegt hattest, wurdest du fast von einem Wind getötet, der drohte, dir die Seele aus deinem Körper zu reißen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,7 +351,7 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Maerwald befand sich in den Verliesen unterhalb seiner eigenen Burg und versteckte sich dort vor Geistern, die sein gefolterter Verstand halluzinierte. Seine Seele wurde zu seinen vergangenen Leben erweckt, und unlösbarer innerer Konflikt aus längst vergangenen Zeiten hatte ihn in den Wahnsinn getrieben. Er warnte dich, dass auch du seinen Zustand und sein Schicksal teilen könntest. Trotzdem deutete er auch an, dass es einen Weg geben könnte, deine Erweckung rückgängig zu machen. Er sagte dir, den Bleiernen Schlüssel aufzusuchen, dieselbe Gruppe, auf die du vor den Ruinen getroffen warst ... und von ihnen zu erfahren, wie deine Erweckung rückgängig zu machen sei.</DefaultText>
+      <DefaultText>Maerwald befand sich in den Verliesen unterhalb seiner eigenen Burg und versteckte sich dort vor Geistern, die sein gefolterter Verstand halluzinierte. Seine Seele wurde von seinen vergangenen Leben erweckt, und ein unlösbarer innerer Konflikt, aus längst vergangenen Zeiten, hatte ihn in den Wahnsinn getrieben. Er warnte dich, dass auch du seinen Zustand und sein Schicksal teilen könntest. Trotzdem deutete er auch an, dass es einen Weg geben könnte, deine Erweckung rückgängig zu machen. Er empfahl dir, den Bleiernen Schlüssel aufzusuchen, dieselbe Gruppe, auf die du zuvor bei den Ruinen angetroffen hattest, um von ihnen in Erfahrung zu bringen, wie deine Erweckung rückgängig zu machen sei.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,7 +426,7 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Du trafst Lady Webb in ihren Gemächern in Haus Hadret. Sie wollte den Grund für deine Verfolgung des Bleiernen Schlüssels wissen und konnte dir etwas über den Mann erzählen, nach dem du suchtest: Thaox ix Arkannon, einem Mann, der mit perfekter Erinnerung an seine vergangenen Leben wiedergeboren wird und Verschwörungen einfädelt, deren Verwirklichung ganze Lebensspannen dauert.</DefaultText>
+      <DefaultText>Du trafst Lady Webb in ihren Gemächern in Haus Hadret. Sie wollte den Grund für deine Verfolgung des Bleiernen Schlüssels wissen und konnte dir etwas über den Mann erzählen, nach dem du suchtest: Thaos ix Arkannon, einem Mann, der mit perfekter Erinnerung an seine vergangenen Leben wiedergeboren wird und Verschwörungen einfädelt, deren Verwirklichung ganze Lebensspannen dauert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

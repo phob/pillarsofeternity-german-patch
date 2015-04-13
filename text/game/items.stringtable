@@ -6841,7 +6841,7 @@ Das Heft dieses Schwerts ist mit Gold verkleidet und mit kleinen Rubinen besetzt
       <ID>1362</ID>
       <DefaultText>Ein Geschenk, das einem jungen Soldaten überreicht wurde, als er auszog, um im Krieg der Schwarzen Bäume zu kämpfen. Die Klinge verdiente sich ihren Namen durch die Taten ihres Besitzers. Das vergoldete Schwert war auf dem Schlachtfeld häufig zu sehen, hob der Soldat es doch herausfordernd in die Luft, sobald er ein Ziel erblickte. Seine Kameraden umkreisten den Feind daraufhin und errangen Sieg um Sieg. 
 
-Das Schwert hatte einen solch großen Einfluss auf die Moral der Truppen, dass ein frustrierter Kommandant entschied, ihm einen neuen Namen zu geben, als der Soldat durch einen Hagel glanfathanischer Pfeile beinahe sein Leben verlor - denn das Schwert schien über Schmach oder Ruhm zu entscheiden.</DefaultText>
+Das Schwert hatte einen solch großen Einfluss auf die Moral der Truppen, dass ein frustrierter Kommandant entschied, ihm einen neuen Namen zu geben, als der Soldat durch einen Hagel glanfathanischer Pfeile beinahe sein Leben verlor - denn das Schwert schien über Schande oder Ruhm zu entscheiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10077,7 +10077,7 @@ Yngmar wird "IING-mar" gesprochen, mit einem langen Vokallaut zu Beginn.</Defaul
     </Entry>
     <Entry>
       <ID>1752</ID>
-      <DefaultText>Der Zauberwirker ist in der Lage, die Schwächen und Schwachstellen eines Feindes zu erkennen, als ob sie physikalisch greifbar wären, wodurch die Wahrscheinlichkeit eines kritischen Treffers erhöht wird.</DefaultText>
+      <DefaultText>Der Zauberwirker ist in der Lage, die Schwächen und Schwachstellen eines Feindes zu erkennen, als ob sie physikalisch greifbar wären, wodurch die Wahrscheinlichkeit eines Kritischen Treffers erhöht wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10312,7 +10312,7 @@ Yngmar wird "IING-mar" gesprochen, mit einem langen Vokallaut zu Beginn.</Defaul
     </Entry>
     <Entry>
       <ID>1799</ID>
-      <DefaultText>Stärkt den Verstand von Verbündeten im Wirkungsbereich mit Eifer, gewährt einen Bonus gegen Angriffe mit verwirrender oder benehmender Wirkung und verringert die Dauer jener aktuellen Wirkungen auf dem Ziel.</DefaultText>
+      <DefaultText>Stärkt den Verstand von Verbündeten im Wirkungsbereich mit Eifer und gewährt so einen Bonus gegen Angriffe, die Verwirrung oder Benommenheit verursachen und verringert die Dauer bestehender Effekte dieser Art.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

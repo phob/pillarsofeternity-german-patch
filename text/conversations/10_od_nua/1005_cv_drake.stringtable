@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Am Rand dieser weiten Kammer steht eine massive, reptilienähnlich aussehende Kreatur, die von einer Menge plappernder Xaurips umgeben ist. Ihre Schnauze ist mit den blutigen Überresten eines kürzlichen Mahls verspritzt, und an ihren krummen Hauern hängen noch Fleischbrocken. </DefaultText>
+      <DefaultText>Am Rand dieser weiten Kammer steht eine massive, reptilienhafte Kreatur, die von einer Menge plappernder Xaurips umgeben ist. Ihre Schnauze ist voll mit den blutigen Überresten der letzen Mahlzeit, und an ihren krummen Hauern hängen noch Fleischbrocken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Die Xaurips bewegen sich ängstlich hin und her, wobei sie erwartungsvoll zum Jungdrachen emporschauen, der seine ledrigen Flügel herausfordernd aufspannt und die Säulen auf beiden Seiten streift.</DefaultText>
+      <DefaultText>Die Xaurips bewegen sich unruhig hin und her, wobei sie erwartungsvoll zum Jungdrachen emporschauen, der seine ledrigen Flügel herausfordernd aufspannt und die Säulen auf beiden Seiten streift.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Der Meister in der Tiefe ist unter uns. Das Opfer ist nicht sehr schlau." Während der Jungdrache lacht, bemerkst du, wie ein Teil der schuppigen Jungdrachenbrust orange zu leuchten beginnt. "Meister machte mich zum Fürsten, hier. Hier bin ich König." Flammen züngeln aus seinen Nasenlöchern und seinem aufgerissenen Maul. "Ich bin der Gott des Feuers und Goldes."</DefaultText>
+      <DefaultText>"Der Meister in der Tiefe ist unter uns. Opfer ist nicht sehr schlau." Während der Jungdrache lacht, bemerkst du, wie ein Teil der schuppigen Jungdrachenbrust orange zu leuchten beginnt. "Meister machte mich zum Fürsten, hier. Hier bin ich König." Flammen züngeln aus seinen Nasenlöchern und seinem aufgerissenen Maul. "Ich bin der Gott des Feuers und Goldes."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

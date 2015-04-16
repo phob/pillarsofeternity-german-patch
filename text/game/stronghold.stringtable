@@ -257,7 +257,7 @@
     <Entry>
       <ID>50</ID>
       <DefaultText>Ein wohlhabender Adliger namens {0} ist in der Festung eingetroffen.</DefaultText>
-      <FemaleText>Eine wohlhabende Adlige namens {0} ist in der Festung eingetroffen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
@@ -282,7 +282,7 @@
     <Entry>
       <ID>55</ID>
       <DefaultText>{0}, ein Sklavenhalter aus Readceras, ist eingetroffen und möchte einen Gefangenen kaufen.</DefaultText>
-      <FemaleText>{0}, eine Sklavenhalterin aus Readceras, ist eingetroffen und möchte einen Gefangenen kaufen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>

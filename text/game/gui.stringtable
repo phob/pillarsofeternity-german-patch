@@ -7713,7 +7713,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1535</ID>
-      <DefaultText>Bereich: {0}</DefaultText>
+      <DefaultText>Wirkungsbereich: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7988,7 +7988,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1590</ID>
-      <DefaultText>Bereich: {0}</DefaultText>
+      <DefaultText>Wirkungsbereich: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8053,7 +8053,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1603</ID>
-      <DefaultText>{0} Einheiten</DefaultText>
+      <DefaultText>{0} Ziele</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8068,7 +8068,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1606</ID>
-      <DefaultText>Alle Einheiten</DefaultText>
+      <DefaultText>Alle Ziele</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8208,7 +8208,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1634</ID>
-      <DefaultText>Dauer: {0}</DefaultText>
+      <DefaultText>Wirkungsdauer: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8908,7 +8908,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1775</ID>
-      <DefaultText>Dauer: {0}</DefaultText>
+      <DefaultText>Wirkungsdauer: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

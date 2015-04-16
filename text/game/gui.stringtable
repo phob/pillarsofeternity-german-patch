@@ -2236,12 +2236,12 @@
     </Entry>
     <Entry>
       <ID>449</ID>
-      <DefaultText>{0} pro Begegnung</DefaultText>
+      <DefaultText>{0}-mal pro Begegnung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>450</ID>
-      <DefaultText>{0} pro Ruhephase</DefaultText>
+      <DefaultText>{0}-mal pro Ruhephase</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2505,6 +2505,7 @@ Bis an die Zähne bewaffnet - Alle Insel-Aumaua erhalten ein zusätzliches Waffe
       <DefaultText>Im gesamten östlichen Abschnitt bilden Kämpfer die vorderste Front disziplinierter Armeen. Obwohl sie am häufigsten in Kulturen anzutreffen sind, die eine organisierte Kriegsstruktur aufweisen, können Kämpfer auch als Söldner, Leibwächter und bei anderen Söldneraufgaben gesichtet werden. Das gemeinsame Element, dass Kämpfer vereint, ist ihr starker Fokus auf Ausdauer und Nahkampfverteidigung. 
 
 Anfängliche Fähigkeit:
+
 Konstante Erholung - Kämpfer regenerieren während des Kampfes mit bescheidener Rate kontinuierlich Ausdauer.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2513,6 +2514,7 @@ Konstante Erholung - Kämpfer regenerieren während des Kampfes mit bescheidener
       <DefaultText>Schurken sind heimtückische Mörder, die für die Brutalität ihrer Angriffe gefürchtet werden. Oft findet man sie in dunklen Seitengassen, aber auch im Herzen von Scharmützeln auf dem Schlachtfeld. Obgleich unberechenbar und undiszipliniert, werden Schurken oft als Stoßtrupp oder als Teil eines Überraschungsangriffes eingesetzt, bei dem ihre vernichtenden Angriffe die gegnerischen Reihen und deren Moral durchbrechen. Schurken tendieren dazu, sich in großer Zahl in Städten zu versammeln, wo sie stets als Söldner oder als Schläger angeheuert werden können. 
 
 Anfängliche Fähigkeit:
+
 Schleichangriff - Erhöht die Waffenangriffe des Schurken im Fern- und Nahkampf um einen Bonusschaden, wenn das Ziel mit einer der folgenden Wirkungen belegt ist: Geblendet, Flankiert, Humpelnd, Gelähmt, Versteinert, Niedergeschlagen, Bewegungsunfähig, Betäubt oder Geschwächt. Wird auch auf jedes Ziel angewendet, das der Schurke innerhalb der ersten 2 Sekunden des Kampfes mit einer Waffe trifft.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2521,7 +2523,9 @@ Schleichangriff - Erhöht die Waffenangriffe des Schurken im Fern- und Nahkampf 
       <DefaultText>Priester sind Anhänger von Eoras Gottheiten und Praktizierende religiöser Magie. Obwohl alle Priester sich einem spezifischen Gott widmen, rührt die tatsächliche Kraft des Priesters von seinen persönlichen Überzeugungen her. Im Gegensatz zu den meisten Paladinen tendieren Priester dazu, sich auf Philosophie, Lehre und die Beziehung zwischen religiösen Organisationen und dem gewöhnlichen Volk zu konzentrieren. In jedem beliebigen Teil der Welt hängt die Aufnahme von Priestern sehr stark davon ab, wie ihr Gott von den dort ansässigen Menschen, verehrt – oder verschmäht – wird. 
 
 Anfängliche Fähigkeiten:
+
 Heiliger Glanz - Generiert eine bescheidene Menge an Ausdauer für Verbündete in der Nähe des Priesters. Alle feindlichen Besessenen im Wirkungsbereich erleiden Brandschaden und werden möglicherweise Verängstigt. Im Laufe des Spiels kann die Macht dieser Fähigkeit sich verändern - basierend darauf, wie sehr der Ruf des Priesters mit dem von seiner Gottheit bevorzugten Verhalten im Einklang steht.
+
 Zauber - Priester haben Zugang zu verschiedenen Unterstützungszaubern und einigen Angriffszaubern. Bei jedem zweiten Stufenaufstieg erhält der Priester automatisch Zugang zu neuen Zaubern. Anfänglich können sie ihre Zauber nur begrenzt oft pro Ruhephase einsetzen. Wenn der Priester mächtiger wird, gehen seine schwächeren Zauber nach und nach zu einem Limit pro Begegnung über.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2530,7 +2534,9 @@ Zauber - Priester haben Zugang zu verschiedenen Unterstützungszaubern und einig
       <DefaultText>Die Meister der gelehrten Magie – Zauberer sind Schüler von geheimnisvollen Traditionen, die bis jenseits der aufgezeichneten Geschichte zurückreichen. Zauberer sind eine höchst organisierte Gruppe, die oftmals Akademien oder Gilden bilden, die sich der Forschung und der Ausbildung des magischen Studiums widmen. Sie bevorzugen dabei Umgebungen, in denen Nachforschungen, Experimentieren, Debattieren und die Verbreitung von Wissen gefördert wird. Viele ausgebildete Zauberer wurden schließlich für ihre Exzentrik, ihr Ego und ihr unstillbares Interesse an geheimen und okkulten Dingen bekannt. 
 
 Anfängliche Fähigkeiten:
+
 Arkaner Angriff - Angriff mit mittlerer Reichweite, der in einem kleinen Bereich direkten Schaden anrichtet und Ziele mit dem Status Benommen belegen kann.
+
 Zauber - Zauberer haben Zugang zu verschiedenen Angriffs- und persönlichen Verteidigungszaubern. Im Gegensatz zu Priestern und Druiden lernen Zauberer einzelne Zaubersprüche, die sie in ihren Zauberbüchern notieren und direkt von dort aus wirken. Zauberbücher können nur jeweils vier Zaubersprüche jeder Stufe beinhalten, weshalb Zauberer mehrere Zauberbücher für unterschiedliche Bedürfnisse mit sich tragen. Bei jedem zweiten Stufenaufstieg erhalten Zauberer Zugang zu neuen Zaubern. Allerdings können sie bei jedem Stufenaufstieg automatisch einen Zauberspruch einer beliebigen Stufe lernen, zu der sie bereits Zugang haben. Zauberer können außerdem Zaubersprüche aus Zauberbüchern lernen, die sie finden oder kaufen. Anfänglich können sie ihre Zauber nur begrenzt oft pro Ruhephase einsetzen. Wenn die Zauberer mächtiger werden, gehen ihre schwächeren Zauber nach und nach zu einem Limit pro Begegnung über.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2539,6 +2545,7 @@ Zauber - Zauberer haben Zugang zu verschiedenen Angriffs- und persönlichen Vert
       <DefaultText>Rohlinge. Wahnsinnige. Berserker. Obgleich Stadtbewohner den Begriff „Barbar“ oft mit einer Dosis Respektlosigkeit verwenden, werden die ländlichen Kämpfer von ihren Gemeinschaften für ihre Wildheit und ihre furchterregende Erscheinung auf dem Schlachtfeld respektiert. Barbaren spielen in manchen Kulturen eine spezielle, beinahe religiöse Rolle. Vielerorts ist der undisziplinierte, furchtlose Stil des Barbaren jedoch einfach die Art und Weise, wie Kämpfer sich verhalten. 
 
 Anfängliche Fähigkeit:
+
 Blutbad - Wenn der Barbar mit einem Nahkampfangriff trifft, führt er automatisch Angriffe mit verringertem Schaden auf alle anderen Feinde in einem geringen Umkreis um das Ziel herum aus.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2547,6 +2554,7 @@ Blutbad - Wenn der Barbar mit einem Nahkampfangriff trifft, führt er automatisc
       <DefaultText>Waldläufer sind Kämpfer aus dem Waldland und Meister der Jagd. Immer in Begleitung von seelengebundenen tierischen Gefährten findet man sie in wilden Gebieten auf der ganzen Welt. Da ihr Lebensstil oftmals in Richtung Unabhängigkeit und Isolation tendiert, ist es selten, dass Waldläufer zu einem integralem Bestandteil großer Streitkräfte werden, auch wenn sie oft als Aufklärer und Führer eingesetzt werden. 
 
 Anfängliche Fähigkeit:
+
 Tierischer Gefährte - Alle Waldläufer besitzen eine starke Verbindung zu einem tierischen Gefährten. Der Gefährte folgt im Kampf den Befehlen des Waldläufers und ist äußerst wertvoll, da er ihm den Rücken freihält. Tierische Gefährten verursachen nur wenig Schaden, besitzen aber eine hohe Schadensreduktion. Das Band zwischen dem Waldläufer und dem Gefährten ist stark. Wenn der eine im Kampf fällt, leidet auch der andere.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2555,7 +2563,9 @@ Tierischer Gefährte - Alle Waldläufer besitzen eine starke Verbindung zu einem
       <DefaultText>Als Animisten im Herzen zapfen Druiden jene spirituelle Kraft an, die durch die einfachen, lebenden Dinge in Eora strömt: Pflanzen, Tiere und manchmal sogar lebende Steine. Obwohl nicht unbedingt religiös, verehren Druiden die natürliche Welt und haben ein leidenschaftliches Interesse, ihre Mysterien zu verstehen. In den meisten Kulturen werden Druiden als eine Art Urmagier verstanden. Unter den Glanfathanern ,den Naasitaqis und vielen ländlichen Kulturen können sie jedoch hohe Positionen mit Einfluss und Autorität einnehmen. 
 
 Anfängliche Fähigkeiten:
+
 Geisterwandeln - Alle Druiden haben eine animalistische Gestalt gemeistert. Diese Gestalten verleihen dem Druiden starke Nahkampffähigkeiten. Außerdem besitzt der Druide in seiner tierischen Gestalt eine weitere Fähigkeit.
+
 Zauber - Der Druide hat Zugang zu verschiedenen Angriffs- und einigen Unterstützungszaubern. Bei jedem zweiten Stufenaufstieg erhält der Druide automatisch Zugang zu neuen Zaubern. Anfänglich können sie ihre Zauber nur begrenzt oft pro Ruhephase einsetzen. Wenn der Druide mächtiger wird, gehen seine schwächeren Zauber nach und nach zu einem Limit pro Begegnung über.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2564,6 +2574,7 @@ Zauber - Der Druide hat Zugang zu verschiedenen Angriffs- und einigen Unterstüt
       <DefaultText>Paladine sind kriegerische Fanatiker, die sich einem Gott, einem Herrscher oder sogar einer bestimmten Lebensweise widmen. Man findet sie in jeder Kultur, wo fanatische Gruppen gleichgesinnter Individuen eine Kriegergesellschaft gegründet haben, die sich ihrer Sache verschreibt. Unter jenen, die sich nach ihrer Weltanschauung ausrichten, werden Paladine mit Respekt und Bewunderung betrachtet, aber auch mit etwas Angst. Viele Paladine haben in Armeen und Söldnergesellschaften Führungspositionen inne, in der Hitze des Gefechts übergeht ihr Fanatismus jedoch oftmals die Befehlskette – und den gesunden Menschenverstand. 
 
 Anfängliche Fähigkeit:
+
 Glaube und Überzeugung - Paladine besitzen einen natürlichen Bonus auf alle ihre Verteidigungen. Im Laufe des Spiels kann der Wert dieses Bonus sich verändern - basierend darauf, wie sehr der Ruf des Paladins mit dem von seinem Orden bevorzugten Verhalten im Einklang steht.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2572,7 +2583,9 @@ Glaube und Überzeugung - Paladine besitzen einen natürlichen Bonus auf alle ih
       <DefaultText>Mönche gehören zu einer Vielzahl von Kampforden, die in den letzten Jahrhunderten in Ixamitl und dem Östlichen Abschnitt entstanden sind. Obwohl viele klösterliche Orden ihre Lehren bis auf ihren Beständigen Gründer, Tletac, zurückverfolgen können, variieren die individuellen Orden in ihrem Schwerpunkt, ihrer Moral und ihrer Ethik stark. Das gewöhnliche Volk respektiert die unglaubliche Disziplin der Mönche, betrachtet sie jedoch als eigenartigen, unberechenbaren Bund, der möglicherweise nicht bei völliger geistiger Gesundheit ist. Selbst Söldner und andere Abenteurer wissen nicht, was sie von ihnen halten sollen. 
 
 Anfängliche Fähigkeit:
+
 Überweltliches Leiden - Wenn Mönche keine Waffen ausgerüstet haben, sind ihre unbewaffneten Angriffe außergewöhnlich mächtig und ihr Schaden erhöht sich mit jedem Stufenaufstieg weiter.
+
 Wunden - Wenn ein Mönch Schaden erleidet, lässt ihr Schmerz Wunden entstehen. Wunden dienen für viele Spezialfähigkeiten des Mönchs als Energiequelle.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2581,6 +2594,7 @@ Wunden - Wenn ein Mönch Schaden erleidet, lässt ihr Schmerz Wunden entstehen. 
       <DefaultText>Medien sind im Östlichen&#160;Abschnitt erst seit kurzem bekannt. Von den Glanfathanern wurden sie einst als „Brîshalgwin“ („Verstandsjäger“) bezeichnet. Medien haben die Eigenschaft, sich mit der Seele und der Psyche einer anderen Person zu verbinden und sie zu manipulieren, indem sie sich der Essenz eines Verbündeten oder eines Feindes bedienen, um ihre Magie zu fokussieren. Auch wenn die meisten Medien immer noch im Östlichen Abschnitt anzutreffen sind, haben sich Praktizierende dieser Technik in der ganzen bekannten Welt verbreitet. Sie werden nach und nach akzeptiert, ihnen wird jedoch gewöhnlich nicht vertraut, besonders nicht von den Ungebildeten. 
 
 Anfängliche Fähigkeit:
+
 Kräfte - Medien können Verbündete und Feinde unmittelbar mit mächtigen Seeleneffekten belegen. Diese Kräfte kosten Fokus, welchen die Medien durch den Einsatz ihrer Seelenpeitsche aufbauen.</DefaultText>
       <FemaleText />
     </Entry>
@@ -2589,7 +2603,9 @@ Kräfte - Medien können Verbündete und Feinde unmittelbar mit mächtigen Seele
       <DefaultText>In jeder Kultur in Eora gibt es Sänger. Viele Historiker betrachten den Sänger als den ältesten Beruf, der mit Magie arbeitet. Seine heiligen Redewendungen ergreifen das kollektive Gedächtnis verirrter Seelen um ihn herum und überwältigen sie in einer Art Nachahmung dazu, magische Effekte zu generieren. In manchen Gesellschaften bilden Sänger organisierte Gruppen von Geschichtenerzählern und Forschern. In den meisten Teilen der Welt sind sie jedoch bloß ein altehrwürdiger Teil der lokalen Volkstraditionen. 
 
 Anfängliche Fähigkeiten:
+
 Phrasen/Gesänge - Alle Sänger können kontinuierlich Gesänge sprechen, die aus magischen Phrasen bestehen. Phrasen lösen passive Effekte aus und helfen, die Energie eines Sängers aufzubauen, bis er eine Beschwörung einsetzen kann.
+
 Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn sie durch ihre Gesänge die benötigte Anzahl an Phrasen gesprochen haben.</DefaultText>
       <FemaleText />
     </Entry>
@@ -4595,7 +4611,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>911</ID>
-      <DefaultText>Punkte bis zum Aufstieg</DefaultText>
+      <DefaultText>Punkte für Aufstieg</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5145,7 +5161,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1023</ID>
-      <DefaultText>Gibt {0}.</DefaultText>
+      <DefaultText>Gewährt Talent "{0}"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5735,7 +5751,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1141</ID>
-      <DefaultText>{0} Nahkampfschaden</DefaultText>
+      <DefaultText>{0} Nahkampf&#2060;schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6080,12 +6096,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1210</ID>
-      <DefaultText>{0} Nahkampfschaden</DefaultText>
+      <DefaultText>{0} Nahkampf&#2060;schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1211</ID>
-      <DefaultText>{0} Fernkampfschaden</DefaultText>
+      <DefaultText>{0} Fernkampf&#2060;schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6380,7 +6396,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1270</ID>
-      <DefaultText>{0} {1}-Stufe Zauberanwendungen</DefaultText>
+      <DefaultText>{0} Zauberanwendungen der Stufe {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6610,7 +6626,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1316</ID>
-      <DefaultText>{0} Alle Verteidigungen</DefaultText>
+      <DefaultText>{0} auf alle Verteidigungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7015,7 +7031,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1397</ID>
-      <DefaultText>Die Abenteurerei kann anstrengend sein. Das Reisen, das Kämpfen, das Klettern auf umgefallene Statuen kosten Kraft. Die Athletik-Fähigkeit wirkt gegen die Effekte angesammelter Müdigkeit, so dass Charaktere weiter wandern und länger kämpfen können, ehe sie mit einem Malus belegt werden. In Dialogen und geskripteten Interaktionen wird die Athletik für körperliche Aktivitäten wie Klettern, Schwimmen und Springen verwendet.</DefaultText>
+      <DefaultText>Die Abenteurerei kann anstrengend sein. Das Reisen, das Kämpfen, das Klettern auf umgefallene Statuen kosten Kraft. Die Athletik-Fähigkeit wirkt gegen die Effekte angesammelter Erschöpfung, so dass Charaktere weiter wandern und länger kämpfen können, ehe sie mit einem Malus belegt werden. In Dialogen und geskripteten Interaktionen wird die Athletik für körperliche Aktivitäten wie Klettern, Schwimmen und Springen verwendet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7697,7 +7713,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1535</ID>
-      <DefaultText>Wirkungsradius: {0}</DefaultText>
+      <DefaultText>Bereich: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7945,7 +7961,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
       <DefaultText>{0} {1}&#2060;schaden erlitten</DefaultText>
       <FemaleText />
     </Entry>
-    <Entry>
+    <Entry>Pri
       <ID>1585</ID>
       <DefaultText>{0} Rüstung-Geschwindigkeitsmalus</DefaultText>
       <FemaleText />
@@ -7972,7 +7988,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1590</ID>
-      <DefaultText>Wirkungsradius: {0}</DefaultText>
+      <DefaultText>Bereich: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8007,37 +8023,37 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1597</ID>
-      <DefaultText>Verbündet</DefaultText>
+      <DefaultText>Verbündete</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1598</ID>
-      <DefaultText>Feind</DefaultText>
+      <DefaultText>Feindliche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1599</ID>
-      <DefaultText>Freundlich</DefaultText>
+      <DefaultText>Befreundete</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1600</ID>
-      <DefaultText>{0} Ziel</DefaultText>
+      <DefaultText>{0}s Ziel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1601</ID>
-      <DefaultText>{0} {1} Ziel überspringen</DefaultText>
+      <DefaultText>{0} {1}s Sprungziel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1602</ID>
-      <DefaultText>{0} {1} Ziele überspringen</DefaultText>
+      <DefaultText>{0} {1} Sprungziele</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1603</ID>
-      <DefaultText>{0} Wirkungsradius</DefaultText>
+      <DefaultText>{0} Einheiten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8052,17 +8068,17 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1606</ID>
-      <DefaultText>Wirkungsradius</DefaultText>
+      <DefaultText>Alle Einheiten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1607</ID>
-      <DefaultText>{0} Ziel überspringen</DefaultText>
+      <DefaultText>{0} Sprungziel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1608</ID>
-      <DefaultText>{0} Ziele überspringen</DefaultText>
+      <DefaultText>{0} Sprungziele</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8072,7 +8088,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1610</ID>
-      <DefaultText>Nutzer</DefaultText>
+      <DefaultText>Anwender</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8087,12 +8103,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1613</ID>
-      <DefaultText>Ziele überspringen</DefaultText>
+      <DefaultText>Sprungziele</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1614</ID>
-      <DefaultText>{0} schubsen</DefaultText>
+      <DefaultText>{0} Zurückstoßen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8107,7 +8123,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1617</ID>
-      <DefaultText>{0} Aura</DefaultText>
+      <DefaultText>{0} in Aura</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8152,7 +8168,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1626</ID>
-      <DefaultText>{0} Überspringen</DefaultText>
+      <DefaultText>{0} Sprung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8162,12 +8178,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1628</ID>
-      <DefaultText>{0} Schildabwehr</DefaultText>
+      <DefaultText>{0} Schild&#2060;abwehr</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1629</ID>
-      <DefaultText>Schildabwehr-Bonus gilt auch für Reflexe.</DefaultText>
+      <DefaultText>Schild&#2060;abwehr-Bonus gilt auch für Reflexe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8297,17 +8313,20 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1656</ID>
-      <DefaultText>{0}% Max. Müdigkeit, {1}% Kampfmüdigkeit-Zuwachs</DefaultText>
+      <DefaultText>{0}% Max. Erschöpfung,
+{1}% Erschöpfungszuwachs im Kampf</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1657</ID>
-      <DefaultText>Verwende Schriftrollen der Stufe {0}</DefaultText>
+      <DefaultText>Stufe {0} Schriftrollen verwenden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1658</ID>
-      <DefaultText>Fallenentschärfung-Schwierigkeit {0}, Schlossknack-Schwierigkeit {1}, Fallengenauigkeit {2}</DefaultText>
+      <DefaultText>Stufe {0} Fallen entschärfen,
+Stufe {1} Schlösser knacken,
+{2} Fallengenauigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8407,7 +8426,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1678</ID>
-      <DefaultText>{0} Unterbrechungschance</DefaultText>
+      <DefaultText>{0} Unterbrechung&#2060;schance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8707,7 +8726,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1739</ID>
-      <DefaultText>{0} Alle Verteidigungen außer Abwehr</DefaultText>
+      <DefaultText>{0} auf alle Verteidigungen außer Abwehr</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8819,7 +8838,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1761</ID>
-      <DefaultText>{0} bis Schaden</DefaultText>
+      <DefaultText>{0} bis Schaden erlitten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8889,7 +8908,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1775</ID>
-      <DefaultText>Wirkungsbereich-Dauer: {0}</DefaultText>
+      <DefaultText>Dauer: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8989,7 +9008,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1795</ID>
-      <DefaultText>Talente können verwendet werden, um deinen Charakter über deine Klassenfähigkeiten hinaus anzupassen. Einige Talente modifizieren bestehende Fähigkeiten, andere fügen völlig eigenständige neue Fähigkeiten hinzu. Manche Talente sind klassenspezifisch, die meisten können jedoch von Charaktern aller Klassen übernommen werden.</DefaultText>
+      <DefaultText>Talente können verwendet werden, um deinen Charakter über deine Klassenfähigkeiten hinaus anzupassen. Einige Talente modifizieren bestehende Fähigkeiten, andere fügen völlig eigenständige neue Fähigkeiten hinzu. Manche Talente sind klassenspezifisch, die meisten können jedoch von Charakteren aller Klassen übernommen werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -569,12 +569,12 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Dominiert</DefaultText>
+      <DefaultText>Beherrscht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Ein dominiertes Ziel unterwirft sich dem Willen des Feindes und nutzt alle Mittel, die ihm zur Verfügung stehen, um seine früheren Kameraden anzugreifen. Dominiert-Effekte sind stärker als Bezaubert-Effekte und heben diese auf. Dominiert ist exklusiv, das heißt ein Charakter kann nie mit mehr als einem Dominiert-Effekt gleichzeitig belegt sein. Ein neuer Effekt hebt einen bestehenden Effekt auf.</DefaultText>
+      <DefaultText>Ein beherrschtes Ziel unterwirft sich dem Willen des Feindes und nutzt alle Mittel, die ihm zur Verfügung stehen, um seine früheren Kameraden anzugreifen. Beherrscht-Effekte sind stärker als Bezaubert-Effekte und heben diese auf. Beherrscht ist exklusiv, das heißt ein Charakter kann nie mit mehr als einem Beherrscht-Effekt gleichzeitig belegt sein. Ein neuer Effekt hebt einen bestehenden Effekt auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -669,12 +669,12 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>Geschockt</DefaultText>
+      <DefaultText>Verschreckt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>Entschlossenheit und Gewandtheit werden jeweils um 4 reduziert. Genauigkeit wird für alle Quellen um 20 reduziert. Geschockt-Effekte sind stärker als Verängstigt-Effekte und heben diese auf.</DefaultText>
+      <DefaultText>Entschlossenheit und Gewandtheit werden jeweils um 4 reduziert. Genauigkeit wird für alle Quellen um 20 reduziert. Verschreckt-Effekte sind stärker als Verängstigt-Effekte und heben diese auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

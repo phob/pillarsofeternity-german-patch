@@ -326,7 +326,7 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Sturmangriff der Begeisterung</DefaultText>
+      <DefaultText>Eifriger Sturmangriff</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1161,7 +1161,7 @@
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>Ein Ruf nach der Gunst der Götter, durch den die Genauigkeit und die Verteidigung aller Verbündeten im Wirkungsbereich erhöht wird.</DefaultText>
+      <DefaultText>Ein Ruf nach der Gunst der Götter, durch den Genauigkeit und Schaden aller Verbündeten im Wirkungsbereich erhöht wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1196,7 +1196,7 @@
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>Erzeugt eine langsame, energiegeladene Projektion des Glaubens des Priesters, durch die alle Verbündeten an Ausdauer gewinnen und alle Feinde Frostschaden erleiden.</DefaultText>
+      <DefaultText>Erzeugt eine sich langsam bewegende, energiegeladene Projektion des Glaubens des Priesters, durch die alle Verbündeten an Ausdauer gewinnen und alle Feinde Frostschaden erleiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1221,7 +1221,7 @@
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Quälender Zweifel am unerschütterlichen Glauben überfällt Feinde im Wirkungsbereich und verringert ihre Nahkampfgenauigkeit und die Reichweite ihrer Kritischen Treffer.</DefaultText>
+      <DefaultText>Quälender Zweifel im Angesicht unerschütterlichen Glaubens überfällt Feinde im Wirkungsbereich und verringert ihre Nahkampfgenauigkeit und die Wahrscheinlichkeit eines Kritischen Treffers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1231,12 +1231,12 @@
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>Beschwört eine Säule göttlichen Urteils, die Feinden im Wirkungsbereich Wuchtschaden zufügt und sie niederstreckt.</DefaultText>
+      <DefaultText>Beschwört eine Säule göttlichen Urteils, die Feinden im Wirkungsbereich Wuchtschaden zufügt und sie niederschlägt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>Belegt das Ziel mit einer ansteckenden und hemmenden Krankheit, die es behindert und schwächt, bevor sie auf andere Feinde überspringt.</DefaultText>
+      <DefaultText>Belegt das Ziel mit einer ansteckenden und kräftezehrenden Krankheit, die es behindert und schwächt, bevor sie auf andere Feinde überspringt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1351,7 +1351,7 @@
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>Das Gesicht des Zauberwirkers wird zu einer albtraumhaften, verrottenden Maske aus von Insekten zerfressenem Fleisch oder anderen Bildern unaussprechlicher Schrecken, wodurch alle Feinde in der Umgebung geschockt werden und erkranken.</DefaultText>
+      <DefaultText>Das Gesicht des Zauberwirkers wird zu einer albtraumhaften, verrottenden Maske aus von Insekten zerfressenem Fleisch oder anderen Bildern unaussprechlicher Schrecken, wodurch alle Feinde in der Umgebung verschreckt werden und erkranken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1461,7 +1461,7 @@
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>Befiehlt einem besinnungslosen Verbündeten, sich zurückzuziehen, und verleiht ihm einen großen, jedoch vorübergehenden Schub auf Ausdauer – die Hälfte davon ist nach kurzer Zeit aufgebraucht.</DefaultText>
+      <DefaultText>Ermöglicht einem bewusstlosen Verbündeten, sich zu erholen und stellt zeitlich begrenzt einen großen Teil dessen Ausdauer wieder her – die Hälfte davon geht nach kurzer Zeit verloren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1546,7 +1546,7 @@
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>Lediglich durch seinen Glauben angetrieben ist der Paladin in der Lage, mit der Berührung seiner Hände zu heilen, wobei er eine erheblich Menge an Ausdauer des Paladins oder eines Verbündeten in Reichweite regeneriert.</DefaultText>
+      <DefaultText>Lediglich durch seinen Glauben angetrieben, ist der Paladin in der Lage, mit der Berührung seiner Hände zu heilen. Dabei regeneriert er eine erhebliche Menge seiner Ausdauer oder die eines Verbündeten in Reichweite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2446,7 +2446,7 @@
     </Entry>
     <Entry>
       <ID>504</ID>
-      <DefaultText>Aktiviert plötzlich die Leidenschaft der Gruppe, wodurch diese einen Bonus auf Bezaubern und Dominieren erhalten. Außerdem wird die Dauer aller bereits auf dem Ziel vorhandenen Wirkungen verringert.</DefaultText>
+      <DefaultText>Aktiviert plötzlich die Leidenschaft der Gruppe, wodurch diese einen Bonus auf Bezaubert und Beherrscht erhalten. Außerdem wird die Dauer aller bereits auf dem Ziel vorhandenen Wirkungen verringert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3006,7 +3006,7 @@
     </Entry>
     <Entry>
       <ID>618</ID>
-      <DefaultText>Dominieren</DefaultText>
+      <DefaultText>Beherrschen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3291,7 +3291,7 @@
     </Entry>
     <Entry>
       <ID>675</ID>
-      <DefaultText>Dominieren</DefaultText>
+      <DefaultText>Beherrschen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3516,32 +3516,32 @@
     </Entry>
     <Entry>
       <ID>720</ID>
-      <DefaultText>Waffenschwerpunkt Abenteurer</DefaultText>
+      <DefaultText>Waffenschwerpunkt: Abenteurer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>721</ID>
-      <DefaultText>Waffenschwerpunkt Ritter</DefaultText>
+      <DefaultText>Waffenschwerpunkt: Ritter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>722</ID>
-      <DefaultText>Waffenschwerpunkt Edelmann</DefaultText>
+      <DefaultText>Waffenschwerpunkt: Edelmann</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>723</ID>
-      <DefaultText>Waffenschwerpunkt Bauer</DefaultText>
+      <DefaultText>Waffenschwerpunkt: Bauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>724</ID>
-      <DefaultText>Waffenschwerpunkt Raufbold</DefaultText>
+      <DefaultText>Waffenschwerpunkt: Raufbold</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>725</ID>
-      <DefaultText>Waffenschwerpunkt Soldat</DefaultText>
+      <DefaultText>Waffenschwerpunkt: Soldat</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4581,32 +4581,32 @@
     </Entry>
     <Entry>
       <ID>933</ID>
-      <DefaultText>Trainiert den Charakter im Einsatz von Streitaxt, Panzerbrecher, Flegel, Zauberstab und Kriegsbogen, wodurch seine Genauigkeit im Umgang mit all diesen Waffen steigt.</DefaultText>
+      <DefaultText>Trainiert den Charakter im Einsatz von Mordaxt, Panzerbrecher, Streitflegel, Zauberstab und Kriegsbogen, wodurch seine Genauigkeit im Umgang mit all diesen Waffen steigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>934</ID>
-      <DefaultText>Trainiert den Charakter im Einsatz von Kampfaxt, Schwert, Morgenstern und Armbrust, wodurch seine Genauigkeit im Umgang mit all diesen Waffen steigt.</DefaultText>
+      <DefaultText>Trainiert den Charakter im Einsatz von Streitaxt, Schwert, Morgenstern und Armbrust, wodurch seine Genauigkeit im Umgang mit all diesen Waffen steigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>935</ID>
-      <DefaultText>Trainiert den Charakter im Einsatz von Dolch, Degen, Streitkolben, Zepter und Stab, wodurch seine Genauigkeit im Umgang mit all diesen Waffen steigt.</DefaultText>
+      <DefaultText>Trainiert den Charakter im Einsatz von Dolch, Rapier, Streitkolben, Zepter und Stab, wodurch seine Genauigkeit im Umgang mit all diesen Waffen steigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>936</ID>
-      <DefaultText>Trainiert den Charakter im Einsatz von Beil, Speer, Kampfstab, Jagdbogen und  Unbewaffnet, wodurch seine Genauigkeit im Umgang mit all diesen Waffen steigt.</DefaultText>
+      <DefaultText>Trainiert den Charakter im Einsatz von Beil, Speer, Kampfstab und Jagdbogen, sowie im waffenlosen Kampf, wodurch seine Genauigkeit im Umgang mit all diesen Waffen steigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>937</ID>
-      <DefaultText>Trainiert den Charakter im Einsatz von Säbel, Stilett, Knüppel, Pistole und Donnerbüchse, wodurch seine Genauigkeit im Umgang mit all diesen Waffen steigt.</DefaultText>
+      <DefaultText>Trainiert den Charakter im Einsatz von Säbel, Stilett, Keule, Pistole und Donnerbüchse, wodurch seine Genauigkeit im Umgang mit all diesen Waffen steigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>938</ID>
-      <DefaultText>Trainiert den Charakter im Einsatz von Großschwert, Pike, Kriegshammer, Arbalest und Arkebuse, wodurch seine Genauigkeit im Umgang mit all diesen Waffen steigt.</DefaultText>
+      <DefaultText>Trainiert den Charakter im Einsatz von Zweihänder, Pike, Kriegshammer, Arbalest und Arkebuse, wodurch seine Genauigkeit im Umgang mit all diesen Waffen steigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4916,32 +4916,32 @@
     </Entry>
     <Entry>
       <ID>1000</ID>
-      <DefaultText>Waffenspezialisierung verleiht einen Schadensbonus auf alle von der gewählten Spezialisierung abgedeckten Waffen. Zu Abenteurerwaffen zählen Panzerbrecher, Flegel, Streitaxt, Zauberstab und Kriegsbogen.</DefaultText>
+      <DefaultText>Waffenspezialisierung verleiht einen Schadensbonus auf alle von der gewählten Spezialisierung abgedeckten Waffen. Zu Abenteurerwaffen zählen Mordaxt, Panzerbrecher, Streitflegel, Zauberstab und Kriegsbogen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1001</ID>
-      <DefaultText>Waffenspezialisierung verleiht einen Schadensbonus auf alle von der gewählten Spezialisierung abgedeckten Waffen. Zu Ritterwaffen zählen Waffen der Typen Kampfaxt, Armbrust, Morgenstern und Schwert.</DefaultText>
+      <DefaultText>Waffenspezialisierung verleiht einen Schadensbonus auf alle von der gewählten Spezialisierung abgedeckten Waffen. Zu Ritterwaffen zählen Streitaxt, Schwert, Morgenstern und Armbrust.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1002</ID>
-      <DefaultText>Waffenspezialisierung verleiht einen Schadensbonus auf alle von der gewählten Spezialisierung abgedeckten Waffen. Zu Edelmann-Waffen zählen Waffen der Typen Dolch, Streitkolben, Degen, Stab und Zepter.</DefaultText>
+      <DefaultText>Waffenspezialisierung verleiht einen Schadensbonus auf alle von der gewählten Spezialisierung abgedeckten Waffen. Zu Edelmann-Waffen zählen Dolch, Rapier, Streitkolben, Zepter und Stab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1003</ID>
-      <DefaultText>Waffenspezialisierung verleiht einen Schadensbonus auf alle von der gewählten Spezialisierung abgedeckten Waffen. Zu Bauernwaffen zählen Waffen der Typen Beil, Jagdbogen, Kampfstab, Speer und Unbewaffnet.</DefaultText>
+      <DefaultText>Waffenspezialisierung verleiht einen Schadensbonus auf alle von der gewählten Spezialisierung abgedeckten Waffen. Zu Bauernwaffen zählen Beil, Speer, Kampfstab und Jagdbogen, sowie der waffenlose Kampf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1004</ID>
-      <DefaultText>Waffenspezialisierung verleiht einen Schadensbonus auf alle von der gewählten Spezialisierung abgedeckten Waffen. Zu Raufbold-Waffen zählen Waffen der Typen Donnerbüchse, Knüppel, Pistole, Säbel und Stilett.</DefaultText>
+      <DefaultText>Waffenspezialisierung verleiht einen Schadensbonus auf alle von der gewählten Spezialisierung abgedeckten Waffen. Zu Raufbold-Waffen zählen Säbel, Stilett, Keule, Pistole und Donnerbüchse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1005</ID>
-      <DefaultText>Waffenspezialisierung verleiht einen Schadensbonus auf alle von der gewählten Spezialisierung abgedeckten Waffen. Zu Soldatenwaffen zählen Arbalest, Arkebuse, Großschwert, Pike und Kriegshammer.</DefaultText>
+      <DefaultText>Waffenspezialisierung verleiht einen Schadensbonus auf alle von der gewählten Spezialisierung abgedeckten Waffen. Zu Soldatenwaffen zählen Zweihänder, Pike, Kriegshammer, Arbalest und Arkebuse.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5180,7 +5180,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1048</ID>
-      <DefaultText>Stärkt die Verteidigungen des Charakters gegen die Wirkungen Bezaubert, Verwirrt, Beherrscht, Verängstigt und Geschockt.</DefaultText>
+      <DefaultText>Stärkt die Verteidigungen des Charakters gegen die Wirkungen Bezaubert, Verwirrt, Beherrscht, Verängstigt und Verschreckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5245,7 +5245,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1061</ID>
-      <DefaultText>Die Waffe des Charakters wird mit einer Mischung aus tierischen und pflanzlichen Giften getränkt - und fügt dem Ziel mit der Zeit Direktschaden zu.</DefaultText>
+      <DefaultText>Die Waffe des Charakters wird mit einer Mischung aus tierischen und pflanzlichen Giften getränkt und fügt dem Ziel mit der Zeit Direktschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5295,7 +5295,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1071</ID>
-      <DefaultText>Eine spezialisierte Ausbildung erhöht die Angriffsgeschwindigkeit des Charakters, wenn er in jeder Hand eine Waffe einsetzt.</DefaultText>
+      <DefaultText>Die spezialisierte Ausbildung erhöht die Angriffsgeschwindigkeit des Charakters, wenn er in jeder Hand eine Waffe einsetzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5305,7 +5305,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1073</ID>
-      <DefaultText>Eine spezialisierte Ausbildung erhöht die Angriffsgeschwindigkeit des Charakters, wenn er in jeder Hand eine Waffe einsetzt.</DefaultText>
+      <DefaultText>Die spezialisierte Ausbildung erhöht die Angriffsgeschwindigkeit des Charakters, wenn er in jeder Hand eine Waffe einsetzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5360,7 +5360,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1084</ID>
-      <DefaultText>Erhöht den von Werkzeugen (Zauberstäbe, Zeptern und Stäben) angerichteten Schaden, fügt dem Charakter jedoch mit jedem Angriff eine kleine Menge Direktschaden zu.</DefaultText>
+      <DefaultText>Erhöht den von Werkzeugen (Zauberstäbe, Zeptern und Stäben) angerichteten Schaden, fügt dem Anwender jedoch mit jedem Angriff eine kleine Menge Direktschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5530,7 +5530,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1118</ID>
-      <DefaultText>Ehrenwerter Rückzug</DefaultText>
+      <DefaultText>Anmutiger Rückzug</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5540,12 +5540,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1120</ID>
-      <DefaultText>Wildtiertöter</DefaultText>
+      <DefaultText>Bestienschlächter</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1121</ID>
-      <DefaultText>Verleiht einen Schadensbonus gegen alle Wildtiere.</DefaultText>
+      <DefaultText>Verleiht einen Schadensbonus gegen alle Bestien.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5640,7 +5640,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1140</ID>
-      <DefaultText>Anfälliger Angriff</DefaultText>
+      <DefaultText>Empfindlicher Angriff</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6030,7 +6030,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1218</ID>
-      <DefaultText>Die treuen Anhänger von Eothas erhalten einen Genauigkeitsbonus mit dem Flegel und dem Morgenstern und können einen Heilzauber wirken, der die Dauer der Wirkungen Verängstigt und Geschockt verringert.</DefaultText>
+      <DefaultText>Die treuen Anhänger von Eothas erhalten einen Genauigkeitsbonus mit dem Flegel und dem Morgenstern und können einen Heilzauber wirken, der die Dauer der Wirkungen Verängstigt und Verschreckt verringert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6155,7 +6155,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1243</ID>
-      <DefaultText>Heilt und verkürzt die Wirkung von Verängstigt und Geschockt.</DefaultText>
+      <DefaultText>Heilt und verkürzt die Wirkung von Verängstigt und Verschreckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

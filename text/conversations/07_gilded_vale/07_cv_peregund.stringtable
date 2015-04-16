@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>"Verdammtes Pech", murmelt die Frau, als sie mit ihrem Fuß in die Erde tritt und dadurch einen Erdklumpen umdreht. Als du dich näherst, zucken ihre Ohren, worauf sie sich umdreht, um dich zu begrüßen.
 
-"Heil, Reisender", sagt sie, begleitet von einem halbherzigen Winken. "Die Brücke nach Trutzbucht ist außer Betrieb. Wenn du dorthin unterwegs bist, musst du dir eine andere Route suchen."</DefaultText>
+"Heil, Reisender", sagt sie, begleitet von einem halbherzigen Winken. "Die Brücke nach Trutzbucht ist unpassierbar. Wenn du dorthin unterwegs bist, musst du dir eine andere Route suchen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -20,7 +20,7 @@
       <ID>3</ID>
       <DefaultText>"Der Fluss ist aufgrund all der Stürme ziemlich angestiegen. Hier, bei der Flussenge, haben die Fluten den größten Schaden angerichtet."
 
-Die Orlanerin verschränkt die Arme, während sich ein Stirnrunzeln auf ihrem Gesicht breitmacht. "Hier wird wohl nicht so gebaut, dass das Zeug auch ein bisschen hält, was? Eine der Steinsäulen ist während einer Sturzflut eingestürzt, worauf der gesamte Mittelteil der Brücke hinaus ins Meer gerissen wurde."</DefaultText>
+Die Orlanerin verschränkt die Arme, während sich ein Stirnrunzeln auf ihrem Gesicht breitmacht. "Hier wird wohl nichts so gebaut, das es von Dauer ist, was? Eine der Steinsäulen ist während einer Sturzflut eingestürzt, worauf der gesamte Mittelteil der Brücke hinaus ins Meer gerissen wurde."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -172,7 +172,7 @@ Sie hört endlich auf, mit ihrem Fuß auszutreten, und stößt einen langen Seuf
       <ID>51</ID>
       <DefaultText>"Als ich an der Küste umherstreifte, um nicht gesunkene Frachtkisten zu bergen, wurde ich zu allem Übel auch noch von zwei Plünderern angegriffen!" Sie stampft mit einem Fuß auf den Boden. "Diese verdammten Briganten besaßen die Frechheit, anzugreifen! Ich konnte ihnen unverletzt entkommen, aber ... aber jetzt haben sie mit Gewalt alles gestohlen, was von meinem Vermögen übrig ist."
 
-Sie äugt dich einen langen Augenblick lang an, während sie ihr Kinn mit einer Hand umfasst. "Ach weißt du ... du siehst so aus, als würdest du dich gegen diese Plünderer viel besser schlagen als ich alte, kleine Frau ... Könnte ich dich zur Unterstützung anwerben?"</DefaultText>
+Sie beäugt dich einen langen Augenblick, während sie ihr Kinn mit einer Hand umfasst. "Ach weißt du ... du siehst so aus, als würdest du dich gegen diese Plünderer viel besser schlagen als ich alte, kleine Frau ... Könnte ich dich zur Unterstützung anwerben?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

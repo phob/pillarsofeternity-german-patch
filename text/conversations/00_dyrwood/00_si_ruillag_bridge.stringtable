@@ -28,8 +28,8 @@ Auf der gegenüberliegenden Seite siehst du einen Weg, der tief in den Berg hine
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Die Kluft wurde von [SkillCheck 0] falsch eingeschätzt, doch er schafft es gerade so hinüber, verstaucht sich dabei aber ein Handgelenk.</DefaultText>
-      <FemaleText>Die Kluft wurde von [SkillCheck 0] falsch eingeschätzt, doch sie schafft es gerade so hinüber, verstaucht sich dabei aber ein Handgelenk.</FemaleText>
+      <DefaultText>[SkillCheck 0] hat die Kluft falsch eingeschätzt und schafft es gerade so hinüber, verstaucht sich dabei aber ein Handgelenk.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

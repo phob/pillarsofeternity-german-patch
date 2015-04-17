@@ -28,8 +28,8 @@ Auf der anderen Seite siehst du ein bewaldetes Tal. Du bist eventuell in der Lag
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Die Kluft wird von [SkillCheck 0] überwunden, er verdreht sich allerdings beim Landen einen Knöchel.</DefaultText>
-      <FemaleText>Die Kluft wird von [SkillCheck 0] überwunden, sie verdreht sich allerdings beim Landen einen Knöchel.</FemaleText>
+      <DefaultText>[SkillCheck 0] überwindet die Kluft, verstauchte sich allerdings beim Landen einen Knöchel.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

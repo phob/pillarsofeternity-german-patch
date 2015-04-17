@@ -186,7 +186,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Du ignorierst der Bittsteller, worauf er die Festung verlässt.</DefaultText>
+      <DefaultText>Du ignorierst den Bittsteller, worauf er die Festung verlässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -237,22 +237,22 @@
     <Entry>
       <ID>46</ID>
       <DefaultText>{0}, ein grausamer Herrscher aus dem Norden, ist in der Festung eingetroffen.</DefaultText>
-      <FemaleText>{0}, eine grausame Herrscherin aus dem Norden, ist in der Festung eingetroffen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>{0}, ein hiesiger Dorftrottel, ist in die Festung spaziert und beabsichtigt, eine Weile zu bleiben.</DefaultText>
-      <FemaleText>{0}, eine hiesige Dorftrottelin, ist in die Festung spaziert und beabsichtigt, eine Weile zu bleiben.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
       <DefaultText>Ein gesuchter Verbrecher namens {0} ist in der Festung eingetroffen.</DefaultText>
-      <FemaleText>Eine gesuchte Verbrecherin namens {0} ist in der Festung eingetroffen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
       <DefaultText>{0}, ein alter Held aus dem Krieg des Heiligen, ist in der Festung eingetroffen.</DefaultText>
-      <FemaleText>{0}, eine alte Heldin aus dem Krieg des Heiligen, ist in der Festung eingetroffen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
@@ -262,12 +262,12 @@
     <Entry>
       <ID>51</ID>
       <DefaultText>{0}, ein aedyranischer Würdenträger, ist in der Festung eingetroffen.</DefaultText>
-      <FemaleText>{0}, eine aedyranische Würdenträgerin, ist in der Festung eingetroffen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
       <DefaultText>{0}, ein Händler für exotische Waren, ist in der Festung eingetroffen und bietet seltene Gegenstände feil.</DefaultText>
-      <FemaleText>{0}, eine Händlerin für exotische Waren, ist in der Festung eingetroffen und bietet seltene Gegenstände feil.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
@@ -277,7 +277,7 @@
     <Entry>
       <ID>54</ID>
       <DefaultText>Ein entfernter Verwandter von {1} ist in der Festung eingetroffen und bittet darum, sie für Geld auslösen zu dürfen.</DefaultText>
-      <FemaleText>Eine entfernte Verwandte von {1} ist in der Festung eingetroffen und bittet darum, sie für Geld auslösen zu dürfen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
@@ -287,7 +287,7 @@
     <Entry>
       <ID>56</ID>
       <DefaultText>{0}, ein Beseeler, ist eingetroffen und bittet um einen Gefangenen, um an ihm zu experimentieren.</DefaultText>
-      <FemaleText>{0}, eine Beseelerin, ist eingetroffen und bittet um einen Gefangenen, um an ihm zu experimentieren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>

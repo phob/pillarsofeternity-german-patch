@@ -6666,7 +6666,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1324</ID>
-      <DefaultText>{0} {1} {2}.</DefaultText>
+      <DefaultText>{0} landet {1} bei {2}:</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7733,7 +7733,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1539</ID>
-      <DefaultText>Beschwören: {0}</DefaultText>
+      <DefaultText>Beschwört: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7983,7 +7983,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1589</ID>
-      <DefaultText>Gefahrenradius</DefaultText>
+      <DefaultText>Einheiten im Gefahrengebiet</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8008,7 +8008,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1594</ID>
-      <DefaultText>{0} Gefahr</DefaultText>
+      <DefaultText>{0} Einheiten im Gefahrengebiet</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8053,7 +8053,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1603</ID>
-      <DefaultText>{0} Ziele</DefaultText>
+      <DefaultText>{0} Einheiten im Wirkungsbereich</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8068,7 +8068,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1606</ID>
-      <DefaultText>Alle Ziele</DefaultText>
+      <DefaultText>Einheiten im Wirkungsbereich</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8123,12 +8123,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1617</ID>
-      <DefaultText>{0} in Aura</DefaultText>
+      <DefaultText>{0} Einheiten in Aura</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1618</ID>
-      <DefaultText>Aura</DefaultText>
+      <DefaultText>Einheiten in Aura</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8228,12 +8228,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1638</ID>
-      <DefaultText>Strahl</DefaultText>
+      <DefaultText>Einheiten in Strahl</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1639</ID>
-      <DefaultText>{0} Strahl</DefaultText>
+      <DefaultText>{0} Einheiten in Strahl</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

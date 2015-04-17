@@ -514,7 +514,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Durch die Reflexe-Verteidigung kann der Verteidiger physisch schädlichen Wirkungsbereichangriffen ausweichen (z.B. Explosionen, Blitzschlägen). Sie wird durch die Klasse des Charakters, seine Stufe, seine Gewandtheit und seine Wahrnehmung definiert, kann aber auch durch andere Effekte beeinflusst werden.</DefaultText>
+      <DefaultText>Durch seine Reflexe kann der Verteidiger physisch schädlichen Wirkungsbereichangriffen ausweichen (z.B. Explosionen, Blitzschlägen). Sie werden durch die Klasse des Charakters, seine Stufe, seine Gewandtheit und seine Wahrnehmung bestimmt, können aber auch durch andere Effekte beeinflusst werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -524,7 +524,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Die Wille-Verteidigung widersetzt sich mentalen Angriffen (z.B. einem Zauber, der das Ziel mental lähmt). Sie wird durch die Klasse des Charakters, seine Stufe, seinen Intellekt und seine Entschlossenheit definiert, kann aber auch durch andere Effekte beeinflusst werden.</DefaultText>
+      <DefaultText>Mit seinem Wille widersetzt sich ein Charakter mentalen Angriffen (z.B. einem Zauber, der das Ziel mental lähmt). Er wird durch die Klasse des Charakters, seine Stufe, seinen Intellekt und seine Entschlossenheit definiert, kann aber auch durch andere Effekte beeinflusst werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -694,7 +694,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Charaktere mit geprellten Rippen werden mit einem Malus auf ihre Tapferkeit-Verteidigung und ihre Verfassung belegt.</DefaultText>
+      <DefaultText>Charaktere mit geprellten Rippen werden mit einem Malus auf ihre Tapferkeit und ihre Verfassung belegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -704,7 +704,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Gehirnerschütterungen belegen den Intellekt sowie die Wille-Verteidigung des Charakters mit einem Malus.</DefaultText>
+      <DefaultText>Gehirnerschütterungen belegen den Intellekt sowie den Wille des Charakters mit einem Malus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -794,9 +794,9 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>In Pillars of Eternity gibt es vier Verteidigungen: Abwehr, Tapferkeit, Reflexe und Wille. Jede Verteidigung dient als Schutz gegen eine andere Kategorie von Angriffen durch den Angriffswurf. Abwehr dient als Schutz gegen die meisten direkten Waffenangriffe oder Angriffe, die Waffen ähneln. Tapferkeit bietet Schutz gegen körperliche Versuche, einen Charakter zu überwältigen oder seinen Körper innerlich anzugreifen (z.B. durch ein Gift). Körperliche Wirkungsbereichsangriffe wie Feuerbälle oder Blitze werden durch die Reflexe abgeschwächt. Fast alle mentalen Angriffe treffen auf die Wille-Verteidigung.
+      <DefaultText>In Pillars of Eternity gibt es vier Verteidigungen: Abwehr, Tapferkeit, Reflexe und Wille. Jede Verteidigung dient als Schutz gegen eine andere Kategorie von Angriffen durch den Angriffswurf. Abwehr dient als Schutz gegen die meisten direkten Waffenangriffe oder Angriffe, die Waffen ähneln. Tapferkeit bietet Schutz gegen körperliche Versuche, einen Charakter zu überwältigen oder seinen Körper innerlich anzugreifen (z.B. durch ein Gift). Körperliche Wirkungsbereichsangriffe wie Feuerbälle oder Blitze werden durch die Reflexe abgeschwächt. Fast alle mentalen Angriffe müssen den Wille des Ziels überwinden.
 
-Tapferkeit, Reflexe und Wille basieren alle auf Attributspaaren. Macht und Verfassung definieren die Tapferkeit. Geschicklichkeit und Wahrnehmung definieren die Reflexe, und Intellekt und Entschlossenheit definieren den Willen. Die Basisabwehr wird durch die Wahrnehmung und die Entschlossenheit des Charakters definiert. Alle Charaktere erhalten mit jedem Stufenaufstieg pauschale Boni auf ihre Verteidigungen. Darüber hinaus können Zauber, Fähigkeiten, Wirkungen und Gegenstände die Verteidigungen eines Charakters modifizieren.</DefaultText>
+Tapferkeit, Reflexe und Wille basieren alle auf Attributspaaren. Macht und Verfassung definieren die Tapferkeit. Geschicklichkeit und Wahrnehmung definieren die Reflexe, und Intellekt und Entschlossenheit definieren den Wille. Die Basisabwehr wird durch die Wahrnehmung und die Entschlossenheit des Charakters definiert. Alle Charaktere erhalten mit jedem Stufenaufstieg pauschale Boni auf ihre Verteidigungen. Darüber hinaus können Zauber, Fähigkeiten, Wirkungen und Gegenstände die Verteidigungen eines Charakters modifizieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Wer ist sie?"</DefaultText>
+      <DefaultText>"Wer ist denn die Gesuchte?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,8 +26,8 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Eine wie alle anderen in diesem verdammten Dorf." Er seufzt. "Vielleicht könntest du trotzdem in der Schänke mit Fürst Harond sprechen. Er wäre dir für deine Hilfe sicherlich sehr dankbar, außerdem sagen dir die Einheimischen vielleicht mehr über das Verschwinden seiner Tochter als uns."</DefaultText>
-      <FemaleText />
+      <DefaultText>"Einer wie alle anderen in diesem verdammten Dorf." Er seufzt. "Vielleicht könntest du trotzdem in der Schänke mit Fürst Harond sprechen. Er wäre dir für deine Hilfe sicherlich sehr dankbar, außerdem sagen dir die Einheimischen vielleicht mehr über das Verschwinden seiner Tochter als uns."</DefaultText>
+      <FemaleText>"Eine wie alle anderen in diesem verdammten Dorf." Er seufzt. "Vielleicht könntest du trotzdem in der Schänke mit Fürst Harond sprechen. Er wäre dir für deine Hilfe sicherlich sehr dankbar, außerdem sagen dir die Einheimischen vielleicht mehr über das Verschwinden seiner Tochter als uns." </FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Solltest du Lady Aelys finden, dann eskortiere sie mit aller Eile zur Dracogen-Schänke."</DefaultText>
+      <DefaultText>"Solltest du Lady Aelys finden, dann eskortiere sie in aller Eile zur Dracogen-Schänke."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -55,7 +55,7 @@ Er wird ernst. "Vielleicht kannst du uns helfen. Du hast nicht zufällig unterwe
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Der Wächter wirft dir einen abschätzenden Blick zu. "Ist das zu glauben. Mitten im Nirgendwo trifft man einen Gütigen Wanderer. Beraths Rad bringt uns heute wirklich Gnade."
+      <DefaultText>Der Wächter wirft dir einen abschätzenden Blick zu. "Ist das zu glauben. Mitten im Nirgendwo trifft man einen gütigen Wanderer. Beraths Rad bringt uns heute wirklich Gnade."
 
 Er wird ernst. "Vielleicht kannst du uns helfen. Du hast nicht zufällig unterwegs eine junge elfische Edelfrau gesehen? Ich sitze mit dem Rest meiner Einheit in diesem jämmerlichen Ort fest, bis wir sie gefunden haben."</DefaultText>
       <FemaleText />

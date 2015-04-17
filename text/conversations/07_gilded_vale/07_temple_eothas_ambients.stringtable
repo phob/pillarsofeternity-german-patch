@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_temple_eothas_ambients</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bin schon seit gut ... fünf, sechs Jahren nicht mehr hier gewesen. War mal richtig schön hier. Hell. Warm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Zurückzublicken fühlt sich komisch an. All die Zeit, die ich in meiner Jugend hier verbrachte, ohne das Kommende zu sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Kein ... Licht ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Unter deinen Füßen hörst du ein mahlendes Geräusch und das Hereinschießen von Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Hinunter, in die Dunkelheit ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Verrat!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Als du in den Kerzenkreis trittst, hörst du von der nahen Mauer ein rasselndes Scheppern. Mit dem mahlenden Reibgeräusch von Stein auf Stein gleitet eine Tür auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"War schön zu sehen, dass diese Kerzen immer noch brennen. Ich hatte gedacht, dass sie schon ausgegangen wären."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Kerzen flackern sanft, als du dich näherst. Über dem Altar, wo wohl einst ein Spiegel in die Decke eingelassen war, ist nun eine mit gebrochenem Glas gesäumte Lücke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Die Kerzen brennen immer noch. Gar nicht schlecht für einen toten Gott."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Der Altar selbst scheint unberührt zu sein. Über den Stein und das getrocknete Wachs haben sich mehrere Staubschichten gelegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Meinst du, dass noch jemand anderes hier hereingekommen ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Eine Kerze löschen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Was soll das alles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Vielleicht ist das ein Zeichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du greifst nach vorne, um einen der brennenden Dochte zu löschen. Rauch steigt in dünnen Fäden von der Kerze auf. Sonst scheint nichts zu geschehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Anscheinend wurden sie stark genug gemacht, um nicht nur die Zeit, sondern auch Gedankenlosigkeit zu überdauern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Erlösung. Sie haben dieses Ritual, wenn man volljährig wird. Sie nehmen einen an der Hand und führen einen mit verbundenen Augen in den Tempel hinab, und das soll einem sündhaften Leben entsprechen. Sie sagen einem nicht, wohin man geht. Bei meinem Ritual schwitzte ich wie verrückt." Er zwinkert dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Als du am Hebel ziehst, hörst du ein kreischendes metallisches und ein schnappendes Geräusch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Bank Node 23</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Der abgestandene Gestank alten Verfalls ... ein verrottender Tempel für einen verrottenden Gott."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Bank Node 25</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Erinnere mich daran, dass ich nie wieder dabei helfe, meinen Gott umzubringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Was ist das ... ach du liebe Zeit!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Beten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Du findest schon bald heraus, dass man Offenbarungen und Frieden hier nur dann findet, wenn man sich an das Flackern der Kerzen und die Erinnerungen der Gläubigen hält, die einst wie du hier knieten. Es gibt keine leitenden Worte, keine göttlichen Botschaften.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Nur Stille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Sie bringen einen zu diesem reflektierenden Becken da hinten, und dieses darf man dann ansehen, um sich seinen Sünden zu stellen."
+
+"Dann führen sie einen in diesem Raum hier und nehmen einem wieder die Augenbinde ab ... und alle sind da, um dich zu begrüßen - all deine Freunde und Familienangehörigen. Und es fühlt sich so an, als sei man erlöst worden. Man zündet seine Kerze an, und sie brennt mit den anderen. Ein besseres Gefühl als das hatte ich mein ganzes Leben nicht."
+
+Edérs Augen verweilen auf den Kerzen, und einen Moment lang scheint er ein jüngerer Mann zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

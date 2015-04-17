@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_cv_bridge_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Wächter wirft dir einen abschätzenden Blick zu. "Aha, du bist wohl erst kürzlich in Dyrfurt eingetroffen! Du hast nicht zufällig unterwegs eine junge elfische Edelfrau gesehen? Ich sitze mit dem Rest meiner Einheit in diesem jämmerlichen Ort fest, bis wir sie gefunden haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"So jemanden habe ich nicht gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wer ist denn die Gesuchte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Geh mir aus dem Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Einer wie alle anderen in diesem verdammten Dorf." Er seufzt. "Vielleicht könntest du trotzdem in der Schänke mit Fürst Harond sprechen. Er wäre dir für deine Hilfe sicherlich sehr dankbar, außerdem sagen dir die Einheimischen vielleicht mehr über das Verschwinden seiner Tochter als uns."</DefaultText>
+      <FemaleText>"Eine wie alle anderen in diesem verdammten Dorf." Er seufzt. "Vielleicht könntest du trotzdem in der Schänke mit Fürst Harond sprechen. Er wäre dir für deine Hilfe sicherlich sehr dankbar, außerdem sagen dir die Einheimischen vielleicht mehr über das Verschwinden seiner Tochter als uns." </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Lady Aelys" Er beißt sich auf die Lippe. "Sie ist die Tochter von Fürst Nestor Harond, und sie ist verschwunden." Er seufzt. "Vielleicht könntest du in der Schänke mit Fürst Harond sprechen. Er wäre dir für deine Hilfe sicherlich sehr dankbar, außerdem sagen dir die Dörfler vielleicht mehr als uns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Er schüttelt seinen Kopf und lacht bitter. "Du bist genau so hilfreich wie dieser Dengler, der Schankwirt. Ja, du wirst wunderbar in dieses reizende kleine Kaff passen. Auf dass die Biester euch mürrische Teufel alle zusammen holen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Solltest du Lady Aelys finden, dann eskortiere sie in aller Eile zur Dracogen-Schänke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Der Wachmann seufzt erleichtert, als er dich sieht. "Ist das zu glauben. Mitten im Nirgendwo trifft man den berühmten Helden von Trutzbucht. Beraths Rad bringt uns heute wirklich Gnade."
+
+Er wird ernst. "Vielleicht kannst du uns helfen. Du hast nicht zufällig unterwegs eine junge elfische Edelfrau gesehen? Ich sitze mit dem Rest meiner Einheit in diesem jämmerlichen Ort fest, bis wir sie gefunden haben."</DefaultText>
+      <FemaleText>Der Wachmann seufzt erleichtert, als er dich sieht. "Ist das zu glauben. Mitten im Nirgendwo trifft man die berühmte Heldin von Trutzbucht. Beraths Rad bringt uns heute wirklich Gnade."
+
+Er wird ernst. "Vielleicht kannst du uns helfen. Du hast nicht zufällig unterwegs eine junge elfische Edelfrau gesehen? Ich sitze mit dem Rest meiner Einheit in diesem jämmerlichen Ort fest, bis wir sie gefunden haben."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Der Wächter wirft dir einen abschätzenden Blick zu. "Ist das zu glauben. Mitten im Nirgendwo trifft man einen gütigen Wanderer. Beraths Rad bringt uns heute wirklich Gnade."
+
+Er wird ernst. "Vielleicht kannst du uns helfen. Du hast nicht zufällig unterwegs eine junge elfische Edelfrau gesehen? Ich sitze mit dem Rest meiner Einheit in diesem jämmerlichen Ort fest, bis wir sie gefunden haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

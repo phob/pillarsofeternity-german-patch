@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\11_twin_elms_hearthsong\11_qst_hunter_brother</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Jäger, Bruder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise in die Wildnis der Nordlandschaft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Durchsuche die Nordlandschaft nach Hinweisen auf Fîorms Schicksal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Durchsuche die Wachposten-Erhöhung nach Hinweisen auf das Schicksal des riesigen Stelgaer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Durchsuche den Wachposten-Wasserfall nach Hinweisen auf Fîorms Schicksal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Sprich in der Passage der Sechs mit Rîdaî.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Teile deine Erkenntnisse der Anamenfath mit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Sprich in der Passage der Sechs mit der Anamenfath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Sprich in der Passage der Sechs mit Rîdaî.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Sprich in der Passage der Sechs mit Arthwn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Rîdaî, ein Glanfathaner eines prestigeträchtigen Stammes, möchte wissen, was mit seinem Bruder Fîorm, einem bekannten Jäger, während der Blutjagd geschehen ist, die ihn zusammen mit Arthwn, einem weiteren Jäger, in die Wälder der Nordlandschaft geführt hat.
+
+Arthwn behauptet, dass Fîorm aus Schande, einen riesigen Stelgaer bei ihrer Blutjagd nicht töten zu können, selbst ins Exil gegangen sei. Rîdaî glaubt, dass Arthwn, ein Angehöriger eines niederen Stammes, zu seinem eigenen Vorteil lügt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Fîorm und Arthwn reisten zusammen über den Gebirgspass des Bezirks Altlied hinaus und begaben sich in der Nordlandschaft auf eine Blutjagd. Rîdaî vermutet, dass in diesem Wald Hinweise auf das Schicksal seines Bruders zu finden sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe die Nordlandschaft erreicht. Hierher waren Fîorm und Arthwn gereist, um Jagd auf einen sagenumwobenen Stelgaer zu machen, und hier könnte ich auch Hinweise darauf finden, was sich während ihrer Jagd zugetragen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe Fîorm Leiche gefunden. Seine verweilende Essenz legte mir einen Teil seiner letzten Erinnerungen dar. Im Versuch, den riesigen Stelgaer selbst zu erlegen, legte Fîorm Arthwn herein und kämpfte alleine gegen die Kreatur, wobei er zu Tode kam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe die Leiche des riesigen Stelgaers gefunden. Er schlich sich oberhalb des Wasserfalls an und entdeckte Arthwn unter sich. Dann wurde er von einem anderen Elf, sicherlich Fîorm, mit einem Speer tödlich verwundet. Der Stelgaer kämpfte um sein Leben, starb aber im anschließenden Kampf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe genügend Informationen über Fîorms Tod gefunden. Sein Bruder Rîdaî wird sich bestimmt dafür interessieren. Ich kann ihn in der Passage der Sechs finden, im Viertel Herdlied von Zwillingsulmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe mich entschlossen, mit der Anamenfath in der Passage der Sechs in Zwillingsulmen zu sprechen, um ihr die Ereignisse um das Verschwinden von Fîorm während seiner Blutjagd mit Arthwn zu erklären.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe mit der Anamenfath darüber gesprochen, was während der Blutjagd zwischen Fîorm und Arthwn geschehen ist. Nach meiner Aussage über meine Untersuchung bat mich die Anamenfath um ein Gespräch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich habe mit der Anamenfath darüber gesprochen, was während der Blutjagd zwischen Fîorm und Arthwn geschehen ist. Nach meiner Aussage über meine Untersuchung bat mich Rîdaî um ein Gespräch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich habe mit der Anamenfath darüber gesprochen, was während der Blutjagd zwischen Fîorm und Arthwn geschehen ist. Nach meiner Aussage über meine Untersuchung bat mich Arthwn um ein Gespräch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe zwar schon genügend Beweise über Fîorms Schicksal, aber vielleicht kann ich noch mehr über die Ereignisse im Zusammenhang mit seinem Tod erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe zwar schon genügend Beweise über das Schicksal des Stelgaers, aber vielleicht kann ich noch mehr über die Ereignisse im Zusammenhang mit seinem Tod erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe Fîorm Leiche gefunden. Seile verweilende Essenz legte mir einen Teil seiner letzten Erinnerungen dar. Im Versuch, den riesigen Stelgaer selbst zu erlegen, legte Fîorm Arthwn herein und kämpfte alleine gegen die Kreatur, wobei er zu Tode kam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe die Leiche des riesigen Stelgaers gefunden. Er schlich sich oberhalb des Wasserfalls an und entdeckte Arthwn unter sich. Dann wurde er von einem anderen Elf, sicherlich Fîorm, mit einem Speer tödlich verwundet. Der Stelgaer kämpfte um sein Leben, starb aber im anschließenden Kampf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Rîdaî erwähnte, dass Arthwn ohne Fîorm nach Zwillingsulmen zurückgekehrt war. Vielleicht kann ich Arthwn in der Nähe der Kriegerhalle von Ulmenkap finden und ein paar Antworten bekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich konfrontierte Arthwn mit seinen Lügen. Der Jäger bemühte sich verzweifelt, seinem Stamm zu helfen, und bat mich, ihn beim Prozess zu begünstigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich konfrontierte Arthwn mit seinen Lügen. Der Jäger bemühte sich verzweifelt, seinem Stamm zu helfen, und bat mich, ihn beim Prozess zu begünstigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe in Ulmenkap mit Arthwn gesprochen. Der Jäger bestand darauf, dass er es war, der den riesigen Stelgaer in der Nordlandschaft getötet habe, auf einem Kamm über einem Wasserfall. Er sagte, Fîorm hätte den Gedanken nicht ertragen, gegen einen Jäger eines niederen Stammes zu gewinnen, der Zweimal Gespaltenen Pfeile, und sei lieber ins Exil gegangen, als schmachvoll nach Zwillingsulmen zurückzukehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich schloss meine Untersuchung von Fîorms Verschwinden ab und legte der Anamenfath meine Position dar. Man glaubte Arthwn Geschichte, was ihn zu einem großen Helden machte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich schloss meine Untersuchung von Fîorms Verschwinden ab und legte der Anamenfath meine Position dar. Man glaubte Rîdaîs Geschichte, was seinen Bruder Fîorm zu einem großen Helden machte und Arthwn beschämte. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich schloss meine Untersuchung von Fîorms Verschwinden ab und legte der Anamenfath meine Position dar. Rîdaî und Arthwn hatten beide Unrecht. Fîorms Tod und Verrat brachten Schande über seinen Stamm, und Arthwns Lügen haben seine eigenen Verwandten noch tiefer sinken lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

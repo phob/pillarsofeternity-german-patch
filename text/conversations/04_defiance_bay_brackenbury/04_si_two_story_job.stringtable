@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_si_two_story_job</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die gemauerte Steinmauer wird von den Giebeln geschützt. Eine knorrige grüne Ranke steigt bis zu einem offenen Fenster hinauf. Zwei schmucke Fensterläden sind einladend aufgeklappt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Einen Enterhaken zum Fenster werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Die Ranken hochklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du wirfst deinen Enterhaken. Er bleibt am Fensterbrett hängen. Das Seil bleibt straff, als du dein Gewicht daran hängst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Das Seil hochklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du stemmst die Beine gegen die Wand und kletterst das Seil hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du sitzt auf dem Fensterbrett und hältst dich am Rahmen fest, während die Brise deinen Rücken kühlt. Du bemerkst, wie sich im Haus jemand bewegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du schlüpfst in die Villa und blinzelst, als deine Augen sich an das dunkle Innere gewöhnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du beginnst den Aufstieg. Bald bemerkst du, dass die Ranken unter deinem Gewicht nachgeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du ziehst dich schnell das letzte Stück nach oben und ergreifst das Fensterbrett.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Die Ranken testen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Du schüttelst an den Ranken. Sie sind dick und robust, weiter oben sehen sie jedoch etwas dünner aus. Wenn du schnell bist, kannst du vielleicht an ihnen nach oben klettern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du versuchst, die Wand hinaufzuklettern. Du bewegst dich so schnell, wie du nur kannst. Die Ranken fallen zu Boden, während du verzweifelst nach einem Halt suchst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Du kehrst erschöpft zum Boden zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

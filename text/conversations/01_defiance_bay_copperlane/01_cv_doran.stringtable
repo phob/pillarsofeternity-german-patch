@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_doran</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>103</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein Mann liegt gefesselt und blutend auf dem Boden vor dir. Sein Gesicht ist ein Gemälde aus Blutergüssen und der Raum ist an verschiedenen Stellen voller Blutspritzer. Der Mann zuckt zusammen und schluchzt, als du dich näherst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich will dir nicht wehtun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Ihn in Ruhe lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wer war das dann unten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"E-ein Hochstapler! Ein Zauberer namens Nyrid. Er ist in mein Haus eingedrungen, hat mich hier gefesselt. G-gefoltert ... Und jetzt, jetzt essen er und seine Männer mein Essen, zerstören mein Eigentum, verkaufen Svef - in meinem eigenen Haus!" Er blinzelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Du handelst also mit Svef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ist er einfach plötzlich aufgetaucht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Purnisc blickt weg, er kann dir nicht in die Augen sehen. "Vielleicht habe ich ein kleines bisschen von dem Anteil meines Lieferanten behalten. Aber ich habe das Geld gebraucht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Purnisc schreit vor Angst auf. "A-absolut! Bitte tu mir nicht weh! Du kannst ihr sagen, was du willst!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Wenn du glaubst, ich würde Abschaum wie dir helfen, hast du dich geschnitten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Tut mir leid, kein Interesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Purnisc zuckt zusammen. "Ich weiß auch, dass es nicht der beste Beruf ist. Besonders nach allem, was geschehen ist. Aber er ist gut bezahlt. Sehr, sehr gut. Und ... Naja, die Leute wollen das Zeug haben, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Was hat dein Lieferant getan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Was genau ist passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Er hat den Zauberer geschickt, Nyrid. Den Mann unten." Purnisc schaudert. "Um das Kupfer wiederzubeschaffen und mir gleich noch ein wenig wehzutun. Es kommt mir vor, als wäre es Tage her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Was soll ich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ich tue es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ich kann da nicht rausgehen. Nicht, solange er unten ist. Ich liege hier schon wer weiß wie lange gefesselt. Bitte, du musst ihn töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Man hat sich bereits um ihn gekümmert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Du lässt also zu, dass dieser Abschaum unten mich ermordet?" Purnisc lässt den Kopf hängen und stößt einen traurigen Seufzer aus. "Sieht mir mal wieder ähnlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Purnisc stößt einen erleichterten Seufzer aus. "Oh, danke. Ich würde ja helfen, wenn ich könnte, aber in meinem Zustand würde ich dich nur aufhalten. Bitte sei vorsichtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Du bist es wieder! Bitte, ich brauche deine Hilfe!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Purnisc starrt dich an. "Ich fasse es nicht, dass der Albtraum endlich ein Ende hat!" Er grinst schwach, dann scheint ihm etwas wieder einzufallen. "Du hast keine Ahnung, was du für mich getan hast, aber ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Sag mir, was hier geschehen ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Nyrid ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Kaenra hat mich von vornherein geschickt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Was für einen Gefallen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Tut mir leid, aber ich habe genug getan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Purnisc nickt schnell. "Ja, ja, du hast Recht. Natürlich. Du hast schon mehr als genug getan. Ich danke dir. Ich bin hier, wenn du jemals etwas brauchst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ach?" Purnisc lächelt strahlend. "Diese Frau hat mir das Leben gerettet, ohne es zu wissen. Bitte, bring sie nach Hause und sag ihr, dass alles wieder wie immer ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ich gehe sie suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ich habe ihr gesagt, sie soll ein neues Leben anfangen. Sie hat dich verlassen. Für immer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Sie ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ist ... ist es vollbracht? Ist er tot?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Noch nicht. Ich komme wieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Danke für deine Hilfe. Wenn du Kaenra findest, dann belohne ich dich, versprochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Sie hat was?" Purnisc sieht entsetzt aus. "Aber wir wollten doch heiraten. Ich kann nicht ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Purnisc blickt dich schockiert an. "Was? Meine Kaenra ist ... Aber wie? Was ist passiert? Das kann nicht sein!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Hallo! Ich kann dir gar nicht genug danken! Ich habe meine Kaenra wieder, und mit ihr an der Seite bin ich bald wieder auf den Beinen." Er lächelt. "Kann ich dir etwas anbieten? Mit dem versprochenen Nachlass, versteht sich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Lass mich mal sehen, was du anzubieten hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Im Moment nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Purnisc hustet, als du dich näherst. Seine Wangen sind eingefallen, seine Augen rot. "Hallo. Ich, äh ... " Er zieht die Nase hoch. "Ich habe hier einige Waren, wenn du etwas kaufen willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Der Mann stockt und blickt zu dir hinauf. "N-nicht? Oh, gelobt sei Berath! Du gehörst nicht zu seinen Leuten?" Er blickt nervös hinter dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Vielleicht solltest du ihr zutrauen, eigene Entscheidungen zu treffen, anstatt sie anzulügen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Er blickt zu dir auf und wieder fort. "Ich muss meine Verlobte finden, Kaenra. Nur ... nach dem, was Nyrid ihr angetan hat, gibt sie mir vielleicht keine Gelegenheit, ihr alles zu erklären."
+
+"Aber auf dich hört sie vielleicht. Bitte, sie muss irgendwo in Kupferweg sein, sie kennt kein anderes Zuhause."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Und bitte, sag ihr nichts von dem Svef. Von meiner Arbeit. Ich belohne dich dafür. Vielleicht mit einem Nachlass?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ich weiß, und ich kann dich nicht zwingen, es für dich zu behalten. Ich will sie nur nicht verlieren. Nach dem, was mir geschehen ist, will sie gewiss nichts mit Svef zu tun haben. Oder mit mir, wenn sie davon erfährt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Ihn packen] "Hier ist mein Gegenangebot: Ich sage ihr einfach, was ich will, und du gibst mir den Nachlass dennoch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Bei den Göttern, bitte. Bitte, Schluss. Ich ertrage es nicht mehr ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Der Mann schluchzt angstvoll, als er dich zurückkehren sieht. Er rollt sich schützend zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ich ... " Er schüttelt seinen Kopf. "Bitte, ich weiß nicht, wer du bist, aber ich heiße Purnisc. Das ist mein Haus. Du musst mir helfen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Weggehen] "Ich mische mich da lieber nicht ein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Was? W-warte, du kannst doch nicht ... Bitte lass mich nicht hier zurück!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ich mische mich da lieber nicht ein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Halt still. Ich befreie dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"N-nein, warte", sagt Purnisc, die Augen weit vor Panik.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Vielleicht kann ich ihn überzeugen, dich gehen zu lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ich mische mich da lieber nicht ein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Purnisc schüttelt den Kopf. "Du kennst ... du kennst ihn nicht. Weißt nicht, wozu er fähig ist. Du wirst es bald sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Übertreib es nicht, Purnisc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"N-nein, natürlich nicht! Du hast schon mehr als genug getan. Ich danke dir. Ich bin hier, wenn du einmal etwas brauchst - egal was."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ich gehe mit ihr reden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Lügen] "Natürlich. Das mache ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Danke! Oh, meine Kaenra. Wie ich sie vermisst habe!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ich kann dir gar nicht genug danken! Wie ich meine arme Kaenra vermisst habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Du-du kriegst bei mir jederzeit etwas, jederzeit. Solange du nur dafür sorgst, dass es ihr gut geht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Nach allem, was passiert ist, habe ich sie auch noch verloren? Bitte lass mich allein. Ich muss mich setzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Oh doch, ich habe sie nämlich getötet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Lügen] "Ich weiß nicht, was passiert ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Mein Beileid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Purnisc blickt zu Boden, betäubt von der Trauer. "Wir wollten heiraten", sagt er mit belegter Stimme. Er setzt sich und legt den Kopf in die Hände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Purnisc stammelt einige lange Augenblicke lang wortlos vor sich hin. "D-du ... " Sein Gesicht verzerrt sich zu einer Maske der Trauer. "Du hast mich hereingelegt. Du hast die ganze Zeit für ihn gearbeitet, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Du kommst her, gibst vor mir zu helfen - war das nur noch mehr Folter? Oh, bei den Göttern, Kaenra." Er bedeckt sein Gesicht. "Verschwinde! Raus! Ich ertrage das nicht mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Purnisc sitzt zusammengekauert auf dem Boden, von der Trauer erschlagen, und antwortet nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Purnisc zuckt, als du dich näherst. "H-hallo. Du bekommst deinen Nachlass, wie du es wolltest. Sag mir einfach, was du brauchst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Komm wieder, wenn du es dir anders überlegst!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Im Moment nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Purnisc nickt. "D-dann vielleicht nächstes Mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Im Moment nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Purnisc nickt. "Dann nächstes Mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Ohhh ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Warum sollte ich dir helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Purnisc sieht geschlagen aus. " ... W-weil es das Richtige ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"O-okay, ich ... Nyrid hat mir mein ganzes Geld abgenommen. Aber er hat es noch! Wenn ... wenn du ihn tötest, findest du sicher das meiste bei ihm. Du kannst es alles behalten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Aber ist es das alles wert? Kaenra zu verlieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Ich ... " Purnisc verzieht das Gesicht. "Ich muss, es tut mir leid. Ich kann anders kein Geld verdienen. Wie soll ich uns ernähren? Irgendwann höre ich auf damit. Wenn wir es nicht mehr brauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Kaenra hat dich verlassen, du Narr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Sie hat was?" Purnisc blickt dich schockiert an. "Aber wir wollten doch heiraten. Ich habe das alles ... nur für sie getan!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Und du hast sie verprügeln lassen. Gehörte das auch zu deinem Plan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Es war das einzig Richtige, dich zu verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Purnisc öffnet seinen Mund, um zu protestieren, zögert dann aber. Er schüttelt seinen Kopf. "Ich wollte nur, dass sie glücklich ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Oh, Kaenra. Nach allem, was passiert ist, habe ich sie auch noch verloren? Bitte lass mich einen Moment allein. Ich muss mich setzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Purnisc sackt zusammen. "Bitte, lass mich einfach allein." Er bedeckt sein Gesicht mit den Händen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Ich gehe dann mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Purnisc sackt zusammen. "Oh, Kaenra ... es tut mir leid ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Was du auch verschweigst: Spuck es aus oder ich prügel es aus dir heraus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Es wäre sehr viel einfacher, wenn du nicht versuchen würdest, etwas zu verbergen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"He, ich habe von dir gehört ... " Er schluchzt lachend. "Ich weiß nicht, wie du mich gefunden hast, aber heute ist wahrlich mein Glückstag."
+
+"Ich heiße Purnisc. Das ist mein Haus. Du musst mir helfen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Purnisc blickt weg, er kann dir nicht in die Augen sehen. "Du hast mich noch schneller durchschaut als mein Lieferant. Vielleicht habe ich ein kleines bisschen von seinem Anteil behalten. Aber ich habe das Geld gebraucht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Purnisc schüttelt den Kopf. "Ich zweifle nicht daran, dass du überzeugend sein kannst, aber ... du kennst ihn nicht. Weißt nicht, wozu er fähig ist. Du wirst es bald sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Er lacht nervös. "Wenn ich eines gelernt habe, dann dass man sich nicht mit Leuten anlegt, die einen gefährlichen Ruf haben. Ich bin hier, wenn du einmal etwas brauchst - egal was."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Purnisc stammelt einige lange Augenblicke lang wortlos vor sich hin. "Selbst, wenn nicht ... " Sein Gesicht verzerrt sich zu einer Maske der Trauer. "Ich hätte wissen müssen, dass du die ganze Zeit für ihn gearbeitet hast!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[Weggehen.] "Wir werden sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

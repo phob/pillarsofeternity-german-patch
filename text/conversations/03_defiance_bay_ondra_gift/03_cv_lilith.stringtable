@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_lilith</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Ein kreischendes Schluchzen durchdringt dein Gehör und lässt die staubigen Sparren des Leuchtturms erzittern. Es stammt von der geisterhaften Gestalt einer Frau, die in der Mitte des Raumes schwebt. Mit jedem Beben ihrer Schultern stößt sie einen weiteren markerschütternden Schrei aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Näher herangehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Zurückweichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Als du dich näherst, nehmen die Schreie des Geistes einen bedrohlichen Klang an. Der Nebel, der um seine Beine wabert, bewegt sich wellenförmig. Die schwarzen Höhlen seiner Augen blicken dich einen Augenblick lang an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Näher herangehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Zurückweichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Die Schreie des Geistes werden lauter und lauter. Sein eingefallenes Gesicht verzerrt sich zu einem langen, klaffenden Mund voller spitzer Zähne.
+
+Wenn es etwas gibt, das den Zorn des Geistes besänftigen kann, dann sicherlich nicht dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Näher herangehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Zurückweichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Den Cean Gŵla beobachten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Den Cean Gŵla beobachten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Den Cean Gŵla beobachten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Du bist nah genug, um zu bemerken, dass der Geist den Kopf nach hinten geworfen hat. Während er seine haarsträubenden Schreie ausstößt, bewegt er den Kopf leicht, so dass es scheint, als würde er zu den Fenstern blicken und den Horizont absuchen.
+
+Die geisterhaften Hände des Cean Gŵla sind voller dunkler Flecken. Zunächst denkst du, es sei Blut, doch die Flecken sind schwarz wie Tinte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ich bringe Kunde von deiner Tochter. Sie wird dich bald besuchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Vergiss Maerwith. Sie ist für dich verloren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Deiner Tochter geht es gut, aber sie kann dich nicht besuchen. Du musst sie gehen lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Ich musste deine Tochter töten. Sie war gefährlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Die Todesfee blickt dich an, zunächst ungläubig. Langsam kommt Frieden über ihren zitternden Körper. Sie fängt an, leise zu summen, und der Geist löst sich in der staubigen Luft auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Zorn kocht durch die gespenstische Gestalt. Sie schießt nach vorne, die Kiefer weit aufgerissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Die Todesfee seufzt, ihre Schreie verebben. Sie schwebt zum Fenster und blickt hinaus Richtung Horizont. Ihre geisterhafte Gestalt fängt an sich aufzulösen. Leuchtender Staub rieselt davon, bis keine Spur der Todesfee zurückbleibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Den Cean Gŵla angreifen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

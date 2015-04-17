@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_nervous_initiate</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine einsame männliche Gestalt schreitet vor und zurück, tippt mit den Fingern und murmelt sich in den Bart. Er schreckt auf, als er dich sieht, die Hände auf der Brust. "Bei der Flamme, du hast mich erschreckt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Er hält inne und lehnt sich vor. "Wo ist deine Maske?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Das ist es! Ich wusste, ich habe zuhause etwas vergessen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Sie kratzt zu sehr. Ich setze sie zum Treffen wieder auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Welche Maske?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Er neigt seinen Kopf, um dich besser in Augenschein zu nehmen. "Ich glaube nicht, dass du hier etwas verloren hast."
+
+Er legt eine Hand vor die Maske an den Mund. "Wir haben einen Eindringling!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Brauchst du sonst noch was? Ich bin bald bereit für das Treffen der Initiierten. Ehrlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Nun, pass auf, dass dich die anderen drinnen nicht ohne Maske sehen. Sie legen Wert auf Anonymität."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Erzähl mir von dem Treffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Was machst du hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Kann ich mir deine Kapuze ausleihen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Er läuft weiter auf und ab. "Ich habe die Passwörter geübt. Ich kenne sie in- und auswendig, aber ich werde jedes Mal so nervös, wenn ich daran denke, sie der Akolythin zu nennen." Er wringt die Hände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Du kannst mit mir üben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Warum bist du nervös?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Egal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Er hält inne. "Ich habe das Gesicht der Akolythin noch nie gesehen. Doch ich kann nicht aufhören, mich zu fragen, wie sie unter dieser Robe aussieht&#160;..." Er verdreht die Finger. "Und ich habe Angst, dass sie mich bei dem Gedanken daran erwischt, wenn sie in meinen Geist blickt."
+
+Du hörst ihn schlucken. "Wenn ich außerdem die Passwörter falsch nenne, wird sie mich sofort töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Du solltest einfach aufhören, daran zu denken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Das weiß ich!" Er greift nach seiner Robe. "Doch je öfter ich mir sage, dass ich aufhören soll, daran zu denken, desto öfter denke ich daran!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Fünfte Frage - Und wie wird dein Eid bewahrt? Antwort - Er ist durch den Bleiernen Schlüssel versiegelt."
+
+Er seufzt mit einem nervösen Kichern. "Das war nicht so schwer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Versuch es nochmal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Klingt so, als hättest du verstanden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Das ist wohl dein erstes Mal. Die Akolythin kommuniziert individuell mit jedem von uns, um von unserem Fortschritt hinsichtlich alter Aufgaben zu erfahren und uns neue zuzuteilen."
+
+Er schüttelt sich mit einer Mischung aus Vergnügen und Furcht. "Es ist ein&#160; ... einzigartiger Prozess. Sie ist ein Medium, deshalb kann sie ohne Worte zu einem sprechen. Faszinierend, bis man realisiert, dass sie womöglich ganz leicht deine Gedanken lesen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Natürlich nicht!" Er klammert sie fest, als hättest du gedroht, sie ihm zu entreißen. "Die Akolythin wird mich töten, wenn ich mich ihr ohne Maske nähere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Und ich bringe dich um, wenn du sie mir nicht gibst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ich verspreche, ich bringe sie dir gleich wieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Na gut, nimm sie! Sag der Akolythin bloß nicht, dass du sie von mir hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Natürlich! Glaube ich&#160;..." Er beißt sich auf die Lippen. "Ich werde einfach vor dem Treffen noch ein wenig weiter üben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ich muss hier noch bleiben und ein wenig üben." Er räuspert sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ich verstehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"'...&#160;bei den Taten meiner Zunge und –' oh, das ist es nicht&#160;..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ich denke, es ist nichts dabei&#160; ... Sag bloß niemandem, dass du sie von mir hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Uns wurde wichtige Arbeit anvertraut. Es ist eine Ehre, aber nicht ohne Herausforderung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Vergiss es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Mit der Akolythin sollte man nicht spaßen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Was weißt du denn über diese Aufgaben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Er lacht nervös. "Nur das absolut Nötigste. Wir schützen die Geheimnisse der Götter, daher ist Diskretion maßgeblich." 
+
+Er fuchtelt zwischen euch beiden mit der Hand. "Wir erhalten unsere Anweisungen von der Akolythin, so wie sie ihre von jemand anderem erhält, und so weiter, bis hinauf zum Großmeister. Unsere Aufgabe ist, zu gehorchen, und dabei so wenig wie möglich über den Gesamtplan – und über jeden einzelnen von uns – zu wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Erzähl mir von diesen Geheimnissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Wie kannst du sicher sein, das Richtige zu tun, wenn du nur so wenig weißt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Er weicht zurück. "Du solltest gar nicht erst fragen! Was auch immer sie sind, es sind aus einem bestimmten Grund Geheimnisse. Unsere Aufgabe ist, sie zu schützen, und nicht, sie zu kennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Er schnaubt. "Das ist einfach. Den Bleiernen Schlüssel gibt es schon seit Ewigkeiten mit dem Segen der Götter. Du musst dich nur umschauen, um die Gefahren zu erkennen, die lauern, wenn man versucht, göttliche Macht an sich zu reißen. Durch das Töten eines Gottes im Krieg des Heiligen wurden wir alle verflucht, und die Irrlehre der Beseelung hat die Dinge nur noch verschlimmert. Versuche, eine Seele zu ersetzen, und du wirst unausweichlich ein Monster schaffen."
+
+"Das war alles eine Warnung. Es gibt Kräfte, die wir nicht besitzen sollten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Solltest du nicht bei dem Treffen sein, Diener? Die Akolythin wartet auf dich." Er legt die Hände zusammen, seine Daumen bewegen sich unruhig.
+
+"Das Treffen der Initiierten beginnt doch noch nicht, oder?" Er spielt nervös mit seinen Fingerspitzen herum. "Ich werde bereit sein. Bald."</DefaultText>
+      <FemaleText>"Solltest du nicht bei dem Treffen sein, Dienerin? Die Akolythin wartet auf dich." Er legt die Hände zusammen, seine Daumen bewegen sich unruhig.
+
+"Das Treffen der Initiierten beginnt doch noch nicht, oder?" Er spielt nervös mit seinen Fingerspitzen herum. "Ich werde bereit sein. Bald."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Na gut." Er beginnt mit einem tiefen Atemzug und flatternden Händen. "Es geht los."
+
+"Erste Frage - Nenne deinen Namen und dein Ansinnen. Antwort - Mein Name gehört den Göttern und meine Hand dient ihnen."
+
+"Zweite Frage - Welche Gesellschaft suchst du? Antwort - Ich suche die Gesellschaft der Schatten, auf dass unsere Anstrengungen geheim bleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Dritte Frage - Erzähl mir von deinen Anstrengungen. Antwort - Zu sehen, dass das Werken von Freunden und Wilden nicht die Knochen stört, welche die Götter vergraben haben."
+
+"Vierte Frage - Wie erfahren wir von deinem Ansinnen? Antwort - Ihr sollt es erfahren durch das Geständnis meiner Zunge, die Taten meiner Hand und den Eid auf meine Seele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Hier ist deine Kapuze."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Oh, danke." Er zieht sie über den Kopf. "Ich bin aber immer noch nicht bereit. Bitte, warte nicht auf mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ha! Dann blicke doch unter die Robe, sage ich. Scheitere bei ihrer Prüfung, aber bestehe die viel wichtigere. Wenn du nichts mehr zu verbergen hast, hat ein Medium keinerlei Macht mehr über dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Rätsel über Rätsel. 'Die Knochen, welche die Götter vergraben haben'. Alles sehr dramatisch, was? ... Oh, Verzeihung. Bitte fahr fort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Aloth lehnt sich zu dir und murrt zwischen zusammengebissenen Zähnen. "Das ist nicht dein Ernst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Nimm seine Furcht ernst, Wächter. Hier gibt es viele gefährliche Gedanken."</DefaultText>
+      <FemaleText>Nimm seine Furcht ernst, Wächterin. Hier gibt es viele gefährliche Gedanken.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

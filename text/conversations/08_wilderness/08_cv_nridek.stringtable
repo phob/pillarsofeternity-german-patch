@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_cv_nridek</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine in Roben gehüllte, schlaksige Gestalt schlurft auf dich zu und du spürst, wie wieder etwas dein Gehirn durchbohrt. Das Kreischen, das in deinen Verstand eindringt, ist voller Zorn.
+
+"Grabendes, wieselndes Tier!" Die Kreatur hält inne. Ihre Mundstücke klackern. Als seine Worte wieder deinen Verstand erfüllen, sind sie von Furcht geschwächt. "Mein Vermächtnis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ihre Mundwerkzeuge rasseln und klacken und sie quietscht in einer Frequenz, die du nur gerade eben noch so hören kannst. Spinnen kommen aus den Schatten gekrochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Kreatur hält einen eiähnlichen Stein in ihren dürren Fingern. Der weiße Stein leuchtet vor Leben und du spürst eine Präsenz darin.
+
+Die Kreatur bemerkt dein Interesse und quietscht, die Mundwerkzeuge weit geöffnet. "Nein! Für die Kolonie!"
+
+Die Herausforderung hallt vom Inneren des Steines zu dir wider. Dir kommt der Gedanke, dass ein Teil der Seele der Kreatur in dem Stein stecken muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Was tust du mit diesem Stein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vermächtnis. Kolonie." Die segmentierten Mundstücke der Kreatur schaben gegeneinander. "Immer nur wenige Junge. Schlüpfen langsam. Zerbrechlich."
+
+Die Kreatur deutet mit einer behaarten Gliedmaße auf sich selbst. "Letzter von Kolonie. Bald sterben." 
+
+Sie zieht den Stein enger an ihre schmale Brust. "Lange tote Tiere tun Geistzeug in Metall." Sie deutet hinter sich. "Ich bewahre Geistzeug in Stein auf. Bringe zu neuer Kolonie. Kolonie alleine ist schwach. Junge sind schwach. Leer an Weisheit. Aber zwei Kolonien gemeinsam überleben. Machen starke Kolonie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Sie streichelt den Stein. "Brauche Vermächtnis, um neue Kolonie zu führen. Stark zu halten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Kreatur hält einen eiähnlichen Stein in ihren dürren Fingern. Der weiße Stein leuchtet vor Leben und du spürst eine Präsenz darin.
+
+Die Kreatur bemerkt dein Interesse und quietscht, die Mundwerkzeuge weit geöffnet. "Nein! Für die Kolonie! Nicht für grausames, hungriges Tier."
+
+Die Herausforderung hallt vom Inneren des Steines zu dir wider. Dir kommt der Gedanke, dass ein Teil der Seele der Kreatur in dem Stein stecken muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Kreatur hält einen eiähnlichen Stein in ihren dürren Fingern. Der weiße Stein leuchtet vor Leben und du spürst eine Präsenz darin.
+
+Die Kreatur bemerkt dein Interesse. "Für die Kolonie." Sie neigt den Kopf. "Tier ruhig. Friedlich. Ja?"
+
+Ihre Gedanken hallen vom Inneren des Steines zu dir wider. Dir kommt der Gedanke, dass ein Teil der Seele der Kreatur in dem Stein stecken muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Kreatur hält einen eiähnlichen Stein in ihren dürren Fingern. Der weiße Stein leuchtet vor Leben und du spürst eine Präsenz darin.
+
+Die Kreatur bemerkt dein Interesse und quietscht, die Mundwerkzeuge weit geöffnet. "Nein! Für die Kolonie! Nicht für verlogenes, betrügerisches Tier."
+
+Die Herausforderung hallt vom Inneren des Steines zu dir wider. Dir kommt der Gedanke, dass ein Teil der Seele der Kreatur in dem Stein stecken muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Kreatur hält einen eiähnlichen Stein in ihren dürren Fingern. Der weiße Stein leuchtet vor Leben und du spürst eine Präsenz darin.
+
+Die Kreatur bemerkt dein Interesse und quietscht, die Mundwerkzeuge weit geöffnet. "Nein! Für die Kolonie! Nicht für kriegerisches, barbarisches Tier."
+
+Die Herausforderung hallt vom Inneren des Steines zu dir wider. Dir kommt der Gedanke, dass ein Teil der Seele der Kreatur in dem Stein stecken muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Angreifen] "Du gehst nirgendwohin, Monster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Du kannst gehen. Ich greife dich nicht an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Geh, und möge Frieden zwischen unseresgleichen herrschen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Ihre schwarzen Augen starren dich an, ohne zu blinzeln. Warme Erleichterung durchströmt deinen Verstand. 
+
+"Ja, Nridek geht. Bringt Vermächtnis. Vielen Dank."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Ihre schwarzen Augen starren dich an, ohne zu blinzeln. Warme Erleichterung durchströmt deinen Verstand.
+
+"Friede und Sanftmut es kennt. Nridek geht. Bringt Vermächtnis. Vielen Dank."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ihre schwarzen Augen starren dich an, ohne zu blinzeln. Warme Erleichterung durchströmt deinen Verstand. 
+
+"Tier ist höflich und weise. Wäre glücklich in Kolonie, glaubt Nridek."
+
+"Ich gehe. Bringe Vermächtnis. Vielen Dank."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ihre schwarzen Augen starren dich an, ohne zu blinzeln. Du spürst, wie etwas deine Psyche abtastet. Schließlich strömt Furcht in deinen Verstand.
+
+"Lügen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ihre schwarzen Augen starren dich an, ohne zu blinzeln. Du spürst, wie etwas deine Psyche abtastet. Schließlich strömt Furcht in deinen Verstand.
+
+"Monster!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Solch eine andere Gestalt - und doch ist der Verstand mit denselben Gedanken gefüllt wie der unsere." Sie schließt die Augen. "Heimat. Familie. Erinnerung."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

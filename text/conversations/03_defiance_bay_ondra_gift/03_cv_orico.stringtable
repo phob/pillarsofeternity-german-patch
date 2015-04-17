@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_orico</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Orico fällt dir ins Auge. Von einem Ohr baumelt eine goldene Kreole, und als er zu dir herübergleitet, flüstert seine schöne, maßgeschneiderte Kleidung förmlich. "Du bringst mich in Verlegenheit. Wie könnte ich es mir leisten, Zeit mit einer derart prachtvollen Kreatur zu verbringen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Das weiß ich genau so wenig wie du."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wie viel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen] "Nicht dieses Mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Er fährt sich mit einem Finger seinen absolut symmetrischen Ziegenbart entlang. "Was kann Orico für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Was redest du da?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Berechne mir nichts, dann sind wir quitt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Genug der Schmeichlereien. Ich weiß, wie das Spielchen läuft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Das könntest du dir selbst in deinen wildesten Träumen nicht vorstellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Weggehen] "Lass gut sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich rede über deine prachtvollen Augen und deine perfekten Lippen. Es wäre wahrlich ein Verbrechen, solltest du sie jemals schließen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Er wirft seinen Kopf in den Nacken und lacht. "Und ein schlaues Köpfchen hat er auch noch!"</DefaultText>
+      <FemaleText>Er wirft seinen Kopf in den Nacken und lacht. "Und ein schlaues Köpfchen hat sie auch noch!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Er hält sich eine glatte, starke Hand gegen die Brust. "Oh, diese Wunden! Wenn du in der Liebe so wild bist wie mit deinen Worten, dann werde ich durch deine Hand tausend kleine Tode erleiden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Dann werde ich mir meinen Atem für angenehmere Sachen sparen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Manche Dinge muss man selbst erfahren, um sie glauben zu können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Für einen Abend, an den du dich auch in deinem nächsten Leben noch erinnern wirst, verlange ich nur einhundert Pand. Ein Schnäppchen für den cleveren Retter des Salzigen Masts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Für einen Abend, an den du dich auch in deinem nächsten Leben noch erinnern wirst, verlange ich nur dreihundert Pand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[300 KP zahlen.] "Lass uns loslegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[100 KP zahlen.] "Lass uns loslegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Für einen Abend, an den du dich auch in deinem nächsten Leben noch erinnern wirst, verlange ich nur zweihundert Pand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[200 KP zahlen.] "Lass uns loslegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Nach solch einem Vergnügen kann ich unmöglich noch dein Geld nehmen. Bitte komm bald wieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Komm nächstes Mal wieder zu mir, wenn du noch schönere Dinge erfahren willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ich werde von Lust und Wanderlust zerrissen. Ich würde ja den Dyrwald bereisen, aber mir würde deine Gesellschaft fehlen ... " Er vergräbt sein Gesicht in seinen Händen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Nach solch einem Vergnügen kann ich unmöglich noch dein Geld nehmen. Bitte komm bald wieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Nach solch einem Vergnügen kann ich unmöglich noch dein Geld nehmen. Bitte komm bald wieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Wenn du je in der Gegend bist, könntest du mich in meiner Festung besuchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Weggehen] "Keine Sorge, ich werde zurückkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Er lächelt, als du dich ihm näherst. "Ich habe schon ungeduldig auf deine Rückkehr gewartet. Das gibt mir Zeit zum Nachdenken ... zum Planen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Lass mal hören, was dir so im Kopf umgeht ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich muss dich darum bitten, noch etwas länger zu warten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Oh, du erkennst die innigsten Wünsche meines Herzens. Das werde ich ganz gewiss."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

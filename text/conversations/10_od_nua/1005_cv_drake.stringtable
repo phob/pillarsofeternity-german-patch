@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1005_cv_drake</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Am Rand dieser weiten Kammer steht eine massive, reptilienhafte Kreatur, die von einer Menge plappernder Xaurips umgeben ist. Ihre Schnauze ist voll mit den blutigen Überresten der letzen Mahlzeit, und an ihren krummen Hauern hängen noch Fleischbrocken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Xaurips bewegen sich unruhig hin und her, wobei sie erwartungsvoll zum Jungdrachen emporschauen, der seine ledrigen Flügel herausfordernd aufspannt und die Säulen auf beiden Seiten streift.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ja, ja! Noch mehr Opfer!" Er schlägt kurz mit seinen Flügeln und wirbelt enorme Staubwolken hoch. "Komm hierher, [Player Race], lass dich ehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ehren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Diese Xaurips bringen dir Opfer dar - bist du der Meister in der Tiefe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Der Jungdrache stampft mit einem seiner klauenbewehrten Füße auf den Boden. "Ich spreche, und Fels erzittert. Ich spreche, und Echsen bringen Gold. Ich spreche, und speise gut. Ja, ich spreche!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Angreifen] "Ich glaube, ich werde deinen Kopf auf den Zinnen meiner Burg zur Schau stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Der Jungdrache stößt ein rasselndes, trotziges Kreischen aus, was die Xaurips veranlasst, ihre Speere in Anschlag zu bringen. "Es verletzt mich nicht. Meister machte mich zum Fürsten, hier. Meister machte mich zum König, hier. Und König wird Opfer bekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Große Ehre. Stärke für Echsen. Blut zum Malen. Glück. All das gebe ich. Ich bin gnädig und großartig." Der Drache reißt sein Maul auf und gibt den Blick auf sensenscharfe Zähne und eine gespaltene Zunge frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Du sprichst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Mir geht es hier ganz gut, danke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Der Jungdrache knurrt laut. "Hierher, sagte ich. Hierher!" Er zischt und krallt in die Luft, was einen Xaurip dazu zwingt, sich schnell außer Reichweite zu bringen. "Es widerspricht mir! Dummes, kleines, schwammiges Opfer! Wenn das Opfer nicht kommt, werden es die Echsen holen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Lass mich vorbei, dann wird dir nichts geschehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Was? Opfer kann nicht gehen." Während der Jungdrache lacht, bemerkst du, wie ein Teil der schuppigen Jungdrachenbrust orange zu leuchten beginnt. "Opfer ist nicht sehr schlau." Flammen züngeln aus seinen Nasenlöchern und seinem aufgerissenen Maul. "Meister machte mich zum Fürsten, hier. Hier bin ich König. Ich bin der Gott des Feuers und Goldes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Der Meister in der Tiefe ist unter uns. Opfer ist nicht sehr schlau." Während der Jungdrache lacht, bemerkst du, wie ein Teil der schuppigen Jungdrachenbrust orange zu leuchten beginnt. "Meister machte mich zum Fürsten, hier. Hier bin ich König." Flammen züngeln aus seinen Nasenlöchern und seinem aufgerissenen Maul. "Ich bin der Gott des Feuers und Goldes."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

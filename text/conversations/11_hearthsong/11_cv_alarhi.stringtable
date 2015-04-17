@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_alarhi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine alte Elfin in dicken Roben winkt dich heran. "Willkommen, Fremder. Willkommen!" Ihre Unterarme, voller grüner und blauer Flecken, zappeln aus ihren hängenden Ärmeln heraus wie Raupen aus reifem Obst.</DefaultText>
+      <FemaleText>Eine alte Elfin in dicken Roben winkt dich heran. "Willkommen, Fremde. Willkommen!" Ihre Unterarme, voller grüner und blauer Flecken, zappeln aus ihren hängenden Ärmeln heraus wie Raupen aus reifem Obst.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Willkommen zurück. Es freut mich, dich wiederzusehen. Immer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Was hast du im Angebot?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Natürlich, Fremder. Natürlich!"</DefaultText>
+      <FemaleText>"Natürlich, Fremde. Natürlich!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Estramor, so begegnen wir uns wieder. Hast du über mein Angebot nachgedacht, dich um Rinatto zu kümmern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Rinatto wird dir keinen Ärger mehr machen. Er hat die Stadt verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Du bist an unserem Herd willkommen. Welche Kunde bringst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Rinatto wird dir keinen Ärger mehr machen. Er ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Tot?" Alarhî hebt die Augenbrauen, ihre Haltung wird steif. "Das überrascht mich nicht, nach seinem bisherigen Verhalten - aber der Tod eines Vailianischen Kaufmanns könnte sich negativ auf den Handel auswirken."
+
+Alarhî greift in ihre Roben und holt einen kleinen Beutel hervor. "Dennoch, die Angelegenheit ist erledigt und Rinatto wird unseren Markt nicht länger verdüstern. Hier ist deine Bezahlung für deine Dienste. Sichere Reisen, Estramor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Alarhî nickt lächelnd. "Ich freue mich, dass du Rinatto überzeugen konntest, auf seinen eigenen zwei Beinen zu gehen - es hätte nur Arbeit gemacht, ihn auf einer Bahre zu entfernen."
+
+Alarhî nimmt einen kleinen Beutel aus ihren Roben und drückt ihn dir in die Hand. "Du hast gute Arbeit geleistet, Estramor - nimm das für deine Dienste. Und solltest du Kräuter oder Tinkturen brauchen, in meinem Laden wird man dich immer gut behandeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Willkommen, Freund der Fischerkraniche, willkommen! Unsere Hände begrüßen dich mit Wärme. Immer."</DefaultText>
+      <FemaleText>"Willkommen, Freundin der Fischerkraniche, willkommen! Unsere Hände begrüßen dich mit Wärme. Immer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ich werde diesen Augenblick nicht genießen, Estramor. Was willst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Für dich, Freund von Eir Glanfath, ein Freundschaftspreis. Immer."</DefaultText>
+      <FemaleText>"Für dich, Freundin von Eir Glanfath, ein Freundschaftspreis. Immer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Wie du wünschst, Fremder. Mehr Güte darfst du von uns nicht erwarten."</DefaultText>
+      <FemaleText>"Wie du wünschst, Fremde. Mehr Güte darfst du von uns nicht erwarten."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Alarhî steht aufrecht und stolz, umgeben von glanfathanischen Kriegern, die jede deiner Bewegungen genau beobachten. "Ich hatte erwartet, dass Rinatto jemanden anheuern würde - es überrascht mich nur, dass du es bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Sie neigt den Kopf zur Seite und blinzelt langsam. "Beunruhigt dich die Anwesenheit meines bewaffneten Gefolges? Du hattest mit einer wehrlosen Händlerin gerechnet, nicht wahr?"
+
+Alarhî hebt ihre mit Farbflecken gesprenkelten Hände, als eine ihrer Wachen nach vorne stürzt. "Stille!", blafft sie ihren Adjutanten an. "Gebt dem Estramor Gelegenheit zu sprechen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Eine alte Elfin steht aufrecht und stolz, umgeben von glanfathanischen Kriegern, die jede deiner Bewegungen genau beobachten. "Du sprichst in Rinattos Namen, nehme ich an? Ich wusste, er würde jemanden überzeugen, für ihn aufzutreten ... Ich nahm nur nicht an, dass es der Estramor sein würde, der in das ganze Chaos in Trutzbucht verwickelt ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ich komme wegen Rinattos Geld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ich will deine Seite der Geschichte hören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Der Vailianer ist mir egal. Vielleicht kann ich stattdessen dir helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Die alte Frau lächelt dich mit hochgezogener Augenbraue an. "Natürlich ... was lieben die Estramorwn mehr als Münzen?"
+
+Aus den Falten ihrer Robe zieht sie eine kleine Wurzel hervor und hält sie sich unter die Nase, um ihren Duft einzusaugen. "Der Fischerkranich-Stamm umwirbt die Erde seit Generationen. Glaubt Rinatto etwa, diese Kräuter würden wie Unkraut aus dem Boden schießen? Ohne unsere Mühen? Ohne Schweiß?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Salben, Tränke, Tinkturen!" Sie deutet mit einer ausladenden Geste auf eine Sammlung von Tiegeln, Töpfen und Kräutern hinter sich. "Was du auch suchst, ich habe es. Immer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Wir sind keine barbarischen Dyrwäldler. Hier herrscht die Gastfreundschaft!" Alarhî nickt dir zu. Sie hält eine offene Hand hoch, ihre Handfläche und ihre Finger voller blauer und grüner Farbe.
+
+"Gesandter des Vailianers, sprich die Botschaft, die du überbringen sollst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Alarhî zerdrückt den Pflanzenstrunk zwischen ihren Handflächen. Rostrote Flecken gesellen sich zu der blauen und grünen Farbe, mit der ihre Hände bereits bedeckt sind.
+
+"Das Geschäft ist vollzogen. Rinatto hat die Früchte unserer Ernte. Wir können den Vailianer ebenso wenig mit seinem Geld wiedervereinen, wie wir die Elardh Golah-Blätter wieder an den Stamm heften können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Sag Rinatto, er muss die Konsequenzen des Geschäfts akzeptieren, das er ausgehandelt hat. Wenn er weiter falsche Tränen der Entrüstung schluchzt, werden wir ihm zeigen, wie bockige Kinder zur Disziplin erzogen werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Meine Geduld ist am Ende. Gib. Mir. Das. Geld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Die alte Frau blickt zu ihren Wachen, dann zu dir und hebt eine Augenbraue. "So schnell? Wie wenig Geduld du doch hast."
+
+Sie schnippt mit den Fingern und ihre Wachen stehen stramm. "Reinigt meinen Herd von diesem Abschaum!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Der erste Schritt eines jeden vernünftigen Wegs", sinniert sie, während sie sich am Kinn kratzt.
+
+"Rinatto hat von mir mehrere Bündel Elardh Golah gekauft. Er hat dafür einen hohen Preis bezahlt, doch das hat er willentlich getan - er sagte, es wäre ein 'Schnäppchen', als er mir sein Kupfer überreichte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Nach unserem Handel fing der Vailianer an, Gift zu spucken!" Alarhîs Stimme wird zornig.
+
+"Rinatto hat mich der Täuschung bezichtigt, des Betrugs - er behauptete, ich hätte eine verwelkte, ähnlich aussehende Pflanze geliefert, nicht die echte Elardh Golah-Wurzel!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Diese Unverfrorenheit! Denn in Wahrheit kann ihm auch Elardh Golah nicht mehr helfen." Sie hält einen blau gefärbten Finger in die Höhe, bevor sie ihn langsam nach unten senkt ... lächelnd. "Rinattos alter Bogen ist nicht mehr straff genug, um sich ganz spannen zu lassen. Auch ein ganzer Berg Elardh Golah wird ihm nicht den Speer eines jungen Jägers verschaffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Es wurde ein gerechtes Geschäft getätigt. Und nun beschwert Rinatto sich - zornig, dass sein rostiger Familienpflug durch Heilkräuter nicht gerettet werden kann."
+
+Sie schüttelt den Kopf, ihre Stimme wird zu einem Knurren. "Noch niemals habe ich jemandem ein falsches Heilmittel verkauft! Wenn Rinatto sein verleumderisches Mundwerk nicht schließt, dann stopfen wir es ihm!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"An welche Bestrafung hattest du für Rinatto gedacht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Rinatto hat seinen Gastgeber verunglimpft - er ist hier nicht länger willkommen. Er muss aus Zwillingsulmen verschwinden." Sie verschränkt die Arme unter den Ärmeln ihrer Robe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Aber die glanfathanische Gastfreundschaft muss gewahrt werden, immer. Er bekommt die Gelegenheit, auf seinen Füßen zu gehen, bevor er auf seinem Rücken blutet. Erteilt ihm in unserem Namen eine Warnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Sag Rinatto, wenn er nicht geht, wird man ihm vorwerfen, engwithanische Relikte aus unseren Landen stehlen zu wollen. Er wird einen Prozess durch den Rat der Anamfatha nicht riskieren wollen."
+
+Alarhî zieht einen kleinen Holzkäfig aus den Falten ihrer Robe. "Wenn er nicht hört, sag ihm, dass sein schlaffes Organ in einem Käfig enden wird, genau wie dieser schwarze Käfer. Futter für unsere Vögel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Sie blickt dich lange an. "Du verrätst ihn?" Sie hebt eine Augenbraue und lächelt spöttisch.
+
+"Rinatto muss aus unserer heiligen Stadt verschwinden. Er sät Misstrauen und muss gejätet werden. Wenn du uns helfen möchtest, überzeuge ihn, anderswo weiterzuleben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ich werde die Botschaft überbringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ich habe genug gehört. Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Der Ruf deines Stammes ist an deine Taten gebunden. Möchtest du, dass deine zukünftigen Handelspartner sich so an dein Volk erinnern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Sag mir noch einmal, wie ich dir helfen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Als Freund von Zwillingsulmen bitte ich dich, dem Vailianer sein Geld zurückzugeben. Als Gefallen für mich."</DefaultText>
+      <FemaleText>"Als Freundin von Zwillingsulmen bitte ich dich, dem Vailianer sein Geld zurückzugeben. Als Gefallen für mich."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Die Glanfathaner blicken einander an. In ihren Gesichtern leuchtet die Uneinigkeit. Ein Stimmengewirr erhebt sich um den Herd des Wohnraums, bis Alarhî, die Augen fest geschlossen, kräftig auf den Boden stampft. "Schluss! Stille!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Sie wartet, bis die Stimmen ihrer Kameraden verstummen, bevor sie die Augen öffnet. "Du sprichst mit weit vorausschauendem Urteil. Der Handel stärkt alle unsere Stämme, und Rinattos Behauptung, so falsch sie auch sein mag, kann Gift für uns alle sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Wir werden die Schmach ertragen, diesen Lügner profitieren zu lassen, wenn wir dadurch die friedliche, ehrwürdige Einigkeit in Zwillingsulmen wahren können."
+
+Alarhî zieht einen Ärmel hoch. In ihrer Hand baumelt ein Lederbeutel. Das Klimpern von Kupfermünzen erfüllt den Raum. "Bring dies dem Vailianer mit dem ... Segen ... des Fischerkranich-Stamms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Die alte Frau blickt dich mehrere Augenblicke lang an, halb stirnrunzelnd, halb lächelnd.
+
+"Gefallen gegen Gefallen? Kaum anders, als Münzen gegen Kräuter zu tauschen - Dinge gegen Dinge. Leere Gesten zum eigenen Vorteil. Und doch ... " Sie blickt auf ihre fleckigen Hände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Du hast Blut und Schweiß für unser Volk vergossen." Alarhî legt ihre Hände zusammen und verschränkt die Finger. "Leere Gesten finden ihren Inhalt ineinander, als Einheit." Sie lässt ihre Hände fallen und nickt dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Alarhî nickt dir zu. "Komme wieder, wenn der Vailianer aus Zwillingsulmen verschwunden ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ich habe, was du suchst. Immer. Komm und sieh!" Sie verbeugt sich und lächelt immer wieder und deutet dazwischen auf ein kleines Mädchen neben dem Laden der Kräuterkundlerin. "Wir sind hier, um zu helfen, Fremder. Oh ja, das sind wir. Der Fischerkranich-Stamm dient deinem Volk."</DefaultText>
+      <FemaleText>"Ich habe, was du suchst. Immer. Komm und sieh!" Sie verbeugt sich und lächelt immer wieder und deutet dazwischen auf ein kleines Mädchen neben dem Laden der Kräuterkundlerin. "Wir sind hier, um zu helfen, Fremde. Oh ja, das sind wir. Der Fischerkranich-Stamm dient deinem Volk."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Danke, Estramor. Mein Dank ist dir sicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Kehre zu deinem vailianschen Meister zurück, Estramor. Es gibt nichts weiter zu besprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

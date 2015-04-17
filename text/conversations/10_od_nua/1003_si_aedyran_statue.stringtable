@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1003_si_aedyran_statue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese in einer dezenten Nische aufgestellte Steinfigur scheint kühnen Schrittes voranzuschreiten, wobei sie einen Arm hochstreckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Statue inspizieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Anhand des Kleidungsstils und den aufgeplatzten Bartresten auf der Statue vermutet [SkillCheck 0], dass es sich hierbei um den Graf von Yenwald handelt. Dieser berühmte Krieger war dafür bekannt seine Krieger mit einem leuchtenden Säbel in die Schlacht zu führen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Statue ist zwar alt, scheint aber nicht so verfallen wie die anderen Objekte an diesem Ort zu sein. Die Steinfigur trägt Kleidung im aedyranischen Stil, was nahelegt, dass sie ein Überbleibsel aus der Zeit der aedyranischen Kolonisierung ist. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Den Säbel 'Entschlossenheit' in den Griff der Statue platzieren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Hinter den Wänden im Rücken der Statue hörst du das schleifende Mahlen eines Mechanismus . Nach dem Geräusch schabenden Steins schiebt sich näher bei dir ein Stück Wand zur Seite und gibt eine Türöffnung frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Körperhaltung der Statue mit erhobenem Säbel lässt auf eine unmittelbar bevorstehende Aktion schließen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Den Säbel entfernen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du ziehst an dem Säbel, aber er scheint fest im Griff der Statue zu sitzen. Mit weiteren Bemühungen riskierst du, die Klinge zu beschädigen - oder dich in die Handfläche zu schneiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Steinfigur ist mit den verblassenden Resten ihres Goldüberzugs bedeckt. Anscheinend hat sie früher etwas fest im Griff gehalten. Ihrer Körperhaltung nach zu schließen, handelte es sich dabei wahrscheinlich um eine Waffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Anfangs gleitet der Säbel problemlos hinein, das letzte kleine Stück aber musst du ihn hineindrücken. Als sich der Unterarm der Statue plötzlich verschiebt und rotiert, hörst du ein dumpfes Knacken.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

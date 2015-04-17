@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_defiance_bay_first_fires\02_qst_winds_of_steel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Stahlwinde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise nach Anslogs Kompass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Triff dich dort mit Aranroed am Dock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre nach Burg Schmelztiegel zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Besiege die verbrecherischen Schmiederitter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre nach Burg Schmelztiegel zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Sprich mit Kommandant&#160;Clyver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Schmiederitter von Kommandant&#160;Clyver scheinen ein Erfolg zu sein. Tatsächlich möchte der Hochrichter sich vergrößern, indem seine Schmiedemeister noch mehr Schmiederitter auf Burg&#160;Flottenbrecher bauen. 
+
+Kommandant&#160;Clyver bat mich, die Forschungsunterlagen zu einem der Kommandanten des Hohen Gerichts in Anslogs Kompass zu bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Anslogs Kompass ist eine Lagune nördlich von Trutzbucht. Kommandant&#160;Clyver erzählte mir, dass der Kurier des Hohen&#160;Gerichts, eine Kommandantin namens Aranroed, dort warten würde. Ein Schiff direkt nach Trutzbucht zu schicken, würde wahrscheinlich die Aufmerksamkeit der Dutzenden erregen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Aranroed wird am Dock auf die Forschungsunterlagen warten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe Aranroed die Forschungsunterlagen überbracht, und sie befindet sich nun auf dem Rückweg nach Burg&#160;Flottenbrecher. Ich sollte nach Burg Schmelztiegel in Urfeuer zurückkehren – Kommandant&#160;Clyver wird erfahren wollen, dass die Forschungsunterlagen erfolgreich übergeben wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich bin in Burg Schmelztiegel angekommen und musste feststellen, dass die Schmiederitter Amok gelaufen sind. Die Schmelztiegelritter kämpfen scheinbar eine Schlacht ohne Aussicht auf Erfolg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Da Aranroed tot ist, werden die Forschungsunterlagen über die Schmiederitter nie nach Burg&#160;Flottenbrecher gelangen. Jedenfalls sollte ich nach Burg Schmelztiegel in Urfeuer zurückkehren und Kommandant&#160;Clyver Bericht erstatten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Nach dem Ende der Bedrohung durch die Schmiederitter sollte ich mit Kommandant&#160;Clyver reden und herausfinden, was hier geschehen ist. Ich sollte ebenso berichten, was in Anslogs Kompass passiert ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe einen Hinterhalt der Dutzenden überlebt, die versuchten, Viannas Forschungsunterlagen zu stehlen. Sie waren darauf erpicht, dass sie nicht auf Burg&#160;Flottenbrecher ankommen. Aranroed ist nun auf ihrem Weg, die Forschungsunterlagen zu überbringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich weiß nicht, was mit den Schmiederittern schiefgelaufen ist, doch vielleicht kann Kommandant&#160;Clyver das erklären – falls er die Schlacht überlebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Padebald, ein Mitglied der Dutzenden, hat die Schmelztiegelritter und mich bei der Übergabe überfallen. Die Dutzenden sind darauf aus, die Schmelztiegelritter davon abzuhalten, eine Armee auszuheben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe dabei geholfen, Burg Schmelztiegel vor den Schmiederittern zu verteidigen. Clyver hat sich bei mir bedankt und mir versprochen, mich in Zukunft zu unterstützen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Kommandant&#160;Clyver ist tot. Ich werde jetzt nicht mehr auf die Unterstützung der Schmelztiegelritter zählen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_bs_jaesun</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bitte halten Sie während Ihres Aufenthalts alles in bester Ordnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ist das Ihr erster Besuch im Klub der kultivierten und angesehenen Ehrenmänner, mein Herr?"</DefaultText>
+      <FemaleText>"Ist das Ihr erster Besuch im Klub der kultivierten und angesehenen Ehrenmänner, meine Dame?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Unsere Mitglieder schätzen reife und kultivierte Diskurse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Es ist wahrscheinlich besser so, dass die Goldene Klinge der Einsamkeit zerbrochen wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

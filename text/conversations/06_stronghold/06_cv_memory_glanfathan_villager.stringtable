@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_memory_glanfathan_villager</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Geisterhafter Rauch wirbelt um dich herum. Zuerst kannst du außer dem Nebel nichts sehen, allmählich aber erkennst du die verschrumpelte, gebeugte Gestalt eines alten Elfen. Sein Gesicht und seine knochigen Arme sind mit Farbe verschmiert.
+
+"Das könnt ihr doch nicht machen!" Er schüttelt seinen Kopf und speit dir die Worte förmlich entgegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Was denn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Zuhören.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Das ist unser Dorf. Geht nach Hause! Die Neun Klauen haben hier seit fast fünfzig Generationen gelebt." Du kannst nicht erkennen, ob er wegen des Rauchs blinzelt oder dich finster anblickt. "Wir waren schon lange hier, bevor eure Art den Krieg in unsere Lande gebracht hat."
+
+Ein Husten lässt ihn erbeben. "Ihr könnt nicht einfach alles verbrennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Nach einer Pause zieht er sich zurück und starrt dich entsetzt an, anscheinend eine Reaktion auf etwas, das du eigentlich gar nicht gesagt hast. An den Rändern deines Sichtfelds aber flackern illusorische Flammenzungen.
+
+"Hab Gnade, Soldat! All unsere Krieger sind gegangen ... " Er hustet. "Ihr könnt uns nicht alle wegen ihnen verbrennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Er greift nach dir und öffnet seinen Mund, um etwas zu sagen, aber statt Worten kommt nur eine heftige Hustenkette. Er fällt auf die Knie und erstickt am dichter werdenden Rauch. Als du dich zurückziehst, wird dein Blick von Flammen eingenommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Verschwindet aus unserem Dorf! Wir haben euch nichts getan!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

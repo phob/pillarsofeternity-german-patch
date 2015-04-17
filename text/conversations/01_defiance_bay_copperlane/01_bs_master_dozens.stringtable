@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_master_dozens</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vergiss die Burg. Das Admeths Lager ist das wahre Herz von Trutzbucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die verschwommene Gestalt ist groß und breitschultrig. Ihr flackerndes, undeutliches Gesicht ist auf den Boden gerichtet, als ob sie tief in Gedanken versunken wäre. Du hörst ein schwaches Murmeln im sich wiederholenden Rhythmus eines Gebets. Von Zeit zu Zeit scheint der Geist auf der Stelle zu schwanken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Was soll denn am Plündern falsch sein? Diese Artefakte hat doch seit Jahrhunderten niemand angefasst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Duc Aevar ist ein Mann des Volkes. Er wird es nicht zulassen, dass dieser Beseelungsunsinn fortgesetzt wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Wie würde es dir gefallen, diesen eitlen Mistkerlen in der Burg eins auszuwischen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Du bist die Ratte, die Osric ermordet hat!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Du stehst sogar noch unter Penhelm, diesem Stück Scheiße."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Du siehst so aus, als hättest du schon das ein oder andere in der Wildnis gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ach, ich war schon bei ein paar Expeditionen mit dabei. Man verdient ganz gut, wenn man lebend zurückkommt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Unsere 'illegalen' Expeditionen sind dem Duc egal, den Rittern aber nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Wir sind diejenigen, die Readceras im Krieg des Heiligen besiegt haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Du stehst sogar noch unter Penhelm, diesem Stück Scheiße."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Wie würde es dir gefallen, diesen eitlen Mistkerlen in der Burg eins auszuwischen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Du bist die Ratte, die Osric ermordet hat!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Möge dir ein glanfathanischer Späher Osrics Rüstung vom Leichnam brechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich wünschte, ich hätte Penhelms Gesicht sehen können ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Mich beschleicht das Gefühl, dass du hier ganz gut hineinpassen wirst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Wir könnten mehr ungehobelte Typen wie dich brauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Du siehst so aus, als hättest du schon die eine oder andere Schlacht geschlagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Schön, dich zu sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Mach dir um Osric keine Gedanken. Die Burg hat ihn zerkaut und wieder ausgespuckt. Er ist immer noch wütend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Gibt es in der Wildnis denn gutes Tagewerk?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Die meisten Ruinen, die es zu erkunden lohnt, liegen jenseits des Dyrwalds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Wenan hat mir viel über dich erzählt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Wenn die Ritter losziehen, wirst du uns doch den Rücken stärken, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Zu schade um diese alten Bronzewaffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Wir brauchen keine Antiquitäten, um uns gegen die Ritter behaupten zu können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Geh weiter, du Kriecher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ohne ihre schicken Rüstungen sind deine Freunde in der Burg nicht annähernd so zäh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Gedmars Vorväter unterstützten das schlaffe Zepter. Vergiss das nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Deine Freunde, die Doemenels, könnten selbst auch gut Aedyraner sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Du bist gar nicht so übel. Für einen Aedyraner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Im Land der Lebenden gibt es bestimmt viele gute Expeditionen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Auf dem Todesfeuer-Archipel gibt es bestimmt mehr als genug Kopfgelder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Da das Sanatorium jetzt nicht mehr ist, kann das Vermächtnis nun jederzeit zu Ende gehen. Pass nur auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Das ist der Beweis. Die Ritter waren die wahre Macht hinter dem Duc."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Es ist an der Zeit, dass wir für das gemeine Volk von Trutzbucht eine Lanze brechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Wie man sagt, haben die Doemenels sogar Marschall Wenfeld selbst angeboten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Jemand hat den Rittern einen Marschall angeboten. Jetzt denken alle, dass wir das waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich will nicht behaupten, dass wir Wenfeld nicht getötet hätten, aber jemand anderes ist uns zuvorgekommen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Hier solltest du lieber vorsichtig sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Beleidigungen nehmen wir nicht auf die leichte Schulter, kapiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Die Dutzenden vergeben und vergessen nicht. Geh uns aus dem Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Verschwinde. Ich kann deine Entschuldigung kaum noch erwarten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ich bin mir nicht sicher, ob du auf unserer Seite stehst oder nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ich habe viel von dir gehört - Gutes und Schlechtes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Du vereinst wirklich seltene Extreme in dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

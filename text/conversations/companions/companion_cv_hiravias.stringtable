@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_hiravias</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>192</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Als reiselustiger Einzelgänger bin ich nicht mit den jüngsten Neuigkeiten vertraut. Die Geschichte über die hohlgeborenen Kinder aber hat selbst meine zurückgezogenen Ohren erreicht - oder vielmehr mein Ohr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Hiravias fasst sich an sein Ohr, das halb in Fetzen hängt, und denkt mehrere Sekunden lang über etwas nach.
+
+"Das war nicht ... äh, ganz freiwillig, zumindest anfangs nicht. Ich wollte immer ein Jäger werden - ich habe mein Ziel lediglich über einen anderen Weg erreicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Wild?!" Seine Stimme wird vor Empörung eine Oktave lauter. "Ja, wir waren wohl alle ein bisschen WILD, da mein Stamm nomadisch war und wir nicht in festen Behausungen wohnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Beim Schoße meiner Mutter", sagt er. "Du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Zuhause ist auch nicht mehr, was es mal war." Er zuckt mit den Achseln. "Der Rest sind nur Feinheiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Erzähle mir etwas über dich selbst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Das ist im Augenblick alles. Lass uns unsere Reise fortsetzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Hättest du einen Moment Zeit, mein Wächter-Freund?" Ohne auf deine Antwort zu warten, reibt er seine Hände aneinander und kommt dir näher, wobei er seine Stimme senkt.
+
+"Ich bin begeistert, dass wir nach Zwillingsulmen gehen werden ... nervös, aber begeistert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Was an Delemgen ist es wohl, dass meinen Stamm zum Sprießen bringt? Meine Logik sagt mir eigentlich, dass sie keinen saftigen Löcher haben und einen wahrscheinlich nach der Kopulation umbringen. Trotzdem ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Brauchst du was?", fragt er dich mit einer erhobenen Augenbraue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Ihn von der Gruppe zur Seite nehmen.] "Können wir über die Mitglieder unserer Gruppe sprechen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Was möchtest du wissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Wie ist es dazu gekommen, dass du als Druide ausgebildet wurdest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Sind die meisten Orlaner in Eir Glanfath nicht Wilde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Woher stammst du ursprünglich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Also, warum hast du dich so weit von Eir Glanfath entfernt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Haben dir die Waldbewohner beim Heranwachsen viele Schwierigkeiten gemacht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Ich möchte mehr über Galawain und Wael erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Welche Geschichte steckt hinter dem Symbol von Wael auf deiner Augenklappe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Welches Verhältnis hast du zu Galawain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Wael lernte ich während meines ersten Jahres im Exil erst richtig kennen. Ich fragte mich, warum Galawain mich dafür bestrafen sollte, Fragen zu stellen - welcher gerechte Gott bestraft einen dafür, das zu tun, was er verlangt?"
+
+"Die Hinterfragung meiner Zerfleischung machte mich einfach verrückt. Auf dem Höhepunkt meiner Sorgen hatte ich Träume, in denen ich nur mit meinem verletzten Auge sehen konnte - mein 'gesundes' Auge dagegen war in meinen Träumen blind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Während er über deine Frage nachdenkt, legt er die Stirn in Falten. "Betrachte es als erloschene Ergebenheit. Ich werden den Gott der Suche immer respektieren, aber er ließ mich der Zerstörung anheim fallen, als ich lediglich nach Wissen strebte - genau so, wie es seinen Lehren entsprach."
+
+Er verschränkt seine Finger und dehnt sie, bis die Gelenke knacken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Genauer betrachtet, zu einem anderen Zeitpunkt ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Hiravias zuckt mit den Achseln. "Dein Pech."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Erzähle mir über Eir Glanfath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"In der Tat", sagt er kichernd. "Du weißt sicherlich sehr gut darüber Bescheid, wie viel sich Orlanerkinder zanken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Wael ist als das Augenlose Gesicht bekannt, als schien mir sein Symbol gut auf meine Augenklappe zu passen."
+
+Gedankenverloren fährt er mit seinem Finger den Riemen der Augenklappe entlang. "In meinem Heimatstamm ist Wael-Bilddeutung ziemlich beliebt, aber hier im Dyrwald scheint er weithin nicht so verehrt zu werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Als ich ein Kind war, kam ein Anamfath zu Besuch. Ein Ehrengast ist ein Anlass für eine große Jagd, ich aber durfte nicht teilnehmen ... man trug mir stattdessen auf, dem alten Weisen Mundschenk zu sein, während alle anderen auf die Jagd gingen."
+
+"Du ahnst gewiss, was passierte: weiser Anamfath schenkt dummem Kind Aufmerksamkeit. Wir redeten, bis die Jäger zurückkehrten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Er gab mir-" Seine Hände jagen über seinen Körper, wobei sie alle Taschen und Falten seines Waffenrocks durchsuchen. "-das hier."
+
+Er zeigt dir ein verrostetes, eisernes Medaillon in Form eines Hundekopfes - ein unter Grenzbewohnern, Entdeckern und anderen Anhängern von Galawain weit verbreitetes Symbol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Der Anamfath bestand auf meine Ausbildung, und niemand in meinem Dorf widersetzte sich ihm. Jetzt ... " Er lächelt breit. "Brauche ich keinen Bogen zum Jagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Es ist ein grünes Land voller Geschichte, Kultur und natürlicher Schönheit." Mit fast flüsternder Stimme fügt er hinzu: "Und wir haben schon genügend unerwünschte Eindringlinge, also solltest du besser nicht auf Besuch kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Vermisst du es?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Warum sollte ich Eir Glanfath meiden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Er sieht dich verblüfft an. "Dort gibt es keine Städte zu besuchen, keine Handelszentren zu entdecken - anscheinend kommen die meisten Besucher in unsere Lande, um die engwithanischen Ruinen zu plündern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Die antiken Engwithaner gaben unseren Vorfahren die Wälder, und im Gegenzug hatten wir ihre Ruinen zu bewachen, um ihre Unberührtheit zu sichern. Und bevor du mich fragst: Nein, wir haben keine geheimen Losungsworte oder Handzeichen. Niemand betritt die Ruinen - nicht mal die Wächter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Früher", sagt er mit einem leichten Stirnrunzeln. Er kratzt sich an seinem zerfetzten Ohr und schaut nach Osten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Es ist die Heimat, ich werde letztendlich dorthin zurückgehen, aber ... "
+
+Er richtet seine Aufmerksamkeit auf seine Schulter und zupft sich ein kleines Samenkorn von den Fasern seines Waffenrocks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Siehst du das?" Er hält das Samenkorn hoch. "Ich weiß, es ist nur ein Samenkorn - aber so eins habe ich noch nie gesehen, und ich kann kaum erwarten, was daraus wachsen wird. Jeden Tag sehe ich hier draußen etwas Neues. Eines Tages werde ich in die Heimat zurückkehren, aber für's Erste übertrifft meine Neugier mein Heimweh um das Siebenfache."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Mein zweitliebstes Thema", sagt er, während er sich mit den Fingern über den Kopf fährt und sein Fell glättet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Aber ich verstehe, warum du zu fragen versuchst ... ja, die leichte Mehrheit der glanfathanischen Orlaner hat ein Waldfell. Da ich mit einem Auenfell aufwuchs, hielt man mich für schwächer als die anderen Gleichaltrigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Der Jagdmeister meines Stammes wählte nur Lehrlinge unter den Waldbewohnern aus, oder vielmehr- "Hiravias räuspert sich höhnisch -"WILDE Orlaner, wie sie unter sklavenbesitzenden Frömmlern genannt werden ... auch unter den Frömmlern, die kein Geld für Sklaven haben ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Ich war der Kleinste meines Jahrgangs - sogar noch kleiner als die mit Auenfell. Der Jagdmeister meines Stammes sortierte mich als 'zu klein für die Jagd' aus und stellte die Regel auf, dass jeder, der größer war als ich, mit den Erwachsenen herumstreifen durfte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Ich meinte, aus welchem Land kommst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Macht nichts, aber lass uns doch über etwas anderes sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Ich habe keine Zeit dafür, leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>[Schweigend starren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Was für ein Zufall, wegen des Schritts deiner Mutter bin ich AUCH gekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Bist du immer so ordinär?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Ich wuchs in Eir Glanfath auf - genauer gesagt in und um Theinsumpf. Meine Leute, der Fischerkranich-Stamm, sind nomadische Verwalter des Landes. Ich bin schon viele Male an jedem Ort in Glanfath gewesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Was halten die Glanfathaner vom Dyrwald und seiner Bevölkerung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Druiden sind dafür bekannt, sich in Tiere zu verwandeln - welche Kreaturen sind es bei dir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Da ich mich jetzt aber in ihren Landen befinde, werde ich - im Sinne der akademischen Gerechtigkeit - zugeben, dass ich schon ein paar ... mehrere ... anständige ... kaum fanatische Dyrwäldler getroffen habe."
+
+Er schaut misstrauisch und verschränkt die Arme. "Aber mein Verdacht, dass sie alle Säufer sind, hat sich als durch und durch wahr herausgestellt. Ich frage mich, welchen großen Wunder sie wohl vollbringen könnten, wenn sie alle nüchtern würden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Hiravias spuckt aus. "Ausländische Plünderer, besessen mit Reichtümern und Wein. Mögen ihre Eingeweide von nässenden Geschwüren verstopft werden - und zwar alle!"
+
+Während er sich an seinem Ohrstummel kratzt, bleibt seine Stirn weiter in Falten. "Nicht dass du in mir einen neutralen Gesprächspartner hättest: Wenn ich, wie so häufig, ein unausstehliches Kind war, sagten mir meine Eltern, Dyrwäldler würden mich im jetzigen UND im nächsten Leben versklaven, wenn ich mich nicht benehme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Wenn du darüber sprechen möchtest, bin ich ganz Ohr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"So eine knappe Antwort bin ich von dir aber nicht gewöhnt. Was hältst du zurück?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Ja, wohl war. Mich wie ein schnippischer Scheißkerl zu benehmen gestattet mir, nutzlosen Konversationen über Dinge wie meine Kindheit zu entgehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Übrigens, damit das klar ist: Nur ich darf meine Mutter beleidigen - aber ich lasse das nochmal durchgehen, weil ich dein engagiertes Geplänkel schätze ... " Er kneift sein Auge vor dir zusammen. "Aber nur dieses Mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Er schaut dich mit leerem, ernsten Gesichtsausdruck an und deutet auf sein halbes Ohr. "Wie lustig, auf Kosten eines entstellten Mannes Spaß zu haben ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Das ist eine lange Geschichte, und ... " Hiravias verlagert sein Gewicht von einem Bein auf das andere. "Und ich habe sie noch nie einem Außenstehenden erzählt, aber hab Nachsicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Verzeih meine Frage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Hiravias zuckt mit den Achseln und sagt nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Geheimnisse kann ich in meiner Gruppe nicht gebrauchen. Los, heraus mit der Sprache!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Jaja ... " Er greift sich an die Stirn und wendet sein Gesicht von dir ab. "Ich schätze, du solltest es wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Ich hatte mit der Geisterwandlung zu kämpfen - dem letzten Initiationsritual meiner Druidenausbildung. Ich betete für Einsicht zu Galawain und begab mich im Stile der Sucher vergangener Zeiten alleine in den Wald, um ihn um Anleitung zu bitten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Und dann erhielt ich meine Antwort." Er zuckt mit den Achseln. "Eine Antwort ... in Form eines kräftig gefärbten Stelgaer, der aus dem Unterholz sprang und überdeutlich unter Beweis stellte, dass er auch Dinge fressen kann, die ein Fünfzehntel so groß wie er sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Jeder Mann mit Narben wie den deinen hat eine Geschichte auf Lager - wenn du sie mir jetzt nicht erzählst, werde ich dich einfach später nochmal fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Da du mir diese Geschichte selbst erzählen kannst ... wie hast du das Biest abgewehrt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Das ist ja schrecklich! Ich bin dankbar, dass du überlebt hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Lass mich mal raten - das Biest hat dir ein bisschen Vernunft in den Schädel geprügelt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"So furchtbar wie das auch klingen mag: Es ist ein fantastisches Initiationsritual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Du kannst mich ma-" Er schüttelt seinen Kopf. "Ach, das hast du tatsächlich ernst gemeint?"
+
+Er errötet und schaut grinsend zu seinen Füßen hinab. "Danke, die Meinen konnten dieser Geschichte nichts Positives abgewinnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Abwehren?" Er zieht das Gesicht eines beleidigten Mannes, grinst aber zu breit, um seine Belustigung verbergen zu können. "Ich riss ihm den Arm aus und schlug ihn in die Flucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Hiravias lacht über deine Antwort. "Dafür, wie du mit mir sprichst, sollte ich dich eigentlich hier auf der Stelle ausweiden, aber du hast vollkommen Recht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Ich erinnere mich an meine Gegenwehr, als das Biest kleine Stückchen meiner Schönheit herausriss, wie ich mit zu kurzen Armen um mich schlug. Ich spürte, dass ich nur noch Kraft für einen letzten Schlag gegen die Nase des Biests hatte, und als ich zuschlug, fühlte sich mein Arm doppelt so massiv an und aus meinen Fingern wuchsen Krallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Mit einem plötzlichen Kraftschub wandelte ich mich in ein Spiegelbild meines Angreifers. Anscheinend konnte er es mit jemand seiner eigenen Größe nicht aufnehmen. Als der Kampf zu Ende war, hing sein abgetrennter Arm in meinem Maul, und das Biest humpelte besiegt von dannen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Ja, hat mich nur die Hälfte meines Gesichts gekostet." Seine Finger spielen trommelt sanft auf seinem Ohrstummel, bevor sich wieder ein Lächeln auf seinem kleinen Gesicht breitmacht. "Und damit das klar ist: Der davonhumpelnde Stelgaer sah viel schlimmer aus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Das ist aber eine ziemlich beeindruckende Geschichte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Schon, was? Ich dachte, das Geisterwandeln zu erlernen, würde mir etwas Respekt einbringen - vielleicht würde mir sogar ein aedyranisches Mädchen mit einem Faible für kleine Männer ins Netz gehen. Ach, wäre ich ein Anfänger geblieben, es wäre mir womöglich besser ergangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Als ich in mein Dorf zurückschlenderte, sahen sie meine Wunden und fragten mich, was passiert sei. Ich ... zeigte es ihnen. Sie nannten meine Form einen 'Herbst-Stelgaer' und ..." Er öffnet seinen Mund, zögert aber einen langen Augenblick, bevor er mit Bedacht weiterspricht.
+
+"... sie waren gar nicht beeindruckt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Die Rîow meines Zirkels halten den Herbst-Stelgaer für eine verruchte Abscheulichkeit - man sagt, dass die Seele unwiederbringlich verloren geht, wenn man von so einem Biest gefressen wird. Da dies meine erste und intuitivste Form war, hielten sie mich für einen Träger ihres Bösen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Obwohl ich meine Leute niemals auch nur bedrohte, wurde ich als unpassend beurteilt und verstoßen."
+
+Hiravias seufzt und kratzt sich in seinem vernarbten Gesicht. "Ich weiß nicht, was mir Galawain damit sagen wollte, denn daraus lernte ich nur, dass einen der Gott der Sucher bestraft, wenn man sucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Also bist du eine Art Seelenkannibale?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Du hast deine Geisterwandlerform nicht selbst ausgewählt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Wurdest du endlich als richtiger Druide angesehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Könntest du lernen, dich in eine andere, weniger schreckliche Form zu verwandeln?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Danke, dass du deine Geschichte mit mir geteilt hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Hiravias starrt mit einem Stirnrunzeln an, bevor er sein Gesicht mit den Händen verbirgt.
+
+"Nein", brummelt er. "Zumindest glaube ich nicht, dass es geht. Ich habe mich niemals hingesetzt und eine ganze Person gefressen, um es herauszufinden. SO neugierig, das herauszufinden, bin ich auch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Nein", sagt er aufgebracht, "Es hat mich ausgewählt - zumindest bilde ich mir das ein. Ich hatte immer angenommen, dass ich mich in einen Hermelin verwandeln würde - scheint meiner wahren Natur näherzukommen." 
+
+Er deutet auf das Abbild Waels, das auf seine Augenklappe gestanzt wurde. "Wie es Der Verschleierte lehrt: Wenn die Antwort rätselhaft ist, muss man sich damit zufrieden geben, über die Frage nachzudenken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Seine Stirn legt sich in Falten. "Nein. Aber ich weiß, dass ich ein Initiationsritual bestanden habe, das fünfmal so gefährlich war wie das dieser Verräter am eigenen Volk, die darauf bestanden, dass ich gescheitert sei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Kann ich bereits, und manchmal mache ich das auch", sagt er mit einem strahlenden Lächeln, dass aber schnell wieder zu einem Stirnrunzeln zurückkehrt. "Aber die Druiden meines Zirkels messen der ersten Form große Bedeutung zu - für sie werde ich für immer unrein sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Er errötet und zupft an seinem Wams. "Nun ... wenn du mich nicht kennst, kannst du mir nicht trauen, und wenn du mir nicht trauen kannst, dann ist es ziemlich unwahrscheinlich, dass du in die Flugbahn eines Pfeils springen würdest, um mein Leben zu retten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Ich wollte die Druiden in Zwillingsulmen fragen, ob sie mehr über mein Geisterwandeln wissen. Sollte uns die Reise dorthin führen, könnten sie mich vielleicht mit Informationen über den Herbst-Stelgaer erleuchten."
+
+Er räuspert sich und setzt ein gequältes Lächeln auf. "Vielleicht könnten wir erstmal über etwas weniger Deprimierendes sprechen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Ich wurde als Jünger des Gottes der Sucher aufgezogen. Er ist der Meister der Jagd - ganz gleich, ob es einfach nur um die Eigenversorgung geht oder das akademische Streben nach Wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"In meinen späteren Jahren fand ich-" Er unterbricht sich selbst, schüttelt den Kopf und fängt nochmal von vorne an. "Das Leben hat mir gezeigt, dass ich mehr für die Wege Waels geschaffen bin. Die furiose Jagd nach Wissen lässt die Reise zum wahren Verstehen oft hinter sich zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Er hebt die Augenklappe an, um sich vorsichtig an der Augenhöhle zu kratzen - du kannst einen kurzen Blick auf einen verrunzelten und vernarbten Abszess unter mit Wael verzierten Klappe sehen.
+
+"Als stach ich eines Nachmittags ein stilisiertes Augenmotiv auf die Augenklappe. Ich halte es gerne für mein Selbstinitiationsritual in die Bruderschaft von Wael."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Galawain hat mich gezeichnet - wenn ich mein verschobenes Spiegelbild sehe, erinnere ich mich an seine Gegenwart. Nicht nur mein Gebet wird von Galawain inspiriert - auch meine Angst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Ich will nicht lügen ... nach all den Sehenswürdigkeiten, die ich auf meiner Reise mit dir gesehen habe, wird es mir schwerfallen, wieder in den Wald zurückzukehren. In vielen Jahren werde ich hierauf zurückblicken und versuchen, auf einer Karte einer Verbindung dieser Orte herzustellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Was halten die glanfathanischen Druiden von dieser Not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Was denkst du über die Hohlgeborenen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Lass uns über andere Dinge sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Wir sollten uns auf den Wegen machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Hiravias nickt."Wir können uns ein andermal unterhalten. Zeige mir den Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Er schaut misstrauisch und zuckt mit den Achseln. "Seit ich das letzte Mal mit meinem Zirkel gesprochen habe, ist viel Zeit vergangen. Sie würden dir wahrscheinlich dasselbe sagen wie ich - dass diese Not höchstwahrscheinlich die Konsequenz des Eindringens in engwithanische Orte ist, in denen das gemeine Volk nichts verloren hat. Warum sollten die Götter sonst eine Strafe solch beeindruckenden Ausmaßes verhängen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Als sein Blick den deinen trifft, verwandelt sich sein übliches Grinsen in ein Stirnrunzeln. "Jedesmal, wenn ein Leben von seiner Seele getrennt wird ... " Seine Stimme verstummt allmählich.
+
+Er versucht mehrmals, seinen Gedanken zu Ende zu bringen, bis es ihm schließlich gelingt. "Als ist das erste Mal davon hörte, wollte ich so tun, als ob es nur ein Gerücht wäre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"In meiner Jugend verfluchte ich die Dyrwäldler als ignorante Plünderer, die sich ungebremst vermehren. Aber seelenlose Babies? Welcher herzlose Gott würden denn eine SOLCHE Tragöde verursachen? Kein Elternteil oder Kind hat es verdient, Teil dieses Schreckens zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Warum die gemischten Gefühle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Sein Auge weicht deinem festen Blick aus und er errötet. "Das ... äh ... liegt vielleicht an meiner ... äh, Ängstlichkeit?"
+
+"Ich war noch nie ein anerkanntes Mitglied meines eigenen Zirkels, und ich bin mir ziemlich sicher, dass ich einen Weg für eine Beleidigung oder einen Verstoß finden werde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Und soweit ich weiß, stehen die Druiden von Zwillingsulmen in Kontakt mit dem Habicht und Efeu-Zirkel - der Fischerkranich-Stamm hält sich nicht oft so weit nordöstlich des Sumpfes auf, aber Neuigkeiten über meine Ächtung hätten sich verbreiten können."
+
+Er kichert vor sich hin. "Ich habe jahrelang immer wieder neue Gründe gesucht, es aufzuschieben. Jetzt ist es aber wirklich an der Zeit, dass ich dorthin gehe und sehe, was mir Wael zu sehen gestattet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Meinst du, dass sie sich wirklich um deine Geisterwandlerform kümmern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Ähhhhh ..." Sein Lächeln schmilzt langsam zu einem besorgten Gesichtsausdruck. "Ja. Auf jeden Fall. Ja."
+
+Er kratzt sich an seinem Ohrstummel, während sein Lächeln langsam zurückkehrt. "Wenn sie weltlich sind, wissen sie über den Herbst-Stelgaer Bescheid ... aber wenn sie es nicht sind, wie stehen dann die Chancen, dass sie mir helfen können?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Und wie kann man 'Hilfe' denn in dieser Situation überhaupt definieren? Selbst wenn sie mir etwas sagen, was ich für wahr halte - dass es sich nur um eine Fellfarbe handelt und nicht um ein Zeichen des Bösen - dann kann ich auch nicht einfach mit diesen Neuigkeiten zurück zu meinem Stamm marschieren und erwarten, dass sie mir glauben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Das ist abstoßend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Stimmt, sie schmeicheln den Augen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>[Lügen] "Stimmt, sie schmeicheln den Augen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Er starrt dich mit seinem einen Augen ausdruckslos an. "Oh ... ich weiß nicht, was es über das Thema noch mehr zu sagen gäbe - es sei denn, du hast es auf eine religiöse Debatte abgesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Hat Wael tatsächlich jemals direkt mit dir gesprochen oder dir ein Zeichen gegeben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Du suchst immer noch nach Weisheit, du fragst nun bloß einen anderen Gott, weil dir der erste nicht antwortete."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Wael ist keine belehrende oder herrische Gottheit - er verbreitet nicht großzügig Weisheiten und erwartet von uns allen, sie zu hinterfragen und mit unserem eigenen Verstand zu erforschen. Wael erinnert mich daran, dass meine Neugier für alle Wahrheiten empfänglich ist und nicht nach einer bestimmten Antwort strebt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Hmpf." Hiravias legt sein Kinn in eine hohle Hand und schaut dich mehrere lange Sekunden lang aufmerksam an.
+
+"Eine berechtigte Anmerkung, mein Freund. Ich glaube, ich habe den Hunger des Suchers nach Wissen noch nicht gänzlich verloren. Meine Ergebenheit zu Galawain hat mir Hohn und Exil eingebracht - mein Leben als Anhänger Waels ist lang nicht so katastrophal abgelaufen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Helfen dir deine Gebete zu Wael dabei, den Sinn in dem Stelgaer-Angriff zu erkennen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Klingt danach, als solltest du Galawain dafür danken, dir die Weisheit Waels gezeigt zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Hiravias kichert vor sich hin. "Derselbe Gedanke ist mir auch schon in den Sinn gekommen. Hätte mich der Herbst-Stelgaer nicht verstümmelt, wären die Lehren Waels für mich vielleicht niemals interessant geworden. Zumindest dafür sollte ich Galawain wohl danken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Sein Gesicht wird rot und er lacht nervös. "Auf gewisse Weise, ja. Seine Gebete an Das Augenlose Gesicht zu richten bedeutet, die Angst vor dem Unwissen, die Angst, keine Antworten zu haben, fahren zu lassen. An manchen Tagen kann es eine Herausforderung sein, die Ungewissheit zu umfassen, aber wenigstens verlangt Wael kein Zölibat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Nein - direkt niemals", sagt er lächelnd. "Gemessen daran, was er repräsentiert, solltest das auch nicht anders sein. Besonders gut gefällt mir, dass Wael niemals wilde Biester schickt, um mich zu verstümmeln - aber vielleicht habe ich niedrige Erwartungen an solche Dinge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Solltest du Galawain nicht Gerechtigkeit widerfahren lassen? Schließlich hast du durch den Angriff das Geisterwandeln erlernt - bist du dafür gar nicht dankbar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Meinst du, dass dir Galawain vielleicht nur zu helfen versucht, wenn auch auf merkwürdige Art und Weise?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Ein geringerer Mann würde die Demütigungen der Götter akzeptieren und nach mehr verlangen. Gut gemacht, dass du Galawain den Rücken gekehrt hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Wenn mir ein Gott eine Aufgabe geben würde und mich dann für die Befolgung seiner Anweisungen verkrüppeln würde, wäre ich genau so wütend wie du."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>Seine Wange wird rot und er nickt zustimmend. "Ich wünschte, meine Leute würden das auch so sehen, aber ... Meine Selbstachtung ist mir wohl mehr wert als die Götter. Oh, das hätte ich wahrscheinlich nicht laut sagen sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Ich ... glaube ... vielleicht ..." Er kneift sein Auge zusammen, und sein Gesichts verzieht sich zu einem Stirnrunzeln. 
+
+"Die MÖGLICHKEIT, dass Galawain mir nur helfen wollte, indem er mich für alles auf meiner rechten Seite blind und taub gemacht hat, besteht gewiss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Versetze dich doch mal in meine Lage - sollte ich zurückgehen, in den Wäldern wieder mit ihm kommunizieren und einen weiteren Angriff provozieren? Galawain jemals wieder um einen Gefallen zu bitten, wäre ein selbstmörderisches Glaubensbekenntnis."
+
+Er spuckt auf den Boden. "Alles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Hiravias starrt dich einen Augenblick lang schweigend an, bevor er förmlich explodiert.
+
+"Dankbar?! Wofür? Dass man mich zum Ausgestoßenen gemacht hat?!" Er reißt sich knurrend ein Büschel rot-orangene Haare seitlich vom Kopf - und du siehst, wie neue Haare fast augenblicklich aus winzigen Knospen nachwachsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Er stößt ein Seufzen aus, bis sein kleiner Körper nicht mehr zittert. "Ich respektiere, was du zu sagen versuchst. Ja ... Galawain gab mir meine Form, und alleine hätte ich sie sicherlich nicht erlernt."
+
+"Ich bin wohl ..." Er versucht, Blickkontakt herzustellen, starrt dann aber doch auf den Boden. "Ich bin wohl dankbar, dass er mir die Form eines wahren Jägers gab, genau wie ich es mir in meinen Gebeten gewünscht hatte ... vielleicht bin ICH der Narr, weil ich mir das Falsche gewünscht hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Ach ja?" Er lächelt, während sein Gesicht rot wird. "Nun, als mich die Rîow verstießen, war ich außer mir vor Wut. Ich bin so dankbar für die Einsamkeit der Wildnis und für Waels Weisheit - ohne sie hätte ich mich mit meiner Situation niemals abgefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Lass uns über etwas anderes sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Danke für deine Geschichte - jetzt sollten wir uns auf den Weg machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"Und danke dir für's Zuhören", sagt er mit einer leichten Verbeugung, bevor er hinter dir wieder in die Marschordnung einfällt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>Er schnaubt wütend und schüttelt seinen Kopf. "Schon gut, schon gut - nicht jedermann bestreicht dieselbe Seite des Brotes. Wenn du die weibliche Form nicht akzeptieren kannst, können wir auch über etwas anderes reden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Ja, in der Tat", sagt er leise und langsam. "Einmal sah ich eine baden! Ich war so überrascht, dass ich meine Geisterwandlerform vergaß, deshalb wurden meine einladenden Gesten wohl von ein paar Krallen zu viel begleitet. Wahrscheinlich hatte ich Glück, dass es so gekommen ist - Delemgen sollte man besser nur anschauen, nicht anfassen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Erzähl mir mehr von deinen Gedanken über Wael."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Was kannst du mir über Galawain sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Ich dachte mir, wenn ich mein Auge 'Ihm, der Verdunkelt und Offenbart' weihe und genügend Hingabe zeige, dann könnte Wael das alte ruinierte Ding vielleicht gebrauchen können."
+
+Er zieht am Riemen der Augenklappe und lässt ihn mit einem lauten Schnappen los. "Wenn du also denkst, ich würde Hinterteile und Brüste anstarren, dann ist es eigentlich nur der Wille Waels, der meinen Blick kontrolliert. Ehrlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>Hiravias kommt dir sehr nahe und spricht mit leiser Stimme. "Deine Gefährten stimmen dich neugierig? Wer besonders?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Was denkst du über Edér?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"Was meinst du zu Pallegina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"Was hältst du von Aloth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Sagani ... welchen Eindruck hast du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Irgendwelche Gedanken über Kana Rua?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"Die Trauernde Mutter, was denkst du über sie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"Erzähl mir über deine Gedanken über Durance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"Sie zeigt aufrichtigen Eifer, und ich kann dir sagen, dass sie dazu bestimmt ist, auf ihren Füßen zu sterben. Außerdem schmeichelt sie den Augen - ein Vollblut wird nicht dick, sage ich immer."
+
+Mit fast flüsternder Stimme sagt er schließlich: "Ich frage mich, ob sie wohl eine Kloake hat ... meine Neugier bringt mich fast um."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Kloake?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Ich will es gar nicht wissen ... weiter geht's ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>Er schaut dich an und zuckt mit den Achseln. "He, du wolltest plaudern, nicht ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"Ja, eine Kloake - eine Kombination aus Kotrutsche und Wohlfühlschlitz. Vögel haben solche Mehrzwecklöcher normalerweise, und ich dachte mir, sie vielleicht auch. Was? Schau mich nicht so an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"Wenn wir im Freien unterwegs sind, ist sie an und für sich recht leichtfüßig unterwegs ... was ich vom Rest von euch nicht gerade behaupten kann."
+
+Er schaut Sagani erneut an und nickt einen langen Moment lang schweigend. "Da, wo sie herkommt, laufen die Dinge anders, aber sie kennt sich in den Wäldern trotzdem FAST so gut aus wie ich. Fast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Ihn? Um ihn kümmere ich mich nicht allzu sehr - obwohl ich mit der Stange in seinem Anus ein Zelt aufstellen könnte." Hiravias schnaubt und wischt sich mit seinem Ärmel über die Nase.
+
+"Ich kann etwas Merkwürdiges an ihm riechen - zwei Düfte? Nicht ganz. Naja ... egal, was es ist, behalte seine Stimmungsschwankungen im Auge. Ich glaube nicht, dass er instabil ist - aber viel passiert in seinem Oberstübchen wohl nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Ich glaube, in diesen Riesen würden drei von mir und der Rest eines vierten Hiravias reinpassen. Bei den Göttern, was bin ich froh, dass er nett ist."
+
+Bevor er fortfährt, kichert Hiravias und kratzt sich an seinem Ohrstummel. "Und nur unter uns beiden ... seine Singstimme ist schöner als die der schönsten Mädchen meines Stammes! Das ist einerseits verstörend, andererseits umso erregender ... und es lässt mich wünschen, ich hätte noch beide Ohren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>Hiravias kichert. "Er ist garstig, brutal und groß - teilt also wohl zwei Haupteigenschaften mit mir."
+
+Nach einem kurzen Kichern wird er totenstill. "Sein Hals ist dicker als mein Körper an seiner dicksten Stelle ... im Dyrwald sind sie aber schon groß und dumm, was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>"Lass uns über jemand anderen sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"Was kannst du mir über deinen Stamm sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>"Ich komme vom Fischerkranich-Stamm - die meisten meiner Leute leben weit weg im Südosten, in und um den Theinsumpf."
+
+Er verschränkt seine Finger und dehnt sie, bis die Gelenke feucht knacken. "Unser Stamm ist nicht sonderlich berühmt, aber wir-"
+
+Hiravias hält einen Moment lang inne. "Sie ... beschützen ihre Lande in Übereinstimmung mit dem heiligen Eid alter Zeiten. Und so sehr es mich auch schmerzen mag, das zu sagen ... Ich würde keinen anderen Stamm gerne mit meinem Namen verbunden wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"Bist du in einem Sumpf aufgewachsen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"Warum genießen die Fischerkraniche kein großes Ansehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"Könntest du dich einem anderen Stamm anschließen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>Hiravias legt die Stirn in Falten und schüttelt seinen Kopf. "Es gibt Stämme, die mich wohl aufnehmen würden. Die Zweimal Gespaltenen Pfeile adoptieren Ausgestoßene wie mich, aber ihre Wege sind nicht die meinen. Manche von ihnen leben sogar unter Dächern ... wie stumpfsinnig!"
+
+Er schaut nach Südosten und seufzt. "Ich sehne mich nach MEINER Heimat, nicht nach irgendeiner Heimat. Wael aber hat meine Streifzüge erfolgreich gemacht, und ich akzeptiere, dass ich nicht eher zu den Fischerkranichen zurückkehren werde, bis meine Seele stirbt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"Nur kurz. Hier, ich will dir etwas zeigen - aber behalte es bitte nicht in Erinnerung ... "
+
+Hiravias rollt seine Ärmel hoch und zeigt dir seine Unterarme - im weichen, braunen Fell seiner Arme finden sich schwache Spuren von Henna und Narbengewebe.
+
+"Hier bin ich aufgewachsen - auf dem Wanderpfad. Während meiner Ausbildung habe ich ihn auf meinen Armen markiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"Ein Großteil des Stammes bewacht das ganze Jahr über den Theinsumpf, viele von uns aber wahren den Eid, indem wir die weniger bekannten Ruinen patrouillieren, die im ganzen Land verstreut sind. Auch der Habicht und Efeu-Zirkel tut das." Er deutet auf mehrere der Henna-Mondsicheln auf seinem Unterarm.
+
+"Wir meiden Häuser, nehmen nur so viel, wie wir tragen können und verlegen unser Lager alle zwei Monde, damit all unsere heiligen Stätten in regulären Intervallen besucht werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"Durch diese Nomadenpatrouille kam mein Druidenzirkel zu seinem Namen. Wir kreisen und schützen wie Habichte, aber wir lassen uns nur auf dem Efeu der Ruinen nieder, also Bäumen in der Nähe, und betreten niemals die Höhlen der Erbauer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"Ich hatte noch ein paar andere Fragen über Eir Glanfath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"Weil die anderen Stämme unausstehliche Geschwisterbrut sind?" Er grinst breit und starrt dich mehrere Augenblick lang schweigend an.
+
+"Die Fischerkraniche stehen wohl im Ruf, passiv und widerwillige Kämpfer zu sein ... was heißen soll, dass die anderen Stämme hart kämpfen, während wir schlau kämpfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"Der Fischerkranich, unser Namensvetter, ist ein Raubvogel der Sumpfgebiete, der von Sonnenaufgang bis Mittag vollkommen starr bleibt. Wir sind unsichtbare Hüter des Landes und geduldige Jäger von Eindringlingen."
+
+"Der Drei-Stoßzahn-Stelgaer-Stamm findet unsere Methoden weich und unziemlich ... aber ich habe gehört, dass in ihrem Dialekt die Wörter für 'Cousin' und 'Hure' identisch sind. Nur eine Beobachtung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>"Lass uns über jemand anderen sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>"Wer?" Deine Frage lässt ihn mehrere Sekunden lang ein völlig verwirrtes Gesicht machen.
+
+"Ach ... richtig ... die Bauersfrau, die mit uns reist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>Hiravias lächelt. "Liebe auf den ersten Blick. Es ist gar so, als hätte sich Wael eine sich immerzu wandelnde Wunde ins Hirn geschlagen und ist deshalb jede Stunde auf eine andere Art wütend."
+
+Er kratzt an seiner Augenklappe und kichert leicht. "Durance gibt mir das Gefühl, geistig gesund zu sein. Am Morgen riecht er nach Angst, am Nachmittag nach Wut. Ich behalte ihn im Auge - er ist lächerlich, aber eines Tages könnte er zum Problem werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>Hiravias lächelt und kratzt sich Belag von den Zähnen, während er deine Reaktion studiert. "Ich mache nur Scherze. Ehrlich gesagt finde ich, dass der Kerl viel sanftmütiger ist, als er vorgibt. Wenigstens hat er ein großes Herz für Tiere ... was Bände darüber spricht, was unter seiner harten Soldatenschale steckt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>"Das ist im Augenblick alles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>Als du ihm die Frage stellst, geht er einen halben Schritt nach hinten.
+
+"Alle möglichen Dinge", sagt er ruhig, verbunden mit einem langen, unbehaglichen Blick.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>Hiravias starrt dich mit verschränkten Armen ausdruckslos an. "Lass uns etwas anderes besprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>"Ich will ja nicht neugierig sein, aber du schienst mir all deine anderen Geschichten sehr gerne zu erzählen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>"Das ist allerdings wahr", sagt er mit einem zögerlichen Grinsen. "Dir all das zu erzählen, kann wohl keinen Schaden anrichten - aber bitte beachte, dass dieses Thema für mich etwas heikel ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>Er zuckt mit den Achseln. "Ich habe sie wohl nicht genau beobachtet - ich weiß nicht, was ich sagen soll. Sie scheint mir ziemlich harmlos zu sein, aber ... wenn sie mit uns reist, dann muss sie es auf Ärger abgesehen haben - alleine wäre sie wahrscheinlich sicherer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>Hiravias nickt dir lächelnd zu. "Eine noble Entscheidung, mein Freund. Ich bin mir sicher, dass die Versuchung, die Seelen für ein egoistisches Motiv einzusetzen, überwältigend sein muss ... du aber hast das Richtige getan - jede dieser Seelen hat nun ihre eigene Zukunft, ihr eigenes Geheimnis, das es zu erkunden gilt."</DefaultText>
+      <FemaleText>Hiravias nickt dir lächelnd zu. "Eine noble Entscheidung, meine Freundin. Ich bin mir sicher, dass die Versuchung, die Seelen für ein egoistisches Motiv einzusetzen, überwältigend sein muss ... du aber hast das Richtige getan - jede dieser Seelen hat nun ihre eigene Zukunft, ihr eigenes Geheimnis, das es zu erkunden gilt."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>"Ein weiser Jäger tut das Notwendige, um die hier und jetzt Lebenden zu schützen. Die Seelen werden uns alle stärken, und vielleicht wird dies auch jenen helfen, die von den Bîaŵacs übel zugerichtet wurden. Egal was als nächstes kommt, deine Taten haben uns alle gebessert."
+
+Hiravias lächelt und gibt dir einen Klaps auf die Seite. "Fast möchte ich deswegen über all deine Verbrechen, dein Eindringen hinwegsehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>Hiravias nickt dir bedächtig lächelnd zu. "Mein Wächter-Freund, nur Wael weiß, wie lange diese Seelen ohne dein Tun noch gefangen gewesen wären. Um die schwerwiegenden Entscheidungen, die auf deinen Schultern lasten, beneide ich dich wahrlich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>Hiravias gibt dir mit einem strahlenden Lächeln einen Klaps auf die Seite. "Der Sieg steht dir! Deine Seele war mit einem Nebel belegt, der nun fort ist - Thaos zur Ruhe zu betten scheint dir etwas inneren Frieden gebracht zu haben."
+
+Er verschränkt die Arme vor sich und atmet tief durch. "Natürlich ... musst du nun entscheiden, was du mit diesen gefangenen Seelen tust ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>"So viele Hoffnungen und Träume, die alle aus dem Zyklus gerissen und ... Wael weiß wie lange gefangen waren!"
+
+Hiravias kratzt sich am Kinn und betrachtet dich von oben bis unten. "Du könntest sie befreien - einfach irgendwo, auf dass sie frei fortgehen können, Wael weiß wohin! Stell dir nur vor, wie viele neue Leben und Reisen just in diesem Moment beginnen könnten - all das liegt nun in deinen Händen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>"Außerdem hast du das Recht gewonnen, diese Seelen, solltest du es wünschen, zum Stärken der Lebenden zu benutzen."
+
+"Denk an die Hohlgeburten, an die Opfer fehlgegangener Beseelung ... es wäre vielen ein großer Segen. Bedenke, mein Wächter-Freund: Ein wahrer Jäger verschafft dem gesamten Stamm Stärke und Nahrung."</DefaultText>
+      <FemaleText>"Außerdem hast du das Recht gewonnen, diese Seelen, solltest du es wünschen, zum Stärken der Lebenden zu benutzen."
+
+"Denk an die Hohlgeburten, an die Opfer fehlgegangener Beseelung ... es wäre vielen ein großer Segen. Bedenke, meine Wächter-Freundin: Ein wahrer Jäger verschafft dem gesamten Stamm Stärke und Nahrung."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>"Aber das sind nur meine Gedanken zu der Angelegenheit. Es ist deine Jagd, dein Sieg, dein Preis."
+
+Hiravias verneigt sich und hält seinen Kopf für einen langen Augenblick gesenkt. "Als ich vom Weg abgekommen bin, hast du geholfen, mich wieder zu Galawain zu führen. Ich bin überzeugt, dass der Suchergott den Gefallen erwidert hat, indem er dich zu diesem Augenblick geleitet hat. Es ist eine Ehre, Teil deines Rudels zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>"Ich weiß, du bist der Richtige, über das Schicksal so vieler zu entscheiden. Du hast geholfen, mich näher zu Wael zu bringen, und ich glaube, dass Wael dich zu diesem Augenblick geführt hat, zu dieser Entscheidung."
+
+Hiravias verneigt sich mit einem breiten Grinsen. "Es war eine Ehre, dich auf deiner Reise zu begleiten."</DefaultText>
+      <FemaleText>"Ich weiß, du bist die Richtige, über das Schicksal so vieler zu entscheiden. Du hast geholfen, mich näher zu Wael zu bringen, und ich glaube, dass Wael dich zu diesem Augenblick geführt hat, zu dieser Entscheidung."
+
+Hiravias verneigt sich mit einem breiten Grinsen. "Es war eine Ehre, dich auf deiner Reise zu begleiten."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>"Aber ich habe kein Mitspracherecht", sagt er und errötet. "Es ist deine Entscheidung, mein Wächter-Freund, du solltest deinen eigenen Instinkten vertrauen. Es war mir eine Ehre, Teil deiner Reise zu sein, ganz gleich, was als nächstes passiert."</DefaultText>
+      <FemaleText>"Aber ich habe kein Mitspracherecht", sagt er und errötet. "Es ist deine Entscheidung, meine Wächter-Freundin, du solltest deinen eigenen Instinkten vertrauen. Es war mir eine Ehre, Teil deiner Reise zu sein, ganz gleich, was als nächstes passiert."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

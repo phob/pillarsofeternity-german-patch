@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_1\cp_qst_getting_water</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Eine kurze Verschnaufpause</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Kehre zu Odema zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Erreiche das Lager.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Sammle zur Zubereitung einer Arznei einige Frühlingsbeeren ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Metzle die Karawanenmitglieder nieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Finde Sparfel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Finde Sparfel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Eine Krankheit ist plötzlich über mich gekommen. Der Karawanenmeister hat mich dazu gedrängt, vor der Verschlechterung meines Zustands eine Arznei herzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich habe die Frühlingsbeeren gefunden, nach denen Odema gesucht hat. Wenn Sparfel dieses Wasser besorgt, sollte Odema in der Lage sein, mit der Herstellung dieser Arznei für mich zu beginnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Am Fluss gerieten wir in einen Hinterhalt glanfathanischer Krieger. Sparfel wurde getötet, und wenn man die Schreie vom Lager als Anhaltspunkt nimmt, dann werden nicht nur wir angegriffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Odema deutete an, dass mich ein gewisser, mit hiesigen Beeren gebrauter Tee, heilen sollte. Sparfel ist aufgebrochen, um Wasser vom Fluss zu holen. Frühlingsbeeren zu besorgen aber ist meine Aufgabe. Odema sagte, dass sie an einem unverwechselbaren Busch wachsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich bin der Gesellschaft meiner Karawanengefährten überdrüssig geworden. Sie umzubringen, wird meiner Laune weitaus zuträglicher sein, als Tee zu schlürfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Sparfel scheint es nicht eilig damit zu haben, Wasser zu holen. Ich sollte selbst danach suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Sparfel scheint es nicht eilig damit zu haben, Wasser zu holen. Ich sollte selbst danach suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich bin der Gesellschaft meiner Karawanengefährten überdrüssig geworden. Sie umzubringen, wird meiner Laune weitaus zuträglicher sein, als Tee zu schlürfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich bin der Gesellschaft meiner Karawanengefährten überdrüssig geworden. Sie umzubringen, wird meiner Laune weitaus zuträglicher sein, als Flusswasser zu schlürfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Sparfel hat seinen Rucksack bei einem Strom in der Wildnis zurückgelassen. Jetzt habe ich keinen Grund mehr, darauf zu warten, bis er mir Wasser bringt. Ich werde es einfach selbst tun müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Glanfathanische Krieger haben der Karawane einen Hinterhalt gelegt. Mein Leiden ist jetzt die geringste meiner Sorgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Unter was auch immer ich leiden mag scheint meine Fähigkeiten nicht geschmälert zu haben. Meine Karawanengefährten langweilen mich jetzt nicht mehr - aber in diesem Wald ist ein merkwürdiger Wind aufgezogen. Mein Leiden ist jetzt die geringste meiner Sorgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_high_monk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Mönch reibt sich die Schläfen, das Gesicht in den Händen vergraben. Als du dich näherst, blickt er auf. "Dieses Zimmer braucht eine anständige Tür", murmelt er.
+
+"Meine Brüder und ich haben es angemietet, damit wir etwas Privatsphäre in diesem fremden Land genießen können. Vielleicht kannst du dir ein anderes Zimmer im Gasthaus suchen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Gib mir das!", ruft der Mönch und entreißt dir den Brief. Fast augenblicklich errötet er. "Ich meine, bitte - es ist äußerst wichtig!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Er dreht den Brief um und öffnet das zerbrochene Siegel. Er blickt dich zornig an. "Du hast das Siegel gebrochen! Du hast die Privatsphäre unseres Ordens verletzt!"
+
+Der Mönch wirft den Brief zu Boden und hebt die Fäuste zum Kampf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Danke, dass du uns die Nachricht von unserem gefallenen Bruder überbracht hast. Wenn du uns nun bitte allein lassen würdest ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Was führt euren Orden hierher?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Der Mönch öffnet kurz den Mund, als wolle er antworten, verschluckt dann aber seine Worte. Er mustert dich von oben bis unten und überlegt sorgfältig. "Meine Brüder und ich hatten eine private Unterredung in einem Zimmer, das wir angemietet haben. Bitte, die Taverne ist voll mit Gästen, die bestimmt gerne mit dir über Belanglosigkeiten plaudern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich bin einem anderen Mönch begegnet, der dieselben Roben trug wie ihr. Er starb an seinen Verletzungen, kurz nachdem ich ihn fand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Augen des Mönchs weiten sich, er ballt die Fäuste so stark, dass seine Fingergelenke knacken. "Roben wie wir, sagst du? Hatte er etwas bei sich? Hat er dir etwas gesagt, dir etwas gegeben? Bitte, wir warten hier auf einen Ordensbruder, und wenn du ihn gefunden hast ... "
+
+Alle Augen blicken zu Boden. Die Mönche beginnen, im Chor Sprechgesänge zu rezitieren, zu Ehren ihres gefallenen Freundes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Ihm den Brief zeigen] "Er hat mir diesen Brief gegeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich erinnere mich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Wir reisen dorthin, wohin die Lehre uns führt", murmelt der Mönch, mit langsamer und bedächtiger Stimme. "Nicht, dass es dich etwas angehen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Der Mönch verneigt sich, als du dich näherst. Er spricht mit aufgeregter Stimme, unfähig, seine Ungeduld zu verbergen.
+
+"Wenn du etwas willst, sprich - ansonsten lass uns in Frieden. Wir sind nicht laut, wir wollen keinen Streit, wir haben das Recht, uns hier aufzuhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Danke noch einmal, dass du die Nachricht überbracht hast. Es war weise von unserem Bruder, dich mit dem Abschluss seiner letzten Mission zu beauftragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Lügen.] "Er hat nichts gesagt und mir nichts gegeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Der Mönch bricht die Siegel und rollt die handbeschriebene Schriftrolle aus. Er liest rasch die Nachricht, seine Lippen bewegen sich lautlos dazu.
+
+Er wendet sich an die übrigen Mönche: "Meine Brüder, der Erzmartyr sendet Nachricht! Wir haben endlich, was wir brauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Danke, Fremder", sagt der Mönch, faltet die Hände vor sich und verneigt sich tief. "Deine Seele ist ehrlich. Ich muss gestehen, ich war überrascht ... als du mir die Nachricht überreichtest, erwartete ich, dass das Siegel gebrochen sei."
+
+Der Mönch wird rot und lächelt zum ersten Mal. "Es freut mich, dass es in dieser Welt noch Anstand gibt."
+
+Er greift in die Falten seiner Roben. "Hier, deine Ehrlichkeit gehört belohnt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Warte!!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Dich verteidigen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Der Mönch zieht die Faust zurück, um zuzuschlagen. Seine Brüder hinter ihm machen sich kampfbereit. Als du rufst, er solle warten, zögert er.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Lügen] "Euer Bruder wurde grauenhaft verprügelt. Es ist davon auszugehen, dass ein dünnes Wachssiegel auf einer Schriftrollenhülle, die er umklammerte, den Kampf nicht überleben konnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Lügen] "Siehst du nicht, wie abgewetzt die Schriftrollenhülle ist? Die Siegel wurden gewiss während des Angriffs zerbrochen, der euren Bruder getötet hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Lügen] "Die Siegel waren schon gebrochen, als ich den Brief fand!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Der Mönch starrt dich zornig an und schüttelt mit dem Kopf. Er und seine Brüder gehen auf dich los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Der Mönch hält seine Faust mehrere Sekunden lang in der Luft, seine Brüder stehen reglos da. Schließlich lässt der Anführer seine Faust sinken. "Ich ... entschuldige mich für mein vorschnelles Urteil."
+
+Der Mönch greift in seinen Beutel. "Bitte gestatte mir, dich dafür zu entschädigen, dass du den Brief seinem rechtmäßigen Empfänger überbracht hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Der Mönch starrt dich mit weit aufgerissenen Augen an, völlig perplex. "Du erinnerst dich nicht? Du hast einen Mann sterben sehen und einfach ... vergessen, was geschehen ist?"
+
+Er verschränkt die Arme vor der Brust und starrt dich mit hochgezogener Augenbraue zornig an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Ihm den Brief zeigen.] "Fast hätte ich es vergessen - er hat mir das hier gegeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Lügen] "Vielleicht hat er versucht, mir etwas zu sagen, aber er lag im Sterben - ich konnte ihn nicht verstehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Der Mönch seufzt, sein Blick fällt zu Boden. "Dann ist sein Auftrag gescheitert", sagt er leise.
+
+"Ich danke dir, Reisender, dass du uns diese neue Neuigkeit überbracht hast. Wir haben lange auf Nachricht von unserem Bruder gewartet. Zumindest wissen wir nun, was ihm widerfahren ist. Wenn du uns nun bitte allein lässt, meine Brüder und ich haben viel zu besprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Danke, Fremder", sagt der Mönch, faltet die Hände vor sich und verneigt sich tief. "Deine Seele ist ehrlich. Ich muss gestehen, ich war überrascht ... als du mir die Nachricht überreichtest, erwartete ich, dass das Siegel gebrochen sei."
+
+Der Mönch wird rot und lächelt zum ersten Mal. "Es freut mich, dass es in dieser Welt noch Anstand gibt."
+
+Er greift in die Falten seiner Roben. "Hier, deine Ehrlichkeit gehört belohnt."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\prototype_2\p2_cv_osmaer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>54</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Er grunzt dir eine Begrüßung entgegen. "Immer noch auf den Beinen, was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich habe Fragen über Dyrfurt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich will Essen und Trinken bestellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Lass mal sehen, was du für Gastzimmer hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Er fährt mit seinem Lappen um den Rand des Kruges. "Dann frag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Was weißt du über Fürst Haronds Tochter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Erzähl mir über das Dorf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Wer lebt denn alles in Dyrfurt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Egal. Ich möchte über etwas anderes reden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Er stellt den sauberen Krug unter den Tresen und schnappt sich einen anderen. "Ja?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Geh von einer Brücke zur nächsten, dann hast du es gesehen. Wir sind stille, hart arbeitende Leute. Wir bleiben unter uns und lassen uns nicht gerne herumschubsen." Er starrt den gutgekleideten Mann an, der etwas abseits steht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Hier stand einst eine Burg. Wurde von irgendeiner Familie aedryanischer Thayns in den Anfangszeiten des Kaiserreichs gebaut. Nur ein Turm davon steht noch, und der gehört jetzt zu Trygils Laden."
+
+"Wenn dich das so interessiert, könnte dir Sid, die Bardin da beim Feuer, das Garn dazu spinnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Lass uns zu meiner vorherigen Fragen über Dyrfurt zurückkehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Nicht mehr viele. Ist nur schwer, die Leute zum Hierbleiben zu bewegen, wenn alle nur Hohlgeburten bekommen."
+
+"Ein paar aber sind geblieben und machen hier ihre Geschäfte. Trygil ist der Ledergerber, Hendyna stellt Tränke her, und Winfrith betreibt den Dorfladen. Rumbald ist ein Schweinebauer ... oder war es zumindest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Erzähl mit über Trygil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Er ist ein Gerber. Er bearbeitet Leder und fertigt Rüstungen und ein paar andere Waren daraus. Das Problem dabei ist nur, dass der Gestank von Talg und Hirschenscheiße den Leuten den Appetit verdirbt ... und sein Laden ist gleich nebenan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Er legt die Stirn in Falten und zuckt mit den Achseln. "Euer Hochwohlgeboren sagte, dass sie gestern verschwunden ist." Er wischt ein Bierseidel mit seinem zerfetzten Handtuch ab und dreht es mit schnellen, ruckartigen Bewegungen. "Mehr als das weiß ich nicht. Wie diese Fürstenbastarde ihre Angelegenheiten erledigen, geht mich nichts an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Er lehnt sich auf den Tresen und seufzt. "Dieses Mädchen, Aelys ... sie wollte verschwinden. Du hättest sie sehen sollen - wie ein Schaf im Schlachthaus hat sie die Tür angeglotzt. Nichtsdestotrotz hat sie kaum mit jemandem gesprochen. Der Einzige, mit dem sie gesprochen hat, war Tyrgil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Er nickt in Richtung des Ostfensters. "Seinen Laden kannst du bei dem eingestürzten Turm finden. Der Kerl ist recht cholerisch. Ich würde dir raten, die Angelegenheit auf sich beruhen zu lassen. Wie ich schon sagte, es zahlt sich nicht aus, in den Angelegenheiten anderer Leute herumzuwühlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Deinen Münzbeutel zeigen.] "Vielleicht könntest du es zu deiner Angelegenheit machen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich verstehe, Dengler. Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"So viel zu deinem Gerede von Anstand. Wenn du etwas weißt, aber nichts sagst, bist du genau so schuldig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ich werde nicht tatenlos zusehen, wie ein unschuldiges Mädchen zu Schaden kommt. Hilf mir, sie zu finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Er schüttelt seinen Kopf. "Schau mal, ich will keine Schwierigkeiten mit dir, mit ihm oder mit sonst irgendjemand. Ich warte nur darauf, dass er meinem Ale überdrüssig wird und aufbricht, damit hier alles wieder so wird wie vorher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Dengler, ich bin für meine Rechtschaffenheit bekannt. Ich schwöre, diese Situation wieder in Ordnung zu bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Und Winfrith?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ist schon länger hier als ich. Ganz netter Kerl, aber wenn er mal zu reden anfängt, hört er so schnell nicht mehr auf. Sein Laden ist auf der anderen Seite des Dorfplatzes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Was hat Hendyna für eine Geschichte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Eine Frau, die geschickt mit Tränken und Breiverbänden umgehen kann. Habe gehört, dass sie in einem Lindwurmnest in Schwierigkeiten geraten ist. Ihr Karren steht am östlichen Endes des Dorfes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Der Schankwirt fährt mit einem schmutzigen Lappen in einen Krug hinein. Seine unter dichten Augenbrauen liegenden Augen sind müde, aber trotzdem wachsam. Als du dich dem Tresen näherst, nickt er dir kurz zu. "Kaum Reisende hier in letzter Zeit. Kann ich dir mit was helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Er guckt dich finster an. "Steck das Kupfergeld weg. Ich verdiene mein Geld mit ehrlicher Arbeit. Das reicht für mich und das sollte auch für jeden anderen reichen. Du aber bist wie dieser Fürst. Du schüttelst deinen Geldsäckel und denkst, damit kannst du auch die Erlaubnis der Götter und Gestandenen erkaufen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Mach auf jeden Fall dein Fenster zu, falls dein Zimmer auf der Trygils Laden zugewandten Seite liegt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Um was ging es bei deinem Wortwechsel mit dem Edelmann?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Er schaut vom Polieren seines Bierseidels hoch und blickt finster in Richtung des Fürsten. "Die Leute hier sind anständig, sie kümmern sich um ihren eigenen Kram. Wenn du deine Nase hineinstecken willst, dann rede doch selbst mit ihm"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Weißt du irgendwas über eine nahegelegene Engwithan-Ruine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ich weiß, dass man besser einen großen Bogen darum machen sollte. Es bringt nichts, die Glanfathaner zu verärgern, indem man auf ihrem heiligem Boden herumstampft, aber wenn du deinen Wissensdurst stillen möchtest, dann rede mit Beodmar. Du findest ihn im Tempel in nordwestlicher Richtung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Du siehst verärgert aus. Irgendwas an dieser Sache fühlt sich für dich falsch an, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Er donnert das saubere Bierseidel auf den Tresen. "Verdammt nochmal, und wie! Dieser Fürst schlendert hier herein, als ob er etwas Besseres als wir wäre, aber trotzdem ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Was hast du mit 'Erlaubnis der Götter und Gestandenen erkaufen' gemeint?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Geh von einer Brücke zur nächsten, dann hast du es gesehen. Wir sind stille, hart arbeitende Leute. Normalerweise gibt es über uns nicht viel zu sagen, und das ist uns auch ganz recht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ich nehme an, Rumbalds Schweinen ist irgendwas zugestoßen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Der verdammte Oger hat sie geholt. Jetzt quiekt er mehr, als seine Herde es jemals getan hat." Er zuckt mit den Achseln. "Verdammtes Pech."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ach ja, der Oger ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"In letzter Zeit hat es keine Spur mehr von ihm gegeben. Gerüchten zufolge hat ihn irgendein Ausländer getötet." Er mustert dich berechnend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"So nahe an Siedlungen sieht man sie normalerweise nicht. Oger und Gestandene passen nicht so gut zueinander. Hässliche Bastarde, aber sie sind schlau genug, um das zu wissen."
+
+"Wenn du mehr wissen möchtest, musst du mit Rumbald sprechen. Sein Bauernhof liegt südwestlich von hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Du hast gesagt, hier kommen nicht mehr viele Reisende vorbei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Natürlich nicht, warum sollten sie hierher kommen? Ach, wir haben Banditen auf der Straße und den Oger im Wald ... was dir dieser närrische Quasselkopf von Rumbald auch erzählen wird. Noch schlimmer aber ist, dass hier schon seit über einem Jahr kein gesundes Kind mehr geboren wurde."
+
+"Die meisten Gestandenen, die hierher kommen, sind nur auf der Durchreise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ich will einen Abenteurer anheuern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Hier gibt es so einige, die nach Arbeit suchen. Sag mir, was du brauchst, und ich treibe jemanden auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Hast du eine Orlanerin namens Nyfre gesehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Er nickt mit dem Kopf Richtung Treppe. "Ganz schön nervös, die Dame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Ich nehme an, ihr seid befreundet." Er nickt mit dem Kopf Richtung Treppe. "Ganz schön nervös, die Dame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Er guckt dich finster an. "Schieb die Kupferstücke wieder ein, [Player Race]. Ich verdiene mein Geld mit ehrlicher Arbeit. Das reicht für mich und das sollte auch für jeden anderen reichen. Du aber bist wie dieser Fürst. Du schüttelst deinen Geldsäckel und denkst, damit kannst du auch die Erlaubnis der Götter und Gestandenen erkaufen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

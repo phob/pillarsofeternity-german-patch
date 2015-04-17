@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_oldsong\12_si_maw_thorns</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein dickes Gewirr messerscharfer Dornen und Ranken überwuchert diesen Gang. Die grüne Mauer scheint sich zu bewegen - fast, als würde sie atmen. Dicke Seile aus Ranken zucken und winden sich mit einem leisen Blätterrascheln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du passt einen kurzen Moment ab, in dem zwei Ranken sich in entgegengesetzte Richtungen bewegen und einen Pfad freigeben - und trittst vorsichtig vorwärts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Dich hindurchkämpfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Versuchen, durch die lebende Wand zu schleichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du trittst mutig nach vorne in das Gewirr aus Ranken - und stellst fest, dass sie so dick und hart sind wie Bäume. Die Ranken erwachen bei der ersten Berührung zum Leben und bald bist du von einer zuckenden Masse von Dornen und scharfen Blättern umgeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Die Ranken untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Durch die Lücken in der sich windenden Vegetation siehst du immer wieder kurz einen Raum, offenbar eine große, runde Kammer. Gelegentlich siehst du gelbbraunes Fell und das Rascheln der Ranken wird immer wieder kurz durch ein tiefes Knurren übertönt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du hältst den Atem an, während du dich vorwärts bewegst, und bemühst dich, auch nicht das kleinste Blatt zu streifen. Nach einem heiklen Augenblick, in dem sich eine Dornenpflanze in deine Richtung gelehnt und dich um Zentimeter verfehlt hat, hast du die lebende Wand überwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du kommst zunächst gut voran und bewegst dich vorsichtig um das Netz aus Pflanzen herum. Doch auf halbem Wege tritt [SkillCheck 0] auf einen trockenen, toten Ast und eine Ranke schießt plötzlich mit unnatürlicher Geschwindigkeit nach vorne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die Ranken winden sich gnadenlos um das Bein von [SkillCheck 0], und der darauffolgende Kampf lässt die Vegetation erzittern und heftig rascheln. Endlich reißt [SkillCheck 0] sich los und hinkt das letzte Stück aus dem Pflanzengewirr heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du hältst den Atem an, während du dich vorwärts bewegst, und bemühst dich, auch nicht das kleinste Blatt zu streifen. Obwohl du dir große Mühe gibst, stößt du mit der Schulter gegen einen mit Blüten besetzten Ast und eine Ranke schießt plötzlich mit unnatürlicher Geschwindigkeit auf deine Beine. Du springst eilig beiseite und nutzt deine Bewegungsenergie, um dich von der Pflanzenwand wegzurollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du trittst hinaus in den nächsten Raum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Du eilst zu [SkillCheck 0], packst zu und reißt [SkillCheck 0] beiseite. Die Ranken verfehlen ihr Ziel. Die Bewegung erweckt aber die anderen Pflanzen zum Leben und ihr zwei eilt schnell zum Ende der grünen Wand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Eine Ranke schwingt nach dir wie eine Keule und du wirst zurück in die Richtung geworfen, aus der du gekommen bist. Das leise Rascheln der Ranken ist zu einem Brüllen geworden, das durch den Rachen hallt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

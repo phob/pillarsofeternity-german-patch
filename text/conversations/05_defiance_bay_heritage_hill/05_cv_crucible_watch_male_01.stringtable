@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_defiance_bay_heritage_hill\05_cv_crucible_watch_male_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Wache hebt eine Hand hoch. "Tut mir leid, aber dieser Bezirk ist gesperrt, auf persönliche Anweisung des Ducs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wie ich sehe, hat der, äh, Gestank dich noch nicht verjagt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Wyla schickt mich. Ich untersuche das Verschwinden der Wachen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Wie gelange ich hinein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Glaub mir, das willst du nicht." Die Wache zuckt mit den Schultern. "Aber wenn du es unbedingt mit eigenen Augen sehen willst, müsstest du wohl die Erlaubnis von Wyla in der Burg in Urfeuer einholen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ah, sie hat dich angekündigt." Die Wache mustert dich von oben bis unten und runzelt die Stirn. "Ich hatte erwartet, dass sie ein ganzes Geschwader Justiziare schickt. Nicht, dass ich mich freiwillig melden würde, versteht sich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich lasse das Tor sofort öffnen. Aber sei vorsichtig. Ich fürchte, wir können niemanden schicken, um dich zu retten, wenn etwas passiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Hast du eine Ahnung, was mit den anderen Wachen geschehen sein könnte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Hast du etwas Ungewöhnliches gehört oder gesehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich versuche, so wenig wie möglich zu sehen und zu hören. Eine der Frauen aus der letzten Schicht hat gesagt, sie hat jemanden aus dem nordöstlichen Teil des Bezirks rufen hören. Es klang wohl wie ein Befehl. Aber ich weiß nicht, wie da drin jemand überleben sollte."
+
+"Ein oder zwei Mal habe ich auf der anderen Seite des Tores eine Bewegung wahrgenommen." Die Wache schaudert. "Ich würde es lieber vergessen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Keinen Schimmer. Und ich will es auch nicht herausfinden, wenn du verstehst. Die verschwundenen Wachen waren gewiss keine Deserteure."
+
+"Das Schlimmste ist, beide Male, als die Wache verschwand, hat die nächste Schicht das Tor unverschlossen vorgefunden. Ich weiß nicht, ob sie hineingegangen sind oder etwas herausgelangt ist. Aber wenn es letzteres ist, sind Flüchtlinge die Geringste unserer Sorgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Schön zu sehen, dass sie unsere besten Leute auf den Fall ansetzt." Die Wache blickt auf das Tor. "Hier ist es schon gruselig genug, ohne dass jede Woche ein oder zwei Wachen verschwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Was geht hier vor sich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Die beiden Wachen blicken sich an. "Selbst, wenn ich es dir sagen dürfte, ich weiß es nicht. Ich kann nur sagen, dass es vor etwa zwei Monaten begonnen hat ... was ES auch immer sein mag. Die Wachen, die das Tor geschlossen haben, haben von etwas Unnatürlichem gesprochen, das sie noch immer mitten in der Nacht aufschrecken lässt. Mehr will ich nicht wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Kehre lieber um. Erbhügel ist geschlossen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Würden vielleicht ein paar Münzen das Tor für mich öffnen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Die Wachen blicken einander an. "Wir könnten dafür jede Menge Ärger bekommen ... andererseits kannst du es dort drin kaum NOCH schlimmer machen, als es ohnehin schon ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Du gibst uns tausend Pand und ich öffne das Tor und sehe weg. Und versuch nicht, mit uns zu feilschen - das Geld wird unsere Familien ernähren müssen, wenn man uns erwischt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[1000 KP geben.] "Hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ich bin im Moment etwas knapp bei Kasse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Egal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Also gut. Viel Glück da drin, was du auch vorhast."
+
+Die Wache dreht sich um und öffnet das Tor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Nun, du findest uns hier noch eine ganze Weile. Leider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[1000 KP geben.] "Hier ist das Geld, das ihr wolltet. Öffnet das Tor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Gab es sonst noch etwas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Der Turm ... er ist ausgeschaltet! Heißt das, der Fluch von Erbhügel ist aufgehoben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Es war kein Fluch, aber ja, der Bezirk ist wieder sicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ich denke schon. Ich habe einfach nur eine Scheibe an der Maschine im Turm gedreht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Trutzbucht ist mir etwas schuldig. Das ist mindestens eine Villa in Farnheim wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Es wird sicher eine Weile dauern, bis jemand bereit ist, sich wieder in dem Bezirk niederzulassen, aber zumindest können wir mit dem Wiederaufbau beginnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Naja, äh, das ist nicht meine Entscheidung, aber die Stadt wird dich gewiss belohnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Du hast den Turm also nur versehentlich ausgeschaltet? Wir sollten lieber eine Weile warten, um zu sehen, ob es wirklich sicher ist. Wenn ja, dann, äh ... gute Arbeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Lasst mich hinein - oder das, was auf der anderen Seite dieses Tores liegt, ist eure geringste Sorge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ganz ruhig!" Er blickt die andere Wache an. "He, es ist dein Hals. Sag nicht, wir hätten dich nicht gewarnt." Er dreht sich um und öffnet das Tor.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

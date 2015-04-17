@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_hiravias_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein kleiner Orlaner in zerlumpter Lederkleidung, der auf einem Stück rohen Fleisch herumkaut, murmelt eine Begrüßung und winkt mit seiner Hand.
+
+Trotz seines zufriedenen Lächelns ist der obere rechte Teil seines Gesichts schlimm zugerichtet. Eine mit einem Augapfel bestickte Augenklappe ist um seinen Kopf gebunden und während sein eines Ohr als verstümmelter Rest dessen nur noch zuckt und krampft, stellt sich das andere munter auf als du dich näherst.
+
+Neben ihm ist der Kadaver eines Hirsches auf dem Boden ausgebreitet, der aussieht, als sei er von einem Bär oder Wolf zerrissen worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wenn das dein Hirsch ist, brauchst du einen neuen Jagdaufseher." Er lächelt, wobei ihm Sehnenstücke von seinen blutigen Lippen baumeln. "Hiravias heiße ich", sagt er, wobei sein gutes Auge funkelt. "Hungrig? Der ganze Hirsch wird mir zu viel."
+
+Er geht einen Schritt zurück, wobei er die Arme ausbreitet und dir den Kadaver präsentiert. "Erster Fang des Tages, greif ruhig zu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Was hat diesen Hirsch getötet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Er kichert und kratzt sich am Stummel seines zur Hälfte abgetrennten rechten Ohres. "Ein widerspenstiger Stelgaer. Als ich mir die Innereien des Hirsches ansah, fiel mir das deformierte - aber köstliche - Herz auf. Er wäre ohnehin innerhalb eines Jahres daran verendet ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Galawain hat für dieses stolze Tier ein passendes Ende gewählt." Er beugt seinen Kopf zu dem Hirsch und beginnt, atemlos zu singen, hört dann aber abrupt auf. "Bitte verzeih, ich sollte nicht mit vollem Mund beten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Was führt dich her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich meine, außer köstlichem Wildfleisch? Neue Bäume zu dokumentieren, neue Tiere zu zeichnen, neue Sehenswürdigkeiten zu sehen. Ich habe so viel ich konnte von den Druiden meines Zirkels gelernt. Ich würde lieber durch die Gegend ziehen, als Wurzeln zu schlagen und zu stagnieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Wenn du also den Dyrwald bereist und noch ein paar Hände mehr gebrauchen kannst, dann würde ich mich gerne in die Sicherheit einer Gruppe begeben." Er grinst breit, als er das sagt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Fahre fort ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich wurde von den Zelebranten des Habicht und Efeu-Zirkels des Fischerkranisch-Stammes ausgebildet. Ich weiß mehr als genug über Naturmagie und ... naja ..." Auf seinem Gesichts macht sich ein spitzbübisches Grinsen breit. "Einem guten Kampf gehe ich jedenfalls auch nicht aus dem Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich habe etwas bei den Druiden zu erledigen, die in der Nähe von Zwillingsulmen leben. Solange wir letztendlich dorthin kommen, werde ich dir gerne folgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Willkommen in der Gruppe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Er schießt nach vorne und fasst dich bei den Seiten. "Wunderbar! Es wird mir eine Ehre sein, mal wieder mit einem Rudel umherzuziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Vielleicht ein anderes Mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Er kneift sein gutes Auge zusammen und legt seine Stirn in Falten. "Naja, vielleicht überlegst du es dir ja nochmal."
+
+Er beugt seinen Kopf zu dir und kaut weiter an einem Fetzen Hirschfleisch. "Mach's gut, Reisender, und pass in der Schlucht auf, wohin du trittst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Und was könntest du denn als Gegenleistung anbieten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Die Unterstützung eines Druiden wäre sehr willkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Warum bist so erpicht darauf, dich mir anzuschließen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Er richtet sich auf und verschränkt seine Arme. "Ich bin in dieser Gegend fremd und für's Erste habe ich genug davon, alleine zu reisen." Er starrt dich mit besorgtem Gesichtsausdruck an und kratzt sich im Fell um sein halb abgetrenntes Ohr herum.
+
+"Aber das war nur ein Angebot, Freund. Wenn du keinen Bedarf für einen erfahrenen Druiden hast, dann sei es eben so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Als Kind huldigte ich Galawain, um ein großer Jäger zu werden, aber seit dem hier ... " - er deutet auf seine Augenklappe - "habe ich Wael kennengelernt, Ihn, der sieht und nicht gesehen wird'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Erzähle mir etwas über Galawain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Der Fürst der Jagd, Gönner aller Suchenden ... " Er verstummt. "Das fragst du den Falschen."
+
+Er schiebt seine Haare zur Seite, was eine genauere Betrachtung seiner Augenklappe gestattet - auf das abgenutzte Leder wurde das stilisierte Muster eines Augen gestickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Das solltest du vielleicht erst kochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Was, und dadurch die ursprüngliche Maserung ruinieren? Das ist doch das Beste!" Er kichert und wischt sich kleine Stückchen Hirschfleisch von den Lippen. "Sieh doch selbst."
+
+Er wendet seine Aufmerksamkeit dem Kadaver zu und stößt seine Hände in die aufgeschnittene Bauchhöhle des Hirsches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ich bin der Jagdaufseher des Ducs. Du weißt schon, dass Wilderei unter Strafe steht, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Naja, dann musst du eben den Stelgaer finden, der das hier getan hat." Er beißt ein weiteres Mal in das rohe Fleisch. "Ich habe den Kadaver gerade erst gefunden. Wenn ich richtig informiert bin, dann ist es hierzulande kein Verbrechen, ein Geier zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich nehme mir ein kleines Stückchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Er reißt seine Augen begeistert auf und greift in den Hirschkadaver hinein. "Großartig! Du kannst das beste Stück haben."
+
+"Er stemmt einen Fuß gegen den Hirsch und reißt mit einem nassen Geräusch ein seilartiges Stück Fleisch heraus, das so lang ist wie er groß."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Lächelnd hält er dir das abgerissene Ende der Innereien des Hirsches hin. "Aufessen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Das ist ja ekelhaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Mit einem halbherzigen Versuch, dir die Innerei schmackhaft zu machen, wedelt er damit vor dir herum. "Nicht mal ein Bissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Aufessen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Als du dir die Innerei nehmen willst, reißt er seine Hand mit einem überraschten Lachen zurück. "Bei den Göttern, nein! Bloß nicht essen! Ich dachte, dir wäre klar, dass ich mich nur wie ein Grobian aufgeführt habe."
+
+Er kichert und lässt die Eingeweide auf den Boden fallen. "Ich zolle deiner Tapferkeit Respekt, aber das Kotrohr zu essen, würde ich dir nur empfehlen, wenn du einen ehernen Magen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Nach dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Sein Auge sucht Blickkontakt zu deinen, als er mit einem kräftigen Biss ein mehrere Zentimeter großes Stück herausreißt. Er kaut langsam, während er sein Auge zusammenkneift.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"So ... köstlich", sagt er mit zuckendem Gesicht. Er kaut fleißig weiter und schluckt die Innereien mit einem gequälten Lächeln hinunter.
+
+"Jetzt weiß ich, dass der Hirsch zuletzt Holunderbeeren gefressen hat", meint er schmatzend. "Willst du wirklich nicht ein bisschen probieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Genieße dein Abendessen. Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Der einäugige Orlaner winkt dir breit grinsend zu. Er wischt mit seinen Händen über seinen abgenutzten Waffenrock, wodurch ein Gestöber an Blättern, Käfern und Fell freigeschüttelt wird.
+
+"Willkommen zurück, Reisender. Was hast du auf dem Herzen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Möchtest du mit uns zusammen reisen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Betrachte dein Angebot als angenommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Der Orlaner verbeugt sich leicht und winkt mit seiner Hand. "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Neben dir hörst du ein gurgelndes Grummeln. Sagani legt sich ihre Hand auf den Bauch. Ihr Blick ruht immer noch auf dem Tierkadaver. "Immer noch frisch."
+
+Itumaak hängt seine rosa Zunge aus dem Mund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Sagani schaut von dir zum Orlaner. "Will das denn niemand essen?" Itumaak leckt sich die Lippen und wimmert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Erzähl mir von Wael."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Der Orlaner lächelt, öffnet seinen Mund, als wolle er sprechen, und verstummt dann.
+
+"Wael ist der Gott der Geheimnisse und der Verdunkelung. Wael schreitet in unsere Taten kaum ein, noch diktiert oder beschränkt er sie - und er gibt sich auch nicht einfach so zu erkennen. Ich würde sagen, dass ich mehr über Wael nachdenke, als ihm zu folgen oder zu dienen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

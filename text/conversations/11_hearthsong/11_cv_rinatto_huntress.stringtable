@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_rinatto_huntress</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Es ist nicht unser Brauch, Streitigkeiten zwischen Estramorwn zu tolerieren." Die Jägerin beginnt, sich umzuwenden, doch ihr Gesicht bleibt noch kurz dir zugewandt. Ein leichtes Lächeln spielt um ihre Lippen. "Du verstehst das gewiss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bevor du antworten kannst, geht sie davon, mit selbstbewusstem Schritt.
+
+Rinattos Arme zucken ein letztes Mal, bevor der Kaufmann sein Leben als ein blutiges, lebloses Häuflein Elend beendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

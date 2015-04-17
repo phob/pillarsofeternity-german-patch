@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_langden</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Gut. Kennt jeder den Plan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Die Mauer hinauf und in das Fenster hinein. Den Edelstein für den hübschen kleinen Fürsten schnappen. Wir haben's verstanden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Pass mal auf, Zwerg, wenn ich muss, dann-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Langden, wir haben Besuch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Sei gegrüßt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Was geht hier vor sich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich gehe dann lieber mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Der Zwerg blickt dich misstrauisch an und versteckt seine Pistole hinter seinem Rücken. "Äh, suchst du jemanden? Es passt uns nämlich gerade nicht so-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Langden fährt den Zwerg an. "Idiot! Er gehört vermutlich zu den Schmelztiegelrittern."</DefaultText>
+      <FemaleText>Langden fährt den Zwerg an. "Idiot! Sie gehört vermutlich zu den Schmelztiegelrittern."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ein Lächeln wie eine zackige Narbe erstreckt sich über das Gesicht des Mannes. "Das ist deine geringste Sorge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Es war ein großer Fehler, herzukommen." Er hebt seine Klinge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Langden tritt vor und zieht sein Florett. "Ich fürchte, das kann ich nicht zulassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Entspann dich. Abrecan Doemenel schickt mich. Er will den Brief zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Der Mann blinzelt dich an. "Ich ... weiß nicht, wovon du sprichst." Seine Hand ruht noch immer auf seiner Klinge, aber er scheint auf dem falschen Fuß erwischt worden zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich habe keine Zeit für sowas. Gib ihn mir einfach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Wenn du je wieder für das Haus Doemenel arbeiten willst, dann mach jetzt keinen Ärger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Wenn Abrecan mich nicht geschickt hat, woher weiß ich dann, wo ich euch finde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Einschüchtern] "Zwing mich nicht, dir den Brief abzunehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Der Zwerg blickt auf deine Waffe. "Gib ihn mir einfach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Langden überlegt. Nach einem kurzen Augenblick nimmt er die Hand vom Knauf seiner Klinge. "Ein gutes Argument. Hier, bring ihn dem Boss. Vielleicht kannst du ein gutes Wort für uns einlegen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Natürlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Wohl kaum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Wenn ich daran denke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ich versuche, euch Ärger zu ersparen. Es gibt keinen Grund, Blut zu vergießen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Die Diebe blicken einander an. Langden umklammert den Griff seiner Waffe fester.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

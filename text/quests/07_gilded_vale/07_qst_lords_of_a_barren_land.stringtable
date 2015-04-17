@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_gilded_vale\07_qst_lords_of_a_barren_land</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Fürst des Ödlands</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Begib dich zu Raedrics Festung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Konfrontiere Fürst Raedric VII. in seiner Burg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Begib dich zu Kolscs verborgenem Lager.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Konfrontiere Kolsc.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre zu Raedrics Festung zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Goldtal wird von Fürst Raedric beherrscht, der in der Burg jenseits des Esternwalds lebt. Da der als Waidwens Vermächtnis bekannte Fluch den Dyrwald fest im Griff hat, griff er zur Ausmerzung der Ursachen zu brutalen Maßnahmen. Letztere haben ihm Feinde eingebracht, von denen ihn viele nun zu gern seiner Macht berauben würden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich wurde von einem Mann angesprochen, der sich gegen Fürst Raedrics Grausamkeit aussprach. Er fordert mich auf, mit ihm gemeinsame Sache zu machen und Raedrics Herrschaft ein Ende zu setzen. Die Burg liegt östliches des Esternwalds und wird schwer verteidigt. Ins Innere zu gelangen, wird eine beträchtliche Herausforderung darstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe Raedrics Festung erreicht. Fürst Raedric wartet irgendwo im Inneren, aber dorthin zu gelangen, wird nicht einfach werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe mit Fürst Raedric gesprochen, der mir eine ganze andere Version der Geschichte erzählte. Er bat mich, Kolsc wegen dessen Plänen zum Thronraub und der Machtübernahme über Goldtal und den umgebenden Ländereien zu konfrontieren. Raedric sagte, dass Kolsc in der als Magrans Gabelung bekannten Wildnis zu finden sei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe den Ort gefunden, an dem sich Kolsc und seine Verbündeten treffen. Kolsc wartet im Inneren. Es fällt mir zu, über sein Schicksal zu entscheiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe Kolsc erschlagen und damit die größte Bedrohung für Fürst Raedrics Herrschaft eliminiert. Raedric hat mir bei meiner Rückkehr eine Belohnung versprochen, sollte ich Erfolg haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe mit Nedmar gesprochen, dem Hohepriester. Als Gegenleistung für die Befreiung seines ehemaligen Akolythen Giacco aus dem Kerker der Burg in den unteren Verliesen versprach er, mir einen sicheren Weg zu Raedrics Thronsaal zu zeigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe mit Osrya gesprochen, einer Beseelerin in den Verliesen der Burg. Sie versprach, einen Geheimweg in Raedrics Gemächer zu öffnen, wenn ich vorher Nedmar, den Berath-Hohepriester, aus der Welt schaffe. Er hält sich in den oberen Stockwerken der Burg auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Kolsc ist der Ansicht, dass ein Frontalangriff auf die Burg unmöglich sei. Er schlug mir vor, am östlichen Rand des Burggrabens einen Zugang in die Abwasserkanäle zu suchen. Ansonsten könnte ich vielleicht einen Weg in das obere Stockwerk der Burg finden, wo sich Kolscs Kontaktperson Nedmar aufhält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Kolsc ist der Ansicht, dass ein Frontalangriff auf die Burg unmöglich sei. Er schlug mir vor, am östlichen Rand des Burggrabens einen Zugang in die Abwasserkanäle zu suchen. Alternativ könnte es mir gelingen, einen Weg in das obere Stockwerk der Burg zu finden, wo sich Kolscs Kontaktperson Nedmar aufhält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe Nedmars jungen Akolyth Nedmar gerettet und Nedmar über meinen Erfolg informiert. Der Priester gab mir einen Schlüssel zum Quartier der Schreiber, über das ich die Kapelle erreichen kann, die direkt neben Raedrics Thronsaal liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Wie versprochen erschlug ich Nedmar und berichtete Osrya davon. Osrya dankte mir für meine Hilfe und öffnete einen Geheimweg für mich, der direkt in Raedrics Gemächer führt. So sollte ich leichter in seinen Thronsaal gelangen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe einige Berath-Roben gefunden. Damit sollte ich mich unter die Priester auf diesem Stockwerk mischen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Giacco wurde erschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich erschlug Osrya, was es ziemlich unwahrscheinlich macht, dass sie mir bei der Suche nach Raedric helfen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Ich brachte Nedmar um, was unser Abkommen beendete.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Ich befreite Giacco aus seiner Zelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Fürst Raedric VII. ist tot. Kolsc steht nun nichts mehr im Weg, Raedrics Festung und die sie umgebenden Lande einschließlich Goldtal zu beanspruchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich kümmerte mich um Kolsc und informierte Fürst Raedric darüber, dass er die Lande von Goldtal nun ohne weiteren Widerstand des Thronräubers regieren kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Alle lebenden Erben der Raedric-Besitztümer sind durch meine Hand gestorben. In Goldtal wird es nun ohne seine 'Retter' weitergehen müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

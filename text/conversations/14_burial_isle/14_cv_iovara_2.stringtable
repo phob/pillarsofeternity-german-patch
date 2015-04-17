@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_cv_iovara_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>144</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Iovara sieht etwas in deinem Gesichtsausdruck und ändert ihren Tonfall. "Ich frage diese Dinge nicht, um euch Sorgen zu bereiten, sondern um euch zu zeigen, dass man sich ihnen stellen muss. Keine Antwort ist einfach, doch irgendwo zwischen ihnen allen liegt eine Wahrheit, die so schön ist, dass nicht einmal ein Gott sie schaffen könnte."
+
+"Schulden wir es uns nicht selbst, unsere Rolle in allem zu ergründen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Doch. Selbst ohne Zusicherungen gibt es noch Wahrheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wenn du das wirklich glaubst, bist du eine völlig andere Person als die, die ich kannte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich war so lange mit meinen Gedanken hier allein. Ich habe Frieden mit meinen Fehlern und meiner Bestrafung geschlossen. Ich verfluche das Schicksal nicht mehr dafür, was vielleicht hätte sein können. Aber eines gibt es, was in all den Jahren meinen Verstand geplagt und gepeinigt hat. Eine Sache, die erst ruhen kann, wenn ich es weiß. Wenn ich es verstehe."
+
+Zum ersten Mal sind in ihrem ruhigen Antlitz Anzeichen von Zweifeln zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich habe dir nie verziehen, was zwischen uns geschehen ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich wusste, dass es ein Risiko war, dich in mein Lager aufzunehmen. Ich wusste, dass du noch starke Empfindungen hattest. In meinem Stolz hoffte ich, ich könnte sie in deinen Glauben kanalisieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich hatte immer gehofft, dass unsere Freundschaft gerettet werden kann, dass die Zeit sie kitten würde. Doch manche Dinge macht die Zeit nur schlimmer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Optimismus war schon immer Teil meines Wesens. Bei allem, was ich glaubte, musste ich auch glauben, dass mein Bruder eines Tages wieder mein Bruder sein könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich habe als deine Lehrerin in vielerlei Hinsicht versagt. Ich habe es immer tief bereut. Vielleicht habe ich letztlich bekommen, was ich verdient habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Deine Lehren waren eine Gefahr für alles, an was ich glaubte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Iovara blickt nach unten, ihre Augen glasig. "Das wollte ich nie. Ich hatte gehofft, dass meine Lehren, deinen Glauben durch etwas ersetzen würden, was dich stärker machen würde. Bei vielen war das der Fall. Doch nicht bei allen, wie es scheint." Sie schüttelt langsam den Kopf, gedankenverloren, auf der Suche nach einer Antwort, die nie kommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich habe dich verabscheut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich ... glaube, ich habe es vielleicht geahnt. Ich wollte es nur einfach nicht glauben. Nicht von dir. Als du an jenem Tag in mein Lager kamst, dachte ich, es würde wieder so sein, wie es einmal war. Ich war ... fahrlässig. Wenn du mich damals verabscheutest, so trage ich die Schuld dafür."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich mochte dich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ich ... kenne meine Fehler. Ich wusste wohl, dass sie mich eines Tages in Schwierigkeiten bringen würden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Iovara blinzelt, als würde sie aus einem furchterregenden Traum erwachen. "Gut ... gut. Die Dinge, die ich lehrte ... die Dinge, die ich glaubte ... Das musste ich hören. Ich musste wissen, dass es nicht daran lag, dass-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Dass ich dachte, Thaos habe Recht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Dass ich an dir zweifelte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich musste wissen, dass es nicht daran lag, dass du nach allem, was du erfahren hattest, dennoch lieber an eine Lüge glauben wolltest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Wenn das die Schlussfolgerung ist, zu der die Leute kommen, wenn sie alles wissen, dann ist mein ganzes Dasein ein Fehler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"War meine Meinung dir so wichtig?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ich habe zu dir aufgeblickt, seit wir Kinder waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Du hattest beide Seiten gehört. Alles gesehen. Wenn nicht du, wer dann?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Du kannst niemals alle von etwas überzeugen, ob es wahr ist oder nicht. Es wird immer Dissens geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Mit Dissens hatte ich gerechnet. Aber ich musste wissen, dass der wahre Glauben obsiegen würde."
+
+"Vielleicht war es falsch, den Taten einer Person so viel Bedeutung beizumessen. Ich musste einfach das Gefühl haben, dass es eine Antwort gibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Du ... hast mir die Chance genommen, deine Beweggründe zu verstehen. Doch selbst, wenn du das nicht getan hättest, würde ein Teil von mir immer wissen, dass es keine echte Antwort auf das gewesen wäre, was ich wissen wollte. Genau so wenig wie eine Ewigkeit des stummen Nachdenkens."
+
+"Ich kann nur raten und vermuten, und das muss reichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Selbst, nachdem ich wusste, was du mir sagtest, weiß ein Teil von mir, dass es keine echte Antwort auf das ist, was ich wissen wollte. Genau so wenig wie eine Ewigkeit des stummen Nachdenkens."
+
+"Ich kann nur raten und vermuten, und das muss reichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Und wie siehst du unsere Vergangenheit? Bist du im Reinen mit deinen Entscheidungen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ich sehe die Welt heute anders als damals. Ich bereue, was ich dir angetan habe, und ich wünschte, du könntest mir verzeihen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ich habe dir immer verziehen. Ich kannte zwar deine Beweggründe nicht, aber ich kannte dich. Ich wusste, dass wir einmal etwas Wunderbares gehabt hatten. Darauf zurückzublicken hat mir geholfen, diese vielen Jahre durchzustehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ich habe dir immer verziehen. Was auch dein Beweggrund gewesen sein mag, kein Streit über Gedanken vermag die Bande von Blut und Essenz zu kappen. Kein Auseinandergehen vermag die Erinnerung an sorgenfreie Zeiten zu kappen, an Zeiten, an denen wir selbst ohne Götter niemals wirklich allein waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Es gibt nichts zu verzeihen. Der Fehler war immer allein meiner. Ich habe dich auf den Weg geleitet, der zu Thaos führte. Als ich versuchte, dich von ihm abzubringen, war es bereits zu spät. Etwas Falsches gelehrt zu haben ist weitaus schlimmer, als selbst etwas Falsches getan zu haben. Ich habe mir lange gewünscht, das wiedergutmachen zu können, doch die Zeit dafür ist längst vergangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ich habe dir immer verziehen. Was auch dein Beweggrund gewesen sein mag, hinter diesem Grund liegt ein Zustand, den wir alle teilen. Wenn man sich dessen bewusst ist, fällt es schwer, einen Groll im Herzen zu hegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Zunächst dachte ich, das könnte der Quell deiner Seelenpein sein, doch nun weiß ich, dass ich mich irrte. Du bist in dieser Sache nicht zwiegespalten. Du hast sie hinter dir gelassen."
+
+"Bei Thaos liegt deine Pein, in Sonne im Schatten. Deine Fragen sind nicht für mich, sondern für ihn. Und vielleicht wird nur eine Antwort aus dem Mund von Thaos persönlich deinen Hunger stillen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Doch wenn ich dir etwas sagen kann, was nutzen würde ... frag und du wirst Antwort bekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Bist du bis ans Ende aller Zeiten an diesen Ort gebunden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"In gewisser Weise. Dieser Ort ist Breith Eaman, der Hof der Büßer. Seelen werden hier eingekerkert, bis sie Buße tun. Sie müssen einen Gott um Verzeihung bitten und ihm ihre Seele versprechen, dann werden sie aus diesem Ort in die Welt darüber gehoben."
+
+"In Wahrheit erhalten sie Nachsicht, aber keine echte Gnade. Woedicas Groll ist ewig. Sie irren oben umher, an der Stätte des alten Hofs, und dürfen die Insel nicht verlassen, für immer vom Kreislauf getrennt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Dieses Gefängnis war einst zum Bersten gefüllt, in den Tagen der Inquisition. Doch die Zeit verwittert alle Dinge, selbst den Willen. Nur ich bin zurückgeblieben."
+
+"Und doch ... spüre ich ihre Anwesenheit nun sehr deutlich, wie zu Beginn. Du hast viele von ihnen hergeführt. Sie fordern, dass über Thaos gerichtet wird. Du bist einen Handel mit den Göttern eingegangen, nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Die anderen Götter helfen mir, weil sie Thaos vernichten wollen. Ich bin ihnen nichts schuldig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Sie helfen dir, weil sie dich für ihre eigenen Zwecke verbiegen wollen. Engwith hat Götter aus Idealen errichtet, und ein Ideal für sich allein ist ein groteskes und gehässiges Ding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Doch diese Seelen, diese Vergebenen, welche die Götter dir wie Vieh überlassen haben ... sie waren im Leben treue Anhänger. Sie werden bis zum letzten Ende bei dir bleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Warum tust du keine Buße? Du könntest diesen Ort verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Sie lächelt sanft. "Als mir diese Frage das letzte Mal gestellt wurde, war ich an ein eisernes Rad gefesselt und mein Rückgrat war gebrochen."
+
+"Ich zweifle inzwischen an vielen Entscheidungen, die ich in meinem Leben getroffen habe, doch dieser Prozess war mein einziger Augenblick der völligen Gewissheit. Selbst ohne einen Chor der Götter, der mir das bestätigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Die Götter müssen daran erinnert werden, dass wir einen Geist haben, und dass der Geist ein Beweis gegen ihre Macht ist. Sie haben die Macht, uns zu manipulieren und zu verwirren und zu ruinieren, aber nicht, unseren Willen zu ändern."
+
+"Ich bleibe hier, bis die Welt zerfällt und aus der Existenz schwindet - mit Freude im Herzen, weil ich weiß, dass ich ihnen gezeigt habe, was sie wirklich sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ich möchte dich etwas Anderes fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Besser auf ihrer Seite stehen als auf Woedicas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Besser auf gar keiner Seite zu stehen. Woedica ist vielleicht der gefährlichste aller Götter, aber täusche dich nicht. Engwith hat Götter aus Idealen errichtet, und ein Ideal für sich allein ist ein groteskes und gehässiges Ding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ich nutze die Götter, um meine eigenen Ziele voranzutreiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Dieser Ort ... Sonne im Schatten ... was ist das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ich könnte dir sagen, was ich glaube, aber auch das wäre kein Beweis. Ich habe nur, was ich gesehen habe, und was andere mir darüber gesagt haben. Es gibt nur noch einen Mann, der es dir sagen kann, der es mit Gewissheit weiß, und du wirst ihm schon bald gegenüberstehen."
+
+"Ich überlasse es dir, es mit eigenen Augen zu sehen, dein eigenes Urteil zu fällen. Es ist besser für deine Seele, meine ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Wie kann es sein, dass du Aedyranisch sprichst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ich spreche keine Sprache mehr als den wortlosen Ausdruck des Geistes. Durch meine Verbindung zu dir kann ich deine Worte kanalisieren und als meine eigenen formen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Weißt du, was ich von Thaos brauche?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ich kann es nicht sicher sagen. Aber du warst schon einmal in Sonne im Schatten. Du standest an einem Scheideweg in deinem Leben, als viel von dem, was du kanntest, auf den Kopf gestellt worden war. Ich vermute, du wirst dich dort wieder daran erinnern."
+
+"Deine Sorgen damals drehten sich um Loyalität, um Vertrauen, um die Götter. Alles, was ich dir sagte, schien dich tiefer in den Zweifel zu stürzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Warum hat Thaos all das getan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Er schert sich nur um das Geheimnis, das er hinter Schloss und Riegel hält. Er zerstört jeden, der es entdecken könnte, auch wenn die Wahrscheinlichkeit noch so gering ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Deswegen hat er schon immer Woedica verehrt. Nicht wegen ihrer Liebe für Versprechen oder Gerechtigkeit. Sondern wegen ihrer Missachtung aller Regeln. Ihrer Bereitschaft, zu tun, was nötig ist. Für Thaos ist sie keine Gottheit, sondern eine Verbündete, mit der er sich verschwören kann."
+
+"Wenn ihre Macht zunimmt, tut sie, was sie will - mit diesem Reich wie auch mit ihrem. Und sie will ebenso wie er, dass dieses Geheimnis gehütet bleibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Wenn Thaos Erfolg hat, wird sich das Machtverhältnis zwischen den Göttern verschieben. Woedica wurde einmal besiegt, als die anderen Götter entschieden, sie sei zu weit gegangen, und ihre Macht nachließ."
+
+"Wer weiß schon, für was sie diesen Machtschub nutzen wird. Die einzige Gewissheit ist, dass es in ihrem Reich wie auch in unserem Chaos geben wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Wie kann ich Thaos dazu bringen, mir zu sagen, was ich wissen will?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Du findest in ganz Eora kein entschlosseneres Lebewesen. Kein Angebot, kein Zauber, kein Schmerz kann ihn dazu bringen, offenzulegen, was er verbirgt."
+
+"Aber wie ich sehe, bist du in diesem Leben Wächter geworden. Vielleicht erfährst du in der Niederlage etwas von ihm, wenn er sich nicht mehr länger verteidigen kann."</DefaultText>
+      <FemaleText>"Du findest in ganz Eora kein entschlosseneres Lebewesen. Kein Angebot, kein Zauber, kein Schmerz kann ihn dazu bringen, offenzulegen, was er verbirgt."
+
+"Aber wie ich sehe, bist du in diesem Leben Wächterin geworden. Vielleicht erfährst du in der Niederlage etwas von ihm, wenn er sich nicht mehr länger verteidigen kann."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Es ist an der Zeit, dass ich gehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Iovara nickt. "Thaos wird nicht auf dich warten. Wenn du ihn jetzt nicht einholst, findest du ihn vielleicht nie wieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Dann will ich keine Zeit mehr vergeuden. Leb wohl, Iovara."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ich ... bin dankbar, dass du gekommen und mich gefunden hast, egal unter welchen Umständen. Du bist nicht mehr ... wer du einmal warst - daran muss ich mich erinnern. Aber dich ein letztes Mal zu sehen und mich zu erinnern, was wir geteilt haben, wenn auch nur für kurze Zeit, war besser als alles, was ich an diesem Ort zu hoffen gewagt hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Komm, wir müssen noch eines tun, bevor wir Frieden finden können. Wir beide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ich habe wohl lange genug gewartet. Und ich will dich nicht länger aufhalten. Komm, bringen wir es ein für alle Mal hinter uns. Ich bin bereit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Iovaras Seele zerschmettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Sollten wir uns je wieder begegnen, in diesem Leben oder einem anderen, hoffe ich, dass du deinen Frieden gefunden haben wirst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Es ist ein grausames Schicksal, so lange auf die Wiedervereinigung mit meinem Bruder zu warten, nur um bald darauf wieder Abschied nehmen zu müssen. Doch was ist das Leben als eine Abfolge kurzer Begegnungen mit denen, die wir lieben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Es war schön, dich ein letztes Mal zu sehen, alter Freund. Ich dachte, ich hätte vor langer Zeit mein letztes freundliches Gesicht gesehen.</DefaultText>
+      <FemaleText>Es war schön, dich ein letztes Mal zu sehen, alte Freundin. Ich dachte, ich hätte vor langer Zeit mein letztes freundliches Gesicht gesehen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ich hoffe, du kannst mir vergeben, dass ich dich ganz am Anfang überhaupt erst zu Thaos geführt habe. Ich hoffe, der letzte Rat, den ich dir hier gegeben habe, ist von größerem Nutzen als das, was ich dich früher lehrte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Deine Seele verdient es, dass ihr Leid ein Ende nimmt. Es tut mir Leid, dass ich dir das nicht selbst geben konnte. Möge es schnell geschehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Die Götter haben mir die Seelen ihrer Vergebenen gegeben. Wenn du Buße tust, kannst du dich ihnen anschließen. Hilf mir, den letzten Schlag gegen Thaos auszuführen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Du bemerkst nun eine Verbindung, die schon immer Bestand hatte, eine Verwebung ihrer Essenz mit deiner am Rande deiner Wahrnehmung. Du bist an den Geist dieser Frau gebunden, und du spürst, dass du ihn bis zu einem gewissen Grad kontrollieren kannst, als wärest du sein Hirte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Früher hast du für deine Überzeugungen gekämpft. Nun winselst du nur deinen Protest. Das hier bedeutet sehr WOHL etwas. Thaos zu besiegen, das bedeutet etwas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Iovara sagt lange Zeit nichts. Betrachtet man sie, wie sie mit leerem Blick in die Ferne starrt, so ist ihre Erschöpfung nicht zu übersehen. Als wäre ihr Leben irgendein längst verstrichener Traum gewesen und als sei ihre Gefangenschaft ein nicht enden wollender Tag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Wenn ich dir aber helfe, dann nur unter einer Bedingung. Die Seelen, die du trägst ... sie müssen befreit werden. Ihre Seelen gegen meine."
+
+"Der Weg nach Sonne im Schatten ist in unnatürliche Dunkelheit getaucht. Nur die Adra-Laternen können den Weg erhellen. Es wird dich einige der Seelen kosten, die du trägst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Du hast deinen Weg begonnen, weil du den Leuten Hoffnung geben wolltest, ohne die Wahrheit zu opfern. Thaos ist und bleibt der größte Feind dieser Dinge - mehr als jeder Gott."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Vielleicht kann deine Vision einer Welt, welche die Wahrheit kennt, eines Tages Wirklichkeit werden - aber nicht, so lange Thaos lebt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Alle Seelen der Vergebenen sind an mich gebunden - von jedem Gott. Wenn du jetzt Buße tust, bittest du nicht die Götter um Vergebung, sondern mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Dein Widerstand hier ist eine Illusion. Du bist eine Sklavin der Götter, an ihre Regeln gebunden, in ihrem System gefangen. Deine fortdauernde Existenz beweist, dass die Götter über uns alle herrschen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Du bemerkst nun eine Verbindung, die schon immer Bestand hatte, eine Verwebung ihrer Essenz mit deiner am Rande deiner Wahrnehmung. Du bist an den Geist dieser Frau gebunden, und du spürst, dass du ihn bis zu einem gewissen Grad kontrollieren kannst, als wärest du sein Hirte.
+
+"Was schlägst du vor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ich kann deine Seele zerschlagen. Deine Existenz beenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Dann wäre ich nicht anders als die anderen Seelen, welche die Götter an diesem Ort gebrochen haben. Ich will meinen Kampf gegen sie nicht aufgeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Wie kannst du deinem Argument mehr Nachdruck verleihen als durch das Opfern deiner eigenen Existenz. So lange du hier bist, wissen die Götter, dass dir das Leben, das sie dir gegeben haben, wertvoll ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Iovara sagt lange Zeit nichts. Betrachtet man sie, wie sie mit leerem Blick in die Ferne starrt, so ist ihre Erschöpfung nicht zu übersehen. Als wäre ihr Leben irgendein längst verstrichener Traum gewesen und als sei ihre Gefangenschaft ein nicht enden wollender Tag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Du bleibst nicht der Götter wegen hier, sondern in der Hoffnung, dein Glaube würde irgendwie bestätigt werden. Du hast Angst, dass du dich geirrt hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Als ihre Gefangene bist du machtlos. Erst, wenn du dich aus ihrer Kontrolle befreist, hast du wirklich einen Sieg errungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ich werde deine Wünsche respektieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Egal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Wenn du nicht vor langer Zeit Zweifel in meinem Verstand gesät hättest, würde ich jetzt ein normales Leben führen. Bevor ich gehe, werde ich mich für diesen Fluch revanchieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Du bemerkst nun eine Verbindung, die schon immer Bestand hatte, eine Verwebung ihrer Essenz mit deiner am Rande deiner Wahrnehmung. Du bist an den Geist dieser Frau gebunden, und du spürst, dass du ihn bis zu einem gewissen Grad kontrollieren kannst, als wärest du sein Hirte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ich werde dich aus diesem Gefängnis holen. Dich zurück in den Kreislauf schicken. Dich dazu verdammen, alles zu vergessen, was du weißt. Vielleicht wirst du eines Tages erweckt und teilst das Schicksal, das ich nun erleide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Bitte ... selbst, wenn ich hier gefangen bin, lebe ich zumindest nicht in Unwissenheit. Mein Dasein wurde zumindest von der Wahrheit gestaltet. Lass mich nicht alles aufgeben, wofür ich gekämpft habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Iovaras Seele aus ihrem Gefängnis ziehen und aus der Welt löschen.] "Leb wohl, Iovara."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Unter dir spürst du eine gewaltige Adra-Konzentration, so tief wie die Welt selbst. Lebendig und summend in deinem Bewusstsein. Ein Kanal, der unter Breith Eaman hindurch in den grenzenlosen Raum dahinter führt.
+
+Du konzentrierst dich auf Iovara. Du wickelst Fäden deiner Essenz um sie wie eine würgende, bestialische Kralle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Nachdem du ihre Seele fest im Griff hast, ziehst du sie nach unten. Sie schlägt um sich und versucht verzweifelt, irgendwo Halt zu finden, um sich gegen die Kraft zu stemmen, die du auf sie ausübst.
+
+Du ziehst sie tief unter den Boden, auf die magnetische Anziehungskraft des arteriellen Adra zu, bis jeder Widerstand zwecklos ist. Dann, plötzlich, lässt du ihre Seele los und sie ist fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Du hast getan, was du für das Beste hieltst. Vergiss einfach, dass ich es erwähnt habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ich würde es wieder tun, wenn ich die Gelegenheit hätte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ich habe diese Entscheidung nicht getroffen. Ich bin nicht dafür verantwortlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ich verstehe dein Argument."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Ich weiß, wie töricht es ist, so viel aus so wenig lernen zu wollen. Ich hatte ... Zeit ... das in allen Facetten zu überdenken. Doch letztlich ist es alles, was ich hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Dein Optimismus war schon immer fehlgeleitet. Deswegen bist du jetzt hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Einen Augenblick lang weiß Iovara nicht, was sie sagen soll. Ihre Stimme ist kaum mehr als ein Flüstern. "Vielleicht. Vielleicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Ich habe dich für viele Dinge geliebt. Vor allem aber für deine Rechtschaffenheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Ich ... habe dich vielleicht nicht so geliebt, wie du mich geliebt hast. Aber ich habe dich geliebt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Du warst mehr als nur ein Freund, du warst die einzige Person, der ich vertraut habe. Ich habe deinem Urteil immer geglaubt. Nie war ich mir meiner Überzeugungen so sicher wie an dem Tag, an dem du in mein Lager kamst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Du warst einst wie ein leeres Blatt für mich. Ein leeres Blatt, dem ich die falschen Dinge lehrte. Ich hatte dir einen falschen Glauben gegeben. Ich musste wissen, dass ich ungeschehen machen konnte, was ich getan hatte. Dich auf einen neuen Weg führen, den Weg zur Wahrheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Wir wussten wenig voneinander, bevor du in mein Lager kamst. Du hättest irgendwer sein können. Weshalb deine Entscheidung alles bedeutete."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Es wirkt harsch, diese Verbindung zu ziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Du warst naiv, den Leuten derart zu vertrauen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Warum?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Heraus mit der Sprache."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Ich wollte den Göttern gefallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Du hast also nie gezweifelt, trotz allem, was ich dir gesagt hatte? Oder vielleicht hast du meine Worte akzeptiert, wolltest ihnen aber dennoch gefallen."
+
+"Beides ist besser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Als was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Deine Gefangennahme brachte mir Ruhm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ging es wirklich nur darum? Um den Glanz der Inquisition?"
+
+Iovara unterdrückt ein kleines, erleichtertes Lachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Ich hatte Angst, was Thaos mir antun würde, wenn ich nicht einwillige."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Woedica hat ihm viel geschenkt, sehr viel. Doch sein Manipulationstalent war immer allein seines gewesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Ich hatte wohl keinen Grund. Ich habe es einfach getan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"In all den Jahren, in denen ich darüber nachgedacht habe, habe ich mir nie vorgestellt, du könntest es grundlos getan haben. Das ... verändert alles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Tut mir leid. Es gibt keine Zusicherungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Iovara blickt dich mit dem Gesicht einer Verdammten an. Ihr Mund bewegt sich, doch sie spricht keine Worte. Ihre Augen werden glasig, nicht länger auf dich fokussiert, sondern auf eine unsichtbare, erdrückende Vision vor sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Nein. Die Leute müssen wissen, dass die Dinge nicht grundlos geschehen. Ein erfundener Grund ist besser als gar keiner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Diese Denkweise hat die Welt geformt, mit allen Vor- und Nachteilen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ich glaube nicht, dass es einen Unterschied macht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Das frage ich mich selbst oft. Wären die Dinge anders verlaufen, hätte die Welt meinen Glauben anstatt dem der Engwithaner angenommen, wäre es dann wirklich so gewesen, wie ich es mir vorstellte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Entlasse sie alle von dort und sie werden ihren Weg zurück in den Kreislauf finden. Das ist die Freiheit, die uns versprochen wurde, die wir aber nie bekamen. Ich verspreche dir, verglichen mit Thaos bin ich ihnen mehr als ebenbürtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Wir haben eine Übereinkunft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Ich möchte die Seelen lieber behalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Iovara nickt mit offensichtlicher Enttäuschung. "So sei es. Ich hoffe, du bist gütig genug, sie zu befreien, wenn sie für dich getan haben, was sie konnten. Gerade du solltest verstehen, dass sie sich ausruhen müssen."
+
+"Hier trennen sich also unsere Wege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Ihre Augen blicken sich um. "Also gut. Ich werde diesen Ort nicht vermissen."
+
+Sie blickt dich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>[Iovaras Seele aus dem Adra ziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Du streckst dich über die Grenzen deines Körpers hinaus und tauchst einen Teil deines Ichs in das kalte Adra - als würdest du in einen schummrigen Ozean tauchen, um einen ertrinkenden Schwimmer zu retten. Du spürst Iovaras Anwesenheit, eine sanfte Wärme, die dich durch die Dunkelheit führt, und endlich kannst du sie ergreifen und sie aus der Tiefe ziehen.
+
+Sie ist nun an dich gebunden, wie eine Erweiterung deiner selbst, außer Sichtweite und doch nie weit entfernt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Vor deinem geistigen Auge wird Iovaras Seele zu einer Puppe aus Pergament. Deine Konzentration fliegt auf die Puppe zu, in Funkenwellen, die sich in Haufen vor ihren Füßen sammeln. 
+
+Du drängst weiter vorwärts und die Funken entzünden sich. Sie tanzen als Flammen an der Puppe empor, umschlingen sie, schälen die gewebten Fasern ab und verwandeln sie in leuchtendes Orange, dann in reinstes Schwarz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Die Puppe scheint einen Augenblick lang in der Luft zu schweben, bis das letzte Stück Pergament von der letzten Flamme verzehrt wird und nur einige kaum miteinander verbundene Fasern übrig bleiben, die den Umriss der Puppe zusammenhalten wie ein raffiniertes Spitzengewebe.
+
+Iovara neigt den Kopf leicht in deine Richtung und die letzten Fasern zerfallen wie Asche und werden auf einer unsichtbaren Brise in die Leere getragen. Sie ist fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Vielleicht hast du Recht. Vielleicht ... gibt es einen Weg, dies unter meinen Bedingungen zu beenden."
+
+Sie blickt zu dir auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Vielleicht hast du Recht. Vielleicht ... gibt es einen Weg, dies unter meinen Bedingungen zu beenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Ich muss wissen, warum du entschieden hast, der Inquisition treu zu bleiben, selbst, nachdem du die Wahrheit erfahren hattest. Er-erinnerst du dich?"
+
+Als sie die Frage stellt, springt dir die Erinnerung augenblicklich ins Gedächtnis, als wäre es eben erst geschehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Seine Worte waren dir wichtig, als du ihn damals kanntest. Nachdem du und ich uns unterhielten, bist du sofort aufgebrochen, um ihn aufzusuchen. Vielleicht wolltest du einfach eine Bestätigung von dem Mann, dem du vertrautest."
+
+"Wenn dich aus dieser Zeit noch etwas belastet, dann vielleicht etwas, was er dir damals gesagt hat ... oder sich geweigert hat, dir zu sagen. Er hütet Geheimnisse besser als jeder Andere in dieser Welt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Wenn ich Buße tue, ist alles, was ich getan habe, ohne Bedeutung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Ich ... wollte dir nie Schaden zufügen. Ich dachte, die Wahrheit würde dich befreien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Natürlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

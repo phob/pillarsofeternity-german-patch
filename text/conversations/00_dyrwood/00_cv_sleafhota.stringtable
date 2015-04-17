@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_cv_sleafhota</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Er fletscht seine Zähne, die spitz zugefeilt sind. "Zurück zu deinem Dorf, Estramor. Du hast Glück, dass die Drei-Stoßzahn-Stelgaer heute andere Beute jagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich gehe wohin ich will. Geh zur Seite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Was weißt du über Clîaban Rilag?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Drei-Stoßzahn-Stelgaer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ein heiliger Ort der Erbauer, und weder deine noch unsere Füße sollen seine Steine besudeln. Die Gräser aber ... " Er grinst und hebt seinen Speer hoch. " ... werde ich nur zu gerne mit deinem Blut wässern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Sein zähnefletschendes Grinsen wird breiter. "Haben die Bauern denn mittlerweile so viel Angst, dass sie nicht einmal wagen, unseren Namen auszusprechen? Wir sind der Wildeste der sechs Stämme der Eir Glanfath, und wir sind die Wächter dieses Monuments hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich suche nach einer Gruppe von Leuten, die die Ruine eventuell schon betreten haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Wir auch." Er streicht mit seinem Daumen über das glatte Holz des Speers. "Deshalb warten wir auch hier, Estramor, und deshalb habe ich auch beschlossen, dich in Frieden zu lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Was werdet ihr tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ich habe noch nie von den Erbauern gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Mit seiner Zunge macht er ein verärgert klingendes Klickgeräusch. "Die heidnischen Zungen des Bauernvolks haben andere Namen für sie. Sie sind die Altvorderen, die diesen Ort und viele wie ihn gebaut haben."
+
+"Und wir von den sechs Stämmen bewachen ihr Vermächtnis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Wir werden warten. Wenn sie da drin sind, müssen sie irgendwann herauskommen. Und wenn sie das tun, dann ... " Er streicht mit seinem Daumen die Spitze seines Speers entlang und zeigt dir den Blutstropfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich gehe dann besser mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Der Krieger hebt seinen Speer. "Noch einen Schritt weiter und die Krähen werden sich an deinen Eingeweiden laben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Angreifen] "Mach dich bereits fürs nächste Leben, du Hund."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Lasst uns vorbei. Wir führen keinen Streit im Schilde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Eindringling! Die Entweihung dieser Steine wird dich das Leben kosten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Die Zeit für Worte ist vorbei, Estramor. Geh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Vor dir steht ein Mann, dessen Gesicht grün und ockerfarben beschmiert ist. Sein Körper wird von Tierhäuten und -fellen bedeckt, in einer Hand hält er einen Speer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Du bist gewarnt worden, Estramor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Aha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Kehre um, sonst werden wir nachhelfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ihr Schänder hört niemals zu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Als du die Ruine verlässt, drehen sich die Krieger um. Ihre bemalten Gesichter wirken beleidigt und wütend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Schänder!" Ein junger Glanfathaner schnappt sich das Horn um seinen Hals und bläst ein heulendes Signal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Krieger rennen mit erhobenen Waffen durch das Wasser des Stroms. Ihr bemalten Gesichter wirken ruhig und versteinert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Bank Node 57</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Die Drei-Stoßzahn-Stelgaer sind vielleicht nicht der zäheste glanfathanische Stamm", murmelt Hiravias hinter dir mit leiser Stimme, "aber zweifellos der streitlustigste und unzivilisierteste. Sie zähmen Stelgaers und reiten auf ihnen in die Schlacht - was einem alles sagt, was man über ihre Raffinesse und ihre Selbsterhaltungsinstinkte wissen muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Diese Individuen sind auch meine Feinde. Wenn du mich hinein lässt, könnte ich sie für dich herausholen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Er lacht. "Wie, und noch mehr Estramorwn auf heiligem Tempelboden herumtrampeln lassen? Mit Sicherheit nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Bank Node 61</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Nun, du hast dir schon einmal einen Fehler erlaubt. Was schadet es, das für uns noch einmal zu tun? Zumal wir vermutlich sehr viel nettere Leute sind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Die legendären mathematischen Fähigkeiten der Glanfathaner sind wohl keine Legende."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ganz abgesehen davon, dass die da drin vermutlich gerade alles durchsuchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Und komm hier nicht nochmal vorbei!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Lass mich vorbei. Wir haben keinen Grund zum Streiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

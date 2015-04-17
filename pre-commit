@@ -1,0 +1,39 @@
+#!/bin/bash -
+###############################################################################
+# File: xml-validation-git-pre-commit-hook.sh
+#
+# Description: Git pre-commit that checks your code for xml errors before you commit it
+#
+# Prerequisites: xmlstarlet windows or unix version 
+#
+# Instructions: Place this file in your project's .git/hooks renamed to "pre-commit"
+# run: "chmod +x .git/hooks/pre-commit"
+#
+# Todo: -List files that do not pass validation
+#
+#
+# Author: Xaratas (orginal from John Tregoning)
+###############################################################################
+if git rev-parse --verify HEAD >/dev/null 2>&1
+then
+    against=HEAD
+else
+    # Initial commit: diff against an empty tree object
+    against=4b825dc642cb6eb9a060e54bf8d69288fbee4904
+fi
+EXIT_CODE=0
+# Show files about to be commited that do not match validate xml structure
+for FILE in `git diff-index --name-only ${against} | grep stringtable`; do
+    ./xsdv.sh stringtable.xsd ${FILE}
+    EXIT_CODE=`expr ${EXIT_CODE} + $?`
+done
+if [[ ${EXIT_CODE} -ne 0 ]]; then
+    echo ""
+    echo " ----------------------------------------------- "
+    echo "|       * * * E P I C F A I L * * *             |"
+    echo "|     Some files do not pass XML validation     |"
+    echo "|        Git commit has been aborted.           |"
+    echo " ----------------------------------------------- "
+    echo ""
+fi
+exit $((${EXIT_CODE}))

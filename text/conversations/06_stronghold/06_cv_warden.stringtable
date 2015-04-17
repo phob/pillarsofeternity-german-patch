@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_warden</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>89</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Sehen Sie sich in der Wildnis vor, heutzutage sind die Biester rastlos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hatte ein Aufeinandertreffen mit einem Skuldr. Ich dachte, du würdest schon nichts dagegen haben, dass ich meine Trophäe an die Wand hänge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vor einem Tag stellte ich einem Troll nahe der Schwarzauen nach. In diesem Dickicht muss man wirklich aufpassen, wohin man tritt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Drüben bei Magrans Gabelung habe ich ein paar merkwürdige Gestalten gesehen ... waren wohl Banditen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Gute Jagd."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Habe gehört, dass ein Trupp Xaurips drüben beim Kompass sein Lager aufgeschlagen hat. Was für eine Schande. So eine schöne Aussicht dort draußen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Dieser graue alte Mann zieht an seiner Pfeife und nickt dir zu. "Habe mich schon gefragt, wann du vorbeikommen würdest. Die Gestandenen hier haben in letzter Zeit mehr Ärger, als sie verdienen. Ich stecke bis zum Hals in Kopfgeldangeboten." 
+
+"Ich dachte, zumindest eines davon könnte für jemanden mit deinen Fähigkeiten interessant sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Fyrgen nickt dir zu. "Gute Jagd, hoffe ich? Was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Was gibt es für neue Kopfgelder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Weggehen.] "Im Moment nicht. Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Mal sehen ... angeblich hat sich ein großer Waldlauerer in den Schwarzauen niedergelassen, gleich neben der Hauptstraße. Die Kaufleute nennen ihn den Bewohner, und sie wollen ihn fort haben, ehe er anfängt, ihre Karawanen zu zerstören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Dieses Kopfgeld kommt aus dem weit entfernten Neu-Heomar. Der Gerissene Cyrdel und einige seiner Komplizen sind dort aus dem Gefängnis entkommen und haben auf der Flucht zwei Justiziare getötet. Die Wachen brennen auf Rache."
+
+"Ein Mann, der auf seine Beschreibung passt, wurde bei Magrans Gabelung gesehen. Er ist gut bewaffnet, und er wird auch seine Freunde bei sich haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Eines macht immer wieder die Runde - Nalrend der Weise. Ein Oger-Schamane oder etwas in der Art. Angeblich soll er ein halbes Dutzend Höfe im ganzen Dyrwald geplündert haben. Er soll sich irgendwo in Ulmenküste versteckt haben ... aber niemand, der aufbrach, um ihn zu suchen, ward je wieder gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Kriegshäuptling Iklak. Er ist ein Xaurip, falls du das noch nicht am Namen erkannt hast. Er hält sich nie lange an einem Ort auf, aber er kehrt immer wieder ins Talholz zurück. Die Leute wollen, dass man sich um ihn kümmert, bevor er sich mit einem Drachen anfreundet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ich habe ein paar neue Angebote. Mal sehen, was haben wir hier ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich bin hier, um das Kopfgeld für Nalrend den Weisen einzufordern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Kriegshäuptling Iklak ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Der Gerissene Cyrdel ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich habe den Bewohner entfernt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Puh! Riecht so übel, wie er aussah. Gute Arbeit. Hier ist das Kopfgeld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Das dürfte das Talholz eine Weile lang sicherer machen. Hier ist deine Belohnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Gute Arbeit. In Neu-Heomar werden sie bald feiern. Hier ist das Kopfgeld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Zur Freude der Kaufleute, nehme ich an. Hier ist das Geld, das sie geboten haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ein Alchemist im Gnadental will den Kopf von Glasdial dem Troll, auch bekannt als der Grüne Tod. Der Bursche sagte nicht, was er damit vorhat ... nur, dass er sehr gut dafür zahlt. Wenn du Interesse hast, solltest du in Lle a Rhemen nach Glasdial suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Liedschmied Roska, eine Sängerin aus Norwaech. Sie und ihre Komplizen haben engwithanische Ruinen geplündert, und die Glanfathaner von Ibrels Brunnen wollen, dass sie für ihre Verbrechen bezahlt. Und sie bezahlen UNS dafür. Roska hat ihr Lager außerhalb von Cliaban Rilag aufgeschlagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Die Waldläuferin Foemyna führt einen Feldzug des Schreckens gegen Reisende, welche die Waldend-Ebenen durchqueren. Überlebende berichten, dass sie ihre Opfer an das Rudel wilder Tiere verfüttert, das mit ihr reist. Viele Leute wären über ihr Ableben äußerst froh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Das hier wird nicht leicht. Galen Dalgard, der Sklaventreiber. Er wurde mit seinen Freunden bei der Madhamr-Brücke gesehen. Die örtlichen Behörden weigern sich, gegen ihn vorzugehen, weil er mächtige Freunde in Aedyr hat. Aber irgendeine namenlose Seele, ist bereit, Geld dafür zu bezahlen, dass Galen seinen letzten Atemzug tut. Es ist offenbar etwas Persönliches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ich weiß nicht recht, was ich hiermit anfangen soll. Ein mörderischer Druidenkult, angeführt von einer Menpwgra. Die Kreatur wird Devŵen genannt - und offenbar hat sie sich mit ihren Anhängern in einer Höhle in der Nordlandschaft niedergelassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Kapitän Muārumi. Er macht hauptsächlich Jagd auf vailianische Schiffe - und er hat gerade bei Anslogs Kompass angelegt. Ich weiß nicht, wie lange er bleiben will, aber das ist deine Chance, ihn auszuschalten, bevor er wieder in See sticht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Du hast einige gefährliche Feinde ausgeschaltet. Beeindruckende Arbeit. Die Gestandenen wissen, dass sie sich auf dich verlassen können."
+
+"Ich habe aber noch mehr für dich, wenn du dir noch einmal die Hände schmutzig machen willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Also, was haben wir hier ... Ah. Da hat wohl jemand die Doemenels verärgert. Hocharkanistin Ysly. Sie und ihr Kabal von Zauberern haben sich im Turm in Erbhügel abgeschottet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Das Kopfgeld für Naroc den Propheten, einen im Exil lebenden Glanfathaner. Er wurde wegen seiner, nun, extremen Ansichten von seinem Stamm verstoßen. Naroc ist ein Medium, und er scheint sich für eine engwithanische Stätte nördlich von Goldtal zu interessieren - Cilant Lîs. Mehrere Stämme haben zusammengelegt, um ein Kopfgeld auf ihn auszusetzen - sie sagen, er dürfe auf keinen Fall an einer 'Maschine' dort herumpfuschen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Nun, einer ihrer Exarchen, dieser Sserkal, ist mit einigen seiner Verwandten am Perlholz-Steilufer aufgetaucht. Dieses Angebot ist nicht unterschrieben - aber irgendjemand will ihn offenbar nicht dort haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Er schüttelt den Kopf. "Mehr habe ich im Moment nicht anzubieten. Wenn du dich um diese hier gekümmert hast, habe ich aber bestimmt neue Ziele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Er schüttelt den Kopf. "Mehr habe ich nicht. Ich halte die Ohren offen. Bis du fertig bist, ist gewiss etwas Neues hereingekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Er schüttelt den Kopf. "Das ist im Augenblick alles. Gib mir etwas Zeit, dann finde ich eine echte Herausforderung für dich. Aber damit bist du gewiss eine Weile beschäftigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Er schüttelt den Kopf. "Ich habe dir alles gegeben, was ich habe. Aber das ist schon ein ordentlicher Batzen Geld. Wenn du damit durch bist, ist deine Schatzkammer sicher schön gefüllt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Nichts, womit ich dich belästigen würde. Jeder Gesetzlose, jedes Monster und jeder Scharlatan scheint wegen dir den Dyrwald zu meiden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Daroth Grimault wird keinen Ärger mehr machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich bringe den Kopf von Glasdial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich komme, um das Kopfgeld für Roska abzuholen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Gut gemacht. Du hast den Palast des Ducs übertrumpft. Nicht, dass das sonderlich schwierig wäre ... Wie dem auch sei, ist deine Belohnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ein ekliger Trollkopf, für einen ekligen kleinen Alchemisten. Ich sage ihm, dass es erledigt ist. Hier ist dein Kopfgeld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Vielleicht hast du einen neuen Krieg der Schwarzen Bäume abgewendet, wer weiß? Hier ist das Geld, das sie geboten haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Foemyna wird niemanden mehr belästigen. Hier ist ihr Kopf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Galen Dalgard wird niemanden mehr versklaven. Ich bringe seinen Kopf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ich fordere das Kopfgeld für Devŵen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Kapitän Muārumi ist Geschichte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Man fragt sich, was in Gestandene wie sie gefahren ist. Schön, dass die Angelegenheit ein Ende hat. Hier ist dein Kopfgeld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Das dürfte einigen Seelen helfen, besser zu schlafen. Hoffentlich bringt es unserem Auftraggeber ein wenig Frieden. Hier ist die Bezahlung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ah, gut. Hier ist das Kopfgeld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ich würde wetten, dass gerade ein vailianischer Kapitän ein Loblied auf dich anstimmt. Nun denn - hier, wie versprochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ich habe Thorfens Kopf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ysly ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ich bringe Narocs Kopf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Es gibt einen Vithrack weniger in der Welt. Sserkal ist tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Wenn man sich mit den Rittern anlegt, erwartet einen wohl meistens ein böses Ende. Aber sie zahlen gut. Hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ich, äh, werde einem von Doemenels Agenten Bescheid geben. Hier ist die Belohnung, die sie ausgesetzt haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Gut. Das Letzte, was wir brauchen können, sind Medien, die mit antiken Maschinen herumhantieren. Dabei kann nichts Gutes herauskommen. Hier, bitte sehr - du hast es dir verdient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Agh ... Grauenhafte Kreaturen, was? Wenn der Kunde ihn nicht haben will, stopfe ich ihn vielleicht aus und hänge ihn mir auf. Hier ist dein Kopfgeld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Sonst noch etwas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Kommst du wegen der Kopfgelder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Nein, ich sollte dich warnen - es gibt einen Grund, warum diese Aufträge noch unerfüllt sind. Das sind zähe Dreckskerle, jeder einzelne von ihnen. Wenn du dich der Sache noch nicht gewachsen fühlst, komm einfach wieder, wenn du besser vorbereitet bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Was weißt du über den Waldlauerer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Weggehen] "Ich gehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Thorfen, ein Hohepriester des Zersplitterten Gottes, schändet im ganzen Dyrwald Grabstätten. Wir wissen nicht, wonach er sucht, aber er und seine Männer haben einen Trupp von Schmelztiegelrittern getötet, die ihn aufhalten sollten - und jetzt fordern die Ritter seinen Kopf."
+
+"Er wurde zuletzt im Esternwald gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Bis dahin haben wir hier ein paar leichtere Fälle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"In Ordnung, mal sehen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ich will mehr über den Gerissenen Cyrdel wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ich schnappe mir den Oger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Was weißt du über den Kriegshäuptling?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Der Gerissene Cyrdel wird natürlich immer noch gesucht. Dann gibt es den Waldlauerer, der die Handelswege unsicher macht, und diesen Oger-Schamanen - der dürfte einen guten Preis bringen. Und zu guter Letzt ... ah ja, Kriegshäuptling Iklak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Dieses Mal sind einige große Namen dabei. Daroth Grimault, der Fampir, zum Beispiel. Und dieser Priester, hinter dem die Schmelztiegelritter her sind. Und es gibt ein Kopfgeld auf den Grünen Tod. Und der letzte Auftrag stammt von den Glanfathanern bei Ibrels Brunnen - sie wollen einem Plünderer das Handwerk legen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Erzähl mir etwas über Daroth Grimault."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Daroth Grimault ist ein Unruhestifter, der sich für einen Visionär hält. Sie haben schon einmal versucht, ihn zu töten ... Aber das war nicht von Dauer. Jetzt hat dieser Fampir in den Katakomben unter dem Bezirk Kupferweg in Trutzbucht irgendeinen Kult gegründet. Der Palast des Ducs will, dass er entfernt wird. Dauerhaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Was hat es mit diesem Priester auf sich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Was ist der Grüne Tod?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Hinter wem sind die Glanfathaner her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Weggehen] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Er blättert einen Stapel Pergamente durch. "Erledigt, erledigt ... ah, hier. Mal sehen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"In der Wildnis macht irgendein Waldläufer Ärger. Dann gibt es da noch Galen Dalgard - Sklaventreiber, nicht sonderlich beliebt. Und dann haben wir ... eine Art Kult, offenbar. Ah, und diesen Namen habe ich länger nicht gesehen - Kapitän Muārumi, der Pirat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ich jage den Waldläufer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Was muss ich über Galen Dalgard wissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ein Kult? Das klingt interessant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ich schnappe mir diesen Piraten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Mal sehen ... Es gibt eine Bande von Zauberern, auf die ein Kopfgeld ausgesetzt wurde. Dann haben die glanfathanischen Stämme einen weiteren Auftrag zu vergeben. Und der letzte ist knifflig - hast du schon einmal mit einem Vithrack gerungen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ich will mehr über die Zauberer wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Wen wollen die Glanfathaner erledigt haben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Ich amüsiere mich mit dem Vithrack."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

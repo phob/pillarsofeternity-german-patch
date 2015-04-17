@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\06_stronghold\06_tsk_boss_forest_lurker</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kopfgeld: Der Bewohner</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Töte den Bewohner in den Schwarzauen und nimm seinen Kopf an dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bringe den Kopf des Bewohners zu Oberwärter Fyrgen in Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein gewaltiger Waldlauerer, der nur 'der Bewohner' genannt wird, stellt eine Gefahr für die Handelskarawanen dar, die durch die Schwarzauen reisen. Es wurde ein Kopfgeld auf ihn ausgesetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>In den Schwarzauen wurde ein großer Waldlauerer gesichtet, den die Kaufleute nur noch 'den Bewohner' nennen. Er wird bald zu einer ernsten Gefahr für die Handelskarawanen werden, weshalb sie ein Kopfgeld auf ihn ausgesetzt haben. Ich kann es einfordern, wenn ich die Kreatur töte und ihren Kopf zurückbringe - oder das, was man bei diesem Monstrum Kopf nennt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Der Bewohner ist tot und ich kann meine Belohnung einfordern, wenn ich Oberwärter Fyrgen seinen Kopf bringe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe das Kopfgeld für den Bewohner eingefordert.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

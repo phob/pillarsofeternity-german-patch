@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\10_si_xaurip_pit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[In die Grube springen]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du schlägst alle Bedenken in den Wind und springst flink vom Rand der Grube in die Leere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Diese weite Grube führt in absolute Finsternis. Du hörst das pfeifende Heulen des Windes, und von Zeit zu Zeit zerren heiße Windstöße an deiner Kleidung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Die Grube untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Mit Hilfe eines Enterhakens in die Grube hinabklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du nimmst einen Enterhaken aus deinem Rucksack und bindest ihn an einen der schweren Steinblöcke, welche die Grube umgeben. Du ziehst mehrmals fest daran. Das Seil scheint zu halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Schlucht scheint nicht natürlich entstanden, sondern vielmehr mit Hilfe von Werkzeugen ausgehoben worden zu sein. Sie scheint sehr tief zu sein, aber da du den Boden nicht siehst, kannst du die Entfernung nicht abschätzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Die Grube hinabklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Bald siehst du eine weitere Lichtquelle, weit unter dir. Unter dem herabbaumelnden Ende des Seils siehst du einen schwach beleuchteten Raum, in dessen Mitte sich ein kreisrundes Becken befindet. Das Becken ist mit Blut gefüllt, und selbst aus dieser Entfernung kannst du verschiedene Gliedmaßen und geschundene Körper erkennen, die größtenteils von Xaurips stammen. Der in den Stein getriebene Tunnel endet ein Stück über der darunterliegenden Kammer. Dein Seil reicht nicht weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Versuchen, die Grube seitlich hinabzuklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du gehst in die Hocke, ergreifst den Rand der Schlucht und suchst mit deinen Füßen nach einem festen Stand. Nachdem du diesen gefunden hast, beginnst du deinen langsamen und beschwerlichen Abstieg die Wand hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Auch als du immer tiefer und tiefer in die Erde hinabkletterst, rutschst du nicht an der Felsoberwand ab. Schließlich siehst du unter dir ein schwaches Licht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Der Abstieg ist lang und beschwerlich, und obwohl du anfänglich gut vorankommst, ermüdest du schnell. Als du dir überlegst, ob du nicht doch wieder hochklettern solltest, passiert es: Deine Hände rutschen ab - und du fällst rückwärts in die Grube.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Die Schlucht rauscht in einem verschwommenen Wirbel aus grauem Stein und Dunkelheit an dir vorbei. Während du fällst, siehst du weit unten einen schwachen Lichtkreis, der dir schnell entgegenkommt. Urplötzlich wirst du von einem starken Aufwind hin- und hergeworfen. Der mächtige Aufwind verlangsamt deinen Sturz und lässt dich kurzzeitig sogar in der Luft schweben - und dann ist der Wind wieder weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Du klammerst dich mit festem Griff an das Seil und beginnst den Abstieg in die Dunkelheit. Bald liegt der Rand der Grube weit über deinem Kopf und du hörst nichts als das Knarzen des Seils und deinen eigenen Atem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[In das Blutbecken springen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Nach oben klettern und die Grube verlassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du bereitest dich auf die Landung vor, rutschst ab und fällst das restliche Stück nach unten, wo du mit einem geräuschvollen Platschen im Blutbecken einschlägst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du fällst das restliche Stück kurzerhand nach unten und landest unsanft in einem kreisrunden Steinbecken, das bis zum Rand mit einer stinkenden, schlammigen Mischung aus Blut und Gliedmaßen gefüllt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Der Abstieg ist lang und beschwerlich, und obwohl ihr anfänglich gut vorankommt, ermüdet deine Gruppe schnell. [SkillCheck 0] möchte eine kurze Rast einlegen, wird aber von der Müdigkeit übermannt. Mit einem erschrockenen Schrei stürzt [SkillCheck 0] und reißt auf dem Weg nach unten andere mit sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du landest hart auf der Oberfläche und tauchst in das rote Wasser. Es ist tief und dunkel. Sofort werden deine Sinne überwältigt - der kupferne Geschmack von Blut in deinem Mund, ein roter Schleier vor deinen Augen. Die Oberfläche gleitet davon, außer Reichweite.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

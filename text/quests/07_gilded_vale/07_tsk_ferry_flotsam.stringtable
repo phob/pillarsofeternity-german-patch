@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\07_gilded_vale\07_tsk_ferry_flotsam</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Fähren-Treibgut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde das Wrack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kehre zu Peregund zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Nicht weit entfernt von der ruinierten Madhmr-Brücke traf ich eine Händlerin namens Peregund. Sie besaß eine Fähre, mit der sie den Fluss überquerte, aber das Schiff wurde von einem Sturm zerschmettert.
+
+Peregund möchte, dass ich ihr bei der Bergung ihrer Güter aus dem Wrack der Fähre helfe. Plünderer versuchen, die Ladung für sich selbst zu beanspruchen, und die unbewaffnete Peregund kann sich ihre Vorräte nicht alleine zurückholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich sollte die Gegend direkt flussabwärts von der Madhmr-Brücke untersuchen und nach dem Wrack der Fähre suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich sollte mit den Neuigkeiten über ihre Fracht zu Peregund zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Die "Plünderer" die sich Peregunds Vorräte angeeignet haben, haben sich als verarmte Überlebende des Sturms herausgestellt. Ich versprach zu lügen und zu behaupten, dass ich nichts gefunden hätte, damit Hanwen die Fracht behalten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Die Plünderer wurden eliminiert, und ich habe die Fracht - oder zumindest, was davon übrig ist - geborgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich gab Peregund ihre Gegenstände zurück, wofür sie mir ein paar Münzen für meine Mühen gab und mir versprach, mir in ihrem Geschäft in Trutzbucht Rabatt zu geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Zum Schutze Hanwens und ihrer Freunde log ich Peregund an und behauptete, ihre ganze Fracht wäre fortgeschwemmt worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Peregund ist tot, was die Rückgabe ihrer Fracht weitgehend irrelevant macht.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

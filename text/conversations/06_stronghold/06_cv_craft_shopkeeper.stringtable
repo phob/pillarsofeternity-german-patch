@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_craft_shopkeeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Gute Neuigkeiten, mein Fürst. Nach was suchen Sie denn? Ich biete Reisezubehör an. Sicherlich wird ein abgehärteter Reisender wie Ihr bei mir viele nützliche Dinge finden."</DefaultText>
+      <FemaleText>"Gute Neuigkeiten, meine Fürstin. Nach was suchen Sie denn? Ich biete Reisezubehör an. Sicherlich wird ein abgehärteter Reisender wie Ihr bei mir viele nützliche Dinge finden."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Lass mich mal sehen, was du anzubieten hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Benötigen Sie Zubehör, mein Fürst? Man kann nie zu sehr vorbereitet sein."</DefaultText>
+      <FemaleText>"Benötigen Sie Zubehör, meine Fürstin? Man kann nie zu sehr vorbereitet sein."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

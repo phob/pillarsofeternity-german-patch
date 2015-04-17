@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_duc_meeting</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>163</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Raum darunter wird von einer lebhaften und aufgeheizten Debatte belebt. Alle Vertretergruppen sind deutlich in der Menge zu unterscheiden. Schmelztiegelritter, steif in ihrer polternden Rüstung, sitzen in einer Ecke. In einer anderen Ecke befinden sich gut gekleidete Mitglieder des Hauses&#160;Doemenel, zwanglos, mit dem interessierten Blick eines Raubtiers. In einer weiteren Ecke sitzen die maroden Dutzenden, die sich keine besonderen Umstände gemacht haben, sich für ihren Lehnsherrn in Schale zu werfen. Dazwischen verteilt befinden sich Beseeler in ihren Akademikerroben, mit entweder saurem oder besorgtem Gesichtsausdruck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wie ich bereits gesagt habe, geht es hier nicht um Fortschritt, sondern um Potenzial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Sie geben also zu, Meister&#160;Barrasc, dass die Beseelung keinen Schritt weitergekommen ist, das Vermächtnis aufzuhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Nein! Wir haben viele vielversprechende Experimente gemacht. Caedman&#160;Azo zeigte-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Caedman&#160;Azo hat ein Kind ermordet! Für einen völligen Fehlschlag! Wir sollten ihn für das, was er getan hat, einfach hängen! Die Dutzenden werden das nicht hinnehmen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Das Experiment ist fehlgeschlagen, doch seine Arbeit-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Es gibt keine Notwendigkeit. Meister&#160;Azo ist kürzlich durch den Schleier gegangen. Und während das Experiment fehlgeschlagen ist, wurde seine Arbeit-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Seine Arbeit wurde sabotiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Alle Anwesenden wenden dir plötzlich ihre verurteilend und ungläubig schauenden Gesichter zu. Nur den Duc, einen wild aussehenden Mann mit zottigem Bart, scheint deine Störung nicht zu beeindrucken. "Ah, unser neuer Delegierter von den Dutzenden. Wie kommst du auf Sabotage?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Alle Anwesenden wenden dir plötzlich ihre verurteilend und ungläubig schauenden Gesichter zu. Nur den Duc, einen wild aussehenden Mann mit zottigem Bart, scheint deine Störung nicht zu beeindrucken. "Ah, unser neuer Delegierter von den Schmelztiegelrittern. Wie kommst du auf Sabotage?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Alle Anwesenden wenden dir plötzlich ihre verurteilend und ungläubig schauenden Gesichter zu. Nur den Duc, einen wild aussehenden Mann mit zottigem Bart, scheint deine Störung nicht zu beeindrucken. "Ah, unser neuer Delegierter aus dem Hause&#160;Doemenel. Wie kommst du auf Sabotage?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Alle Anwesenden wenden dir plötzlich ihre verurteilend und ungläubig schauenden Gesichter zu. Nur den Duc, einen wild aussehenden Mann mit zottigem Bart, scheint deine Störung nicht zu beeindrucken. "Ah, unsere neue Ein-Mann-Delegation. Wie kommst du auf Sabotage?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich habe im Sanatorium von Farnheim einen falschen Patienten getroffen, der an Azos Maschine herumbastelte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"[Lügen] Ein rivalisierender Beseeler gab es mir gegenüber während einer Untersuchung zu, die ich dort führte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Wieso spielt das überhaupt eine Rolle? Das sind Menschen, die mit dem Leben unserer Kinder spielen würden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Da! Das sind diejenigen, auf die wir unsere Hoffnung setzen sollen! Saboteure und Spinner!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"In der Tat. Selbst angenommen, es WÄRE Sabotage im Spiel gewesen, ist dieser Beseeler&#160;Azo dennoch nicht verantwortlich hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Das ist nicht der Baelreach-Vorfall. Das ist ein verantwortlicher Wissenschaftler, der manipuliert wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Die, die mich hier kennen, kennen mich als jemanden, der stets fair urteilt. Caedman&#160;Azo sollte als unschuldig betrachtet werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Jene, die mich hier kennen, kennen mich als jemanden, der stets fair urteilt. Caedman&#160;Azo sollte als schuldig betrachtet werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Nein, das ist er nicht. Das war ein verantwortlicher Wissenschaftler, der manipuliert wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ja, das ist er. Caedman&#160;Azos Ambitionen überstiegen seine Moral."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Schwachsinn! Diesen Beseelern kann man nicht trauen! Schau dir doch an, was in Erbhügel passiert ist! Unsere vermeintlichen 'Beschützer' aus Burg Schmelztiegel können noch nicht einmal das Chaos beseitigen, das durch die Beseelung entsteht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Genau! Schau dir doch an, was in Erbhügel passiert ist! Unsere vermeintlichen 'Beschützer' aus Burg Schmelztiegel können noch nicht einmal das Chaos beseitigen, das durch die Beseelung entsteht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Eadric, bist du sicher, dass das DEIN Delegierter ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Das wird er nicht lange sein, wenn er weiterhin solche Ansprüche erhebt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Euer Gnaden, es wäre viel einfacher für uns, wenn unsere Ritter nicht so sehr damit beschäftigt wären, IHRE ORGANISATION davon abzuhalten, eine Revolution vor unserer Tür zu entfachen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Justiziar, Erbhügel ist Blut in DEINEN HÄNDEN. Du drückst ein Auge zu und siehst, was passiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ich war seit der Quarantäne in Erbhügel. Obwohl die Ritter nicht in der Lage waren, den Schaden zu kontrollieren, so war nicht die Beseelung, sondern eine Maschine dafür verantwortlich. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Die Schmelztiegelritter sind hier schuldlos. Das war nicht die Auswirkung der Beseelung, sondern ein uraltes Gerät in Teir&#160;Nowneth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Du hast seltsame Reisevorlieben, mein Freund. Deine Geschichten werden mit jedem Atemzug größer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Du denkst, irgendein verfaulender Leichnam oder eine freiwillige Wache könnte sich mir in den Weg stellen? Ich habe meine Antworten erhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Sehen Sie mir in das Auge und nennen Sie mich einen Lügner, Euer Gnaden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Mein Wort ist mein Eid. Ich fordere jeden auf, jemanden zu finden, der etwas anderes weiß."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Hören Sie sich um. Wenn ich Probleme erkenne, dann nehme ich die Angelegenheit in die eigene Hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich bitte nur darum, dass Sie mir zuhören. Bilden Sie sich Ihr eigenes Urteil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Der Duc lässt ein halbes Lächeln aufblitzen. "Ich gebe zu, dass du wirklich danach aussiehst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Der Duc starrt dir eine gefühlte Ewigkeit in die Augen. "Das kann ich nicht. Nicht, ohne Gefahr zu laufen, mich zum Lügner zu machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ich hörte Gerüchte über einen neuen Delegierten, der an der heutigen Anhörung teilnehmen soll. Ich gebe zu, dass deine Aufrichtigkeit mehr als einmal erwähnt wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich hörte Gerüchte über einen neuen Delegierten, der an der heutigen Anhörung teilnehmen soll. Man sagte mir, ich müsse mit Drohungen und Einschüchterungen rechnen. Was hier nichts Neues ist, wie du sehen kannst."
+
+"Nun gut, vielleicht bist du ja so einer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Sehr gut. Sag uns, was du in Erbhügel gesehen haben willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Sag uns, was du in Erbhügel gesehen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Teir&#160;Nowneth beherbergt eine engwithanische Maschine, die den Fluss der Seelen beherrscht. Es war diese Maschine, die in dem Bezirk die Toten erweckte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Mein Haus wäre einverstanden, Euer Gnaden. Wir sehen ein großes Potenzial in ihrer Zukunft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Und ich nehme an, dass deine prächtigen Gewinne während des Vermächtnisses nichts damit zu tun haben, oder, Doemenel? Das geht nun nicht mehr beides! Entweder geht die Beseelung, oder dieses Land."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Selbst, wenn es so wäre, wie du behauptest, dann hätten wir dennoch eine Aussage, dass eine Gruppe von Beseelern dort Zeit verbrachte. Ihr Herumpfuschen hat sicherlich etwas damit zu tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ihre Präsenz beweist noch nichts. Diese Aussage ist kein Beweis, sondern nur eine Vermutung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ich habe Grund zur Annahme, dass andere am Turm waren, die dies getan haben könnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Es leugnet niemand, dass sie eine gefährliche Maschine studiert haben, die sie nicht verstanden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Sie folgten blind der Ambition, trafen nur wenige Vorkehrungen und ließen zu, dass persönliche Gefühle die Lösung des Problems verhinderten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Die Beseelung hat viele Feinde. Du musst dich nur in diesem Raum umschauen, um es zu erkennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Du&#160; ... du begreifst das Wesentliche nicht! Überall, wo Beseeler sind, ist auch Desaster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Aber&#160; ... du musst den Zweck dieser Experimente verstehen! Damit diese gefährlichen Dinger verantwortungsbewusst genutzt werden können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"DARAUF läuft es hinaus, Euer Gnaden! Was auch immer ihre 'Absichten' sind, die Beseelung ist eine Epidemie. Sie macht aus allem ein verdammtes Wrack."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Wir alle wissen, worum es bei Waidwens Vermächtnis wirklich geht. Und es geht nicht um einen glänzenden Heiligen von Creed-ceras, der sauer ist, nur weil er die falsche Brücke genommen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Wirklich? Sollten wir uns nicht die Zeit nehmen, um einen deutlichen Schlussstrich zu ziehen? Ich meine, welchen Beweis haben wir denn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Mein Sohn und meine Tochter sind unter dem Boden meines Hauses BEGRABEN. Wir besitzen kein Land, weshalb wir sie dort begruben. Mein Sohn, meine Ehefrau ließ ihn fallen, als sie ihn badete, er bekam Wasser in die Lungen und konnte es nicht heraushusten. Meine Tochter, wir legten sie eines Abends ins Bett, und am nächsten Morgen atmete sie nicht mehr."
+
+"Diese Sache mit den Hohlgeburten, das nimmt einfach kein Ende. Und das nimmt kein Ende, weil wir immer noch zulassen, dass diese Scharlatane Gott spielen. HIER ist dein Beweis, du verdammter Kupferficker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Es reicht, Eadric. Fürstin Doemenel hat nicht ganz Unrecht. Wenn es tatsächlich die Beseelung ist, warum erleiden die anderen Staaten, die die Ausübung zulassen, dann nicht das gleiche Schicksal? Wer von uns kann denn von sich behaupten, wirklich zu wissen, warum sich das Vermächtnis hier durchgesetzt hat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Die Menge beginnt zu murmeln, wobei die Stimmung in Zweifel umschlägt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Waidwens Vermächtnis ist die Schöpfung des Bleiernen Schlüssels. Caedman&#160;Azos Niedergang war ihr Werk. Genauso wie der Turm in Erbhügel. Sie wollen, dass ihr das tut. Sie wollen, dass die Beseelung untergeht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Das dumpfe Murmeln verstärkt sich zu einem skeptischen Lärm, der die Halle einnimmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ich habe sie in den Ruinen von Eir&#160;Glanfath gesehen, wie sie Maschinen bedienten, die den Fluss der Seelen unterbrachen und umleiteten, in der Nähe von Städten wie Goldtal und Dyrfurt, wo das Vermächtnis durchgängig ist. Als Wächter habe ich gehört, wie ihre Toten ihre Verschwörung zugaben. Sie stehlen die Seelen der Ungeborenen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Bestien, noch ein Wahnsinniger bei der Anhörung. Haben Sie daran gedacht, Ihr Sanatorium zu verriegeln, bevor sie gegangen sind, Meister&#160;Barrasc?"
+
+Der Raum lacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Bitte, ich möchte nur Dyrwald helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Du willst wohl eingewiesen werden, dann gib noch einen so schlauen Kommentar ab."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Von mir aus kannst du Krüppel zur Welt bringen, bis dir der Mutterleib austrocknet. Der Rest dieser Menschen wird die Wahrheit erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Sie beschämen Ihren Orden, indem Sie die Wahrheit abweisen, bevor Sie sie überhaupt gehört haben, werte Frau. Ich hatte Besseres von einem Ritter des Schmelztiegels erwartet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Wenn er das getan hat, dann hoffe ich um Ihres Ehemanns Willen, dass er wenigstens ein Bordell offengelassen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Ein noch größeres Gelächter geht durch die Halle. Taragyth errötet, doch sie erwidert nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Wenn, wie der Duc behauptet, keine Theorie wirklich Beweise liefert, was kann es dann schaden, sich eine weitere Theorie anzuhören?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Deine Sticheleien können nichts an der Wahrheit ändern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Der Duc beugt sich in seinem Thron vor, mit einer Spur Neugier in den Augen. "Du musst wissen, mein Freund, dass der Bleierne Schlüssel Nährboden für kleine Grobiane und spielende Kinder ist."
+
+"Ich sage ja nicht, dass du ein Lügner bist – noch nicht. Du solltest aber besser mal damit anfangen, all dem einen Sinn zu geben. Hilf uns, dir zu glauben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Was ist denn wahrscheinlicher? Dass die Götter Dyrwald für eine Wissenschaft zerstören, die in vielen Teilen der Welt praktiziert wird? Oder dass eine Gruppe von Menschen die Beseelung hasst und sie unterdrückt sehen will?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Der Bleierne Schlüssel ist sehr real. Sie sind Fremde von Aedyr und Readceras, die Dyrwald hassen und uns leiden sehen wollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Nehmen wir mal an, ein Fürst würde von seiner Ehefrau betrogen. Wenn er ihr sagt, sie solle aufhören, dann wird sie ihren Liebhaber nur noch mehr begehren. Doch wenn er ein Gerücht verbreitet, dass ihr Liebhaber gerade ein Bordell aufgesucht und sich dabei Sackratten eingefangen habe, dann wird sie es von selbst lassen." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Wir wollen hier alle das Gleiche. Wir wollen, dass Waidwens Vermächtnis ein Ende findet. Wenn wir zusammenarbeiten würden, statt zu streiten, dann könnten wir die Menschen aufhalten, die dies tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Noch eine Vermutung! Werfen wir ihn einfach raus, Euer Gnaden. Er verschwendet nur unsere Zeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ich habe diese Maschinen mit eigenen Augen gesehen und sie werden von Mechanismen angetrieben, die nur jemand mit uraltem Wissen verstehen kann. Keine andere Gruppe als der Bleierne Schlüssel lässt sich so weit zurückverfolgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Soll ich dir dann sagen, welche Roben diese Menschen trugen? Soll ich dir von den Runen erzählen, die in einer toten Sprache geschrieben wurden, die einen Eid an Woedica schwor, um Wissen mit einem bleiernen Schlüssel zu versiegeln? Klingt das für dich nach Kindern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Das ist keine Vermutung. Ich habe gesehen, wie diese Menschen ihre Missionen in den Ruinen von Eir&#160;Glanfath ausführten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Das ist jetzt das Erste von dir, das einigermaßen Sinn macht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Bitte, das ist befriedigend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ist es so schwer zu glauben, dass sich unsere historischen Feinde gegen uns verschwören würden? Das Vermächtnis begann im Anschluss an den Krieg des Heiligen. Und Aedyr versucht nun seit den Tagen von Admeth&#160;Hadret, uns zurückzubekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Willst du etwa behaupten, die Opfer der Menschen von Dyrwald seien nicht genug gewesen, um erbitterte Feinde zu gewinnen? Wie kannst du es wagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Nenn es, wie du willst, es gibt jedoch Menschen da draußen, die darauf aus sind, Dyrwald zu erobern. Die sind hier zu verurteilen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Ich verstehe nicht, was irgendein reicher Fürst mit all dem zu tun haben soll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Dann denk mal aus diesem Blickwinkel darüber nach. Es ist wie ein Barde in einem Gasthaus, der Nacht für Nacht sein Lieblingslied trällert. Wenn du ihm sagst, dir würde das Lied nicht gefallen, dann würde er es noch lauter spielen. Doch wenn du die Kunden dafür bezahlst, dass sie gehen, dann denkt er, es liege an dem Lied und hört damit auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Es gibt keinen Unterschied zu Thornes Posse 'Der Beherzte Dieb', in der der Dieb Aedeldred dazu bringen muss, seine Ehefrau zu verlassen, indem er ihn denken lässt, dass es seine eigene Idee sei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Sieh mal, die Frau ist Dyrwald. Der Fürst ist der Bleierne Schlüssel. Die Affäre ist die Beseelung. Verstanden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Du behauptest also, sie würden die Beseelung nicht mögen, weshalb sie versuchen, uns dazu zu bringen, sie zu verbannen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Dieses Stück wurde von meinem Großvater in Auftrag gegeben. Du willst also sagen, dass wir alle Aedeldred sind und dass irgendein 'Dieb' versucht, unsere Meinung zu ändern, ohne dass wir es merken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Kein Mitglied der Dutzenden mit Selbstachtung wird zulassen, dass diese Beseeler weiterhin ihre schwarze Magie in den gleichen Bezirken wirken, in denen Kinder geboren werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ich schwöre euch, dass kein Beseeler irgendetwas mit dem tragischen Schicksal eurer Kinder zu tun hat. Das Vermächtnis wird weitermachen, solange wir nicht die richtigen Leute aufhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Wenn irgendein Beseeler in der Nähe eines ungeborenen Kindes auch nur atmet, dann werden sie mit meiner Antwort rechnen müssen. Momentan müssen wir uns aber auf den Bleiernen Schlüssel konzentrieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ihr müsst darüber hinweg kommen. Die Beseeler haben nichts damit zu tun. Der Bleierne Schlüssel ist euer Feind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ich weiß nichts über all das&#160;..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Ich denke, dass ich meine Freunde ganz gut alleine von meinen Feinden unterscheiden kann. Du achtest besser darauf, auf welche Seite du dich schlägst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Das ergibt jetzt weniger Sinn als zu Beginn. Bist du fertig?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Ich&#160; ... das habe ich nicht so gemeint. Er hat mir die Worte im Mund umgedreht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Ungeheuerlich! Meine Vorfahren haben ihre Leben nicht in Dyrwalds Namen geopfert, damit irgendein Eintagsritter ihr Opfer in Frage stellt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Wir haben gesagt, dass man ihnen nicht trauen kann. Aber niemand hat auf uns gehört. Jetzt schaut euch an, was aus uns geworden ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Ich erkenne keinen Sinn darin, einen bekannten Gegner gegen einen zu tauschen, den wir nicht kennen. Das ist ein Gegner aus Stroh, den du da aufs Korn nimmst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Wenn du etwas über mich wissen musst, dann das – ich wurde schon als vieles bezeichnet, aber niemals als Lügner. Ein ehrlicher Zeuge ist das beste Beweisstück, dass du in dieser Angelegenheit hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Das einzige Beweisstück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Du meinst das einzige Beweisstück, dass deinesgleichen nicht an den Galgen schickt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Der Justiziar hat Recht, das ist verrücktes Gerede."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Du hast einen&#160; ... unerwarteten Punkt vorgebracht, mein Freund. Ich werde so viel dazu sagen. Es scheint, als gäbe es zu guter Letzt eine neue mögliche Erwägung."
+
+"Wie hast du das alles erfahren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Die Ritter des Schmelztiegels waren maßgeblich daran beteiligt, mir bei meiner Untersuchung zu helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Das Haus&#160;Doemenel versorgte mich mit den benötigten Ressourcen. Wir stehen tief in ihrer Schuld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Die Märtyrer der Dutzenden unterstützten meine Suche nach Antworten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Mit der Zeit verfolgte ich ein persönliches Interesse an dem Anliegen und versuchte, zu erfahren, was möglich war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Bei diesen Anhörungen geht es jedoch um mehr als nur um Waidwens Vermächtnis, obwohl dies unser dringendstes Anliegen ist."
+
+"Nehmen wir für den Augenblick mal an, dass ich dir glaube und dass unsere Freunde im Sanatorium von Farnheim und ihre Kollegen für diesen Fluch über meinem Land nicht verantwortlich sind."
+
+"Ich frage mich - was würdest du an meiner Stelle tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ich verstehe. Ich bin beeindruckt, dass die Ritter eine so unwahrscheinliche Gelegenheit, all dem ein Ende zu setzen, ungenutzt ließen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Obwohl es so aussehen würde, als ob nicht alle von ihnen über deine Untersuchung Bescheid wussten." Er richtet den Blick auf Eadric.
+
+"Nichtsdestotrotz bin ich angenehm überrascht von ihrer Offenheit hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Es ist sehr schön zu sehen, dass das Haus&#160;Doemenel seine beachtlichen Ressourcen einsetzte, um dieses Anliegen zu lösen, bei dem von uns allen etwas auf dem Spiel steht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Der Duc hebt die Augenbrauen an. "Wirklich? Dieses Land ist dir fremd, wenn ich mich nicht täusche. Deine Bemühungen in seinem Auftrag sind lobend zu erwähnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Ich würde den Beseelern weiterhin ihre Arbeit erlauben. Sie untersuchen Fragen, die wir alle verstehen möchten. Wenn wir mehr wüssten, dann hätte diese Krise vielleicht verhütet werden können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Die Beseelung sollte in Dyrwald studiert werden. Wenn ihr es nicht tut, dann wird es jemand anderes tun, und sie werden große Macht auf euch ausüben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Die Beseeler von Dyrwald wurden an der zu langen Leine gehalten. Die Ausübung sollte eingeschränkt und kontrolliert werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Die Beseelung ist zu gefährlich. Wir hätten sie nicht nutzen sollen, und wir haben gezeigt, warum wir dessen unwürdig sind. Sie sollte geächtet werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Um ehrlich zu sein bin ich nicht ganz sicher, ob die Beseelung nichts mit Waidwens Vermächtnis zu tun hat. Es wäre schlau, die Ausübung zu verbieten, zumindest vorerst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Gut. Das ist alles, was ich hören wollte. Nicht nur von dir, sondern von allen. Wir haben viele Tage damit verbracht. Es ist an der Zeit, dass wir es zum Abschluss bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Ich möchte den Delegationen dafür danken, mir beim Sammeln meiner Gedanken geholfen zu haben. Ich möchte insbesondere unserem neuen Delegierten danken, der mir so viel zu denken gegeben hat und der mich auf einen neuen Feind aufmerksam gemacht hat, den ich zuvor zu erkennen versäumt habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Ich möchte den Delegationen dafür danken, mir beim Sammeln meiner Gedanken geholfen zu haben. Und unserem neuen Delegierten, der uns auf eine neue Möglichkeit aufmerksam gemacht hat, die wir in Augenschein nehmen sollten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Ich möchte den Delegationen dafür danken, mir beim Sammeln meiner Gedanken geholfen zu haben. Und unserem neuen Delegierten, der, wenn sonst nichts, diesen letzten Tag etwas interessanter gemacht hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Pallegina beugt sich zu dir, um dir etwas zuzuflüstern. "Ramir di Barrasc stammt ursprünglich aus Palminia. Er ist einer der herausragendsten Beseelungsforscher der Vailianischen Republiken. Er ist vor fünf Jahren nach Trutzbucht gekommen, weil er überzeugt war, dass hier das wahre Zentrum der Beseelungsforschung liegt."
+
+In Palleginas Worten und der Art, wie sie ihren Landsmann ansieht, spürst du sowohl Stolz als auch eine gewisse Frustration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Aloth flüstert mit zusammengebissenen Zähnen. "Was Azo diesem armen Gram angetan hat, war nicht das Werk eines verantwortungsbewussten Wissenschaftlers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Aloth flüstert mit zusammengebissenen Zähnen. "Nach der Farce, die wir im Sanatorium erleben mussten, stimme ich vollkommen zu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Pallegina blickt mit regungsloser Miene in deine Richtung und nickt unauffällig zur Zustimmung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Aloth schüttelt den Kopf. "Beseeler dienen ihrem eigenen Ehrgeiz und ihrem eigenen Geldsäckel. Ihnen diese Macht zu verleihen ist, als würde man ein Kind in einer Waffenkammer frei herumlaufen lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Ich traue diesen Beseelern nicht ... sie sind nur auf Ruhm und Reichtum aus. Aber wenn sie unsere Kinder heilen können, würde ich sie nicht behindern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Pallegina blickt zu dir, die Stirn verärgert in Falten gelegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Und wer wäre es überwachen? Scharlatane wie Azo? Oder Narren wie Ethelmoer, die nicht einmal wissen, was in ihren eigenen Mauern vor sich geht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Pallegina stößt überrascht aus: "Di verus?" Enttäuscht schüttelt sie ihren gefiederten Kopf und murmelt: "Gliente igniare ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Aloth nickt dir leicht zu. "Gut gesprochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Durance schmunzelt. "Du hast auf unseren Reisen gelernt, wie man die Herzen der Leute berührt, was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Gut so, Wächter, diese Anhörung beim Schopf zu packen. Vergeude deine Chance nicht."</DefaultText>
+      <FemaleText>Gut so, Wächterin, diese Anhörung beim Schopf zu packen. Vergeude deine Chance nicht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Ha! Die falsche Brücke, wohl wahr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Es dreht sich um einen Haufen so genannter Intellektueller, die sich mit der natürlichen Ordnung anlegen, während der Rest von uns dafür leiden muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Im hinteren Bereich der Kammer sitzt der Duc, in seinem Thron ausgestreckt, ausgelaugt und dennoch aufmerksam und resolut.
+
+"...nun, dann beantworten Sie mir das, Meister&#160;Barrasc. Wenn ihr Beseeler unsere größte Hoffnung darstellt, das Vermächtnis zu heilen, welchen Fortschritt könnt ihr dann vorweisen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Glaubst du, das war der Zweck der Maschine? Oder nur ein unerwünschter Nebeneffekt?" Kana erschaudert. "Aber warum sollten die Engwithaner dann überhaupt solch eine Maschine bauen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Du richtest die Augen auf die Balkendecke der großen Eingangshalle der Herrenhalle. Das Klirren von Metall auf Metall weht mit den Schreien der Verwundeten in den Raum, während du dich erhebst.
+
+Thaos ist fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Edér beugt sich zu dir hinunter. Du siehst seinen Kopf verkehrt herum. "He, du lebst!"
+
+Er mustert dich und runzelt die Stirn. "Kannst du dich bewegen? Wir sollten lieber verschwinden. Wenn Dyrwäldler wütend werden, fangen sie gerne an, Sachen in Brand zu stecken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Durance tippt dich mit dem Ende seines Stabs an. "Steh schon auf!"
+
+Er schüttelt den Kopf. "Ich weiß nicht, wie du deine Prüfung überleben willst, Wächter, wenn du schon beim Anblick des Feindes in Ohnmacht fällst wie ein Priester in einem Freudenhaus."
+
+"Verschwinden wir hier, bevor noch etwas schiefgeht."</DefaultText>
+      <FemaleText>Durance tippt dich mit dem Ende seines Stabs an. "Steh schon auf!"
+
+Er schüttelt den Kopf. "Ich weiß nicht, wie du deine Prüfung überleben willst, Wächterin, wenn du schon beim Anblick des Feindes in Ohnmacht fällst wie ein Priester in einem Freudenhaus."
+
+"Verschwinden wir hier, bevor noch etwas schiefgeht."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Aloth beugt sich mit besorgtem Gesicht über dich. "[Player Name], wir müssen dich hier wegschaffen. Schnell." Seine Augen huschen zum Gang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"[Player Name]!" Kana Rua kommt zu dir und blickt sich nervös um. "Hoffentlich kannst du gehen, wir können hier nicht bleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Sagani tätschelt dir sanft, aber fest die Wange. "Steh auf. Schon haben wir Ärger am Hals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Pallegina steht über dir. Ihr Blick huscht durch den Raum, bevor sie zu dir hinabblickt und dir eine Hand reicht.
+
+Ihre Augen leuchten mit einem inneren Licht, ihre Stimme nimmt einen andersweltlichen Ton an.
+
+"Steh auf! SOFORT!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Die Trauernde Mutter steht über dir, die Augen weit geöffnet und voller Furcht. "Wir sind umgeben von Geistern der Zorn und der Furcht. Wir müssen fliehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"[Player Name], wir müssen hier weg!" Hiravias steht neben dir. Er sieht sich nervös um, während er an deinen Kleidern zerrt. "Komm, es hat keinen Sinn, hier herumzustehen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Auf der einen Seite vernimmst du das klirrende Rascheln eines Kettenhemds. Du schaust hinüber und erblickst einen verwundeten Wachmann, der zusammengesackt an der Wand lehnt. Er versucht, etwas zu sagen, scheinbar in deine Richtung, doch zuerst etwas zu leise, um es verstehen zu können. Er holt Luft und kann mit Mühe einige Worte krächzen.
+
+"Lady&#160;Webb. Sie ist die einzige&#160; ... sie muss es erfahren. Sie wird wissen, was zu tun ist. Bitte&#160; ... finde sie. Erzähl ihr alles." Die Wache verliert das Bewusstsein und rutscht lautlos auf den Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Die Aussage des Delegierten war sowohl aufklärend als auch richtig, und die Schmelztiegelritter möchten ihm förmlich dafür danken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Die schlaueste Person im Raum, dachte ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Weise Worte, die unser neuer Delegierter hier von sich gab. Ich hoffe, dass Sie sie sich zu Herzen nehmen werden, Euer Gnaden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Aloth flüstert mit zusammengebissenen Zähnen. "Wie kannst du ihn verantwortungsbewusst nennen? Du hast den Zustand des Sanatoriums gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Die Trauernde Mutter streckt ihren Verstand zu deinem aus. "Bringe Ordnung in dieses Chaos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Du sprichst die Wahrheit, Wächter. Leider wird sie hier wohl auf taube Ohren stoßen ... "</DefaultText>
+      <FemaleText>"Du sprichst die Wahrheit, Wächterin. Leider wird sie hier wohl auf taube Ohren stoßen ... "</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Es ist an der Zeit, eine Richtung für den Dyrwald zu wählen. Ich bin bereit, meine Verkündigung zu machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

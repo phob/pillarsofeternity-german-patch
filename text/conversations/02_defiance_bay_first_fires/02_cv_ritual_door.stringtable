@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_ritual_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Von der anderen Seite der Tür kannst du Gemurmel und Gesänge hören. Anscheinend ist dort irgendeine Art von Ritual im Gange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Kapuze und Maske anziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Deine Gruppe auffordern, dir in die Kammer zu folgen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Alleine in die Kammer weitergehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Von der Tür zurückziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du setzt Kapuze und Maske ab und wendest dich wieder der Halle zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du wendest dich wieder der Halle zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du ziehst dir die Kapuze und die Maske über den Kopf. Du riechst, dass der Stoff auf deinem Kopf zu brennen beginnt, aber du klopft darauf und kannst die Flammen in Schach halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du ziehst dir die Kapuze und die Maske über den Kopf. Sie sind unbequem, aber sie scheinen dein Gesicht zu verbergen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du öffnest die Tür und schreitest in die Kammer, wobei du dem Rest deiner Gruppe bedeutest, dich zu begleiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du öffnest die Tür und schreitest in die Kammer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du ziehst dir die Kapuze und die Maske über den Kopf. Sie passen, wenn auch sehr knapp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Von der anderen Seite der Tür kannst du Gemurmel und Gesänge hören. Anscheinend ist dort irgendeine Art von Ritual im Gange. Deine einzige Möglichkeit der Verkleidung ist aber gerade in Gebrauch.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_defiance_bay_citizen_female_04</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ich habe solch schreckliche Geschichten über die Katakomben unter der Stadt gehört ... wie aufregend!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Isenric drüben in der Bibliothek bietet Geld für Bücher! ... Aber ich habe noch keines von denen gefunden, die er sucht ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Im Gasthaus treiben sich inzwischen viel zu viele Söldner herum. Ich würde lieber irgendwo entspannen, wo es ruhiger zugeht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Der neue Hauptmann der Schmelztiegelritter scheint ein sehr ehrenwerter Mann zu sein. Ich wünsche ihm Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

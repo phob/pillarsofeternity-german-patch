@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_si_broken_bridge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Kanten der Brücke stehen dunkel vor dem Hintergrund der strahlenden Stadt darunter hervor. Aus den Tiefen weht ein kühler Luftzug hinauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Auf die andere Seite springen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du springst über die Lücke und landest sicher auf der anderen Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Der Abstand wurde von [SkillCheck 0] falsch eingeschätzt und er springt zu kurz. [SkillCheck 0] kann sich gerade noch am Überhang der Brücke festhalten, die Beine über dem Abgrund baumelnd. Mit einem schmerzverzerrten Ächzen klettert [SkillCheck 0] in Sicherheit.</DefaultText>
+      <FemaleText>Der Abstand wurde von [SkillCheck 0] falsch eingeschätzt und sie springt zu kurz. [SkillCheck 0] kann sich gerade noch am Überhang der Brücke festhalten, die Beine über dem Abgrund baumelnd. Mit einem schmerzverzerrten Ächzen klettert [SkillCheck 0] in Sicherheit.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

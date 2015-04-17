@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_sagani</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die lange Jagd</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise zu den Klippen, die du in der Vision gesehen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Suche den Adra-Bogen im Wald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde den Wald aus der letzten Vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Sagani, eine Zwergin von der Südinsel Naasitaq, ist auf der Suche nach der Reinkarnation von Persoq, einem Ältesten ihres Heimatdorfs, in den Dyrwald gekommen. Mittlerweile ist sie deswegen seit fünf Jahren unterwegs.
+
+Die anderen Dörfler gaben ihr Persoqs Adra-Figürchen, das ein Stück seiner Seele enthält. Damit hat sie sich auf die Suche nach ihm gemacht. Aber je näher sie ihm kam, desto schwieriger wurde die genaue Bestimmung seines Aufenthaltsorts. Als sie erfuhr, dass ich ein Wächter bin, bat sie um meine Hilfe.
+
+Wenn Sagani mit mir unterwegs ist, ermöglichen mir meine einzigartigen Fähigkeiten, die Spuren von Persoq - oder wer auch immer er jetzt sein mag - zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Als ich das Bärenfigürchen untersuchte, fühlte ich mich, als würde ich auf Klippen über dem Meer stehen. Persoq - wer auch immer er jetzt sein mag - muss dort sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Als wir das Perlholz-Steilufer erreichten, war Persoq bereits aufgebrochen, aber ich sah eine andere Vision ... und dieses Mal befand er sich tief im Wald und rannte auf einen Adra-Bogen zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Wir fanden den Adra-Bogen bei der Ulmenküste und ich erlebte eine weitere Vision. Dieses Mal war Persoq in einem Wald von geschwärzten Bäumen und einstürzenden Ruinen umgeben. Bei ihm war eine Gruppe glanfathanischer Jäger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Aufgrund meiner Beschreibung konnte Pallegina den Ort identifizieren. Sie sagte, Steilküsten wie diese knapp südlich von Trutzbucht auf ihrer Fahrt in den Dyrwald gesehen zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Die Brise schmeckte salzig. Die Klippen befinden sich in der Nähe der Meeres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Die tiefen Spurrillen in der Straße lassen auf schweren Wagenverkehr schließen. Dieser Ort kann nicht weit weg von einer großen Stadt sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Edér hat den Bogen schon einmal gesehen. Er sagte, dass er sich an den Küsten des Bael-Sees befände, auf der Zwillingsulmen entgegengesetzten Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe schon von diesem Bogen gehört. In seiner Nähe befinden sich mehrere Adra-Säulen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Dem feuchten Boden und dem Schilfgras in dem Gebiet nach zu schließen befindet sich der Bogen wohl in der Nähe eines großen Süßwassergewässers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Hiravias kannte den von mir beschriebenen Wald. Er sagte, er befände sich nördlich von Zwillingsulmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Dieser Ort war offensichtlich im Krieg der Schwarzen Bäumen verwüstet worden. Viele der wildesten Schlachten spielten sich direkt vor glanfathanischen Städten und Dörfern ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich glaube, dieser Wald befindet sich irgendwo auf einem Berghang. Der Boden war felsig, die meisten Bäume waren immergrün, und die Luft war kühl und dünn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich hörte zufällig, dass sich die Flut zurückgezogen hatte. Vielleicht haben wir jetzt eine bessere Chance, Persoq zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Ich bin zum Perlholz-Steilufer gekommen, was mich an die Vision erinnert, die ich von Persoq hatte. Ich werde meine Augen nach Spuren von ihm offenhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Wir haben Persoq endlich gefunden. Er war ein Hirsch, der von Jägern verwundet worden war. Sagani erzählte ihm dennoch von den Veränderungen, die Massuk durchlaufen war, und wie sich die Dörfler an ihn erinnert hatten. Ich glaube, dass die Prüfung sie in dem, was sie als den Sinn ihres Lebens ansah, bekräftigt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Wir haben Persoq endlich gefunden. Er war ein Hirsch, der von Jägern verwundet worden war. Sagani erzählte ihm dennoch von seiner Familie. Ich glaube, die Prüfung erinnerte sie daran, wie sehr sie ihren Mann und ihre Kinder vermisst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Wir haben Persoq endlich gefunden. Er war ein Hirsch, der von Jägern verwundet worden war. Sagani schien zu erkennen, dass dies lediglich ein Ritual zum Trost ihrer Leute in Massuk war. Sie trug die Namen der anderen Dorfbewohner vor, aber ich glaube, dass sie das alles als ziemlich bedeutungslos empfand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Wir haben Persoqs Reinkarnation niemals gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

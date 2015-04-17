@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1012_cv_scouts</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Plötzlich spürst du in deinem Kopf einen scharfen Schmerz, auf den direkt eine barsche und fremde Stimme folgt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Deine Anführerin hat uns gebeten, einige Adra-Proben zu sammeln, um der Kolonie zu helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Nette Spinne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich habe mich von der Oberfläche bis hier nach unten gekämpft. Glaubst du wirklich, dass ich mich von DIR aufhalten lasse? Geht mir aus dem Weg, sonst wirst du jede Entscheidung bereuen, die du in deinem bisherigen Leben getroffen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"... Tcharek bittet darum?" Die Vithrack zischt leiste. "Von ... dem hier?" Du spürst ein gedämpftes Aufbranden unterdrückter Wut. "Dann geh. Die Adra-Männer werden es wie einen zappeligen Hasen zerschmettern, und Tcharek wird uns wieder losschicken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Es hat gute Augen." Die Kreatur sieht zu dem großen Elfenbeinbiest neben ihr hinüber und stößt einen kurzen, scharfen Pfeifton aus. "Sie mag Schmeicheleien. Süße Worte zum Würzen des Blutes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Vithrack zögert mit zuckenden Mundwerkzeugen. Hinter ihr sehen sehen die anderen einander an. " ... Es geht vorbei", sagt die Kreatur schließlich, und geht zur Seite. Sie betrachten dich misstrauisch, als du an ihnen vorbeigehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Hsst! Mach uns keine Schwierigkeiten mehr, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Tch. Es verweilt viel zu lange. Es findet, was Tcharek sucht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Weggehen.] "Noch nicht, aber ich suche weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Es lebt, und es stinkt nach Staub und alten Seelen. Hat es den Adra, den Tcharek will?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ich habe alle Proben gefunden. Ich werde sie jetzt zu eurer Anführerin zurückbringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Lügen.] "Noch nicht. Ich muss Tcharek über eines dieser Objekte befragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Geh mir aus dem Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Nae, Herumlungerer." Er geht mit ausgestreckten Klauen nach vorne. "Gib uns, was Tcharek verlangt. Das ist nichts für einen Außenseiter, ein krabbelnder Wurm unter Riesen." Sie zischt. "Gib es her!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Der Vithrack-Späher knurrt bedrohlich, bleibt jedoch, wo er ist. "Es spricht Tchareks Namen zu freimütig aus. Dann geh. Frage deine Fragen. " Sie stößt ein rasselndes, unangenehmes Lachen aus. "Kestorik wartet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Meinst du, dass du mir Angst machst? Tcharek hat mich hierum gebeten, weil du es nicht konntest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Deine Anführerin wird wissen, dass du lügst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Den veredelten Adra-Kristall hochhalten.] "Dann sollte ich das hier wohl zerschmettern, damit ihr es selbst finden könnt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Gegenstände übergeben.] "Nun gut, Nimmt sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Angreifen.] "Ich habe genug von dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Die Vithrack hält misstrauisch inne, bevor sie nach vorne gleitet. "Endlich kommt es zur Besinnung." Als sie nach den Adra-Proben greift, kommt sie aber ins Zögern, und ihre Mundwerkzeuge zucken. " ... Aber es wird nicht leben, um nochmal mit Tcharek zu sprechen." Sie pfeift scharf, worauf ihre Gefährtinnen nach vorne stürmen. "Tötet es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du spürst eine plötzliche, pulsierende Zorneswelle von der Vithrack. "Ah, der Eindringling, er kann so schlau reden. Wir werden es den Spinnen zum Fraß vorwerfen. Sollen sie ihm den Saft aus den Augen ziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>In deinem Verstand kannst du ein dumpfes Lachen hören. "Was kümmern Tcharek solche Dinge? Sstravek'narith, allein darauf kommt es an. Unser Volk. Ich werde ihm unsere Zukunft bringen. Ich werde meine Verbrechen danebenlegen, und sie werden gering wirken. Ich werde endlich nach Hause kommen." Die Vithrack stößt ein scharfes Pfeifgeräusch aus, worauf ihre Gefährtinnen nach vorne stürmen. "Aber der Eindringling ... es hat keine Zukunft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ich tat das zum Wohle deines Volkes. Bist du so eigensinnig, dass du das riskieren würdest, nur um persönliche Anerkennung zu gewinnen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Die Vithrack zischt. "Es weiß nichts. Es spricht nichts. Gib mir den Adra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Nae!" In deinem Verstand spürt du ein scharfes, aber fremdes Gefühl der Besorgnis. " ... Nae." Die Vithrack ballt ihre klauenbewerte Hand zur Faust. "Dann bring sie zu Tcharek. Es hat gewonnen." Sie knurrt. "Das werde ich nicht vergessen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Intrigant. Lügner. Heute gehört dir, morgen mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Zisssch. Dann hol es schon. Wir warten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Shhkt. Dann geh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Lob. Belohnung. ... Verweile nicht im Sieg, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ajik! Kalethua ar- ... Nae. [Player Race]. Aedyr vasti." Die Kreatur macht ein eigenartiges, klapperndes Geräusch, bevor es abermals in deinem Verstand zu dir spricht. "Ich nenne es Eindringling. Mörder. Herumlungerer an hellen Orten. Wo geht es hin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Du sprichst ein bisschen besser als deine Anführerin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Geh mir bloß aus dem Weg, sonst kannst du mich auch noch Spinnentreter nennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ich suche nach dem Meister in der Tiefe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich bin nur beim Erkunden, ich möchte keine Schwierigkeiten bekommen. Lasst mich vorbei, dann bin ich schnell wieder weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Nae. Es geht nicht vorbei. Es wird hier eine Weile bleiben." Die Kreatur stößt ein hohes, durchdringendes Pfeifen aus, und ihre Gefährtinnen rücken auf dich vor. "Leb wohl, Eindringling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Es beleidigt uns. Rausreißen werde ich die Erinnerung an diesen Ort aus seiner - seinem ... Es spricht mit unserer Anführerin? Es besucht das Nest?" In deinem Kopf spürst du ein Echo von Vithracks Alarm. "... Mit welchem Zweck?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Das geht dich gar nichts an!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Sucht es nach Knechtschaft?" Die Kreatur stößt ein rasselndes Zischen aus, vielleicht ein Lachen. "Es gibt keinen Meister. Unter uns sind alle tot. ... Und du jetzt auch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Hsst! Mach uns keine Schwierigkeiten mehr, [Player Race]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Dann hat es keinen wertvollen Zweck." Die Kreatur stößt ein hohes, durchdringendes Pfeifen aus, und ihre Gefährtinnen rücken auf dich vor. "Leb wohl, Eindringling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Wie kann es sein, dass du Aedyranisch sprichst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Die Kreatur gibt ein eigenartiges, zischendes Geräusch von sich. "Dieser Eindringling, es hält sich wohl für einen seltenen Schatz. Plünderer! Ich kann auch plündern, und mir die Worte nehmen, die ich will." Ein juckendes Gefühl attackiert deinen Verstand. "Seine Sprache ist ... " Sie hält inne. " ... verabscheuungswürdig", sagt sie genüsslich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Die Vithrack stößt mit klappernden Mundwerkzeugen ein verärgertes Knurren aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Plötzlich spricht einer der anderen Späherinnen mit zögerlicher Stimme. "Kestorik ... was das Tier sagt, macht Sinn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Was weiß es schon von den Endlosen Pfaden?" Die Vithrack knurrt. "Nur kurze Zeit ist es auf ihnen gewandelt." Sie knurrt. " ... Es hat sich mit einer List an den Adra-Männern vorbeigeschlichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Was? Es wimmert wie ein Skuldr-Welpe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Warum gegen mich kämpfen? Ich bring diese zu Tcharek, dann kriegen wir beiden, was wir wollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Angreifen] "Genug. Wenn du unbedingt kämpfen willst, dann los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Deine Waffen schwingen.] "Bist du dir sicher?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ich bin ein ziemlich schwerer Gegner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Die Vithrack starrt dich einen Augenblick lang an und stößt ein kehliges Knurren aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Bei den Späherinnen kannst du Verängstigung spüren. "Kestorik-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Nae. Genug. Es hat, was es will." Die Vithrack macht mit einer klauenbewehrten Hand eine aggressive Geste. "Es kehrt zu Tcharek zurück. Es lässt uns in Frieden. Geh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Die Vithrack studiert dich mit schwarzen, glänzenden Augen für einen langen, stillen Augenblick. Schließlich zischt sie, rasselnd und frustriert. "Ich habe es schlecht benannt. Kein Eindringling, sondern Seuche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Dann geh. Bring diese Dinge zu Tcharek. Es ist ein böses Ding, und ich möchte es nicht ansehen. Es hat seinen Sieg. Wenn es die Endlosen Pfade in der Finsternis verschlucken, werde ich meinen haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Wartet! Eure Anführerin hat uns gebeten, einige Adra-Proben für die Kolonie zu sammeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Angreifen.] "Wenn du kämpfen willst, dann nur her mit dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Die Vithrack sinkt mit einem zischenden, gurgelnden Rasseln im Hals auf ein Knie. "Es ist ... . ein böses, Ränke schmiedendes Ding. Ich verfluche seine Eier, seine Familie. Soll es zum Sterben in die Dunkelheit taumeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Gefangennehmen.] "So leicht kommst du mir nicht davon. Ich nehme dich mit zurück nach Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Wie du wünschst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Führ es zu Ende, Wurm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Gefangennehmen.] "So leicht kommst du mir nicht davon. Ich nehme dich mit zurück nach Caed Nua."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

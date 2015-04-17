@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_messenger</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Verzeihung. Ich habe eine Nachricht für Euch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ihr werdet zum Haus Hadret gebeten, wo Lady Webb Euch so bald wie möglich erwartet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Woher wusstest du, wo du mich findest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Naja, es ist ... es ist Lady Webb. Sie weiß alles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Erzähl mir von Lady Webb."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ihr kennt Lady Webb nicht? Sie ist ... naja, eigentlich hat sie seit sehr langer Zeit niemand mehr wirklich GESEHEN, aber sie ist die Leiterin der Dunrydstraße und ist es auch schon so lang, wie sich auch nur irgendjemand daran erinnern kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Weggehen.] "Nun gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Verzeihung. Ich habe eine Nachricht für Euch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Verzeihung. Ich habe eine Nachricht für Euch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Wo finde ich das Haus Hadret?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Gleich dort drüben, mein Herr. An der südwestlichen Ecke von Farnheim. Ihr findet die Lady im oberen Stockwerk."</DefaultText>
+      <FemaleText>"Gleich dort drüben, meine Dame. An der südwestlichen Ecke von Farnheim. Ihr findet die Lady im oberen Stockwerk."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"In Farnheim, mein Herr. An der südwestlichen Ecke. Ihr findet die Lady im oberen Stockwerk."</DefaultText>
+      <FemaleText>"In Farnheim, meine Dame. An der südwestlichen Ecke. Ihr findet die Lady im oberen Stockwerk."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Er hält inne und beobachtet misstrauisch die Passanten. Leise fährt er fort. "Sie soll alt sein. Älter als sonst irgendjemand. Und sie verlässt niemals ihr Zimmer. Manche sagen, sie sei ganz verwelkt und nur noch ein Haufen Knochen, der durch dunkle Magie am Leben gehalten wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Sie ist immer noch sehr aktiv, so weit man weiß. Sie findet Dinge heraus und beschützt uns. Und man sagt, sie ziehe auch hinter dem Thron die Fäden. Ein ganzer Ring von Medien folgt ihrem Befehl und hält sie ständig auf dem laufenden." 
+
+"Wenn man in diesem Land etwas anstellt, bittet man nicht die Götter um Vergebung, sondern besser erst Lady Webb."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Was ist die Dunrydstraße?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ein ganzes Netz aus Medien, das vom Haus Hadret aus geführt wird. Sie hüten den Frieden, aber sie möchten nicht, dass man sie dabei bemerkt."
+
+"In dieser Stadt verschwinden Probleme meistens irgendwann von alleine ... und man kann sich dann schon denken warum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ich bin angewiesen, alle Eure Fragen zu beantworten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Die Leiterin des Spionagenetzwerks der Dunrydstraße." Sie kneift ihre Augen zusammen. "Warum sollte sie nach dir suchen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Man sagt, sie sei eine uralte Spinne, die in der ganzen Stadt ihre Netze webt." Er blickt dich vorsichtig an. "Wenn sie dich sehen will, ist das entweder ein sehr gutes Zeichen - oder ein sehr schlechtes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Und ich dachte, die Einheimischen würden übertreiben, was die Dunrydstraße angeht. Anscheinend ist dein Name in irgendwelchen wichtigen Gesprächen gefallen. Hoffentlich nicht als wütender Schrei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"In dieser Gegend kann man nichts tun, ohne dass Lady Webb davon weiß. Zumindest höre ich das immer wieder. Es scheint zu stimmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

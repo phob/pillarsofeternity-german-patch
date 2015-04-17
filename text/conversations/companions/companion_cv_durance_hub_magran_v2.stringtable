@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_durance_hub_magran_v2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>66</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Oh, du kennst sie. Musst du einfach." Er kichert verbittert, dann wird seine Stimme wieder normal. "Sie ist eine vielköpfige Schlampe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich fürchte, Wächter, die Hitze am Feuer könnte dir missfallen, aber wenn du sie ertragen kannst ... so will ich dir erzählen, was ich weiß."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wächter, wenn du zu lange ins Feuer starrst, könntest du erblinden." Er kichert. "An dir selbst herumzuspielen, könnte denselben Effekt haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Bei den Göttern, du schwappst ja gleich über vor lauter Fragen. Man könnte direkt meinen, du seist ein Kind ... oder du würdest innerlich verbrennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Für einen Anhänger Magrans scheinst du ja ziemlich wenig von ihr zu halten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Wie siehst du Magran?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Hat sie irgendwelche Verbündeten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Wer sind ihre Feinde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Genug von Magran. Ich habe andere Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Mehr wollte ich gar nicht besprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Sie ist eine Göttin und so wankelmütig, wie sie eben sind ... und mit allen Fehlern behaftet, die man von einer Kaiserin und einer Hure erwarten würde." Er runzelt die Stirn und kratzt sich im Gesicht. "Ihr Klerus hat dieselben Fehler."
+
+"Zu viele Augen, zu viele Wünsche, zu viel, um sich daran festzuhalten ... das sind die Fehler der Götter - wie bei den meisten von ihnen gibt es auch bei ihr mehr Aspekte als Wörter, um sie zu beschreiben." Er schnaubt. "Eine Göttin, die viele Länder zu beaufsichtigen hat, übernimmt sich damit nur ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"... obwohl die Flamme selten zweimal kreuzt. Also ist das vielleicht die einzige Wahrheit, die sie sich zu eigen macht. Wer weiß das schon? Götter werden gierig. Und wenn es ums Feuer geht? Das Feuer ist der Hunger der Götter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Was sind ihre Aspekte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich wollte dich noch etwas anderes über Magran fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Durance beginnt, an seinen Finger abzuzählen und dabei zu skandieren. "Krieg wandelt, Feuer verzehrt, Prüfungen reinigen ..." 
+
+"Kriegsführung, Feuer, Verzehrung, Reinigung, und vor allem: Wandel. Prüfungen auch, aber es werden ja eh alle Dinge Tests unterzogen - eine Prüfung kann verzehren, reinigen, wandeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Sie sind alle miteinander verbunden, obwohl im Herz die Flamme steht, und auf die Flamme kommt es an, denn sie ist der ... 'Quell aller Dinge'. Vielleicht hätten sie damit anfangen sollen, was? Das weiß doch jeder Narr an einem Lagerfeuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ohne Flammen und Feuer wären wir in der Dunkelheit nicht weit gekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Es gibt einige, zugeschnitten auf die Jagd und den Krieg." Er hält inne und kratzt sich mit einem Finger an einer Pockennarbe auf seiner Wange. 
+
+"Abydon, der Golem. Galawain und seine Biester. Letztere sorgen dafür, dass wir redlich und wach bleiben ..." Durance setzt seine freie Hand für einen Doppelgriff um seinen Stab ein. "... Ersterer schafft die Werkzeuge, mit denen wir jene strafen, die es nicht sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Abydon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Mit Abydon bin ich vertraut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Durance lächelt spöttisch "Hätte mich nicht gewundert, wenn du nichts von ihm gehört hättest. Es gibt mehr Götter als Unkraut auf einem Feld, und damit meine ich nur die aus diesem Leben. Sie kommen und gehen, und doch sind sie immer hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Abydon ... sah einst menschlich aus." Durance grunzt. "Er wurde umgebracht und baute sich dann selbst einen neuen Körper. Ein 'Wandel' mit Magrans Hilfe."
+
+"Vielleicht brauchte sie einen eigenen Schmied, der sich um die Feuer kümmert. Falls dem so ist, dann hat es Abydon verdient." Durance runzelt die Stirn. "Für mich ist er eine Waffe, ein Werkzeug ... aber kein Gott."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Kein Wunder, dass du noch nichts von ihm gehört hast. Es gibt mehr Götter als Unkraut auf einem Feld, und damit meine ich nur die aus diesem Leben. Sie kommen und gehen, und doch sind sie immer hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Trotzdem stehen ihm die Leute des Dyrwalds nah, vor allem jene in den Städten. Nun, so sei es. Wenn es aber für harte Arbeit und Handwerkskunst eine Belohnung wie seinen Körper gibt, dann behalte ich lieber Blut, Schwanz und Hüften, um ihn in Schwung zu halten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Du erwähntest auch Galawain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Monster-Vater, der große Hund, und was Monster angeht, so gibt es auf dieser Welt mehr als genug ... und damit meine ich nicht nur die auf zwei Beinen." 
+
+"Es ist fast so, als hätte er Monster nur zu dem Zweck geschaffen, sie zu jagen und um Männer an ihre Rolle im Leben zu erinnern. Ich vermute, dass er damit zu tun hat, neue zu schaffen. Mehr Monster als Verstand, Variation um Variation. Hmpf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Was meinst du damit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Seine ... Aspekte sind ziemlich verwirrend, wenn man sich bedenkt, dass er bei seinen Biestern auf die Umkehrung des Schicksals achtet. Naja, vielleicht auch nicht SO verwirrend." 
+
+"Meiner Meinung nach besteht kein Grund dafür, warum Magran mit ihm ein Bett teilen sollte, selbst wenn er an die Prüfung glaubt. Auf vielerlei Art ein schmutziger Orlaner-Gott. Vielleicht heult und maunzt er ja auch so wie sie. Sie können ihre Biester behalten, das Feuer und die Waffen aber würde ich jederzeit nehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Nicht alle Orlaner huldigen ihm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Wenn du über Orlaner sprechen willst, würde ich an deiner Stelle deine nächsten Worte vorsichtig wählen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Durance schaut dich an und schnaubt dann verächtlich. "Ah ... Orlaner-Trotz. Uuh, jetzt wird es aber wirklich gefährlich."
+
+"Zu den Hochzeiten der Sklaverei, als ihr nicht mehr als Fußabstreifer und Teppiche für verschiedene Adlige mit Scheiße an der Ferse wart, hat euch das ja große Dienste erwiesen." Durance grinst spöttisch. "Diese Tage könnten wiederkehren - letztendlich habt ihr euch das verdient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Verdient? Was meinst du damit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Klingt wie jemand, der sich dieselbe Behandlung wünscht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Genau wie ein Mensch: Große Worte, wenig Verstand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Durance schaut dich überrascht an. "Zu schwach, um euch zu verteidigen. Ihr wurdet geprüft, und werdet es noch immer, und es fehlt euch an allem. Orlaner, der Krieg wird nicht warten, damit du aufschließen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Durance verlagert sein Gewicht und kneift die Augen leicht zusammen. "Du kannst es gerne versuchen, und ich werde meine Stiefel an dir säubern, wie es die Adligen getan haben. Ihr seid die Einzigen, die es zu beschuldigen gibt ... ihr wart zu schwach, euch zu verteidigen."
+
+"Ihr wurdet geprüft, und werdet es noch immer, und es fehlt euch an allem." Durance zuckt mit den Achseln. "Orlaner, der Krieg wird nicht warten, damit du aufschließen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ah, Menschen, das ist eine Beleidigung." Durance verlagert mit glänzenden Augen sein Gewicht. "Und trotzdem wart ihr diejenigen unter unseren mit Scheiße beschmutzten Fersen. Uns Menschen gestattete man wenigstens, auf unseren eigenen Beinen zu laufen, Orlaner ... ihr aber, ihr aber könnt nur euch selbst beschuldigen ... ihr wart zu schwach, euch zu verteidigen."
+
+"Ihr wurdet geprüft, und werdet es noch immer, und es fehlt euch an allem." Durance zuckt mit den Achseln. "Orlaner, der Krieg wird nicht warten, damit du aufschließen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Er runzelt die Stirn, als würde er nachdenken. "Und jetzt ein Orlaner-Wächter ... vielleicht, wenn es genug von euch gäbe, dann hättet ihr eine Chance. Aber das werden wir ja sehen, oder? Ich zumindest werde das ... aber ob das deinen Augen gelingen wird, die zu sehr damit beschäftigt sind, nach außen zu sehen und mich für deine eigenen Fehler zu beschuldigen ... dessen bin ich mir nicht sicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Durance lacht. "Es stellt sich eher die Frage, ob ein Gott überhaupt Verbündete hat." Die Fröhlichkeit weicht aus seinem Gesicht, und er grinst spöttisch. "Freunde mit Sicherheit nicht." 
+
+"Aber ja." Sein Grinsen stirbt, und du siehst seinen Blick in die Ferne schweifen. "Sie waren Feinde. Waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Durance lacht. "Vorher, als du mich über Verbündete fragtest? Naja, also ... Verbündeter, Feind ... im Auge der Geschichte besteht darin kaum ein Unterschied." Die Fröhlichkeit weicht aus seinem Gesicht, und er grinst spöttisch. "Aber sie waren Feinde. Waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Eothas." Durance grinst kalt und nickt. "Aber das haben wir beigelegt. Dann ... Hylea und ihre Krone aus Federn und Vögeln." Er lächelt höhnisch. "Vielleicht behauptet sie ja, die Welt von ihrem Ast aus zu sehen ... Hoffentlich hat sie gesehen, was mit Eothas passiert ist und was passieren würde, wenn sie auf die Erde herabkäme, wo solche Feuer brennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ihre Tempel sind Dinge aus Fenstern und zwitschernder Musik. Wenn ein Vogel vom Himmel fällt, sollte man das als Sieg ansehen. Ein weiteres Paar der wild dreinblickenden Augen dieser gefiederten Schlampe sterben zu sehen, stimmt mich zufrieden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Du hegst großen Groll gegen sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Sie und ihre Klerus bieten den Eothasianern seit seinem Tod, seiner Erniedrigung, Unterschlupf. Sie nehme ich mir als nächstes vor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Oh, haben meine Ausführungen weitere Fragen aufgeworfen?" Einen Moment lang kneift er die Augen zusammen, dann grinst er. "Wahrlich eine Überraschung."
+
+"Ob ich sie schätze?" Sein Gesicht rötet sich, und sein Grinsen stirbt. Auf seiner Stirn bildet sich ein Rinnsal aus Schweiß. "Naja, ich schätze alle Huren - als Huren haben sie immerhin aufrichtige Beweggründe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Und wenn jemand wie ich, der wahrlich danach strebt, Prüfungen und Reinigung zu verkörpern, jemand wie ich, der sich im Kriege sonnt ... nun, wenn nicht einmal ich es wagen würde, den Prinzipien einer Göttin und ihrer auserwählten Feuer den Kampf anzusagen ..." Er grinst. "Ich würde an meiner eigenen Scheinheiligkeit verbluten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Also stehst du mit Magran im Konflikt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Männer kämpfen. Frauen kämpfen." Er kichert. "Manchmal sogar mit dem eigenen Geschlecht. Wenn man nicht kämpft, sich müht, bestraft ... zu was ist man dann noch nütze?" Er klopft mit seinem Stab auf den Boden. "Es ist mir schon unbehaglich genug, dass dieser Stab jetzt im Augenblick kein Blut vergießt und niemanden verwundet."
+
+Durance lächelt seltsam. "Dennoch ... gegen eine Göttin zu kämpfen, das könnte man nur schwerlich als einen wahren Kampf bezeichnen. Aber das haben alle Gläubigen gemeinsam - den Wunsch, es darauf ankommen zu lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Wenn du aber gegen sie bist, wie kannst du dann Stärke aus ihr beziehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Durance zuckt mit den Achseln, aber sein Gesicht verzieht sich zu einem grausamen Grinsen. "Eothas verbrannte, und trotzdem saugen seine Anhänger noch Kraft aus seinem schwelenden Schwanz ... jenseits des verzwirbelten Verstands ihrer Lügen und Gotteslästerungen."
+
+Er runzelt die Stirn. "Sollte ich meine Göttin angreifen, dann diene ich ihr entsprechend ihrer Aspekte. Und es könnte gut sein, das ich durch einen derartigen Angriff und der damit verbundenen Erwiderung zu völlig neuen Einblicken gelange."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Durance tat viel Vergleichbares während seinen Reisen, und es kam im Trotz auf, das Gefühl, dass es noch eine andere Wahrheit da draußen geben könnte, die man nicht nur dadurch finden kann, indem man in Flammen starrt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Wenn man hört, dass manche der inneren Feuer sie bei der Feuerstelle und den Blasebälge erzählen, selbst in den Hallen von Aschfall, so könnte man gut zum Schluss kommen, dass das Feuer den Menschen das Leben gebracht hat. Und dieses Feuer war Magran. Manche der älteren Texte besagen, sie hätte ihre Hände gerieben, worauf diese in Flammen aufgegangen seien ..."
+
+"... oder ein anderer Gott hat sie wie mit einem Schüreisen gebumst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Dann gibt es also verschiedene Sichtweisen über sie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Er grunzt. "Meine ist nur eine von vielen." Durance runzelt die Stirn und hält inne, dann werden seine Augen von einem begierigen Glänzen erfüllt. "Eins aber könnte ich dir sagen ..."
+
+"Ich könnte dir erzählen, was die unterliegende Seite von ihr hält, und das sollte dir eigentlich genug sagen. Lass mich darüber sprechen, was ein Aedyraner sieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Wähle deine nächsten Worte mit Bedacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Und was sieht ein Aedyraner denn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Die Aedyraner haben eine ... korrekte, höfliche Übersetzung ihres Namens. 'Herausragend im Krieg. Taktische Disziplin'." Er schnaubt. 
+
+"Das ist natürlich auch der Grund, warum sie die verdammte Kolonie verloren haben. Wahrscheinlich zitierten sie das immer noch, als wir sie schon über die Decks beugen ließen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"All ihre Feuerwaffen und Kanonen sind ja schön und gut, aber trotzdem ziemlich nutzlos, wenn dein Stab ihnen Licht in den Schädel treibt und links wie rechts rote Geschenke verteilt." Durance ballt die Fäuste und lacht. "Aedyraner nennen das 'Erhabenheit', 'göttliches Bewusstsein'."
+
+"Diese Worte sind so willkommen wie Scheiße am Stiefel, und mehr als das nahmen sie auch nicht mit, als sie davonliefen ..." Er schüttelt den Kopf. "Eine gelernte Lektion, aber zu falschen Zeit. Mir sind sie fast ein wenig sympathisch ... fast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Lektion? Was meinst du damit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Der Titel eines Gottes heißt nicht, einen Gott zu KENNEN. Sich an Worten festzuhalten, anstatt den Weg zu beschreiten, sich selbst mitten im Getümmel zu testen ... Zu gehen, bis die Worte abgestreift sind, und du es in deinem Herzen brennen spürst. Das ist die wahre Lektion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Diese ... aedyranische 'Höflichkeit', diese verspielte Festklammern am geschriebenen Wort, so wie sie es verstanden ... DAS verbrannte während des ganzen Dyrwald-Feldzugs ihre Schiffe, vernarbte sie und ließ sie ständig fliehen."
+
+Er schnaubt. "'Göttliches Bewusstsein'. Im Warten darauf, geprüft zu werden, steckt kein echter Glauben. Die Besten im Kampf haben sich bereits ordentlich eingeschissen, und zwar bis sie trocken waren und sich auf das Töten konzentrieren konnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

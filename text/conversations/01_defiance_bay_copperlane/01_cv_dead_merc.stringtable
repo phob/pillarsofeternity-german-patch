@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_dead_merc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als du dich dem Toten näherst, spürst du die schwachen Rückstände seiner Seele, die von einer überraschten Unsicherheit an Ort und Stelle gehalten werden.
+
+Plötzlich stürzt die Seele ohne Vorwarnung auf dich zu, als wärest du ein strahlendes Leuchtfeuer in der klammen Dunkelheit. Ihre Essenz dringt in dein Bewusstsein ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vor dir steht eine andere Gestalt, die wie du gekleidet ist und in dieselbe Richtung reist. Du kennst ihren Namen nicht, und so soll es sein.
+
+Aus der Dunkelheit ergreift plötzlich etwas Monströses die andere Gestalt. Du wendest dich zur Flucht, stehst jedoch Angesicht in Angesicht mit einem Troll. Die pochende Panik in deinem Kopf wird von rasiermesserscharfen Zähnen und Krallen unterbrochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du weckst dich aus der Erinnerung des toten Mannes auf. Die Leiche liegt auf dem feuchten und dreckigen Boden. Seine Kapuze und Maske fehlen und seine Kleider sind zerfetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du bist nun in einem anderen Körper. Du schreitest tiefer in die Katakomben, in eine dunkle Robe gekleidet und mit einer Maske über dem Gesicht. Du folgst einem vertrauten Pfad entlang des Kanals, zu einem Raum, der um die Statue einer Gestalt herum gebaut ist, die eine ähnliche Robe wie du trägt. Andere warten bereits, in Kapuzen und Schatten gewandt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

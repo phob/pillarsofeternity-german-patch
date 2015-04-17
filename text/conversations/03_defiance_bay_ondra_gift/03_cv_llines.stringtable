@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_llines</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sie lehnt sich auf den Tresen und klopft mit ihren schwarz lackierten Nägeln auf das Holz. "Was darf's sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich möchte Erfrischungen bestellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Was kannst du mir über dieses Etablissement sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Sie hebt eine Augenbraue. "Jeder ausländische Seemann und jeder fremde Dorfbewohner kennt den Salzigen Mast. Er ist das berühmteste Bordell in ganz Trutzbucht."
+
+Sie deutet auf eine Aumaua-Frau. "Wenn du mehr wissen willst, frag einfach Maea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Vielleicht suchen ein paar deiner Stammgäste nach Arbeit?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Irgendwie müssen sie sich ja das Geld für ihr Ale verdienen. Schau dich mal um.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

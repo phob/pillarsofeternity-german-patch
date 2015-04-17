@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_rowyna_soul</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine Seele schleicht durch den Blutstein wie ein Stelgaer in einem Käfig. Sie ist voll wilder, rastloser Energie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Dalton hat mich geschickt, dich zu finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Was willst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du siehst vor deinem geistigen Auge das Bild einer Frau in einer schweren Lederrüstung, die mit zwei Dolchen bewaffnet ist. Neben ihr steht ein Mann, jung und gutaussehend, der sie 'Rowyna' nennt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die Vision wandelt sich, du siehst eine windgepeitschte Ebene neben einem See. Fünfzig Männer und Frauen in identischer Leiderkleidung liegen tot am Boden, ihre Körper durch irgendeine dunkle Zauberei gekrümmt und deformiert. Rowyna fällt zwischen ihnen zu Boden. Sie bricht neben dem jungen Mann zusammen, den du zuvor gesehen hast. Sie ist zu schwach um zu sprechen, doch der Name 'Dalton' erscheint in deinem Verstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Eine einsame Gestalt schreitet über das Schlachtfeld, ohne sich groß darum zu scheren, ob er auf die Leichen tritt. Seine Augen sind mit einem unnatürlichen Licht erfüllt und auf Rowyna fixiert. Er streckt die Hand nach ihr aus, und das letzte bisschen Leben, das noch in ihrem Körper verweilte, entweicht. Als er ihr das Amulett vom Hals nimmt, spürst du, dass ihre gepeinigte Seele darin gefangen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Mit einem letzten verächtlichen Blick auf den gefallenen Dalton verlässt der Mann das Schlachtfeld.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Seele pulsiert vor Wärme. Sie füllt deinen Verstand mit den Erinnerungen eines jungen Mannes, der sowohl kühn als auch großzügig ist.
+
+Aber Zorn und Verzweiflung nagen an diesen Bildern, bis du nur noch kalte, rote Wände spürst, die dich einengen - und etwas Widerwärtiges, das sich an dir labt, während die Jahre zu Jahrzehnten werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du siehst, wie das Amulett in tausend Stücke zerbricht und die darin enthaltene Seele aufsteigt und sich zwischen den Sternen auflöst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

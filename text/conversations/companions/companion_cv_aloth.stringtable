@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_aloth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>104</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du siehst vier Personen, die sich bei der Tür zur Schänke versammelt haben. Ihre erregten Stimmen und hackenden Gesten lassen darauf schließen, dass ein Streit kurz vor seinem Höhepunkt steht.
+
+Die erste Gestalt erhebt ihre Hände, um die Situation zu beruhigen. Sein Gesicht wird teilweise von einer Kapuze verborgen, aber Größe und Körperbau lassen auf einen Elf schließen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die anderen Gestalten, Männer aus dem Volk und eine Elfe, sehen nicht gerade überzeugt aus. 
+
+Die Frau verschränkt ihre Arme. "Aha, willst unseren Stolz wohl mit ein paar aedyranischen Kupferstücken beschwichtigen, was?" Sie spuckt auf seine Füße. "Wir brauchen dein Geld nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Was geht hier vor sich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Nichts sagen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Jetzt beruhigt euch alle mal. Egal, um was es hier geht, es ist bestimmt nicht so schlimm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ooh, ein Kampf!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Einer der anderen Männer deutet auf den Elf mit der Kapuze. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. "Verspottet uns sogar noch, während er in unserem Dorf wohnt. Soviel zum Thema, was diese feinen aedyranischen Manieren wirklich wert sind."
+
+"So eine Behandlung lassen wir uns nicht gefallen. Nicht von Ausländern, und von Aedyranern erst recht nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Der zweite Mann stößt sein Kinn in Richtung des Elfs. Er stinkt nach saurem Ale. "Na mach schon, sag es nochmal. Ich kann deine Entschuldigung kaum noch erwarten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Jessas, kannst es wohl nimma dawoatn, dass'd deine Schwester schnackslt, oida Schlappschwanz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Einer der anderen Männer starrt den Elf mit der Kapuze an. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. "Du bist ganz schön frech, uns in unserem eigenen Dorf zu verspotten. Von Ausländern lassen wir uns nicht schlecht behandeln. Von Aedyranern erst recht nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Einer der anderen Männer starrt den Elf mit der Kapuze an. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. "Wir sind einfache Leute, aber dumm sind wir nicht. Das scheint er aber anders zu sehen, da er uns verspottet, während er in unserem Dorf wohnt. So lassen wir uns von Ausländern nicht anreden, und von Aedyranern erst recht nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Den drei Einheimischen entfährt ein gemeinsamer Wutschrei. Der zweite Mann knurrt wütend. "Ich werde dir deine Säuferzunge aus dem Maul schneiden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Entsetzen und Angst machen sich schnell auf dem Gesichts des Elfs breit. "Das ist ein Missverständnis. Ich sagte gar nicht ... " Er legt die Stirn in Falten und schluckt. " ... was ihr da gehört haben wollt."
+
+Er stellt sich fest hin. In seinen Augen flackert etwas Mürrisches und Rohes auf. "Wir haben keinen Grund zum Streiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Elfe zieht eine Klinge. "Und genau da irrst du dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ich glaube nicht, dass es eine gute Idee wäre, ihn anzugreifen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Aufhören, alle zusammen! Das ist doch absurd!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Das werdet ihr ihm doch nicht abnehmen, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Da halte ich mich mal schön heraus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Das hier ist unnötig. Wäre es nicht besser, drinnen zu trinken als hier draußen zu streiten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die drei Betrunkenen sehen dich böse an. "Und warum?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Er sucht nach etwas, und da es nicht das Rapier an seiner Seite ist, handelt es sich wohl um einen Stab oder einen Wurfdolch, und ihr seht nicht so aus, als ob ihr noch mit einem davon klarkommen würdet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Weil ihr es sonst mit mir zu tun bekommt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Wenn euch jemand so offensichtlich einen Köder auslegt wie er, dann sollte man besser weggehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Das hier wird schlimm enden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Die Frau mustert dich von oben bis unten. "Und das schließt dich mit ein. Zwing uns nicht dazu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Niemand gibt uns Befehle, Aedyraner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Niemand gibt uns Befehle, Ausländer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Sie greifen dich mit hasserfüllten Augen an. "Oh nein, das wirst du nicht, Aedyraner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Sie greifen dich mit hasserfüllten Augen an. "Oh nein, das wirst du nicht, Ausländer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Sie richten ihren Zorn auf dich. "Nein, und von dir lassen wir uns das auch nicht gefallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Wir lassen uns von irgendwelchen dahergelaufenen Aedyranern nichts befehlen. Und von Mildtätigkeit halten wir auch nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Deine Mildtätigkeit wollen wir auch nicht, Ausländer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Sie schauen einander an. Einer der Männer warnt die anderen beiden mit einem Kopfschütteln, bevor er sich dir zuwendet. "Also gut, wir sind fertig hier. Aber der da sollte hier besser auf sich aufpassen, denn wir werden nirgendwo hingehen." Mit einem abschließenden bösen Blick auf den Elf dreht er sich zum Gehen um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Als die drei davonstolpern, wendet sich der Elf dir zu. Die Spannung ist fast gänzlich aus seinem glatten Gesicht verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Gern geschehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Freut mich, dass ich helfen konnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Das hat eigentlich sogar Spaß gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Du meinst, weil ich sie dazu gebracht habe, sich in die Hosen zu machen? Gern geschehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Du meinst, weil ich sie abgeschlachtet habe? Gern geschehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Er lächelt dich kurz an. "Nun gut, so kann man es auch sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Er lächelt dich kurz an. "Dann kann ich mich nicht vorstellen, dass dir hierzulande langweilig werden wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Er lächelt dich kurz an. "Höflichkeit ist hierzulande ein seltenes Vergnügen, obwohl dein Akzent vermuten lässt, dass du ebenso wenig ein Einheimischer bist wie ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Er lächelt dich kurz an. "Höflichkeit ist hierzulande ein seltenes Vergnügen, genau wie die Gesellschaft eines Landsmannes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Er streicht seine Kapuze glatt, und auf seinen Handschuhen bemerkst du die Fransen einer Stickerei. Seine Stiefel sind mit dem Schmutz einer vielmonatigen Reise überzogen, aber das Leder darunter ist robust und von guter Qualität.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Erzähl mir von dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Was machst du hier in Goldtal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Wie hast du es geschafft, diese drei Trunkenbolde zu verärgern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ich bin ein ausgebildeter Zauberer und notgedrungen ein Abenteurer. Ich wurde im Cythwald geboren, einem Teil des Festlands des Reichs Aedyr. Meine Eltern dienten dem Adel und konnten mir eine Ausbildung bezahlen, wofür ich dankbar bin. In diesen Adelshäusern aber gab es keine Stelle für mich, und so entschloss ich mich, in einem neuen Land nach neuen Möglichkeiten zu suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Eine hervorragende Frage." Er verschränkt seine Arme und blickt finster drein, wobei er zum Dorfzentrum hinschaut. "Ich war auf der Suche nach frischer Luft und günstigem Land. Stattdessen gab mir der Magistrat eine Wegbeschreibung zur Schänke und erzählte mir eine Geschichte über die schwangere Ehefrau des örtlichen Fürsten." Er neigt seinen Kopf, und sieht dich an. "Aber das scheint wohl eine bekannte Geschichte zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Du siehst nicht unbedingt aus wie ein Siedler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Ein schlitzohriges Grinsen spielt über seine Lippen. "Bitte entschuldige, aber du auch nicht. Trotzdem kann einen der Zufall an den merkwürdigsten Orten zusammenführen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ich befürchtete, das war ein Fall von Missverständnissen und Fehlübersetzungen." Er legt seine Finger zusammen und schaut weg. "Es ist nicht gerade hilfreich, dass sich die Leute hierzulande so an ihren Krieg mit Aedyr erinnern, als ob er gestern gewesen wäre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Du hast dem einen Mann gesagt, er soll seine Schwester ficken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Du hast über einen der Angreifer und dessen eigener Schwester eine ziemlich schlüpfrige Anspielung gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Aha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ah. Das." Er räuspert sich und zupft seine Ärmel zurecht. "Wie ich ihnen zu sagen versuchte: Sie hatten mich falsch verstanden. Nach ein paar Humpen geschieht das viel zu leicht, und der Akzent ist auch nicht besonders hilfreich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ich habe das aber auch gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Für einen kurzen Augenblick sieht er so aus, als wollte er noch etwas anderes sagen. Sein Gesichtsausdruck wird missmutig, aber bevor er zu sprechen beginnen kann, zwingt er sich zu einem schmallippigen Grinsen, wobei er sich so fest auf die Unterlippe beißt, dass du mit einer blutenden Wunde rechnest. Letztendlich entspannt sich sein Gesicht aber und er schüttelt den Kopf. 
+
+"Nächstes Mal sollte ich deutlicher sprechen, Entschuldigung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Und du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Wie du schon sagtest, ich bin auch ein Siedler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ich letzter Zeit habe ich merkwürdige Dinge beobachtet. Ich suche nach einem Experten auf dem Gebiet der Seelen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Das ist meine eigene Angelegenheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Wofür ich auch dankbar bin. Lass uns doch, äh, über etwas Anderes reden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ich sollte besser aufbrechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ich suche nach Informationen über eine Organisation, die man als den Bleiernen Schlüssel kennt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Wohl wahr." Sein Blick flackert über dich und deine vom Reisen abgenutzte Kleidung. "Wenn dem so ist, dann willkommen in Goldtal, ein wahrer Zufluchtsort vor der Zivilisation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Sein Blick flackert, als er dich von oben bis unten mustert. "Wirklich? Der örtliche Fürst hat weit und breit nach ähnlichen Spezialisten gesucht, und sich ihrer genau so verzweifelt wieder entledigt." Er nickt in Richtung des knorrigen alten Baums im Dorfzentrum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Er reißt seine Augen weit auf. "Nicht so laut! Wann immer die Einheimischen misstrauisch werden, packen sie sich den Nächstbesten." Er nickt in Richtung des knorrigen alten Baums im Dorfzentrum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Er senkt seinen Blick schnell nach unten. "Natürlich. Ich wollte nicht neugierig sein." Er nickt in Richtung des knorrigen alten Baums im Dorfzentrum. "Wenn man sich an einem Ort vorsehen sollte, dann hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Und ich auch, wenn man die jüngsten Ereignisse berücksichtigt. Umso besser. Ich hatte sowieso genug vom wässrigen Wein und den durchgelegenen Betten in der Schänke." Er rümpft seine Nase. "Man sagt sich, selbst der Besitzer der Schänke hatte genug. Eines Tages ging er einfach fort. Das spricht Bände über die Instandhaltung."
+
+Er blickt dich vorsichtig optimistisch an. "Vielleicht könnte ich mich dir anschließen. Ich könnte einen Ortswechsel gut vertragen, und ich reise sowieso nicht gerne allein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ich auch nicht. Dann lass uns gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ich reise lieber mit wenig Gepäck. Vielleicht später."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Hervorragend. Ich werde dir folgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Das kann ich verstehen." Er blickt mit einem Seufzen zurück zur Schänke. "Ein paar Abende mehr mit zähem Eintopf werden mich schon nicht umbringen. Wenn aber dieser Hund verschwindet, so werde ich fasten müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Sie blinzeln dich durch rote, müde Augen an. "Das klingt verdächtig, als ob du ihn verteidigen würdest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Als der letzte der Angreifer fällt, wendet sich der Elf dir zu. Die Spannung ist fast gänzlich aus seinem glatten Gesicht verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Das Gesicht des Elfs stellt zwar eine vorsichtige Maske der Neutralität dar, aber in seinen Augen lodert die Hoffnung. "Wir sehen uns wieder. Was führt dich zurück nach Goldtal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Sag mir, was es hier an Neuigkeiten gibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ich würde gerne mit dir zusammen reisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Er lacht trocken. "Nichts, obwohl ... " Sein Blick schweift wieder zu dem Baum ab, an dem einige Körper baumeln. "Das ist nicht zwangsläufig eine schlechte Sache."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ich mag ... sichere Reisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Wie genau bist du denn hier gelandet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ich reiste mit einer Karawane, aber in der Nähe von irgendwelchen Ruinen wurden wir getrennt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ein Bîaŵac."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Engwithaner-Ruinen? Diese Ruinen können selbst zu den besten Zeiten, die wir jetzt nicht haben, gefährliche Orte sein. Die Hälfte der Einheimischen würde dich für dein Eindringen verhaften, die andere Hälfte würde dich auf der Stelle niedermachen."
+
+Er beugt sich etwas näher heran. "Jetzt bin ich neugierig: Was genau hast du dort gefunden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Mehrere verhüllte Gestalten, die eine seltsame Maschine bedienten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Lügen] "Nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Ein langsames Lächeln kriecht ihm über sein Gesicht. "Ein Mann muss seine Geheimnisse haben. Nun gut."</DefaultText>
+      <FemaleText>Ein langsames Lächeln kriecht ihm über sein Gesicht. "Eine Frau muss ihre Geheimnisse haben. Nun gut."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Und du hast überlebt? Ich hörte, dass das unmöglich sei." Er betrachtet dich mit neugewonnenem Interesse. "Anscheinend hast du entweder ein Händchen für den richtigen Augenblick, oder du bist ein Günstling der Götter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Aloth starrt dich schweigend an. Anscheinend beurteilt er deine Aufrichtigkeit. Letztendlich stößt er ein abgehacktes, unbeholfenes Lachen aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[Schweigen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Als der letzte der Angreifer fällt, wendet sich der Elf dir zu, die Anspannung wie festgefroren in seinem Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ich wollte niemanden beleidigen. Lasst uns diese Angelegenheit doch bei einer Runde Met beilegen! Geht auf mich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"So hatte ich mir meine erste Begegnung mit den Nachbarn nicht vorgestellt. Danke für deine Unterstützung in dieser ... misslichen Situation - genau zur rechten Zeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Nach diesem kleinen Fiasko sollten wir uns wohl einander vorstellen. Aloth Corfiser, zu deinen Diensten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Du hast wahrlich das Talent, dich in ziemlich interessante Notlagen zu manövrieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Das war ... unerwartet. Dennoch, ich danke dir, dass du mich aus einer ... misslichen Lage gerettet hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Sein Blick nimmt auch die eingestürzten Gebäude und die brachliegenden, felsübersäten Felder auf. "Ich vermute, dass man solches Fachwissen wohl besser woanders suchen sollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Sein Blick nimmt auch die eingestürzten Gebäude und die brachliegenden, felsübersäten Felder auf. "Egal, nach was du suchst, du solltest dafür besser an einen anderen Ort gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Wie kommt es, dass du hier draußen feststeckst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Ich hoffe, du hast mehr zu deiner Verteidigung vorzubringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Er lacht etwas beschämt. "Das ... ist eine lange Geschichte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Er hebt die Hände. "Bitte, ich wollte dich nicht in die Sache hineinziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_kolsc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>134</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Halt, mein Herr. Auf ein kurzes Wort." Ein verhüllter Mann in einem grünen Umhang wartet an der Straße auf dich. Als du dich näherst, geht er auf dich zu, und auf kürzere Entfernung erkennst du die Gesichtszüge eines jüngeren Mannes, die aber von Erschöpfung gezeichnet sind.</DefaultText>
+      <FemaleText>"Halt, meine Dame. Auf ein kurzes Wort." Ein verhüllter Mann in einem grünen Umhang wartet an der Straße auf dich. Als du dich näherst, geht er auf dich zu, und auf kürzere Entfernung erkennst du die Gesichtszüge eines jüngeren Mannes, die aber von Erschöpfung gezeichnet sind.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ah, der hilfsbereite Fremde. Ich bin froh, dass du gekommen bist. Hast du Neuigkeiten für uns?" Kolsc runzelt die Stirn. "Merkwürdig - ich habe noch nichts aus der Burg gehört. Hattest du Erfolg? Ist Raedric tot?"</DefaultText>
+      <FemaleText>"Ah, die hilfsbereite Fremde. Ich bin froh, dass du gekommen bist. Hast du Neuigkeiten für uns?" Kolsc runzelt die Stirn. "Merkwürdig - ich habe noch nichts aus der Burg gehört. Hattest du Erfolg? Ist Raedric tot?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wir hörten, dass du gegen die Burg vorgerückt warst, und trotzdem sind wir zu spät gekommen. Einen Moment eher, dann wäre ich bei seinem letzten Atemzug dabei gewesen ... Aber egal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Was genau soll ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich mische mich da lieber nicht ein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Der Mann nickt und steht noch ein bisschen gerader. "Ich muss dich um eine grausame Tat bitte, aber sei dir sicher, es gibt keinen anderen Weg. Fürst Raedric muss aufgehalten werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich werde Raedric finden und mich um ihn kümmern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Aha." Kolsc beobachtet dich einen Moment lang, dann geht er vorsichtig einen Schritt zurück. "Das würde er, natürlich. Ein Narr zumindest ist Raedric gewiss nicht, und er würde auch keine Gelegenheit auslassen, meine Verbündeten gegen mich aufzuwiegeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Wenn Goldtal Fürst Raedrics Herrschaft noch länger ertragen muss, wird es zugrundegehen. Er muss aufgehalten werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Nur ein Mann, der dazu entschlossen ist, Goldtal seinen früheren Glanz wiederzugeben. Es gab eine Zeit, Fremder, in der Goldtal seinem Namen alle Ehre machte. Der Weizen auf den Hügeln glänzte gülden, und die Dörfler führten ein gutes Leben."</DefaultText>
+      <FemaleText>"Nur ein Mann, der dazu entschlossen ist, Goldtal seinen früheren Glanz wiederzugeben. Es gab eine Zeit, Fremde, in der Goldtal seinem Namen alle Ehre machte. Der Weizen auf den Hügeln glänzte gülden, und die Dörfler führten ein gutes Leben."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Und was ist jetzt daraus geworden? Was auch immer die Fäule über unsere Lande gezogen hat, ihre Bewohner sind gewiss nicht daran schuld. Raedric bestraft uns für Verbrechen, die wir nicht begangen haben, und im Gegenzug sieht er seine eigenen nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Bin ich nicht, und er wird für seine Taten bezahlen. Das schwöre ich, Kolsc, bei der Flamme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Zu lange hat Goldtal unter Readrics Wahnsinn gelitten. Er würde Waidwens Vermächtnis dadurch ausmerzen, indem er dafür sorgt, dass es im Dorf keine Lebenden mehr gibt, die darunter leiden könnten. Ich fürchte um das Leben seiner eigenen Ehefrau, Ygrid, denn dieser Mann kennt keine Gnade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Stürze ihn von den Wällen oder hau ihm den Kopf von den Schultern. Es ist mir gleichgültig. Sobald sein Thron leer ist, wird Goldtal die Führung bekommen, die es verdient hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Dann rühme ich deine Tapferkeit und danke dir für deine Unterstützung. Ohne gebührende Warnung aber würde ich dich nicht losschicken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Nedmar kann dir helfen, Raedric zu erreichen, aber er lebt im oberen Teil von Raedrics Festung, die von Wächtern und Söldnern beschützt wird. Wenn du ihn erreichen willst, ohne die gesamte Festung zu alarmieren, wirst du dich an die Schatten halten müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ein Frontalangriff wäre nicht sehr klug. Wenn du kühn genug bist, könntest du unserem Weg folgen und den Eingang zum Abwasserkanal suchen, der am östlichen Rand des Burggrabens liegt." Er schaut weg. "Mehrere meiner Männer wurden aber dabei geschnappt, daher könnte es gut sein, dass der Eingang gefunden und neu versiegelt wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Diese Männer standen unter meinem Befehl. Wenn du ihnen irgendwie helfen könntest, würde ich in deiner Schuld stehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Raedrics Festung ist voller Soldaten und Söldner, die alle Raedric Gefolgschaft geschworen haben. Mit Eindringlingen werden sie nicht zimperlich umgehen. Ehrlich gesagt werden sie aufgrund unserer gescheiterten Bemühungen jetzt noch wachsamer sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Suche meinen alten Freund Nedmar auf, sobald du es ins Innere geschafft hast. Er ist der Hohepriester - von Berath, nachdem der Strahlende Gott gefallen ist. Ein guter Mann in einer schwierigen Lage. Er wird mit sich reden lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Nun gut. Ich ziehe los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vielen Dank für den Rat. Ich werde ihn gut zu verwenden wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ich werde meinen eigenen Weg finden. Macht mehr Spaß so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Unnötigerweise Ressourcen zu verschwenden, macht keinen Sinn. Ich werde an deinen Rat denken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ich verstehe es als Segen der Götter, dass ich jemanden gefunden habe, der die Bedeutung von Ehre und Pflicht kennt. Möge Magran dir den Sieg bringen, Freund. Ich wünsche dir Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Kolsc mustert dich einen Augenblick lang. "So sei es. Aber vergiss nicht, wer hier wirklich der Feind ist. Mögen dich die Götter leiten, Fremder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Gesprochen wie ein wahrer Taktiker. Halte all deine Sinne beisammen, dann wirst du sicherlich den Sieg davontragen. Ich warte auf die Nachricht von deinem Erfolg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ich habe mit Raedric gesprochen. Er hatte einige interessante Dinge über dich zu erzählen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Was auch immer er dir erzählt hat - Raedrics Verbrechen sind real. Er wird mit der Ermordung seines eigenen Volks fortfahren. Seiner Familie." Kolscs Lippen kräuseln sich. "Und das soll fürstliches Benehmen sein? Nicht mal die Ehre eines verrückten Hundes hat er im Leib!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Angreifen] "Du bist hier der Ehrlose. Du hast mich dazu benutzt, Raedrics Thron zu rauben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Ich werde deine Worte in Betracht ziehen. Vielleicht war ich zu übereilig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Dann mögen dir die Götter den Sieg bringen, Freund. Ich wünsche dir Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Aha." Kolsc runzelt die Stirn. "Naja, vielleicht wirst du deine Meinung ändern, nachdem dir klar geworden ist, dass Raedrics Exzesse auch vor dir nicht Halt machen werden, wenn du das Ausmaß seiner Verbrechen erkennst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ich muss meine Verbündeten sammeln. Die Festung liegt im Osten. Im Falle des freudigen Ereignisses, dass du deine Meinung änderst, werden mir meine Informanten dort darüber berichten." Er verbeugt sich abermals. "Vielleicht werden wir uns wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Kommt, Männer - räumt diese Leichen aus dem Saal." Mit diesen Worten schreitet Kolsc begierig auf den Thron zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Vergib mir, Freund - es gibt viel zu tun. Dennoch werden wir nicht vergessen, was du für uns getan hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Er scheint sich beim Gehen auf sein linkes Bein zu stützen, und unterhalb des Knies findet sich auf dem Stoff seiner Hose ein dunkler Fleck. Trotzdem begrüßt er dich mit einer höflichen Verbeugung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Anscheinend hast du der guten Aufra einen großen Dienst erwiesen." Der Mann nickt in Richtung des nahen Hauses. "Obwohl Anslogs Kompass ein gefährlicher Ort ist, warst du bereit, dorthin zu gehen, um ihr zu helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"So wie ich es sehe, wird uns der Anblick von Mistgabeln und Fackeln vor unserer Mühle erspart bleiben?" Der Mann grinst schief. "Gute Arbeit bei der Beilegung dieser Fehde. Trumbel wird jetzt sicherlich besser schlafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ich könnte mir vorstellen, dass Tuatanu wegen der Rückgabe seiner Vorräte sehr dankbar war. Er ist ein guter Schmied, und ein guter Mann noch dazu. Wohl einem grausamen Herrn verpflichtet, aber er ist ein guter Mann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"In diesen dunklen Zeiten braucht Goldtal solchen Mut und unerschrockene Herzen, die bereit sind, das Notwendige zur Rettung dieser Leute zu tun." Er wendet sich ab, um über das Dorf zu schauen. "Kann ich dich zu dieser Art von Leuten hinzuzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Goldtal ist voll mit solchen Leuten. Leuten, die Besseres verdient haben, als dabei zusehen zu müssen, wie ihre Heimat in einen Strudel aus Angst und Wahnsinn hineingezogen wird." Er wendet sich ab, um über das Dorf zu schauen. "Ich beabsichtige, sie zu retten, und ich möchte dich dabei um deine Hilfe bitte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Heutzutage hat Goldtal schon viel zu viele Konflikte erlebt. Zu viele Leben gingen auf Geheiß von Angst und Hunger verloren. Sofern wir nicht zu seiner Rettung zusammenhalten, wird das Dorf nicht überleben. Bei dieser Aufgabe möchte ich dich um deine Hilfe bitten, Fremder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Mit welchem Recht würdest du einen Thayn des Dyrwalds entthronen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Lügen.] "Natürlich. Ich bin äußerst hilfsbereit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Du hast mich angelogen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Nein. Und das habe ich auch nicht vor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Weggehen.] "Noch nicht, aber ich komme wieder, wenn es getan ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Fürst Raedric hat mich gebeten, ihn einer Plage zu entledigen. Als Verbündeter ist er weitaus nützlicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Dann wirkte sie also überzeugend, diese letzte, verzweifelte Anstrengung eines Mannes, der das Ende seiner grausamen Jahre vor sich stehen sah? Vor dem Krieg des Heiligen huldigte seine gesamte Familie Eothas, jetzt aber strebt er danach, ihren irrgeleiteten Glauben durch Ablegung sämtlicher Gnade zu kompensieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Nun gut. Ich werde mit Raedrics Kopf zurückkehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Kolsc nickt mit erleichtertem Gesichtsausdruck. "Treib ihm eine Klinge durchs Herz, das wird genug sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Mehr könnte ich nicht von dir verlangen. Denk darüber nach. Sicherlich wirst du die richtige Entscheidung treffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Angreifen.] "Spar dir deine Worte. Ein zweites Mal wirst du mich nicht hereinlegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Das hängt ganz davon ab. Aus reiner Mildtätigkeit helfe ich niemandem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Aha." In seiner Stimme klingt etwas Enttäuschung mit. "Nun, wenn ich nicht an deinen Gerechtigkeitssinn appellieren kann, dann wird vielleicht dein ... Pragmatismus ausreichen, denn das, um das ich dich ersuche, würde uns alle wohlhabender machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ja, ich hätte dich benutzt - um uns alle zu retten. Anscheinend habe ich eine schlechte Wahl getroffen." Er zieht sein Schwert aus der Scheide. "So sei es. Bitte entschuldige, Freund. Wir werden die Rettung von Goldtal ohne dich bewerkstelligen müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"So sei es. Es tut mir leid, Freund, dass ich dich nicht überzeugen konnte. Ich werde dafür sorgen, dass du ein angemessenes Begräbnis erhältst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Kolsc runzelt die Stirn und geht vorsichtig einen Schritt nach hinten. "Was meinst du damit? Hast du deine Überzeugung eingebüßt? Ich versichere dir, einer nobleren Sache wie dieser kannst du gar nicht dienen. Es fällt uns zu, das Land von den Tyrannen zu befreien, denn aus eigenem Antrieb werden sie nicht verschwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Ja? Gibt es noch etwas anderes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Dich angelogen? Wie habe ich dich getäuscht?" Bevor ihm die Erkenntnis kommt, beobachtet dich Kolsc einen Moment. "Ah. Raedric hat dir den Kopf mit Gift gefüllt. Er ist kein Narr, und eine Gelegenheit, meine Verbündeten gegen mich zu richten, würde er sich gewiss auch nicht entgehen lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Kolsc Gesichtsausdruck wird kalt. "Ich verstehe. Ich bedauere es, dass ich dich nicht überzeugen konnte. Ich hatte gehofft, dass die vergiftete Zunge dieser Schlange keinen weiteren Narren mehr fordern würde - aber ich hatte Unrecht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ich weiß nicht, warum du auf dieser Straße unterwegs bist, Freund, aber ich sollte dich davor warnen." Er gestikuliert mit einer ausladenden Armbewegung den Weg hinauf. "Die Burg in der Ferne gehört nämlich dem Tyrannen, der sich selbst Fürst von Goldtal nennt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Wie viele andere Tyrannen hat er sich aus Angst vor Vergeltung mit stärkeren Männern und Frauen umgeben." Der Mann lächelt dünn. "Wir alle sollten die Unterstützung eines tapferen Zeitgenossen wie dir begrüßen, aber ich glaube immer noch, dass du es dir mit einigen Verbündeten leichter machen würdest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Wie viele andere Tyrannen hat er sich aus Angst vor Vergeltung mit stärkeren Männern und Frauen umgeben." Der Mann lächelt dünn. "Und hiermit bist du also gewarnt. Solltest du trotzdem weitergehen wollen, so frage ich mich, ob wir nicht einander helfen könnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Wer ist dieser Tyrann, von dem du da sprichst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Vielen Dank für die Warnung. Vielleicht werde ich später zurückkehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Ich kann mit jeder Gefahr alleine umgehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Ich hoffe, dass du das wirst." Der Gesichtsausdruck des Mannes wird düster. "Denn wir benötigen sehr dringend Hilfe. Du könntest dich mit Pasca im Schwarzen Hund unterhalten. Sie kann dich mit zuverlässigen Leuten in Kontakt bringen. Und sollte sich deine Lage verbessern, so höre meine dringliche Bitte - Fürst Raedric muss aufgehalten werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Dann wird es dir vielleicht besser ergehen als uns." Der Gesichtsausdruck des Mannes wird düster. "Hör gut zu - wir haben nicht viel Zeit, und wenn du dein Leben sowieso gern für deine Neugier aufs Spiel setzt, vielleicht würdest du dasselbe auch für eine noblere Sache tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Egal was deine Gründe sind, ich kann dir versprechen, dass deine Hilfe nicht unbelohnt bleiben wird, denn Fürst Raedric hat die Beute einer langen Herrschaft angehäuft. Beende sie, dann soll es nicht zu deinem Schaden sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Zu lange hat Goldtal unter Readrics Wahnsinn gelitten. Er würde Waidwens Vermächtnis dadurch ausmerzen, indem er dafür sorgt, dass es im Dorf keine Lebenden mehr gibt, die darunter leiden könnten. Ich fürchte um das Leben seiner eigenen Ehefrau, Ygrid, denn dieser Mann kennt keine Gnade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Ich würde ihm ja gerne selbst entgegentreten und ihm eine Klinge durch sein verrottetes Herz treiben, aber unsere letzten Versuche waren sehr verlustreich, und Fürst Raedric hat Verstärkung angefordert. Uns läuft die Zeit davon, und in solchen Situation muss ich überall, wo ich kann, um Hilfe flehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Ich werde nun gehen, um meine Verbündeten zu sammeln. Trotze der Burg, wenn du es wagst. Wenn du Raedric ins Grab stürzt, wird dich Goldtal als seinen Retter feiern." Der Mann verbeugt sich abermals. "Mögen die Götter deinen Schwertarm führen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Wir sind nicht untätig gewesen. Mit der Absicht, Raedrics Herrschaft mit eigenen Händen zu beenden, durchbrachen meine Leute und ich die Verteidigungsstellungen. Im Schutze der Dunkelheit drangen wir durch die Abwasserkanäle ein, aber wir wurden vernichtend geschlagen." Sein Gesicht verdunkelt sich. "Dort unten im Kerker gibt es ... finstere Kreaturen, das Werk von Raedrics Beseelerin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Das obliegt deiner Verantwortung. Raedric hat zusätzliche Verstärkung angefordert, und schon bald wird er unaufhaltsam sein. Uns läuft die Zeit davon, und in dieser Stunde muss ich überall, wo ich kann, um Hilfe flehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Er schaut auf seine Wunde hinab. "Aber es ist nicht das Bein, das mich schmerzt. Raedrics Verteidigungsstellungen haben uns zu viele Männer gekostet. Das ist auch der Grund, weshalb ich dich jetzt um Unterstützung bitte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Er wird sich meiner nicht so einfach entledigen können. Und wenn ich mit ganz Goldtal im Rücken auf die Festung marschieren muss - ich werde dafür sorgen, dass er für seine Taten bezahlen muss. Du bist lediglich der erste seiner Verbündeten, der fällt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Bitte - Fürst Raedric wird nicht aufhören. Er wird mit der Ermordung seines eigenen Volks fortfahren. Seine eigene Familie hat er bereits ermordet." Kolscs Lippen kräuseln sich. "Und das soll fürstliches Benehmen sein? Ein ehrloser Hund ist er!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Angreifen.] "Ich habe meine Wahl getroffen. Verteidige dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>[Angreifen.] "Fürst Raedric bestellt seine Grüße."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>[Weggehen.] "Ich gehe dann besser mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Kolsc zieht seine Klinge aus der Scheide. "Kameraden, zu den Waffen! Unter uns befindet sich ein Verräter!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Vielleicht laufen die Dinge im Ausland anders, Fremder, aber hier im Dyrwald beugen wir uns nicht vor selbsternannten Fürsten - und die grausamen Launen von Adligen, die ihre Titel nicht verdient haben, die dulden wir auch nicht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Fürst Raedric hat bewiesen, dass er des gerechten Herrschens unfähig ist. Damit hat er sein Schicksal selbst bestimmt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Raedric." Er dreht seinen Kopf, um auf den Boden zu spucken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Er ist Raedric VII., ein Abkömmling des großen aedyranischen Hauses, das sich während der Revolution mit dem Dyrwald verbündet hat. Seit dieser Zeit sind die Raedrics die Verwalter von Goldtal gewesen. Früher waren sie ihrer Verantwortung würdig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Damit ist jetzt aber Schluss, denn das Haus Raedric wird von einem Schinder angeführt, einem Mann, der denkt, er könne Waidwens Vermächtnis mit Gewalt und Feuer von diesen Landen tilgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Du hast den Baum mitten in Goldtal selbst gesehen. Er steht dort, seit das erste Haus gebaut wurden, und nun ist er ein Zeichen für Raedrics Grausamkeit. Jede Woche baumeln mehr Körper dort." Er schüttelt seinen Kopf. "Wir müssen dem ein Ende setzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Es ist getan. Der Tyrann ist nicht mehr, und unserem Dorf steht eine bessere Zukunft offen. Goldtal steht tief in deiner Schuld. Auch ich schulde dir viel - du hast geschafft, was ich nicht konnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Nimm dir was du willst aus Raedrics Schatzkammern. Diese Beute hast du dir mehr als nur verdient." Kolsc sieht sich lächelnd im Thronsaal um. "Es gibt viel zu tun. Natürlich müssen wir umgehend den Graf benachrichtigen, und ihn um die Aufhebung der grausamen Gesetze bitten, die Raedric eingeführt hat ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Glaube aber nicht, dass wir deine Unterstützung jemals vergessen werden. Du hast eine große Veränderung bewirkt. Sei stolz darauf - jedermann wird sich an diesen Augenblick erinnern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Nur ein Mann, der dazu entschlossen ist, Goldtal seinen früheren Glanz wiederzugeben. Es gab eine Zeit, Fremder, in der Goldtal seinem Namen alle Ehre machte. Die Feldfrüchte glänzten wie Gold, und die Dörfler führten ein gutes Leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Und was ist jetzt daraus geworden? Was auch immer die Fäule über unsere Lande gezogen hat, ihre Bewohner sind gewiss nicht daran schuld. Raedric bestraft uns für Verbrechen, die wir nicht begangen haben, und im Gegenzug sieht er seine eigenen nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Bin ich nicht, und er wird für seine Taten bezahlen. Das schwöre ich bei der Flamme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Nur ein Mann, der dazu entschlossen ist, Goldtal seinen früheren Glanz wiederzugeben. Es gab eine Zeit, Fremder, in der Goldtal seinem Namen alle Ehre machte. Die Feldfrüchte glänzten wie Gold, und die Dörfler führten ein gutes Leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Und was ist jetzt daraus geworden? Was auch immer die Fäule über unsere Lande gezogen hat, ihre Bewohner sind gewiss nicht daran schuld. Raedric bestraft uns für Verbrechen, die wir nicht begangen haben, und im Gegenzug sieht er seine eigenen nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Bin ich nicht, und er wird für seine Taten bezahlen. Das schwöre ich, Kolsc, bei der Flamme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Vielleicht könntest du mit mir kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Ich wünschte sehr, dass ich das könnte, aber ich würde dich nur zusätzlich behindern. Bevor er fiel, trieb mir einer von Raedrics Speichelleckern einen Dolch ins Bein. Möge er im nächsten Leben nicht halb so viel Glück haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Vielleicht könntest du mit mir kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Ich wünschte sehr, dass ich das könnte, aber ich würde dich nur zusätzlich behindern. Bevor er fiel, trieb mir einer von Raedrics Speichelleckern einen Dolch ins Bein. Möge er im nächsten Leben nicht halb so viel Glück haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Er schaut auf seine Wunde hinab. "Aber es ist nicht das Bein, das mich schmerzt. Raedrics Verteidigungsstellungen haben uns zu viele Männer gekostet. Das ist auch der Grund, weshalb ich dich jetzt um Unterstützung bitte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Von goldenen Feldfrüchten weiß ich nichts, aber es gab dort jedenfalls weniger Fliegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Von goldenen Feldfrüchten weiß ich nichts, aber es gab dort jedenfalls weniger Fliegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Wenn das hier vorbei ist, wird er uns mehr schulden als nur ein paar schuttbedeckte Flecken Land ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Fürst Raedric ist eindeutig verrückt, aber ich glaube nicht, dass die Ducs meine Beteiligung an einem dyrwäldlerischen Putsch schätzen würden ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Aus dieser Krise entspringt so viel Wahnsinn ... dass ein Mann seine eigene Ehefrau ermorden kann ... und keine Liebe für seine eigenen, hilflosen Kinder empfindet ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Von goldenen Feldfrüchten weiß ich nichts, aber es gab dort jedenfalls weniger Fliegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"So ist es in den Republiken auch gewesen. Heutzutage kaufen sich die Ducs die Anstifter, damit sie ihre Mistgabeln niederlegen. Üblicherweise funktioniert das auch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Göttern, die ihre Titel auch nicht verdient haben, erweisen wir dieselbe Höflichkeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Aloth kneift die Augen zusammen. "Und dieser Kerl meint wohl, dass er selbst einen besseren Fürst abgeben würde? Sowas höre ich nicht zum ersten Mal!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Durance gluckst und erstickt fast an seiner eigenen Verachtung. "'Strahlender Gott.' Er leuchtete niemals so hell wie als er von der Bombe verzehrt wurde."
+
+"Dieser Spitzname ist jetzt also veraltet, denn Asche strahlt nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Wächter, das ist ein löblicher Weg. Es gibt viele Lektionen zu lehren, und viele in der Burg bedürfen der Unterrichtung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Eine weise Wahl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Wäre nett, wenn er sich gleich noch ein paar Rebellen mehr und vielleicht noch ein Katapult für uns wünschen würde, wenn er schon dabei ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Ich hoffe, dass du das wirst. Ich habe von den Taten gehört, die du im Dienste unserer Lande vollbracht hast. Jemand wie dich brauchen wir dringend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Du könntest dich mit Pasca im Schwarzen Hund unterhalten. Sie kann dich mit zuverlässigen Leuten in Kontakt bringen. Und sollte sich deine Lage verbessern, so höre meine dringliche Bitte - Fürst Raedric muss aufgehalten werden. Wenn wir ihm nicht die Stirn bieten, wird es niemand tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Goldtal hat an dir einen großartigen Beschützer. Ihr höre die Leute oft deinen Namen sagen. Sei stolz darauf, mein Freund."</DefaultText>
+      <FemaleText>"Goldtal hat an dir einen großartigen Beschützer. Ihr höre die Leute oft deinen Namen sagen. Sei stolz darauf, meine Freundin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Egal, was du seitdem Schlechtes getan hast ... Ich weiß, dass du Großes vollbringen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Du bist ein aufrichtiger Mann - und bei meiner Ehre, ich werde dich gut behandeln. Wir stehen auf derselben Seite, mein Freund."</DefaultText>
+      <FemaleText>"Du bist eine aufrichtige Frau - und bei meiner Ehre, ich werde dich gut behandeln. Wir stehen auf derselben Seite, meine Freundin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Egal, welch harmloses Blendwerk ich bewirkt haben mag, ich tat es für einen guten Zweck." Kolsc zieht sein Schwert aus seiner Scheide. "Ich dachte, du würdest die Taktik wiedererkennen, mein Freund. Es tut mir leid, dass wir nicht einer Meinung sein konnten."</DefaultText>
+      <FemaleText>"Egal, welch harmloses Blendwerk ich bewirkt haben mag, ich tat es für einen guten Zweck." Kolsc zieht sein Schwert aus seiner Scheide. "Ich dachte, du würdest die Taktik wiedererkennen, meine Freundin. Es tut mir leid, dass wir nicht einer Meinung sein konnten."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Kolsc Gesichtsausdruck wird kalt. "Aha. Ich hatte gehofft, dass eine gerechte Sache selbst deinesgleichen motivieren würde - jetzt aber sehe ich, dass mein in dich gesetztes Vertrauen falsch war. Raedric hat sich schon immer auf jene verlassen, die bei Bedarf schnell die Seiten wechseln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Durance, das ist gar so, als würde dich jemand einen attraktiven Priester heißen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Ich muss meine Verbündeten sammeln. Die Burg liegt genau östlich von hier, jenseits des Esternwalds. Im Falle des freudigen Ereignisses, dass du deine Meinung änderst, werden mir meine Informanten dort darüber berichten." Er verbeugt sich abermals. "Vielleicht werden wir uns wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Gesprochen wie ein wahrer Taktiker. Halte all deine Sinne beisammen, dann wirst du sicherlich den Sieg davontragen. Du wirst Raedrics Burg im Osten finden, jenseits des Esternwalds. Ich warte auf die Nachricht von deinem Erfolg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Kolsc mustert dich einen Augenblick lang. "So sei es. Aber vergiss nicht, wer hier wirklich der Feind ist. Seine Burg liegt jenseits des Esternwalds. Mögen dich die Götter leiten, Fremder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Ich verstehe es als Segen der Götter, dass ich jemanden gefunden habe, der die Bedeutung von Ehre und Pflicht kennt. Raedrics Festung liegt jenseits des Esternwalds, nicht weit östlich von hier. Möge Magran dir den Sieg bringen, Freund. Ich wünsche dir Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Dann mögen dir die Götter den Sieg bringen, Freund. Du wirst Raedrics Burg im Osten finden, jenseits des Esternwalds. Ich wünsche dir Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

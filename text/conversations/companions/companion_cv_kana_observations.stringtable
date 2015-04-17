@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_kana_observations</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ein großer alter Leuchtturm ... Trotzdem, etwas Unheilvolles umgibt ihn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich hoffe, du erwartest nicht, hier drin den Bleiernen Schlüssel zu finden ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ah, verstehe. ... Warte! Du kannst das hier lesen? Ich - Kannst du das hier auch für mich ansehen? Oh, wenn ich nur meine Schriftrollen bei mir hätte! Warte einen Augenblick, ich habe bestimmt etwas in meinem Rucksack ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Die Briefe von Agmundr dem Weisen! [Player Name], normalerweise heiße ich Diebstahl nicht gut, aber ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Oh, du edles Wesen ... Ich werde mir eine Skizze von dir machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Sieh dir nur diesen Ort hier an ... Eine ganze Geheimgesellschaft, direkt unter der Stadt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Schau mal hier! Diese Reliefs ... Vielleicht kann ich eine Kopie anfertigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ein Leben unterwegs kann ich ja zu schätzen wissen. Aber von anderen Reisenden zu stehlen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"All diese Arbeit ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Was soll ich nur der Sagenakademie erzählen? Sie werden mich aus der Kammer hinauslachen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Hatte ich denn bei allem Unrecht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ein beeindruckende Statue! Was meinst du, wie alt sie ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ein schöner Anblick! Ach, wenn wir nur mehr Zeit am Meer verbringen könnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich kenne da ein paar Seemannslieder, weißt du? Wir könnten uns eine gute Zeit machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Wie schade - diese Dinge sollten doch irgendwo aufbewahrt werden! In der Bibliothek vielleicht, oder ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Nein, wirf die da nicht um! ... nur ein Scherz, nur ein Scherz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich verstehe nicht, warum die Glanfathaner darauf bestehen, Ausländer von diesen Ort zu vertreiben. Eigentlich sollte doch jedermann Zeugnis über die engwithanischen Errungenschaften ablegen können?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Diese Schiffe mögen ja größer sein, unsere aber sind die schnellsten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Wie schade, dass meine Schwester nicht hier ist. Mit Sprengstoffen kennt sie sich nämlich besser aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Dieser Baum da ist wirklich ein makaberer Anblick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Sieht so aus, als hätte hier eine Schlacht stattgefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Schau dir nur an, wie groß das hier ist ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Was ist das dort?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Die Sänger werden ihren Ohren nicht trauen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Hat anscheinend die Kerzenflamme gescheut, und nun bleiben ihre Gebete unbeantwortet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Diese Bäume sehen seltsam bedrohlich aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ich glaube, ich würde mich entsetzlich langweilen, säße ich für alle Ewigkeit in einem Gebäude fest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich habe mir ein paar Bücher aus deiner Bibliothek geholt. Ich hoffe, das macht dir nichts aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Hallo, [Player Name]! Willst du ein Weilchen ausruhen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Nur ein Wort, mein Freund, dann bin ich dir dicht auf den Fersen! Bis dahin aber werde ich deine Gastfreundschaft genießen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"[Player Name]! Willst du einen Krug mit mir trinken?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Wenn du mitmachst, stimme ich ein Trinklied an - was meinst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ich hoffe, deine Reise verläuft gut?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

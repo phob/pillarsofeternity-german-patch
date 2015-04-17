@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_eorn</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>62</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Nach einen Augenblick lächelt er jedoch schwach. "Hallo. Ich hätte hier unten keinen Besuch erwartet." Er blickt sich in dem dunklen Raum um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Was tust du hier unten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Hast du eine Frau namens Rowyna gesehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen.] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Eorn schneidet eine Grimasse. "Ich ... habe in letzter Zeit eine rechte Pechsträhne. Ich habe mein Zuhause verloren, deswegen ... bin ich nach hier unten gegangen. In den Katakomben stöbert niemand herum ... naja, außer dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Auch dein Leben kann man an weniger gefährlichen Orten leben. Du versteckst dich vor etwas ... oder vor jemandem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Eine traurige Geschichte. Aber nicht die ganze Geschichte, vermute ich. Was verbirgst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Dann bist du also Eorn. Die Schmelztiegelritter haben ein Kopfgeld auf dich ausgesetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Eorn seufzt tief. "Also gut. Es stimmt. Ich verstecke mich hier unten vor den Rittern. Aber es ist nicht, wie du denkst." Er senkt den Kopf. "Es war ein Unfall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Die Schmelztiegelritter interessiert nicht, was wirklich geschehen ist. Sie wollen mich einfach tot sehen. Ohne Fragen, ohne Umschweife. Bitte." Er seht dich flehentlich an. "Ich will einfach nur aus dieser Stadt verschwinden. Sobald ich Geld für die Reise habe, belästige ich niemanden mehr, das schwöre ich. Ich lebe ganz still und allein. Aber du darfst ... du darfst ihnen nicht sagen, dass ich hier bin. Bitte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Eorn schüttelt den Kopf. "Es tut mir leid, aber ich kenne niemanden, der so heißt. Ich weiß aber, dass ich nicht der Einzige hier unten bin. Ab und zu höre ich Stimmen von jenseits des Kanals. Es klingt, als würden sie von Nordwesten kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich suche einen sicheren Platz, um mich auszuruhen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Dein Geheimnis ist bei mir sicher, Eorn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Angreifen.] "Du musst für deine Taten bezahlen, die Gerechtigkeit verlangt es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Du kommst mit mir mit. Der Duc wird über dich urteilen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[300 KP geben] "Hier. Das dürfte reichen, damit du aus Trutzbucht kommst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Eorn atmet erleichtert aus. "Danke", sagt er aus tiefem Herzen. "Wirklich. Ich verschwinde bald hier, wenn es irgendwie geht. Ich muss nur ... das Geld dafür auftreiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Eorn blickt dich entschlossen an. Er schüttelt seinen Kopf. "Nein. Ich lasse nicht zu, dass sie ihre Version der Geschichte erzählen. Wenn du mich tot sehen willst, musst du mich selbst töten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Eorn nickt dir zum Gruß zu. "Kann ich sonst noch etwas für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Eorn fällt die Kinnlade herunter und seine Augen weiten sich. Nach wenigen Sekunden wendet er sich ab und runzelt die Stirn. "Ich hätte gedacht, dass sie es zumindest geheim halten wollen. Ich hätte nicht gedacht, dass sie ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Der Orlaner blickt weg, offensichtlich aufgewühlt. "Ich will mich nur irgendwie durchschlagen. Das ist alles. Und wenn dir das nicht gefällt, es gibt noch jede Menge Katakomben, die du ganz für dich allein haben kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Antworte, solange du noch Zähne in deinem verlogenen Schandmaul hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ich gehe nicht weg, bis du die Wahrheit sagst!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Gut. Reden wir über etwas Anderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Und ich dachte, wir könnten es uns hier gemeinsam gemütlich machen und einander Geschichten erzählen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Eorn schreckt zurück, seine Augen weit geöffnet. Er hebt seine Hand zur Abwehr. "Schon gut! Das muss doch wirklich nicht sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Eorn öffnet den Mund, um etwas auszuspucken, die Hände zu Fäusten geballt ... aber er überlegt es sich anders. Er schüttelt resigniert den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Nun, du kannst gerne eine Weile hier bleiben. Ich werde ein wenig auf dich aufpassen, wenn du magst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Was kannst du mir über diese Katakomben sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Eorn lächelt schief. "Ehrlich gesagt habe ich sie noch nicht gründlich erforscht. Diese kleine Ecke hier habe ich durch Zufall gefunden. Aber lass mich nachdenken ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Warum bist du noch einmal hier unten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Eorn, wir müssen über deine Vergangenheit sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Dieser kleine Orlaner hat einige Kisten und Stofffetzen zusammengesucht und sich daraus eine notdürftige Unterkunft gebaut. Das dicke Fell auf seinen Gliedern ist verfilzt, seine Kleider schmutzig und löchrig. Er erschrickt, als du eintrittst, seine Augen weit vor Angst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Du bist dann wohl Eorn, ja? Die Schmelztiegelritter haben ein ordentliches Kopfgeld auf dich ausgesetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Eorn blickt dich einen Augenblick an, dann prustet er kurz. "Du hast gewiss viele Geschichten zu erzählen ... bessere Geschichten als ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Es war schwer für mich hier in Trutzbucht. Ich dachte, wenn ich mich in die Stadtpolitik involviere, wenn ich die richtigen Freunde habe, dann würde es leichter werden. Und das wurde es auch. Ich habe mir einen Namen gemacht, ein Leben aufgebaut. Die Leute hören tatsächlich auf mich, wenn ich etwas sage. ... Naja. *Haben* gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Bei solchen Dingen ist oft viel Leidenschaft dabei. Wir haben über ... Lieferverträge gesprochen, glaube ich. Sich über so etwas zu streiten! Aber an diesem Abend wurde dieser Mann ... sehr wütend. Ich glaube, er hatte im Gasthaus ein wenig zu viel getrunken." Eorn hält inne. "Und ich glaube, es hat ihm nicht gefallen, dass ein Orlaner ihm Widerworte gibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Eorn blickt sich in der schäbigen Kammer um und nickt langsam und betrübt. "Ja, das ist wohl deutlich zu sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Magran steh mir bei", sagt Eorn. "So sei es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Eorns Gesicht verdüstert sich. "Ja? Ich habe dir gesagt, was geschehen ist ... Ich bitte dich nur, es niemandem zu erzählen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Nun, der Kanal dort - das ist Grogans Kanal. Grogan war der Zwerg, der das alles hier geplant hat. Er zieht sich durch ganz Ondras Geschenk und läuft dort ins Meer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ansonsten gibt es hier vor allem Knochen. Es gibt das Armenfeld, für Leute, die sich nichts Besseres leisten konnten. Aber das ist heute alles überflutet. Die reicheren Leute, die haben hier unten ihre eigenen Ruhestätten. Wo es trockener ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Die Ducs des Dyrwalds liegen auch hier unten. Wenn du ihnen den letzten Respekt erweisen willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Eorn blickt dich ungläubig an. "Ich ... Aber das ist ... Ich kann unmöglich ..." Sein Gesicht verzerrt sich, während er nach Worten ringt. "Damit würde ich aus der Stadt kommen und weit weg ... das ist meine Rettung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ich werde dir niemals genug danken können. Aber hier, nimm das. Ich hoffe, es ist dir auf deiner Reise eine Hilfe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Mein ewiger Dank ist dir sicher. Ich ... ich sollte aufbrechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Danke noch einmal. Dyrfurt ist zwar sehr ruhig, aber langsam gefällt mir das richtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ich habe ihn geschlagen. Er ist auf mich zugestürzt, ich habe ihn geschlagen und er ist umgefallen wie ein Baum. Er muss sich wohl den Kopf angehauen haben." Eorn senkt den Blick und zuckt hilflos mit den Schultern. "Wie sich zeigte, war er ein Ritter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ah, du bist es! Ich danke dir. Du hast mir ein neues Leben geschenkt, und ich werde es nutzen. Ich habe jedem hier erzählt, wie du mir geholfen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Gefangen nehmen] "Ich übergebe dich nicht den Rittern. Aber ich kann dich nicht einfach laufen lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Eorn senkt den Kopf. "Ich hatte gehofft, jetzt schon längst aus der Stadt zu sein. Aber ich kann wohl nicht vor dem davonlaufen, was ich getan habe. Zumindest lässt du mich am Leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Hier ist es gar nicht so übel, im Vergleich zu den Katakomben. Viel weniger Trolle, beispielsweise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"O-oh, du bist es. Ich habe von dir gehört, glaube ich. Zumindest passt die Beschreibung." Der Orlaner hustet. "Tut mir leid. Ich hatte nicht damit gerechnet, hier unten noch jemanden zu sehen. Aber du scheinst ja überall gleichzeitig zu sein, was man so hört." Er grinst schwach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Eorn blickt dich ungläubig an. "Aber ... aber das ist ..." Sein Gesicht verzerrt sich, während er nach Worten ringt. "Ich hatte gehört, dass du eine gütige Seele bist, aber ich hätte nie gedacht, dass ... damit komme ich aus der Stadt und weit weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Eorn atmet erleichtert aus. "Danke sehr. Wirklich. Ich weiß, dass du ehrenwert und ehrlich bist. Ich wünschte nur, die Ritter würden dich anhören. Ich würde gerne einfach ... alles erklären."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Die Schmelztiegelritter haben ein ordentliches Kopfgeld auf dich ausgesetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Diese Belohnung ist mehr wert als dein erbärmliches Leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Wenn du es mir sagst, kann ich dir vielleicht helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Du bist ein schlechter Lügner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Wirklich? Ich würde sagen, in die Katakomben geht man, wenn man verschwinden will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Sprechen wir über etwas Anderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Eorn hatte die Luft angehalten, atmet jetzt aber aus. "Ja, tun wir das."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

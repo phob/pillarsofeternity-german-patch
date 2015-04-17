@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_cv_falanroed</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>99</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine Frau in glänzender Kettenrüstung bewacht den Schrein, den Kopf nach unten geneigt - gedankenverloren oder zum Gebet. Die Schließe ihres Umhangs ist mit dem Kopf eines Hundes verziert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sie blickt auf, als du dich näherst. Ihre ernste Miene weicht einem schiefen Grinsen. "Sei gegrüßt, Fremder. Wir sehen hier in letzter Zeit nicht viele Reisenden. Ein wahrer Jammer."</DefaultText>
+      <FemaleText>Sie blickt auf, als du dich näherst. Ihre ernste Miene weicht einem schiefen Grinsen. "Sei gegrüßt, Fremde. Wir sehen hier in letzter Zeit nicht viele Reisenden. Ein wahrer Jammer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hallo mal wieder! Ich hoffe, die Jagd ist erfolgreich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Dein nächster Hieb lässt die Drachentöterin in die Knie gehen. Sie blickt dich mit unverhohlener Verachtung an, die blutigen Zähne fest zusammengepresst. "Du ... du weißt nicht, was du tust."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Lass die Echse deine Leiche nehmen, wenn sie einen Körper begehrt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Das Amulett windet sich in deinem Rucksack, fast, als wäre es lebendig. Du spürst den drückenden Zwang, zu tun, was der Drache sagt - und es der Frau um den Hals zu legen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Was hat es mit der Versengten Klinge auf sich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Was tust du hier draußen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Kannst du mir beibringen, wie man Drachen bekämpft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich wünsche dir alles Glück für deinen Kampf gegen dieses Ungeheuer ... Ein Drache ist ein formidabler Feind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Überlege doch, was sie mit dieser Freiheit tun wird." Das Amulett würgt und windet sich und ein dicker Schleim scheint aus dem schweren Edelstein zu fließen, allein von dir bemerkt. Er bewegt sich auf Falanroeds Augen und Gesicht zu und du hörst ihren Zornesschrei, als sie zu spät den erneuten Angriff bemerkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Nein!" Sie versucht aufzustehen, fällt aber wieder zu Boden. "Du wirst bereuen-" Was sie auch sagen wollte, es wird von ihrem gepressten Schrei verschluckt. Ihre Glieder zucken, ihre Finger verkrampfen sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Du musst Falanroed sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du hast plötzlich den Eindruck, als würde ein schwaches, fahles Licht aus ihrem Körper aufsteigen - nur, um von einem plötzlichen, pulsierenden Leuchten zerstreut zu werden. Du spürst ein flüchtiges Gefühl der Verzweiflung ... und dann einen stärkeren, berauschenden Triumph.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Einen Augenblick lang ist alles still, dann ruht Falanroeds Blick wieder auf dir. Ihre Augen leuchten mit einem vertrauten, feurigen Gold. Sie blickt an sich hinab, mit oberflächlichem Interesse, und erhebt sich dann mit einer flüssigen Bewegung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Falanroed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Drache?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Wie fühlt es sich an?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Wir waren von Anfang an ein zusammengewürfelter Haufen. Zunächst beseitigten wir nur hin und wieder einen Lindwurmbefall, dann begannen wir, Jungdrachen zu jagen. Mitglieder kamen und gingen. Wir verdienten uns ein wenig Ruhm, nachdem wir halfen, einen ausgewachsenen Drachen zu besiegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Einige unserer Mitglieder schlossen sich den Hunden an, oder der Krallengesellschaft. Ich mache mir nichts daraus, alte Tempel zu plündern oder mich unter hochwohlgeborene Narren zu mischen, die glauben, sie seien Galawains Auserwählte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich bin zufrieden damit, unser Banner ganz allein hochzuhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Sie stößt ein gepresstes Geräusch aus, ein knurrendes Husten, und versucht es dann mit gerunzelter Stirn erneut: "Soll das ... auch mein Name sein? Besser, ihn zu behalten, denke ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Sie stößt ein gepresstes Geräusch aus, ein knurrendes Husten, und versucht es dann mit gerunzelter Stirn erneut: "Ja. Wer sonst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Sie stößt ein gepresstes Geräusch aus, ein knurrendes Husten, und versucht es dann mit gerunzelter Stirn erneut: "Ja ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ah, Wächter. Du kennst den Unterschied nicht. Ich habe all diese Dinge schon einmal gespürt, allerdings wie durch einen Nebel ... "</DefaultText>
+      <FemaleText>"Ah, Wächterin. Du kennst den Unterschied nicht. Ich habe all diese Dinge schon einmal gespürt, allerdings wie durch einen Nebel ... "</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Welch kleine Lungen dieser Körper hat. Wie schnell sein Herz schlägt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Sie wendet sich dir zu. "Du hast mich befreit. Nicht alltäglich, einen Drachen in seiner Schuld stehen zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ich habe gerne geholfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ich jage einen Mann namens Thaos. Kannst du mir helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ja, ich kenne ihn. Deinetwegen also hetzt er so durch den Dyrwald. Er wartet auf dich, im Hause der Wahnsinnigen, in der Stadt, die ihr Trutzbucht nennt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ein Name, der mit vielen Jahren verbunden ist. Ist er deine Beute? Ich weiß nicht, wo er wandelt, noch kann ich ihn für dich bekämpfen. Du würdest dich nur der Antworten berauben, die du suchst ... und an seiner Statt Maerwalds Angewohnheiten übernehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Es dürfte ein großes Spektakel abgeben ... Fast tut es mir Leid, dass ich es verpassen werde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ja, ich kenne ihn. Deinetwegen also hetzt er so durch den Dyrwald. Er wartet auf dich, an dem Ort, der Sonne im Schatten genannt wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Du musst der Hund zu seinem Hasen sein, oder du wirst dich auf Maerwalds Pfad wiederfinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Das verdient doch gewiss eine Belohnung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ich habe tausende von Geschichten gesammelt, in den vielen Jahren unter der Erde. Doch an die deine werde ich mich am freudigsten erinnern. Du wirst diesem Thaos mehr als nur ebenbürtig sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Zweitausend Jahre ... und nun bin ich frei. Ich weiß nicht, wohin ich zuerst gehen werde. Vielleicht in die Vailianischen Republiken? Oder in die Ebenen von Readceras. Ich möchte ... laufen, glaube ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Leb wohl, Wächter."</DefaultText>
+      <FemaleText>"Leb wohl, Wächterin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ja. Ich habe dir etwas Wertvolles versprochen. Ich kann deine Kämpfe nicht austragen - aber du wirst keine geringe Menge an Reichtümern in den Höhlen finden, wo du meine ursprüngliche Gestalt antrafst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ich habe dir etwas Wertvolles versprochen. Ich kann deine Kämpfe nicht austragen - aber du wirst keine geringe Menge an Reichtümern in den Höhlen finden, wo du meine ursprüngliche Gestalt antrafst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Wir waren glorreich, auf unsere Weise. Manchmal ein glorreiches Chaos. Doch es war nicht von Dauer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ich dachte nicht, dass mein Name allgemein bekannt wäre. Woher weißt du von mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Lügen.] "Ich bringe dir ein Geschenk - weil du meiner Familie mit dem Jungdrachen geholfen hast, vor einigen Jahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Das Amulett um ihren Hals werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Das ist eine lange Geschichte. Sagen wir einfach, es gibt einen Drachen, der dich tot sehen will. Sie wollte, dass ich dich finde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Kaum haben die Worte deine Lippen verlassen, zerspringt das Amulett, das du in den Händen hältst, mit einem lauten Krachen. Du spürst eine fremde, brechende Welle des Zorns über dich kommen - dann verschwindet das Gefühl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Falanroed betrachtet dich mit nüchternem Interesse. "Sie scheint nicht erfreut, dass du mir die Wahrheit gesagt hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Falanroed schreckt fast im selben Moment zurück, in dem du die Hand ausstreckst - doch du bist schneller. Die Kette fällt um ihre Hand und der schwere Edelstein zieht sie nach unten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Sie dreht den Adra-Edelstein in ihren Händen. "Das ist ... ein erstaunliches Geschenk. Ich fürchte, ich erinnere mich nicht an das, was geschehen ist, doch es freut mich, wenn ich helfen konnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Weggehen.] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Falanroed, von der Versengten Klinge. Möglicherweise die einzige Versengte Klinge, die es noch gibt. Wer weiß das schon? Ich verbringe inzwischen mehr Zeit damit, den Schrein zu pflegen, als Jungdrachen zu jagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Mit dem Vater der Monster einige Worte wechseln. Es ist meist eine recht einseitige Unterhaltung." Sie lächelt leicht. "Ich komme gelegentlich hierher. Ich versuche, den Schrein von Ästen und ähnlichem freizuhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Lässt sich hier in der Gegend gut jagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Man sollte es meinen. Es hängt wohl davon ab, was man jagt. Trolle und ihre Verwandten hausen hier in großen Scharen - sie leben von den wenigen Banditen, die in das Gebüsch stolpern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Bist du hier, um deinen Respekt zu erweisen? Den Suchergott zu bitten, deine Jagd zu segnen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ja. Ich verfolge eine gefährliche Beute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Dann gibt es keinen besseren Zeitpunkt. Ich lasse dich in Ruhe. Diese Dinge tut man am besten allein, wie ich finde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Nein. Ich war nie ein sonderlich guter Jäger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Es gibt viele verschiedene Arten der Jagd. Vielleicht bist du eher Gelehrter? Das Streben nach Wissen, so höre ich, ist ein würdiges Unternehmen - wenn auch nicht nach meinem Geschmack."</DefaultText>
+      <FemaleText>"Es gibt viele verschiedene Arten der Jagd. Vielleicht bist du eher Gelehrte? Das Streben nach Wissen, so höre ich, ist ein würdiges Unternehmen - wenn auch nicht nach meinem Geschmack."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ich bin nicht hinter Hirschen her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Drachenjäger." Sie lächelt zynisch. "Zumindest hielten wir uns dafür. Wir gaben uns die größte Mühe, dafür zu sorgen, dass unsere Beute dieses Stadium nie erreichte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Du wirst hier auch kaum welche finden. Die Banditen machen kurzen Prozess mit ihnen." Sie lächelt schwach. "In den entlegeneren Winkeln des Waldes kann man furchterregendere Beute finden. Die Schwarzauen sind nicht mehr, was sie einmal waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Sie blickt auf, als du dich näherst. Ihre ernste Miene weicht einem schiefen Grinsen. "Sei gegrüßt, Fremder. Ich muss schon sagen ... du bist sehr leichtfüßig. Ich habe dich kaum kommen hören."</DefaultText>
+      <FemaleText>Sie blickt auf, als du dich näherst. Ihre ernste Miene weicht einem schiefen Grinsen. "Sei gegrüßt, Fremde. Ich muss schon sagen ... du bist sehr leichtfüßig. Ich habe dich kaum kommen hören."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Sie mustert dich einen Augenblick lang stumm. "Vielleicht solltest du deine eigene Beute aber eher in den Städten suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Die meisten Hirsche aber sind weitergezogen, und die wirklich beeindruckenden Tiere sind bereits getötet worden. Vielleicht hast du im Südosten mehr Glück. Bei den Feuerfällen oder in Ulmenküste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Das Amulett windet sich plötzlich in deinem Rucksack, fast, als wäre es lebendig. Du spürst den drückenden Zwang, zu tun, was der Drache sagt - und legst es der Frau um den Hals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ich habe selbst einen Drachen besiegt. In Zwillingsulmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Beeindruckend! Keine leichte Tat, es mit einem der Alten aufzunehmen. Der Suchergott scheint dir wohlgesonnen zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ich fürchte, ich war nie eine gute Lehrerin. Das ist wohl ein Grund, warum unsere Zahl immer kleiner wurde. Wir rekrutierten keine neuen Mitglieder mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Aber ich kann dir einige Vorräte anbieten. Man sollte immer gut vorbereitet sein. Das ist der beste Rat, den ich bieten kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Kann ich sehen, was du anzubieten hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Ich brauche im Moment nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Sie nickt. "Also gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Natürlich. In Ordnung, mal sehen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Bank Node 82</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Zunächst war ich mir nicht sicher, doch ich muss zugeben ... nun, wo ich einen Drachenfreund habe, ist es nicht mehr so schlimm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Hoffentlich weißt du, was du tust ... dieser Drache trägt seinen gescheiterten Jäger jetzt als Haut ..."
+
+Hiravias lacht nervös und kaut auf seinem Daumennagel herum. "Diese Dinger sind gefährlich ... beten wir, dass er sich an unseren Gefallen erinnert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Hast du vielleicht noch mehr Vorräte zu verkaufen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ich fürchte, das Angebot ist immer noch dürftig. Es scheint, als hätten sowohl die Versengte Klinge als auch die Schwarzauen ihre besten Tage hinter sich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Wenn du nach gefährlicherer Beute jagen willst, solltest du mit den Glanfathanern in Zwillingsulmen sprechen. Sie haben dort größeren Respekt vor dem Suchergott."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Vielleicht hast du im Osten mehr Glück. Die Götter wissen, dass die Glanfathaner die Jagd lieben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Geplauder in den Tavernen. Kann ich dir einige Fragen stellen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ich dagegen ganz gewiss. Es muss verlockend gewesen sein - aber Drachen geben keine guten Verbündeten ab. Unsere Wege sind ihnen fremd und sie scheren sich nicht darum, Versprechen zu halten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ich fürchte, du hast dir einen mächtigen Feind gemacht ... einen Feind, den du aufsuchen solltest, ehe er zu dir kommt. Ich schulde dir Dank für das, was du getan hast - Dank und noch mehr. Ich lehre dich, was ich gelernt habe, als ich ihresgleichen bekämpft haben. So kannst du besser vorbereitet in die Schlacht gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Falanroeds Stirn legt sich in Falten, doch sie nickt. "Sicher. Was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"W-was? Was tust du da?" Sie blickt dich entgeistert an - bis etwas sie abzulenken scheint. Ihr Ausdruck wandelt sich, sie runzelt die Stirn und lauscht ... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Aus dem Amulett strahlt ein Licht, das pulsiert wie ein Stern. Falanroeds Gesicht verdüstert sich. Sie presst den Mund konzentriert zusammen. "Narr. Du willst dir ein Bündnis mit einem Ungeheuer erkaufen? Ich werde dir nicht als das nötige Geld dafür dienen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Ich beende dein kriecherisches Leben - und das deines Drachen!" Sie ergreift ihre Streitaxt und springt mit einem Schrei auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Sie hebt das Amulett und senkt es über ihren Kopf. "Ich hoffe, deiner Familie geht es gut und-", sie hält mit gerunzelter Stirn inne, als würde sie etwas ablenken. Ihr Ausdruck wandelt sich, sie runzelt die Stirn und lauscht ... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ich bin gekommen, um dich zu warnen. Es ist eine lange Geschichte, aber sagen wir einfach, es gibt einen Drachen, der dich tot sehen will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Aloths Gesicht ist bleich. Er sieht aus, als müsse er sich gleich übergeben. "Was für ein Schicksal. Hoffen wir, dass unser neuer Freund nun zufrieden ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Vielleicht nicht, doch du hast dennoch eine weise Entscheidung getroffen, [Player Name]. Dieser Drache wäre ein zu listiges Raubtier geworden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Ich weiß, es war richtig so. Und doch fing ich an, mich an die Vorstellung zu gewöhnen, einen Drachen als Freund zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Falanroed hat wohl Recht. Und es ist wohl besser, dass wir diese Kreatur nicht auf der Oberfläche freigelassen haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Ich suche nach dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Ach? Ich dachte nicht, dass sich noch irgendjemand an mich erinnert. Woher weißt du von mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

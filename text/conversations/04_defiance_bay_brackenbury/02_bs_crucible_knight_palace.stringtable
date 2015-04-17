@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\02_bs_crucible_knight_palace</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Der Hauptmann ist stinksauer. Die Hälfte der Wache hat letzte Nacht unerlaubt ihren Posten verlassen, um diesen Hofsänger zu sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hauptmann Wenfeld, mitten im Palast ermordet. Die hohen Tiere verdächtigen die Doemenels, doch niemand hat etwas gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"So viele Flüchtlinge kommen hierher, auf der Flucht vor dem Vermächtnis. Ihnen ist wohl nicht klar, dass es auch uns getroffen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Was auch immer dort draußen vor sich geht, der Palast ist jedenfalls ein Symbol für den Stolz der Einwohner auf Trutzbucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

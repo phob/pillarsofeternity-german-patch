@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\prototype_2\p2_cv_rumbald</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vor einem zerstörten Pferch läuft ein Mann wütend auf und ab. Sein verwittertes Gesicht ist verzerrt vor Zorn. Er wird so von seiner Wut eingenommen, dass er dich gar nicht zu bemerken scheint.
+
+"Bei Galawains geifernden Biestern! Verdammtes Drecks-Bildnis! Dreimal verdammte Salzschlampe mit ihren klitschigen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Was ist passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Dieses Monster hat mir meine Schweine gestohlen! Latscht doch einfach ins Dorf, reißt meinen Pferch ein und macht sich mit der ganzen verdammten Herde vom Acker! Ein paar kleine Ferkel hat er mir dagelassen. Na ganz toll, und was soll ich jetzt mit denen anfangen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wovon redest du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Was möchtest du jetzt unternehmen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Brauchst du sonst noch was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Beruhige dich und erzähl mir, was passiert ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Jetzt hab ich aber genug von deinem rüden Ton, Bauer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Er beißt sich auf die Unterlippe und schließt seine Augen. Seine Nasenflügel blähen sich mit jedem schnellen, wütenden Atemzug auf. "Meine Alte sagt mir immer, dass ich mein Temperament unter Kontrolle halten soll. Einfach tief einatmen und bis zehn zählen ... " Er seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Aufhören! Lass meine Schweine in Ruhe, hast du gehört?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Vor nicht allzu langer Zeit ist ein Oger in die Gegend gezogen. Die Leute haben ihn und seine Spuren ab und zu im Wald gesehen, aber er schien sich vom Dorf fernzuhalten. Zumindest dachten wir alle das, bis er sich meine Schweine geschnappt hat. Jetzt haben alle Angst, dass er Appetit auf Gestandene bekommt, sofern er den nicht schon hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Irgendeine Spur vom Oger ... oder von seinem Kopf?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich habe das Monster überzeugt, die Gegend zu verlassen. Du wirst ihn niemals wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Weggehen.] "Noch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Er ballt seine Hände zu zitternden Fäusten zusammen. Sein Gesicht rötet sich. "Aber ... das ist ... Sohn einer orlanischen Hure! Dieses Ding hat meine gesamte Herde verschlungen! Ich wollte ihn tot sehen, und ich wollte seinen Kopf auf einen Spieß stecken!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Du wirst kein Problem mehr mit dem Oger bekommen, und das ist alles, was zählt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Den Ogerkopf hochhalten.] "Hast du dir das so vorgestellt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Das ist ja ekelhaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Der Ogerkopf kommt genau da hin, wo er hingehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Immer noch keine Spur von diesem Oger. Anscheinend ist er wirklich abgezogen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Wirklich toll, dich wiederzusehen. Dank dir nimmt das Geschäft wieder Fahrt auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Er klatscht sich auf den Oberschenkel und johlt. "Verflixt noch eins! Das Ding ist ja noch hässlicher, als ich dachte! Und schau dir nur, wie groß er ist ... " Er schaut mit zusammengekniffenen Augen und offenem Mund in die toten Augen des Ogers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ich hab's dir ja gesagt! Lass mich und meine Schweine in Ruhe!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Wenigstens bist du noch in einem Stück. Das ist auch etwas, für das man dankbar sein sollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Aber diese Schweine sind meine Lebensgrundlage! Was soll ich denn jetzt machen? Ich-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Und ich habe jede Frau in Ondras Geschenk verführt und die Pocken nicht gekriegt." Er schüttelt seinen Kopf und hält eine verdreckte Hand hoch. "So gern ich auch glauben würde, dass dieses Monster tot ist ... ich will einen Beweis dafür sehen. Ich werde mich nicht einfach so vom alten Bleispucker trennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Ich habe den Oger getötet, ich habe bloß seinen Kopf nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Du solltest wirklich darauf achten, was du sagst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Pass auf, wohin du gehst, du elender Narr!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Das ist wahrscheinlich nicht der beste Weg, zu den Göttern zu beten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Bisher haben sie mir ja einen tollen Bärendienst erwiesen! Schau dir nur dieses Durcheinander an - mein Pferch ist ruiniert und bis auf ein paar magere Ferkel ist alles weg!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Warum? Werden mir schöne Worte denn den Rest meiner Schweine zurückbringen? Meinen Pferch ausbessern? Oder dieses Biest aus dem Dorf jagen? Na?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Er wirbelt mit aufgeblasenen, roten Backen zu dir herum. "Warum, ich werde-"
+
+Er holt tief Luft und atmet langsam aus. "Nicht dein Fehler. Bitte entschuldige. Mein Temperament geht wieder mit mir durch. Aber fast alle meiner Ferkel sind weg, mein Pferch ist zerstört ... " Die Röte steigt ihm wieder ins Gesicht. "Was soll ich denn jetzt machen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Deine Schweine sind längst fort. Du musst es hinter dir lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Hast du gesehen, wie der Oger deine Schweine raubte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Sag mir, wie ich dir helfen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Wer sonst hätte meinen Pferch zerstören und mit meiner Herde abhauen können? Und gleichzeitig sucht der Rest des Dorfes im Wald nach einem drei Meter großen Monster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Ich weiß, dass ich meine Schweine nicht mehr retten kann. Dieses Ding einen Kopf kürzer gemacht zu sehen, würde mich aber trotzdem beruhigen. Wenn du mir seine hässliche Birne bringst, werde ich sogar etwas dafür eintauschen, für das ein Bauer wie ich viel weniger Verwendung hat als so ein ... Krawallmacher wie du."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Was weißt du denn über den Oger?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ich schau mal, was sich machen lässt. Bis dann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Oh, er wird sich von anderen bestimmt nicht unterscheiden. Ein großer, hässlicher Hurensohn mit cholerischem Temperament und einem Hunger, der seinesgleichen sucht. Trygil könnte dir mehr über ihn erzählen. Er behauptet, ihn im Wald gesehen zu haben. Du kannst ihn in seinem Laden direkt neben dem eingestürzten Turm finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Dann hättest du dich selbst um das Problem kümmern sollen. Und jetzt hör auf zu schreien und rück mit den Münzen raus, sonst hast du gleich noch ein anderes Problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[400 KS geben] "Da, vielleicht entschädigt dich das für den Verlust deiner Schweine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Er atmet wieder lang und tief ein. "Du hast Recht. Hier, nimm das für deine Mühen. Ich sollte das Positive daran sehen: Der Oger ist weg und ich kann meine Herde wieder aufbauen." Er verschränkt die Arme und betrachtet seine Ferkel. "Die hier werden in sechs Monaten erwachsen und fortpflanzungsfähig sein. Andererseits ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Er hebt eins der Ferkel vom Boden hoch und untersucht es schnell. "Dieser Kümmerling sieht immer noch zu klein aus. Der wird mir wohl kaum gute Nachkommen zeugen, und den Rest meiner Herde mit ihm schwächen will ich genau so wenig. Warum nimmst du ihn nicht mit? Dann müsste ich ein Maul weniger stopfen."
+
+Das Ferkel trottet mit wackelnder rosa Schnauze zu dir hinüber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Genau wie meine Alte! Ich-" Er atmet wieder lang und tief ein. "Ich sollte das Positive daran sehen: Der Oger ist weg und ich kann meine Herde wieder aufbauen." Er verschränkt die Arme und betrachtet seine Ferkel. "Die hier werden in sechs Monaten erwachsen und fortpflanzungsfähig sein. Andererseits ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Sein Mund fällt auf. "Das ... das würdest du für mich tun? Ich weiß gar nicht, was ich sagen soll." Er schnippt mit den Fingern. "Warte hier,"
+
+Er eilt ins Haus und kommt mit einer Donnerbüchse in den Händen wieder heraus. "Ich nenne sie den Bleispucker. Sie gehörte meinem Vater und leistete mir im Krieg des Heiligen gute Dienste. Sie ist alt, aber robust ... und sie hat ordentlich Wumms. Für jemanden wie dich sollte sie in Zeiten wie diesen nützlicher sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Er verschränkt die Arme und betrachtet seine Ferkel. "So, und jetzt werde ich mich wieder daranmachen, meine Herde wieder aufzubauen. Wenn nicht ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Ungeachtet dem stinkenden Nieselregen von Blut, der seine Kleidung beschmutzt, nimmt er den Kopf in beide Arme. "Damit habe ich Großes vor. Warte hier."
+
+Er verschwindet im Haus und kommt mit einer Donnerbüchse in den Händen wieder heraus. "Ich nenne sie den Bleispucker. Sie gehörte meinem Vater und leistete mir im Krieg des Heiligen gute Dienste. Sie ist alt, aber robust ... und sie hat ordentlich Wumms. Für jemanden wie dich sollte sie in Zeiten wie diesen nützlicher sein." Er zieht einen Beutel aus seiner Tasche. "Oh, und sechshundert Kupferstücke für deine Mühen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Vielen Dank."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Behalte das Geld, du kannst es zum Wiederaufbau deiner Herde gebrauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Sein Gesicht wird wieder rot, dieses Mal aber aus Scham. "Das ist äußerst fürsorglich von dir. Bevor sich eins von diesen hier fortpflanzen kann, werden bestimmt noch sechs Monate vergehen." Er verschränkt die Arme und schaut seine Ferkel an. "Andererseits ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"So, genug jetzt vom Oger. Ich suche nach einer jungen elfischen Edelfrau namens Aelys."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Seine Hände ballen sich zu knorrigen Fäusten. "Wie oft muss ich mich denn noch wiederholen? Ich habe diesen herumspionierenden Wächtern doch schon gesagt, dass ich sie nicht gesehen habe, aber das hat sie nicht davon abgehalten, auf meinem Grund und Boden herumzuschnüffeln!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Hast du irgendeine Spur von Aelys Harond gesehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Oh, er wird sich von anderen bestimmt nicht unterscheiden. Ein großer, hässlicher Hurensohn mit cholerischem Temperament und einem Hunger, der seinesgleichen sucht. Trygil könnte dir mehr über ihn erzählen. Er behauptet, ihn im Wald gesehen zu haben. Du kannst ihn in seinem Laden direkt neben dem eingestürzten Turm finden."
+
+"Ich bin mir trotzdem sicher, dass das nichts ist, was ein ... kräftiger Kerl wie du nicht in den Griff bekäme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"So was gibt es doch nicht da, wo du herkommst, oder?"
+
+"Oh, er wird sich von anderen bestimmt nicht unterscheiden. Ein großer, hässlicher Hurensohn mit cholerischem Temperament und einem Hunger, der seinesgleichen sucht. Trygil könnte dir mehr über ihn erzählen. Er behauptet, ihn im Wald gesehen zu haben. Du kannst ihn in seinem Laden direkt neben dem eingestürzten Turm finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Oh, er wird sich von anderen bestimmt nicht unterscheiden. Ein großer, hässlicher Hurensohn mit cholerischem Temperament und einem Hunger, der seinesgleichen sucht. Trygil könnte dir mehr über ihn erzählen. Er behauptet, ihn im Wald gesehen zu haben. Du kannst ihn in seinem Laden direkt neben dem eingestürzten Turm finden."
+
+Er winkt mit einer Hand. "Im Vergleich zu den Biestern, die man oben in den Lebenden Landen zu Gesicht bekommt, muss er aber winzig sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Ich wurde geschickt, um eine Orlanerin namens Nyfre zu finden. Weißt du, wo sie ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Noch nie von ihr gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Er mustert dich. "Du bist recht fleißig, seit du hier bist. Vielleicht kannst du mir helfen."
+
+"Ich weiß, dass ich meine Schweine nicht mehr retten kann. Dieses Ding einen Kopf kürzer gemacht zu sehen, würde mich aber trotzdem beruhigen. Wenn du mir seine hässliche Birne bringst, werde ich sogar etwas dafür eintauschen, für das ein Bauer wie ich viel weniger Verwendung hat als so ein ... Krawallmacher wie du."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Er mustert dich. "Ich kannte im Krieg des Heiligen einige so zähe Burschen wie dich." 
+
+"Ich weiß, dass ich meine Schweine nicht mehr retten kann. Dieses Ding einen Kopf kürzer gemacht zu sehen, würde mich aber trotzdem beruhigen. Wenn du mir seine hässliche Birne bringst, werde ich sogar etwas dafür eintauschen, für das ein Bauer wie ich viel weniger Verwendung hat als so ein ... Krawallmacher wie du."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Er mustert dich. "Ich kannte im Krieg des Heiligen einige so zähe Burschen wie dich. Machst du es für Geld oder aus Spaß?"
+
+"Ich weiß, dass ich meine Schweine nicht mehr retten kann. Dieses Ding einen Kopf kürzer gemacht zu sehen, würde mich aber trotzdem beruhigen. Wenn du mir seine hässliche Birne bringst, werde ich sogar etwas dafür eintauschen, für das ein Bauer wie ich viel weniger Verwendung hat als so ein ... Krawallmacher wie du."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

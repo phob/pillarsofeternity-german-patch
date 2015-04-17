@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\prototype_2\p2_si_cliff</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>78</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Felswand ist verrußt und wie Kerzenwachs geschmolzen. Hoch droben ist eine kleine Felsnase, auf der sich ein grobes Nest zu befinden scheint. Diese Felswand wird nicht leicht zu erklettern sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Felswand erklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Einen Enterhaken zur Felsnase hochwerfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du siehst dir die Felswand nochmal etwas genauer an. Ganz oben gibt es eventuell nur Platz für eine Person.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du wirfst den Enterhaken über den Felsvorsprung und hältst das daran befestigte Seil mit einer Hand. Der Haken landet mit einem zufriedenstellend klingenden Geräusch und du sicherst das Seil mit einem kräftigen Ruck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Das Seil hochklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Slot 0] beginnt, die glatte Felswand zu erklettern. Da es aber nur wenige Möglichkeiten zum Festhalten gibt, geht es schon bald nur noch langsam voran. Nachdem ein verpasster Schritt fast zum Unglück führte, muss [Slot 0] wieder zum Fuß der Felswand zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Slot 0] klettert unter Ausnutzung der Spalten und Sporne im Fels die Felswand langsam hinauf und erreicht schließlich das Nest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Slot 2] klettert unter Ausnutzung der Spalten und Sporne im Fels die Felswand langsam hinauf und erreicht schließlich das Nest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Mit Hilfe des Seils lässt sich die Felswand schnell erklettern. [Slot 2] klettert mit Leichtigkeit zum Nest in der Felswand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Slot 1] beginnt, die glatte Felswand zu erklettern. Da es aber nur wenige Möglichkeiten zum Festhalten gibt, geht es schon bald nur noch langsam voran. Nachdem ein verpasster Schritt fast zum Unglück führte, muss [Slot 1] wieder zum Fuß der Felswand zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Mit Hilfe des Seils lässt sich die Felswand schnell erklettern. [Slot 1] klettert mit Leichtigkeit zum Nest in der Felswand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Slot 1] klettert unter Ausnutzung der Spalten und Sporne im Fels die Felswand langsam hinauf und erreicht schließlich das Nest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Mit Hilfe des Seils lässt sich die Felswand schnell erklettern. [Slot 0] klettert mit Leichtigkeit zum Nest in der Felswand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Zurück am Fuß der Felswand ragen die geschmolzen Felsen und der verrußte Felsvorsprung drohend auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Das Nest ist von glühender Asche umgeben, und überall sind Zweige und Knochen verstreut. Mitten in den Trümmern liegt ein Ei von der Größe eines kleinen Fasses. Es sieht schwer und unhandlich aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Wieder hinunterklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[[Slot 4] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Das Ei mit einem Seil sichern und die Felswand hinunterlassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[[Slot 0] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Slot 5] klettert unter Ausnutzung der Spalten und Sporne im Fels die Felswand langsam hinauf und erreicht schließlich das Nest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Der Abstieg von der Felswand ist genau so schwierig wie der Aufstieg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Slot 4] klettert unter Ausnutzung der Spalten und Sporne im Fels die Felswand langsam hinauf und erreicht schließlich das Nest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Das Ein nehmen und die Felswand hinunterklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Slot 5] schlingt ein Seil um das Ei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Slot 1] lässt das Ei mit langsamen, gleichmäßigen Bewegungen hinunter. Nachdem die Beute den Boden erreicht und sich auf die Erde gelegt hat, klettert [Slot 1] sicher die Felswand hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Slot 0] schlingt ein Seil um das Ei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Slot 0] nimmt das Ei unter einen Arm und klettert unter Zurschaustellung beeindruckender Zähigkeit und Geschicklichkeit sicher bis zum Boden hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Mit Hilfe des Seils lässt sich die Felswand schnell erklettern. [Slot 4] klettert mit Leichtigkeit zum Nest in der Felswand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[[Slot 1] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[[Slot 2] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Slot 4] beginnt, die glatte Felswand zu erklettern. Da es aber nur wenige Möglichkeiten zum Festhalten gibt, geht es schon bald nur noch langsam voran. Nachdem ein verpasster Schritt fast zum Unglück führte, muss [Slot 4] wieder zum Fuß der Felswand zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[[Slot 3] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Slot 1] schlingt ein Seil um das Ei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Slot 2] schlingt ein Seil um das Ei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Slot 3] schlingt ein Seil um das Ei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Slot 5] beginnt, die glatte Felswand zu erklettern. Da es aber nur wenige Möglichkeiten zum Festhalten gibt, geht es schon bald nur noch langsam voran. Nachdem ein verpasster Schritt fast zum Unglück führte, muss [Slot 5] wieder zum Fuß der Felswand zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Mit Hilfe des Seils lässt sich die Felswand schnell erklettern. [Slot 3] klettert mit Leichtigkeit zum Nest in der Felswand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Slot 3] klettert unter Ausnutzung der Spalten und Sporne im Fels die Felswand langsam hinauf und erreicht schließlich das Nest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Slot 4] schlingt ein Seil um das Ei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Slot 2] beginnt, die glatte Felswand zu erklettern. Da es aber nur wenige Möglichkeiten zum Festhalten gibt, geht es schon bald nur noch langsam voran. Nachdem ein verpasster Schritt fast zum Unglück führte, muss [Slot 2] wieder zum Fuß der Felswand zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Slot 0] lässt das Ei mit langsamen, gleichmäßigen Bewegungen hinunter. Nachdem die Beute den Boden erreicht und sich auf die Erde gelegt hat, klettert [Slot 0] sicher die Felswand hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Slot 3] beginnt, die glatte Felswand zu erklettern. Da es aber nur wenige Möglichkeiten zum Festhalten gibt, geht es schon bald nur noch langsam voran. Nachdem ein verpasster Schritt fast zum Unglück führte, muss [Slot 3] wieder zum Fuß der Felswand zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[[Slot 5] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Slot 0] nimmt das Ei unter einen Arm und klettert das Seil sicher hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Der Abstieg hat gerade erst begonnen, als [Slot 0] abrutscht. Das Ei entgleitet [Slot 0] und [Slot 0] selbst stürzt die Felswand hinunter. Beide stürzen ab, aber das Ei schlägt zuerst mit einem nassen Geräusch am Boden auf und platzt. [Slot 0] landet in kurzer Entfernung und steht langsam und stöhnend wieder auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Mit Hilfe des Seils lässt sich die Felswand schnell erklettern. [Slot 5] klettert mit Leichtigkeit zum Nest in der Felswand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Slot 2] lässt das Ei mit langsamen, gleichmäßigen Bewegungen hinunter. Nachdem die Beute den Boden erreicht und sich auf die Erde gelegt hat, klettert [Slot 2] sicher die Felswand hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Slot 3] lässt das Ei mit langsamen, gleichmäßigen Bewegungen hinunter. Nachdem die Beute den Boden erreicht und sich auf die Erde gelegt hat, klettert [Slot 3] sicher die Felswand hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Slot 4] lässt das Ei mit langsamen, gleichmäßigen Bewegungen hinunter. Nachdem die Beute den Boden erreicht und sich auf die Erde gelegt hat, klettert [Slot 4] sicher die Felswand hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Slot 5] lässt das Ei mit langsamen, gleichmäßigen Bewegungen hinunter. Nachdem die Beute den Boden erreicht und sich auf die Erde gelegt hat, klettert [Slot 5] sicher die Felswand hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Slot 1] nimmt das Ei unter einen Arm und klettert unter Zurschaustellung beeindruckender Zähigkeit und Geschicklichkeit sicher bis zum Boden hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Slot 1] nimmt das Ei unter einen Arm und klettert das Seil sicher hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Der Abstieg hat gerade erst begonnen, als [Slot 1] abrutscht. Das Ei entgleitet [Slot 1] und [Slot 1] selbst stürzt die Felswand hinunter. Beide stürzen ab, aber das Ei schlägt zuerst mit einem nassen Geräusch am Boden auf und platzt. [Slot 1] landet in kurzer Entfernung und steht langsam und stöhnend wieder auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Slot 2] nimmt das Ei unter einen Arm und klettert unter Zurschaustellung beeindruckender Zähigkeit und Geschicklichkeit sicher bis zum Boden hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Slot 2] nimmt das Ei unter einen Arm und klettert das Seil sicher hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Der Abstieg hat gerade erst begonnen, als [Slot 2] abrutscht. Das Ei entgleitet [Slot 2] und [Slot 2] selbst stürzt die Felswand hinunter. Beide stürzen ab, aber das Ei schlägt zuerst mit einem nassen Geräusch am Boden auf und platzt. [Slot 2] landet in kurzer Entfernung und steht langsam und stöhnend wieder auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Slot 3] nimmt das Ei unter einen Arm und klettert unter Zurschaustellung beeindruckender Zähigkeit und Geschicklichkeit sicher bis zum Boden hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Slot 3] nimmt das Ei unter einen Arm und klettert das Seil sicher hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Der Abstieg hat gerade erst begonnen, als [Slot 3] abrutscht. Das Ei entgleitet [Slot 3] und [Slot 3] selbst stürzt die Felswand hinunter. Beide stürzen ab, aber das Ei schlägt zuerst mit einem nassen Geräusch am Boden auf und platzt. [Slot 3] landet in kurzer Entfernung und steht langsam und stöhnend wieder auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Slot 4] nimmt das Ei unter einen Arm und klettert unter Zurschaustellung beeindruckender Zähigkeit und Geschicklichkeit sicher bis zum Boden hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Slot 4] nimmt das Ei unter einen Arm und klettert das Seil sicher hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Der Abstieg hat gerade erst begonnen, als [Slot 4] abrutscht. Das Ei entgleitet [Slot 4] und [Slot 4] selbst stürzt die Felswand hinunter. Beide stürzen ab, aber das Ei schlägt zuerst mit einem nassen Geräusch am Boden auf und platzt. [Slot 4] landet in kurzer Entfernung und steht langsam und stöhnend wieder auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Slot 5] nimmt das Ei unter einen Arm und klettert unter Zurschaustellung beeindruckender Zähigkeit und Geschicklichkeit sicher bis zum Boden hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Slot 5] nimmt das Ei unter einen Arm und klettert das Seil sicher hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Der Abstieg hat gerade erst begonnen, als [Slot 5] abrutscht. Das Ei entgleitet [Slot 5] und [Slot 5] selbst stürzt die Felswand hinunter. Beide stürzen ab, aber das Ei schlägt zuerst mit einem nassen Geräusch am Boden auf und platzt. [Slot 5] landet in kurzer Entfernung und steht langsam und stöhnend wieder auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Niemanden schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Du gehst einen Schritt zurück und überdenkst deinen Plan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Selbst hochklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Mit Hilfe des Seils lässt sich die Felswand schnell erklettern. Du kletterst mit Leichtigkeit zum Nest in der Felswand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Du kletterst unter Ausnutzung der Spalten und Sporne im Fels die Felswand langsam hinauf und erreichst schließlich das Nest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Du beginnst, die glatte Felswand zu erklettern. Da es aber nur wenige Möglichkeiten zum Festhalten gibt, geht es schon bald nur noch langsam voran. Nachdem ein verpasster Schritt fast zum Unglück führte, musst du wieder zum Fuß der Felswand zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Du schlingst ein Seil um das Ei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Du lässt das Ei mit langsamen, gleichmäßigen Bewegungen hinunter. Nachdem die Beute den Boden erreicht hat und auf der Erde liegt, kletterst du sicher die Felswand hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Du nimmst das Ei unter einen Arm und kletterst das Seil sicher hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Du nimmst das Ei unter einen Arm und kletterst unter Zurschaustellung beeindruckender Zähigkeit und Geschicklichkeit sicher bis zum Boden hinunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Der Abstieg hat gerade erst begonnen, als du abrutschst. Das Ei entgleitet dir und du stürzt die Felswand hinunter. Das Ei schlägt zuerst mit einem nassen Geräusch am Boden auf und platzt. Du landest in kurzer Entfernung und stehst langsam und stöhnend wieder auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

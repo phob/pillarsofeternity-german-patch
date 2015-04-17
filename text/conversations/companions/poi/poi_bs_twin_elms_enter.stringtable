@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\poi\poi_bs_twin_elms_enter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Zwillingsulmen. So weit nach Eir Glanfath hinein bin ich noch nie gereist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hier hausen die berühmten Jäger von Eir Glanfath?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Das ist also Zwillingsulmen. Heimat der sechs Stämme von Eir Glanfath. Wenn man den Leuten glauben kann, gibt es hier auch äußerst gutes Leder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Im Namen aller Glanfathaner: Willkommen in Zwillingsulmen. Benimm dich hier, sieh davon ab, dich beeinträchtigt in der Öffentlichkeit zu zeigen, und erwähne deine Schändungen engwithanischer Ruinen nicht ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Die Bäume könnten etwas mehr von Magrans Berührung vertragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Die Glanfathaner ... welch schöne Stadt sie in die Natur gewoben haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich war noch nie hier in der Gegend. Kaum zu glauben, dass es dasselbe Land ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

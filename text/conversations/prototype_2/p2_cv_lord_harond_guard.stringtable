@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\prototype_2\p2_cv_lord_harond_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Wächter hält Blickkontakt mit dem Boden. "Wenn du Informationen über Lady Aelys hast, solltest du mit Fürst Harond sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Er äugt dich misstrauisch an. "Gut, dass noch jemand nach Lady Aelys sucht. Je eher wir sie finden und hier verschwinden können, desto besser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Bin froh, dass wir endlich hier verschwinden können-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Er kratzt sich am Kopf. "Könnte viele Gründe haben. Die Einheimischen hier scheinen nicht zu begreifen, dass Hadrets Rebellion vor hundertfünfzig Jahren endete. Sie frohlockten über die Burg, die sie zerstörten, und bauten ihr Dorf darüber. Mit sowas würden sie mich nicht überraschen."
+
+Er zuckt mit den Achseln. "Wenn ich etwas Konkretes wüsste, hätten wir sie jetzt schon gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Was glaubst du, ist mit ihr passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Erzähl mir über Lady Aelys."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Du scheinst es eilig zu haben, aus Dyrfurt wegzukommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Wer nicht? Das ganze Dorf riecht nach nassem Leder und Schweinescheiße, und für jemand, der mehr als einmal pro Jahr badet, haben die Einheimischen nur Verachtung übrig."
+
+Er schüttelt seinen Kopf. "Sie würden keinen Finger rühren, um Lady Aelys zu finden, aber wenn wir uns nach ihr auf die Suche machen, werden sie angriffslustig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Er verlagert sein Gewicht. "Was gibt es da noch zu sagen? Sie ist ein liebreizendes Mädchen. Still. Bleibt für sich alleine. Jeder Vater wäre stolz auf sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Du scheinst sie aber nicht so gut zu kennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Meine Pflichten gelten hauptsächlich Fürst Harond."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Fürst Harond ruht im Obergeschoss."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

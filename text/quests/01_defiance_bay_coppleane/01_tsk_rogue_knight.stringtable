@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\01_defiance_bay_coppleane\01_tsk_rogue_knight</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Abtrünniger Ritter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde Osrics Brustharnisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu Osric zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Finde Penhelms eidesstattliche Versicherung auf Burg Schmelztiegel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Bringe Penhelms eidesstattliche Versicherung zu Kurren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Zeige die eidesstattliche Versicherung Kommandant Clyver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Kehre mit dem Brustharnisch zu Osric zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Berichte Osric, was geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Beschaffe den Brustharnisch von Penhelms Leiche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Nimm Penhelm den Brustharnisch gewaltsam ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Osric wurde von einem anderen Ritter namens Penhelm aus den Schmelztiegelrittern geworfen. Schlimmer noch, seine Vorgesetzten haben einen Brustharnisch behalten, der seit Generationen im Besitz seiner Familie war.
+
+Osric hat mich gebeten, einen Brustharnisch von Penhelm wiederzubeschaffen. Er glaubt, dass sein Rivale ein Dokument gefälscht hat, in dem die Dunrydstraße die Reinheit seiner Seele bestätigt. Wenn ich Penhelms Betrug beweisen kann, habe ich vielleicht ein Druckmittel, um den Brustharnisch zurückzubekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Osric, ein Ausbilder in der Expeditionshalle in Kupferweg, hat mir berichtet, dass sein Brustharnisch sich irgendwo auf Burg Schmelztiegel in Urfeuer befindet. Er hat auch erwähnt, dass Penhelm, der Waffenmeister, einer der Offiziere gewesen sei, die ihn haben ausschließen lassen - und dass er das Erbstück wohl nicht freiwillig herausgeben werde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe die Angelegenheit deutlich vereinfacht, indem ich Penhelm getötet und den Brustharnisch von seiner Leiche genommen habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Penhelm scheint nicht gewillt zu sein, Osrics Rüstung herauszugeben, die er selbst am Körper trägt. Ich brauche ein stärkeres Druckmittel.
+
+Osric glaubt, dass Penhelms eidesstattliche Versicherung, dass seine Seele frei von aedyranischen Einflüssen ist, eine Fälschung sein könnte. Er sagte, ich würde sie irgendwo auf Burg Schmelztiegel in Urfeuer finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Penhelm scheint sich Osrics Rüstung angeeignet zu haben, aber ich habe seine eidesstattliche Versicherung als mögliches Druckmittel in der Hand.
+
+Kurren, das Medium, das Penhelms eidesstattliche Versicherung unterzeichnet hat, arbeitet im Haus Hadret in Farnheim. Er sollte mir mit Sicherheit sagen können, ob die eidesstattliche Versicherung echt ist oder nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Osric hatte Recht - die Dunrydstraße hatte festgestellt, dass Penhelm ein Seelenvermächtnis mit einem General teilt, der sich gegen die Unabhängigkeit des Dyrwalds gestellt hatte. Die Schmelztiegelritter hätten ihn niemals aufgenommen.
+
+Das Dokument in meinem Besitz ist eine gefälschte eidesstattliche Versicherung, durch die Penhelms beflecktes Seelenvermächtnis vertuscht werden soll. Kurren hat vorgeschlagen, dass sein Vorgesetzter auf Burg Schmelztiegel, Kommandant Clyver, sich um die Angelegenheit kümmern solle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Penhelm wurde bestraft und der Brustharnisch ist nun in meinem Besitz. Osric wird erfahren wollen, wie die Sache ausgegangen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Ich habe Penhelm seinen intakten Ruf behalten lassen ... und Osrics Brustharnisch. Osric wird erfahren wollen, wie die Sache ausgegangen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Ich muss Osrics Brustharnisch von Penhelms Leiche beschaffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Nachdem Kurren tot ist, habe ich kein Druckmittel gegen Penhelm mehr. Ich kann Osrics Brustharnisch nur noch beschaffen, indem ich Penhelm auf Burg Schmelztiegel in Urfeuer töte und mir die Rüstung von seinem Leichnam nehme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Penhelm hat versucht, mich zu töten, um sein Geheimnis zu bewahren. Er ist jämmerlich gescheitert. Ich kann nun den Brustharnisch an mich nehmen und ihn Osric geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Penhelm hat mich konfrontiert und ich habe beschlossen, ihm die eidesstattliche Versicherung zu geben. Und ich konnte ihn überzeugen, mir den Brustharnisch zu geben. Ich kann ihn nun zu Osric bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Penhelm hat sich Osrics Rüstung angeeignet. Er wird sich nicht von ihr trennen, solange er noch Schmelztiegelritter ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe eine eidesstattliche Versicherung gefunden, die die Herkunft von Penhelms Seele bestätigt. Sie wurde von Kurren unterzeichnet, einem Medium der Dunrydstraße.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Nachdem ich Penhelm die eidesstattliche Versicherung gegeben habe, habe ich ihn überzeugt, mir Osrics Brustharnisch zu überlassen. Osric konnte nicht recht fassen, was sich ereignet hat, war aber dennoch zufrieden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich konnte den Brustharnisch für Osric stehlen. Er wird den Schmelztiegelrittern sicher nicht davon berichten. Er war froh, ihn wiederzuhaben, ich war froh, bezahlt zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe Osrics Brustharnisch beschafft, allerdings auf Kosten einiger Leben. Als ich Osric davon berichtet, tobte er vor Zorn. Er sagte, ich solle sein Erbstück behalten. Auch, wenn er verbittert ist - der Eid, den er dem Orden geschworen hat, scheint ihm weiterhin wichtig zu sein. Er hat Penhelm bei weitem nicht so sehr gehasst, wie es zunächst den Anschein hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich habe Osrics Brustharnisch beschafft, allerdings auf Kosten einiger Leben. Ich musste Penhelm töten, aber das habe ich Osric gegenüber nicht erwähnt. Glücklicherweise hat er nicht zu viele Fragen gestellt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Osric ist tot und seine Aufgabe spielt keine Rolle mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Penhelm hat mich angegriffen, nachdem ich von seinem Betrug erfahren habe. Osric schien seinen Tod zu bereuen, aber er war froh, seinen Brustharnisch wiederzuhaben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Ich habe Osrics Brustharnisch wiederbeschafft, aber entschieden, ihn selbst zu behalten. Ich bin überrascht, dass Osric mich nicht sofort angegriffen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Penhelm für die Beschaffenheit seiner Seele zu bestrafen erschien mir falsch, also habe ich ihm die eidestattliche Versicherung wiedergegeben. Ich habe den Brustharnisch nicht von ihm bekommen, also kann ich ihn auch Osric nicht zurückgeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

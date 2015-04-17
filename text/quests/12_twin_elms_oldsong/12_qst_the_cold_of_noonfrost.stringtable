@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\12_twin_elms_oldsong\12_qst_the_cold_of_noonfrost</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Gefängnis aus Eis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Betritt Mittagsfrost in Altlied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde Alwah.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Befreie Alwah aus Mittagsfrost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kehre zu Larha im Rachen zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre zu Larha im Rachen zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Der See in Altlied hat begonnen einzufrieren, nachdem eine Gruppe von Bleichelfen eintraf. Larha von den Reißzähnen hat ihre Schwester Alwah geschickt, um der Sache nachzugehen.
+
+Alwah zog aus, um im Tempel von Mittagsfrost nach Antworten zu suchen. Sie kehrte nicht zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Alwah, eine Späherin der Reißzähne, ist in Mittagsfrost verschwunden, dem Tempel am See. Larha hatte Alwah ausgeschickt, um zu ergründen, warum von dem Tempel eine solche Kälte ausgeht.
+
+Larha glaubt, dass die Bleichelfen, die kürzlich in den Tempel kamen, der Grund dafür sind. Wie dem auch sei, vielleicht kann ich Alwah in Mittagsfrost finden - oder Hinweise auf ihr Verschwinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe Mittagsfrost gefunden. Die Glamfellen haben sich hier eingerichtet, keine Frage. 
+
+Wenn sie für Alwahs Verschwinden verantwortlich sind, werden sie es wohl kaum zugeben. Aber vielleicht gelingt es mir, sie selbst zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe Alwah in einem Raum im hinteren Teil von Mittagsfrost gefunden, gefangen. Sie hat mir berichtet, dass die Glamfellen sie gefangen genommen haben, als sie sie beim Herumschnüffeln ertappt haben. Sie will, dass ich ihr zur Flucht verhelfe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Alwah ist aus Mittagsfrost geflohen. Larha wird froh sein, sie zu sehen. Aber sie wird auch meinen Bericht hören wollen, was im Tempel geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Alwah ist gestorben, bevor sie aus Mittagsfrost fliehen konnte. Ich muss Larha die schlechte Nachricht überbringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe ihr gesagt, es sei noch zu gefährlich. Es wäre für uns beide ungut, wenn die Bleichelfen sie bei der Flucht ertappen. Ich muss also entweder einen Fluchtweg räumen oder mit ihrem Anführer verhandeln. Allerdings scheinen sie nicht gewillt zu sein, mich mit ihm sprechen zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Glasvahl hat mir die Erlaubnis erteilt, Alwah zu befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe einen Fluchtweg geräumt, damit Alwah aus Mittagsfrost entkommen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Alwah ist gestorben, bevor sie aus Mittagsfrost fliehen konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich bin einen Handel mit Glasvahl eingegangen, dem Anführer der Bleichelfen, um Alwahs Freiheit zu erwirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

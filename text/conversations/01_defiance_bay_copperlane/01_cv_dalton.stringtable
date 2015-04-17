@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_dalton</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>72</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser ältere Mann schreitet hin und her, mit kurzen, holprigen Schritten. Der Blick in seinen Augen ist abwesend, darunter liegen die dunklen Ringe vieler schlafloser Nächte. Er scheint sich mit jemandem zu unterhalten, der nicht anwesend ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Mit wem redest du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Pass auf, wo du hinläufst, du greiser alter Zausel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Der Mann blickt zu dir auf, erschrocken. "Huch - oh, bei der Flamme. Einen Augenblick lang dachte ich, ich hätte sie gehört." Er legt eine Hand auf seine Brust und ringt nach Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich suche in den Katakomben nach Spuren von Rowyna."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich habe andere Dinge zu tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Tränen springen dem alten Mann in die Augen. "Es gibt einen Eingang ein Stück südwestlich von hier, auf der anderen Seite des Kanals." Er schnieft und wischt sich die Augen. "Du bist wahrlich ein Geschenk der Götter. Wenn du irgendetwas von ihr findest ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Er nickt langsam. "Gewiss musst du viele Schurken bekämpfen und Schätze finden. Aber wenn du es dir anders überlegst, ich bin hier ... und warte auf sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Seine Augen sind weit und abwesend. "Ich höre dich, mein Schatz. Du klingst so nah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Seine müden Augen leuchten auf. "Hast du sie gefunden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich suche noch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Ihm das Amulett zeigen.] "Ja, aber nicht, wie du erwartet hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Der alte Mann betrachtet das Amulett. "Das hat Rowyna immer getragen. Wo hast du es gefunden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Lügen] "Es tut mir leid, Dalton. Rowyna ist fort. Es war nur ein Traum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Dalton sieht gramerfüllt aus. "Aber wie kann ich mir etwas so Lebensechtes eingebildet haben? Ich war mir sicher, dass ich ihre Stimme gehört habe ... " Er seufzt und schüttelt den Kopf. "Ich habe schon zu lange gelebt. Ich hätte auf dieser Ebene mit meinen Waffenbrüdern und -schwestern sterben sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Dalton wiegt das Amulett in beiden Händen und blickt es erstaunt und verwirrt an. "Sie ist hier. Sie ist endlich wieder bei mir." Er hält es an seine Backe, als würde er hoffen, ihre Stimme zu hören oder ihre Liebkosungen zu spüren. "Vielleicht wird mir ihre Anwesenheit - auch in dieser Form - Frieden bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>" ... und wie du gekämpft hast, zwei Feinde gleichzeitig niedergeschlagen. Welch Sieg wir geteilt haben, du und ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Was betrübt dich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Nur die Erinnerungen an meine Jugend bei den Waldläufern der Nordwache. Längst vergangene Prüfungen und Abenteuer." Er schüttelt seinen Kopf. "Die Erinnerungen an verlorene Schlachten und gefallene Freunde sind in letzter Zeit besonders lebhaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Erzähl mir von diesen Erinnerungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Fass dich kurz, alter Mann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Es ist fast sechzig Jahre her. Damals waren wir im ganzen Dyrwald bekannt. Wir dachten, wir würden ewig zusammen Abenteuer erleben, Kupfer sammeln und Balladen inspirieren." Die Falten um seine Augen werden tiefer. "Bis wir auf Helig von Thein trafen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Er war ein Zauberer, dessen nekromantische Experimente eine Spur von Leichen vom Trostal bis zum Mittelwald hinterließen - einige davon wiederbelebt. Wir verfolgten ihn, als er in die Vailianischen Republiken fliehen wollte. Kurz vor dem See der versenkten Gräber stellten wir ihn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Wir waren Narren. So erfahren, wie wir auch waren, auf seine dunkle Magie waren wir nicht vorbereitet. Wir waren in der Überzahl, aber gegen seine Macht konnten wir nichts ausrichten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ein weiserer Mann hätte den Rückzug befohlen. Aber nicht ich. Durch irgendeinen Fluch der Götter verlor ich das Bewusstsein, und als ich wieder erwachte, waren meine Waldläufer ... meine Rowyna ... sie waren alle tot." Er hält leere Luft in seinen Armen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Wer ist Rowyna?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Und nun hörst du die Stimme dieser Frau?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Meine Freundin, meine Waffenschwester, meine Liebe. Wir wollten gemeinsam Abenteuer erleben, bis wir alt genug wären, um uns niederzulassen und unseren Reichtum zu genießen. Jung wie wir waren dachten wir, nichts könnte uns je auseinanderreißen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ich weiß, es klingt wie der Wahnsinn eines alten Mannes, aber ich höre sie. Eine Stimme gleich hinter meiner Schulter, die in meinen Träumen nach mir ruft. Nachts sehe ich sie durch die Katakomben unter der Stadt irren und einen Weg hinaus suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"So töricht es auch klingen mag, ich werde den Gedanken nicht los, dass sie irgendwie da unten ist und auf mich wartet. Ich habe mich sogar hinunter gewagt, aber es hätte mich fast mein Leben gekostet." Er zögert. 
+
+"Wäre ich nur noch der halbe Krieger meiner Jugend, ich würde jedes Grab und Rattenloch durchsuchen. Aber ich habe nichts als diesen schwachen Körper und die quälende Ahnung, dass meine Liebe irgendwie da unten ist und ich ihr nicht helfen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Dalton nimmt es und berührt den strahlenden roten Edelstein. "Das wird für meine verbleibende Zeit ausreichen. Wie lange sie auch sein mag. Sie in meiner Nähe zu haben. In meinen Träumen zu besuchen. Unsere Erinnerungen gemeinsam noch einmal zu erleben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Du willst, dass ich einem Traum nachjage?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Es ist mehr als nur das, ich weiß es einfach. Meine Träume waren nie mehr als verblichene Erinnerungen, aber das hier, das fühlt sich so real und frisch an wie die Unterhaltung, die wir gerade führen." 
+
+"Wenn du dich um die Bezahlung sorgst, ich habe noch jede Menge Waffen aus meinen Tagen als Abenteurer. Es sind gute Waffen, die dir auf dem Schlachtfeld oder in einem Kaufmannsladen gute Dienste erweisen werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Ihm das Amulett geben.] "Von deinem alten Widersacher, Helig. Er hat ihre Seele darin gefangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ich habe keine Antworten für dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Warum sollte mich das kümmern? Ich will nur meine Belohnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ich fürchte nicht. Ich habe nur dieses Amulett gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Der Mann regt sich plötzlich nicht mehr, als er das Amulett an deinem Hals sieht. "Das war ihres ... Wo hast du es gefunden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Du wirst es nicht gerne hören, doch es wäre das Beste für euch beide, ihre Seele wieder in den Kreislauf zu entlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Es zerstören?" Er umklammert das Amulett. "Aber wo ich sie nach so langer Zeit wieder bei mir habe ... Ich kann sie nicht erneut verlieren. Es würde mir reichen, sie in meiner Nähe zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Wie dem auch sei, es ist nun deine Wahl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ich habe keine Zeit für Geschichten. Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Eine traurige Geschichte, aber ich muss weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Törichter alter Narr. Ich habe keine Zeit für deine Halluzinationen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Sein Blick härtet sich und er presst den Mund zu einem engen Strich zusammen. "Ich weiß, dass sie da unten ist. Und bei den Göttern, ich werde einen Weg finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Aha. Nun, ich muss weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ich vergaß die Ungeduld der Jugend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Der alte Mann reibt sich die Augen und murmelt vor sich hin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Danke sehr. Meine Roywna und ich haben endlich Frieden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Du wärest lieber in den Katakomben geblieben, du herzloses Geschöpf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Er seufzt müde. "Meine Rowyna wurde gemeinsam mit den übrigen Waldläufern von einem Nekromanten namens Helig von Thein getötet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Es ist fast sechzig Jahre her, doch plötzlich sind die Erinnerungen an sie so frisch und lebendig, als wäre es gestern gewesen. Und die Träume ... " Er schüttelt wieder den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Suchst du noch immer nach Rowyna?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Von Helig - er hat ihre Seele jahrzehntelang darin gefangen gehalten. Es ist an der Zeit, sie zu befreien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Daltons Augen weiten sich entsetzt. "Nein, bitte! Nachdem ich so lange nach ihr gesucht habe ..." Er blickt auf das Amulett. "Sie einfach nur in meiner Nähe zu haben, sie in meinen Träumen zu besuchen ... das würde mir reichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Es würde dir reichen, aber was ist mit ihr? Wenn du sie nur um deinetwillen in diesem Amulett gefangen hältst, bist du nicht besser als der Zauberer, der sie eingesperrt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Vielleicht hat sie dich nun gefunden, damit du endlich Abschied nehmen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Ihm das Amulett geben.] "Wenn du das wirklich willst, dann nimm es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Das Amulett zerstören.] "Die Wahl liegt nicht bei dir. Rowyna will befreit werden, und ich werde ihren Wunsch erfüllen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Daltons Gesicht fällt in sich zusammen. "Du hast Recht. Bitte, lass es mich tun." Er zieht mit zitternder Hand eine Keule hervor und zerschlägt das Amulett. Als der Edelstein zerbricht, spürst du, wie Essenz aus ihm entweicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Der alte Mann blickt den zertrümmerten Edelstein an. "Danke, dass du mich zur Vernunft gebracht hast. Vielleicht wartet sie im nächsten Leben auf mich." Er blickt seine zitternden Hände an. "Bei der Flamme, sie wird nicht lange warten müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Bitte, nimm das." Er reicht dir die Keule. "Sie stammt aus meiner Zeit als Abenteurer. Ich muss endlich loslassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Der Blutstein zersplittert, und als Essenz aus ihm entweicht, wimmert Dalton. Er fällt auf die Knie, sammelt die zerbrochenen Splitter auf und schluchzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Du warst so lieblich damals ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Ihm das Amulett geben.] "Ihre Seele ist in diesem Amulett gefangen, das ich in den Katakomben gefunden habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Helig hat ihre Seele in dieses Amulett gebannt. Ich habe es gefunden, also behalte ich es auch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Er ballt die Hände zu Fäusten, aus seinen Augen sprüht der Zorn. "Monster! Du bist keinen Deut besser als Helig. Wenn ich die Stärke hätte, würde ich ... "
+
+Tränen schießen ihm in die Augen. "Weg von mir! Ich will nichts mehr mit dir zu tun haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Selbst nun spürt er die Seelen seiner Geliebten ... erkennt den Geist, der ihn in seinen Erinnerungen verfolgt, seinen Träumen."
+
+"Er würde bereitwillig darin ertrinken. Doch was ist das für ein Schicksal für seine Geliebte, gefangen zwischen Leben, nur zu seinem Trost?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Helig hat ihre Seele jahrzehntelang in diesem Amulett gefangen gehalten. Es ist an der Zeit, sie zu befreien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Du weißt, was es heißt, sich an Hoffnung zu klammern, nicht wahr? Du würdest nicht aufgeben, das spüre ich. Ich weiß, es klingt wie der Wahnsinn eines alten Mannes, aber ich höre sie. Eine Stimme gleich hinter meiner Schulter, die in meinen Träumen nach mir ruft. Nachts sehe ich sie durch die Katakomben unter der Stadt irren und einen Weg hinaus suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Du ... " Er blickt dich näher an. "In meinen jüngeren Jahren bin ich anderen Mitgliedern deines Ordens begegnet. Sie trotzten gefährlichen Terrain, um den Hilflosen zu helfen."
+
+"Ich weiß, es klingt wie der Wahnsinn eines alten Mannes, aber ich höre sie. Eine Stimme gleich hinter meiner Schulter, die in meinen Träumen nach mir ruft. Nachts sehe ich sie durch die Katakomben unter der Stadt irren und einen Weg hinaus suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

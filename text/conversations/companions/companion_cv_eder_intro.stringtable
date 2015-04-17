@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_eder_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>89</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Siebzehneinhalb."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Siebzehneinhalb. Könnten auch achtzehn sein, je nachdem, wie man die Zwergenfrau zählt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wie bitte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Von was redest du da?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Die Zwergenfrau. Du hast dir überlegt, ob man sie als ganze Person zählen soll oder nicht."
+
+"Ich finde, das solltest du schon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Die Leute, die am Baum hängen, achtzehn an der Zahl. Wenigstens bei meiner letzten Zählung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Was war das nochmal über einen Zwerg?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Er streckt seine Hand aus. "Ich heiße Edér."
+
+"Wenn es nach den Leuten hier ginge, könnten es auch 'Neunzehn' sein."
+
+Er betrachtet dich von Kopf bis Fuß und zieht eine Grimasse. "Glaube nicht, dass ich dich höher als 23 hängen würde. Maximal 23." Er schnalzt mit der Zunge. "Du siehst nach der Sorte aus, die sich gerne einmischt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Was lässt dich denken, dass ich an der Zwergenfrau Interesse hatte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich rauchte hier drüben und sah, wie du sie anstarrtest. Zweimal habe ich meine Pfeife nachgestopft, aber währenddessen hast du nicht mal geblinzelt. Dein Mund stand so weit auf, dass ich dich anfangs für einen Raedric hielt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Weißt du, was ein Wächter ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich war in letzter Zeit außer Form."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Unmöglich, ich sabbere nicht mal halb so viel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Was geht das dich an?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Seine Augen schießen in mehrere Richtungen. Er lehnt sich näher zu dir herüber. "Vorsichtig, Freund. Dieses Wort solltest du hier besser nicht benutzen, denn hier wimmelt es förmlich von Raedrics Stiefelleckern."
+
+"Medien, Beseeler, Wächter ... für die Leute hier ist das alles dasselbe, vor allem für Raedric. Sie kommen ständig mit ihren 'Heilmitteln' in diese Gegend und haben es auf die Verzweifelten abgesehen. Keiner von ihnen ist wirklich der, der er vorgibt zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Natürlich. Wir haben alle schlechte Tage, an denen wir absolut regungslos dastehen und eine Weile ohne zu blinzeln auf Leichen starren." Er zwinkert dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ha! Also kennst du dich bereits aus."
+
+"Trotzdem, du musst mir meine Neugier verzeihen. In dieser Gegend bevorzugen wir es eher, von unseren Toten wegzuschauen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Du musst mir meine Neugier verzeihen. In dieser Gegend bevorzugen wir es eher, von unseren Toten wegzuschauen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Das geht dich gar nichts an!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Also gut. Wenn sich die Leute hier um ihre eigenen Angelegenheiten kümmern würden, gäbe es an dem Baum dort drüben ein paar Windspiele weniger. Vielleicht sollte ich das beherzigen."
+
+"Dann lasse ich dich mal weiter deine Leichen anstarren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ziemlich gesellig für jemanden, der etwas verbirgt."
+
+"Wirst du mir erzählen, um was es da beim Baum ging, oder muss ich raten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Nachdem ich dich mit diesem komischen Blick gesehen habe, bin ich schon fast geneigt zu glauben, dass du mit dieser Zwergenfrau TATSÄCHLICH etwas hattest."
+
+"He, wie auch immer, vielleicht bin ich doch nicht 'Neunzehn'. Nichts für ungut!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Du denkst, dass du gehängt werden wirst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Dieses Dorf hat es schon seit langem auf mich abgesehen. Der einzige Kerl, der sich für mich eingesetzt hat ... na ja, er ist Nummer Achtzehn da oben. Mein Vorarbeiter auf der Farm. Während des Krieges war er mein Hauptmann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Was soll das denn bedeuten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"He, schieb mir nicht die Schuld in die Schuhe, ich habe nichts zu sagen. Das kannst du mir glauben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Schon in Ordnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Sei dir nicht so sicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Gut. Sie meinen es hier nicht persönlich, wenn sie einen hängen. Daran muss ich mich erinnern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Im Krieg?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Warum wurde dein Vorarbeiter gehängt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Was hat dein Dorf gegen dich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Wenn du als nächster gehängt werden sollst, was machst du dann noch hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Krieg des Heiligen. Nur einer in meinem Leben. Dieser Kerl beschließt, die lebende Inkarnation von Eothas zu sein. Stürzt Readceras. Marschiert auf den Dyrwald. Also begrüßten wir ihn auf dyrwäldlerische Art."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Was ist eine dyrwäldlerische Begrüßung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Wir jagten ihn in die Luft." Er lächelt, als er das sagt, aber es ist das Lächeln von jemandem, der einen Witz nicht aus Spaß erzählt, sondern um einen Effekt zu erzielen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ich hatte andere Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Oh, ich habe Zeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Er seufzt und schüttelt den Kopf, den Blick starr auf den Baum gerichtet. "Das musste früher oder später passieren. Wenn nicht für eine Verschwörung gegen Raedric, dann für meinen Schutz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Er schaut den Baum hoch und seine Augen verfolgen einen der schaukelnden Körper. "Anscheinend ist das jetzt nicht mehr von Belang."
+
+"Die Dörfler legen beim Hängen heutzutage natürlich nicht mehr selbst Hand an. Aber wenn Raedrics Männer kommen, dann haben sie kein Problem, mit ihren Fingern zu deuten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Raedric schickte vor ein paar Tagen Männer hierher. Sie sagten, sie wüssten aus glaubwürdiger Quelle, dass jemand im Dorf mit Kolsc arbeitete und eine Verschwörung zu Raedrics Sturz plante."
+
+"Sie sagten, wenn der Schuldige nicht hier und jetzt vortrete, würden sie alle von uns aufhängen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Habe mich eingemischt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Niemand trat vor, also tat es Swithin - das war mein Vorarbeiter - und sagte, er wäre es gewesen."
+
+"Sie haben ihn beim Wort genommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Wer ist Kolsc?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Jemand, der der ganzen Hängerei überdrüssig wurde. Jetzt ist er auf der Flucht, wahrscheinlich bis sie ihn schnappen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Er zuckt mit den Achseln. "Hat sich den falschen Gott ausgesucht. Darauf läuft es doch hinaus." 
+
+"In Goldtal gab es mal viele Anhänger Eothas'. Dieser Haufen Felsbrocken da drüben war früher mal ein Eothas-Tempel, nur damit du dir eine Vorstellung machen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Dann tauchte eines Tages jemand namens Waidwen auf der Türschwelle des Dyrwalds auf. Das lebende Fleisch Eothas' sei er, hieß es. Dass er eine Armee mitgebracht hätte, sagte er. Und auf einmal war Eothas hierzulande nicht mehr so beliebt."
+
+"Weder mein Bruder Woden noch ich glaubten das. Das konnte unmöglich Eothas sein. Er meldete sich zu den Waffen, und ich folgte ihm. Er aber kam nicht mehr zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Nach dem Krieg begannen die Leute, die Anhänger Eothas' zu bestrafen und sie des Verrats zu beschuldigen. Besonders nachdem das Vermächtnis begann, wurde es wirklich hässlich. Die Leute brauchten einfach einen Sündenbock."
+
+"Mir passierte nichts, weil ich gekämpft hatte, aber dann wurde dieses Gerücht verbreitet, dass mein Bruder auf der falschen Seite stand. Dann war ich auf einmal nicht mehr sicher - nicht bis mein Vorarbeiter einschritt und sagte, sie müssten ihn schon hängen, um an mich heranzukommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Er deutet ein halbes Lächeln an. "Hauptsächlich trinken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Eigentlich stehe ich kurz vor dem Aufbruch. Ich weiß nur noch nicht, wohin."
+
+"Dort draußen gibt es nicht viele Orte, wo man nicht denkt, dass Waidwens Vermächtnis mit Waidwen begann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Wir könnten zusammen reisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Er zuckt mit den Achseln. "Na gut, dann schaue ich mir halt ein bisschen die Sehenswürdigkeiten an." 
+
+Er wirft einen kurzen Blick auf den Baum. "So lange DU nicht die Sehenswürdigkeiten auswählst." Er neigt seinen Kopf nach vorne und schaut dich direkt an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Wohin führt dich dein Weg?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Zu einem Ort namens Caed Nua. Dort befindet sich ein alter Wächter, der in der Lage sein könnte, mir zu helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ich glaube, ich erinnere mich daran, vor einigen Jahren so etwas gehört zu haben. Er hat diesen Ort gezähmt. Die Leute suchten wegen allerlei Dinge Rat bei ihm. Dinge, die auf der Seele lasten. Fragen für die Verstorbenen." 
+
+"Das war natürlich noch zu den Zeiten, in denen man das Wort Wächter noch laut aussprechen konnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Er kratzt sich geistesabwesend mit seinem schwieligen Daumen am Bart. 
+
+"Weiß nicht, was ich davon halten soll, mit einem Fremden aufzubrechen - noch dazu mit einem so seltsamen. Aber ehrlich gesagt könntest du der Einzige sein, der nicht eine Art von Erleichterung spürt, wenn ich an diesem Baum dort baumeln würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Egal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Mich beschleicht das komische Gefühl, dass du nur darauf wartest, dass sie mich hängen, damit einer deiner Wächter mit mir reden kann. Das ist einfach nicht richtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Du hast gesagt, du hättest in einem Krieg gekämpft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Dann lass uns losziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Hast du in diesem Baum nach jemandem gesucht? Ich könnte euch einander vorstellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ich suche nach irgendjemandem, mit dem zusammen ich mich besser fühlen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Nein, ich brauche keinerlei Hilfe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Er nickt dir verständnisvoll zu, während er einen langen Zug aus seiner Pfeife nimmt. "Mein Beileid."
+
+Er atmet aus, richtet seine Aufmerksamkeit auf etwas anderes und beobachtet das Dorf um sich herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Er zuckt mit den Achseln. "Dann geht es dir wohl besser als den meisten hier."
+
+Er richtet seine Aufmerksamkeit auf etwas anderes und beobachtet das Dorf um sich herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Der Mann grinst breit. "Willkommen in unserem entzückenden Dorf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Komisch, so über die eigenen Toten zu sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Er schaut den Baum hoch und atmet aus. "Sieht so aus, als ob die Hälfte des Dorfes jetzt da oben baumeln würde. Gibt wohl kaum Worte, um das gebührend zu beschreiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ich suche nach jemandem, mit dem zusammen ich mich besser fühlen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ich glaube nicht, dass ich irgendwelche Hilfe benötigen werde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Etwas entzündet sich in Edérs Augen und die Kraft der Entschlossenheit findet ihren Weg in seine Stimme. "Einen solchen Mann ... es gäbe Dinge, die ich ihn fragen wollen würde. Ich weiß auch nicht, warum ich niemals daran gedacht hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Wer ist Eothas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Der Gott der Wiedergeburt und der Erlösung. Früher zumindest."
+
+"Vielleicht haben sie da, wo du herkommst, einen anderen Namen für ihn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Aloth runzelt die Stirn. "Macht ihr das hier, um euch zu amüsieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Aloth blickt dich an und senkt seine Stimme. "Du verstehst, warum ich weg wollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Aloth blickt dich eigenartig an, sagt aber nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ein wirklich guter Grund."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Der Geruch von Pfeifenrauch, gleichzeitig erdig und süß, schlängelt sich in deine Nase. Deine Augen verfolgen den Rauch zu seinem Ursprung zurück - einem breiten Mann mit strohfarbenen Haaren, der an eine moosbewachsene Felswand gelehnt ist und eine Pfeife in seiner dicken Hand hält.
+
+Er blickt dir direkt in die Augen, sein Blick ist jedoch nicht aggressiv. Er mustert dich mit einem eigenartigen Grinsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Er betrachtet dich einen Augenblick lang mit hochgezogenen Augenbrauen. Sein Grinsen wird breiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Trutzbucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Trutzbucht. Ist lange her, dass ich dort war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Etwas entzündet sich in Edérs Augen und die Kraft der Entschlossenheit findet ihren Weg in seine Stimme. "Weißt du, dort gibt es etwas, was ich gerne mal betrachten würde, wenn es nicht zu viele Umstände bereitet. Etwas, was ich schon lange tun wollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Diese Gerüchte über meinen Bruder, von denen ich sprach. Darüber, wie er sich gegen uns wandte und für Waidwen kämpfte. Spuken schon seit einiger Zeit in meinen Gedanken herum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Woden war sich immer sicher, was richtig war, und so handelte er auch. Eines Tages machte er sich auf, für den Dyrwald gegen einen Mann zu kämpfen, der behauptete, unser Gott zu sein. Deshalb wusste ich, dass auch ich das zu tun hatte. Es war richtig."
+
+"Die Behauptungen zu hören, er sei im Kampf für Readceras gefallen, machten mir Sorgen. Nicht, dass er die falsche Seite gewählt hätte, sondern ich. Was Waidwen vorhatte, erschien mir falsch, aber wenn er wirklich Eothas war ... " Er schüttelt den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Im Palast in Trutzbucht gibt es ein Archiv. Dort werden alle Unterlagen über den Krieg des Heiligen aufbewahrt. Vielleicht könnte ich diese Gerüchte widerlegen."
+
+"Wenn du zufällig diesen Weg einschlägst, begleite ich dich vielleicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Zwillingsulmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Er zuckt mit den Achseln. "Wenn man lange genug hier war, klingt eine Stadt voller feindseliger Glanfathaner nach einer netten Abwechslung."
+
+"Na gut, dann sehe ich mir eben ein bisschen die Sehenswürdigkeiten an." 
+
+Er wirft einen kurzen Blick auf den Baum. "So lange DU nicht die Sehenswürdigkeiten auswählst." Er neigt seinen Kopf nach vorne und blickt dich direkt an.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

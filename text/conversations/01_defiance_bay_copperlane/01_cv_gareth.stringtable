@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_gareth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein Mann schleicht am Tresen herum. Er wirkt, als würde er versuchen, in der abgewetzten Holzvertäfelung zu verschwinden, und er beobachtet aus dem Augenwinkel die anderen Gäste. Er nickt dir rasch zu, als du dich näherst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Einen Augenblick langt nimmt er den Blick vom Tressen. "Ja?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Verzano hat eine Lieferung für dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Was tust du hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Er blickt sich um und schnappt dir den Beutel aus der Hand. "Nicht so laut, verstanden? Die Doemenels haben überall ihre Spione."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Böse Sache, das mit Verzano und den Doemenels. Jetzt weißt du, warum ich mich da raushalte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ich? Ich kümmere mich nur um meine Angelegenheiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Sind wir fertig?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Sag mir, was in dem Beutel war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Habe ich gerade etwas Verbotenes getan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Bittergurkensamen. Sie beenden Schwangerschaften. Sie sind zwar nicht unbedingt legal, aber viele Leute ziehen sie heutzutage dem Risiko einer Hohlgeburt vor. Und der Enthaltsamkeit." Er runzelt vielsagend die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Er steckt den Beutel weg. "Sag Verzano, dass ich das letzte Mal bei ihm gekauft habe. Die Sache wird mir zu gefährlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Äh ... nein?" Er grinst schwach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ja, das war's. Und jetzt verschwinde, bevor-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Was haben die Doemenels damit zu tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Du hast wirklich keinen Schimmer, oder? Sagen wir einfach ... die Doemenels haben, äh, 'Exklusivrechte' auf den Handel mit bestimmten Waren in der Stadt."
+
+"Verzano verdient sich gelegentlich ein wenig dazu, indem er mit denselben Waren handelt. Die Konkurrenz unterbieten, sagt er."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Man kann sich in Trutzbucht nicht vor den Doemenels verstecken. Ich hätte diesem verfluchten Vailianer nie vertrauen dürfen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Von den Doemenels habe ich glaube ich noch nie gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Viel wichtiger ist, dafür zu sorgen, dass sie nicht von dir hören. Sie sind eine alteingesessene Farnheimer Familie, aber heutzutage sind die Doemenels für ihre Geschäfte bekannt. Die meistens mit Bestechung, Erpressung, Diebstahl oder Mord zu tun haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Natürlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Natürlich. Du stehst allein in der Ecke einer Taverne und trinkst nichts. Sehr unauffällig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Vielleicht sollte ich die anderen Gäste fragen, was das für Geschäfte sind ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Gareths Augen blicken sich nervös im Raum um. "Nicht so laut, verstanden? Ich bin wirklich hier, um Geschäfte zu machen. Aber diese Geschäfte erfordern eine gewisse Diskretion. Und wenn du nicht von einem gemeinsamen Freund geschickt wurdest, habe ich nichts weiter dazu zu sagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Und wenn du keine Szene willst, sagst du mir, was das bedeutet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Er blickt sich um und schnappt dir den Beutel aus der Hand. "Endlich hat Verzano mal jemanden gefunden, der weiß, was Diskretion bedeutet. Er hat wohl endlich gemerkt, dass die Doemenels ihm auf die Schliche gekommen sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

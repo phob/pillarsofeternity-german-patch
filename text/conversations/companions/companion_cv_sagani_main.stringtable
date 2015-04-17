@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_sagani_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>167</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine mit Fellen und Leder bekleidete Zwergenfrau lehnt sich gegen den Wegweiser. Ihr Gesicht ist nach unten gerichtet, ihre Augen werden von einem dicken Streifen Gesichtsfarbe verdunkelt. 
+
+Mit einem Messer mit Walrosszahngriff schärft sie eine knöcherne Pfeilspitze, ihre Aufmerksamkeit aber gilt einem Bär-Figürchen zwischen ihren Füßen.
+
+Ein bei ihren Fersen stehender großer Fuchs mit weißem Fell schaut auf, als du dich näherst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Itumaak, sei still. Wir einfach noch ein bisschen länger warten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Diese Kluft macht ja nicht schmeichelhaft, aber ich bin definitiv nicht 'er'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Auf wen wartest du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Kann ich dir helfen, ihn zu finden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Sie hört auf, ihre Pfeilspitzen zu schärfen, und verschränkt langsam die Arme. "Eine interessante Frage. Der letzte hilfsbereite Fremde schaffte es nur, meinen Geldbeutel zu erleichtern. Ich glaube, ich komme ganz gut allein zurecht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Kurzversion? Ich suche nach einem sehr, sehr alten Freund. Ich weiß nicht, wessen Haut er heute trägt, aber wenn ich ihn sehe, werde ich ihn erkennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Dein Freund soll sich hier mit dir treffen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Du könntest wahrscheinlich etwas Produktiveres tun, als hier herumzustehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Genau das habe ich gehört. Aber der Mann, der mir das sagte, behauptete auch, dass der Stab, den er bei sich trug, aus einem Drachenknochen geschnitten wurde ... aber ich erkenne Weißholz, wenn ich es sehe."
+
+Sie rollt die Augen nach oben und schüttelt den Kopf. "Das hätte mein erster Hinweis sein sollen, aber ich musste etwas ausprobieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Sie hebt ihren Kopf und schaut dich an. "Das bestreite ich nicht. Du bist einfach nicht die Person, nach der ich suche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Nochmal: Was hat dieser Fremde mit deinem Freund zu tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"'Etwas ausprobieren'? Von was genau sprichst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Sie wischt das Figürchen an ihrer Hose ab und hält es in ihrer kleinen, flachen Handfläche. Das Figürchen ist glatt und rund und hat die Form eines Bären. Das polierte Adra ist durch Abnutzung entlang seines gewölbten Rückens und seines eiförmigen Gesäßes matt geworden. Das Innere des Figürchens leuchtet sanft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Gut. Solltest du aber weglaufen wollen, so erinnere dich, dass meine Pfeile schneller sind als du." Sie gibt dir das Figürchen, wobei ihre spröden Fingerknöchel deine Hand streifen.
+
+Sie beobachtet skeptisch, aber neugierig, wie du es untersuchst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du hebst den Adra-Bär hoch und hältst ihn gegen das Licht. Als deine Augen einen winzigen, schimmernden Kratzer entdecken, beginnt die Landschaft um dich herum hinwegzuschmelzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Was hast du auf dem Herzen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Wie wurdest du für die Suche nach Persoq ausgewählt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Was machst du denn zu Hause auf Naasitaq?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du steht auf einer Klippe über dem Meer und siehst durch Augen, die nicht deine eigenen sind. Du nimmst den Geruch von Biestern zwischen dem frischen Geruch von Vegetation auf, und dein Herz schlägt ein bisschen schneller als sonst. Hier oben musst du aufpassen, wohin du gehst.
+
+Du blickt gerade lang genug hinunter, um die scharfen, blassen Klippen hunderte Meter weiter unten ins Meer tauchen zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Figürchen zurückgeben.] "Ich habe es. Er steht auf einer Klippe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ich habe eine Vision von Klippen hoch über dem Meer. Kommt dir das bekannt vor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Die Brise schnuppern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Pallegina nickt. "An der Südküste des Perlholzgolfs gibt es einige hohe Klippen. Ich sah sie vor nicht allzu langer Zeit, als wir nach Trutzbucht segelten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Auf deine Frage erntest du nur Achselzucken und Schweigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Die Straßen in der Nähe untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du atmest tief ein und schmeckst das Salz in der Luft. Wo auch immer du stehst - wo auch immer Persoq steht - es muss in der Nähe des Meeres sein, nicht an einem See.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>In der festgetretenen Erde befinden sich tiefe Spurrillen. Das sind Spuren von zahlreichen, schwerbeladenen Wagen. Die große Stadt ist nah.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Dir ist schon klar, dass ich dir kein Geld geben kann, selbst wenn ich dir glauben würde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Sagani schließt zu dir auf, mit ihrem Fuchs an der Seite, und setzt sich neben dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Du suchst schon seit fünf Jahren nach Persoq?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Klingt so, als wärst du schon lange Zeit von zu Hause weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Sie grinst. "Noch ein alter Dorfbrauch. Die Ältesten beobachteten die Karibuwanderungen und warfen Robbenknochen, um die rechte Zeit für diese Reise zu ermitteln."
+
+"Als die Omen festgelegt waren, zogen alle Frauen des Dorfes Haifischzähne. Da wir diejenigen sind, die auf die Jagd und zum Fischen gehen, sind wir am besten für eine Aufgabe wie diese geeignet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Hast du eine Familie in deinem Dorf?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Natürlich. Wir würden niemals eine Frau schicken, die keine Gelegenheit hatte, sich einen Partner zu suchen und ein paar eigene Kinder zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Erzähl mir von Itumaak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Sie kratzt ihn hinter dem Ohr. "Ein guter Jäger, aber er ist nicht sehr gesprächig, womit ich aber kein Problem habe."
+
+"Wenn wir in Naasitaq auf die Jagd gehen, nehmen wir fast immer unsere Füchse mit. Sie helfen uns beim Aufspüren und Aufscheuchen von Wild, und sie verteidigen uns furchtlos gegen Bären und Schneeleoparden. Der schlaue Itumaak ist schon immer mein Lieblingsfuchs gewesen." 
+
+Er wedelt mit seinem buschigen Schwanz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Mich interessiert deine Suche nach Persoq."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Warum hat dein Volk diesen Brauch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ich werde dir sagen was ich kann, aber Tarneq-Ilitsaak-Wallfahrten wie meine sind selten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Werden Älteste üblicherweise so weit vom Dorf entfernt wiedergeboren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Was passiert, wenn der Älteste gefunden wird?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Sie zieht das Bärenfigürchen aus ihrem Beutel und fährt ihm mit einem Finger über seinen glatten Rücken. "Das ist etwas, was wir schon immer getan haben. Die Ältesten sagen, dass dieser Brauch ursprünglich begonnen wurde, um die Beziehungen zu anderen Dörfern zu festigen. Man kann sich nur schwer wegen Karibuherden bekriegen, wenn es auf der anderen Seite jemanden gibt, den man respektiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Mehr wollte ich nicht wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Sollen wir fortfahren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Außerdem sind wir der Ansicht, dass uns die Weitergabe unserer Geschichte auf diese Weise stärker macht. Und es hilft ihnen - ich meine den Ältesten - zu uns zurückzukehren, nachdem sie mehr als eine Generation lang von uns weg waren. Dann können sie die Erfahrungen nutzen, die sie im Verlauf mehrerer Leben angesammelt haben, um dem Dorf wieder vorzustehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Was denkst du über meine Suche?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Sagani schüttelt den Kopf. "Ein Hirsch mitten in Eir Glanfath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Können wir uns einen Moment unterhalten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Die Zwergin wartet noch immer, wo du sie zuletzt gesehen hast, und betrachtet geduldig das Bärenfigürchen. Sie beruhigt den Fuchs an ihrer Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Da du so weit gereist bist, muss es wichtig für dich sein, Persoq zu finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Komm mit mir. Ich habe noch andere Dinge in der Gegend zu erledigen, und wir können unterwegs nach Persoq suchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Weggehen.] "Nimm die Informationen oder lass es sein, ich wünsche dir in jedem Fall viel Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Sagani schaut dich mit vor der Brust verschränkten Armen an. "Wenn das deine Vorstellung eines Scherzes ist, dann wirst du mich ein ganzes Weilchen am Hals haben."
+
+Sie steckt das Figürchen in ihren Beutel, worauf ihr Fuchs aufsteht und sein bleiches Fell schüttelt. "Geh voraus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Sie nickt. "Ich wünsche dir eine gute Jagd."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Schon wieder zurück?" Sie dreht das Figürchen in ihren Händen. "Was auch immer du suchst - ich hoffe, dass du mehr Glück hast als ich."
+
+Itumaak gähnt eingerollt auf einem Bett aus Laub.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Machst du dir keine Sorgen, dass dein Ehemann ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Machst du Witze? Besser als ich schießt niemand in Massuk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Meistens kehren sie an einen Ort irgendwo in Naasitaq als Angehöriger eines anderen Dorfes zurück, oder sie werden unter den Glamfellen im Ewigen Weiß wiedergeboren. Auch dann ist es schwer zu sagen, was gewöhnlich ist."
+
+Ein neckisches Grinsen zaubert ihr Fältchen neben die Augen. "Als mein Großvater ein Junge war, kam der Älteste als Eisbär zurück. Die für die Aufgabe ausgewählte Jägerin musste die Hälfte der Taten ihres Dorfes aufsagen, während sie vor dem Biest wegrannte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Erzähl mir von deinen Kindern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Ich hatte fünf. Yakona, Estuya, Najuo, Aniik und Malaak. Estuya und Aniik starben während langer Hungerwinter. Malaak, mein Jüngster, konnte noch kaum sprechen, als ich ging." Sie kratzt mit einem Fingernagel am Griff ihres Jagdmessers entlang. "Wenn ich nach Hause komme, wird er mich wahrscheinlich gar nicht erkennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Wie ist dein Ehemann?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Kallu ist ein guter Mann. Während ich auf die Jagd ging, hat er unsere Kinder wohl erzogen und uns ein starkes Zuhause gebaut."
+	  
+"Unsere Eltern versprachen uns einander, als wir noch jung waren. So läuft es normalerweise nicht bei uns, aber unsere Eltern trafen eine gute Wahl." Sie lächelt. "Anfangs lernten wir, einander als Gefährten zu schätzen, dann als Freunde, und dann ... naja, du weißt ja, wie es läuft." Hinter dem Streifen Gesichtsfarbe deutet sich ein leichtes Erröten an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Das ist alles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Sie nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Ich jage auf lange Strecken. Ich verfolge mit einigen der anderen Frauen Wild über die ganze Tundra. Normalerweise stellen wir Karibu und Ochsen nach, aber wir erlegen auch Hasen und Vögel."
+
+"Es ist eine gute und angesehene Position. In Begleitung meiner Freunde und Schwestern so viel von Naasitaq zu sehen ... das gehört in Massuk zu den Freuden des Lebens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Das ist etwas, was wir schon immer getan haben. Die Ältesten sagen, dass dieser Brauch ursprünglich begonnen wurde, um die Beziehungen zu anderen Dörfern zu festigen. Man kann sich nur schwer wegen Karibuherden bekriegen, wenn es auf der anderen Seite jemanden gibt, den man respektiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Ihr Gesichtsausdruck wird ernsthafter. "Trotzdem hat es schon Reisen gegeben, die länger als meine waren. Einige dauern Jahrzehnte, und die Jägerin kehrt nicht immer zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Das hängt von dem Mann oder der Frau ab, zu dem oder zu der er geworden ist. Am einfachsten ist es, wenn sich die Wiedergeburt in einem anderen Dorf in Naasitaq ereignet, wo der Brauch verstanden wird. Selbst im Ewigen Weiß und auf den Südinsel des Todesfeuer-Archipels verstehen die Völker diesen Brauch und heißen einen recht freundlich willkommen, auch wenn sich ihre Seelen nicht erinnern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Sie zuckt mit den Achseln. "Manchmal aber findet man jemanden, dessen Seele keine Erinnerung an das Dorf hat, worauf man ihm von Leuten erzählen muss, die sich noch an ihn erinnern. So entmutigend das auch sein mag, man hofft, dass diese Erinnerung der Seele in einem zukünftigen Leben helfen wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Egal, jedenfalls habe ich den kurzen Zahn gezogen." Sie runzelt die Stirn. "Bis jetzt ist das Reisen für uns ein Privileg, aber wie du selbst siehst, kann die Reise unberechenbar sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Sie verschränkt ihre Arme. "Thaos hat für eine interessante Verfolgungsjagd hergehalten. Ich kann aber nicht ganz klar sehen, ob er vor etwas flieht, oder er sein eigenes Opfer verfolgt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Lass uns weiterziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Meine Nasenspitze juckt wieder. Ich hoffe, dass dich dein Fund zufriedenstellen wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Sie runzelt die Stirn. "Zu wissen, was man jagt, ist recht hilfreich. Man hat vielen Spuren nachzugehen, aber wohin sie einen führen, kann man nur erraten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Ich möchte mehr über dein Heimatland erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Naasitaq?" Sie reibt sie mit einem ihrer breiten Finger an der Nase. "Es ist eine große Insel inmitten des Todesfeuer-Archipels, gleich vor der Küste des Ewigen Weiß. Hauptsächlich Tundra, aber in den wärmeren Gegenden gibt es ein paar schneebedeckte Wälder."
+	  
+"Die meisten von uns leben in ziemlich kleinen Dörfern - jedenfalls nach hiesigen Standards. Ich stamme aus Massuk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Wie ist es so in Naasitaq?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Wer lebt dort?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Sie zuckt mit den Achseln. "Kalt, aber nicht so kalt wie im Ewigen Weiß. Die wenigen Gestandenen, die Naasitaq besuchen, finden es ... karg. Wenn man aber weiß, wo man suchen muss, dann gibt es genügend, um ein Dorf zu erhalten."
+
+Sie zählt an ihren schwieligen Fingern ab. "Karibus, Robben und kleine Wale versorgen uns mit Häuten und Fleisch. Mit Knochen übrigens auch, aus denen wir vortreffliche Bogen und Pfeilspitzen fertigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Vorwiegend Enutanik wie ich. Die Leute hier nennen uns 'Nordzwerge'."
+
+"Manchmal verbringen Nomadenclans aus Glamfellen aus dem Ewigen Weiß die kälteren Jahreszeiten auf Naasitaq. Wir bekommen aber nicht allzu viele Ausländer zu Gesicht, die mit der Witterung klarkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Sie klopft sich auf ihren sonnengebräunten Arm. "Die von uns, die auf Naasitaq geboren wurden, behaupten gerne, dass wir direkt unter unserem Fleisch ein robuste Schicht Robbenhaut haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Erzähl mir mehr von Massuk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Wir sind ein Tundradorf. In den Augen von Außenstehenden unterscheiden wir uns wahrscheinlich nicht viel von unseren Nachbardörfern, aber unsere Ältesten blicken auf Jahrhunderte lange Erfahrungen zurück. Epische Jagden, Schlachten mit Nachbardörfern, Reisen über das Meer - und wir geben diese Geschichten auch weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Die Gemeinschaft ist wichtig für uns. Wir überleben oder vergehen zusammen, also geschieht alles, was wir tun - selbst wochenlange Jagden und jede Mauer, die wir bauen - zum Wohle des Dorfes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Die lange Version. Na gut, los geht's." Ihr Schultern heben und senken sich, als sie tief einatmet.
+
+"Ich komme von einer Insel weit im Süden, die man Naasitaq nennt. Ich bin auf der Suche nach einem Dorfältesten hierher gekommen, einen Mann, den wir als Persoq kannten. Zuhause bin ich eine Jägerin, deshalb fiele es mir unter normalen Umständen nicht schwer, jemanden aufzuspüren."
+
+"Aber Persoqs Spur ist gelinde gesagt kalt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Sie blickt finster drein und lässt ihre Hand vom Messer fallen. "Selbst in Naasitaq verbringe ich meine Zeit meistens auf der Jagd. Dort aber fällt es mir leichter, sie zu genießen, weil ich weiß, dass ich sehen werde, wie sich meine Familie über unsere Beute freut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Ruhig, Itumaak. Er ist es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Du wirkst, als hättest du dich verlaufen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Sie hebt ihren Kopf und schaut dich an. "Ich weiß ganz genau, wo ich bin. Mein Freund ist es, der sich verlaufen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Vielleicht nicht, aber kreuz und quer durch den Dyrwald zu rennen hat bisher nicht viel gebracht."
+
+Der Fuchs neben ihr gähnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Also hast du fünf Jahre nach einem Fremden gesucht, an den du dich kaum erinnern kannst? Wie sollte ihn jetzt noch jemand finden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Warum kannst du ihn nicht finden? Von deinem Volk sollte es im Dyrwald ja nicht so viele geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Wie lange suchst du schon nach Persoq?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Ihre bemalte Stirn senkt sich und ihr kompakter, muskulöser Körper sackt für einen kurzen Augenblick zusammen. "Fünf Jahre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Er starb, als ich noch ein junges Mädchen war. Den Teil habe ich nicht erwähnt, oder? Ich suche nach seiner letzten Reinkarnation ... was so ziemlich jeder sein könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Sie nickt dir langsam und nachdenklich zu. "Das fasst es grob zusammen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Dann muss es eine wichtige Aufgabe sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Ich weiß tatsächlich, wie du dich fühlst ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Klingt nach reiner Zeitverschwendung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Sie hebt eine Augenbraue. "Dann hast du mein Beileid. Hoffentlich hast du eine bessere Spur als ich." Sie schaut das Adra-Figürchen im Schmutz an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"An manchen Tagen fühlt es sich so an." Sie schaut auf das Adra-Figürchen im Schmutz hinunter. "Vor allem, wenn ich dieses Ding nicht mal zum Flackern bekomme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Daran versuche ich mich selbst zu erinnern. Trotzdem wäre es schön, wenn wichtige Pflichten mit genaueren Anweisungen verbunden wären." Sie schaut das Adra-Figürchen im Schmutz an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Warum musst du Persoq denn finden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Sie lächelt schief. "Das ist eher eine Lagerfeuergeschichte. Ich bin noch nicht bereit, mich dafür zu begeistern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Wie passt dieses Figürchen da hinein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Vorher erwähntest du einen nutzlosen Fremden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Hübsch, nicht wahr? Es gehörte Persoq. Bevor er in das Rad zurückkehrte, ließ er einen Splitter seiner Seele darin zurück. Um uns zu helfen, ihn später zu finden."
+
+Als sie es dir hinhält, spürst du schwache Empfindungen. Keine echten Erinnerungen, aber Spuren von jemandem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Als ich Naasitaq verließ, war sie innen völlig dunkel. Aber je näher ich Persoq kam, desto heller leuchtete sie. Seit ich den Dyrwald erreichte habe, ist sie nur noch schwer zu lesen. An manchen Tagen flackert sie nur und wird dann dunkel. An anderen leuchtet sie schön und hell ... für ein paar Stunden."
+
+"Meistens sieht sie aber so wie jetzt aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Vielleicht ist sie kaputt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Persoq könnte immer noch weiter weg sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Was tust du jetzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Ich könnte sie mir mal ansehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Sie schüttelt den Kopf. "Ich habe ein Jahr damit verbracht, die Gegend zu umkreisen, und hatte dabei denselben Gedanken. Im Süden bin ich bis nach Ozia gekommen, und im Norden bis zu Burg Flottenbrechen, als mir klar wurde, dass das Figürchen wieder dunkel wurde. Dasselbe passierte, als ich durch die Weißmark zog und die Buchten im Westen umkreiste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Sie lacht hohl. "Selbst Skaen könnte nicht so grausam sein. Sie funktioniert, dessen bin ich mir sicher. Sie ist nur ... nicht so präzise, wie ich gehofft hatte." Trotz dieser Worte blinzelt sie das Figürchen skeptisch an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Ich kann dich sagen, was ich nie wieder machen werde: Mich auf Wunderhausierer verlassen. Ein sogenannter 'Wächter' war es nämlich, der mich zu dieser Kreuzung mitten im Nirgendwo geschickt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Sie äugt dich misstrauisch an. "Sowas höre ich nicht zum ersten Mal. Ich stehe hier nur, weil mir ein sogenannter 'Wächter' aus Gabeltal erzählt hat, ich sollte mich hier 'mal umsehen'. Für ein paar Gold-Ducs natürlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Ich war schon auf dem Weg aus dem Baelsumpf heraus, als ich die Leute über einen fahrenden Mystiker reden hörte, der angeblich Seelen lesen kann." Sie zuckt mit den Achseln. "Ich wusste, dass es unwahrscheinlich war, aber was hatte ich schon zu verlieren?"
+
+"Also suchte ich diesen Kerl auf und gab ihm das Adra-Figürchen. Er zog eine große Schau ab, stöhnte und rollte mit den Augen, und nachdem ich ihm fünf Gold-Ducs zum Lüften des Schleiers gegeben hatte, sagte er mir, ich sollte mich zur Kreuzung im Feld zwischen der 'Wolfshöhle' und den 'sich windenden Bäumen' begeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Er dachte, er würde sich unklar ausdrücken, aber ich kenne die Gegend gut genug, um zu erkennen, dass er diesen Ort hier meinte - mitten zwischen Trutzbucht und Zwillingsulmen."
+
+"Ich hatte einen üblen Geschmack im Mund, aber mein Geld war ausgegeben, und ich hatte ihm als gut gemeinte Warnung schon einen Pfeil in seinen Rucksack geschossen. Ich sagte ihm, dass ich zurückkomme und ihm noch einen verpassen würde, sollte er mich an der Nase herumführen."
+
+"Jetzt bin ich schon seit einer Woche hier. Wahrscheinlich lacht wohl doch er zuletzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Und weiter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Was ist die 'Wolfshöhle'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Sind die 'sich windenden Bäume' ein wirklicher Ort?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Trutzbucht. Die Einheimischen nennen den aktuellen Duc 'Wolfsgrinsen'. Klingt danach, als ob man mit ihm gut einen trinken gehen könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Er meinte Zwillingsulmen. Ich bin noch nicht dagewesen, aber ich habe gehört, dass es dort einige besonders einprägsame Bäume gibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Du könntest immer noch diesem falschen Wächter nachstellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Sie schlägt in die Luft. "Ich habe hauptsächlich versucht, ihm Angst zu machen. Wegen ein paar Goldstücken würde ich eigentlich keinen Mann umbringen. Ich habe eh kaum Verwendung für Münzen."
+
+"So wie ich seine Art einschätze, hat er außerdem längst das Dorf verlassen und sein Geld verprasst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Könnte ich das Figürchen mal sehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Ich bin ein echter Wächter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Mit zusammengekniffenen Augen schaut sie den Adra-Bär an, und dann wieder dich. "Warum?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Ich möchte ihn mir nur genauer ansehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Warum nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Sie kichert. "Erwartest du, dass ich das glaube? Nach der Geschichte, die ich dir gerade erzählt habe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Ich mein's ernst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Du hast nichts zu verlieren, indem du mich es probieren lässt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Was ist, wenn ich die Wahrheit sage? Nach fünf Jahren kann man doch mal ein Risiko eingehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Bitte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Sie schaut den Adra-Bär selbst an und dreht ihn ein paar Mal in ihren Händen. "Wovon sprichst du?" Sie schaut dich wieder an. "Was ist gerade passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Ich bin ein echter Wächter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Ich sagte dir doch, dass ich ein Wächter bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Sie blinzelt dich ein paar Mal nachdenklich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Ich weiß, dass sich das merkwürdig anhört, aber es ist die Wahrheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Wenn du gesehen hättest, wie er tote Dinge anstarrt, dann wüsstest du, dass er es ernst meint."</DefaultText>
+      <FemaleText>"Wenn du gesehen hättest, wie sie tote Dinge anstarrt, dann wüsstest du, dass sie es ernst meint."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Ihr Verstand ist voller Zweifel ... die frische Wunde enttäuschten Vertrauens. Dennoch ist dort auch Hoffnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>[Weggehen.] "Dann bleib meinetwegen hier. Ich habe andere Dinge zu tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>" ... Was ist, wenn ich Persoq bin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Ich will dich ja nicht enttäuschen, aber das ist unmöglich. In diesem Fall würde dieses Ding wie eine Fackel leuchten." Sie wackelt ein bisschen mit dem Figürchen herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Das ist allerdings wahr. Zuerst aber sollte ich dir das Figürchen erklären."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>[Weggehen.] "Ich auch. Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Wenn man sich vorstellt, dass die Entscheidungen, die die Engwithaner vor tausenden Jahren getroffen haben, unsere Leben heute noch immer formen ... " Sie schüttelt den Kopf. "Es wäre eine Schande, diesen Seelen die Chance zu verwehren, ihren eigenen Weg und ihre eigene Bestimmung zu finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"All diese Ideen darüber, wer wir sind, was uns formt ... " Sie schüttelt den Kopf. "Nichts davon spielt doch eine Rolle, oder? Und dennoch: Könnten wir diese gebrochenen Familien heilen, würde unsere Reise dann nicht etwas wert sein?" Itumaak leckt ihre Finger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Es ist wirklich bitter, so weit gekommen zu sein, nur um herauszufinden, dass alles umsonst war. Irgendwie finde ich nicht, dass wir mit unserem Wissen auch nur ein bisschen besser dran sind." Sie starrt die Adra-Säule reumütig an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Selbst wenn du mir was vormachen solltest - es ist schön, wieder in einer Jagdgemeinschaft zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Sie schüttelt den Kopf und blickt sich um. "Ich hätte nie gedacht, dass ich auf meinen Reisen mal so etwas sehe. Das rückt alles in ein anderes Licht, nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Was jetzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Ich habe dir gesagt, ich bringe dich nach Hause."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Das liegt wohl an dir, oder nicht? Ich bin nämlich zu klein, ich komme nicht zu der Steuerung hoch." Sie nickt zu der Maschine.
+
+"Vielleicht jagt uns dieses Ding bis nach Naasitaq, wenn du den Schalter umlegst. Aber was auch geschieht, ich bin froh, dass wir zusammen gereist sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>Sie lacht. "Das hast du. Es war eine Ehre, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Danke, dass du mit mir gereist bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Es ist an der Zeit, die Sache zu beenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Ich würde wohl immer noch am Straßenrand Däumchen drehen, wenn du nicht gekommen wärest." Sie kratzt Itumaak am Kopf. 
+
+"Danke, dass du uns so weit gebracht hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>Sie nickt. "Gute Jagd, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

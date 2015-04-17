@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_dwellier</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Mann betrachtet dich von oben herab. "Aha. Wie ich sehe, bist du ein Mitglied. Bist du wegen der exklusiven Klubausrüstung hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Zeig mir, was du anzubieten hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Erzähl mir über diesen Ort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Er verschränkt seine Arme. "Vereinfacht gesagt befindest du dich hier im Klub der kultivierten und angesehenen Ehrenmänner im Obergeschoss des Salzigen Masts." Er neigt seinen Kopf. "Genauer gesagt befindest du dich in der Mitglieder-Lounge, was wiederum bedeutet, dass du schon länger als ein Jahr Mitglied bist." Er beäugt dich misstrauisch.
+
+"Unsere Regeln mögen ja streng sein, aber sie halten das Gesindel fern. Meistens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Seit über einem Jahrzehnt sammle ich die besten Ausrüstungsgegenstände, die es gibt. Ich garantiere dir, dass du nirgendwo eine bessere Sammlung finden wirst."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

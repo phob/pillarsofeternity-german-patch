@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\13_twin_elms_elms_reach\13_qst_sacrificial_bloodlines</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Blutopfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Hole das orlanische Kind aus einem Haus im Südosten von Herdlied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bringe das Kind nach Blutiger Sand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Wenn du möchtest, hole von Bledha in Ulmenkap das Gift.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Gib Simoc den Essenztrank.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Bringe Simoc dazu, das Gift zu trinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Bringe das Kind nach Blutiger Sand oder bringe Simoc dazu, das Gift zu trinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Gib Simoc den Essenztrank oder bringe ihn dazu, das Gift zu trinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Simoc, der Anamfath der Drei-Stoßzahn-Stelgaer, führt seinen Stamm seit fast zweihundert Jahren an, hat jedoch keinen Nachfahren hervorgebracht, dessen Seele würdig währe, sein Nachfolger zu werden. Simoc hat mir seine Sorgen mitgeteilt, dass sein Stamm, der die glanfathanischen Grenzen verteidigt, schwach werden könnte, wenn er keinen aggressiven Anführer besitzt.
+
+Allerdings hat er mir offenbart, dass er einen Weg gefunden hat, sein nächstes Kind mit einer stärkeren Seele zu versehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Anamfath Simoc hat eine Tochter des Anamfaths der Fischerkraniche als Ziehkind aufgenommen. Er hat mich gebeten, sie zu Hüterin Wrdha von den Ethik Nôl zu bringen - für ein Ritual, das es ihm ermöglicht, ihre Essenz zu verzehren.
+
+Das Kind befindet sich in einem Haus am Fluss. Simoc hat dafür gesorgt, dass es unbeaufsichtigt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe das Kind des Fischerkranich-Stamms. Simoc hat mich gebeten, sie zu Hüterin Wrdha in Blutiger Sand zu bringen.
+
+Blutiger Sand ist eine Höhle am nördlichen Rand von Ulmenkap, neben Teir Evron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Simocs Sohn, Lliras, hat mich zu dem Plan seines Vaters zur Rede gestellt. Er hat mich angefleht, ihn nicht in die Tat umzusetzen.
+
+Stattdessen bat Lliras mich, ein Gift von Bledha zu beschaffen, einer der Ovaten des Goldenen Hains. Obwohl bereits entschieden wurde, dass Lliras als Nachfolger unwürdig ist, will er nicht, dass Simocs Art der Führung fortgeführt wird.
+
+Ich finde Bledha in der südöstlichen Ecke von Ulmenkap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Hüterin Wrdha hat mir einen Trank für Simoc gegeben, der aus der Essenz des Kindes gefertigt wurde. Simoc wartet in der Halle der Krieger darauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe Bledha überzeugt, mir ein starkes Gift zu geben. Da Simoc ohnehin einen Trank erwartet, sollte es ein Leichtes sein, ihn dazu zu bringen, dies hier zu trinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich habe Vela an mich genommen - und den Trank besorgt. Um Simocs Plan zu vollenden, muss ich das Kind zu Wdrha in Blutiger Sand bringen. Ich kann aber noch immer stattdessen Simoc vergiften.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Mit dem Essenztrank kann ich dafür sorgen, dass Simoc einen Elemfath zeugt, der würdig ist, die Drei-Stoßzahn-Stelgaer anzuführen.
+
+Alternativ könnte ich ihm das Gift geben, das ich von Bledha habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>SImoc hat zugegeben, dass das Kind für das Ritual geopfert werden muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Lliras hat mich angegriffen, als ich mit Vela gehen wollte. Ich musste ihn töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Simocs Sohn, Lliras, hat mich zu dem Plan seines Vaters zur Rede gestellt. Er hat mich gebeten, stattdessen Simoc zu vergiften. Ich kann von Bledha ein passendes Gift beschaffen, einer der Ovaten des Goldenen Hains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe das Kind aus dem Haus in Herdlied genommen, aber ich kann noch immer das Gift beschaffen, das Simoc töten würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe zwar bereits das Gift, aber ich kann noch immer das Kind holen und zu Wrdha in Blutiger Sand bringen, um Simocs Plan auszuführen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe außerdem das Gift von Bledha beschafft. Lliras und Vela sind tot. Wenn ich Simoc dazu bringe, das Gift zu trinken, könnte das daher bedeuten, dass die Drei-Stoßzahn-Stelgaer keinen klaren Thronnachfolger hätten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Lliras und Vela sind tot. Wenn ich Simoc dazu bringe, das Gift zu trinken, würde das daher bedeuten, dass die Drei-Stoßzahn-Stelgaer keinen klaren Thronnachfolger hätten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Simoc einen Trank gegeben, der aus der Essenz seiner orlanischen Adoptivtochter gefertigt wurde. Damit kann er einen Erben zeugen, der würdig ist, sein Nachfolger zu werden - was die anhaltende Stärke der Drei-Stoßzahn-Stelgaer sicherstellt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe Simocs orlanische Adoptivtochter einem kinderlosen Paar in Herdlied anvertraut. Sie kann noch immer ein normales und glückliches Leben führen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Nachdem ich erfahren habe, dass Simoc vorhatte, seine orlanische Adoptivtochter zu opfern, habe ich Lliras Plan ausgeführt, Simoc zu vergiften. Die Zukunft der Drei-Stoßzahn-Stelgaer ist nun zwar ungewiss, doch Simocs böses Vorhaben ist vereitelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Nachdem Simoc mich gebeten hat, seine Adoptivtochter zu opfern, habe ich ihn in der Halle der Krieger getötet. Dieser alte Anamfath hatte seine Zeit überdauert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Nachdem ich in Blutiger Sand Vela geopfert habe, habe ich entschieden, Simoc zu töten. Nachdem der alte Anamfath und seine adoptierte Nachfolgerin tot sind, müssen die Drei-Stoßzahn-Stelgaer einen neuen Anführer finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Mein Versuch, Simoc zu vergiften, ist gescheitert. Ich musste ihn stattdessen im Kampf töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

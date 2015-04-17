@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_durance_hub_v2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>153</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Und was beunruhigt dich denn jetzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hnh. Ich vermute, die Antworten werden noch mehr Fragen säen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Der Preis dafür, mich zu belästigen, scheint dich kaum zu sorgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wenn dich Zweifel und Neugier plagen, dann schlägst du dir die Fingerknöchel an der falschen Tür wund."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Wenn ich dich genügend heilen konnte, damit du die Welt so nimmst, wie sie ist, ohne mich zu drangsalieren ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Bestürzt dich, was wir über Woedica erfahren haben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich glaube, Magran war mit Woedica verbündet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich glaube, Magran versuchte, dich zu töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich sah etwas Merkwürdiges: Du hast am Feuer gesessen und von deinem Stab ging ein starkes Licht aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Warum war es uns vorbestimmt, uns zu treffen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Erzähl mir von Magran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich wollte dich über die Region und ihre Geschichte befragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Erzähl mir vom Götterhammer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Also hast du den Götterhammer gebaut?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich wollte mehr über dich erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Glaubst du, dass es eine Verbindung zwischen den Hohlgeburten und dem Götterhammer gibt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Was kannst du mir über die Hohlgeburten sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Weißt du irgendetwas über den Dyrwald und die ihn umgebenden Nationen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Erzähl mir vom Krieg des Heiligen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Was ist der Götterhammer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Ich wollte noch mehr über die Erlösung wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Durance runzelt die Stirn. "Eothas war der Gott der Wiedergeburt und sein Licht fällt nicht auf den Dyrwald. Ich habe gehört, dass manche behaupten, dass es sein Werk wäre, sein Tod ... er hat die Hallen für neue Seelen geschlossen." 
+
+"Ich bezweifle es. Ich spüre, dass der Grund für die Hohlgeburten in den Taten von Männern und Frauen liegt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Das ist ein Fluch, der tiefer geht." Durance' Stimme wird verbittert. "Es ist ein Götterhammer einer anderen Art und wie der Götterhammer ist auch das ein Werk der Sterblichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Alle Dinge haben ihren Preis. Ungezügeltes Leben, Unglaube, Tugenden ... es hinterlässt Spuren auf Seelen. Bis Seelen nicht mehr die Kraft haben, in reine Körper zu fahren."
+
+"Beseeler ... Medien ... alle, die ihre Spielchen mit dem Seelenstoff spielen, muss man für das karge Feld beschuldigen, das sie zurücklassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Durance starrt dich an. "Selbst Wächter können dasselbe tun. Manche schauen einfach zu ... andere versuchen, Seelen zu weben, sie so sicher wie Waidwen über Evon Dewr zu führen."
+
+Er wendet sich ab. "Das ist der Grund, weshalb ich Hohlgeborene korrigiere, wenn ich auf sie treffe. Und diejenigen, deren Hände daran schuld sind, dass diese Saat auf den Boden verschüttet wurde, gleich mit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Die Hohlgeburten korrigieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Es gibt weniger Seelen, aber mehr Gefäße. Es handelt sich um eine einfache Ausgleichung des Vorgangs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Das ist Mord!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Also macht es dir nichts aus, sie umzubringen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Durance schnaubt verächtlich. "Ich fühle mehr Reue, wenn ich einen räudigen Hund erschlage. Ein Wicht? Weniger als ein Straßenköter in seinem Elend." 
+
+"Mord ist ein Akt der Nächstenliebe, kein Verbrechen. Das war schon immer so. Viel eher würde ich stattdessen den Schuldigen die Klinge an den Hals setzen. Wenn irgendwelche Seelen bestraft werden sollten, dann sind es ihre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Und wem soll man die Schuld geben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Die Felder des Dyrwalds sind voll mit Schwäche, reif für jene, die ihre Spielchen mit Seelen und dem Verstand treiben ..." Er legt sich zu einem Stirnrunzeln in Falten. "Beseeler und ihre Art. Wächter auch. Sie tragen eine größere Bürde als ihre Opfer, und erleiden schwerere Strafen."
+
+"In jedem Jahr hat es ein neues Verbrechen gegeben ... den Krieg des Heiligen, die Hohlgeburten ... und die Erlösung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Es gibt keinen Beweis dafür, dass die Wächter die Schuld an diesen Ereignissen tragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Es gibt nur wenige, die eine Seele auf diese Weise formen können." Durance starrt dich an. "Und jeder Wächter, jeder wahre, im Dyrwald geborene Wächter, kann das Verbrechen sehen, selbst wenn sie es nicht verursacht haben. Die Stille allein ist belastend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Warum bringst du mich dann nicht um?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Durance lacht kalt. "Dich ermorden? Ich würde dir oder irgendeinem von ihnen nicht die gleiche Gnade gewähren, die ich den Hohlgeborenen gebe. Du hättest sie nicht verdient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Du würdest Mord mit Gnade gleichsetzen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Durance spottet. "Mord ist ein altes Wort - Gnade ist, wenn man eine Seele frei in den nächsten Körper fliegen lässt. Echte Bestrafung? Jemanden bis in die Seele ruinieren." Durance' Hand festigt ihren Griff um seinen Stab, als ob er ein Gebet aufsagen würde- "Ihre Seele spalten, wie man ihre Schädel mit einem Stab aufschlagen würde ..."
+
+"... sie schlagen, an Verstand und Körper verletzen, damit ihre Seelen zersplittern ... aber man belässt sie in dem Gefäß wie einen Beutel Glasscherben, um entweder daran zu ersticken oder sie mit ihrem blutigen Stuhl auszuscheiden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Dann ..." Er verdreht seine Hand und deutet dadurch eine abschließende Bewegung an, worauf er zufrieden grinst. "... lässt man sie in dem Körper, um darüber nachzudenken. Als ob man ein neues Feld mit der richtigen Saat bepflanzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Das klingt danach, als hättest du es deinem Gedächtnis anvertraut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Durance klingt plötzlich düster, und beginnt zu zitieren: "'Viele Spuren hinterlasse ich auf deinem Fleisch ... Flammenspuren, die nicht heilen können.'"
+
+"Magrans Doktrin schreibt vor, dass wahre Bestrafungen solche sind, die einem in Erinnerung bleiben. Im Gedächtnis, in der Seele, im Fleisch."
+
+"Selbst wenn die Opfer sterben ... langsam oder schnell, manchmal hinterher durch ihre eigene Hand ... verweilt die Lektion, eingebrannt in ihr Fleisch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Ist das ein Teil von Durance' Lehren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Das scheint mir sehr streng zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Darin liegt eine gewisse Gerechtigkeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Es war nicht von ihm ..." Durance runzelt die Stirn. "Das zu behalten - zu umfassen, lohnte sich eher, als ins leere Drehen des Rades einzufallen oder das Verbrechen eine Seele fortbestehen und ein neues Zuhause finden zu lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Hast du jemals einen von der Flamme gebrandmarkten Mann gesehen? Er erinnert sich stets daran - bei jedem einzelnen Schritt. Es ist eine Lektion, geschrieben mit Blut und Fleisch ... den einzigen Schreibwerkzeugen von Belang."
+
+"Man kann auch die Seele verbrennen. Es ist eine Kunst, und ich finde keine Freude daran, aber hier steht mehr auf dem Spiel als Vergebung."
+
+"In den Säuberungen nach dem Krieg des Heiligen wurden viele von Eothas' Anhängern bestraft ... und jene, die Kindern geschadet hatten, die erlitten noch Schlimmeres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Was meinst du damit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Durance verhärtet sich und er umklammert den Stab mit seiner Hand. "Wir taten, was getan werden musste. Wir stöberten sie auf, wo auch immer sie waren, und holten ihre Seelen zurück."
+
+"Und wenn man sie nicht zurückholen konnte, so sorgten wir dafür, dass sie niemals andere Körper bewohnen könnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Der Dyrwald ist das beste aller Länder. Er hat noch eine Seele, wenn man das von einem Land behaupten kann. Er ist ein Ort, an dem sich ein Mann noch frei bewegen und sogar neue Wege finden kann ... und in dieser Welt ist das ein seltenes Gut."
+
+"Hier aber sind ... ganze Generationen verdammt, also werden keine neuen Schritte das Ende dafür bedeuten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Du meinst die Hohlgeborenen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Ja. Was auch immer Woedica ganzen Generationen angetan hat ... und stell dir nur vor, ich dachte, es ginge um Männer und Frauen, nicht um ihre Götter ... und darum, Kinder zum Wohle der Politik als Hebel gegen eine verklemmte Tür einzusetzen."
+
+"Als ob die Götter darüber stehen sollten. Was für ein Narr ich doch war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Ja. Eothas' letzter Racheversuch, nachdem man ihn umgebracht hatte."
+
+Durance runzelt die Stirn. "Eothas war der Gott der Wiedergeburt und sein Licht fällt nicht auf den Dyrwald. Ich habe gehört, dass manche behaupten, dass es sein Werk wäre, sein Tod ... er hat die Hallen für neue Seelen geschlossen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Er spottet. "Ich dachte immer, das Problem wäre aus Frauen und Männern geboren, aus von ihnen geführten Nationen, immer im Kreislauf ... im Inneren wie im Äußeren. Die Vailianischen Republiken, Readceras ... der Krieg des Heiligen ... eine einzelne, große Klingenspirale, die alles um sie herum in Stücke schneidet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Er spottet. "Das glaube ich nicht. Das Problem ist näher dran als das, und wie immer dreht es sich um Frauen und Männer. Und sie befinden sich immer im Kreislauf ... im Inneren wie im Äußeren. Die Vailianischen Republiken, Readceras ... der Krieg des Heiligen ... eine einzelne, große Klingenspirale, die alles um sie herum in Stücke schneidet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Was hältst du von den Vailianischen Republiken?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Durance schnaubt verächtlich. "Glücksritter in Amtskleidern. Manipulatoren. Kaufleute und Verräter, allesamt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Hüte deine Zunge, Priester, ich komme aus den Republiken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Ich bin aus den Republiken. Ist das ein Problem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Hast du keine Hochachtung vor ihnen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Und was ist mit Readceras?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Hast es wohl nicht ausgehalten, zu bleiben? Das kann ich dir nicht verdenken." Er starrt dich mit einem dünnen Lächeln an, das aber schnell vergeht. "Du siehst bescheidener aus als die meisten - jedes so stilbesessene Land könnte die Halstücher auch gleich über den Augen tragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Du meinst, dass die Republiken dem Dyrwald schaden wollen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Der Dyrwald sollte besser wachsam bleiben, sonst werden sie sie zu Sklaven machen, sobald die Tinte auf dem Handelsabkommen trocken ist." 
+
+"Der Dyrwald und all seine Reichtümer sind einfach zu verlockend ..." Durance senkt die Stimme. "Besonders, wenn jemand anderes das Land und die Gesichtsbemaler für sie zähmt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Durance grunzt. "Jedes so stilbesessene Land könnte die Halstücher auch gleich über den Augen tragen."
+
+"Bleibt wachsam, sonst werden sie euch zu Sklaven machen, sobald die Tinte auf dem Handelsabkommen trocken ist. Der Dyrwald und all seine Reichtümer ist einfach zu verlockend ... besonders, wenn jemand anderes das Land und die Gesichtsbemaler für sie zähmt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Gesichtsbemaler?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Durance macht mit seinen Händen eine ablehnende Bewegung. "Stämme. Glanfathaner. Scharen sich um die Ruinen wie Fliegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Durance errötet ... und auf seiner Stirn bildet sich ein Schweißfilm. "Diese sogenannte Nation hat zu viele Beigeschmäcker ... zivile Unruhen, wirtschaftlicher Zusammenbruch ... alles wie Zunder, der bloß den richtigen Funken braucht. Irgendein Bauer taucht auf, lässt einen Gott in sich hinein und setzt sich dann eine Krone auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Und dieses 'göttliche Königreich', das er aufzubauen versucht? Das läuft genauso gut, wie man es erwarten konnte." Ein Rinnsal aus Schweiß läuft Durance die Wange hinab und versickert in seinem Bart. "Plötzlich steigt die Ketzerbevölkerung auf über die Hälfte an, worauf Eothas abermals sein blutbeschmutztes Starren wieder auf jeden Gotteslästerer richtet, den er finden kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Man könnte es auch als Hausputz bezeichnen ..." Sein Gesicht verdunkelt sich und er kneift die Augen zusammen. "Oder als Säuberung. Hat sie und ihren Gott aber auch mit genügend Kraft, um das ganze verdammte Land auszulöschen, in ihre Schranken verwiesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Kein Unterstützer des Landes Readceras?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Es ist kein Land, sondern eine Versammlung von Feiglingen, Aedyr-Puppen."
+
+"Früher mal waren sie ein recht optimistischer Haufen, und schlau obendrein ..." Durance lacht über 'schlau', als sei es eine Art Insiderwitz. "War ihr Verderben. Sie hätten ihr Elend akzeptieren sollen, ohne sich von einem Bauern in einen ... erleuchteteren Ruin führen zu lassen." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Fast auch Eothas' Marionetten. Dem wurde ein Ende gesetzt. Sie baumelten an seinen Strängen, Waidwen an ihren ... wäre ihr Gott nicht herabgestiegen, hätten sie auf dem Schlachtfeld niemals Erfolge erzielt. Der Krieg des Heiligen ..." Durance knurrt. "Mussten ihren Gott herbeirufen, um eine Chance zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Durance' Augenbrauen ziehen sie zu einem Stirnrunzeln zusammen, dann grunzt er. "Ich vergesse immer, dass deine Füße neu im Dyrwald sind ... also, der Krieg des Heiligen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"War eigentlich kein Krieg. Es ging um einen Gott, der sich übernahm. Das Land Readceras mit all ihren Heiden ..." Durance knurrt. "Nun, sie zahlen jetzt den Preis dafür, obwohl das Feuer nach meinem Dafürhalten mit mehr Kraft durch ihr Land fahren hätte und all ihre Seelen fangen sollen."
+
+"Es stimmt - es war nicht mal ein Krieg. Es war ein abschreckendes Beispiel über Stolz - besonders Waidwens Stolz. Er hätte ein Bauer bleiben sollten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Was ist passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Das war ... hmmh, vor fünfzehn, sechzehn Jahren ... 2807?" Durance hält inne, dann schüttelt er seinen Kopf und zuckt mit den Achseln. "Meine Erinnerungen bei einem jüngeren Ich. Ich halte mich nicht an Daten, sondern an Handlungen und Ursachen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Der 'Krieg' war ein Akt der Arroganz, direkt aus Readceras' zuckenden Beinen geboren. Ein Mann, der sich für mehr als einen Mann hält." Durance schnaubt verächtlich. "Du möchtest jemanden umbringen? Sag ihm, dass ein Gott durch ihn spricht."
+
+"Dann sag ihm, dass er ihn zum Anführer auserkoren hat, was ihn an die Spitze einer Armee bringt. Und wie man es bei Readceras erwarten konnte, einem von Beginn an kranken Land, war es eine starke Armee - und dennoch war ein Krieg wahrscheinlich genau das, was sie brauchten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Was war mit dem Land nicht in Ordnung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Readceras hat mit einigen Problemen zu kämpfen, und es hat sie alle verdient. Es verdiente Waidwen, und er war das Licht, das sie in die Flamme führte."
+
+"Readceras war auf dem absteigenden Ast, und Aedyr-Gift zerfraß bereits seine Adern. Wirtschaftliches Ausbluten, das Sterben ihres Glaubens." Durance runzelt die Stirn. "... und dann kommt dieser Bauer Waidwen und behauptet, Eothas persönlich zu sein, und gibt ihnen die schlimmste Art von Hoffnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Was ist dann passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Sie krönen ihn." Durance tippt sich an den Kopf, macht eine leichte Verbeugung, und als sich sein Gesicht dir wieder zuwendet, lächelt er wild. "Sie machen ihn zum König, der schlimmsten Art von Gotteslästerung."
+
+"Und kaum trägt er die Krone auf seinem Haupt und den Gott in seinem Fleisch - nun, da beginnt er, Änderungen vorzunehmen, göttliche Änderungen." Durance' Augen lodern auf. 
+
+"Und dann beschließt er, uns zu ändern. Uns zu retten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Wie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Er marschiert gegen den Dyrwald, um uns zu befreien, um uns von unseren Überzeugungen zu befreien wie er die anderen Seelen in Readceras befreit hat."
+
+"Kaltmorg legt sich ihm widerstandslos zu Füßen, und wird verschont." Durance knurrt. "Das Blutvergießen beginnt, als er Gnadental brandschatzt. Welch Ironie. Er steckt es in Flammen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Kaltmorg?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Was tat Eothas als nächstes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Durance spuckt aus und knurrt. "Feiglinge, und 'Kaltmorg' ist ein passender Name für sie. Sie lagen still und rührten sich nicht, als ihre Kameraden verbrannt wurden. Für diese Feigheit werden sie eines Tages Magrans Preis bezahlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Eothas marschiert weiter. Die Dyrwäldler ziehen sich in die Wälder zurück und attackieren seine Flanken, seine Späher, seine Truppen. Es schien fast hoffnungslos zu sein." Durance' Gesicht wird düster, dann lächelt er leicht. "Bis zur Zitadelle von Halgot, bis zum Götterhammer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Dort führten wir ihn der Flamme zu. Wir brannten den Gott aus ihm heraus, wenn dort jemals einer gewesen war."
+
+"Ein Dutzend tapferer Männer und Frauen rückten zur Brücke vor, leisteten Widerstand. Dann fackelten wir ihn dort mit dem Feuer des Götterhammers ab."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Es war eine Waffe der Bevölkerung des Dyrwalds. Ihre Unabhängigkeit."
+
+"Es gibt nur wenige, die abstreiten würden, dass es Eothas übertrieben hat. Der Götterhammer erinnerte Eothas daran. Ein so helles und fürchterlich starkes Feuer, dass es einen Gott verbrannte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Götter haben sich in jeder Hinsicht Fleisch genommen, gleichsam von willigen und unwilligen Gefäße. Es ist kein Verstoß, es ist einfach, was Götter tun. So lange sie akzeptieren, was damit verbunden ist."
+
+"Sterbliche sind schwach. Götter ... nun, wir zeigten dem alten Waidwen, dass er aus Fleisch und Blut war, egal wieviel Licht ihm aus seinen Bauernhänden strömte."
+
+"Zum Bau einer Waffe brauchte es Männer des Glaubens. Einen Götterhammer. Ein Urteil, das ihm bei der Zitadelle von Halgot den Tod brachte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Durance hält seinen Stab mit den Händen umschlossen und fährt die Einkerbungen nach. Während du ihm zusiehst, beginnt die Spitze des Stabs hell zu brennen, während Durance, dessen Gesicht vom Feuer erhellt wird, zu sprechen beginnt.
+
+"Ein Waffe, die heller als Eothas brennen würde. Und wir führen ihn zu ihr und verbrannten ihn auf dem Scheiterhaufen."
+
+"Der Scheiterhaufen war der Götterhammer, und wir spießten ihn darauf auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Wer baute ihn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Du sagtest, du hättest ihn erbaut?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Dieses Land tat es, ja, mit seinen Gläubigen. Wir wollten es nicht mehr tolerieren. Wir brauchten keinen Heuchler in einem Gefäß ... also machten wir eine andere Hülle fertig, und ließen sie fliegen."
+
+"Er ließ sich nur von Sterblichen verspotten ... und das war genug, ihn über die Brücke zu locken, direkt in die neue Sonne hinein."
+
+"Er gab Readceras zu sehen, wie hell ihre Arroganz geworden war ... und wurde zu einem Symbol, mit dem wir ihre Säuberung mit unserer eigenen beantworteten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Durance nickt. "Ihn zu bauen, war nicht einfach. Ihr zu fertigen. Die Stücke, die Kurve der Reliquie ... selbst dann war er noch ein massives Ding, etwas, zu dem ein Gott kommen musste, anstatt es auf ihn zu werfen."
+
+"Indem man ihn herlockte? Das war der einfache Teil, denn Götter sind stolz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Was ist passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Wir führten ihn zu Feldern, an die er sich vielleicht als Bauer erinnerte, die Felder direkt außerhalb der Zitadelle von Halgot." Durance runzelt die Stirn. "Jetzt Götterhammerzitadelle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Sie befand sich direkt auf der anderen Seite der Brücke von Evon Dewr, ein gemütlicher Weg ... " Durance runzelt die Stirn. "Männer starben, und dann noch mehr, um Eothas auf den Evon Dewr zu locken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Wir hatten Gänge und Pfade durch die Brücke geschnitten, die Fundamente ausgehoben und sie mit Schießpulver und gluthungrigen Körnern gefüllt, die nur so aufs Brennen warteten. Mit unseren Händen hatten wir sogar den Mörtel und Fels aufgebrochen und angespitzt, damit sie noch leichter von ihrem Fundamenten brechen - und durch das Fleisch dieses Heuchlers fahren würden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Und so habt ihr Evon Dewr gegen Eothas eingesetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Wir gossen, vom Glauben erfüllt, den Götterhammer in ihre Fundamente und entzündeten ihn. Wir ließen den Hammer fallen - direkt auf den Amboss."
+
+"Acht starben, bevor der Götterhammer fiel, und der Götterhammer selbst forderte den Rest, insgesamt ein Dutzend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Und Eothas fuhr zurück in den Äther, oder das Grab." Durance grunzt. "Er hat seine Stimme und seine Lust auf den Krieg verloren, dass kann ich dir sagen."
+
+Er lächelt höhnisch. "Er ließ sich nur von Sterblichen verspotten ... und das war genug, ihn über die Brücke zu locken, direkt in die neue Sonne hinein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Durance drückt seinen Rücken durch und atmet tief ein. "Er gab Readceras zu sehen, wie hell ihre Arroganz geworden war ... und wurde zu einem Symbol, mit dem wir ihre Säuberung mit unserer eigenen beantworteten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Säuberungen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Durance wird grimmiger und sein Gesicht erstarrt. "Wir begannen damit, die Eothasianer vor sich selbst zu retten. Wir verbrannten alle, die nicht mit ihrem Gott starben."
+
+"Die Ketzerei in Readceras ist das Eine ... Hier im Dyrwald ist sie aber mit einer ... persönlicheren Note verbunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Das erscheint mir gerecht. Ein verwundeter Feind ist immer noch gefährlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Also habt ihr Verbrechen mit einem eigenen beantwortet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Wenn man einen Feind lange genug bekämpft, übernimmt man seine Eigenschaften."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Warum die Säuberungen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"So wie ich es sehe, gefährdet jeder noch im Dyrwald lebende Eothasianer die Nation und ist wie ein Dolch, der unserem Glauben an den Hals gehalten wird."
+
+"Entwurzelt sie, verbrennt sie oder schickt sie nach Readceras zurück, um sich dort im Blute ihres Scheiterns zu suhlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Wann versuchten die Beseeler, Tierseelen in Kinder zu implantieren?" Durance knurrt. "Wenn man jemals einen Beweis für ihre Verstöße benötigt, so spricht das allein schon für sich."
+
+"Waidwen mag ja einen Gott in sich aufgenommen haben, aber ein Tier in das Gefäß eines Kindes zu stecken ...?" Durance schüttelt den Kopf und legt angewidert sein Gesicht in Falten. "Beseelung ist Wahnsinn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Noch schlimmer ist, dass es zu lange dauert, um das Verbrechen auch als solches zu erkennen. Ich hörte die ersten Erzählungen, von den Orlanern, die als erste litten ..." Er kichert reumütig, dann lächelt er höhnisch. "... so wie sie es immer tun. Tiere in Tieren, eine Vermischung des Wahnsinns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Ich an deiner Stelle würde auf meine Worte achten, wenn du über Orlaner sprichst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Hast du gesehen, was geschah?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Zuerst kam eine Frau. Man hätte das der weiblichen Schwäche ankreiden können. Dann die Katzenmänner. Man hätte das ihrem tierischen Wesen ankreiden können." Er packt den Stab fester mit seinen Händen. "Und dann endeten mehr und mehr ... und mehr Seelen in ihren Klauen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Durance' Starren wird härter. "Ich hätte alles darum gegeben, sie mit denen, die sie 'retteten', in einen Käfig zu sperren und mir anzusehen, wie ihr Handwerk den Handwerker formt - diese Kinder ihre Peiniger in Stücke reißen lassen."
+
+"Ich kann nur eine Kostprobe dessen geben, was sie erleiden sollten. Das ist magere Kost für uns beide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Durance schaut dich an und schnaubt dann verächtlich. "Ah ... Orlaner-Trotz. Uuh, jetzt wird es aber wirklich gefährlich." 
+
+"Zu den Hochzeiten der Sklaverei, als ihr nicht mehr als Fußabstreifer und Teppiche für verschiedene Adlige mit Scheiße an der Ferse wart, hat euch das ja große Dienste erwiesen." Durance grinst höhnisch. "Diese Tage könnten wiederkehren - letztendlich habt ihr euch das verdient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Verdient? Was meinst du damit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Klingt wie jemand, der sich dieselbe Behandlung wünscht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Genau wie ein Mensch: Große Worte, wenig Verstand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Vergiss es. Sag mir, was du von der Erlösung gesehen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Durance schaut dich überrascht an. "Zu schwach, um euch zu verteidigen. Ihr wurdet geprüft, und werdet es noch immer, und es fehlt euch an allem. Orlaner, der Krieg wird nicht warten, damit du aufschließen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Er runzelt die Stirn, als würde er nachdenken. "Und jetzt ein Orlaner-Wächter ... vielleicht, wenn es genug von euch gäbe, dann hättet ihr eine Chance. Aber das werden wir ja sehen, oder? Ich zumindest werde das ... aber ob das deinen Augen gelingen wird, die zu sehr damit beschäftigt sind, nach außen zu sehen und mich für deine eigenen Fehler zu beschuldigen ... dessen bin ich mir nicht sicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Durance verlagert sein Gewicht und kneift die Augen leicht zusammen. "Du kannst es gerne versuchen, und ich werde meine Stiefel an dir säubern, wie es die Adligen getan haben. Ihr seid die Einzigen, die es zu beschuldigen gibt ... ihr wart zu schwach, euch zu verteidigen."
+
+"Ihr wurdet geprüft, und werdet es noch immer, und es fehlt euch an allem." Durance zuckt mit den Achseln. "Orlaner, der Krieg wird nicht warten, damit du aufschließen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Ah, Menschen, das ist eine Beleidigung." Durance verlagert mit glänzenden Augen sein Gewicht. "Und trotzdem wart ihr die unter unseren mit Scheiße beschmutzten Fersen. Uns Menschen gestattete man wenigstens, auf unseren eigenen Beinen zu laufen, Orlaner ... ihr aber, ihr aber könnt nur euch selbst beschuldigen ... ihr wart zu schwach, euch zu verteidigen."
+
+"Ihr wurdet geprüft, und werdet es noch immer, und es fehlt euch an allem." Durance zuckt mit den Achseln. "Orlaner, der Krieg wird nicht warten, damit du aufschließen kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Aloth geht lässig vorbei und murmelt leise: "Bestimmt weißt du schon, wohin das führen wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Eine 'schwache' Frau hat dich aus dem Rad in diese Welt getragen, Postenago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Oh, jetzt sind wir also 'Katzenmänner'? Ich glaube, ich könnte Durance die Milz direkt durch den Nabel herausreißen ... Das können wir dann wohl meinem tierischen Wesen ankreiden, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Lass uns weiterziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Ich möchte dich etwas anderes fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Ich hatte noch eine andere Vision von dir. Eines der Symbole auf deinem Stab - es lag im Sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>Durance grunzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

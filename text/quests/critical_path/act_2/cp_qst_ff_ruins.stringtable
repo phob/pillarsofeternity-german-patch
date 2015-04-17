@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_2\cp_qst_ff_ruins</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Nie weit von der Königin entfernt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Begib dich zum Tempel von Woedica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Finde einen Weg in den Tempel von Woedica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Untersuche die Aktivitäten des Bleiernen Schlüssels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Stelle den östlichen Wachturm wieder her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Sprich mit der Burgvogtin in Caed Nua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Maerwald hat mir erzählt, dass ich den Bleiernen Schlüssel wohl in der "Stadt des Trutzes", "nie weit weg von der Königin" finde. Dort muss ich hingehen, wenn ich den Mann finden will, der meine Erweckung ausgelöst hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe von Maerwald erfahren, dass Mitglieder des Bleiernen Schlüssels dazu neigen, Woedica anzubeten. Die Burgvogtin erwähnte auch, dass es in Trutzbucht einen Tempel gäbe, der Woedica gewidmet sei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Der Tempel von Woedica liegt in Ruinen, zumindest der Teil an der Oberfläche. Eine halb vergrabene Treppe deutet darauf hin, dass sich mehr vom Tempel unter der Erde befindet. Obwohl die Treppe für mich unzugänglich ist, könnte es sein, dass es einen anderen Weg hinein gibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe mir Zutritt zu den Räumen unter den Ruinen des Tempels von Woedica verschafft. Wenn sich das, was Maerwald sagte, als wahr herausstellen solte, dann ist das die beste Gelegenheit, den Bleiernen Schlüssel zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Der östliche Wachturm versperrt den Weg nach Trutzbucht. Er muss repariert werden, ehe ich weiterreisen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Maerwald ist tot, und die Antworten, die er mir geliefert hat, waren kurz und rätselhaft. Die Burgvogtin in der Herrenhalle von Caed Nua scheint das einzige weitere empfindsame Wesen in der Festung gewesen zu sein. Sie könnte mir vielleicht weiterhelfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe mich als Mitglied des Bleiernen Schlüssels ausgegeben. So lange ich mich nicht verrate, indem ich jemanden angreife, werde ich mich frei bewegen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ein maskierter Mann, vermutlich ein Mitglied des Bleiernen Schlüssels, wurde auf seinem Weg durch die Katakomben überfallen. Die Verkleidung, die ihn an den Wachen des Bleiernen Schlüssels vorbeigebracht hatte, ging verloren, als der Mann von Trollen verschleppt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe eine Verkleidung des Bleiernen Schlüssels gefunden. Sie sollte es mir ermöglichen, an allen Wachen des Bleiernen Schlüssels an diesem Ort vorbeizukommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ein alter Geist, der den Tempel heimsucht, erzählte mir von einem alternativen Eingang durch die Katakomben. Er meinte, er müsse in der Nähe des Südtors im Bezirk Kupferweg sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe mit einem nervösen jungen Initiierten gesprochen, der mir die Passwörter nannte, die ich vor der Akolythin aufsagen muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe ein Buch mit den Passwörtern gefunden, die ich brauche, wenn ich mit der Akolythin spreche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe mich umgehört und erfahren, dass sich der Tempel in einem Bezirk namens Urfeuer befindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Obwohl ich nicht in der Lage war, die wahre Absicht hinter den Aktivitäten des Bleiernen Schlüssels oder die Identität des Mitglieds, das ich verfolge, auszumachen, konnte ich einige Spuren hinsichtlich ihrer Aktivitäten in der Gegend aufdecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

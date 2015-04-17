@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_1\cp_qst_clearing_stronghold</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Räumen der Straße.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Repariere den östlichen Wachturm und reise in die Waldend-Ebenen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Sprich mit der Burgvogtin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Begib dich nach Trutzbucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Nach Maerwalds Tod fiel mir die baufällige Burg Caed Nua zu. Sollte ich aber weiterziehen wollen, müssen zuerst Reparaturen durchgeführt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Caed Nua gehört nun mir, aber der Weg wird von Trümmern blockiert. Wenn ich zu den Waldend-Ebenen weiterreisen will, die zwischen Caed Nua und Trutzbucht liegen, muss ich zuerst den östlichen Wachturm reparieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Der alte Wächter ist gestorben und die als Caed Nua bekannte, baufällige Burg steht nun verlassen da. Vielleicht sollte ich mit der Burgvogtin darüber sprechen, wie ich Trutzbucht erreichen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe den Weg nach Trutzbucht freigeräumt. Ich sollte mich so schnell wie möglich auf den Weg in die Stadt machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe die Straße repariert, die von Caed Nua wegführt. Die Reise war lang, aber ich bin endlich in Trutzbucht angekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich konnte meine Ressourcen sammeln und die Straße nach Trutzbucht reparieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

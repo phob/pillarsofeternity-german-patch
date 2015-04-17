@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1011_si_fungus_wall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine verschlungene Masse aus bösen Dornen und dicken Ranken erstreckt sich zwischen den Höhlenwänden, über die Kluft. Hier und da gibt es Lücken in der Vegetation, durch die du in die Kammer dahinter sehen kannst - unverletzt dorthin zu gelangen, wird allerdings schwierig werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Die Wand überqueren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Die Vegetation mit einer Waffe wegschneiden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Trotz größter Anstrengungen wird [SkillCheck 0] von einer der Ranken schwer am Kopf getroffen. Die Pflanzen scheinen auf ihren Sieg zu reagieren und noch energischer um sich zu schlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du versetzt der nächsten Ranke einen kräftigen Schlag ... und erzielst damit kaum Wirkung. Diese Ranken scheinen auf unnatürliche Weise widerstandsfähig zu sein. Ganz gleich, wie sehr sie gehauen, zerschlagen oder zerschnitten werden, es bewirkt kaum etwas. Alle Ranken abzuschneiden, würde viel zu lange dauern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Während du dich an den Ranken und dem Dornengestrüpp vorbeibewegst, weichst du den Dornen behände aus und kommst relativ unversehrt auf der anderen Seite an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>In dem Augenblick, in dem du hindurchgehen willst, schwankt die gesamte Wand gewaltig auf und ab und wird in Form einer anschwellenden Masse aus Zweigen und Ranken lebendig. Dicke, bedornte Zweige schwingen mit rachsüchtiger Gewalt auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Sensenartige Widerhaken reißen an dir, verkratzen dich und umgeben dich mit einem Hagelsturm aus einritzenden, um sich schlagenden Pflanzen. Mit einer letzten großen Anstrengung kannst du aus den Ranken herausklettern und taumelst in den Freiraum hinter der Wand - und damit außer Reichweite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Die Ranken betrachten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die Ranken sind mittlerweile so dick und ineinander verflochten, dass sie eine fast undurchdringbare Wand bilden. Viele der Dornen sind so lang wie der Durchmesser deiner Handfläche. Von Zeit zu Zeit hörst du ein ganz schwaches Ächzen, als ob sich etwas in der Masse leicht verschoben hätte.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

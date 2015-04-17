@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_bs_mafia_capo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ich plaudere nur ein wenig mit meinen 'Partnern'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Angeblich verstehst du dich ganz gut mit den Doemenels. Ich habe den allergrößten Respekt vor ihnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Du bist ein Freund der Ritter, ja? Keine Sorge, wir kümmern uns nur um unsere Angelegenheiten."</DefaultText>
+      <FemaleText>"Du bist eine Freundin der Ritter, ja? Keine Sorge, wir kümmern uns nur um unsere Angelegenheiten."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Die Dutzenden halten nicht viel von Rafinesse, was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Skerrion hat da drüben im Regal einen hervorragenden vailianischen Rotwein."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

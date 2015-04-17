@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\13_twin_elms_elms_reach\13_qst_servant_of_death</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Diener des Todes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Beende die Leben der zwei Gestalten aus Beraths Vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu Berath in Teir Evron zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Berath ist es leid, dass Sterbliche den natürlichen Kreislauf von Tod und Wiedergeburt stören. Er hat mir zwei Personen gezeigt, die ihre Leben seit Jahrhunderten auf unnatürliche Weise verlängern - einen Zwerg und eine Elfin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Berath, der Gott des Todes und der Wiedergeburt, hat mir eine Vision einer Elfin und eines Zwergs gezeigt, die auf einer Straße angehalten haben. Durch meine Berührung starben sie - erst dann konnte ich den Weg weitergehen.
+
+Ich glaube, der Gott will mir sagen, dass diese zwei Personen dem Tod schon zu lange ein Schnippchen schlagen. Wenn ich ihre Leben beende, ist Berath gewiss erfreut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Erzdruide Rehstin und Hoheovatin Erona sind beide tot. Ich kann in Teir Evron zu Berath beten und meine Belohnung erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Das Gesicht des Zwergs in der Vision schien auf unheimliche Weise ohne jedes Alter zu sein. Er schien sich mit dem Blut anderer immer wieder zu erneuern. Er sagte etwas von den "Ethik Nôl". Wenn ich erfahre, wer (oder was) das ist, finde ich ihn gewiss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Die Elfin war in der Vision auf seltsame Weise einem Baum ähnlich. Sie erwähnte einen Ort namens "Goldener Hain".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe Erzdruide Rehstin getötet, den Zwerg aus Beraths Vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Die Elfin, Hoheovatin Erona, ist jetzt tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Die Druiden des Goldenen Hains haben mir berichtet, dass Hoheovatin Erona oft nach Ulmenküste geht, auf der Suche nach Heilmitteln zur Verlängerung ihres Lebens. Ich nehme an, dass Erona die Elfin aus der Vision ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe erfahren, dass der Goldene Hain eine Baumgruppe am südlichen Ende von Ulmenkap ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Die Ethik Nôl hausen in einer Höhle namens "Blutiger Sand". Sie liegt im Norden von Ulmenkap, nicht weit von den riesigen Bäumen entfernt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Berath ist erfreut, dass die beiden Druidenanführer wieder dem Kreislauf zugeführt wurden. Der Gott hat mir sicheres Geleit nach Sonne im Schatten und Unterstützung in meiner Suche nach Thaos zugesichert.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

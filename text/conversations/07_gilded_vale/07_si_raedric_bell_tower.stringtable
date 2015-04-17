@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_si_raedric_bell_tower</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Glockenturm der Burg thront über den Mauern vor dir. Die Außenmauer ist mit dicken Ranken bewachsen, die sich über und zwischen den Steinen verflechten. Die Ranken erstrecken sich fast über die gesamte Höhe der Mauer und schlängeln sich über die Brustwehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Mauer untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Hochspringen, um die Ranken zu erreichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die überwucherten Ranken sehen ziemlich robust aus, aber du bist dir nicht sicher, ob sie das Gewicht einer Person aushalten können. Weit oben kannst du erkennen, dass ein Stück der Brustwehr herausgefallen ist und so eine Lücke in der Turmverteidigung darstellt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du beginnst am Ufer des Burggrabens zu rennen und springst hoch, wobei du nach einigen der dickeren Ranken greifst. Du findest unsicheren Halt und hörst von oben ein ominöses Knacken ... aber die Ranken halten. Der Turm ragt über dir empor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Die Ranken hochklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Zum Ufer des Burggrabens zurückkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du kletterst die Mauer mit gleichmäßiger Geschwindigkeit hoch. Nach langem und ermüdendem Klettern erreichst du schließlich das Ende der Mauer und kannst dich über sie hinwegziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Das Erklettern der Burgmauer ist langwierig und ermüdend. [SkillCheck 0] beginnt, erschöpft zurückzufallen. Schließlich aber erreichst du das Ende der Mauer und kannst dich über sie hinwegziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Das Erklettern der Burgmauer ist langwierig und ermüdend. [SkillCheck 0] und [SkillCheck 1] beginnen, erschöpft zurückzufallen. Schließlich aber erreichst du das Ende der Mauer und kannst dich über sie hinwegziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Das Erklettern der Burgmauer ist langwierig und ermüdend. [SkillCheck 0], [SkillCheck 1] und [SkillCheck 2] beginnen, erschöpft zurückzufallen. Schließlich aber erreichst du das Ende der Mauer und kannst dich über sie hinwegziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Das Erklettern der Burgmauer ist langwierig und ermüdend. [SkillCheck 0], [SkillCheck 1], [SkillCheck 2] und [SkillCheck 3] beginnen, erschöpft zurückzufallen. Schließlich aber erreichst du das Ende der Mauer und kannst dich über sie hinwegziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Das Erklettern der Burgmauer ist langwierig und ermüdend. Mehrere Augenblicke später kann nur [SkillCheck 0] gleichmäßig schnell weiterklettern, der Rest fällt zurück. Schließlich aber wird das Ende der Mauer erreicht und alle können sich über sie hinwegziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Das Erklettern der Burgmauer ist langwierig und ermüdend. Die allgemeine Klettergeschwindigkeit lässt schnell nach, und alle Gruppenmitglieder versuchen erschöpft, ohne den Halt zu verlieren das Ende der Mauer zu erreichen. Nach einer gefühlten Ewigkeit aber wird das Ende der Mauer erreicht und alle können sich über sie hinwegziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Die Ranken hochklettern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du kletterst die Mauer mit gleichmäßiger Geschwindigkeit hoch. Nach langem und ermüdendem Klettern erreichst du schließlich das Ende der Mauer und kannst dich über sie hinwegziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Das Erklettern der Burgmauer ist langwierig und ermüdend, einige deiner Gefährten sind bald erschöpft. Schließlich aber erreichst du das Ende der Mauer und kannst dich über sie hinwegziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Das Erklettern der Burgmauer ist langwierig und ermüdend. Du fällst erschöpft zurück. Schließlich aber erreichst du das Ende der Mauer und kannst dich über sie hinwegziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

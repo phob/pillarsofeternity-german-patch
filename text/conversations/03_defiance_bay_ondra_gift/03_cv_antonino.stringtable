@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_antonino</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Während Danna deine Bezahlung prüft, betreten mehrere bewaffnete Gestalten den Raum. Du erkennst die Schmelztiegelritter nicht, aber der Vailianer scheint dir auf merkwürdige Weise vertraut zu sein. Dir wird klar, dass du ihn in Ondras Geschenk und erst kürzlich in Kupferweg gesehen hast. "Danna Doemenel, auf frischer Tat ertappt. Dein Vater wäre enttäuscht, dich derart unbeholfen Geschäfte machen zu sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Antonino nimmt ein Seidentaschentuch und wischt damit das Blut von seiner Klinge. "Wenn ich die Doemenels recht kenne, dann werden sie diese Beleidigung nicht so einfach erdulden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Antonino hat den wiegenden Gang eines Schwertkämpfers. Aus seinem Gürtel ragt ein mit ineinandergreifendem Gold und Silber verzierter Korbgriff. Als du dich näherst, nickt er dir zu. "Gut, dich wiederzusehen, mein Freund."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich wünsche dir eine erfolgreiche Reise." Antonino schwingt seinen Hut durch die Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Danna knurrt wütend. "Die Schmelztiegelritter zu rufen kann man wohl kaum raffiniert nennen. Entledigt sich Mestre Verzano üblicherweise so seiner Konkurrenz?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Angreifen] "Du hast Recht, Antonino. Wir können das organisierten Verbrechen nicht gedeihen lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Angreifen] "Verzano und Antonino haben mich manipuliert. Danna, ich werde dir helfen, sie aufzuhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Angreifen] "Ich werde euch alle erledigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Erzähl mir von der Vailianischen Handelsgesellschaft"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Was weißt du über Verzano?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Triff mich bei Verzanos Lagerhaus. Wenn ich die Doemenels richtig einschätze, dann planen sie einen Angriff." Seine Brust hebt sich und auf seiner Stirn bildet sich ein Schweißfilm. Er grinst, als ob er sich auf den bevorstehenden Kampf freuen würde. "Kämpfe doch mit uns - wir könnten deine Hilfe gebrauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Antonino sieht dich an. "Sehr gute Arbeit. Diese Verbrecher schöpfen schon lange unsere Gewinne ab und bedrohen unsere Kunden. Leider konnten wir sie bis jetzt nicht bei illegalen Aktivitäten ertappen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Dannas Handlanger laufen ständig mit gezogenen Waffen herum. Sie wendet sich dir zu. "Antonino und Verzano sind kaum die rechtschaffenen Kaufleute, für die sie sich bei dir ausgeben. Ich vermute, dass sich dich benutzt haben, um mich zu fangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ich will mit damit nichts zu tun haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Wer seid ihr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich werde dort sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ihr seid auf euch selbst gestellt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Wir sind eine Organisation von Kaufleuten aus den Republiken. Wir treiben Handel auf der ganzen Welt, aber in der Trutzbucht unterhalten wir seit der Gründung der Stadt eine Vertretung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Er zieht seinen Hut. "Dank deiner Hilfe werden wir viele unserer alten Verträge zurückgewinnen und weiter in der Stadt Geschäfte treiben können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Er verbeugt sich, wobei er ein Bein schwungvoll nach vorne bringt. "Ich bin Antonino, Schwertkämpfer aus der Vailianischen Republik Ancenze." Er tätschelt das kunstvolle Heft seiner Klinge. "Wie du gesehen hast, verteidige ich hier in Trutzbucht die Interessen der Vailianischen Handelsgesellschaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Er ist ein erfahrener Kaufmann und wie alle Republikaner wünscht er sich nichts mehr, als erfolgreich und wohlhabend in die Heimat zurückzukehren." Er glättet seinen Schnurrbart. "Manchmal geht er ans Geschäft vielleicht etwas ... kreativ heran, aber er kommt seinen Abmachungen immer nach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich schätze eine strategische Herangehensweise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Das ist keine Entschuldigung. Er sollte zu anderen unverblümter sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Antonino wirft seinen Kopf in den Nacken und lacht. "Eine hervorragende Art, es auszudrücken. Kein Wunder, dass er so große Stücke auf dich hält."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Zeigt man seinem Gegner in einem Kartenspiel sein Blatt?" Er zuckt mit den Achseln. "In den Republiken sehen wir die Dinge anders. Manchmal erregt diese 'Unverblümtheit' bei anderen Anstoß, manchmal kann ein wenig Schlauheit ein Blutbad verhindern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Antonino schaut mir gezogener Klinge in deine Richtung. "Dafür ist es nun zu spät."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Wir müssen schnell zum Lagerhaus zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

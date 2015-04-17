@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\12_twin_elms_oldsong\12_qst_nest_above_the_clouds</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Das Nest über den Wolken</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise zu Hyleas Tempel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Konfrontiere die Bestie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bitte Hylea in Teir Evron in Ulmenkap um Hilfe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bitte Hylea in Teir Evron in Ulmenkap um Hilfe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Eine Gefahr hat sich in Hyleas Tempel eingenistet und ihre Gläubigen vertrieben. Ich habe die Aufgabe erhalten, diese Gefahr zu bannen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>In den Bergen über Zwillingsulmen sucht etwas Dunkles den Hylea-Tempel heim. Man hat mich gebeten, diesem Schrecken ein Ende zu bereiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe den Berggipfel und den Hylea-Tempel erreicht. Etwas sehr Großes war kürzlich hier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe mich um den Drachen und sein Junges gekümmert. Das Nest ist jetzt wieder sicher für Hyleas Gläubige. 
+
+Hylea ist vielleicht bereit, mir im Austausch für meine Hilfe einen Gefallen zu erweisen. Ich kann in Teir Evron zu ihr beten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe entschieden, den Drachen und sein Lindwurm im Hylea-Tempel wohnen zu lassen. Mir scheint, dass die Göttin des Flugs und der Mutterschaft das Leben dieser Kreaturen schätzen würde.
+
+Hoffentlich versteht die Göttin meine Sichtweise. Ich kann in Teir Evron zu ihr beten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Hohepriester Casfath und Hohepriesterin Onŵen haben mir von dem Drachen berichtet und vorgeschlagen, ich solle Hylea selbst um Rat bitten. Möglicherweise kann ich in Teir Evron im Bezirk Ulmenkap mit der Göttin Zwiesprache halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Die Vision hat mir einen Elfen und eine Elfin gezeigt, die von dem Berggipfel flohen. Als ich sie zuletzt sah, versteckten sie sich in einem Steinkreis, in der Ruine eines älteren Tempels in Zwillingsulmen. Wenn es in der Stadt einen Bezirk mit anderen Tempeln gibt, finde ich sie vielleicht dort. Sie könnten mir den Weg zu Hyleas Tempel zeigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>In der Vision der Göttin sah ich, wie ihre Gläubigen von einem schrecklichen Ungeheuer terrorisiert und niedergestreckt werden. Wenn ich diese Gefahr banne, gewinne ich vermutlich die Gunst der Göttin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Die Priester Casfath und Onŵen haben bestätigt, dass ein Drache im "Nest" nistet, wie der Hylea-Tempel genannt wird. Sie haben mich gewarnt, dass das Monster eine gewaltige Herausforderung darstellen wird. Und sie haben mir den Weg zum Nest geschildert - über einen Bergpass in Altlied und an den Klippen der Nordlandschaft entlang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Casfath und Onŵen waren hocherfreut, als sie hörten, dass das Nest wieder sicher ist. Sie schlugen vor, dass ich mit Hylea spreche, die mich gewiss für meine Mühen belohnen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Casfath und Onŵen waren alles andere als erfreut über meine Entscheidung, die Kreaturen im Nest wohnen zu lassen. Aber vielleicht sieht Hylea das anders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich bin in der Nordlandschaft angekommen, einem Wald vor Zwillingsulmen. Die Stufen, die hinauf zum Nest führen, sind in die steilen Klippen am Nordrand dieser Wildnis gehauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ein Einheimischer hat mir erklärt, dass der Hylea-Tempel jenseits der Nordlandschaft liegt, auf dem Gipfel eines Berges. Casfath und Onŵen, die zwei Priester, befinden sich aber in Altlied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe den Drachen und sein Junges getötet. Das Nest ist wieder sicher für die Gläubigen Hyleas. Manche Dinge müssen sterben, damit andere Geschöpfe aufblühen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich habe dem Drachen erlaubt zu bleiben. Ich habe Hylea offenbart, dass die Kreatur nur einen sicheren Ort suchte, um ihr Junges großzuziehen - und dass auch diese Kreaturen die Chance auf ein Leben verdient haben. Sie schien meiner Meinung zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich habe den Drachen tödlich verwundet, ihm im letzten Augenblick jedoch gestattet, mit seinem Jungen zu fliehen. Sie werden wohl nicht lang überleben, doch ich habe Hylea erläutert, dass dass auch diese Kreaturen die Chance auf ein Leben verdient haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Als ich Hylea sagte, dass ich dem Drachen erlaubt hätte zu bleiben, um sein Junges aufzuziehen, schien die Göttin darüber erfreut. Allerdings ging ich später zurück und bekämpfte die Ungeheuer. Hylea wird meine Meinungsänderung nicht gutheißen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich habe dem Drachen erlaubt, in Hyleas Tempel zu bleiben. Die Göttin war nicht erfreut - ich muss eine andere Gottheit um Hilfe bitten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich habe dem Drachen erlaubt zu bleiben. Ich habe Hylea überzeugt, dass diese Kreaturen ebenfalls Schönheit schaffen - und es daher verdienen zu leben. Sie schien meiner Meinung zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_hiravias_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>70</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Hiravias überfliegt die glanfathanische Schrift, räuspert sich und liest laut vor.
+
+"Wird nicht das Wasser der Pflanze geopfert? Und die Pflanze dem Vieh? Und das Vieh den Menschen?"
+
+"Wenn die geringere Seele zur Stärkung der höheren Seele geopfert wird, profitiert davon unsere ganze Familie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Er sieht dich mit gerunzelter Stirn an. "Ich glaube, ich verstehe, worum es geht - wir alle müssen zum Überleben kontinuierlich töten und essen. Anscheinend beschreibt das hier die Blutiger Sand-Riten - in welcher Weise, wenn überhaupt, ist das wohl für mich relevant?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Du trägst eine Augenklappe von Wael - ich dachte, du müsstest derart verschlüsselte Informationen eigentlich lieben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Hiravias starrt dich lächelnd an. "Eine berechtigte Anmerkung. Wael wollte, dass ich das sehe ... welcher Teil davon betrifft mich wohl?"
+
+Seine Stimme wird leiser und er erblasst. "Bin ich die geringere Seele? War meine Verstoßung aus meinem Stamm das Opfer, dass die höhere Seele gestärkt hat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich weiß es nicht, aber es klingt danach, als würden sie nur versuchen, ihre Morde an Leuten zu rechtfertigen."
+
+"Komm schon, lass uns mal sehen, was auf den anderen Tafel geschrieben steht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Er beißt sich auf die Unterlippe und wird einen Moment lang still.
+
+"Also sprachen die anderen Tafeln vom Stelgaer-Urtei, der Wiedervereinigung. Und diese andere behandelte die Wiederverbindung von Seelen, die sich über die Zeitalter aufgetrennt haben."
+
+"Ich glaube ... Ich soll meine Kraft dazu verwenden, andere zu opfern oder ... SELBST geopfert zu werden? Das gefällt mir aber beides nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Hast du schon mal in Betracht gezogen, dass dir der Herbst-Stelgaer geopfert wurde, dass Galawain DICH gestärkt hat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Sein gutes Ohr wird steif, während sein zerfleischtes Ohr zuckt und wackelt.
+
+"Das ist mir noch nie in den Sinn gekommen, aber ... den Kampf habe tatsächlich ich gewonnen. Wenn Galawain wirklich unzufrieden mit mir wäre, dann hätte ich diese Probe wohl kaum überlebt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Diese Inschrift haben wir schon gelesen - lass es uns mit einer anderen probieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Hiravias liest den glanfathanischen Text vor: "Jede Generation von Anamfath muss sich zur Beurteilung dem Herbst-Biest stellen."
+
+Hiravias hustet unbehaglich und fährt fort: "Die Weisen überstehen es und geben ihre Stärke weiter. Die Schwachen werden gefressen - ihre Seelen werden in Stücke gerissen und gehen für immer verloren - und stärken den Zirkel durch die Ausmerzung solcher Schwäche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Naja ... Vielleicht hat mein Stamm doch nicht ganz Unrecht damit gehabt, dass meine Geisterwandlerform eine Art von Seelenterror ist. Wahrscheinlich habe ich nur darauf gehofft, eine andere Antwort zu dieser Angelegenheit zu bekommen, aber ..."
+
+Hiravias zuckt mit den Achseln und lässt seine Arme nach unten fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Aber es lohnt sich, das zu fragen: Wie viele Seelen hast DU zerstört, als du im Herbst-Stelgaer-Pelz unterwegs warst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Du meinst, denen ich mir bewusst bin? Keine!" Seine Stimme klingt resolut, aber sein Gesicht wird rot.
+
+"Ich verstehe schon, was du sagst: Dass ich nur die Form des Herbst-Stelgaer annehme, dass er keine Kontrolle über mich oder meine Persönlichkeit hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Er stößt einen langen Seufzer aus und entspannt sich.
+
+"Jahrelang habe ich mir selbst gesagt, dass mein Stamm ungerecht über mich geurteilt hat ... aber sie lagen wohl nicht völlig falsch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Also, das ist erstmal genug dogmatische Lehrmeisterei!", sagt er und betätschelt eine Schmachtlocke. "Ich muss noch mehr wissen - lass uns die anderen Tafeln ansehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Diese andere Tafel erwähnte also die Grabinsel und eine andere sprach von Seelen, die sich im Laufe der Zeit auftrennen, und dass Opfer eine Art Gegenmaßnahme dafür sind ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Kann man behaupten, dass die Wael dich dorthin gebracht hat, wo du hingehörst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ja, das kann man fast mit Sicherheit sagen", meint Hiravias lächelnd.
+
+"Also hatte mein Stamm Recht - der Herbst-Stelgaer IST eine Art von seelenzerstörendem Biest. Ich aber leihe mir nur die Form der Kreatur aus - nicht ihren Daseinsgrund."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich glaube nicht, dass ich ihre Meinung über irgendetwas ändern könnte - und es ist auch nicht so, als wollte ich unter diesen ... Opferhandwerkern eine neue Gruppe druidischer Kollegen rekrutieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Also was jetzt?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Wenn ich all das überdenke, dann würde ich gerne zur Grabinsel ziehen - der Name wurde auf den Tafeln erwähnt und es wurde angedeutet, dass sich dort weitere Herbst-Stelgaer befinden könnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ich wollte keine Bestätigung hören, dass der Herbst-Stelgaer solch ein fürchterliches Monster ist, aber ich danke Wael dafür, dass er mich zu diesen Tafeln geführt hat. Die Wahrheit ist wertvoll, besonders wenn sie schmerzlich ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Willst du wieder mit dem Herbst-Stelgaer kämpfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Nicht unbedingt. Seit unserer letzten Rauferei bin ich älter, weiser und stärker geworden, aber ... ich kann es mir wirklich nicht erlauben, noch mehr Augen oder Ohren zu verlieren. Die sind mir gewissermaßen etwas ausgegangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Sollten wir es zur Grabinsel schaffen, würde ich gerne die Gegend erkunden. Den Tafeln nach zu schließen sind viele dorthin hingegangen, um sich von dem Biest ermorden - Entschuldigung, beurteilen - zu lassen."
+
+Er räuspert sich und lächelt dich nervös an. "Ich sterbe nicht gerade vor Verlangen, ihn wiederzusehen, aber anscheinend  bestehen Wael und Galawain darauf, mich zu diesem Aufeinandertreffen zu führen. Wenn du also fertig bist, dann lass uns zur Grabinsel aufbrechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Meinst du, dass es in deiner Bestimmung liegt, eine fremde Seele zu verschlingen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Das ist ein Gedanke, der mich schon immer belastet hat. Vielleicht ist das Seelenfressen wie das Ficken - wenn ich die richtige Person treffe, übernehmen die Instinkte ... und am nächsten Morgen fühle ich mich beschämt, wenngleich selbstzufrieden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Was jetzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Überdenkst du deine Meinung über Galawains Geschenk an dich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Hiravias verzieht das Gesicht und wiegt seinen Kopf hin und her. "Hmmh ... ja ... und nein."
+
+Er ballt seine Fäuste und lässt einen langen Seufzer los. "Ja, das relativiert viele Dinge. Mit etwas Abstand betrachtet lacht Galawain wohl schallend darüber, wie langsam ich brauche, um seine Lektionen zu erlernen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich bezweifle, dass irgendein Teil dieses Erkenntnisse die Meinungen meines Heimatstammes ändern werden, und nachdem ich da draußen einige andere druidische Methoden kennengelernt habe, werde ich wohl lieber ein Herumtreiber bleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Die Wahrheit wird dir offenbart und du jammerst über deine Abneigung gegen die Antwort? Wael würde sich für dich schämen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Hiravias blinzelt dich mehrmals an. "Zwei Sachen. Erstens: Belehre mich nicht über Wael. Zweitens: Du hast absolut Recht."
+
+Seine Hände zupfen an seinem Waffenrock und er richtet seinen Körper auf. "Ich sollte mich über das Lernen selbst freuen und nicht über meine eigenen Erwartungen stolpern - so würde es Wael wollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ist es dir eigentlich schon mal gekommen, dass dich Galawain nur getestet hat und du bestanden hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Das ist ..." Hiravias' gesundes Ohr stellt sich auf und ihm zieht ein Lächeln übers Gesicht. "Das ist ein äußerst gutes Argument. Warum habe ich nicht selbst daran gedacht?"
+
+Er fährt mit den seinen Händen die Narben an seinem Auge entlang, und seine Körperhaltung wird durch nervöse Gedanken belebt.
+
+"Vielleicht habe ich das alles völlig falsch gedeutet. Ich meine ... schließlich habe ich ein Aufeinandertreffen mit dem Herbst-Stelgaer überlebt - viele Anamfaths können das nicht von sich behaupten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Du scheinst so traurig zu sein, die Geisterwandlerform eines derart legendären Biests zu haben. Sag mir bloß nicht, dass du dir noch niemals solche Macht gewünscht hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Er legt seine Stirn in Falten und äugt dich mit seinem einen Auge an. "Ich hätte ich mich in einen Haufen Wieselkacke verwandelt, wäre ich dadurch nicht geächtet worden!"
+
+Als sein Zorn nachlässt, schaut er dich einen langen Augenblick an, während er nach Worten ringt.
+
+"Das war ein ... gutes Argument. Ich betete tatsächlich zu Galawain, mich zu einem besseren Jäger zu machen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Da sich Seelen in viele Teile auftrennen", liest Hiravias die glanfathanischen Runen mit dramatischer Begeisterung von den Tafeln ab, "kommen viele Leben aus einem."
+
+"Die wahrhaftigste Macht stammt aus der Opferung des Seelensplitters, um dem Mutterstein seine Stärke zurückzugeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Hmmm ... Der Teil mit ' kommen viele Leben aus einem' kommt mir bekannt vor - man brachte mir bei, dass sich eine Seele zwischen Tod und Wiedergeburt manchmal makellos in zwei Teile spaltet - so dass zwei vollwertige Seelen aus einer entstehen."
+
+"Es klint seltsam, aber es ist einleuchtend, wenn man bedenkt, wie die Bevölkerung über die Generationen hinweg angewachsen ist. Es ist eine mathematische Notwendigkeit, dass ein solcher Prozess vor sich geht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Danke über die Lektion über Beseelung - aber was glaubst du, hat das mit dir zu tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich vermute ... " Hiravias hält inne und liest die Tafel von neuem, wobei er sich die glanfathanische Schrift lautlos vorliest.
+
+"Naja, vermutlich haben wir alle, oder wenigsten die meisten von uns, eine Seele, die viele Leben gelebt und sich an einem oder mehreren Punkten aufgetrennt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ich kann einfach nicht die Angst ablegen, dass ich der 'Splitter' bin und dass es meine Bestimmung, ist in etwas Größeres eingespeist zu werden."
+
+Hiravias starrt dich mit aufgerissenen Augen mehrere Augenblicke lang an.
+
+"Mir Sorgen zu machen wird mich wohl auch nicht weiterbringen - lass uns diese anderen Tafeln lesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Hiravias schaut dich nachdenklich an.
+
+"Also sprach die eine Tafel davon, wie der Stelgaer die schwachen Anamfaths auskeulte - und die andere legte nahe, dass das Biest Dinge einen kann."
+
+"Und bin ich der Mutterstein oder der Splitter des Gleichnisses? Wael muss meine Verwirrung genießen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vielleicht spielt der Herbst-Stelgaer in diesem Seelenkreislauf eine sehr wichtige Rolle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Entschuldigung, mein Herr, ich fresse Ihre Seele gar nicht, ich spiele nur eine unverzichtbare Rolle im natürlichen Kreislauf." Hiravias verdreht sein Auge. "Ich verstehe schon, auf was du hinauswillst, aber dadurch fühle ich mich auch nicht besser."
+
+"Die Pilze, die auf Scheiße wachsen, haben auch eine wichtige Rolle im natürlichen Kreislauf inne - aber deshalb möchte ich mich noch lange nicht in eine Kackblüte verwandeln!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Warum hat dich Wael dann zu dieser Tafel geführt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Hiravias kratzt sich an seinem Ohrstummel, während sein Blick den Boden entlanggleitet. "Wenn dieser Druide wirklich wollte, dass ich diese Tafel sehe ... und wenn Wael tatsächlich mein Streben nach Wissen leitet ..."
+
+"Dort draußen gibt es jemanden, der oder die dieselbe 'Seelenvergangenheit' wie ich hat? Na und? Das trifft wahrscheinlich auf die meisten von uns zu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Hiravias räuspert sich und liest die glanfathanische Schrift auf der Tafel: "Auf der Grabinsel treffen sich die beiden Männer zum ersten Mal wieder, obwohl es das Letzte war, das sie taten. Das vielfarbige Biest riss sie beide in Stücke. Im Tod wurden sie wieder zusammengefügt und waren wieder eins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Er schaut dich an und kichert nervös. "Hübsches Geschichtchen - zwei Kerle 'treffen' sich im Bauch einer seelenfressenden Kreatur wieder. Vielleicht werde ich eines Tages zwei der dümmsten dyrwäldlerischen Holzfäller fressen, und dann werden mir im Dickdarm herumspuken, während sie auf ewig über Bier reden." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Vielleicht ist der Grundgedanke, dass der Herbst-Stelgaer die Seelen in Wirklichkeit nicht zerstört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Das könnte stimmen", murmelt Hiravias, "aber ich glaube, ich weiß nicht, wie ich das deuten soll. Ich habe noch nie - zumindest nicht wissentlich - IRGENDEINE Seele gefressen ... vielleicht ist das ein Kunst, die ich noch erlernen muss. Was ein Glück!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Trotzdem fällt es mir schwer zu glauben, dass ich irgendjemand wieder 'einen' könnte, indem ich ihn in meiner Geisterwandlerform zerfleische ... egal, was auf dieser Tafel steht."
+
+"Ich würde mir gerne ansehen, was auf den anderen Tafeln geschrieben steht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ich meine, wenn man hinzufügt, was auf den anderen Tafeln stand ... darüber, wie der Stelgaer über die Anamfaths urteilt, geringere Seelen eint und so weiter ..."
+
+Hiravias verschränkt die Arme und schaut dich nachdenklich an.
+
+"In Ordnung, der Druide hatte Recht - diese Tafeln musste ich wirklich lesen ... schade, dass ich immer noch verwirrt bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Warum so schnoddrig? Klingt doch danach, als hätte dir Galawain unvorstellbare Macht verliehen. Es ist ja nicht so, als wäre er zu dir gekommen - du hast ihn doch selbst um Hilfe gebeten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ja, nun ... " Er starrt dich einen für einen langen Augenblick an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Hiravias starrt dich weiter an, während er sein Kinn auf seiner Hand ruhen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Na gut, na gut - das ist ein gutes Argument. Wahrscheinlich habe ich mich nur über die Details aufgeregt, denn nachdem ich Galawain um Hilfe ersuchte, habe ich das Geisterwandeln tatsächlich geschafft ... so, wie ich es erbeten hatte."
+
+Hiravias fährt mit den Fingern die Narben entlang, die sich von seinem fehlenden Auge bis zu seinem fehlenden Ohr ziehen. "Ich wollte ein besserer Jäger sein ... der größte von allen. Wahrscheinlich ist hier eine Lektion verborgen: dass man sein Verlangen mäßigen sollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Jetzt weiß ich, dass mir Galawain seinen Abgesandten aus gutem Grund geschickt hat, um mich zu zerfleischen - es war nicht unbedingt Bosheit. Und ich hatte irgendwie gehofft, dass das ganze Gerede über das Seelenfressen nur Gerüchte wären ... aber leider ..."
+
+Er lächelt nervös und zuckt mit den Achseln. "Vielleicht werde ich die Beute treffen, die Galawain von mir gejagt sehen will ... oder ich werde herausfinden, dass ICH die Beute bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Hiravias schnauft und keucht, sein eines gutes Auge blickt starr auf Scathdens Leichnam. Er wippt auf seinen Fußballen vor und zurück, während von seinem Fell Blut und Schweiß herabtropfen - vielleicht erwartet er, dass sich der Leichnam wieder erhebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Amüsiert, vermute ich. Wael zeigte mir, dass Galawain meine Gebete beantwortete - er machte mich zu dem großen Jäger, der ich immer werden wollte. Das Zerfleischen war keine Bestrafung, nur eine sehr, sehr schwere Prüfung."
+
+Hiravias schaut auf Scathdens Körper hinunter und grinst. "Und ich glaube, Wael hat mir jetzt gerade gezeigt, was aus mir werden wird, wenn ich dieser Facette meines Lebens freien Laufe lasse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Hiravias nickt langsam und lächelt. "Hervorragend", sagt er nach einer langen Pause.
+
+Er umrundet Scathden mehrmals mit stolzen und entspannten Schritten. "Ich habe Galawains Prüfung erduldet und meinesgleichen besiegt. Ich bereue einzig und allein all die Jahre, die ich damit verschwendete, dies als Fluch anzusehen. Die Ächtung war zweifelsohne nur ein Weg Galawains, mich zum Stärkerwerden zu zwingen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Wie fühlst du dich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Sind wir hier fertig?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Hiravias nickt. "Ja, ich habe jetzt genug von Galawains Tests und Prüfungen. Selbst wenn ich jeden anderen Mann bezwingen könnte, der den Mantel des Herbst-Stelgaers trägt - was genau bringt mir das? Ich bin nicht mehr mit dem Herz bei der Jagd, wie ich es früher war."
+
+Er betrachtet Scathdens verstümmelte Leiche und schüttelt seinen Kopf. "Und das ist fast eine Schande, da ich ein ziemlich fantastischer und dennoch bescheidener Jäger bin. Aber um deine Frage zu beantworten: Ja, ich bin hier fertig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Fast zumindest", sagt er, während er sich vor Scathdens Körper hinkniet, den Kopf senkt und leise zu singen beginnt.
+
+Du kannst die Worte seines leisen, feierlichen Gesangs kaum hören: "Galawain, wir danken dir für die Führung unserer Jagd, denn heute stärken wir uns am Fleisch der Schwächeren." 
+
+Er steht auf, streicht seinen Waffenrock glatt und lächelt dich nickend an. "Ich glaube, wir sind hier fertig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Scathdens Leichnam untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Während sich deine Augen entspannen und deine Ohren sich an das Summen des Unsichtbaren gewöhnen, sieht du einen wirbelnden Haufen aus roten, orangenen und gelben Blättern. Der Blättersturm fliegt auseinander und die Blätter treiben ins Ungewisse davon.
+
+Als Scathdens Essenz verblasst, sieht du eine Handvoll Hiravias umkreisende Herbstblätter, während seine Seele in kühnerem Orange leuchtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Während er fortzugehen beginnt, wirbelt er plötzlich herum und murmelt: "Bevor ihn die Geier erwischen ... "
+
+Er geht zu Scathdens Leichnam hinüber, fasst mit einer Hand in den Mund des toten Mannes und zieht mit aller Kraft an. Sehnen und Knorpel reißen begleitet von Blutfontänen, bis er schließlich den Unterkiefer in der Hand hält. 
+
+"Ich dachte, ich sollte mir ein Erinnerungsstück mitnehmen". Als er seine blutüberströmte Trophäe betrachtet, errötet er lächelnd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Schließlich entspannt sich sein Körper und er blickt dich an und beginnt zu lächeln. "Er hat sich wohl mit dem falschen Kümmerling angelegt."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

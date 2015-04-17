@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\prototype_2\p2_cv_hendyna</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>74</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine junge Frau lehnt sich gegen einen Wagen. Ein Arm und eine Seite ihres Gesichts sind mit Bandagen bedeckt, unter denen du rohes, welliges Fleisch erkennen kannst. Von ihren Wundverbänden dringt ein minziger, scharfer Geruch zu dir herüber.
+
+Sie grinst schmerzhaft. "Gerade erst angekommen? Ich wollte gerade einen Teil meines Lagerbestands trocknen, aber du kannst dich trotzdem gerne umsehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Warum ist dein Lagerbestand so eingeschränkt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Zeig mir deine Waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Eigentlich suche ich ja nach einer verschwundenen Edelfrau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Sie geht zur Seite. "Selbstverständlich." In den Regalen ihrer Karre stehen Konservengläser, Fläschchen und gebündelte Papierstapel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Ein verabscheuendes Geräusch rasselt aus ihrer Kehle. "Briganten, Plünderer, such es dir aus. Die Götter mögen ja unsere Babies aushöhlen, aber es sind die Erwachsenen, die den Rest von uns ausradieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Sie zieht einen ihrer Verbände zurecht. "Kann ich sonst noch was für dich tun? Wenn du dich bald wieder ins Getümmel der Straßen stürzen wirst, hätte ich da einige nützliche Wundsalben für dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Leben Sie wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Was ist an den Straßen verkehrt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Es sind die verdammten Straßen. Ich kann keinen meiner Zulieferer kontaktieren und bin deshalb darauf angewiesen, was ich mir im Wald zusammenschnorren kann. Dyrwurz, Flussschilf und dergleichen."
+
+"Das ist alles schön und gut, aber die meisten Tränke benötigen auch noch stärkere Zutaten: Trollhaut, Gefäßknochen und so Zeugs. Außerdem gäbe es da noch die wirklich seltenen Zutaten, Sachen, die man sich niemals leisten, geschweige denn selbst finden kann ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Als der Rest der Geschichte aus ihr herausgesprudelt kommt, zuckt Hendyna zusammen. "Ich hatte ein Jungdrachennest östlich der Ortschaft beobachtet, bei der Dyrfurt-Flusskreuzung. Das Biest blieb gerade lange genug, um einen Haufen Eier zu legen, und zog dann weiter. Der Himmelsmutter sei Dank, dass es kein ausgewachsener Drache war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich könnte ein Ei für dich besorgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Sie starrt dich unverändert an, aber in ihren Augen siehst du aufkeimende Hoffnung, und ihre Mundwinkel beginnen zu zucken. "Ich hoffe wirklich, dass du mir nichts vormachst. Noch einmal ins Feuer zu langen könnte ich wohl nicht aushalten."
+
+Sie beißt sich auf die Lippe. "Wenn du das ernst meinst, würde ich dich auf jeden Fall dafür bezahlen. Vergiss aber nicht, dass Dracheneier trotz ihrer Größe ziemlich zerbrechlich sind, und mit einem intakten Ei kann ich viel mehr anfangen"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Erzähl mir nochmal über das Drachenei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich habe das Drachenei gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Fantastisch. Kein einziger Sprung." Sie streicht mir ihrer bandagierten Hand über die Eierschale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Hmmh, ein bisschen lädiert." Sie streicht mir ihrer bandagierten Hand über einen Sprung in der Eierschale. "Trotzdem ein seltener Fund. Danke sehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Sie schaut den Glibber, der aus der gebrochenen Eierschale herausläuft, schräg an. "Ich mach mich besser an die Arbeit, obwohl das zu deinen Füßen eigentlich nur ne teure Pfütze ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Sie hievt das Ei hinten auf ihre Karre und wühlt in ihren Regalen. "Hier, für dich." Sie lässt einen Stapel Münzen und ein Zutatenpaket in deine Hände fallen. "Alles, was du zum Brauen eines guten, starken Muntermachers brauchst. Bei der Art Schwierigkeiten, in die du zu geraten scheinst, könnte das noch nützlich werden."
+
+Sie beugt sich näher zu dir heran. "Und komm immer bei mir vorbei, wenn du Tränke oder Zutaten brauchst, abgemacht? Für Freunde habe ich Spezialpreise." Sie zwinkert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Du hattest gesagt, deine Vorräte wären beschränkt. Was ist passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ist das das Ei, nach dem du gesucht hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Bei Hyleas gefiederten Meisen! Sie klatscht die Hände zusammen und zuckt durch den Schmerz zusammen. Wie hast du das geschafft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ich habe das Nest gefunden, von dem du mir erzählt hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Hoffentlich haben dir diese Lindwürmer nicht zu viel Schwierigkeiten gemacht. Dann lass mal sehen." Sie wiegt das Ei mit ihrem gesunden Arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ich bin kein guter Geschichtenerzähler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Dann aber ein Mann der Tat. Nichts dagegen einzuwenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Wie hast du die Verbrennungen erlitten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Sie schaut zu Boden. "Durch die Flamme, wie schlimm sieht es aus? Es muss schrecklich sein!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Es sieht so aus, als würde es schmerzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Nur ruhig, so schlimm ist es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ich bin überrascht, dass du so noch ins Freie gehst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Wen kümmert es, wie es aussieht? Dass du in Ordnung bist, das ist die Hauptsache!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Sie lacht reumütig. "Das ist noch ziemlich untertrieben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ha! Notlügen erkenne ich spielend, aber trotzdem danke!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Sie schaut scharf zu dir hoch. "Nicht dass mir eine Wahl bliebe, niemand würde den Laden für mich weiterführen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Wahrscheinlich hast du Recht. Wie gut, dass ich mich mit Breiumschlägen auskenne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ich hatte ein Jungdrachennest östlich der Ortschaft beobachtet, bei der Dyrfurt-Flusskreuzung. Das Biest blieb gerade lange genug, um einen Haufen Eier zu legen, und zog dann weiter. Der Himmelsmutter sei Dank, dass es kein ausgewachsener Drache war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Was ist denn an diesen Eiern so besonders?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Aber die verdammten Straßen ... Ich kann keinen meiner Zulieferer kontaktieren und bin deshalb darauf angewiesen, was ich mir im Wald zusammenschnorren kann. Dyrwurz, Flussschilf und dergleichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Tränke, günstige Tränke! Tränke und- au! Ohhh ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Vergiss das Ei. Ich dich noch etwas anderes fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Sie seufzt. "Über meine Auseinandersetzung mit den Lindwürmern hab ich dir ja schon erzählt. Den Rest wirst du dir schon selbst zusammenreimen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Die Leute strömen nach Trutzbucht, weil sie hören, dass dort gesunde Kinder geboren werden. All die Flüchtlinge und verlassenen Häuser locken Verzweifelte jeder Art an wie Hundescheiße die Fliegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Weißt du irgendwas über eine nahegelegene Engwithan-Ruine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"In der Wildnis kann man nur schwer einen Stein werden, ohne dabei die heiligen Adra-Säulen von irgendjemand umzuwerfen. Kluge Reisende umgehen sie."
+
+"Wenn du aber wirklich auf Sehenswürdigkeiten aus bist, könnte dir Beodmar wohl den richtigen Weg zeigen. Er betreibt am nordwestlichen Rand des Dorfes einen kleinen Tempel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Oh, die Tochter dieses Fürsten? Als ich sie neulich morgens sah, war sie ganz grün im Gesicht. Sie hat mit Trygil geplaudert, vor seinem Laden." Sie deutet auf den zerfallenden Turm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Lord Harond sagte, dass die Reise sie krank gemacht hätte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Was war mit ihr los?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Du sprichst da über Morgenübelkeit. War sie schwanger?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Sie lacht. "Das war keine Reisekrankheit. Glaub mir, ich weiß, was ich sehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Ihr war so übel, dass ihr nicht mal Trygils ... Geruch auffiel." Sie zupft an einem Verband. "Normalerweise würde ich ja nichts sagen, aber dieses Mädchen ging mit einem Kind schwanger, wohl erst seit ein paar Monaten. Ich versuchte, ihr ein paar Kräuter zu geben, um es abzutreiben, um ihr Schwierigkeiten mit ihrem Vater zu ersparen, aber sie wollte sie nicht nehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Sie zupft an einem Verband. "Nichts gegen dich, aber ich kenne dich ja kaum. Ich bin keine Klatschtante, und ich möchte dem armen Mädchen auf keinen Fall noch mehr Schwierigkeiten machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Sie seufzt. "Genau, und deshalb war sie auch vollkommen durcheinander. Ihr war so übel, dass ihr nicht mal Trygils ... Geruch auffiel. Ich bot ihr einige Kräuter an, um ... das Problem zu erledigen. Ich dachte, das würde ihr einige Schwierigkeiten mit ihrem Vater ersparen, aber sie wollte sie nicht nehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Vielen Dank für die Informationen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Hendyna hat einige ihrer Verbände abgenommen. Ihre Verbrennungen sehen nun glatt und rosa aus. Sie glänzen vor frischer Wundsalbe. "Bin endlich auf dem Weg zur Besserung und wieder zurück im Geschäft. Kann ich etwas für dich tun, [Player Name]? Dir - aber nur dir - kann ich einen Spezialrabatt anbieten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Sie hievt das Ei hinten auf ihre Karre und wühlt in ihren Regalen. "Hier, für dich." Sie lässt einen Stapel Münzen und ein Zutatenpaket in deine Hände fallen. "Alles, was du zum Brauen eines kleinen Muntermachers brauchst. Bei der Art Schwierigkeiten, in die du zu geraten scheinst, könnte das noch nützlich werden."
+
+Sie beugt sich näher zu dir heran. "Und komm immer bei mir vorbei, wenn du Tränke oder Zutaten brauchst, abgemacht? Für Freunde habe ich Spezialpreise." Sie zwinkert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Sie geht zur Seite. "Selbstverständlich." In den Regalen ihrer Karre stehen Konservengläser, Fläschchen und gebündelte Papierstapel. "Aber diese Preise gelten nur für dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Sie gehören zu den stärksten Mitteln, die die Gestandenen kennen! Abgesehen von Carow Golan, natürlich. Nicht, das ich jemandem raten würde, das zu nehmen."
+
+"Dracheneier aber sind bekannt dafür, die Gestandenen kühn zu machen. Zielgerichtet. Manche glauben sogar, sie würden vor Bîaŵacs schützen." Sie zuckt mit den Achseln. "Ich weiß nur, dass alle hinter Tränken her sind, die aus Dracheneiern gemacht wurden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Vorher klang es so, als wüsstest du etwas über Aelys Harond. Ob du dein Wissen wohl mit einem Freund teilen würdest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Was hast du gefunden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Komm schon, spuck's aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ich suche eine Orlanerin namens Nyfre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ich habe neulich eine Orlanerin in die Dracogen-Schänke gehen sehen." Sie deutet über die Straße auf ein großes Gebäude. "Ich weiß nicht, wie sie hieß, aber sie verhielt sich merkwürdig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Ich will nur wissen, wie es passiert ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Es befindet sich in einem Nest auf einer Klippe am östlichen Ende der Dyrfurt-Flusskreuzung. In der Wildnis ein Stück östlich hier. Es gibt sicher anderswo noch mehr, aber das bei der Dyrfurt-Flusskreuzung ist genau im richtigen Alter."
+
+"Wenn du hingehst, sei vorsichtig. Als ich das letzte Mal dort war, wimmelte es von Lindwürmern, und ich nehme an, dass sie noch dort sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Es sind die verdammten Straßen." Sie mustert dich von oben bis unten. "Du hast wohl dasselbe Problem, sonst würdest du dich nicht mit so einem Nest mitten im Nirgendwo abgeben. Ich kann keinen meiner Zulieferer kontaktieren und bin deshalb auf das angewiesen, was ich mir im Wald zusammenschnorren kann. Dyrwurz, Flussschilf und dergleichen."
+
+"Das ist alles schön und gut, aber die meisten Tränke benötigen auch noch stärkere Zutaten: Trollhaut, Gefäßknochen und so Zeugs. Außerdem gäbe es da noch die wirklich seltenen Zutaten, Sachen, die man sich niemals leisten, geschweige denn selbst finden kann ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Sie starrt dich unverändert an, aber in ihren Augen siehst du aufkeimende Hoffnung, und ihre Mundwinkel beginnen zu zucken. "Ich hatte gehofft, dass du das tun würdest. Es heißt, du seist gut in solchen Dingen."
+
+Sie beißt sich auf die Lippe. "Wenn du das ernst meinst, würde ich dich auf jeden Fall dafür bezahlen. Vergiss aber nicht, dass Dracheneier trotz ihrer Größe ziemlich zerbrechlich sind, und mit einem intakten Ei kann ich viel mehr anfangen"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Sie starrt dich unverändert an, aber in ihren Augen siehst du aufkeimende Hoffnung, und ihre Mundwinkel beginnen zu zucken. "Ich hatte gehofft, dass du das tun würdest. Es heißt, die Gütigen Wanderer seien gut in solchen Dingen."
+
+Sie beißt sich auf die Lippe. "Wenn du das ernst meinst, würde ich dich auf jeden Fall dafür bezahlen. Vergiss aber nicht, dass Dracheneier trotz ihrer Größe ziemlich zerbrechlich sind, und mit einem intakten Ei kann ich viel mehr anfangen"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Sie starrt dich unverändert an, aber in ihren Augen siehst du aufkeimende Hoffnung, und ihre Mundwinkel beginnen zu zucken. "W-wirklich? Ich hätte nicht geglaubt, dass du mir bei so etwas helfen würdest, aber ich würde das Angebot gerne annehmen."
+
+Sie beißt sich auf die Lippe. "Wenn du das ernst meinst, würde ich dich auf jeden Fall dafür bezahlen. Vergiss aber nicht, dass Dracheneier trotz ihrer Größe ziemlich zerbrechlich sind, und mit einem intakten Ei kann ich viel mehr anfangen"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Bei Hyleas gefiederten Titten!" Sie klatscht die Hände zusammen und zuckt durch den Schmerz zusammen. "Ich wusste, du kannst mir helfen! Wie hast du es geschafft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Sie schaut zu Boden. "Durch die Flamme, wie schlimm sieht es aus? Sag es einfach. Ich weiß, du beschönigst nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Ihre Augen weiten sich vor Verwunderung. "Ich dachte, jemand mit deiner Bildung würde das wissen. Sie gehören zu den stärksten Mitteln, die die Gestandenen kennen! Abgesehen von Carow Golan natürlich. Nicht, das ich jemandem raten würde, das zu nehmen."
+
+"Dracheneier aber sind bekannt dafür, die Gestandenen kühn zu machen. Zielgerichtet. Manche glauben sogar, sie würden vor Bîaŵacs schützen." Sie zuckt mit den Achseln. "Ich weiß nur, dass alle hinter Tränken her sind, die aus Dracheneiern gemacht wurden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Sie schaut ihren bandagierten Arm an und verzieht das Gesicht. "Frische Eier sind sehr viel nützlicher als welche, die von Händler zu Händler wandern oder wochenlang im Nest liegen, und die Eier dort schienen genau im richtigen Alter zu sein. Ich wollte mir ein Ei beschaffen, aber ich wusste nicht, dass schon so viele geschlüpft waren ... oder dass junge Lindwürmer ihr Territorium so heftig verteidigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Sie schaut ihren bandagierten Arm an und verzieht das Gesicht. "Frische Eier sind sehr viel nützlicher als welche, die von Händler zu Händler wandern oder wochenlang im Nest liegen, und die Eier dort schienen genau im richtigen Alter zu sein. Ich wollte mir ein Ei beschaffen, aber ich wusste nicht, dass schon so viele geschlüpft waren ... oder dass junge Lindwürmer ihr Territorium so heftig verteidigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

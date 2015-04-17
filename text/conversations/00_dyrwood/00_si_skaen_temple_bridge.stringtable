@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_si_skaen_temple_bridge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Weg endet an einem Abgrund. Auf der anderen Seite der Schlucht liegen die Überreste einer Brücke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Gegend untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Dein Seil mit Enterhaken über die Schlucht werfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Finsternis unter dir erstreckt sich so weit das Auge reicht. Im Abgrund liegen zerbrochene Steinsäulen, Überreste der fehlenden Brücke.
+
+Auf der anderen Seite der Kluft glaubst du, eine lange Steinbrücke auszumachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Aus den Steinen auf beiden Seiten der Schlucht ragen Holzbalken heraus, die trotz ihres Alters robust genug für den Einsatz von Enterhaken und Seil aussehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du zielst auf die Balken auf der gegenüberliegenden Seite der Schlucht und wirfst deinen Enterhaken dann über die Kluft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Er verhakt sich in einen der Balken, und als du anziehst, gräbt er sich in das Holz hinein. Du prüfst, ob er sicher sitzt, indem du das Seil mehrmals fest anziehst. Das lose Seilende bindest du an einem der Balken neben dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Das Echo eines schwerfälligen Atmens erklingt über der Schlucht. Alle werden müde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Auf dem Seil über die Schlucht gehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Das Echo eines schwerfälligen Atmens erklingt über der Schlucht. [SkillCheck 0], [SkillCheck 1], [SkillCheck 2] und [SkillCheck 3] werden müde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Das Echo eines schwerfälligen Atmens erklingt über der Schlucht. Alle außer [SkillCheck 0] werden müde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Du erreichst die andere Seite sicher, aber erschöpft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Als du auf die andere Seite gehst, bleibt das Seil unter deinem Gewicht straff, aber jede deiner Bewegungen lässt es vibrieren. Das Echo des Stöhnens und Knarzens der Holzbalken hallt im Abgrund wieder.
+
+Du gehst langsam und gleichmäßig voran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Der Weg endet an einem Abgrund. Auf der anderen Seite der Schlucht liegen die Überreste einer Brücke.
+
+Dein Seil erstreckt sich über die Kluft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Das Echo eines schwerfälligen Atmens erklingt über der Schlucht. [SkillCheck 0], [SkillCheck 1] und [SkillCheck 2] werden müde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Du erreichst die andere Seite ohne Zwischenfälle. Das Seil fühlt sich gespannt und sicher an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Das Echo eines schwerfälligen Atmens erklingt über der Schlucht. [SkillCheck 0] und [SkillCheck 1] werden müde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Das Echo eines schwerfälligen Atmens erklingt über der Schlucht. [SkillCheck 0] wird müde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

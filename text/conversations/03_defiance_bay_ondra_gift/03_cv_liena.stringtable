@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_liena</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine junge Frau steht hinter dem Tresen und beobachtet dich mit schnellen, intelligenten Augen.
+
+"Willkommen. Das ist Ihr erster Besuch der Vailianischen Handelsgesellschaft, richtig? Bitte lassen Sie mich wissen, wie ich Ihnen behilflich sein kann." Ihr Tonfall ist gleichermaßen professionell und neugierig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Haben Sie noch mehr Geschäfte zu besprechen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Was ist das für ein Ort?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Die Vailianischen Handelsgesellschaft ist eine Gesellschaft von Kaufleuten aus den Vailianischen Republiken. Wir beaufsichtigen im Interesse unserer Kaufleute Handelsabkommen und -verhandlungen." 
+
+Sie deutet auf die Tür zu ihrer Rechten. "Dies ist unser Lagerhaus, wo wir Transitgüter aufbewahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich bin die Direktionsassistentin dieses Lagerhauses. Derzeit helfe ich Verzano bei den laufenden Geschäften, aber ich werde hier übernehmen, wenn er sich zur Ruhe setzt ... oder falls die Firmenchefs zu Hause beschließen, dass es an der Zeit für eine neue Verwaltung ist." Sie verdreht ihre Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Willkommen in der Vailianischen Handelsgesellschaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich bin die neue Lagerhausleiterin. Verzano, mein Vorgänger ... " Sie verdreht ihre Augen zur Tür. "Er war der Aufgabe nicht länger gewachsen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_cv_drake_godhammer_acquire</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Auf dem Boden, da, wo sich der Drachen eingerollt hatte, findest du einen hellorange leuchtenden Stein, der sich aber dennoch kühl anfühlt. 
+
+Als Durance einen Blick darauf erhascht, quellen seine Augen förmlich hervor. Er blickt finster drein, spitzt die Lippen, als hätte er Gift gekostet und spuckt auf den steinigen Boden aus.
+
+"Der grausame Scherz einer Hure. Die Schlampe wusste schon immer, wie sie ihre Klauen in mich schlagen muss, um mich zu provozieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Dieser- dieser Stein, den du da trägst. Das ist ein Teil der Bombe, die Eothas vernichtete. Der Götterhammer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Was meinst du damit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Du scheinst wütend zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Was hat er hier zu suchen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Zum ersten Mal scheint sich Durance seines Auftretens bewusst zu werden und seine Wut scheint so schnell zu vergehen, wie sie gekommen ist ... bis du dich zu fragen beginnst, ob er wirklich wütend gewesen ist.
+
+"Hmmh? Das, was du siehst, ist keine Wut. Anscheinend bin ich lediglich das Opfer eines göttlichen Schabernacks. Das wird zwischen ihr und mir bleiben, Wächter, da nur ich ihn zu schätzen weiß."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Man fragt sich schon: Die Explosion der Bombe war zwar massiv, aber die Fragmente wären nicht derart weit von der Zitadelle gelandet. Der Jungdrache muss ihn ziemlich weit getragen haben. Oder aber Magran hat ihn selbst hier abgelegt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Erzähl mir vom Götterhammer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Frag mich unterwegs, Wächter. Jetzt, wo mir das bittere Parfüm der Hure noch die Sinne vernebelt, bin ich nicht in der Stimmung dafür."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Weggehen] "Lass ihn uns zurück zu Fyrga bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Im Augenwinkel sieht du Durance abermals finster dreinblicken, aber er sagt nichts mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ob es etwas wert ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ha! Das frag mal Eothas."
+
+"Wenn du den Wert in Kupfer meinst ... es gab eine Zeit, in der das wohl so gewesen wäre. Jetzt aber, da die Märkte mit Stücken des Götterhammers überflutet wurden, sind die meisten dieser Fragmente nicht mehr als die trivialen Verzauberungen von Schwindlern, die mit Zauberei herumpfuschen. Fälschungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Da es noch nie einen verlässlichen Weg zur Beurteilung der Authentizität eines Fragments gegeben hat und die Möchtegern-Experten oft Wächter sind, deren Fragwürdigkeit denen der Artefakte in nichts nachsteht, ist ihr Wert beträchtlich gefallen."
+
+"Frag einfach irgendeinen Ladenbesitzer, ob er Interesse daran hätte, dann wird er stattdessen versuchen, dir seine Fragmente zu verkaufen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

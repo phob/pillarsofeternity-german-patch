@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_si_burial_isle_passage</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du trittst durch einen Durchgang in einen unterirdischen Tunnel. Eine Treppe windet sich nach oben, zu einem dunklen Gang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Den Schutt mit einem Brecheisen beseitigen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Den Schutt lockern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du stemmst dein Brecheisen gegen einen großen Stein und drückst mit aller Kraft dagegen. Es gelingt dir, den Felsen zu lösen. Er rollt mit einem tiefen Knarzen davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Steine sind schwer und scheinen eng ineinander verkeilt zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Andere Brocken und Stücke des Schutts beginnen abzubrechen. Der gewaltige Haufen knarzt und ächzt und droht, eintausend Kilo Stein auf dich niederzuhageln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[[Slot 0] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[[Slot 1] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[[Slot 2] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[[Slot 3] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[[Slot 4] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[[Slot 5] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Slot 0] packt einen großen Stein und beginnt zu ziehen. Dreck rieselt aus den Ritzen zwischen den Felsen. Es gelingt [Slot 0], den Felsen zu lösen. Er rollt mit einem tiefen Knarzen davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Slot 0] zieht und zerrt, kann den Schutt aber nicht lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Slot 1] packt einen großen Stein und beginnt zu ziehen. Dreck rieselt aus den Ritzen zwischen den Felsen. Es gelingt [Slot 1], den Felsen zu lösen. Er rollt mit einem tiefen Knarzen davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Slot 1] zieht und zerrt, kann den Schutt aber nicht lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Slot 2] packt einen großen Stein und beginnt zu ziehen. Dreck rieselt aus den Ritzen zwischen den Felsen. Es gelingt [Slot 2], den Felsen zu lösen. Er rollt mit einem tiefen Knarzen davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Slot 2] zieht und zerrt, kann den Schutt aber nicht lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Slot 3] packt einen großen Stein und beginnt zu ziehen. Dreck rieselt aus den Ritzen zwischen den Felsen. Es gelingt [Slot 3], den Felsen zu lösen. Er rollt mit einem tiefen Knarzen davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Slot 3] zieht und zerrt, kann den Schutt aber nicht lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Slot 4] packt einen großen Stein und beginnt zu ziehen. Dreck rieselt aus den Ritzen zwischen den Felsen. Es gelingt [Slot 4], den Felsen zu lösen. Er rollt mit einem tiefen Knarzen davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Slot 4] zieht und zerrt, kann den Schutt aber nicht lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Slot 5] packt einen großen Stein und beginnt zu ziehen. Dreck rieselt aus den Ritzen zwischen den Felsen. Es gelingt [Slot 5], den Felsen zu lösen. Er rollt mit einem tiefen Knarzen davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Slot 5] zieht und zerrt, kann den Schutt aber nicht lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Den Schutt in Ruhe lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du trittst einen Schritt zurück und überlegst, was du tun kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Als der Schutt hinabrollt, springst du durch die immer enger werdende Lücke. Der Felsrutsch kracht hinter dir hinab, du wirst lediglich im Nacken von ein paar kleinen Kieseln getroffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Slot 0] tritt in die Lücke und stemmt sich gegen die wankenden Steine. [Slot 0] hält den Felsrutsch lange genug an Ort und Stelle, dass die Gruppe durch die Lücke schlüpfen und sich in Sicherheit bringen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Slot 1] tritt in die Lücke und stemmt sich gegen die wankenden Steine. [Slot 1] hält den Felsrutsch lange genug an Ort und Stelle, dass die Gruppe durch die Lücke schlüpfen und sich in Sicherheit bringen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Slot 2] tritt in die Lücke und stemmt sich gegen die wankenden Steine. [Slot 2] hält den Felsrutsch lange genug an Ort und Stelle, dass die Gruppe durch die Lücke schlüpfen und sich in Sicherheit bringen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Slot 3] tritt in die Lücke und stemmt sich gegen die wankenden Steine. [Slot 3] hält den Felsrutsch lange genug an Ort und Stelle, dass die Gruppe durch die Lücke schlüpfen und sich in Sicherheit bringen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Slot 4] tritt in die Lücke und stemmt sich gegen die wankenden Steine. [Slot 4] hält den Felsrutsch lange genug an Ort und Stelle, dass die Gruppe durch die Lücke schlüpfen und sich in Sicherheit bringen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Slot 5] tritt in die Lücke und stemmt sich gegen die wankenden Steine. [Slot 5] hält den Felsrutsch lange genug an Ort und Stelle, dass die Gruppe durch die Lücke schlüpfen und sich in Sicherheit bringen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Als der Schutt hinabrollt, springst du durch die immer enger werdende Lücke. [SkillCheck 0] ist jedoch nicht schnell genug und verschwindet hinter den herabstürzenden Steinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Aus einer Staubwolke, gekrümmt, taucht [Skill Check 0] auf und hält sich seine schmerzenden Rippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Licht strahlt in den Tunnel vor dir. Es wird immer heller, je weiter du gehst. Bald endet der Gang, hoch über den Klippen der Grabinsel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Du trittst durch den Durchgang in den unterirdischen Tunnel. Die Wendeltreppe steigt zu einem Gang auf, der durch Felsschutt versperrt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Die Steine selbst entfernen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Du packst einen großen Stein und beginnst zu ziehen. Dreck rieselt aus den Ritzen zwischen den Felsen. Es gelingt dir, den Felsen zu lösen. Er rollt mit einem tiefen Knarzen davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Du ziehst und zerrst, kannst den Schutt aber nicht lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du trittst in die Lücke und stemmst dich gegen die wankenden Steine. Du hältst den Felsrutsch lange genug an Ort und Stelle, um durch die Lücke zu schlüpfen und dich in Sicherheit zu bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Auf der oberen Ebene dringt Licht durch die eingestürzte Decke. Eine Mauer aus Steinhaufen und Schutt blockiert den Weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Für dein aufmerksames Auge sieht der Schutt gefährlich instabil aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Den Schutthaufen untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Für dein aufmerksames Auge sieht der Schutt gefährlich instabil aus. Die Felsen scheinen durch bloßen Zufallen zusammenzuhalten. Wenn man nur einen davon bewegt, könnte alles einstürzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

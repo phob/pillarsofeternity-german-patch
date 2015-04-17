@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_artificer_shopkeeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Seien Sie gegrüßt, mein Fürst. Hier finden Sie nur die raffiniertesten Apparate. Öle, Fallen und verzauberte Sachen - alles, was man zum Fesseln und Frustrieren seiner Feinde braucht. Möchten Sie einen Blick darauf werfen?"</DefaultText>
+      <FemaleText>"Seien Sie gegrüßt, meine Fürstin. Hier finden Sie nur die raffiniertesten Apparate. Öle, Fallen und verzauberte Sachen - alles, was man zum Fesseln und Frustrieren seiner Feinde braucht. Möchten Sie einen Blick darauf werfen?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Lass mich mal sehen, was du anzubieten hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Guten Tag, mein Fürst. Haben wir heute Bedarf an Fallen?"</DefaultText>
+      <FemaleText>"Guten Tag, meine Fürstin. Haben wir heute Bedarf an Fallen?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Guten Abend, mein Fürst. Haben wir heute Bedarf an Fallen?"</DefaultText>
+      <FemaleText>"Guten Abend, meine Fürstin. Haben wir heute Bedarf an Fallen?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

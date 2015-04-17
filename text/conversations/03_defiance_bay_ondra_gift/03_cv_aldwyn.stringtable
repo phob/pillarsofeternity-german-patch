@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_aldwyn</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die langen Haare des Elfs rahmen seine hohen Wangenknochen und seine lange, schlanke Nase ein. "So ein frischer Wind weht nicht jeden Tag in den Club hinein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wie viel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen] "Ich gehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Nur zweihundert Kupferstücke für den Held von Ondras Geschenk."</DefaultText>
+      <FemaleText>"Nur zweihundert Kupferstücke für die Heldin von Ondras Geschenk."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Nur sechshundert Kupferstücke für mein täglich Brot, während du und ich uns an der Liebe laben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich stamme aus dem Dyrwald und bin versiert in den feinen Künsten. Solltest du nach Gewandtheit und Raffinesse suchen, dann bist du am Ziel." Er wickelt seine schlanken Finger um einen Weinbecher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[200 KS zahlen] "In Ordnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[600 KS zahlen] "In Ordnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Nur vierhundert Kupferstücke für mein täglich Brot, während du und ich uns an der Liebe laben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[400 KS zahlen] "In Ordnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Nachdem Serel weg war, brauchte der Salzige Mast eine neue Führung. Also, hier bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Nur achthundert Kupferstücke für mein täglich Brot, während du und ich uns an der Liebe laben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Nur sechshundert Kupferstücke für mein täglich Brot, während du und ich uns an der Liebe laben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Nur vierhundert Kupferstücke für den Held von Ondras Geschenk."</DefaultText>
+      <FemaleText>"Nur vierhundert Kupferstücke für die Heldin von Ondras Geschenk."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[400 KS zahlen] "In Ordnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[600 KS zahlen] "In Ordnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[800 KS zahlen] "In Ordnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich hatte mich schon gefragt, wann du vorbeikommen würdest ... möchtest du dich entspannen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Er schließt seine Augen und seufzt. "Weißt du, ich überlege, ob ich aus der Stadt weggehe. Irgendwo auf dem Land einen Laden eröffne." Er hebt eine Augenbraue. "Wenn ich eine sichere Bleibe hätte, könnten wir uns vielleicht häufiger sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Du bist eine Freude für die Sinne. Bitte, du kannst jederzeit zurückkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Du bist eine Freude für die Sinne. Bitte, du kannst jederzeit zurückkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Du bist eine Freude für die Sinne. Bitte, du kannst jederzeit zurückkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ich hoffe, du gestattest mir, dich bei deinem nächsten Besuch zu bedienen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ich habe zufälligerweise eine Festung ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Weggehen] "Wir sehen uns bei meinem nächsten Besuch hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ja, bitte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Nein, jetzt nicht, fürchte ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Du bist eine Freude für die Sinne. Bitte, du kannst jederzeit zurückkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Du bist eine Freude für die Sinne. Bitte, du kannst jederzeit zurückkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Du bist eine Freude für die Sinne. Bitte, du kannst jederzeit zurückkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Dann sehen wir uns dort."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

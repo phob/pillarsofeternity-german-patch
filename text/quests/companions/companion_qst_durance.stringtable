@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\companions\companion_qst_durance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Prüfungen von Durance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Lerne Durance kennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Besprich deine Vision mit Durance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Lerne Durance noch mehr kennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Erfahre von Durance, was es mit den verblassenden Symbolen auf sich hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Setze deine Reise mit Durance fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Sprich mit Durance über Woedica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>In Magrans Gabelung traf ich einen merkwürdigen Priester, der vorgibt, dass wir vom gegenseitigen Befragen etwas erlangen müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Durance ist der Ansicht, dass er und ich zum gemeinsamen Reisen bestimmt wären, und dass wir einander lehren könnten. Er ist ein Mann vieler Worte, der mehr Fragen aufzuwerfen als Antworten zu bieten scheint, aber vielleicht kann ich etwas Wissenswertes von ihm lernen, wenn ich lange genug mit ihm unterwegs bin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich hatte einen Traum über Durance. Meine Augen schienen sich nicht auf ihn konzentrieren zu können, und aus seinem Stab fuhr ein blendender Blitz. Etwas an dem Traum schien mir fast zu real zu sein - als ob sich mir etwas in seiner Seele offenbarte. Ich sollte ihn fragen, was ich da gesehen habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Durance offenbarte mir, dass er einer der Ingenieure der Götterhammerbombe war. Das muss Teil einer längeren Geschichte sein, die er mir aber nicht erzählt - zumindest noch nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich hatte noch einen Traum über Durance. Ich sah ein brennendes Symbol auf seinem Stab - ein Kreis aus zwölf kleineren Kreisen. Als ich ihn betrachtete, verblassten alle Kreise bis auf einen. In meinem Traum schien Durance zu versuchen, sie wieder zu entfachen, womit er aber keinen Erfolg hatte. Vielleicht weiß Durance, was das zu bedeuten hatte ... schließlich konnte er mir auch beim letzten Traum weiterhelfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Als ich Durance über die verblassenden Kreise auf seinem Stab fragte, wich er mir aus. Er behauptete, sie würden seine verlorene Verbindung zu den anderen Ingenieuren des Götterhammers darstellen, die er nach der Vernichtung von Eothas zurückgelassen hatte, um seinen eigenen Weg zu gehen. Wenn die richtige Zeit gekommen ist, werde ich mal sehen, ob sich darüber nicht mehr erfahren lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Nachdem ich erfahren habe, dass Woedica für Waidwens Vermächtnis verantwortlich ist, habe ich jetzt viele Fragen über die Umstände des Kriegs des Heiligen und die Vernichtung von Eothas. Durance könnte mir vielleicht weitere Einblicke gewähren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Die Diskussion über Woedicas Verschwörung und den Tod von Eothas erschütterte Durance. Angesichts der Tatsache, dass der Götterhammer Magrans Werk war, scheint es wahrscheinlich, dass Magran mit Woedica gemeinsame Sache machte. Durance aber scheint das immer noch abzustreiten. Wenn ich ihm mit seinen eigenen Worten den schlagenden Beweis dafür liefere, könnte ich ihn damit vielleicht aus Magrans Griff befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich schaffte es, Durance Magrans Verschwörung mit Woedica zum Bau des Götterhammers vor Augen zu führen. Sie ignorierte ihn nicht deshalb, weil er ihr Unrecht getan hatte, sondern weil sie ihn eigentlich zusammen mit den anderen Götterhammer-Ingenieuren in den Tod hatte schicken wollen, um ihre direkte Verwicklung in die Vernichtung von Eothas geheim zu halten. Obwohl dieses Bündnis zwischen den Göttinnen anscheinend nicht von langer Dauer gewesen war, wirft es neues Licht auf den Krieg des Heiligen und der anschließenden Epidemie der hohlgeborenen Kinder. Durance hat sich seinerseits von seiner Göttin losgesagt und Rache geschworen. Als ein Mann, der schon einen Gott getötet hat, scheint er zu den wenigen lebenden Leuten zu gehören, die eine solche Drohung wahr werden lassen könnten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Durance ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Diese Angelegenheit kann nicht länger angegangen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

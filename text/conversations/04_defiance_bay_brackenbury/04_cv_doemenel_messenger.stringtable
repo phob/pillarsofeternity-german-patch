@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_doemenel_messenger</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine Frau nähert sich dir mit einem Leuchten in den Augen. "[Player Name], nehme ich an? Ich habe schon viel von dir gehört. Genau wie mein Arbeitgeber. Deshalb hat er dir auch ein Geschäft vorzuschlagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sie blickt über ihre Schulter und tritt näher an dich heran. "Wenn du je in Farnheim bist, suche nach Abrecan Doemenel. Die Villa seiner Familie steht in der Mitte des Bezirks. Er hat einen Auftrag, für den jemand mit deinen Fähigkeiten nötig ist." 
+
+Sie zwinkert dir zum Abschied zu und verschwindet in der Menge.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

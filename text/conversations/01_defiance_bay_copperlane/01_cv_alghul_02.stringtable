@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_alghul_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die linke Seite des Schädels der Kreatur ist eingeschlagen. Ihr Leichentuch hat sich um ihren Oberkörper und Hals gewickelt. Sie starrt mit leerem Blick nach vorne, ohne deine Anwesenheit wahrzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hallo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Die Kreatur in Ruhe lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Kreatur reagiert nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Der Kreatur gegen den Kopf stoßen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du wirst für deine Mühen mit einem grotesken Schmatzgeräusch belohnt. Die Kreatur reagiert nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Aufhören! ... Ich brauche diese armen Geschöpfe für einfache Tätigkeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Nach wenigen Augenblicken wendet die Kreatur ihren Kopf plötzlich zu dir. Sie stößt ein tiefes, röchelndes Geräusch aus und greift nach dir - nach dem Medaillon, das du bei dir trägst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Ihr das Medaillon geben.] "Gehört das dir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Weg, weg mit dir!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Keinen Schritt näher, Kreatur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Kreatur ergreift das Medaillon mit ihren halb verfaulten Fingern. Sie röchelt erneut einen stinkenden Lufthauch aus und erstarrt dann wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Pfah. Jetzt ist sie nutzlos, bis sie dieses verfluchte Ding wieder fallenlässt. Es hat keinen Sinn, verlorenen Dingen hinterherzutrauern, sage ich - andererseits hat sie auch ihren halben Verstand verloren, was? Hahah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Diese Kreatur scheint besonders teilnahmslos zu sein. Sie starrt mit leerem Blick nach vorne, ohne sich zu bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Kreatur hält den Arm noch kurz ausgestreckt und scheint dann die Kraft zu verlieren. Sie senkt den Arm und wendet sich wieder ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_cv_dying_monk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Dies muss meinem Orden gebracht werden." Der Mönch greift kraftlos nach seinem Beutel und zieht daraus die Schriftrollenhülle eines Boten. "Nimm das!", krächzt er, und hält dir das Sendschreiben hin.
+
+"Es muss ... muss zum Himmlischen Bäumchen gebracht werden. Gib es meinen Brüdern ... sie werden dich belohnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Die Schriftrollenhülle öffnen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Die Schriftrollenhülle in deinem Rucksack verstauen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Der Mann auf dem Boden ringt nach Luft und hält sich die Brust. Als du ihn näher betrachtest, siehst du, dass sein roter Umhang die Schwere seiner Wunden verdeckt. Sein Gesicht wird weiß, die Blutlache um ihn herum wird immer größer. "Bitte. Reisender ... "
+
+Er streckt mühsam die Hand nach dir aus.</DefaultText>
+      <FemaleText>Der Mann auf dem Boden ringt nach Luft und hält sich die Brust. Als du ihn näher betrachtest, siehst du, dass sein roter Umhang die Schwere seiner Wunden verdeckt. Sein Gesicht wird weiß, die Blutlache um ihn herum wird immer größer. "Bitte. Reisende ... "
+
+Er streckt mühsam die Hand nach dir aus.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Was ist passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ruhig, lass mich deine Wunden versorgen ... oder zumindest den Schmerz lindern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich will nicht lügen, deine Wunden sind zu schwer, um dir noch zu helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Ihn von seinem Leid erlösen.] "Es wird schnell gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vergesslich ... so fahrlässig", murmelt er. Blut fließt aus seinem Mund. "Wunden auf den Fingerknöcheln ... von den morgendlichen Übungen." Er streckt seine blutige Hand vor sich aus. "Die Stelgaer - sie haben das Blut gerochen. Dachten, sie hätten ihre nächste Mahlzeit gefunden."
+
+Der Mann greift hinab, um sein linkes Bein zu umklammern. Sein Finger gleitet über ein Stück Knochen, das aus seinem Knie ragt. "Sie hatten beinahe Recht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Als du dich näherst, um ihm zu helfen, legt der Mönch seine Hand auf deine und wehrt deine Bemühungen mit seiner verbleibenden Kraft sanft ab. "Du hast gute Absichten, doch ich muss mein Leid annehmen und meine Seele auf ihre nächste Reise vorbereiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Nein!" Der Mönch hält seine Hände hoch, doch die Mühen lösen einen weiteren Hustenanfall aus. "Ich will mein Leid bis zum letzten Atemzug annehmen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Das Wachssiegel zerbricht mühelos unter deinen Fingern, als du die Schriftrollenhülle öffnest. Du rollst die Schriftrolle auf und siehst ein offiziell anmutendes Wasserzeichen durch das dünne Pergament scheinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Als du dich näher beugst, hörst du keinen Atem. Du siehst keine Bewegung. Du schließt langsam die Augen des Mönchs, bevor du auf das geheimnisvolle Paket zu deinen Füßen blickst. Die hölzerne Schriftrolle ist etwas schmutzig, aber die fünf Wachssiegel, die entlang der Hülle platziert wurden, kannst du deutlich erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Ihn lassen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Es ist so kalt ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Bitte, hilf ... mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Die Schriftrollenhülle untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Die Schriftrollenhülle bestimmt aus dunkler Eiche und sieht aus wie ein dünner Turm. An der Seite ist die Hülle mit fünf Wachssiegeln versehen, jedes mit einem eigenen Symbol: Einer kleinen Flamme, einer offenen Handfläche, einem Halbmond, einer leuchtenden Sonne und einer Waage im Gleichgewicht.
+
+Die Siegel würden vermutlich brechen, wenn du versuchen solltest, die Hülle zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Bank Node 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Der Mann seufzt lang und lächelt dich langsam und wissend an.
+
+"Wir wissen von dir, Wächter. Wir wissen, dass du andere ehrlich behandelst, gerecht." Sein Gesicht wird blass und er lächelt breit. "Und ich brauche einen vertrauenswürdigen Freund, der meine Mission vollendet."</DefaultText>
+      <FemaleText>Der Mann seufzt lang und lächelt dich langsam und wissend an.
+
+"Wir wissen von dir, Wächterin. Wir wissen, dass du andere ehrlich behandelst, gerecht." Sein Gesicht wird blass und er lächelt breit. "Und ich brauche einen vertrauenswürdigen Freund, der meine Mission vollendet."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Der Mann blickt dich einige Augenblicke lang intensiv an, bevor seine Augen sich weiten, als er dich erkennt.
+
+"Ich habe von dir gehört! Wir wissen von deiner Grausamkeit. Bereitet es dir Freude ... Freude, einen Fremden sterben zu sehen? Bereitet es dir noch mehr Freude, zu wissen, dass ich sterbe, ohne Mission erfüllt zu haben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Durch die Schmerzen lächelt der Mann leicht. "Wir wissen von dir!", ruft er aufgeregt. Die Anstrengung lässt ihn keuchen.
+
+"Ich weiß von dir - von deiner Güte, deiner Wohltätigkeit! Hilfst du mir?" Er blickt auf eine blutdurchtränkte Tasche. "Ich bin nicht mehr zu retten, meine Mission jedoch schon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Der Mann blickt dich an, er scheint dich zu erkennen. "Du ... du bist der Wächter! Man sagte mir, du seist unehrlich, manipulierend ... doch du bist-" Der Mann beißt sich auf die Lippe, als sein Körper plötzlich zuckend verkrampft.
+
+"Du bist alles, was ich in meinen letzten Augenblicken habe ... bitte, hör mich an ... Ich sollte etwas überbringen, einen-" Seine Stimme lässt nach, doch seine Augen blicken auf eine Tasche neben ihm.</DefaultText>
+      <FemaleText>Der Mann blickt dich an, er scheint dich zu erkennen. "Du ... du bist die Wächterin! Man sagte mir, du seist unehrlich, manipulierend ... doch du bist-" Der Mann beißt sich auf die Lippe, als sein Körper plötzlich zuckend verkrampft.
+
+"Du bist alles, was ich in meinen letzten Augenblicken habe ... bitte, hör mich an ... Ich sollte etwas überbringen, einen-" Seine Stimme lässt nach, doch seine Augen blicken auf eine Tasche neben ihm.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Es ist nur Leid, mehr nicht. Überwinde den Schmerz und ziehe Stärke aus deinen Wunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Ein schmerzverzerrtes Lächeln macht sich auf dem Gesicht des Mannes breit. "Das würde ich gern, Bruder, doch meine Wunden sind zu schwer."
+
+"Ich habe es versucht ... Ich habe den Schmerz so lange wie möglich unterdrückt ... doch meine Wunden sind tödlich und mein Fleisch jenseits der Kontrolle meiner Ausbildung."</DefaultText>
+      <FemaleText>Ein schmerzverzerrtes Lächeln macht sich auf dem Gesicht des Mannes breit. "Das würde ich gern, Schwester, doch meine Wunden sind zu schwer."
+
+"Ich habe es versucht ... Ich habe den Schmerz so lange wie möglich unterdrückt ... doch meine Wunden sind tödlich und mein Fleisch jenseits der Kontrolle meiner Ausbildung."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Dem Mann auf die Beine helfen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Nein!", stöhnt er und lässt sich aus deinen Händen fallen. "Mach dir keine Mühe. Dieser Körper ist eine zerstörte Hülle, doch meine Seele wird weiterleben - nur das zählt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Erzähle mir von deiner Mission."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Warte! Wo-" Er hält sich die Brust, Blut fließt unter seinen Fingern aus der Wunde. "Wohin gehst du? Bitte, ich brauche deine Hilfe! Dieser Brief muss-"
+
+Blut schießt aus dem Mund des Mannes. Sein Körper zuckt, als er in seinem eigenen Lebenssaft ertrinkt. Wenige Augenblicke später ist seine leblose Gestalt reglos und still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ich hätte es-", er deutet auf eine blutgetränkte Tasche neben ihm, "-fast geschafft. Fast die Botschaft überbracht."
+
+Er blickt dich an. "Bitte, trage die Botschaft den Rest des Weges."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Er nickt. "Ich habe unzählige Verletzungen meines Fleisches erlebt - und ich weiß, dass ich mich dieses Mal nicht erholen werde. Der lange Weg meines Lebens endet hier ... doch meine Seele ist bereit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Nicht öffnen!", ruft er mit brüchiger Stimme. "Der Inhalt ist nur für meine Brüder bestimmt. Wenn das Siegel gebrochen ist, werden sie-"
+
+Blut schießt aus dem Mund des Mannes, rote Ströme, die seinen Hals herabrinnen. Sein Kopf fällt zur Seite und sein Körper wird still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Sehr, SEHR sorgfältig die Schriftrollenhülle öffnen - in dem Versuch, die Siegel nicht zu brechen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Mit ruhiger Hand massierst du langsam die Wachssiegel, bis du bei jedem Siegel spürst, wie es langsam nachgibt, ohne zu brechen. Als du fertig bist, sehen alle Siegel noch intakt aus und es ist nur ein wenig Hitze nötig, um den Behälter unbemerkt wieder zu versiegeln.
+
+Vorher aber liest du die Schriftrolle darin ... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Frohlocket, Suchende. Die umsichtige Anwendung von Schmerzen hat die Zunge unseres Informanten gelockert. Das Artefakt, das wir suchen, wurde kürzlich nach Ulmenkap gebracht - es sollte sich in einem Wohnhaus nahe des Eingangs der Siedlung befinden. Der Informant ließ uns wissen, dass es vermutlich unter dem Fußboden versteckt sei. Wir haben während unserer Suche nach diesem heiligen Relikt viel erduldet - bald werden unsere Bemühungen Früchte tragen. Der Rat der Erzmärtyrer erwartet eure siegreiche Rückkehr. Enttäuscht uns nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du verstaust die Schriftrollenhülle in deinem Rucksack und ziehst weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

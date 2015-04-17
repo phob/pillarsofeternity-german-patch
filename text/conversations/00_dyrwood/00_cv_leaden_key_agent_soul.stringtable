@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_cv_leaden_key_agent_soul</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Schleier einer Essenz verweilt über dem Körper, so schwach und unwirklich wie eine Staubfahne hinter einem galoppierenden Ross. 
+
+Als du dich aber näherst, hörst du das Echo geflüsterter Anweisungen in deinen Ohren und die Erwartung wärmt dein Blut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>In der Vision siehst du dieselbe Steinmaschine, der du dich noch vor wenigen Augenblicken genähert hast, aber mit anderem Blickwinkel und aus anderer Höhe ... als ob du durch fremde Augen sehen würdest. 
+
+Du hattest Gerüchte gehört, dass einige deiner Brüder vor Monaten hierher geschickt worden waren. Und doch siehst du keinerlei Anzeichen, dass jemand hier war - die Pflastersteine sind sogar mit einer dünnen Staubschicht bedeckt. Asche.
+
+Plötzlich weißt du, welchen Preis du zahlen musst. Und du bist bereit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du und deine Gefährten nehmen ihre Positionen ein. Ihr tauscht letzte bestätigende Blicke aus. Sie kennen deinen Namen nicht und du nicht ihre, aber ihr wisst, dass ihr gemeinsam das Werk der Götter vollbringt. Alles andere ist gleichgültig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Zwei gemeißelte Steinringe in der Mitte der Maschine setzen sich knirschend in Bewegung. Sie rotieren in entgegengesetzte Richtungen, und während sie sich so wie frisch eingefettete Wagenräder drehen, nehmen sie Geschwindigkeit auf. 
+
+Ein Wind kreischt durch die Höhle und wird gemeinsam mit den Steinringen schneller. Du presst dir wegen des Lärms die Hände auf die Ohren und beißt die Zähne zusammen. Als du gerade deine Augen schließen willst, bemerkst du neue Bewegungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Bleiben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Um die Maschine herum öffnen sich mehrere Reihen dreieckiger Klappen, die wie Blütenblätter aussehen. Du weißt nicht, was in der Maschine vor sich geht, aber du spürst ein Prickeln in deinen Gliedmaßen. Stechender Schmerz durchdringt deinen Körper wie ein heißes Messer, das alles in dir durchtrennt.
+
+Alldieweil fühlt es sich so an, als würdest du auf die Maschine zufallen, während dein Magen an deinem Rückgrat zerdrückt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Was als nächstes passiert, ist zu schnell, um es wahrnehmen zu können. 
+
+Kniend und nach Luft schnappend erwachst du aus der Vision. Du hältst deinen Kopf und fokussierst deine Augen langsam auf die Fliesen zwischen deinen Knien.
+
+Als du wieder zu Atem kommst, erinnerst du dich an die merkwürdige Szene außerhalb von Cilant Lîs, als mehrere Gestalten in Umhängen inmitten eines heulenden Bîawac fielen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Als du die Asche auf dem Höhlenboden betrachtest, wird dir klar, dass der Bleierne Schlüssel das - was auch immer DAS ist - im ganzen Dyrwald getan hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Befehle waren eindeutig. Die Wirkung der Maschine in Clîaban Rilag ließ nach - vor kurzem war unweit von Dyrfurt ein Kind mit intakter Seele geboren worden. Die Maschine musste wieder aktiviert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

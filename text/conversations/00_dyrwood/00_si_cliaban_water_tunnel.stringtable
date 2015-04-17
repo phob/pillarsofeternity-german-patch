@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_si_cliaban_water_tunnel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>55</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du hörst laufendes Wasser und siehst einen kleinen Strom, der sich seinen Weg in den Berg bahnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Den Strom untersuchen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[In den Tunnel waten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Direkt unter der Wasseroberfläche flackert und schwankt das seichte Flussbett, aber als du weiter in den Tunnel hineinsiehst, scheint es in die Dunkelheit zu verschwinden. Von hier aus kannst du unmöglich sagen, wie tief der Strom ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Entlang der Tunnelwände aber spielt sich ein schwaches Licht. Das Echo rauschenden Wassers lässt dich vermuten, dass Tunnel und Strom noch viel weiter reichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du näherst dich dem Tunneleingang mit langsamen, spritzenden Schritten und hältst dich aufrecht, während die Strömung an deinen Beinen zerrt. Das kalte Wasser lässt dich nach Luft schnappen, und als es dir über die Taille steigt, beginnst du, um die Kontrolle deiner Atmung zu kämpfen. Das Flussbett verschwindet unter deinen Füßen, und die Strömung reißt dich mit zunehmender Geschwindigkeit in den Tunnel hinein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[In den Tunnel schwimmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Ins seichte Wasser zurückkehren.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Strömung drückt sich immer schneller durch den Tunnel und zieht dich nach unten. Über deinem Kopf wird der Tunnel enger und die Tunneldecke fällt ab, was dir nur noch ein dünne Luftschicht zum Atmen lässt. Du nimmst einen letzten Atemzug, bevor dich die Strömung in die Tiefe reißt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Finsternis wird hier und da von Lichtstrahlen durchbrochen, aber die Strömung ist jetzt schon so stark, dass du nicht mehr als ein Flackern erkennen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du behältst deine Hände vor dir und versucht, den gezackten, aus den Wänden herausragenden Felsen auszuweichen, die plötzlich in der Dunkelheit erscheinen.
+
+Vor dir siehst du ein Licht aufblitzen. Du näherst dich ihm schnell, aber es scheint sich um die Öffnung eines zweiten, kleineren Tunnels zu handeln. Du könntest ihn eventuell erreichen, aber deine Lungen haben zu schmerzen begonnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Mit schnellen, energischen Schwimmbewegungen entreißt du dich dem Griff der Strömung und bringst dich an den Rand in Sicherheit. Hinter dir donnert der Strom in den Tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Am Rand des Tunnels festhalten.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Der Strömung folgen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du umfasst die den Tunneleingang umsäumenden Felsen mit deinen Fingern und wirfst einen Blick hinein. Der Tunnel endet in einer Sackgasse, aber unter den Felsen am Tunnelende scheint etwas zu glitzern. Für jemanden ohne starke Lunge wäre es eine Herausforderung, dort hinzukommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du rauschst an dem Nebentunnel vorbei und siehst vor dir eine Korkenzieherkurve. Du richtest deinen Körper gerade noch an der Strömung aus, um der heranbrausenden Wand auszuweichen. 
+
+Die Verdrehung deines Körpers quetscht den letzten Rest Luft aus dir heraus,</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>und hinter dir verschwindet das letzte Licht. Du weißt nicht, ob es im Tunnel dunkel geworden ist oder ob du durch den Sauerstoffmangel das Bewusstsein verlierst. Wie auch immer, du kannst jedenfalls die Wände um dich herum nicht mehr erkennen. Du streckst deine Füße vor dir aus und hoffst auf das Beste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Dein Fuß schlägt gegen eine Felsnase, dein Arm schürft an einer anderen entlang. Vor Schmerz beißt du die Zähne zusammen, aber es ist nicht so schlimm, wie du erwartet hattest. Entweder hat das kalte Wasser deine Haut betäubt, oder aber du bist langsamer geworden.
+
+Deine Brust beginnt, sich ruckartig zu bewegen. Das Wasser erstickt dich langsam. Du presst deine Kiefer aufeinander und ziehst deinen Hals so enger zusammen, aber schon bald werden die Reflexe deines Körpers übernehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Ein Lichtschein erscheint plötzlich über dir. Da dich die Strömung nicht mehr darauf zutreibt, versuchst du, mit Tritten, Stoß- und Drehbewegungen nach oben zu kommen, aber die Wasseroberfläche scheint stets außer Reichweite zu sein. 
+
+Dann, endlich, durchbricht dein Kopf die Wasseroberfläche. Hastig würgst du Luft in deine schmerzenden Lungen und ziehst dich an den Rand des Beckens. Du kriechst aus dem Wasser und betrachtest die Höhle um dich herum, während du deine schmerzenden, unterkühlten Gliedmaßen massierst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[[Slot 0] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[[Slot 1] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Slot 0] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Bevor er das Ende erreicht, kommen seine Lungen an ihre Grenzen und er kehrt um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Slot 0] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Am Ende findet er ein Skelett, aus dessen Rippen ein Griff hervorsteht. [Slot 0] zieht ihn heraus und stößt sich von der Wand ab, wodurch er sich wieder zurück in den Haupttunnel katapultiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Der Strömung folgen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Slot 0] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Am Ende findet sie ein Skelett, aus dessen Rippen ein Griff hervorsteht. [Slot 0] zieht ihn heraus und stößt sich von der Wand ab, wodurch sie sich wieder zurück in den Haupttunnel katapultiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Slot 0] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Bevor sie das Ende erreicht, kommen ihre Lungen an ihre Grenzen und sie kehrt um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Slot 1] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Am Ende findet er ein Skelett, aus dessen Rippen ein Griff hervorsteht. [Slot 1] zieht ihn heraus und stößt sich von der Wand ab, wodurch er sich wieder zurück in den Haupttunnel katapultiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Slot 1] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Bevor er das Ende erreicht, kommen seine Lungen an ihre Grenzen und er kehrt um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Slot 1] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Am Ende findet sie ein Skelett, aus dessen Rippen ein Griff hervorsteht. [Slot 1] zieht ihn heraus und stößt sich von der Wand ab, wodurch sie sich wieder zurück in den Haupttunnel katapultiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Slot 1] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Bevor sie das Ende erreicht, kommen ihre Lungen an ihre Grenzen und sie kehrt um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Slot 2] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Am Ende findet er ein Skelett, aus dessen Rippen ein Griff hervorsteht. [Slot 2] zieht ihn heraus und stößt sich von der Wand ab, wodurch er sich wieder zurück in den Haupttunnel katapultiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[[Slot 2] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[[Slot 3] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[[Slot 4] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[[Slot 5] schicken.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Slot 2] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Bevor er das Ende erreicht, kommen seine Lungen an ihre Grenzen und er kehrt um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Slot 2] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Am Ende findet sie ein Skelett, aus dessen Rippen ein Griff hervorsteht. [Slot 2] zieht ihn heraus und stößt sich von der Wand ab, wodurch sie sich wieder zurück in den Haupttunnel katapultiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Slot 2] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Bevor sie das Ende erreicht, kommen ihre Lungen an ihre Grenzen und sie kehrt um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Slot 3] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Am Ende findet er ein Skelett, aus dessen Rippen ein Griff hervorsteht. [Slot 3] zieht ihn heraus und stößt sich von der Wand ab, wodurch er sich wieder zurück in den Haupttunnel katapultiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Slot 3] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Bevor er das Ende erreicht, kommen seine Lungen an ihre Grenzen und er kehrt um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Slot 3] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Am Ende findet sie ein Skelett, aus dessen Rippen ein Griff hervorsteht. [Slot 3] zieht ihn heraus und stößt sich von der Wand ab, wodurch sie sich wieder zurück in den Haupttunnel katapultiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Slot 3] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Bevor sie das Ende erreicht, kommen ihre Lungen an ihre Grenzen und sie kehrt um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Slot 4] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Am Ende findet er ein Skelett, aus dessen Rippen ein Griff hervorsteht. [Slot 4] zieht ihn heraus und stößt sich von der Wand ab, wodurch er sich wieder zurück in den Haupttunnel katapultiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Slot 4] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Bevor er das Ende erreicht, kommen seine Lungen an ihre Grenzen und er kehrt um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Slot 4] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Am Ende findet sie ein Skelett, aus dessen Rippen ein Griff hervorsteht. [Slot 4] zieht ihn heraus und stößt sich von der Wand ab, wodurch sie sich wieder zurück in den Haupttunnel katapultiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Slot 4] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Bevor sie das Ende erreicht, kommen ihre Lungen an ihre Grenzen und sie kehrt um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Slot 5] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Am Ende findet er ein Skelett, aus dessen Rippen ein Griff hervorsteht. [Slot 5] zieht ihn heraus und stößt sich von der Wand ab, wodurch er sich wieder zurück in den Haupttunnel katapultiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Slot 5] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Bevor er das Ende erreicht, kommen seine Lungen an ihre Grenzen und er kehrt um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Slot 5] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Am Ende findet sie ein Skelett, aus dessen Rippen ein Griff hervorsteht. [Slot 5] zieht ihn heraus und stößt sich von der Wand ab, wodurch sie sich wieder zurück in den Haupttunnel katapultiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Slot 5] zieht sich selbst in den Tunnel und führt geschickte Scherenschläge aus, während der Gang immer enger wird. Bevor sie das Ende erreicht, kommen ihre Lungen an ihre Grenzen und sie kehrt um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Während du durch die Dunkelheit des Tunnels wirbelst, siehst du über dir endlich einen Lichtschein, auf den du dich schwimmend und tretend zubewegst.
+
+Dann, endlich, durchbricht dein Kopf die Wasseroberfläche. Hastig würgst du Luft in deine schmerzenden Lungen und ziehst dich an den Rand des Beckens. Du kriechst aus dem Wasser und betrachtest die Höhle um dich herum, während du deine schmerzenden, unterkühlten Gliedmaßen massierst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Auf das Glitzern zuschwimmen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Du ziehst dich in den Tunnel und führst geschickte Scherenschläge aus, während der Gang immer enger wird. Am Ende findest du ein Skelett, aus dessen Rippen ein Griff hervorsteht. Du ziehst ihn heraus und stößt dich von der Wand ab, wodurch du dich wieder zurück in den Haupttunnel katapultierst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Du ziehst dich in den Tunnel und führst geschickte Scherenschläge aus, während der Gang immer enger wird. Bevor du das Ende erreichst, kommen deine Lungen an ihre Grenzen und du kehrst um.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

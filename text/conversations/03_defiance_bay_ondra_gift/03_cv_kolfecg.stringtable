@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_kolfecg</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein ziemlich junger Elf blinzelt dich überrascht an. "Du kannst nicht einfach so in jemandes Zuhause hineinplatzen! Was glaubst du denn, wer du bist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Was jetzt?" Er blickt dich nervös an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Du hast deinen Standpunkt dargelegt, und jetzt geh bitte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich bin ein Freund von Bricanta Doemenel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Der Elf, der hier wohnt! Und jetzt raus mit dir!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Er geht einen Schritt zurück. "Jetzt mach aber mal langsam. Ich halte mich von den Doemenels fern, verstehst du? Damit hier können wir doch bestimmt abschließen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich werde dir nichts tun, aber du musst Trutzbucht verlassen. Bricanta hat es offensichtlich auf dich abgesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Was hast du getan, um sie derart wütend zu machen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Das musst du mir nicht zweimal sagen." Er rennt zur Tür. "Ich verspreche dir, mich werden sie nicht finden. Ondra segne dich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Angreifen] "Ich fürchte, Bricanta Doemenel hat dich nicht vergessen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Angreifen] "Die Doemenels legen keinen besonderen Wert auf Vergebung, und ich auch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Zusammenschlagen] "Sei dankbar, dass ich dich nur ein bisschen aufmische."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Zusammenschlagen] "Wenn ich dir keine ordentliche Tracht Prügel verpasse, dann wird Bricanta jemanden schicken, der es für mich tut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ich habe ihr gesagt, sie sei nicht mein Typ! Na ja, vielleicht nicht so ... taktvoll, aber ich wollte keine Schwierigkeiten mit dem gefährlichsten Mann in ganz Trutzbucht. Wie hätte ich ahnen sollen, dass sie es so persönlich nehmen würde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Bitte, du kannst doch nicht ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

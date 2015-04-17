@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_marceno</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>87</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser junge, schlaksige Matrose wringt seine Kappe ängstlich in seinen Händen, und auf seiner gerunzelten Stirn sammelt sich der Schweiß. Als du dich ihm näherst, werden seine Augen größer und er geht ein paar Schritte nach vorne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"H-hättest du einen Moment Zeit? Du ... du bist nicht von hier, oder? Du siehst nicht so aus, als kämst du von den Docks." Er sieht sich nervös um. "Ich könnte deine Hilfe gebrauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Um welches Problem geht es denn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Was lässt dich vermuten, dass ich nicht von hier bin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Schau mal, ich habe kein Geld für dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Weggehen.] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Der Matrose sieht zu dir hoch. "Äh ... " Er öffnet seinen Mund, um zu sprechen, überlegt es sich dann aber doch anders. "Ist nur eine Vermutung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Wir, äh ... sehen hier nur nicht viele wie dich, das ist alles." Er windet sich peinlich berührt auf der Stelle. "Selbst in den Docks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Bauchgefühl." Der Matrose grinst dünn. "Ich könnte deine Hilfe trotzdem wirklich gebrauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Marceno schaut dich hoffnungsvoll an. "Du bist zurückgekommen. Letztendlich konnte ich dich wohl nicht überzeugen, mir zu helfen ... oder? Ich stecke hier ein bisschen in der Klemme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Was? Nein, ich bin nicht - das ist es nicht." Marceno stellt sich auf die Zehenspitzen, um ängstlich an dir vorbeizuspähen, dann beugt er sich nach vorne. "Es ist ein bisschen kompliziert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Oh, danke. Danke sehr." Er blickt kurz zum Himmel hoch. "Es geht um den Kapitän. Eigentlich nicht um den Kapitän selbst, sondern um seine Truhe. Seine, äh, Seemannskiste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Darin bewahrt er all seine Wertsachen auf, sicher verstaut. Ich habe sie mit den restlichen Sachen ausgeladen, da wir ein paar Tage im Hafen bleiben ... und ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Er hustet. "Könnte sein, dass ich ein bisschen abgelenkt wurde." Marceno nickt zu den Gebäuden in der Nähe hin. "Ich war gar nicht lange weg, nur eine Stunde im Salzigen Mast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Als ich zurückkam, war die Seemannskiste weg." Er sieht dich flehend an. "Es ist wirklich kaum Zeit verstrichen - wer auch immer sie gestohlen hat, kann nicht weit gekommen sein. Wir hatten aber Wachwechsel, und jetzt bin ich dran. Ich kann mich nicht von Bord schleichen, um sie zu suchen, und wenn der Kapitän davon erfährt, wird er mich erledigen. Er würde mich an der Rah aufknüpfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich ... habe etwas verloren. eine Seemannskiste eine äußerst wichtige Seemannskiste." Er schaut zu seinen Stiefel hinunter. "Die Seemannskiste des Kapitäns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Wie hast du denn das geschafft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Na und?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Du hast Recht, das ist in der Tat komplizierter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Marceno blinzelt dich an. "Na und? Dafür wird er mich ja bloß ermorden, und dann wird er meine Seele jagen und mich nochmal umbringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Das ist Kapitän Fortanero, oder vielmehr Henker Fortanero, da immer Leute von seinen Masten baumeln." Er erschaudert. "Bevor wir in einen Hafen einlaufen, schneiden wir sie runter und werfen sie über Bord."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Bitte, wenn du sie für mich zurückholen kannst, dann werde ich dich für deine Mühen gebührend belohnen - das schwöre ich bei der Flamme. Du kannst meinen ganzen Lohn haben - wenn Kapitän Fortanero das erführe, könnte ich ihn sowieso nicht mehr ausgeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Schau mal, ich war wirklich nicht lange weg, und es ist gut möglich, dass der, der sie gestohlen hat, damit nicht sehr weit gekommen ist. Wir hatten aber Wachwechsel, und jetzt bin ich dran ... Ich kann nicht danach suchen gehen, und wenn es der Kapitän herausfindet, werde ich an einem Strick baumeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Wenn ich das recht verstehe, dann hast du dir das selbst eingebrockt. Löffle dein Süppchen schön selbst aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Wie hast du sie verloren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Er klingt aber nach einem netten Mann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ich werde die Seemannskiste des Kapitäns für dich finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Also gut. Aber du solltest das Geld besser schon bereithalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ich denke darüber nach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Da möchte ich lieber nicht hineingezogen werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Du sagtest, du hättest ein Problem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Er stößt einen erleichterten Seufzer aus. "Es geht um die Seemannskiste, die ich für Kapitän Fortanero bewachte. Sie ist verschwunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Marceno lacht abgehackt. "Schau mal, die Diebe können nicht weit gekommen sein. Ich könnte wetten, dass sie zu diesem Pack hier in den Docks gehören. Während der Obersteuermann auf Wache ist, kann ich mich aber nicht von Bord schleichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Natürlich! Danke sehr! Ich werde hier auf dich warten." Er zieht eine Grimasse. "Vorausgesetzt, der Kapitän hört nicht frühzeitig zu trinken auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Tatsächlich? Danke sehr, meine ich! Ich, äh, werde dann wohl hier draußen die Augen offenhalten. Bitte beeile dich. Ich weiß nicht, wie viel Zeit ich habe, bevor der Kapitän seine Sachen holen kommt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Aha." Marceno schaut zum Schiff hoch und schluckt. "Bitte ... bitte mach schnell, ja?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Aber ... " Marceno geht mit Leichenbittermiene einen Schritt zurück. "Gut. Dann geh deines Weges. Verzeih meine Frage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Marceno zappelt nervös herum. Er grinst dich hoffnungsvoll an. "Hattest du Glück mit der Seemannskiste des Kapitäns?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Hier, bitteschön. Der Inhalt ist auch intakt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Noch nicht, aber ich suche weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Marceno wird bleich. "W-was?" Er schüttelt seinen Kopf. "Dann gibt es keine Hoffnung mehr. Ich sollte besser ... Ich sollte besser von hier verschwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Also, trotzdem danke, dass du mir geholfen hast. Hier ist ein Teil meines Lohns. Den Rest werde ich brauchen, um mir eine Reise an einen weit entfernten Ort zu buchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Freund, hüte dich vor Kapitän Fortanero! Er wird jetzt so missmutig wie immer sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"D-du hast es gefunden. Alles hast du gefunden!" Er prüft das Schloss der Seemannskiste und atmet dann erleichtert aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Mein Freund, du hast mir wahrlich das Leben gerettet. Ich bin dir was schuldig. Hier - mein Wochenlohn, wie ich versprochen hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Nein, lass mal gut sein, behalte dein Geld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Versuch mal, ab jetzt etwas weniger leichtsinnig zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Freut mich, dass ich helfen konnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Oh ja! Ich werde den Salzigen Mast nie mehr betreten! Er hält inne. Na ja, wenigstens nicht, während ich Wachdienst habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Wirklich? Ich ... Dann nochmals vielen Dank für alles, was du getan hast. Bitte nimm zumindest das hier. Ich habe es mir in einem Hafen in Aedyr als Talisman gekauft, aber ich möchte, dass du es nimmst. Ich werde das nicht vergessen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Er nickt dir zu. "Heda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Lügen] "Hier, bitte sehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Oh, danke! Danke sehr! Ich weiß gar nicht, was ich sagen soll! Ich-" Er blinzelt, und schaut zur Seemannskiste hinunter. "Dies ist aber ... leichter, als ich erwartet hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Aber egal - mein Freund, du hast mir wahrlich das Leben gerettet! Ich bin dir was schuldig. Hier: mein Wochenlohn, wie ich versprochen hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Hüte Dich vor Fortanero!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Der Kapitän wird gar nicht glücklich sein, davon zu erfahren ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Bist du ein Matrose?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Jawohl. Vor einem halben Jahre habe ich angeheuert. Die Bezahlung ist ziemlich ordentlich, und der Anblick der Sonnenaufgänge auf hoher See ... Das würde ich für nichts in der Welt aufgeben." Er seufzt. "Ich wünschte nur, ich hätte mich zuerst über den Kapitän informiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Hast du eine Ahnung, wo die Diebe die Seemannskiste hingebracht haben könnten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Na ja, die Seemannskiste ist ziemlich schwer, außerdem hat auch keiner der von mir Befragten gesehen, dass sie herumgetragen worden wäre. Ich vermute, dass sie sie irgendwo in der Nähe versteckt haben. Sie können nicht weit gekommen sein ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Die Seemannskiste hat ein ziemlich gutes Schloss, daher hoffe ich, dass sie es nicht aufbekommen haben. ... es s-sei denn, sie haben es mit einer Axt bearbeitet. ... oh, bei den Göttern ..." Er atmet tief ein. "Wenn sie sie aufbekommen haben, dann bin ich wirklich erledigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"D-du hast sie gefunden!" Er inspiziert die Seemannskiste und prüfte das Schloss. Ein panischer Ausdruck legt sich auf sein Gesicht. "W-warte, bist du dir sicher, dass alles drin ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Nicht ganz. Den Hut und das Rapier habe ich an mich genommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Lügen] "Die Diebe versuchten, die Seemannskiste zu öffnen. Haben sie aber nicht geschafft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Oh, bei den Göttern - bitte, das brauche ich zurück. Fortanero, er - oh, du hast ja keine Ahnung, wie wütend er werden wird, wenn sein Hut nicht mehr da ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Das kann ich ihm nicht verdenken, ist schließlich ein ziemlich schöner Hut. Der jetzt übrigens mir gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Dann solltest du wohl besser mal die Beine unter den Arm nehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Marceno wird bleich. "W-was?" Er schüttelt seinen Kopf. "Du ... Ich sollte besser ... Ich sollte besser von hier verschwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ich hätte dich niemals um Hilfe bitten sollen! Du solltest lieber hoffen, dass dich Fortanero niemals findet!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"S-sag mal, du bist schon der, über den alle reden, oder? Der, der den Leuten hilft? Ich ... So wie es aussieht, könnte ich etwas Hilfe gebrauchen. Bitte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Oh, vielen Dank - die Leute haben nicht gelogen, als sich dich gutherzig nannten." Er fährt sich mit einer Hand nervös durch die Haare. "Es geht um den Kapitän. Eigentlich nicht um den Kapitän selbst, sondern um seine Truhe. Seine, äh, Seemannskiste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"He, nein, das ist nicht - ich bin nicht auf das Geld aus. Bitte, ich stecke in Schwierigkeiten. V-vielleicht bedeutet dir das nicht so viel, schließlich kennst du mich ja gar nicht, aber ... Ich weiß nicht, an wen ich mich sonst wenden könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"D-du hast es geschafft! Das wusste ich natürlich, aber ... Oh, danke! Alles ist noch da!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Na ja, ich habe gerade dein Leben gerettet, musst du wissen ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"O-oh, natürlich. Ich ... lass mich mal überlegen ... Oh, jetzt weiß ich - du kannst das hier haben." Er nimmt sich das Amulett ab, das um seinen Hals hängt, und übergibt es dir. "Mehr als das habe ich nicht ... Hoffentlich bringt es dir etwas Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Hier, bitteschön. Der Inhalt ist auch intakt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"D-du hast sie gefunden Alles hast du gefunden!" Er prüft das Schloss der Seemannskiste und ein panischer Ausdruck legt sich ihm aufs Gesicht. "O-oh nein ... Bist du dir sicher, dass alles drin ist? E-es muss so sein, du würdest mich nicht anlügen Ich muss das Schloss ... einfach so hindrapieren, dann wird es keiner merken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"D-du hast es gefunden Alles hast du gefunden!" Er prüft das Schloss der Seemannskiste und ein panischer Ausdruck legt sich ihm aufs Gesicht. "W-warte, bist du dir sicher, dass alles drin ist?" 
+
+Er setzt die Seemannskiste ab, um ihren Inhalt schnell durchzugehen. Einen Moment später seufzt er erleichtert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Ich habe die Seemannskiste gefunden - und darin diesen Hut und dieses Rapier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Oh. Na ja, so lange du sie rechtzeitig aufgehalten hast ... Ich werde schon einen Weg finden, um ihm das Schloss zu erklären."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Hast du zufällig einen kleinen Jungen namens Derrin gesehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Hmm? Ach, natürlich ... Er wollte auf dem Schiff spielen, aber das konnte ich ihm nicht erlauben. Fortanero ist da sehr streng. Ich musste ihn fortjagen. Tat mir schon ein bisschen leid ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Er ist dann Richtung Salziger Mast gegangen. Nicht der beste Platz zum Spielen für ein Kind. Hoffentlich findest du ihn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Möge Magran dir in allen Dingen den Sieg schenken! Danke nochmals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Schon gut, schon gut. Hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Jawohl. Vor einem halben Jahre habe ich angeheuert. Die Bezahlung ist ziemlich ordentlich, und der Anblick der Sonnenaufgänge auf hoher See ... Das würde ich für nichts in der Welt aufgeben." Er seufzt. "Ich wünschte nur, ich hätte mich zuerst über den Kapitän informiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Kann ich sonst noch etwas für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

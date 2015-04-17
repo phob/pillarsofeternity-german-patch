@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_eothas_pool_spirit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>In der Luft liegt ein Dunst, der sich kontinuierlich zu einem Schleier aus Staub und Nebel festigt. Er sammelt sich in den Umrissen von etwas, das ein Zwerg zu sein scheint - ein flimmerndes Echo, das abwechselnd da ist und verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das Gefühl einer mächtigen Energie in dir ist aber noch stärker als der visuelle Reiz. Sie wallt erfüllt mit Trauer, die sich in deine eigenen Gedanken auszuweiten scheint und benebelt sie so lange, bis das Leid dein eigenes ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Wie eine zerschmetternde Welle stürzt die Energie nach vorne und in dich hinein ... und einen Augenblick später bist du an einem anderen Ort. Vor dir liegt ein hell erleuchteter Steinkorridor, der von Fackeln und leuchtenden Kristallen gesäumt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du rennst, und deine Schritte hallen von den Steinen um dich herum wider. Du hast vergessen, deine Sandalen zu schnüren, die dir nun von den Füßen rutschen und dich langsamer machen. Du bist zu spät - abermals zu spät. Das Ritual wird ohne dich beginnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du hörst das Leuten einer Glocke, und deine Stimmung hebt sich, als du den vertrauten, verzerrten Ton der Rechten Hand hörst - sie steht für den ersten der Dämmerungssterne, die am Nachthimmel erscheinen und als letzte im Licht der Dämmerung verblassen. Du betest inbrünstig, dass dies der erste Glockenschlag war, und nicht der letzte ... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Lichter vergehen, und mit ihr die Erinnerung, und als du wieder klar sehen kannst, ist der Geist verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

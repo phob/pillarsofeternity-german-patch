@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_gilded_vale_innkeeper</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>72</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Oh! Hallo und willkommen in der Schänke zum Schwarzen Hund!" Die Schankwirtin beugt kurz ihren Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Freie Platzwahl! Willst du was trinken, oder ein Zimmer? Wir haben gerade zwei frei. Leider können wir heute nichts besonders schmackhaftes Essen anbieten." Sie seufzt. "Es sei denn, du findest Gefallen an kaltem Haferbrei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich hätte gerne ein Zimmer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Du hast nur Haferbrei anzubieten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"ICH habe das nicht entschieden, das kann ich dir sagen! Eigentlich war unsere Küche einer der besten im ganzen Dyrwald. Wir haben nur eine verdammte Pechsträhne, das ist alles. Dieses Jahr läuft es mit den Feldfrüchten sehr schlecht, und uns gehen langsam die Vorräte aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich könnte versuchen, ihn für dich zu finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Wirklich?" Ihr Gesicht strahlt. "Ich wäre sehr dankbar, wenn du das tun würdest. Er reiste durch das Talholz. Wahrscheinlich ist gar nichts Schlimmes passiert - vielleicht nur ein gebrochenes Rad. Trotzdem mache ich mir Sorgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Lügen] "Ich glaube, dass ich ihn getroffen habe. Ich fürchte, er ist im Talholz Banditen zum Opfer gefallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Schankwirtin schnappt nach Luft und hält sich eine Hand vor den Mund. "Oh, der arme Tenfrith! Ich wusste, dass ich jemand anderes hätte schicken sollen, aber er bestand darauf. 'Die besten Zutaten muss ich haben!', höre ich ihn noch sagen." Sie zieht die Nase hoch. "Er war immer so wählerisch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich verstehe. Ich habe noch andere Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Hallo mal wieder. Kann ich etwas für dich tun? Wir haben noch Zimmer frei, und zu früh zum Trinken ist es nie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Schankwirtin wischt sich schniefend diskret die Augen ab. "Oh, d-du bist es. Willkommen zurück. Möchtest du vielleicht etwas trinken?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Hallo, und willkommen in der-" Die Schankwirtin schaut auf. "Oh! DU bist es! Tenfrith hat uns gesagt, was du für ihn getan hast. Wir sind so erleichtert, dass er wieder bei uns ist! Ich kann dir gar nicht genug danken!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Von nun an kannst du dich als Ehrengast unseres Hauses betrachten. Rabatt auf Met, auf Zimmer ... Tenfrith sagte, er wolle in der Küche schnell etwas Feines für dich zubereiten. Richtig gehört - er ist schon wieder beim Kochen." Sie lacht. "Also, was hättest du denn gerne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ich hätte gerne ein Zimmer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Könnte ich mir ansehen, was du zu verkaufen hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Könnte ich mir ansehen, was du zu verkaufen hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die Schankwirtin lächelt dich strahlend an. "Hallo mal wieder. Willst du mal deine Füße ein Weilchen ausruhen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich würde den feinen Kerlen da drüben gerne eine Runde ausgeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Feine Kerle? Jetzt nimmst du mich aber auf den Arm. Wenn hier noch mehr geschlägert wird, muss ich Sweynur endgültig Hausverbot erteilen." Die Schankwirtin runzelt die Stirn. "Bis dahin kostet das sechs Kupferstücke für alle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Das macht dann sechs Kupferstücke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[6 KS geben] "Hier, bitte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Bitte, wenn ich sie nur zum Sprechen bringen könnte ... vielleicht könnte ich sie dann überzeugen, den Müller nicht mehr zu schikanieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Weggehen.] "Na dann lass mal gut sein. Ich gehe wieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Die Schankwirtin studiert dich kurz misstrauisch, dann seufzt sie. "Naja, dann geht das aufs Haus. Hier. Drei Krüge für die drei Narren. Wenn du sie Trumbel vom Hals schaffst, wird er vielleicht mit seinen Vorräten nicht mehr so geizig umgehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Also gut. Hier - drei Krüge für die drei Narren. Sieh dich bloß mit ihnen vor, das sind ziemlich temperamentvolle Kerle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ist er ein Zwerg? Dunkle Haare, Bart? Er hat die Reise nicht überlebt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ja, das ist er!" Die Schankwirtin schnappt nach Luft und hält sich eine Hand vor den Mund. "Oh, der arme Tenfrith! Ich wusste, dass ich jemand anderes hätte schicken sollen, aber er bestand immer darauf. 'Ich muss die besten Zutaten haben!', höre ich ihn noch sagen." Sie zieht die Nase hoch. "Er war immer so wählerisch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Natürlich. Wir halten sie stets sauber und ordentlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Gewiss! Du bist hier immer willkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Natürlich. Zur Zeit sind bei uns die Waren ein bisschen knapp, aber wir sollten schon bald mehr bekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Du wirst bestimmt etwas finden, was dir gefällt. Unser Koch ist der beste im ganzen Dyrwald."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Sie seufzt wieder. "Ich habe die Schänke auch gerade erst vom Vorbesitzer übernommen. Wenn er nicht mehr auftaucht, weiß ich auch nicht, was ich noch machen soll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich habe Tenfrith zum Vorräte holen nach Norden hoch geschickt. Tenfrith ist unser Koch, musst du wissen. Ein wahrer Künstler am Herd, und sein Braten ist himmlisch. Er hätte aber schon seit Tagen zurück sein sollen, und bisher haben wir kein Lebenszeichen von ihm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Wenn du ihn sicher nach Hause brächtest, würde hier sicherlich jeder ein Loblied auf dich singen. Meinen Haferbrei mag nämlich niemand besonders gerne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ich weiß gar nicht, wie wir jetzt über die Runden kommen sollen ... Heutzutage haben wir nicht viel anzubieten, für Tenfriths Kochkünste aber kamen Leute aus der ganzen Gegend." Sie wischt eine Träne weg. "Danke, dass du mich informiert hast. Ich habe noch ein bisschen Geld in der Hinterhand ... Vielleicht könnten wir ja eine Grabrede für ihn halten lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Natürlich. Was kann ich für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Weggehen.] "Leb wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Du erwähntest etwas über einen Koch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ja, das wäre dann Tenfrith. Ich habe ihn zum Vorräte holen nach Norden geschickt, und er ist noch nicht zurückgekommen. Es ist schon schlimm genug, dass wir unseren Gästen nichts zum Essen anbieten können, aber so langsam mache ich mir ernsthafte Sorgen um ihn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich würde gerne mehr über den Schwarzen Hund erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Wirklich? Naja, lass mich mal sehen ... Das eigentliche Gebäude steht hier schon seit Jahren, der Schwarze Hund aber ist noch ziemlich neu. Hier drin bekommen wir auch viele neue Gesichter zu sehen. Gut, zugegeben: Nicht mehr so viele wie früher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Bis der Vorbesitzer überstürzt abreiste, war ich hier Bedienung. Keiner weiß, was mit ihm geschehen ist. Selbst seinen armen Hund hat er zurückgelassen. Da kommt auch der Name her, musst du wissen - der Schwarze Hund! Sie sitzt immer noch oben und sehnt sich nach ihm. Armes altes Mädchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Tenfrith ist quasi der Hauptgewinn. Mit ihm werden die Besucherscharen sicherlich schon bald zurückkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Irgendwie ist die Schänke in meinen Händen gelandet." Sie lacht. "Meine eigene Schänke. Sie verlangt mir viel schwere Arbeit ab, doch bislang ist es das wert gewesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Bis der Vorbesitzer überstürzt abreiste, war ich hier Bedienung. Keiner weiß, was mit ihm geschehen ist. Selbst seinen armen Hund hat er zurückgelassen." Sie lächelt. "Ich freue mich, dass sie ein neues Herrchen gefunden hat. War schon ein bisschen traurig, sie den ganzen Tag dahinschmachten zu sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Nur damit du Bescheid weißt: Wegen dem, was dem Müller widerfahren ist, mussten wir unsere Ladenpreise erhöhen. Wir werden eine Weile kein Getreide mehr bekommen." Sie seufzt. "Armer Trumbel ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Wenn du das nötige Kleingeld hast, kannst du dich mal umsehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Aber sicher. Nur damit du Bescheid weißt: Wir konnten unsere Preise etwas senken." Sie lächelt. "Vermutlich hat Trumbel drüben bei der Mühle mehr Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Sag mal, von dir hab ich doch schon gehört. Du bist gerade erst hier angekommen, oder? Man erzählt sich Gutes über dich." Sie lächelt strahlend,</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>und blinzelt dich an. "Sag mal, von dir hab ich doch schon gehört. Du bist gerade erst hier angekommen, oder?" Sie schaut nervös hinter dich. "W-wie dem auch sei: willkommen! Hier geht es recht ruhig zu. Wir bleiben hier eher unter uns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ich hörte, dass du mir dabei helfen könntest, zuverlässige Unterstützung zu finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Hmmh? ... Oh! Naja, ich kann nicht gerade von mir behaupten, aus Erfahrung zu sprechen, aber ab und zu wird eine bestimmte Art von Leuten hier auf der Suche nach Arbeit vorstellig. Wenn du jemanden anwerben möchtest, werde ich sie gerne zu dir weiterschicken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Lass mich mal sehen, mit was ich arbeiten kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Vielleicht später."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Wie du willst. Kann ich sonst noch etwas für dich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ich könnte einen zuverlässigen Helfer gebrauchen. Kennst du jemanden, der nach Arbeit sucht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Ich möchte ein paar Helfer anheuern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Aber sicher. Lass mich mal sehen, wer vorbeigekommen ist ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Was ist eigentlich mit dem Hund im Obergeschoss los?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ach, das arme Ding. Sie wartet immer noch auf den Vorbesitzer der Schänke. Das Problem dabei ist nur, dass er wohl nicht zurückkommen wird. Er ist schon seit geraumer Zeit verschwunden. Wir haben alles probiert, aber angesichts unserer derzeitigen Lage haben wir kaum Zeit, um uns mit einem Hund abzugeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Bis der Vorbesitzer überstürzt abreiste, war ich hier Bedienung. Keiner weiß, was mit ihm geschehen ist. Selbst seinen armen Hund hat er zurückgelassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Und dann hat so ein Monster das arme Ding getötet. Kaum zu glauben! Wer tut denn sowas Schreckliches?" Pasca schüttelt den Kopf. "Ich glaube aber, den Namen werden wir trotzdem behalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Können wir die Zahlung nicht überspringen? Es ist für einen guten Zweck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Oh, du aber nicht. Ich bin oft genug übers Ohr gehauen worden. Ihnen einen lustigen Abend zu verschaffen, kann man kaum eine 'gute Sache' nennen." Pasca lacht. "Wie sie dich auch überzeugt haben ... glaub mir, es ist die Kupferstücke nicht wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Pasca äugt dich einen Moment lang an und seufzt dann. "Oh, in Ordnung. Ich weiß, dass man von dir die Wahrheit erwarten kann. Wahrscheinlich ist das nur gerecht, da sie ja das Getreide ernten usw. Hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ich habe Tenfrith zum Vorräte holen nach Norden hoch geschickt. Tenfrith ist unser Koch, musst du wissen. Ein wahrer Künstler am Herd, und sein Braten ist himmlisch. Er hätte aber schon seit Tagen zurück sein sollen, und bisher haben wir kein Lebenszeichen von ihm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Aloth schaut dich an und schüttelt schnell den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Aloth öffnet den Mund, scheint es sich dann aber anders zu überlegen. "Für mich nichts, danke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Von nun an kannst du dich als Ehrengast unseres Hauses betrachten. Rabatt auf Met, auf Zimmer ... Tenfrith sagte, er wolle in der Küche schnell etwas Feines für dich zubereiten. Richtig gehört - er ist schon wieder beim Kochen." Sie lacht. "Also, was hättest du denn gerne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Er wird nicht zurückkehren, darum habe ich mich gekümmert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"D-du ... hast was?" Pasca taumelt einen Schritt vom Tresen zurück. "H-hilfe! Wachen! Alle herhören! Dieser Mann ist ein Mörder!"</DefaultText>
+      <FemaleText>"D-du ... hast was?" Pasca taumelt einen Schritt vom Tresen zurück. "H-hilfe! Wachen! Alle herhören! Diese Frau ist ein Mörder!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

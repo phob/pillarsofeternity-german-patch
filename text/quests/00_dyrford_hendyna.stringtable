@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\00_dyrford_hendyna</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Nestei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Beschaffe ein Drachenei von der Dyrfurt-Flusskreuzung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bringe Hendyna das Drachenei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bringe Hendyna das geborstene Drachenei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Hendyna, eine Alchemistin in Dyrfurt, hat aufgrund der Briganten und Flüchtlinge auf den Straßen Schwierigkeiten, Vorräte geliefert zu bekommen. Sie benötigt frische Zutaten für ihre Tränke.
+
+Sie sagt, dass es in der Nähe des Dorfes ein verlassenes Jungdrachennest gäbe. Wenn du ein Ei herausholen könntest, wäre sie in der Lage, neue Tränke zu brauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Hendyna hat mir von einem Jungdrachennest östlich des Dorfes erzählt. Sie glaubt, dass es von dem Jungdrachen verlassen wurde, offensichtlich aber nicht von einem ganzen Gelege von Lindwürmern.
+
+Sie wurde von den Lindwürmern angegriffen, als sie versuchte, sich dem Nest zu nähern, aber sie würde es zweifelsohne schätzen, wenn ich ein Ei für sie holen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe das Ei ohne Kratzer die Felswand hinuntergebracht. Hendyna sollte großen Nutzen daraus ziehen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Auf dem Weg die Felswand hinunter ist das Ei zerbrochen. Es läuft bereits aus, aber Hendyna kann es wahrscheinlich immer noch zum Brauen von Tränken benutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe den verlassenen Schlafplatz oben auf einer Felswand im nordöstlichen Bereich der Dyrfurt-Kreuzung gefunden. Sieht schwierig zu erklettern aus. Vielleicht sollte ich mein Zubehör prüfen, bevor ich es versuche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich musste einige Banditen bekämpfen, die es wohl auch auf das Ei abgesehen hatten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich bin einigen Banditen begegnet, die es auch auf das Ei abgesehen hatten. Ich habe sie bezahlt, damit sie verschwinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Hendyna war außer sich vor Freude, als ich ihr ein Drachenei in perfektem Zustand gebracht habe. Sie hat mir einige Zutaten gegeben, damit ich selbst einen Trank brauen kann, und hat mir einen Sonderpreis für ihre Waren versprochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Hendyna war beeindruckt, dass ich es geschafft hatte, das Ei zu besorgen. Es war zwar gesprungen, aber sie war trotzdem zuversichtlich, dass es ihr sehr helfen würde. Sie hat mir einige Zutaten gegeben, damit ich selbst einen Trank brauen kann, und hat mir einen Sonderpreis für ihre Waren versprochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Hendyna war enttäuscht, dass das Ei zerbrochen war. Es klang aber, als könne sie doch noch etwas damit anfangen. Sie hat mir einige Zutaten gegeben, damit ich selbst einen Trank brauen kann, und hat mir einen Sonderpreis für ihre Waren versprochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Jemand, der für diese Quest von entscheidender Bedeutung ist, ist gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

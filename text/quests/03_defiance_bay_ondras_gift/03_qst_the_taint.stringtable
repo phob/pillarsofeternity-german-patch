@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\03_defiance_bay_ondras_gift\03_qst_the_taint</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Angebot und Nachfrage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde und stelle die Schläger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Erledige den Anstifter der Angriffe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Berichte Maea im Bordell in Ondras Geschenk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Konfrontiere Maea im Bordell in Ondras Geschenk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Berichte Maea im Bordell in Ondras Geschenk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Beim Salzigen Mast werden Prostituierte und Freier von Straßenschlägern belästigt. Die Besitzerin, Maea, möchte dem gerne ein Ende setzen, aber die Angreifer selbst könnten auch Kummer haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Maea, die Eigentümerin des Salzigen Masts, möchte die Schläger, von denen ihre Kunden und Kurtisanen belästigt werden, gerne von mir aufhalten lassen. Sie vermutet, dass ihr Vorgehen von jemand organisiert wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe die Anführerin der Schläger ausfindig gemacht. Ich könnte eventuell in der Lage sein, die Belästigungen am Bordell zu beenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Maea wird erfreut sein zu hören, dass ich Aefre erledigt habe, die Person, die hinter den Angriffen steckte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Aefre erklärte, dass Maea Gewinne aus Waidwens Vermächtnis zog, indem sie ihre Preise derart anhob, dass sich nur noch die Reichen ihr Etablissement leisten können.
+
+Ich stimmte zu, Maea davon zu überzeugen, ihre Preise zu senken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Bricanta Doemenel erklärte sich bereit dazu, die Preise für Bittergurken zu senken. Jetzt kann auch Maea ihre Preise für jedermann senken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Einer der Schläger ließ einen Schlüssel fallen, der so aussieht, als gehörte er zu einem Haus in Ondras Geschenk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Maea sagte mir, dass sie ihre Preise wegen des Preisanstiegs für Bittergurken anheben musste. Sie schlug vor, dass ich mich mit ihrer Lieferantin Bricanta Doemenel in der Doemenel-Villa in Farnheim unterhalte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich wurde von den Schlägern angegriffen, die die Bordellfreier belästigen. Falls Maeas Theorie stimmt, sollte einer von ihnen Beweise für eine größere Verschwörung bei sich tragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Maea sagte mir, dass sie ihre Preise wegen des Preisanstiegs für Bittergurken anheben musste. Sie schlug vor, dass ich mich mit ihrer Lieferantin Bricanta Doemenel in der Doemenel-Villa in Farnheim unterhalte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich habe Aefre umgebracht. Maea war so darüber erfreut, dass ihr der Mob keine Schwierigkeiten mehr bereiten wird, dass sie mir einen gewaltigen Rabatt für Bordellbesuche gab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich überzeugte Aefre, mit den Belästigungen aufzuhören. Maea zeigte sich überrascht, aber erfreut, und gab mir einen ordentlichen Rabatt für Bordellbesuche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich sagte Maea, dass sie ihre Preise senken muss, um Schlimmeres zu verhindern. Sie war einverstanden, glücklich darüber aber war sie nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Ich überzeugte Maea davon, dass eine Preissenkung im Bordell der bessere Weg sei. Sie stimmte meiner Argumentation zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Ich sprach mit Bricanta Doemenel über die Preissenkung von Bittergurken für Maea. Aufgrund meiner Hilfe stimmte Bricanta gerne zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Ich habe Aefre in mein Verlies gesperrt. Maea zeigte sich überrascht, aber erfreut, und gab mir einen ordentlichen Rabatt für Bordellbesuche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Ich brachte Maea um, weswegen ich von ihr nicht mehr belohnt werden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

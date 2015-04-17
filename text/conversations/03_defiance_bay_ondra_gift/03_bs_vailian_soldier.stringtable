@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_bs_vailian_soldier</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ich soll nur auf die Kisten aufpassen. Was drin ist, will ich gar nicht wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Dass die Gründer der Vailianischen Handelsgesellschaft dieses Lagerhaus so dicht am Salzigen Mast gebaut haben, war bestimmt kein Zufall ... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Für Vailianer geht es bei der Arbeit im Ausland nur darum, mit Erfolg und Prestige in die Republiken zurückzukehren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"In Ondras Geschenk laufen viele ungeregelte Geschäfte, aber gerade das können wir Vailianer eigentlich recht gut leiden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Hier gibt Mestre Verzano die Befehle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Dieser Paladin hat Verzano immer davor gewarnt, die falschen Leute zu verärgern. Wie schade, dass er nicht auf sie gehört hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Seine rücksichtslosen Geschäfte haben Verzano letztendlich eingeholt. Wollen wir hoffen, dass der neue Chef klüger ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Verzano ist als blamierter Versager auf dem Rückweg in die Republiken, die Art von Heimkehr, vor der sich jeder Vailianer fürchtet."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_cv_cook_company</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Byne blickt dich amüsiert an, doch seine Stimme klingt bedrohlich. "Du hast dich wohl verlaufen, Frischling. Die Riesentöter teilen kein Kopfgeld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wenan schickt mich, euch zu helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wenan findet, ihr braucht zu lange."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Er hört auf, sich auf sein Schwert zu stützen und ergreift den Knauf. "Wenan schickt dich ... " Die Muskeln um seinen Kiefer herum werden hart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Der gepflegte Mann lehnt sich nach vorne, schwankend, als wäre er betrunken. "Du glaubst, du kannst die Waffen beschaffen? Du hast zwei Probleme, Frischling - einen überfluteten Eingang zum einen, Schmelztiegel-Patrouillen zum anderen. Wir haben hier draußen mehr Ritter als Gesichtsbemalte gesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Was machen die Schmelztiegelritter hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Woher soll ich das wissen? Sie sind glorifizierte Schläger in Rüstungen und ziehen meist ein Daunenbett einem Feldbett vor. Ich würde sie ohne zu zögern aufschlitzen, aber als gesuchter Mann kann ich kein Kopfgeld sammeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Was hat es mit dem überfluteten Eingang auf sich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Was weißt du über diese Waffen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Muss wohl am Regen liegen." Er zuckt mit den Achseln. "Aber wir haben das hier im Wasser gefunden." Er hält ein flaches, rundes Stück Adra hoch und lässt es in einen Beutel an seinem Gürtel fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Wenan bezahlt gut dafür. Mehr muss ich nicht wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Und was jetzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Eine interessante Frage. Du musst wissen, wir teilen kein Kopfgeld. Niemals nie." Seine Gefährten stellen sich in einer Reihe neben ihm auf, die Hände an den Waffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Wir haben keinen Streit miteinander."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Das ist Wenans Problem, nicht meines. Du solltest mit deinem Auftraggeber sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich wurde nur geschickt, um mit euch zu sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich bin nicht wegen des Kopfgelds hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Hier gibt es nicht viel natürliches Adra. Vielleicht ist das eine Art Schlüssel. Aber wir konnten es nicht herausfinden, weil diese verfluchten Ritter überall herumschleichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Angreifen] "Ich auch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Er tritt näher. Du spürst seinen heißen Atem auf deinem Gesicht. "Du bist hergekommen. Das war ein Fehler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ich werde schon mit Wenan sprechen, keine Sorge." Er tritt vor, die Waffe nun in der Hand. "Du hättest trotzdem nicht kommen sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Und wir sprechen, Frischling." Er tritt vor, sein Gesicht nur wenige Zentimeter von deinem entfernt. "Wähle deine Worte mit Bedacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ich hätte nicht erwartet, die großen Riesentöter schlafend bei der Arbeit zu finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Natürlich nicht. Du hast die lange Reise auf dich genommen, um uns Gesellschaft zu leisten." Er tritt vor dich, das Gesicht rot vor Zorn. "Lüg mich nicht noch einmal an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Adra-Stein stehlen.] "Du hast Recht. Wir gehen zurück und sagen Wenan, dass wir fertig sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Nimm dein Gesicht aus meinem oder ich mache es noch hässlicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Können wir nicht zusammenarbeiten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Er blickt dich völlig perplex an, bevor er in ungläubiges Gelächter ausbricht. "Ich weiß nicht, wo Wenan Leute wie dich findet."
+
+"Aber sicher, Frischling, wir arbeiten zusammen." Er nickt in Richtung seiner Gefährten. "Halt einfach still, dann kannst du meinen Freunden bei ihren Zielübungen helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Wir sehen uns." Er wendet sich seinen Gefährten zu und nickt und sie folgen ihm den Hügel hinab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Byne fixiert dich einen unangenehm langen Moment lang mit seinem Blick. Schließlich blickt er weg und spuckt ins Gras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Du hast Mumm, das muss man dir lassen ... und du hast mich an einem guten Tag erwischt." Er wirft dir die Adra-Scheibe zu. "Dann will ich mal sehen, ob du dahinterkommst." 
+
+Er pfeift. "Na los, heute Abend essen wir warm. Wir kümmern uns später um diese Emporkömmlinge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Byne sieht zufrieden aus, sein Gesicht ist rot vom Wein. Er bemerkt nicht, wie deine Hand in seinen Gürtelbeutel gleitet, als er zurücktritt.
+
+"Dann war es das. Wenan hat gewiss andere Aufgaben, die besser geeignet sind für jemanden mit deinem ... Schneid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Bynes Gesicht läuft rot an. Seine Hand bewegt sich zu seiner Axt, findet dann aber stattdessen die Adra-Scheibe. Er schleudert sie dir vor die Füße. "Ich bin gespannt, ob du es besser hinkriegst. Oder ob du nur ein großes Mundwerk hast."
+
+Er wendet sich seinen Gefährten zu. "Na los, heute Abend essen wir warm. Wir kümmern uns später um diese Emporkömmlinge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Sein selbstgefälliger Gesichtsausdruck verschwindet. "Und er hatte den Nerv, dich zu schicken?" Seine Hand bewegt sich zu seinem Schwertknauf. "Ich sollte dich einfach tö-". Er hält inne und beißt die Zähne zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Angreifen] "Ganz, wie du willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Gib es zu. Du weißt nicht weiter, sonst würdet ihr hier nicht einfach so herumsitzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

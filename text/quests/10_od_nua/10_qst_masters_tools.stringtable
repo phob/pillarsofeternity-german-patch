@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\10_od_nua\10_qst_masters_tools</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Werkzeuge des Meisters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Steige weiter auf die nächste Ebene der Endlosen Pfade hinab</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Durchsuche die Ruinen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Tcharek zurück</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>In einem Bereich der Höhlen unter Caed Nua haben sich Vithrack angesiedelt, die sich auf der Suche nach neuem Wissen weit von ihrer Heimatkolonie entfernt haben. Das offensichtliche Geschick des Meisters bei der Adra-Bearbeitung respektieren sie besonders, und sie möchten lernen, wie sie Adra für ihre eigenen Zwecke formen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Vithrack haben mich gebeten, sie bei ihren Forschungen zu unterstützen, indem ich die Ruinen unter ihrem Lager nach Materialien durchsuche. Ihre Anführerin warnte mich, dass dieser Bereich von fürchterlichen Konstrukten bewacht sei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe die Ruinen unterhalb der Höhlen erreicht und kann nun mit meiner Suche beginnen. Die Vithrack haben mich gebeten, drei Gegenstände für sie zu besorgen: Einen veredelten Adra-Kristall, die Rüstung eines der mit Adra bedeckten Animaten, die durch die Gegend streifen, und ein Stück aus einer der uralten engwithanischen Maschinen. Dadurch werden die Vithrack hoffentlich genügend Material für ihre eigenen Experimente zur Verfügung haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe alle Gegenstände gesammelt, um die mich die Vithrack-Anführerin gebeten hatte. Tcharek versprach mir eine Belohnung, falls ich mit ihnen zum Vithrack-Lager zurückkehrte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Bei einem der inaktiven Wächter in den Ruinen habe ich ein Stück Adra-besetzter Animat-Rüstung gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>In einem der Labore in den Ruinen habe ich einen Kristall aus reinem, veredeltem Adra gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Die Untersuchung einer der uralten Maschinen in den Ruinen führte zur Entdeckung eines merkwürdigen, mit Kupfer bedeckten Mechanismus, der die Vithrack wahrscheinlich interessieren wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Auf meinem Rückweg zum Vithrack-Lager wurde ich von einigen Späherinnen angegriffen, die sich die Ehre für meine Entdeckung nehmen wollten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Auf meinem Rückweg zum Vithrack-Lager wurde ich von einigen Späherinnen konfrontiert, die sich die Ehre für meine Entdeckung nehmen wollten. Ich konnte sie davon überzeugen, mich passieren zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich griff das Vithrack-Lager an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich brachte die von den Vithrack erbetenen Gegenstände zurück. Dadurch sollten sie genügend Material für ihre Forschungen haben und nicht mit leeren Händen in ihre Heimat zurückgehen müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

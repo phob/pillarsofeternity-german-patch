@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\02_defiance_bay_first_fires\02_tsk_the_song_and_the_watch</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Vermisste Wachen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Betrete Erbhügel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde die vermissten Wachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Sprich mit Wyla.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Wyla, eine Justiziarin der Schmelztiegelritter, hat einige ihrer Novizen verloren, die außerhalb von Erbhügel Wache standen und unter mysteriösen Umständen verschwunden sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Das Tor nach Erbhügel ist versiegelt, Wyla erzählte mir jedoch, dass mich die Wachen erwarten würden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Die verschwundenen Wachen befinden sich wohl irgendwo in Erbhügel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe Leyra erledigt. Sie wird den Schmelztiegelrittern – oder anderen in Erbhügel – nun nie wieder Schwierigkeiten bereiten. Ich sollte mich nach Burg Schmelztiegel in Urfeuer begeben und Wyla berichten, was geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Der Torwächter berichtete mir, dass ein Wächter aus der letzten Schicht jemanden einen Befehl schreien hörte. Anscheinend aus nordöstlicher Richtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Der Torwächter bemerkte, dass das Tor beide Male, als die Wächter verschwanden, entriegelt wurde. Möglicherweise gab es einen Grund dafür, dass die verschwundenen Wächter auf eigene Faust nach Erbhügel gegangen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe eine Leiche gefunden, bei der es sich um einen Kommandanten der Schmelztiegelritter zu handeln scheint. Wyla erwähnte, dass einer kurz vor der Absperrung von Erbhügel verschwunden war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Ich berichtete Wyla, dass ich mich um Leyras ruhelosen Geist in Erbhügel gekümmert hatte. Sie war dankbar zu wissen, was mit ihren verschwundenen Novizen geschehen war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ich berichtete Wyla, dass ich mich um Leyras ruhelosen Geist in Erbhügel gekümmert hatte. Sie war dankbar, dass nicht alle ihrer Novizen umgekommen waren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Ich berichtete Wyla, dass ich mich um Leyras ruhelosen Geist in Erbhügel gekümmert hatte. Sie war dankbar zu wissen, dass alle ihrer Novizen in Sicherheit waren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Da Wyla tot ist, kümmern mich ihre verschwundenen Novizen nicht länger.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

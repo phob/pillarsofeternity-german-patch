@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_maerwald</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>132</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein großer, sommersprossiger Mann mit breitem Brustkorb und dickem Bauch kauert in der hintersten Ecke des Raums. Seine weißen Haare sind völlig wirr und strähnig. Er hält seine zitternden Hände vors Gesicht und bringt es nicht fertig, in deine Richtung zu sehen.
+
+"Nein! Bleib von uns weg! Geh!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bist du Maerwald?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Dann werde ich euch in Ruhe lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Urplötzlich hört er auf zu zittern und wird von augenblicklicher Ruhe ergriffen. Er neigt seinen Kopf leicht nach vorne und wie er dir so direkt in die Augen stiert, wirkt er wie ein in die Enge getriebenes Tier, das kurz vor dem Angriff steht. Seine Stimme wird plötzlich ganz rau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich bin ein Wächter. In Goldtal traf ich eine Frau, die meinte, du könntest mir helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Bevor ich nicht mit Maerwald gesprochen habe, werde ich nicht gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich bin kein Geist. Ähnele ich irgendeinem Geist, den du schon mal gesehen hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Bitte. Mit mir ist gar nichts verkehrt, ich brauche Maerwalds Hilfe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Du hörst am besten sofort auf, in Rätseln zu sprechen, sonst wird es dir schlimmer ergehen, als wenn du einen Geist getroffen hättest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Der alte Mann dreht sich weg und ergeht sich mit dem Gesicht zur Wand in ein weiteres gemurmeltes Streitgespräch.
+
+Als er sich dir wieder zudreht, hat er eine selbstbewusste Körperhaltung angenommen und drückt seine Brust heraus wie ein Soldat. Seine Stimme ist nun von einer neuen Stärke erfüllt. "Maerwald wird mit dir sprechen, aber du musst auf Distanz bleiben, sonst werde ich mich darum kümmern müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die starke Körperhaltung ist nun passé, und die Hände, die er gerade noch kampfeslustig neben sich hielt, zittern wieder wie zuvor. Seine Stimme klingt schwach und zaghaft.
+
+"Ach, mit Maerwald willst du sprechen? Mit Maerwald, dessen Berührung wie Gift ist? Mit Maerwald, der nicht um seine Wirkung weiß?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Mir wurde gesagt, dass ich ein Wächter bin, und dass du mir etwas darüber erzählen könntest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Er schaut dich über seine Hand hinweg an und die Muskeln um seine Augen herum zucken. Dann beginnt er, sich selbst scharf zischend zuzuflüstern, als ob er mit sich selbst ein Streitgespräche führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Du scheinst deinen Verstand verloren zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Auf dem Weg hierher wurde ich von Geistern belästigt. Was wollen sie von mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Immer noch stark abgelenkt nickt er und späht auf die Tür hinter dir. "Ein Fenster. Ein Fenster zum Äther, wo die Geister leben. Spähe und greife hinein, sprich und höre hindurch."
+
+"Ein Wächter sieht Seelen. Er liest sie. Er kennt ihre Vergangenheit. Seelen der Lebenden, Seelen der Toten. Ein Empath." Er atmet schwach röchelnd aus. "Und die Seelen sehen auch sie."
+
+"Habe es benutzt, um Wesen in beiden Reichen zu helfen, oh ja, das habe ich. Das, was die Götter von mir verlangten, dachte ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Mit einem kurzen Krampf drückt er plötzlich seine Schultern durch, und seine Stimme wird stark. "Die Götter haben mich für die Rache in die Welt gebracht, und ich habe ihnen gehorcht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Er neigt seinen Kopf nach vorne und grollt dich mit rauer Stimme an. "Der Wunsch der Götter war es, dass wir dieses Land beschützen. Mein Weg war der einzig mögliche, um die Ausländer loszuwerden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Er sinkt wieder in sich zusammen und ist einmal mehr er selbst. Wieder bedeckt er sein Gesicht mit zitternden Händen. "Oh, wie wenig ich wusste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Verloren? Nein ich fand noch viel mehr davon. Zu viel. Zu viel, um es ertragen zu können."
+
+"Eine Erweckung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Du meinst, dass du dich an deine vergangenen Leben erinnern kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Was ist eine Erweckung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Er nickt. "Etwas erinnert. Aufgewühlte Erinnerungen. Erinnerungen von vor der Geburt. Andere Körper, andere Zeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Wir haben viele Lebzeiten. Seelen betreten den Schoß und verlassen die Leiche. Mit sich tragen sie alle Erfahrungen, alles Wissen, alle Identitäten."
+
+"Und trotzdem erinnern wir uns nicht. Vor uns verborgen? Welches Ende? Welches Ende? Das wissen nur die Götter."
+
+"Bestimmte Dinge können Erinnerungen von längst begrabenen Leben aufwühlen. Alte Erinnerungen wecken, alte Persönlichkeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Erinnerung, Persönlichkeit, Identität, alles davon kann wieder zum Vorschein kommen."
+
+Abermals schaut er zur Tür hinter dir. "Oder alles zusammen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Mit starrem Blick auf ein imaginären Phantom taumelt Maerwald nach hinten. "Nein. NEIN! Vergebt mir! Vergebt mir."
+
+Er bedeckt seinen Mund mit der Hand und atmet stoßweise. Seine Augen sind rot und erschöpft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Die Geister, an denen ich vorbei kam - was sind sie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Geister ... und Ungeister. Flüstern Maerwald immer ins Ohr. Erinnern ihn an seine Fehler. Kein Schlaf."
+
+"Wächter sehen Erinnerungen vor sich - sie formen sie aus der Essenz ihrer eigenen Seelen."
+
+"Nach Maerwalds Erweckung konnte er sie nicht vertreiben. Gab ihnen mehr Form, nicht weniger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Bank Node 29</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Diese Geister ... sie sind seine eigenen."
+
+"Er hat tausend schmerzliche Erinnerungen erlebt und wieder erlebt ... in einem Leben Schmerzen verursacht, im nächsten sie erlitten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Als er den alten Mann ansieht, kneift Aloth seine Augen immer weiter zusammen. "Wie kann eine ... einfache Erweckung dich hierzu getrieben haben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Vielleicht weil die Geister Erinnerungen an vorherige Leben sind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Er nickt mit erbärmlichen Gesichtsausdruck. "Unschöne Erinnerungen. Zornige Erinnerungen. Sie ziehen Maerwald zurück. Erinnern ihn an seine Fehler."
+
+"Plünderer und Soldat, Soldat und Plünderer. Woher konnten sie es wissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Warum belasten dich diese vergangenen Leben immer noch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich habe solche Erscheinungen schon woanders gesehen - seit ich zum Wächter geworden bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Wie kann man einen Geist von einer Erinnerung unterscheiden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Zerstückelt sind die Erinnerungen. Gefangen in der Zeit, ohne Verstand, grausam, niemals fern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Maerwalds Augen füllen sich mit Tränen. "Oh nein. Nein nein. Du auch? Ja, du auch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Aloths Augen schießen zwischen dir und Maerwald hin und her. "Was genau meint er damit? Man kann doch bestimmt etwas unternehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ich wusste, dass etwas mit dir nicht stimmt, als ich dir begegnete. Aber das ... das klingt ernst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich sagte doch, einem Wächter kann man nicht trauen. Es verwundert nicht, dass jemand dem Wahnsinn anheim fällt, der es sich zur Gewohnheit macht, Dinge zu sehen, die für sterbliche Augen nicht gedacht sind."
+
+"Es scheint, als würde unsere gemeinsame Reise kurz sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ein Verstand kann einem dauerhaften Angriff nicht standhalten ... schon gar nicht gegen sich selbst. Dieser hier leidet seit Generationen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Was, ein unvermeidlicher Wahnsinn? Das glaube ich nicht." Kana verschränkt die Arme. "Es lässt sich immer eine Antwort finden, wenn man lang genug sucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Bank Node 47</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Dich werden sie auch holen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Es muss doch einen Weg geben, um diese Erinnerungen zu vertreiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Meine Schuld. Alles meine Fehler. Soldat und Plünderer. Soldat und Plünderer und Maerwald. Keine Vergebung für das Vergangene. Kein Löschen der eigenen Taten."
+
+Er sieht dich verloren und mit hängenden Augenlidern an. "Kein Schlaf. Kein Schlaf für den Wächter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Es gab Krieg, überall. Krieg der Steine. Krieg der Bäume."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Krieg des Baums ... Ach, natürlich - der Krieg des Zerbrochenen Steins und der Krieg der Schwarzen Bäume. Das war in der Frühzeit der aedyranischen Kolonialisierung. Kämpfe zwischen den dyrwäldischen Kolonisten und den eingeborenen Glanfathanern. Aber ... das war vor langer Zeit ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Tod haben wir den Siedlermännern gebracht. Wir, die Neun Klauen. Die Klauen von Neun. Schlimmer war, was wir den Frauen antaten. Aus Liebe zu den Göttern. Den Göttern zuliebe. Für ihre Liebe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Maerwalds Stimme wird rau und erscheint an einem anderen Ort in Zeit und Raum zu sein, wo er mit einer unsichtbaren Person spricht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Maerwald, abermals er selbst, katzbuckelt sich zusammen und beobachtet etwas, das er nicht ertragen kann, mit ständigem Kopfschütteln. Er wehklagt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Seine Stimme verringert sich zu einem brüchigen Flüstern. "Der Knabe. Der Knabe. Der Baby-Knabe. Der Knabe."
+
+"Empfangen im Angriff. Empfang durch Zwang. Gefäß für Plünderer, erschlagen im Angriff. Plünderer und der Knabe. Plünderer und Soldat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Das ist genug. Mehr will ich nicht mehr wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Rede weiter, ich habe Freude daran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Er nickt mit triefenden Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Du warst ein Monster. Du hast das verdient, selbst für ein vergangenes Leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Nimm dir Zeit. Es ist jetzt vorbei. Das war vor langer Zeit. Fahre fort, wenn du bereit dazu bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Fahre fort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Im Krieg geschehen schreckliche Dinge. Mit deinen Taten zu leben ist allein schon Strafe genug."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ein vom Räuber gezeugtes Kind? Was heißt das, es war ein Gefäß für ihn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Seine Seele ist von der Flamme gezeichnet, und diese Brandmale werden nie heilen. Seine Prüfung hat ihn gebrochen, aber lieber das, als in Schwäche zu leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Für die Seele. Plündererseele. Dieselbe Seele, eine Seele. Knabenseele, Plündererseele. Aufgezogen in Lügen und Rache. Aufgezogen zum Soldaten. Aufgezogen für das Feuer. Geboren für das Feuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Maerwald setzt sich mit tiefer Stimme auf. Er spricht zu einem unsichtbaren Etwas. "Von mir wirst du kein Mitleid bekommen. Die Verbrechen des Neun Klauen-Clans im letzten Krieg sind immer noch ungerächt. Die Götter aber sind gerecht. Sie haben mich hierher geführt. Im Namen meines Vaters werdet ihr alle brennen."
+
+Er sieht neben sich, als ob jemand in seiner Nähe stünde. "Anzünden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Bank Node 68</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Er spricht von zwei verschiedenen Kriegen, die hintereinander ausgetragen wurden. Vor langer Zeit. Der Krieg des Zerbrochenen Steins und der Krieg der Schwarzen Bäume."
+
+"Die üblichen Konflikte zwischen Einheimischen und Siedlern, die eskalierten. Beide Male. Manche sind noch heute zornig darüber, was eine Seite der anderen angetan hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Bank Node 70</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Also kam er in seinem nächsten Leben zurück, um seinen eigenen Clan zu verbrennen? Kein Wunder, dass er in diesem Zustand ist. Das verdirbt einen bis auf die Seele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Durance grinst. "Sein eigen Fleisch und Blut verbrennen. Warum auch nicht, wenn es böse war und seine Strafe verdient hat?"
+
+"Er ist von schwachem Geist und schwacher Seele. Ihn vor der Flamme kuschen zu sehen, das dürfte dir alles sagen, was du wissen musst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Aloth sieht den alten Mann erschrocken an. "Baim betrigerischn Bann des Totengräbers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Das aus Gewalt geborene Kind wuchs zu einem Mann der Rache heran ... und brachte Feuer über den Clan, der ihm sowohl Leben als auch Tod gegeben hatte ... "
+
+"Seine Seele ist wieder und wieder zu demselben Konflikt zurückgekehrt ... alte Wunden leckend, neue schlagend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Maerwalds Schultern sacken zusammen. Er schaukelt aufgeregt hin und her. Deine Gegenwart hat er vergessen und er murmelt vor sich hin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Deine Seele wird der Verruchtheit anheim fallen. Die einzige Frage ist nur, warum sie die Götter nicht entzwei reißen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ich weiß es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ich sehe keinen Grund, sondern nur Pech."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Was auch der Grund ist, ich glaube nicht, dass es uns vorbestimmt war, es zu wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Du sprichst in Rätseln, die zu verstehen mir die Geduld fehlt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Erbittert schüttelt er seinen Kopf. "Oh, wie wenig wir wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Nein. Immer da. Immer in Erinnerung. Kann nicht vergessen. Das Gesehene ist nicht ungesehen machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Ich erinnere mich nicht bloß daran, jemand hat das verursacht. Sie trugen Masken und sprachen von Büchern, Schlüsseln und einer Königin. Es war ein Mann dort ... er schien mir vertraut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Quelle der ... Erinnerung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Die trugen Kapuzen und sprachen von Büchern, Schlüsseln und einer Königin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Schlüssel aus Blei. Bücher der Bürde. Vergangene Königinnen. Mir sind sie als der Bleierne Schlüssel bekannt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Was kannst du mir über diesen Bleiernen Schlüssel erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Wer ist diese Königin, die sie anbeten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Wenn der Bleierne Schlüssel mein Erwecken verursacht hat, könnte er es dann nicht wieder rückgängig machen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Geheimnisse. Geheimnisse und Täuschungen und Ränke. Wer kennt ihre Antworten? Sie nicht. Sie nicht."
+
+"Habe sie früher schon verärgert. Hass der Wächter. Hass und Angst. Wir sehen viel, bedrohen Geheimnisse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Der alte Mann ist nach vorne gebeugt und sein Kopf ist so zur Seite geneigt, als erwarte er, geschlagen zu werden. Er zittert unkontrollierbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Die Luft in der Burg hat sich verändert. Was dir vorher dick und erstickend erschien, findest du nun atembarer, als würdest du dich einem Angreifer ergeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Seil reparieren und Maerwald als ewige Wache an diesen Ort binden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Das Seil durchtrennen und Maerwald gestatten, aus der Welt zu scheiden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Erschöpfe die Energie des Seils selbst und ziehe das Wissen aus der Verbindung ab.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Weißt du, wo ich den Bleiernen Schlüssel finden kann?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Woedica, Göttin. Zerschmetterte Krone und verbrannter Körper. Eidbinderin und Grollhegerin. Bannerträgerin der Gerechtigkeit, aber wessen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Maerwalds buschige weiße Augenbrauen ziehen sich leicht nach oben. Er beginnt, vor sich hin zu murmeln. Als er endlich spricht, wolltest du gerade schon deine Frage wiederholen.
+
+"Sie hegen viele Geheimnisse. Un ... erweckt? Vielleicht. Wer, wenn nicht sie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Stadt des Trutzes. Nie weit von der Königin entfernt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ich muss aufbrechen, damit ich nach diesem Mann vom Bleiernen Schlüssel suchen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Maerwald nickt dir mit verständnisvoller Miene zu.
+
+"Schlaf gut. Schlaf gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Bevor du gehen kannst, neigt er seinen Kopf nach vorne. Seine Augen blicken kalt und gefährlich in deine, seine Stimme ist heiser.
+
+"Halt! Ich kenne deinen Willen, Daî! Deine Taten wurden gesehen. Eher würdest du die Aedyr-Landdiebe betrüben, als Befehle von mir anzunehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Ich gehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Du hast mich mit jemandem aus einem vergangenen Leben verwechselt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Ich habe keine Zeit für sowas. Ich werde dich besinnungslos schlagen, alter Mann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Immer mit der Ruhe, ich werde niemanden betrügen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Ich würde viele Sachen eher machen, bevor ich Befehle von einem Wahnsinnigen annehme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Dein Betrug ist umsonst. Deine Warnungen an diesen Ausländer sind verschwendet und heute Nacht wird ihr Blut Galawain zum Tribut gereichen. Ich habe die Älteren um die Ehre gebeten, dein Haupt als meine erste Trophäe zu nehmen, und sie haben es mir gestattet. Bitte den Gott der Suche, dass er dir einen schnellen Tod gewährt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Vor deinem geistigen Auge erscheint dir die Verbindung als ausgefranstes Seil, das gleichzeitig geisterhaft und lebendig ist. Seine ausgefransten Enden winden sich wie Anemonen in den Gezeiten, und du bemerkst, dass du die Fähigkeit besitzt, ihre Stränge zu kontrollieren - volle Konzentration vorausgesetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Maerwalds Körper liegt regungslos da. Du kannst spüren, wie seine Seele dort unschlüssig verharrt.
+
+Irgendetwas an dieser Seele an diesem Ort ist einzigartig. Es handelt sich um eine für dich fast greifbare Verbindung, die in Jahrzehnten der Anwesenheit und Herrschaft gebildet wurde: Selbst im Tod scheint die Burg ihren früheren Herrn zu erkennen, und der frühere Herr erinnert sich an seine Burg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Als die Verbindung stärker wird, winden sich ausgefransten Stücke und fügen sich wieder zusammen. Die Fasern werden zu Metall und aus dem Seil wird eine Kette.
+
+Du beobachtest, wie Maerwalds Seele in den Boden sinkt und mit ihm verschmilzt. Dann verbreitet sie sich in der ganzen Burg, bis sie eins mit ihr ist, ein stiller Hüter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Die Verbindungen fliegen Strang für Strang auseinander, wie die überspannten Saiten eines ätherischen Instruments. Als der letzte Strang reißt, verflüssigt sich das Seil und verschwindet aus deinem Bewusstsein.
+
+Maerwalds Seele, ein Wirbel aus Unfrieden und Zwietracht, schwebt in deiner Nähe, du aber spürst noch etwas darunter - etwas wie Erleichterung. Seine Seele dringt durch eine der Wände und ist verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Du drehst beide Seilenden auf dich zu und bringst sie in Kontakt mit deiner Essenz. Als du das tust, verwandeln sich die Fasern in Kupfer und leiten Energie in dein Wesen. 
+
+Du bewegst dich nun nach unten, weg von dem Ort, wo du stehst. Du siehst feuchtkalte, bedrohliche Orte voller Spinnweben, die wie ein ungepflegter, zugewachsener Garten wirken, den Schädlinge überrannt haben. Ganz unten, am äußersten Tiefpunkt, siehst du kurz ein Wesen, das über all dem mit brillanter und fürchterlicher Macht herrscht, du kannst es aber nicht genau erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Ein Bild aber bleibt in deiner Wahrnehmung haften: Ein kreisrunder Raum mit deinem der Sonne nachgebildeten Steintisch, in einem Gebiet, das von Rüstungen bewacht wird, die sich mit eigenem Willen bewegen. Er liegt ganz tief, nicht weit vom äußersten Tiefpunkt entfernt. In diesem Raum befindet sich eine Tür, die sich nur den schärfsten Augen offenbart, und dahinter liegt etwas Schillerndes, etwas Mächtiges ... 
+
+Als das Bild verschwindet, befindest du dich wieder in Caed Nua. Maerwalds Seele ist verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Du meinst, dass ich so wie du enden werde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Er schmollt, hält aber seinen Mund geschlossen, damit ihm die Antwort nicht entkommen kann. Letztendlich aber nickt er.
+
+"So zerbrechlich, der Verstand des Wächters. So real seine Erinnerungen. Einmal erweckt, wie kann er da schlafen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Der Bleierne Schlüssel? Es scheint, als hätten wir einen gemeinsamen Feind, [Player Name]. Meuchelmörder und Wächter-Wecker gleichermaßen ... Sie sind vielbeschäftigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Und ich scheine gerade mit mehreren von ihnen zu sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Er nickt verlegen. "Geister des Verstandes. Maerwald hat die Kontrolle verloren. Es ist nicht mehr Maerwalds Körper. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Dein früheres Leben hat also Dörfer geplündert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Ich bin einem deiner Erinnerungsgeister begegnet. Es wurde davon gesprochen, ein Dorf zu plündern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Dann war es seine Mutter, der ich in der Festung begegnet bin. Sie sagte ihm, sein Vater sei von den Plünderern getötet worden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Aufgezogen für das Feuer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Wenn ich für ein früheres Leben erweckt wurde ... Wie ist dies passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Du wurdest daran erinnert. Starke Erinnerungen, Spuren vergangener Leben, sie lauern gleich unter der Oberfläche. Warten darauf, dass man sich ihrer erinnert. Warten darauf, deinen Verstand zu erobern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Maerwald saß an seinem Herd und beobachtete sein Feuer. Er beobachtete, wie das Holz brannte. Dann kam die Erinnerung an ein anderes Feuer, und brennendes Holz. Und Schreie." Sein Gesicht zittert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Vielleicht kommen wir lieber später wieder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Und danach über, äh, eine Tafel von einigem Wert. Wenn ihr zwei fertig seid, versteht sich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Maerwald ist nicht hier, und er lässt sich auch nicht zum Narren halten. Er hat keine Besucher geladen. Geh hinweg, du betrügerischer Geist!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Halt sie fest. Hedhwr, besorg dieser Aedyr-Schlampe einen Erben, der nach Eir Glanfath gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Soldat und Plünderer. Lügen und Rache und tote Dörfer. Alle tot, alle tot."
+
+Er sieht dich an. "Und für was? Und für was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Sein Gesichtsausdruck ändert sich trotz seines abgrundtiefen Elends urplötzlich zum Ausdruck größten Mitgefühls. "Armer Mann. Armer Mann."</DefaultText>
+      <FemaleText>Sein Gesichtsausdruck ändert sich trotz seines abgrundtiefen Elends urplötzlich zum Ausdruck größten Mitgefühls. "Arme Frau. Arme Frau."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

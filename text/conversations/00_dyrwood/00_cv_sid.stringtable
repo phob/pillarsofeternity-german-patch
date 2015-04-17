@@ -6,11 +6,11 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Eine Rothaarige steht am Feuer, stimmt ihre Laute und zupft ihre Saiten. Als sie geht, summt sie Teile einer Melodie.
+      <DefaultText>Eine Rothaarige steht am Feuer, stimmt ihre Laute und zupft ihre Saiten. Dazu summt sie Teile einer Melodie.
 
 "Zum ersten Mal im Dracogen? Normalerweise würde ich jetzt ein Liedchen trällern, das hier habe ich aber noch nicht ganz so gut drauf. Ich schreibe ein paar Stücke über die Gründung dieser Schänke."
 
-"Sag mal, interessiert dich die Geschichte vielleicht? Ich bin mit den Stücken zwar noch nicht fertig, aber ich könnte dir über ihren Inhalt erzählen."</DefaultText>
+"Sag mal, interessiert dich die Geschichte vielleicht? Ich bin mit den Stücken zwar noch nicht fertig, aber ich könnte dir ihren Inhalt schildern."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -45,7 +45,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Pallegina verdreht ihre goldenen Augen und atmet lange durch die Nase aus.</DefaultText>
+      <DefaultText>Pallegina verdreht ihre goldenen Augen und atmet hörbar durch die Nase aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -145,7 +145,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"In der Tat. Dass Glanfathaner weiter als Sklaven genommen wurden, hatte weiter für Konfliktstoff gesorgt. Als kaiserliche Agenten mit Unterstützung bestimmter Grafen im Dyrwald wieder mit der Plünderung der Ruinen begannen, spitzte sich die Lage zu."
+      <DefaultText>"In der Tat. Dass Glanfathaner weiterhin als Sklaven genommen wurden, verhinderte eine Entspannung des Konflikts. Als kaiserliche Agenten mit Unterstützung bestimmter Grafen im Dyrwald wieder mit der Plünderung der Ruinen begannen, spitzte sich die Lage zu."
 
 "Das Kaiserreich hatte Hadrets diesbezüglichen Verträgen im Grunde genommen nämlich nicht zugestimmt, und die kürzliche Sezession der Vailianischen Republiken zeigte ihnen wahrscheinlich die Dringlichkeit auf, Hadrets Position zu schwächen."</DefaultText>
       <FemaleText />

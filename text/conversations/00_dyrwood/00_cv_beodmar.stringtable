@@ -28,7 +28,7 @@ Er hält inne und blinzelt dich durch ein blaues Auge an. "Entschuldige, ich dac
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Lebe wohl."</DefaultText>
+      <DefaultText>"Leben Sie wohl."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -62,7 +62,7 @@ Er hält sich eine Hand aufs Herz. "Wo auch immer sie sein mag, in diesem Leben 
       <ID>89</ID>
       <DefaultText>Der alte Priester zupft an seinem Bart und runzelt die Stirn. "Der Glanfathan-Stamm, der die Ruinen bewacht, tötet alle Eindringlinge augenblicklich, und die Geschichte hat bereits einmal gezeigt, dass sie dann auch an uns Vergeltung üben."
 
-"In letzter Zeit haben hier einfach zu viele Glücksritter für Probleme gesorgt. Wenn ich es dir sage, dann muss ich den Grund wissen, warum du dorthin willst."</DefaultText>
+"In letzter Zeit haben hier einfach zu viele Glücksritter für Probleme gesorgt. Wenn ich es dir sagen soll, dann muss ich den Grund wissen, warum du dorthin willst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,14 +87,14 @@ Er hält sich eine Hand aufs Herz. "Wo auch immer sie sein mag, in diesem Leben 
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Ein erschöpftes Seufzen röchelt aus seiner Kehle. "Wenn das der Fall ist, dann könnten sich Probleme jetzt schon im Anmarsch befinden. Ich muss dich wohl beim Wort nehmen."
+      <DefaultText>Ein erschöpftes Seufzen rasselt aus seiner Kehle. "Wenn das der Fall ist, dann befindet sich der Ärger wohl ohnehin schon im Anmarsch. Ich muss dich wohl beim Wort nehmen."
 
 Er zieht eine verblichene Karte hervor und deutet auf einen Ort im Wald. "Hier wirst du Clîaban Rilag finden. Egal, auf welche Probleme du dort stößt, bitte erledige sie möglichst leise. Und versuche dich von den Ruinen fernzuhalten ... "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>Ein erschöpftes Seufzen röchelt aus seiner Kehle. "Wenn du das sagst. Was heutzutage in der Stadt geschieht, entzieht sich meiner Kenntnis."
+      <DefaultText>Ein erschöpftes Seufzen rasselt aus seiner Kehle. "Wenn du das sagst. Was heutzutage in der Stadt geschieht, entzieht sich meiner Kenntnis."
 
 Er zieht eine verblichene Karte hervor und deutet auf einen Ort im Wald. "Hier wirst du Clîaban Rilag finden. Egal, auf welche Probleme du dort stößt, bitte erledige sie möglichst leise. Und versuche dich von den Ruinen fernzuhalten ... "</DefaultText>
       <FemaleText />
@@ -130,7 +130,7 @@ Instinktiv kennst du nun den Weg nach Clîaban Rilag.</DefaultText>
       <ID>127</ID>
       <DefaultText>Er humpelt zum hauchdünnen Fenster hinüber. "Ihre Gesichter konnte ich nicht erkennen. Merkwürdige Männer mit Kapuzen fragten nach diesen Ruinen. Clîaban Rilag."
 
-Er äugt dich durch das schmutzige Glas an. "Die meisten Briganten, die hier durchkommen, fragen nach den Ruinen und suchen nach ein paar uralten Schmuckstücken. Diese Leute aber kannten den Namen, und hatten es außerdem sehr eilig."</DefaultText>
+Er starrt durch das schmutzige Glas nach draußen. "Die meisten Briganten, die hier durchkommen, fragen nach den Ruinen und suchen nach ein paar uralten Schmuckstücken. Diese Leute aber kannten den Namen, und hatten es außerdem sehr eilig."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -187,7 +187,7 @@ Kopfschüttelnd hinkt er vom Fenster weg. "Ich weiß nicht, was sie im Schilde f
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Ein erschöpftes Seufzen röchelt aus seiner Kehle. "Wenn du das sagst. Was heutzutage im Dorf geschieht, entzieht sich meiner Kenntnis."
+      <DefaultText>Ein erschöpftes Seufzen rasselt aus seiner Kehle. "Wenn du das sagst. Was heutzutage im Dorf geschieht, entzieht sich meiner Kenntnis."
 
 Er zieht eine verblichene Karte hervor und deutet auf einen Ort im Wald. "Hier wirst du Clîaban Rilag finden. Egal, auf welche Probleme du dort stößt, bitte erledige sie möglichst leise. Und versuche dich von den Ruinen fernzuhalten ... "</DefaultText>
       <FemaleText />
@@ -199,14 +199,14 @@ Er zieht eine verblichene Karte hervor und deutet auf einen Ort im Wald. "Hier w
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Er verschränkt seine Arme und schaut dich mit einem Auge mürrisch an. "Und jetzt kommt der Punkt, an dem ich sage 'Wenn du zu den Ruinen gehst, werde ich dich töten' und du antwortest 'Hiravias, ich bin ein Wächter und kannst es mit keinem von uns aufnehmen'. Und dann gebe ich es auf, mit dir zu streiten und lasse dich losziehen, um dir dein eigenes Eindringlingsgrab zu schaufeln."
+      <DefaultText>Er verschränkt seine Arme und schaut dich mit einem Auge mürrisch an. "Und jetzt kommt der Punkt, an dem ich sage 'Wenn du zu den Ruinen gehst, werde ich dich töten' und du antwortest 'Hiravias, ich bin ein Wächter und du könntest es niemals mit allen von uns auf einmal aufnehmen und außerdem haben wir einen guten Grund für all das'. Und dann geb ich es auf, mit dir zu streiten und lass dich losziehen, um dir dein eigenes Eindringlingsgrab zu schaufeln."
 
-"Und damit bin ich gar nicht mal so metaphorisch: Manchmal lassen wir Dyrwäldler nämlich ihr eigenes Grab ausheben, bevor wir sie töten - wenn das die Kinder hören, wird das für eine fabelhafte Abschreckung herhalten."</DefaultText>
+"Und damit bin ich gar nicht mal so metaphorisch: Manchmal lassen wir Dyrwäldler nämlich ihr eigenes Grab ausheben, bevor wir sie töten - eine fabelhafte Abschreckung für Kinder, die davon hören."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Die Leute im Dorf sagen, dass das Problem mit Hohlgeburten hier besonders schlimm gewesen ist."</DefaultText>
+      <DefaultText>"Die Leute im Dorf sagen, dass das Problem mit Hohlgeburten hier besonders schlimm ist."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@ Er zieht eine verblichene Karte hervor und deutet auf einen Ort im Wald. "Hier w
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Ist es. In allen Städten und Dörfern im Dyrwald hat es Hohlgeburten gegeben, aber in Dyrfurt ist schon seit Jahren kein normales Kind mehr geboren worden. Die meisten unserer Leute sind auf der Suche nach Hoffnung in andere Dörfer gezogen, und jene, die geblieben sind, haben sich verändert. Kinder versprechen einem die Zukunft, musst du wissen. Wenn man sie den Leuten wegnimmt, verändern sie sich."</DefaultText>
+      <DefaultText>"Ist es. In allen Städten und Dörfern im Dyrwald hat es Hohlgeburten gegeben, aber in Dyrfurt ist schon seit Jahren kein normales Kind mehr geboren worden. Die meisten unserer Leute sind auf der Suche nach Hoffnung in andere Dörfer gezogen, und jene, die geblieben sind, haben sich verändert. Kinder versprechen Zukunft, weißt du? Wenn man sie den Leuten wegnimmt, verändern sie sich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -228,7 +228,7 @@ Er zieht eine verblichene Karte hervor und deutet auf einen Ort im Wald. "Hier w
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Erzählen Sie mir über den Bleichen Paladin."</DefaultText>
+      <DefaultText>"Erzählen Sie mir vom Bleichen Paladin."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -248,12 +248,12 @@ Er zieht eine verblichene Karte hervor und deutet auf einen Ort im Wald. "Hier w
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Es bedeutet 'Leben im Tod', beziehungsweise 'Tod im Leben'. Man sieht sie als zwei Skelette, eins männlich und eins weiblich. Forscher haben sie gegenüber voneinander in Türstöcken eingeritzt gefunden, aber ich kenne keine besonderen Legenden, die sie erwähnen würden."</DefaultText>
+      <DefaultText>"Es bedeutet 'Leben im Tod', beziehungsweise 'Tod im Leben'. Man sieht sie als zwei Skelette, eines männlich und eines weiblich. Forscher haben sie des öfteren einander gegenüberstehend in Durchgängen eingeritzt gefunden, aber ich kenne keine besonderen Legenden, die sie erwähnen würden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Sie ist eine der jüngsten Erscheinungsformen Beraths, aber nichtsdestotrotz eine vertraute. In Geschichten wird sie als hagerer Ritter in einer schwarzen Rüstung mit schwarzen Augen, schwarzem Haar und Haut so weiß wie Milch beschrieben. Von Reisenden, die zu lange auf der Straße ihres Fürsten verweilt sind, verlangt sie unmögliche Wegzölle." 
+      <DefaultText>"Sie ist eine der jüngsten Erscheinungsformen Beraths, aber nichtsdestotrotz eine vertraute. In Geschichten wird sie als hagerer Ritter in einer schwarzen Rüstung, mit schwarzen Augen, schwarzem Haar und Haut so weiß wie Milch beschrieben. Von Reisenden, die zu lange auf der Straße ihres Fürsten verweilt sind, verlangt sie unmögliche Wegzölle." 
 
 "Manche fordern sie heraus, nur um sich dabei selbst zu erschlagen."</DefaultText>
       <FemaleText />

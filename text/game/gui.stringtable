@@ -6666,7 +6666,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1324</ID>
-      <DefaultText>{0} {1} {2}.</DefaultText>
+      <DefaultText>{0} landet {1} bei {2}:</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7733,7 +7733,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1539</ID>
-      <DefaultText>Beschwören: {0}</DefaultText>
+      <DefaultText>Beschwört: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7983,7 +7983,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1589</ID>
-      <DefaultText>Gefahrenradius</DefaultText>
+      <DefaultText>Einheiten im Gefahrengebiet</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8008,7 +8008,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1594</ID>
-      <DefaultText>{0} Gefahr</DefaultText>
+      <DefaultText>{0} Einheiten im Gefahrengebiet</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8053,7 +8053,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1603</ID>
-      <DefaultText>{0} Ziele</DefaultText>
+      <DefaultText>{0} Einheiten im Wirkungsbereich</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8068,7 +8068,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1606</ID>
-      <DefaultText>Alle Ziele</DefaultText>
+      <DefaultText>Einheiten im Wirkungsbereich</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8123,12 +8123,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1617</ID>
-      <DefaultText>{0} in Aura</DefaultText>
+      <DefaultText>{0} Einheiten in Aura</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1618</ID>
-      <DefaultText>Aura</DefaultText>
+      <DefaultText>Einheiten in Aura</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8228,12 +8228,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1638</ID>
-      <DefaultText>Strahl</DefaultText>
+      <DefaultText>Einheiten in Strahl</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1639</ID>
-      <DefaultText>{0} Strahl</DefaultText>
+      <DefaultText>{0} Einheiten in Strahl</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9783,12 +9783,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1965</ID>
-      <DefaultText>Lake</DefaultText>
+      <DefaultText>See</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1966</ID>
-      <DefaultText>Armory</DefaultText>
+      <DefaultText>Rüstkammer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9798,47 +9798,47 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1968</ID>
-      <DefaultText>Scrying Chamber</DefaultText>
+      <DefaultText>Wahrsager-Kammer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1969</ID>
-      <DefaultText>Ice Chute</DefaultText>
+      <DefaultText>Eisrinne</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1970</ID>
-      <DefaultText>Sleeping Quarters</DefaultText>
+      <DefaultText>Schlafquartiere</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1971</ID>
-      <DefaultText>Eating Room</DefaultText>
+      <DefaultText>Speisesaal</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1972</ID>
-      <DefaultText>To Western Exterior</DefaultText>
+      <DefaultText>Zum Westlichen Außenbereich</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1973</ID>
-      <DefaultText>To Lower Cave</DefaultText>
+      <DefaultText>Zur Unteren Höhle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1974</ID>
-      <DefaultText>Frozen Lake</DefaultText>
+      <DefaultText>Gefrorener See</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1975</ID>
-      <DefaultText>Logging Camp</DefaultText>
+      <DefaultText>Holzfällerlager</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1976</ID>
-      <DefaultText>Hunter's Camp</DefaultText>
+      <DefaultText>Jägerlager</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

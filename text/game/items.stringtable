@@ -166,12 +166,12 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Textilrüstung</DefaultText>
+      <DefaultText>Stoffrüstung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Rohhautrüstung</DefaultText>
+      <DefaultText>Fellrüstung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,12 +211,12 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Die Lederrüstung ist steifer und robuster als die herkömmliche Rohhautrüstung. Für ihre charakteristische Beschichtung und Härte wird sie in Öl geformt und gekocht. Oftmals schützen sich Abenteurer mit Lederrüstungen, die Wert auf eine Ausgewogenheit von Schutz und Geschwindigkeit legen.</DefaultText>
+      <DefaultText>Die Lederrüstung ist steifer und robuster als die herkömmliche Fellrüstung. Für ihre charakteristische Beschichtung und Härte wird sie in Öl geformt und gekocht. Oftmals schützen sich Abenteurer mit Lederrüstungen, die Wert auf eine Ausgewogenheit von Schutz und Geschwindigkeit legen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Die Textilrüstung bietet minimalen Schutz und besteht aus mehreren Schichten Wolle oder Leinen. Sie bietet zwar nicht besonders viel Schutz, schränkt aber die Bewegungen ihres Trägers am wenigsten ein.</DefaultText>
+      <DefaultText>Die Stoffrüstung bietet minimalen Schutz und besteht aus mehreren Schichten Wolle oder Leinen. Sie bietet zwar nicht besonders viel Schutz, schränkt aber die Bewegungen ihres Trägers am wenigsten ein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,7 +236,7 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Rohhautrüstungen werden üblicherweise von Waldläufern, glanfathanischen Entdeckern und jenen getragen, denen Geschwindigkeit wichtiger als Schutz ist. Rohhautrüstungen werden aus mehreren Schichten weicher Tierhaut angefertigt. Obwohl man für verlässlichen Schutz bei ihrer Herstellung mehrere Lederschichten benötigt, verlangsamt sie ihren Träger kaum.</DefaultText>
+      <DefaultText>Fellrüstungen werden üblicherweise von Waldläufern, glanfathanischen Entdeckern und jenen getragen, denen Geschwindigkeit wichtiger als Schutz ist. Fellrüstungen werden aus mehreren Schichten weicher Tierhaut angefertigt. Obwohl man für verlässlichen Schutz bei ihrer Herstellung mehrere Lederschichten benötigt, verlangsamt sie ihren Träger kaum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2388,12 +2388,12 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
     </Entry>
     <Entry>
       <ID>489</ID>
-      <DefaultText>Außergewöhnliche Rohhautrüstung</DefaultText>
+      <DefaultText>Außergewöhnliche Fellrüstung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>490</ID>
-      <DefaultText>Gute Rohhautrüstung</DefaultText>
+      <DefaultText>Gute Fellrüstung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3290,12 +3290,12 @@ Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei
     </Entry>
     <Entry>
       <ID>670</ID>
-      <DefaultText>Sieben Skuldr-Haut</DefaultText>
+      <DefaultText>Haut der sieben Skuldr</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>671</ID>
-      <DefaultText>Haut des großen westlichen Hirsches</DefaultText>
+      <DefaultText>Fell des großen westlichen Hirsches</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5450,13 +5450,13 @@ Der Adlige musste jedoch bald bemerken, dass sein Plan sogar zu gut funktioniert
     </Entry>
     <Entry>
       <ID>1111</ID>
-      <DefaultText>Eine Volkssage berichtet von einem Hirsch, der jeden Jäger überlisten konnte. Das Tier sah seine Feinde kommen, lange, bevor sie in Sichtweite waren, und lief ihnen mühelos davon, ohne eine Spur zu hinterlassen. Schließlich verkündete ein großer Jäger, dass er es sein würde, der den Hirsch erlegte, denn ihm war noch nie eine Beute entkommen. Früh am nächsten Morgen zog der Mann aus und schwor, siegreich zurückzukehren. Doch weder der Jäger noch der Hirsch wurden je wiedergesehen. Manche glauben, der Jäger habe Erfolg gehabt und entschieden, nicht zurückzukehren, da er sein Können doch dem Einzigen bewiesen habe, der wirklich zählte. Manche glauben, der Jäger sei überlistet worden und der Hirsch sei in ein Land geflohen, in dem er nie wieder von Jägern belästigt werden würde. 
-Der Schöpfer dieser Rüstung bevorzugt eine bestimmte Version der Geschichte, denn bei der Haut des großen westlichen Hirsches soll es sich um die eben jenes sagenumwobenen Hirsches handeln. Wer in die Haut des Hirsches gekleidet ist, dem wird die flinke Wachsamkeit des Tiers verliehen und er ist verborgenen Gefahren immer einen Schritt voraus.</DefaultText>
+      <DefaultText>Eine Volkssage berichtet von einem Hirsch, der jeden Jäger überlisten konnte. Das Tier sah seine Feinde kommen, lange, bevor sie in Sichtweite waren, und lief ihnen mühelos davon, ohne eine Spur zu hinterlassen. Schließlich verkündete ein großer Jäger, dass er den Hirsch erlegen würde, denn noch nie war ihm eine Beute entkommen. Früh am nächsten Morgen zog der Mann aus und schwor, siegreich zurückzukehren. Doch weder der Jäger noch der Hirsch wurden je wiedergesehen. Manche glauben, der Jäger habe Erfolg gehabt und entschieden, nicht zurückzukehren, da er sein Können doch dem Einzigen bewiesen habe, der wirklich zählte. Manche glauben, der Jäger sei überlistet worden und der Hirsch sei in ein Land geflohen, in dem er nie wieder von Jägern belästigt werden würde. 
+Der Schöpfer dieser Rüstung bevorzugt die erste Version der Geschichte, denn ihr Fell soll von eben jenem sagenumwobenen Hirsch stammen. Wer sie trägt, dem wird die flinke Wachsamkeit des Tiers verliehen und er ist verborgenen Gefahren immer einen Schritt voraus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1112</ID>
-      <DefaultText>Einer dyrwäldlerischen Volkssage nach verleiht Rüstung, die aus der Haut der nachtaktiven, scheuen Skuldr gefertigt wird, ihrem Träger eine übernatürliche Fähigkeit, unbemerkt zu bleiben. Ein leidenschaftlicher Jäger war entschlossen, diesen Aberglauben auf die Probe zu stellen und fertigte diese Haut aus nicht weniger als sieben Skuldrs. Welche Auswirkung die schiere Zahl hatte, ist unklar, doch das Ergebnis ist eine dunkle Rüstung, die sich ohne Zweifel nahtlos in die Schatten einfügt.</DefaultText>
+      <DefaultText>Einer dyrwäldlerischen Volkssage nach verleiht Rüstung, die aus der Haut der nachtaktiven, scheuen Skuldr gefertigt wird, ihrem Träger eine übernatürliche Fähigkeit, unbemerkt zu bleiben. Ein leidenschaftlicher Jäger war entschlossen, diesen Aberglauben auf die Probe zu stellen und fertigte diese Rüstung aus nicht weniger als sieben Skuldrhäuten. Welche Auswirkung die schiere Zahl hatte, ist unklar, doch das Ergebnis ist eine dunkle Rüstung, die sich ohne Zweifel nahtlos in die Schatten einfügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5724,7 +5724,8 @@ Der Sieg über die Oger war zwar nur von kurzer Dauer, doch die Geschichte wird 
     </Entry>
     <Entry>
       <ID>1158</ID>
-      <DefaultText>Die Klinge Aattuuk ("Abhäutemesser") war ein Geschenk, das bei den Enutanik-Zwergen von Mutter zu Tochter weitergegeben wurde und dazu diente, den Tieren der Tundra die Haut abzuziehen. Eigens dafür geschmiedet, verletzliche Gelenke zu zerteilen und tief und glatt in das Fleisch zu schneiden, stellt sie auch gegen weniger traditionelle Jagdbeute eine Furcht erregende Waffe dar.</DefaultText>
+      <DefaultText>Die Klinge Aattuuk ("Abhäutemesser") war ein Geschenk, das bei den Enutanik-Zwergen von Mutter zu Tochter weitergegeben wurde und dazu diente, den Tieren der Tundra die 
+	  abzuziehen. Eigens dafür geschmiedet, verletzliche Gelenke zu zerteilen und tief und glatt in das Fleisch zu schneiden, stellt sie auch gegen weniger traditionelle Jagdbeute eine Furcht erregende Waffe dar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5857,7 +5858,7 @@ Obwohl alle Zauberbücher ihre Grenzen haben, da sie aus einer begrenzten Anzahl
     </Entry>
     <Entry>
       <ID>1188</ID>
-      <DefaultText>Aufgrund ihrer Schnelligkeit und Wachsamkeit sind Antilopen selbst für erfahrene Jäger nur schwer zu erjagen. Ihre Haut schätzt man für ihre dekorativen und praktischen Eigenschaften. Aus den Häuten wird das Leder zur Herstellung widerstandsfähiger Rüstungen gewonnen und die Spiralhörner älterer Tiere gehören zu den begehrtesten Jagdtrophäen.</DefaultText>
+      <DefaultText>Aufgrund ihrer Schnelligkeit und Wachsamkeit sind Antilopen selbst für erfahrene Jäger nur schwer zu erjagen. Ihr Fell schätzt man für seine dekorativen und praktischen Eigenschaften. Aus den Häuten wird das Leder zur Herstellung widerstandsfähiger Rüstungen gewonnen und die Spiralhörner älterer Tiere gehören zu den begehrtesten Jagdtrophäen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5867,7 +5868,7 @@ Obwohl alle Zauberbücher ihre Grenzen haben, da sie aus einer begrenzten Anzahl
     </Entry>
     <Entry>
       <ID>1190</ID>
-      <DefaultText>Bären sind beeindruckende Raubtiere und kommen überall in Eir&#160;Glanfath und im Dyrwald vor. Sie gehören zu den Biestern, die bei den Dienern des Jagdgottes höchstes Ansehen genießen, weshalb sie auch oft die größten und gefährlichsten Bären aufspüren, um ihre Fähigkeiten unter Beweis zu stellen. Bärenhäute erzielen hohe Preise, und die Klauen älterer Bären werden oft zu Halsketten oder Totems verarbeitet, die den Träger als bewährten Jäger ausweisen.</DefaultText>
+      <DefaultText>Bären sind beeindruckende Raubtiere und kommen überall in Eir&#160;Glanfath und im Dyrwald vor. Sie gehören zu den Biestern, die bei den Dienern des Jagdgottes höchstes Ansehen genießen, weshalb sie auch oft die größten und gefährlichsten Bären aufspüren, um ihre Fähigkeiten unter Beweis zu stellen. Bärenfelle erzielen hohe Preise, und die Klauen älterer Bären werden oft zu Halsketten oder Totems verarbeitet, die den Träger als bewährten Jäger ausweisen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5877,7 +5878,7 @@ Obwohl alle Zauberbücher ihre Grenzen haben, da sie aus einer begrenzten Anzahl
     </Entry>
     <Entry>
       <ID>1192</ID>
-      <DefaultText>Keiler sind für ihr Temperament berüchtigt. Trotz ihrer Größe sind sie in der Lage, Gegner mit ihren Stoßzähnen aufzuspießen und sie dabei schwer zu verletzen. Die dicken und widerstandsfähigen Keilerhäute erzielen auf dem Markt gute Preise, wobei sie aber von den beeindruckenden Keilerstoßzähnen übertroffen werden.</DefaultText>
+      <DefaultText>Keiler sind für ihr Temperament berüchtigt. Trotz ihrer Größe sind sie in der Lage, Gegner mit ihren Stoßzähnen aufzuspießen und sie dabei schwer zu verletzen. Die dicken und widerstandsfähigen Keilerfelle erzielen auf dem Markt gute Preise, wobei sie aber von den beeindruckenden Keilerstoßzähnen übertroffen werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5887,7 +5888,7 @@ Obwohl alle Zauberbücher ihre Grenzen haben, da sie aus einer begrenzten Anzahl
     </Entry>
     <Entry>
       <ID>1194</ID>
-      <DefaultText>Stelgaer kommen in vielen glanfathanischen Geschichten vor, wo sie als überragende Raubtiere gepriesen und von denen, die sie zähmen können, als vortreffliche Gefährten geschätzt werden. Viele Anhänger Galawains sehen Stelgaer als ultimative Beute an, da die Großkatzen den Verlauf einer Jagd mit Leichtigkeit umkehren und jene umbringen können, die tollkühn oder tapfer genug sind, ihnen nachzustellen. Stelgaer-Häute schmücken die Heimstätten vieler glanfathanischer Anführer, und die großen Fangzähne älterer Löwen sind Symbole für Stärke und Ehre.</DefaultText>
+      <DefaultText>Stelgaer kommen in vielen glanfathanischen Geschichten vor, wo sie als überragende Raubtiere gepriesen und von denen, die sie zähmen können, als vortreffliche Gefährten geschätzt werden. Viele Anhänger Galawains sehen Stelgaer als ultimative Beute an, da die Großkatzen den Verlauf einer Jagd mit Leichtigkeit umkehren und jene umbringen können, die tollkühn oder tapfer genug sind, ihnen nachzustellen. Stelgaerhäute schmücken die Heimstätten vieler glanfathanischer Anführer, und die großen Fangzähne älterer Löwen sind Symbole für Stärke und Ehre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5907,52 +5908,52 @@ Obwohl alle Zauberbücher ihre Grenzen haben, da sie aus einer begrenzten Anzahl
     </Entry>
     <Entry>
       <ID>1198</ID>
-      <DefaultText>Die Wölfe des Dyrwalds sind stark und schlau. Da es ihnen an der üblichen Scheu der Art fehlt, stellen sie für Reisende, die sich abseits ausgetretener Pfade bewegen, eine ernste Gefahr dar. Macht man auf sie Jagd, bekommt man es normalerweise nicht mit einem einzelnen Wolf zu tun, da sie in Rudeln verschiedener Größen leben. Dies stellt alleine jagende Jäger vor eine große Herausforderung. Ihre felligen Häute werden als Wärmespender geschätzt, und die Zähne der stärksten Wolfe stellen beeindruckende Jagdtrophäen dar.</DefaultText>
+      <DefaultText>Die Wölfe des Dyrwalds sind stark und schlau. Da es ihnen an der üblichen Scheu der Art fehlt, stellen sie für Reisende, die sich abseits ausgetretener Pfade bewegen, eine ernste Gefahr dar. Macht man auf sie Jagd, bekommt man es normalerweise nicht mit einem einzelnen Wolf zu tun, da sie in Rudeln verschiedener Größen leben. Dies stellt alleine jagende Jäger vor eine große Herausforderung. Ihre dichten Pelze werden als Wärmespender geschätzt, und die Zähne der stärksten Wolfe stellen beeindruckende Jagdtrophäen dar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1199</ID>
-      <DefaultText>Antilopenhaut</DefaultText>
+      <DefaultText>Antilopenfell</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1200</ID>
-      <DefaultText>Aufgrund ihrer Schnelligkeit und Wachsamkeit sind Antilopen selbst für erfahrene Jäger nur schwer zu erjagen. Ihre Haut schätzt man für ihre dekorativen und praktischen Eigenschaften. Aus den Häuten wird das Leder zur Herstellung widerstandsfähiger Rüstungen gewonnen und die Spiralhörner älterer Tiere gehören zu den begehrtesten Jagdtrophäen.</DefaultText>
+      <DefaultText>Aufgrund ihrer Schnelligkeit und Wachsamkeit sind Antilopen selbst für erfahrene Jäger nur schwer zu erjagen. Ihr Fell schätzt man für seine dekorativen und praktischen Eigenschaften. Aus den Häuten wird das Leder zur Herstellung widerstandsfähiger Rüstungen gewonnen und die Spiralhörner älterer Tiere gehören zu den begehrtesten Jagdtrophäen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1201</ID>
-      <DefaultText>Bärenhaut</DefaultText>
+      <DefaultText>Bärenfell</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1202</ID>
-      <DefaultText>Bären sind beeindruckende Raubtiere und kommen überall in Eir&#160;Glanfath und im Dyrwald vor. Sie gehören zu den Biestern, die bei den Dienern des Jagdgottes höchstes Ansehen genießen, weshalb sie auch oft die größten und gefährlichsten Bären aufspüren, um ihre Fähigkeiten unter Beweis zu stellen. Bärenhäute erzielen hohe Preise, und die Klauen älterer Bären werden oft zu Halsketten oder Totems verarbeitet, die den Träger als bewährten Jäger ausweisen.</DefaultText>
+      <DefaultText>Bären sind beeindruckende Raubtiere und kommen überall in Eir&#160;Glanfath und im Dyrwald vor. Sie gehören zu den Biestern, die bei den Dienern des Jagdgottes höchstes Ansehen genießen, weshalb sie auch oft die größten und gefährlichsten Bären aufspüren, um ihre Fähigkeiten unter Beweis zu stellen. Bärenfelle erzielen hohe Preise, und die Klauen älterer Bären werden oft zu Halsketten oder Totems verarbeitet, die den Träger als bewährten Jäger ausweisen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1203</ID>
-      <DefaultText>Keilerhaut</DefaultText>
+      <DefaultText>Keilerfell</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1204</ID>
-      <DefaultText>Keiler sind für ihr Temperament berüchtigt. Trotz ihrer Größe sind sie in der Lage, Gegner mit ihren Stoßzähnen aufzuspießen und sie dabei schwer zu verletzen. Die dicken und widerstandsfähigen Keilerhäute erzielen auf dem Markt gute Preise, wobei sie aber von den beeindruckenden Keilerstoßzähnen übertroffen werden.</DefaultText>
+      <DefaultText>Keiler sind für ihr Temperament berüchtigt. Trotz ihrer Größe sind sie in der Lage, Gegner mit ihren Stoßzähnen aufzuspießen und sie dabei schwer zu verletzen. Die dicken und widerstandsfähigen Keilerfelle erzielen auf dem Markt gute Preise, wobei sie aber von den beeindruckenden Keilerstoßzähnen übertroffen werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1205</ID>
-      <DefaultText>Löwenhaut</DefaultText>
+      <DefaultText>Löwenpelz</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1206</ID>
-      <DefaultText>Stelgaer kommen in vielen glanfathanischen Geschichten vor, wo sie als überragende Raubtiere gepriesen und von denen, die sie zähmen können, als vortreffliche Gefährten geschätzt werden. Viele Anhänger Galawains sehen Stelgaer als ultimative Beute an, da die Großkatzen den Verlauf einer Jagd mit Leichtigkeit umkehren und jene umbringen können, die tollkühn oder tapfer genug sind, ihnen nachzustellen. Stelgaer-Häute schmücken die Heimstätten vieler glanfathanischer Anführer, und die großen Fangzähne älterer Löwen sind Symbole für Stärke und Ehre.</DefaultText>
+      <DefaultText>Stelgaer kommen in vielen glanfathanischen Geschichten vor, wo sie als überragende Raubtiere gepriesen und von denen, die sie zähmen können, als vortreffliche Gefährten geschätzt werden. Viele Anhänger Galawains sehen Stelgaer als ultimative Beute an, da die Großkatzen den Verlauf einer Jagd mit Leichtigkeit umkehren und jene umbringen können, die tollkühn oder tapfer genug sind, ihnen nachzustellen. Stelgaerhäute schmücken die Heimstätten vieler glanfathanischer Anführer, und die großen Fangzähne älterer Löwen sind Symbole für Stärke und Ehre.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1207</ID>
-      <DefaultText>Hirschhaut</DefaultText>
+      <DefaultText>Hirschfell</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5962,12 +5963,12 @@ Obwohl alle Zauberbücher ihre Grenzen haben, da sie aus einer begrenzten Anzahl
     </Entry>
     <Entry>
       <ID>1209</ID>
-      <DefaultText>Wolfshaut</DefaultText>
+      <DefaultText>Wolfspelz</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1210</ID>
-      <DefaultText>Die Wölfe des Dyrwalds sind stark und schlau. Da es ihnen an der üblichen Scheu der Art fehlt, stellen sie für Reisende, die sich abseits ausgetretener Pfade bewegen, eine ernste Gefahr dar. Macht man auf sie Jagd, bekommt man es normalerweise nicht mit einem einzelnen Wolf zu tun, da sie in Rudeln wechselnder Größen leben. Dies stellt alleine jagende Jäger vor eine große Herausforderung. Ihre felligen Häute werden als Wärmespender geschätzt, und die Zähne der stärksten Wölfe stellen beeindruckende Jagdtrophäen dar.</DefaultText>
+      <DefaultText>Die Wölfe des Dyrwalds sind stark und schlau. Da es ihnen an der üblichen Scheu der Art fehlt, stellen sie für Reisende, die sich abseits ausgetretener Pfade bewegen, eine ernste Gefahr dar. Macht man auf sie Jagd, bekommt man es normalerweise nicht mit einem einzelnen Wolf zu tun, da sie in Rudeln wechselnder Größen leben. Dies stellt alleine jagende Jäger vor eine große Herausforderung. Ihre dichten Pelze werden als Wärmespender geschätzt, und die Zähne der stärksten Wölfe stellen beeindruckende Jagdtrophäen dar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9140,22 +9141,22 @@ MÄNNLICH: Das Urteil ist endgültig. Die Entscheidung ist gefallen. (Er wendet 
     </Entry>
     <Entry>
       <ID>1611</ID>
-      <DefaultText>Geisterwandler-Haut</DefaultText>
+      <DefaultText>Geisterwandlerfell</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1612</ID>
-      <DefaultText>Beim Geisterwandeln wächst einem Druiden eine zähe Haut, die ihn vor Schaden schützt, ohne ihn langsamer zu machen.</DefaultText>
+      <DefaultText>Beim Geisterwandeln wächst einem Druiden ein dichtes Fell, das ihn vor Schaden schützt, ohne ihn langsamer zu machen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1613</ID>
-      <DefaultText>Geisterwandler-Bärenhaut</DefaultText>
+      <DefaultText>Fell eines Geisterwandlerbären</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1614</ID>
-      <DefaultText>Beim Geisterwandeln wächst einem Druiden eine zähe Haut, die ihn vor Schaden schützt, ohne ihn langsamer zu machen. Die Bärengestalt ist besonders widerstandsfähig.</DefaultText>
+      <DefaultText>Beim Geisterwandeln wächst einem Druiden ein dichtes Fell, das ihn vor Schaden schützt, ohne ihn langsamer zu machen. Das Fell der Bärengestalt ist besonders widerstandsfähig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10781,7 +10782,7 @@ Nach ihrem Tod wurde die Waffe an Aedwyns Enkel im Dyrwald weitergegeben. Als Th
     </Entry>
     <Entry>
       <ID>1888</ID>
-      <DefaultText>Stelgaerhaut</DefaultText>
+      <DefaultText>Stelgaerpelz</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

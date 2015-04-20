@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Mönche besitzen mächtige unbewaffnete Angriffe, können jedoch alle ihre Fähigkeiten auch mit Standard-Nahkampfwaffen einsetzen. Während sie einige ihrer Fähigkeiten dann einsetzen können, wenn sie es wollen, ist es aber für viele ihrer Fähigkeiten Voraussetzung, dass sie Schaden erleiden und Wunden generieren. Disee Wunden können dann die Energie für die Spezialfähigkeiten des Mönchs bereitstellen.</DefaultText>
+      <DefaultText>Mönche besitzen mächtige unbewaffnete Angriffe, können jedoch alle ihre Fähigkeiten auch mit normalen Nahkampfwaffen einsetzen. Während sie einige ihrer Fähigkeiten dann einsetzen können, wenn sie es wollen, ist es aber für viele ihrer Fähigkeiten Voraussetzung, dass sie Schaden erleiden und Wunden generieren. Disee Wunden können dann die Energie für die Spezialfähigkeiten des Mönchs bereitstellen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,17 +216,17 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Durch ihre Schleichangriff-Fähigkeit besitzen Schurken den höchsten Waffenschaden aller Klassen. Trifft ein Schurke einen Feind, der an einem Gebrechen leidet, das einen Schleichangriff ermöglicht, verursacht der T&#2060;reffer automatisch zusätzlichen Schaden.</DefaultText>
+      <DefaultText>Durch die Fähigkeit Schleichangriff besitzen Schurken den höchsten Waffenschaden aller Klassen. Trifft ein Schurke einen Feind, der an einem Gebrechen leidet, das einen Schleichangriff ermöglicht, verursacht der T&#2060;reffer automatisch zusätzlichen Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Zauberer können nur Zauber wirken, die sich in ihrem ausgerüsteten Zauberbuch befinden. Es können zwar zusätzliche Zauberbücher in den Schnellauswahl-Plätzen des Zauberers abgelegt werden, der Zauberer kann jedoch mehrere Sekunden lang nicht auf die neuen Zauber zugreifen.</DefaultText>
+      <DefaultText>Zauberer können nur Zauber wirken, die sich in ihrem ausgerüsteten Zauberbuch befinden. Es können zwar zusätzliche Zauberbücher in den Schnellauswahlplätzen des Zauberers abgelegt werden, der Zauberer kann jedoch mehrere Sekunden lang nicht auf die neuen Zauber zugreifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Das Lager der Gruppe kann verwendet werden, um überflüssige Ausrüstung aufzubewahren, wenn sich die Inventare der Charaktere füllen. Einige Arten von Gegenständen wie Quest-Gegenstände und Zutaten werden automatisch im Lager abgelegt.</DefaultText>
+      <DefaultText>Das Lager der Gruppe kann verwendet werden, um überflüssige Ausrüstung aufzubewahren, wenn sich die Inventare der Charaktere füllen. Einige Arten von Gegenständen wie Questgegenstände und Zutaten werden automatisch im Lager abgelegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,12 +256,12 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Führt man eine einzige Einhand-Nahkampfwaffe ohne Schild, wird auf jeden Angriff ein Genauigkeitbonus angewandt.</DefaultText>
+      <DefaultText>Führt man eine einzige einhändige Nahkampfwaffe ohne Schild, wird auf jeden Angriff ein Genauigkeitbonus angewandt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Das Führen von zwei Nahkampfwaffen gleichzeitig bietet zwar die schnellste Angriffsrate, nicht aber den Pro-T&#2060;reffer-Schaden von Zweihandwaffen, die Genauigkeit einer einzelnen Einhand-Waffe oder den Abwehrbonus eines Schilds.</DefaultText>
+      <DefaultText>Das Führen von zwei Nahkampfwaffen gleichzeitig bietet zwar die schnellste Angriffsrate, nicht aber den Pro-T&#2060;reffer-Schaden von Zweihandwaffen, die Genauigkeit einer einzelnen Einhandwaffe oder den Abwehrbonus eines Schilds.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Zweihand-Nahkampfwaffen richten den größten Pro-T&#2060;reffer-Schaden an und können auch hohe Schadensreduktionen durchbrechen.</DefaultText>
+      <DefaultText>Zweihändige Nahkampfwaffen richten den größten Pro-T&#2060;reffer-Schaden an und können auch hohe Schadensreduktionen durchbrechen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

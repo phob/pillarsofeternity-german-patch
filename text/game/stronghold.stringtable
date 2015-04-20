@@ -156,8 +156,8 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Eine Gruppe ist eingetroffen und möchte die Freiheit von {0} erkaufen. Im Austausch für den Gefangenen bieten sie {1} oder {2} an.</DefaultText>
-      <FemaleText>Eine Gruppe ist eingetroffen und möchte die Freiheit von {0} erkaufen. Im Austausch für die Gefangene bieten sie {1} oder {2} an.</FemaleText>
+      <DefaultText>Eine Gruppe ist eingetroffen und möchte die Freiheit von {0} erkaufen. Im Austausch bieten sie {1} oder {2} an.</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>{0}, ein hiesiger Dorftrottel, ist in die Festung spaziert und beabsichtigt, eine Weile zu bleiben.</DefaultText>
+      <DefaultText>{0}, als hiesiger Dorftrottel bekannt, ist in die Festung spaziert und beabsichtigt, eine Weile zu bleiben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

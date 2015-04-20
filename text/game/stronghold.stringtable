@@ -156,8 +156,8 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Eine Gruppe ist eingetroffen und möchte die Freiheit von {0} erkaufen. Im Austausch für den Gefangenen bieten sie {1} oder {2} an.</DefaultText>
-      <FemaleText>Eine Gruppe ist eingetroffen und möchte die Freiheit von {0} erkaufen. Im Austausch für die Gefangene bieten sie {1} oder {2} an.</FemaleText>
+      <DefaultText>Eine Gruppe ist eingetroffen und möchte die Freiheit von {0} erkaufen. Im Austausch bieten sie {1} oder {2} an.</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -236,17 +236,17 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>{0}, ein grausamer Herrscher aus dem Norden, ist in der Festung eingetroffen.</DefaultText>
+      <DefaultText>{0} regiert im Norden mit grausamer Hand und traf soeben in der Festung ein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>{0}, ein hiesiger Dorftrottel, ist in die Festung spaziert und beabsichtigt, eine Weile zu bleiben.</DefaultText>
+      <DefaultText>{0}, als hiesiger Dorftrottel bekannt, ist in die Festung spaziert und beabsichtigt, eine Weile zu bleiben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Ein gesuchter Verbrecher namens {0} ist in der Festung eingetroffen.</DefaultText>
+      <DefaultText>{0}, gesucht wegen mehrerer Verbrechen, ist in der Festung eingetroffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,12 +261,12 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>{0}, ein aedyranischer Würdenträger, ist in der Festung eingetroffen.</DefaultText>
+      <DefaultText>{0}, im Dienste des aedyranischen Hofes, ist in der Festung eingetroffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>{0}, ein Händler für exotische Waren, ist in der Festung eingetroffen und bietet seltene Gegenstände feil.</DefaultText>
+      <DefaultText>{0}, bekannt für den Handel mit exotischen Waren, ist in der Festung eingetroffen und bietet seltene Gegenstände feil.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

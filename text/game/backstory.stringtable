@@ -631,12 +631,12 @@
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Als Bestrafung für seine Verbrechen und seine persönlichen Beleidigungen deiner Person risst du Thaos' Seele in Stücke und vernichtetest ihn dadurch für immer.</DefaultText>
+      <DefaultText>Als Bestrafung für seine Verbrechen und seine persönlichen Angriffe gegen dich hast du Thaos' Seele in Stücke gerissen und ihn dadurch für immer vernichtet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Durch Thaos' Tod warst du in der Lage, endlich eine Bestätigung des Ursprungs und der Natur der Götter zu erlangen, und diese Antworte scheint deiner Seele etwas Erleichterung zu bringen. Die Halluzinationen und das Geflüster gingen zurück. Nun blieb nur noch übrig, über die Zukunft der in Sonne im Schatten gefangenen Seelen zu entscheiden.</DefaultText>
+      <DefaultText>Durch Thaos' Tod hast du letztendlich Klarheit über den Ursprung und die Natur der Götter gewonnen, und diese Antwort schien deine Seele zu erleichtern. Die Halluzinationen und Stimmen verschwanden. Es bleibt nur noch zu entscheiden, was mit den gefangenen Seelen in Sonne im Schatten geschehen soll.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -796,8 +796,8 @@
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>Als in [Player Culture] lebender Theologe hast du deine Zeit dem Studium religiöser Doktrinen verschrieben.</DefaultText>
-      <FemaleText>Als in [Player Culture] lebender Theologin hast du deine Zeit dem Studium religiöser Doktrinen verschrieben.</FemaleText>
+      <DefaultText>Als in [Player Culture] lebender Theologe hast du deine Zeit dem Studium religiöser Lehren verschrieben.</DefaultText>
+      <FemaleText>Als in [Player Culture] lebende Theologin hast du deine Zeit dem Studium religiöser Lehren verschrieben.</FemaleText>
     </Entry>
     <Entry>
       <ID>160</ID>

@@ -61,7 +61,7 @@ Als du endlich wieder zu Sinnen kommst, stehst du in einem dir unbekannten Wald.
       <ID>13</ID>
       <DefaultText>"Wir sind die Ovaten - Druiden, Philosophen und Schüler der Natur. Wir versammeln uns hier zum Feiern und um unser Wissen miteinander zu teilen."
 
-Sie gestikuliert auf eine andere Elfin, die am Eingang des Hains steht. "Viele Reisende kommen für Breiumschläge und Arzneien zu uns. Niemand versteht die Heilmittel und Gifte der Natur wie Bledha."</DefaultText>
+Sie gestikuliert in Richtung einer anderen Elfe, die am Eingang des Hains steht. "Viele Reisende kommen für Breiumschläge und Arzneien zu uns. Niemand versteht die Heilmittel und Gifte der Natur wie Bledha."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,8 +90,8 @@ Sie blickt auf die Gestandenen, die sich im Hain versammelt haben. "Die meisten 
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Eine Elfin mit gelassenen grünen Augen nickt zum Gruß. "Willkommen im Goldenen Hain, Reisender."</DefaultText>
-      <FemaleText>Eine Elfin mit gelassenen grünen Augen nickt zum Gruß. "Willkommen im Goldenen Hain, Reisende."</FemaleText>
+      <DefaultText>Eine Elfe mit gelassenen grünen Augen nickt zum Gruß. "Willkommen im Goldenen Hain, Reisender."</DefaultText>
+      <FemaleText>Eine Elfe mit gelassenen grünen Augen nickt zum Gruß. "Willkommen im Goldenen Hain, Reisende."</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>

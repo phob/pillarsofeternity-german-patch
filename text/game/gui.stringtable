@@ -9758,12 +9758,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1960</ID>
-      <DefaultText>Grafikqualität</DefaultText>
+      <DefaultText>Kantenglättung (Antialiasing)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1961</ID>
-      <DefaultText>Diese Option ändert die Grafikqualität des Spiels. Verwende eine niedrigere Einstellung, falls das Spiel nicht flüssig läuft.</DefaultText>
+      <DefaultText>Diese Option ändert die Stärke der Kantenglättung des Spiels. Verwende eine niedrigere Einstellung, falls das Spiel nicht flüssig läuft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

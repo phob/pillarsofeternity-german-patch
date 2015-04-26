@@ -524,7 +524,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Mit seinem Wille widersetzt sich ein Charakter mentalen Angriffen (z.B. einem Zauber, der das Ziel mental lähmt). Er wird durch die Klasse des Charakters, seine Stufe, seinen Intellekt und seine Entschlossenheit definiert, kann aber auch durch andere Effekte beeinflusst werden.</DefaultText>
+      <DefaultText>Mit seinem Wille&#2060;n widersetzt sich ein Charakter mentalen Angriffen (z.B. einem Zauber, der das Ziel mental lähmt). Er wird durch die Klasse des Charakters, seine Stufe, seinen Intellekt und seine Entschlossenheit definiert, kann aber auch durch andere Effekte beeinflusst werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -704,7 +704,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Gehirnerschütterungen belegen den Intellekt sowie den Wille des Charakters mit einem Malus.</DefaultText>
+      <DefaultText>Gehirnerschütterungen belegen den Intellekt sowie den Wille&#2060;n des Charakters mit einem Malus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -794,7 +794,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>In Pillars of Eternity gibt es vier Verteidigungen: Abwehr, Tapferkeit, Reflexe und Wille. Jede Verteidigung dient als Schutz gegen eine andere Kategorie von Angriffen durch den Angriffswurf. Abwehr dient als Schutz gegen die meisten direkten Waffenangriffe oder Angriffe, die Waffen ähneln. Tapferkeit bietet Schutz gegen körperliche Versuche, einen Charakter zu überwältigen oder seinen Körper innerlich anzugreifen (z.B. durch ein Gift). Körperliche Wirkungsbereichsangriffe wie Feuerbälle oder Blitze werden durch die Reflexe abgeschwächt. Fast alle mentalen Angriffe müssen den Wille des Ziels überwinden.
+      <DefaultText>In Pillars of Eternity gibt es vier Verteidigungen: Abwehr, Tapferkeit, Reflexe und Wille. Jede Verteidigung dient als Schutz gegen eine andere Kategorie von Angriffen durch den Angriffswurf. Abwehr dient als Schutz gegen die meisten direkten Waffenangriffe oder Angriffe, die Waffen ähneln. Tapferkeit bietet Schutz gegen körperliche Versuche, einen Charakter zu überwältigen oder seinen Körper innerlich anzugreifen (z.B. durch ein Gift). Körperliche Wirkungsbereichsangriffe wie Feuerbälle oder Blitze werden durch die Reflexe abgeschwächt. Fast alle mentalen Angriffe müssen die Willensverteidigung des Ziels überwinden.
 
 Tapferkeit, Reflexe und Wille basieren alle auf Attributspaaren. Macht und Verfassung definieren die Tapferkeit. Geschicklichkeit und Wahrnehmung definieren die Reflexe, und Intellekt und Entschlossenheit definieren den Wille. Die Basisabwehr wird durch die Wahrnehmung und die Entschlossenheit des Charakters definiert. Alle Charaktere erhalten mit jedem Stufenaufstieg pauschale Boni auf ihre Verteidigungen. Darüber hinaus können Zauber, Fähigkeiten, Wirkungen und Gegenstände die Verteidigungen eines Charakters modifizieren.</DefaultText>
       <FemaleText />

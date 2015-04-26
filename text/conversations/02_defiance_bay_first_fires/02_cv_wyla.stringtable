@@ -34,8 +34,10 @@ Nach einer Pause schaut sie wieder zu dir. "Entschuldigung, brauchst du noch etw
       <ID>17</ID>
       <DefaultText>Sie macht einen Schritt zurück und betrachtet dich. "Du bist also derjenige, über den meine Novizen gesprochen haben."
 
-"Wenn du deine Hilfe anbietest, werde ich sie nicht ausschlagen. Sicherlich nicht von jemandem von solchen&#160; ... Großtaten."</DefaultText>
-      <FemaleText />
+"Wenn du deine Hilfe anbietest, werde ich sie nicht ausschlagen. Sicherlich nicht von jemandem, der solche&#160; ... Heldentaten vollbrachte."</DefaultText>
+      <FemaleText>Sie macht einen Schritt zurück und betrachtet dich. "Du bist also diejenige, über die meine Novizen gesprochen haben."
+
+"Wenn du deine Hilfe anbietest, werde ich sie nicht ausschlagen. Sicherlich nicht von jemandem, der solche&#160; ... Heldentaten vollbrachte."</FemaleText>
     </Entry>
     <Entry>
       <ID>18</ID>
@@ -54,7 +56,9 @@ Nach einer Pause schaut sie wieder zu dir. "Entschuldigung, brauchst du noch etw
       <DefaultText>Sie macht einen Schritt zurück und betrachtet dich. "Du bist also derjenige, über den meine Novizen gesprochen haben."
 
 "Wenn du deine Hilfe anbietest, werde ich sie nicht ausschlagen. Wie ich höre, hast du ein Händchen dafür, Aufträge zu erledigen."</DefaultText>
-      <FemaleText />
+      <FemaleText>Sie macht einen Schritt zurück und betrachtet dich. "Du bist also diejenige, über die meine Novizen gesprochen haben."
+
+"Wenn du deine Hilfe anbietest, werde ich sie nicht ausschlagen. Wie ich höre, hast du ein Händchen dafür, Aufträge zu erledigen."</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>

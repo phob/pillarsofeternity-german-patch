@@ -20,8 +20,8 @@ Obwohl sie ohne Alter ist, erscheint sie dir verändert - eine leicht gebeugte H
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Hallo, Bruder. Es ist wahrhaftig eine Ewigkeit hier."</DefaultText>
-      <FemaleText />
+      <DefaultText>"Hallo, Bruder. Es ist wahrhaftig eine Ewigkeit her."</DefaultText>
+      <FemaleText>"Hallo, Schwester. Es ist wahrhaftig eine Ewigkeit her."</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -584,7 +584,7 @@ Schweißperlen sammeln sich auf Durance' Stirn und strömen sein Gesicht hinab, 
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Du kanntest mich, als auch Thaos mich kannte. Ich muss etwas über diese Zeit wissen."</DefaultText>
+      <DefaultText>"Du kanntest mich, wie auch Thaos mich kannte. Ich muss etwas über diese Zeit wissen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -813,7 +813,7 @@ Schweißperlen sammeln sich auf Durance' Stirn und strömen sein Gesicht hinab, 
     </Entry>
     <Entry>
       <ID>360</ID>
-      <DefaultText>Iovaras kneift den Mund zusammen und runzelt mitleidig die Stirn. Ihre Augen huschen zwischen euren hin und her, als würde nach einem Zeichen suchen, ob sie sprechen soll oder nicht.</DefaultText>
+      <DefaultText>Iovaras kneift den Mund zusammen und runzelt mitleidig die Stirn. Ihre Augen huschen zwischen euren hin und her, als würden sie nach einem Zeichen suchen, ob sie sprechen soll oder nicht.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

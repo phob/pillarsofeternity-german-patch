@@ -12,7 +12,7 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>Der Phantomsoldat hält dir sein Kurzschwert an die Brust. "Du bist in der falschen Stadt ... Inquisitor."</DefaultText>
-      <FemaleText />
+      <FemaleText>Der Phantomsoldat hält dir sein Kurzschwert an die Brust. "Du bist in der falschen Stadt ... Inquisitorin."</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -43,7 +43,7 @@ Sie blickt ihn starr an, bis er den Blick abwendet. Er tritt beiseite, beobachte
     <Entry>
       <ID>7</ID>
       <DefaultText>"Was tust du hier, Inquisitor?"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Was tust du hier, Inquisitorin?"</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
@@ -98,7 +98,7 @@ Sie blickt ihn starr an, bis er den Blick abwendet. Er tritt beiseite, beobachte
     <Entry>
       <ID>18</ID>
       <DefaultText>"Ein hilfreicher Inquisitor. Eine bezaubernde Vorstellung. Wenn ihr doch nur alle so hilfsbereit wäret."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Eine hilfreiche Inquisitorin. Eine bezaubernde Vorstellung. Wenn ihr doch nur alle so hilfsbereit wäret."</FemaleText>
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -120,7 +120,7 @@ Sie blickt ihn starr an, bis er den Blick abwendet. Er tritt beiseite, beobachte
     <Entry>
       <ID>22</ID>
       <DefaultText>"Es ist ... etwas Besonderes, dass ein alter Schüler zu mir zurückkehrt. Ich muss wohl etwas richtig gemacht haben, auch wenn ich soviel Falsches gelehrt habe."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Es ist ... etwas Besonderes, dass eine alte Schülerin zu mir zurückkehrt. Ich muss wohl etwas richtig gemacht haben, auch wenn ich soviel Falsches gelehrt habe."</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -139,7 +139,7 @@ Sie blickt ihn starr an, bis er den Blick abwendet. Er tritt beiseite, beobachte
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Was auch dein Beweggrund sein mag, ich habe dich in all den Jahren vermisst. Dich nun hier zu haben, wo ich von Fremden umgeben ist, ist ein wunderbares Geschenk."</DefaultText>
+      <DefaultText>"Was auch dein Beweggrund sein mag, ich habe dich in all den Jahren vermisst. Dich nun hier zu haben, wo ich von Fremden umgeben bin, ist ein wunderbares Geschenk."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -179,7 +179,7 @@ Sie blickt gedankenverloren nach unten.
     <Entry>
       <ID>33</ID>
       <DefaultText>"Woher kommst du, Inquisitor?"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Woher kommst du, Inquisitorin?"</FemaleText>
     </Entry>
     <Entry>
       <ID>34</ID>
@@ -215,14 +215,18 @@ Sie blickt gedankenverloren nach unten.
       <DefaultText>Der Soldat kann nicht länger schweigen. Er geht zu Iovara, legt ihr die Hand auf die Schulter und nimmt sie beiseite. Seine Stimme ist leise, aber deutlich hörbar.
 
 "Herrin Iovara, ich bitte Euch. Das ist ein INQUISITOR! Das ist ein verzweifelter Versuch, Euch zu töten. Er kann nur Erfolg haben, wenn Ihr das zulasst."</DefaultText>
-      <FemaleText />
+      <FemaleText>Der Soldat kann nicht länger schweigen. Er geht zu Iovara, legt ihr die Hand auf die Schulter und nimmt sie beiseite. Seine Stimme ist leise, aber deutlich hörbar.
+
+"Herrin Iovara, ich bitte Euch. Das ist eine INQUISITORIN! Das ist ein verzweifelter Versuch, Euch zu töten. Sie kann nur Erfolg haben, wenn Ihr das zulasst."</FemaleText>
     </Entry>
     <Entry>
       <ID>40</ID>
       <DefaultText>Sie wischt seine Hand mit der ruhigen Anmut der Entschlossenheit beiseite. "Er ist ein Missionar, genau wie ich es war. Man hat ihn die falschen Dinge gelehrt, genau wie mich."
 
 "Wenn ich kein Vertrauen darauf habe, dass ein einzelner Mann Vernunft annimmt, wenn er erst die Wahrheit kennt, welche Hoffnung haben wir dann?"</DefaultText>
-      <FemaleText />
+      <FemaleText>Sie wischt seine Hand mit der ruhigen Anmut der Entschlossenheit beiseite. "Sie ist eine Missionarin, genau wie ich es war. Man hat sie die falschen Dinge gelehrt, genau wie mich."
+
+"Wenn ich kein Vertrauen darauf habe, dass eine einzelne Frau Vernunft annimmt, wenn sie erst die Wahrheit kennt, welche Hoffnung haben wir dann?"</FemaleText>
     </Entry>
     <Entry>
       <ID>41</ID>
@@ -251,14 +255,16 @@ Sie blickt gedankenverloren nach unten.
     <Entry>
       <ID>45</ID>
       <DefaultText>"Herrin, er GESTEHT, ein Spion zu sein!"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Herrin, sie GESTEHT, eine Spionin zu sein!"</FemaleText>
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>"Das macht ihn doch gewiss zu einer geringeren Bedrohung, meinst du nicht?"
 
 "Ich habe nichts zu verbergen. Ich sehe lediglich eine Gelegenheit, jemanden zu überzeugen, der uns helfen könnte."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Das macht sie doch gewiss zu einer geringeren Bedrohung, meinst du nicht?"
+
+"Ich habe nichts zu verbergen. Ich sehe lediglich eine Gelegenheit, jemanden zu überzeugen, der uns helfen könnte."</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

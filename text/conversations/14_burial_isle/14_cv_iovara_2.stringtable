@@ -46,7 +46,7 @@ Zum ersten Mal sind in ihrem ruhigen Antlitz Anzeichen von Zweifeln zu sehen.</D
     <Entry>
       <ID>8</ID>
       <DefaultText>"Optimismus war schon immer Teil meines Wesens. Bei allem, was ich glaubte, musste ich auch glauben, dass mein Bruder eines Tages wieder mein Bruder sein könnte."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Optimismus war schon immer Teil meines Wesens. Bei allem, was ich glaubte, musste ich auch glauben, dass meine Schwester eines Tages wieder meine Schwester sein könnte."</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
@@ -353,7 +353,7 @@ Zum ersten Mal sind in ihrem ruhigen Antlitz Anzeichen von Zweifeln zu sehen.</D
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Ich ... bin dankbar, dass du gekommen und mich gefunden hast, egal unter welchen Umständen. Du bist nicht mehr ... wer du einmal warst - daran muss ich mich erinnern. Aber dich ein letztes Mal zu sehen und mich zu erinnern, was wir geteilt haben, wenn auch nur für kurze Zeit, war besser als alles, was ich an diesem Ort zu hoffen gewagt hatte."</DefaultText>
+      <DefaultText>"Ich ... bin dankbar, dass du gekommen bist und mich gefunden hast, egal unter welchen Umständen. Du bist nicht mehr ... wer du einmal warst - daran muss ich mich erinnern. Aber dich ein letztes Mal zu sehen und mich zu erinnern, was wir geteilt haben, wenn auch nur für kurze Zeit, war besser als alles, was ich an diesem Ort zu hoffen gewagt hatte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -378,8 +378,8 @@ Zum ersten Mal sind in ihrem ruhigen Antlitz Anzeichen von Zweifeln zu sehen.</D
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Es ist ein grausames Schicksal, so lange auf die Wiedervereinigung mit meinem Bruder zu warten, nur um bald darauf wieder Abschied nehmen zu müssen. Doch was ist das Leben als eine Abfolge kurzer Begegnungen mit denen, die wir lieben?"</DefaultText>
-      <FemaleText />
+      <DefaultText>"Es ist ein grausames Schicksal, so lange auf die Wiedervereinigung mit meinem einzigen Bruder zu warten, nur um bald darauf wieder Abschied nehmen zu müssen. Doch was ist das Leben als eine Abfolge kurzer Begegnungen mit denen, die wir lieben?"</DefaultText>
+      <FemaleText>"Es ist ein grausames Schicksal, so lange auf die Wiedervereinigung mit meiner einzigen Schwester zu warten, nur um bald darauf wieder Abschied nehmen zu müssen. Doch was ist das Leben als eine Abfolge kurzer Begegnungen mit denen, die wir lieben?"</FemaleText>
     </Entry>
     <Entry>
       <ID>72</ID>

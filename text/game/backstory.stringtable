@@ -866,8 +866,8 @@
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>Du stammst aus [Player Culture], wo du dich als Sklave die Felder bestellt hast.</DefaultText>
-      <FemaleText>Du stammst aus [Player Culture], wo du dich als Sklavin die Felder bestellt hast.</FemaleText>
+      <DefaultText>Du stammst aus [Player Culture], wo du als Sklave die Felder bestellt hast.</DefaultText>
+      <FemaleText>Du stammst aus [Player Culture], wo du als Sklavin die Felder bestellt hast.</FemaleText>
     </Entry>
     <Entry>
       <ID>174</ID>
@@ -886,7 +886,7 @@
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>Du stammst aus [Player Culture], wo du dich selbst in der Kampfkunst unterwiesen hast und die Kriegsführung so studiert hast, wie andere Sprachen oder Mathematik.</DefaultText>
+      <DefaultText>Du stammst aus [Player Culture], wo du dir durch Selbststudium die Kampfkunst und Kriegsführung beibrachtest, so wie andere Leute Sprachen oder Mathematik.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -931,7 +931,7 @@
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>Das Geheimnis deiner Familie blieb aber nicht für immer verborgen, und als der Quell der Macht für den Titel deiner Familie aufgedeckt wurde, fielst du in Ungnade und würdest von den anderen Adligen nie wieder als Gleichberechtigter angesehen werden.</DefaultText>
+      <DefaultText>Das Geheimnis deiner Familie blieb aber nicht für immer verborgen, und als der Quell der Macht für den Titel deiner Familie aufgedeckt wurde, fielst du in Ungnade und wurdest von den anderen Adligen nie wieder als Gleichberechtigter angesehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1006,7 +1006,7 @@
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>Aber wie sehr du auch suchtest, nichts führte zum Vermögen, dass du dir vorschwebte, und letztendlich gab es kaum noch Gründe zum Verweilen.</DefaultText>
+      <DefaultText>Aber wie sehr du auch suchtest, nichts führte zum Vermögen, dass du begehrtest, und letztendlich gab es kaum noch Gründe zum Verweilen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -72,7 +72,7 @@ Die Skulpturen drehen die Köpfe zu dir. Ihre Finger krümmen sich langsam, sie 
       <ID>25</ID>
       <DefaultText>Die Straße führt durch den Mund in eine weitere sich stetig wandelnde Landschaft unter einem Sternenhimmel. Als du durch den Mund trittst, siehst du in der Ferne eine identische Tür. Ein Zwerg steht reglos davor.
 
-Du drehst dich um und blickst hinter dich, wo du das Schädeltor vor dir siehst, das du eben passiert hast. Eine Elfin wartet auf der Straße. Genau wie der Zwerg steht sie reglos da.</DefaultText>
+Du drehst dich um und blickst hinter dich, wo du das Schädeltor vor dir siehst, das du eben passiert hast. Eine Elfe wartet auf der Straße. Genau wie der Zwerg steht sie reglos da.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,7 +87,7 @@ Du drehst dich um und blickst hinter dich, wo du das Schädeltor vor dir siehst,
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>[Die Elfin ansprechen.]</DefaultText>
+      <DefaultText>[Die Elfe ansprechen.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@ Erst jetzt, da er tot ist, kannst du weitergehen.</DefaultText>
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Das Blut sammelt sich um deine Füße herum. Du blickst auf und siehst die Elfin ein Stück weiter die Straße hinab auf dich warten.</DefaultText>
+      <DefaultText>Das Blut sammelt sich um deine Füße herum. Du blickst auf und siehst die Elfe ein Stück weiter die Straße hinab auf dich warten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -254,7 +254,7 @@ Du reißt dich von ihrem brüchigen Griff los.</DefaultText>
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Ihre Füße stehen wie angewurzelt da, aber sie windet sich und zuckt, als würde sie versuchen, vor ihren eigenen sterbenden Gliedern zu fliehen. Die Versteinerung erreicht ihre Schulter und breitet sich schmerzvoll nach unten über ihren Körper aus. Sie kriecht ihren Nacken hinauf und die Elfin wirft ihr Gesicht nach oben gen Himmel wie ein Ertrinkender. 
+      <DefaultText>Ihre Füße stehen wie angewurzelt da, aber sie windet sich und zuckt, als würde sie versuchen, vor ihren eigenen sterbenden Gliedern zu fliehen. Die Versteinerung erreicht ihre Schulter und breitet sich schmerzvoll nach unten über ihren Körper aus. Sie kriecht ihren Nacken hinauf und die Elfe wirft ihr Gesicht nach oben gen Himmel wie ein Ertrinkender. 
 
 Das Grau bedeckt ihr Gesicht und friert ihren letzten entsetzten Atemzug in Stein ein.
 
@@ -325,7 +325,7 @@ Die leere Hülle seines Leichnams fällt auf die Straße.</DefaultText>
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Das Blut sammelt sich um deine Füße herum. Du blickst auf und siehst die Elfin ein Stück weiter die Straße hinab auf dich warten.</DefaultText>
+      <DefaultText>Das Blut sammelt sich um deine Füße herum. Du blickst auf und siehst die Elfe ein Stück weiter die Straße hinab auf dich warten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -335,7 +335,7 @@ Die leere Hülle seines Leichnams fällt auf die Straße.</DefaultText>
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Die siehst die zwei Gestalten, den Zwerg und die Elfin, noch immer auf beiden Seiten der Straße auf dich warten. Keiner von beiden hat sich dem jeweiligen Schädeltor hinter sich genähert.</DefaultText>
+      <DefaultText>Die siehst die zwei Gestalten, den Zwerg und die Elfe, noch immer auf beiden Seiten der Straße auf dich warten. Keiner von beiden hat sich dem jeweiligen Schädeltor hinter sich genähert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -347,7 +347,7 @@ Du erkennst, dass du die Vision verlassen hast und nach Teir Evron zurückgekehr
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Du drehst dich wieder zu der Straße vor dir um - und siehst dort die Elfin warten. Als du in ihre Richtung gehst, wird die Erde unter deinen Füßen hart und verwandelt sich in Steinplatten. Das fahle Sternenlicht schimmert und wird zu Kerzenflammen. 
+      <DefaultText>Du drehst dich wieder zu der Straße vor dir um - und siehst dort die Elfe warten. Als du in ihre Richtung gehst, wird die Erde unter deinen Füßen hart und verwandelt sich in Steinplatten. Das fahle Sternenlicht schimmert und wird zu Kerzenflammen. 
 
 Du erkennst, dass du die Vision verlassen hast und nach Teir Evron zurückgekehrt bist.</DefaultText>
       <FemaleText />

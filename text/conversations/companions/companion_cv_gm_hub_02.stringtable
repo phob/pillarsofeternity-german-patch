@@ -132,7 +132,7 @@ Seltsamerweise fühlt es sich nicht so an, als ob sie mit dir sprechen würde ..
     <Entry>
       <ID>29</ID>
       <DefaultText>"Ich konnte die Gedanken anderer sehen, sie formen, und beim Führen von Seelen helfen ... 'Wächter' schien mir genug zu sein, und der Name schien angesichts der eigenen Taten nur wenig auszumachen."</DefaultText>
-      <DefaultText>"Ich konnte die Gedanken anderer sehen, sie formen, und beim Führen von Seelen helfen ... 'Wächterin' schien mir genug zu sein, und der Name schien angesichts der eigenen Taten nur wenig auszumachen."</DefaultText>
+      <FemaleText>"Ich konnte die Gedanken anderer sehen, sie formen, und beim Führen von Seelen helfen ... 'Wächterin' schien mir genug zu sein, und der Name schien angesichts der eigenen Taten nur wenig auszumachen."</FemaleText>
     </Entry>
     <Entry>
       <ID>30</ID>
@@ -259,14 +259,14 @@ Ihre Gedanken fühlen sich auf merkwürdige Weise entschuldigend ... und gleichz
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>Deine Vision macht Gefühlswellen Platz ... während du die gezackten Spuren der Gewalt spürst, an denen du schon früher vorbeigekommen bist, fällt dir der Weg dieses Mal leichter, und du machst dich daran, ihre Erinnerungen nach dem Zufallsprinzip aufzurufen, wobei du dich auf die konzentrierst, die du suchst.
+      <DefaultText>Deine Vision macht Gefühlswellen Platz ... während du die gezackten Spuren der Gewalt spürst, an denen du schon früher vorbeigekommen bist. Dieses Mal fällt dir der Weg leichter, und du machst dich daran, ihre Erinnerungen wahllos zu durchstreifen, wobei du dich aber auf die konzentrierst, die du suchst.
 
-Es kommst du einem gemächlichen Ansturm, einem Gefühl der Wärme, und deine Gedanken dringen wie zuvor in ihren Verstand ein und umkreisen die Erinnerung, die ihr bei eurem ersten Treffen geteilt habt ...</DefaultText>
+Es kommt zu einem gemächlichen Ansturm, einem Gefühl der Wärme, und deine Gedanken dringen wie zuvor in ihren Verstand ein und umkreisen die Erinnerung, die ihr bei eurem ersten Treffen geteilt habt ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Ihr Verstand macht dir Platz, und du dringst wie zuvor fast unbemerkt in ihre Gedanken ein. Dann umkreisen deine Gedanken die Erinnerung, die ihr bei eurem ersten Treffen geteilt habt ... </DefaultText>
+      <DefaultText>Ihr Verstand macht dir Platz, und du dringst wie zuvor fast unbemerkt in ihre Gedanken ein. Dann umkreisen deine Gedanken die Erinnerung, die ihr bei eurem ersten Treffen geteilt habt ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

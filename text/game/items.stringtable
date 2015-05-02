@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Kettenrüstungen sind aufgrund ihrer Schutzwirkung vor allem gegen Hiebe ziemlich beliebt. Sie bestehen aus Tausenden kleiner Stahlringe, die zusammen ein flexibles Geflecht bilden. Kettenrüstungen, die normalerweise über Gambesonen getragen werden, schützen ihren Träger im Kampf gut, schränken aber seine Bewegungen ein.</DefaultText>
+      <DefaultText>Kettenrüstungen sind aufgrund ihrer Schutzwirkung vor allem gegen Hiebe ziemlich beliebt. Sie bestehen aus Tausenden kleiner Stahlringe, die zusammen ein flexibles Geflecht bilden. Kettenrüstungen, die normalerweise über Gambesone getragen werden, schützen ihren Träger im Kampf gut, schränken aber seine Bewegungen ein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -492,7 +492,7 @@ Nachdem das Schwarzstand-Fort von seinem neuen Grafen verstärkt worden war, ver
       <ID>103</ID>
       <DefaultText>Die Rose ist eine junge Waffe mit einer relativ kurzen Geschichte. Sie wurde aus geschwärztem ymyranischen Stahl geschmiedet und mit einer "Blüte" aus stark dornigen Blütenblättern versehen. Die Ähnlichkeit dieses Morgensterns mit seiner Namensvetterin hört aber nicht beim Blütenkopf auf. Sein langer, geschwungener Schaft ist auf der gesamten Länge mit kleinen Dornen besetzt, die selbst einem gepanzerten Waffenführer Unbehagen bereiten.
 
-Hacran Grist, ein erfolgreicher Abenteurer aus dem readceranischen Fischerdorf Salzhöhle, ließ die knorrige Waffe anfertigen, nachdem seine Freunde Witze darüber rissen, dass nichts im alkanischen Boden ihrer Heimat wachsen würde. Hacran setzte die Rose zur Verteidigung von Salzhöhle gegen Banditen ein und half seinen Kameraden mit ihr, zwei Flugdrachen zur Strecke zu bringen, die ihr Nest nahe einer zum Dorf führenden Straße gebaut hatten. Als Salzhöhle für sie die frühere Faszination verloren hatte, brachen Hacran und seine Freunde in den Dyrwald auf, um in den Ruinen von Eír Glanfath ihr Glück zu suchen. Seitdem hat niemand mehr etwas von ihnen gehört.</DefaultText>
+Hacran Grist, ein erfolgreicher Abenteurer aus dem readceranischen Fischerdorf Salzhöhle, ließ die knorrige Waffe anfertigen, nachdem seine Freunde Witze darüber rissen, dass nichts im alkalischen Boden ihrer Heimat wachsen würde. Hacran setzte die Rose zur Verteidigung von Salzhöhle gegen Banditen ein und half seinen Kameraden mit ihr, zwei Flugdrachen zur Strecke zu bringen, die ihr Nest nahe einer zum Dorf führenden Straße gebaut hatten. Als Salzhöhle für sie die frühere Faszination verloren hatte, brachen Hacran und seine Freunde in den Dyrwald auf, um in den Ruinen von Eir Glanfath ihr Glück zu suchen. Seitdem hat niemand mehr etwas von ihnen gehört.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -737,7 +737,7 @@ Hacran Grist, ein erfolgreicher Abenteurer aus dem readceranischen Fischerdorf S
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Haftverordnung</DefaultText>
+      <DefaultText>Haftanordnung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -809,7 +809,7 @@ Aloths hübsche, sorgfältige Schönschrift bildet auf den Seiten einen ordentli
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>Auf dieser Karte sind Gebiete im Dyrwald und in Eír Glanfath eingezeichnet, in denen es zu geologischen Aktivitäten kommt. Besonders beachtenswert ist die Beschreibung einer Höhle, in der geschmolzenes Gestein in einer tiefe Schlucht entlangfließt.</DefaultText>
+      <DefaultText>Auf dieser Karte sind Gebiete im Dyrwald und in Eir Glanfath eingezeichnet, in denen es zu geologischen Aktivitäten kommt. Besonders beachtenswert ist die Beschreibung einer Höhle, in der geschmolzenes Gestein in einer tiefe Schlucht entlangfließt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1023,7 +1023,7 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>Dieses Silbermedaillon ist verbeult und getrübt. Ein vergilbtes Portrait eines jungen Adligen befindet sich im Inneren. Durch den Zahn der Zeit es verwittert.</DefaultText>
+      <DefaultText>Dieses Silbermedaillon ist verbeult und getrübt. Ein vergilbtes Porträt eines jungen Adligen befindet sich im Inneren. Durch den Zahn der Zeit es verwittert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1197,7 +1197,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>Bei diesem Knaufjuwel handelt es sich um einen absolut glatten und runden schwarzen Stein mit Goldflecken. Reflektionen tanzen auf der dunklen Oberfläche auf merkwürdige Weise, und bei bestimmten Lichtverhältnissen schimmert der Stein dunkelrot.</DefaultText>
+      <DefaultText>Bei diesem Knaufjuwel handelt es sich um einen absolut glatten und runden schwarzen Stein mit Goldflecken. Reflexionen tanzen auf der dunklen Oberfläche auf merkwürdige Weise, und bei bestimmten Lichtverhältnissen schimmert der Stein dunkelrot.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1212,7 +1212,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>Streitäxte können mit ihren breiten, gebogenen Klingen schwere Schläge austeilen und sind unter Soldaten im ganzen Dyrwald und in Eír Glanfath sehr gebräuchlich.</DefaultText>
+      <DefaultText>Streitäxte können mit ihren breiten, gebogenen Klingen schwere Schläge austeilen und sind unter Soldaten im ganzen Dyrwald und in Eir Glanfath sehr gebräuchlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1292,7 +1292,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>Jagdbogen sind im Dyrwald und in Eír Glanfath extrem beliebt. Sie werden zwar am häufigsten für die Jagd auf Hirsch und Kleinwild benutzt, aber auch gegen zweibeinige Beute können sie tödlich sein. Jagdbogen erreichen zwar nicht das hohe Zuggewicht von Kriegsbögen, dafür können sie aber häufiger abgefeuert werden.</DefaultText>
+      <DefaultText>Jagdbogen sind im Dyrwald und in Eir Glanfath extrem beliebt. Sie werden zwar am häufigsten für die Jagd auf Hirsch und Kleinwild benutzt, aber auch gegen zweibeinige Beute können sie tödlich sein. Jagdbogen erreichen zwar nicht das hohe Zuggewicht von Kriegsbögen, dafür können sie aber häufiger abgefeuert werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1663,7 +1663,7 @@ Irgendwo weit weg von hier."</DefaultText>
     </Entry>
     <Entry>
       <ID>346</ID>
-      <DefaultText>Diese kleine aber schwere Bronzescheibe gewährt Zugang zum Tempel von Wael. Auf eine Seite wurde ein Schwarm Augen eingeritzt. Wenn du die Scheibe drehst, verschwindet und ercheint ein Bild mit jeder Drehung.</DefaultText>
+      <DefaultText>Diese kleine aber schwere Bronzescheibe gewährt Zugang zum Tempel von Wael. Auf eine Seite wurde ein Schwarm Augen eingeritzt. Wenn du die Scheibe drehst, verschwindet und erscheint ein Bild mit jeder Drehung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3400,7 +3400,7 @@ Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei
     </Entry>
     <Entry>
       <ID>692</ID>
-      <DefaultText>Auch wenn es wegen seines erstaunlichen Alters trüb und matt ist, sind die aufwändigen Inschriften und Texturen auf der Oberfläche des Horns noch zu erkennen - es ist offenbar das Werk eines wahren Meisters.</DefaultText>
+      <DefaultText>Auch wenn es wegen seines erstaunlichen Alters trüb und matt ist, sind die aufwendigen Inschriften und Texturen auf der Oberfläche des Horns noch zu erkennen - es ist offenbar das Werk eines wahren Meisters.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3862,7 +3862,7 @@ Irgendwas summt in ihnen, ein verblichenes Überbleibsel einer Essenz. Welche Ma
     </Entry>
     <Entry>
       <ID>782</ID>
-      <DefaultText>Dieser einfache Holzring ist orangegrau gefärbt und leuchtet, wenn du ihn nicht trägst. Über die tatsächliche Geschichte des Rings gibt es mehr Spekulationen als Fakten. Während alle Quellen darin übereinstimmen, dass er Erol von Levi gehörte, der ihn nach einer Zeit im Exil in Besitz genommen hatte, gehen die Geschichten darüber auseinander, wie er ihn erlangt hat. Manche sagen, dass er ein Geschenk eines Gottes war, andere dagegen behaupten, er sei eine Gefälligkeit für einen Pakt mit einer bösen Macht gewesen, den er geschlossen hatte.</DefaultText>
+      <DefaultText>Dieser einfache Holzring ist orange-grau gefärbt und leuchtet, wenn du ihn nicht trägst. Über die tatsächliche Geschichte des Rings gibt es mehr Spekulationen als Fakten. Während alle Quellen darin übereinstimmen, dass er Erol von Levi gehörte, der ihn nach einer Zeit im Exil in Besitz genommen hatte, gehen die Geschichten darüber auseinander, wie er ihn erlangt hat. Manche sagen, dass er ein Geschenk eines Gottes war, andere dagegen behaupten, er sei eine Gefälligkeit für einen Pakt mit einer bösen Macht gewesen, den er geschlossen hatte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3989,7 +3989,7 @@ Irgendwas summt in ihnen, ein verblichenes Überbleibsel einer Essenz. Welche Ma
       <ID>807</ID>
       <DefaultText>Obwohl er nie so berühmt war, wie er selbst von sich behauptete, so war der vailianische Entdecker Fulvano doch als Exzentriker mit dem Wunsch bekannt, die große weite Welt zu sehen. Wo immer es möglich war, reiste er zu Fuß, um die Sehenswürdigkeiten, Geräusche und Gerüche der Lande, die er durchquerte, wie ein Einheimischer erleben und würdigen zu können. In Wirklichkeit aber behauptete Fulvano oft, dass seine Erkundungen nur bewiesen, dass die Welt außerhalb der Vailianischen Republiken im Vergleich zu seinem Heimatland ein übler, stinkender Ort war.
 
-Dieses Paar Stiefel soll Fulvano gehört haben, und die in das Leder gebrannten Initialien scheinen das zu bestätigen. Fulvano pflegte seine Stiefel sehr gewissenhaft, da sie sehr viel auszuhalten hatten. Sie waren dafür geschaffen worden, so zäh wie ihr Träger zu sein.</DefaultText>
+Dieses Paar Stiefel soll Fulvano gehört haben, und die in das Leder gebrannten Initialen scheinen das zu bestätigen. Fulvano pflegte seine Stiefel sehr gewissenhaft, da sie sehr viel auszuhalten hatten. Sie waren dafür geschaffen worden, so zäh wie ihr Träger zu sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4475,7 +4475,7 @@ Zum letzten Mal: Halte dich von Trutzbucht fern. Wenn ich mich nicht einmal dara
     </Entry>
     <Entry>
       <ID>908</ID>
-      <DefaultText>Duc-Rinderbarten</DefaultText>
+      <DefaultText>Duc-Rinderbraten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5500,7 +5500,7 @@ Er verzichtete auf Sicherheitsgurte und schließlich sogar auf jede Art von Sich
     </Entry>
     <Entry>
       <ID>1120</ID>
-      <DefaultText>Kakuma war eine berühmte Aumaua-Seefahrerin und die ursprüngliche Besitzerin dieses Kleidungsstücks. Sie segelte von ihrer Heimat Rauatai zum gefürchteten Todesfeuer-Archipel. Dort geleitete sie Handels- und Passagierschiffe durch die von Piraten heimgesuchten Gewässer. Zu ihren Stammkunden zählten die Zwerge von Naasistaqi, welche die Kontinente im Norden bereisten, aus persönlichen Gründen oder im Auftrag des Stammes.
+      <DefaultText>Kakuma war eine berühmte Aumaua-Seefahrerin und die ursprüngliche Besitzerin dieses Kleidungsstücks. Sie segelte von ihrer Heimat Rauatai zum gefürchteten Todesfeuer-Archipel. Dort geleitete sie Handels- und Passagierschiffe durch die von Piraten heimgesuchten Gewässer. Zu ihren Stammkunden zählten die Zwerge von Naasitaq, welche die Kontinente im Norden bereisten, aus persönlichen Gründen oder im Auftrag des Stammes.
 
 Ihre ehrliche Art, Geschäfte zu machen, ihr Mut im Kampf und ihr Können auf See machten Kakuma zu einer angesehenen und beliebten Frau im Archipel und unter den Naasitaqi.</DefaultText>
       <FemaleText />
@@ -5509,7 +5509,7 @@ Ihre ehrliche Art, Geschäfte zu machen, ihr Mut im Kampf und ihr Können auf Se
       <ID>1121</ID>
       <DefaultText>Diese hervorragend gefertigte Rüstung ist dunkelbraun gefärbt. Die Farbe ist ungleichmäßig und fleckig, als wäre die Rüstung von einem Amateur gefärbt worden. Was sie in gewisser Weise auch wurde. Vengiatta Rugia ("Rote Rache") wurde von einer jungen Vailianerin getragen, die mitansehen musste, wie ihre Familie von Söldnern im Dienst einer mächtigen Fürstin ermordet wurde. Als die Behörden sie befragten, gab sie an, das Trauma hätte jede Erinnerung an den Vorfall ausgelöscht. 
 
-Heimlich aber bildete sie sich zur Kämpferin aus. Da sie keine Rüstungen oder Waffen tragen konnte, ohne aufzufallen, nahm sie eine Stellung als Näherin an und lernte, ein robustes Gewand zu nähen, das ihr Schutz bot, ohne zuviel Aufmerksamkeit zu wecken. Zudem ersetzte sie den Knauf eines Stiletts durch den Griff einer Ahle, so dass sie es jederzeit bei sich tragen konnte.
+Heimlich aber bildete sie sich zur Kämpferin aus. Da sie keine Rüstungen oder Waffen tragen konnte, ohne aufzufallen, nahm sie eine Stellung als Näherin an und lernte, ein robustes Gewand zu nähen, das ihr Schutz bot, ohne zu viel Aufmerksamkeit zu wecken. Zudem ersetzte sie den Knauf eines Stiletts durch den Griff einer Ahle, so dass sie es jederzeit bei sich tragen konnte.
 
 Als sie schließlich im Umgang mit dem Stilett geübt war, zog sie aus, die Mörder ihrer Familie zu jagen - in ihre unauffällige gepolsterte Rüstung gekleidet. Sie richtete die Mörder einen nach dem anderen und tränkte jedes Mal einen Teil ihrer Rüstung in dem Blut ihres letzten Opfers.</DefaultText>
       <FemaleText />
@@ -5541,7 +5541,7 @@ Er war in der ganzen Stadt und in den Gasthäusern des nahegelegenen Hafens beli
     </Entry>
     <Entry>
       <ID>1125</ID>
-      <DefaultText>Herbstfeuer wurde von einem glanfathanischen Schmied zu Ehren der Gefallenen des Kriegs der Schwarzen Bäume gefertigt. Die Rüstung soll an die Schlacht Cas Raŵdha Dîal erinnern, in der Mitglieder des Drei-Stoßzahn-Stelgaer-Stammes sich auf die Lauer legten und dann auf den Rücken ihrer Stelgaer-Reittiere aus einem brennenden Wald stürmten und das Kontingent Dyrwälder Soldaten auslöschte, das sich seines Sieges schon sicher gewesen war.
+      <DefaultText>Herbstfeuer wurde von einem glanfathanischen Schmied zu Ehren der Gefallenen des Kriegs der Schwarzen Bäume gefertigt. Die Rüstung soll an die Schlacht Cas Raŵdha Dîal erinnern, in der Mitglieder des Drei-Stoßzahn-Stelgaer-Stammes sich auf die Lauer legten und dann auf den Rücken ihrer Stelgaer-Reittiere aus einem brennenden Wald stürmten und das Kontingent Dyrwäldler Soldaten auslöschte, das sich seines Sieges schon sicher gewesen war.
 
 Herbstfeuer wurde aus Schuppen geschmiedet, um den Träger wie einen Drachen aussehen zu lassen. Wie die Drei-Stoßzahn-Stelgaer lässt sich die Rüstung nicht durch Feuer bezwingen und macht ihren Besitzer eins mit den Bäumen.</DefaultText>
       <FemaleText />
@@ -5579,7 +5579,7 @@ Diese Roben bestehen aus wenig mehr als einem einfachen, ungefärbten Stück Sto
     </Entry>
     <Entry>
       <ID>1130</ID>
-      <DefaultText>Wer mit unbeteiligter Miene den Sturz seiner Vorgesetzten plant, der betet flüsternd zu Skaen. Auch politische Rebellen bitten ihn um Gerechtigkeit, in der Hoffnung, dass er in ihrem Namen bei Woedica vermittelt, mit der er verbunden ist. Doch Skaen ist eine gnadenlose Gottheit. Wenn ein Bittsteller sich in die Karten schauen lässt oder zu vorschnell handelt, lässt der Gott ihn im Stich. Das gilt auch für jene, die ihre Ambitionen tatsächlich verwrklichen und in eine höhere Position aufsteigen - sie können nicht länger auf Skaens Hilfe hoffen.
+      <DefaultText>Wer mit unbeteiligter Miene den Sturz seiner Vorgesetzten plant, der betet flüsternd zu Skaen. Auch politische Rebellen bitten ihn um Gerechtigkeit, in der Hoffnung, dass er in ihrem Namen bei Woedica vermittelt, mit der er verbunden ist. Doch Skaen ist eine gnadenlose Gottheit. Wenn ein Bittsteller sich in die Karten schauen lässt oder zu vorschnell handelt, lässt der Gott ihn im Stich. Das gilt auch für jene, die ihre Ambitionen tatsächlich verwirklichen und in eine höhere Position aufsteigen - sie können nicht länger auf Skaens Hilfe hoffen.
 
 Diese Roben bestehen aus wenig mehr als einem einfachen, ungefärbten Stück Stoff, das mit einer dicken Kordel um die Hüften gebunden wird. Sie wurden von Anhängern Skaens offenbar für dunkle Rituale verwendet, denn sie sind voller Blutflecken - frischer und längst getrockneter.</DefaultText>
       <FemaleText />
@@ -5629,7 +5629,7 @@ Der Sieg über die Oger war zwar nur von kurzer Dauer, doch die Geschichte wird 
     </Entry>
     <Entry>
       <ID>1139</ID>
-      <DefaultText>Streitäxte können mit ihren breiten, gebogenen Klingen schwere Schläge austeilen und sind unter Soldaten im ganzen Dyrwald und in Eír Glanfath sehr gebräuchlich.</DefaultText>
+      <DefaultText>Streitäxte können mit ihren breiten, gebogenen Klingen schwere Schläge austeilen und sind unter Soldaten im ganzen Dyrwald und in Eir Glanfath sehr gebräuchlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5802,7 +5802,7 @@ Das Tagebuch wurde in den jungen aedyranischen und vailianischen Kolonien in gro
     </Entry>
     <Entry>
       <ID>1171</ID>
-      <DefaultText>Diese Lampe scheint das Licht zu verschlucken. Auf ihrer Oberfläche sind keinerlei Reflektionen zu sehen. Sie fühlt sich kalt an, und wenn man sie sich an das Ohr hält, hört man ein leises Geflüster. Die Lampe ist mit einem Korken versiegelt, auf dem eine einzige Rune zu lesen ist.</DefaultText>
+      <DefaultText>Diese Lampe scheint das Licht zu verschlucken. Auf ihrer Oberfläche sind keinerlei Reflexionen zu sehen. Sie fühlt sich kalt an, und wenn man sie sich an das Ohr hält, hört man ein leises Geflüster. Die Lampe ist mit einem Korken versiegelt, auf dem eine einzige Rune zu lesen ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5814,7 +5814,7 @@ Dieses große Schwert scheint mit Rost überzogen zu sein, doch bei näherer Bet
     </Entry>
     <Entry>
       <ID>1173</ID>
-      <DefaultText>Dieses aufwändige Stück wurde aus einem einzigen kleinen Stück Eschenholz gefertigt. Ein Relief ist in die Vorderseite geschnitzt. Es zeigt eine unheimliche, wunderschöne Gestalt, die unter einem großen, knorrigen Baum steht. Ihr Gesicht ist leicht zur Seite gewandt, den Betrachter betrachtend, als habe sie seine Anwesenheit eben erst bemerkt.</DefaultText>
+      <DefaultText>Dieses aufwendige Stück wurde aus einem einzigen kleinen Stück Eschenholz gefertigt. Ein Relief ist in die Vorderseite geschnitzt. Es zeigt eine unheimliche, wunderschöne Gestalt, die unter einem großen, knorrigen Baum steht. Ihr Gesicht ist leicht zur Seite gewandt, den Betrachter betrachtend, als habe sie seine Anwesenheit eben erst bemerkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5836,7 +5836,7 @@ Er war groß, selbst für einen Aumaua, aber ein Mann der leisen Töne. Also bea
     </Entry>
     <Entry>
       <ID>1176</ID>
-      <DefaultText>Ein Zauberbuch ist das Lebensblut des magischen Repertoires eines jeden Zauberers. Diese Bücher werden aus seltenen Materialien sorgfältig und aufwändig gefertigt und können vorübergehend Fragmente freier Seelenessenz lagern, die durch das Buch kanalisiert und in Form eines Zaubers entladen wird.
+      <DefaultText>Ein Zauberbuch ist das Lebensblut des magischen Repertoires eines jeden Zauberers. Diese Bücher werden aus seltenen Materialien sorgfältig und aufwendig gefertigt und können vorübergehend Fragmente freier Seelenessenz lagern, die durch das Buch kanalisiert und in Form eines Zaubers entladen wird.
 Unter Laien herrscht der Irrglaube, dass Zauberer die magischen Energien formen, die sie beherrschen. In Wahrheit formen die Seiten des Zauberbuchs die Magie. Die Kunst der Zauberei liegt in der disziplinierten Kontrolle und Manipulation des Zauberbuchs. Die fähigsten Zauberer können ihren Büchern Zauber von höchster Wirksamkeit und Stärke entlocken.
 Obwohl alle Zauberbücher ihre Grenzen haben, da sie aus einer begrenzten Anzahl an Seiten bestehen, tragen viele erfahrene Zauberer mehrere Zauberbücher gleichzeitig bei sich, um für alle erdenklichen Situationen gerüstet zu sein.</DefaultText>
       <FemaleText />
@@ -5908,7 +5908,7 @@ Obwohl alle Zauberbücher ihre Grenzen haben, da sie aus einer begrenzten Anzahl
     </Entry>
     <Entry>
       <ID>1198</ID>
-      <DefaultText>Die Wölfe des Dyrwalds sind stark und schlau. Da es ihnen an der üblichen Scheu der Art fehlt, stellen sie für Reisende, die sich abseits ausgetretener Pfade bewegen, eine ernste Gefahr dar. Macht man auf sie Jagd, bekommt man es normalerweise nicht mit einem einzelnen Wolf zu tun, da sie in Rudeln verschiedener Größen leben. Dies stellt alleine jagende Jäger vor eine große Herausforderung. Ihre dichten Pelze werden als Wärmespender geschätzt, und die Zähne der stärksten Wolfe stellen beeindruckende Jagdtrophäen dar.</DefaultText>
+      <DefaultText>Die Wölfe des Dyrwalds sind stark und schlau. Da es ihnen an der üblichen Scheu der Art fehlt, stellen sie für Reisende, die sich abseits ausgetretener Pfade bewegen, eine ernste Gefahr dar. Macht man auf sie Jagd, bekommt man es normalerweise nicht mit einem einzelnen Wolf zu tun, da sie in Rudeln verschiedener Größen leben. Dies stellt alleine jagende Jäger vor eine große Herausforderung. Ihre dichten Pelze werden als Wärmespender geschätzt, und die Zähne der stärksten Wölfe stellen beeindruckende Jagdtrophäen dar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6039,7 +6039,7 @@ Anstatt eine einzelne Person den Bogen besitzen zu lassen, betrachtete der Stamm
     </Entry>
     <Entry>
       <ID>1224</ID>
-      <DefaultText>Dieser Eiaufstrich kommt besonders bei den dyrwäldlerischen Bauern in Tenferths an Arbeitstagen oft auf den Tisch. Die Tenferther, die als unerschüttliche Zeitgenossen und rustikale Stoiker bekannt sind, finden sich oft als Zielscheibe von Witzen über ihr bescheidenes Essen wieder. Bei den verträglicheren Witzen geht es darum, dass Tenferther die Eierschalen versehentlich in den Aufstrich verarbeiten und ohne Murren alles aufessen. Böse Witze aber implizieren, dass Tenferther teilnahmslos Steine, Hühnerfedern, Nägel und andere scheußliche Sachen essen, die irgendwie in den Aufstrich geraten sind.</DefaultText>
+      <DefaultText>Dieser Eiaufstrich kommt besonders bei den dyrwäldlerischen Bauern in Tenferths an Arbeitstagen oft auf den Tisch. Die Tenferther, die als unerschütterliche Zeitgenossen und rustikale Stoiker bekannt sind, finden sich oft als Zielscheibe von Witzen über ihr bescheidenes Essen wieder. Bei den verträglicheren Witzen geht es darum, dass Tenferther die Eierschalen versehentlich in den Aufstrich verarbeiten und ohne Murren alles aufessen. Böse Witze aber implizieren, dass Tenferther teilnahmslos Steine, Hühnerfedern, Nägel und andere scheußliche Sachen essen, die irgendwie in den Aufstrich geraten sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6130,7 +6130,7 @@ Doch wieder stand Mabec ungläubig vor dem Baum - er fand weder einen Hohlraum i
     </Entry>
     <Entry>
       <ID>1242</ID>
-      <DefaultText>Perlholz-Huhn wird von den Siedlern entlang der Perlenküste und in Trutzbucht gerne gegessen, aber die Beliebtheit des Gerichts hat sich nicht weit in den Norden oder gar ins Ausland verbreitet. Die Einheimischen behaupten, dass die Zwerge von Talaneir für die Erfindung des Gerichts verantwortlich waren. Aufgrund der merkwürdigen Zutaten, oftmals eine Besonderheit der zwergischen Küche, neigen viele dazu, die Behauptung für bare Münze zu nehmen. Es gibt Gerüchte, dass der Duc von Ozia Geschmack an Perlholz-Huhn gefunden hätte und zur Zubereitung für seine besonderen Vorlieben lebendig aus Alt-Valia importierte Graubrusthühner benutzen würde. Da das Gericht in den vailianischen Republiken noch nicht beliebt ist, sind sich die Einheimischen von Ozia nicht sicher, ob sie den vermeintlichen Kochstil des Ducs nachahmen oder ihn Ausländern energisch verweigern sollen.</DefaultText>
+      <DefaultText>Perlholz-Huhn wird von den Siedlern entlang der Perlenküste und in Trutzbucht gerne gegessen, aber die Beliebtheit des Gerichts hat sich nicht weit in den Norden oder gar ins Ausland verbreitet. Die Einheimischen behaupten, dass die Zwerge von Talaneir für die Erfindung des Gerichts verantwortlich waren. Aufgrund der merkwürdigen Zutaten, oftmals eine Besonderheit der zwergischen Küche, neigen viele dazu, die Behauptung für bare Münze zu nehmen. Es gibt Gerüchte, dass der Duc von Ozia Geschmack an Perlholz-Huhn gefunden hätte und zur Zubereitung für seine besonderen Vorlieben lebendig aus Alt-Vailia importierte Graubrusthühner benutzen würde. Da das Gericht in den vailianischen Republiken noch nicht beliebt ist, sind sich die Einheimischen von Ozia nicht sicher, ob sie den vermeintlichen Kochstil des Ducs nachahmen oder ihn Ausländern energisch verweigern sollen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6272,7 +6272,7 @@ Eine schreckliche Waffe, die jeden enttäuscht, der sie verwendet. Auf den erste
     </Entry>
     <Entry>
       <ID>1268</ID>
-      <DefaultText>Dieses stinkende aber mächtige Elixier macht sich die stärkende - wenn auch flüchtige - Macht von nekromantiegetränken Knochen zunutze. Sein Wert im Kampf lässt sich nicht leugnen, denn es verleiht selbst den unglückseligsten Kämpfern die Fähigkeiten eines erfahrenen Veterans.</DefaultText>
+      <DefaultText>Dieses stinkende aber mächtige Elixier macht sich die stärkende - wenn auch flüchtige - Macht von nekromantiegetränkten Knochen zunutze. Sein Wert im Kampf lässt sich nicht leugnen, denn es verleiht selbst den unglückseligsten Kämpfern die Fähigkeiten eines erfahrenen Veterans.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6424,7 +6424,7 @@ Kampfstäbe werden auch von Xaurips häufig verwendet, die sie meist mit Totenk�
       <ID>1296</ID>
       <DefaultText>Die leichten und schnellen Rapiere sind Präzisionswaffen, die von Duellanten in den Städten bevorzugt werden. Diese Waffen sind zwar nicht für ihre Kampfstärke berühmt, fähige Waffenführer aber können sich auf punktgenaue Treffer verlassen.
 
-Dieses Rapier wurde gewissenhaft poliert. Der Griff ist von aufwändigen Parierstangen umgeben.</DefaultText>
+Dieses Rapier wurde gewissenhaft poliert. Der Griff ist von aufwendigen Parierstangen umgeben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6523,7 +6523,7 @@ Die Klinge selbst ist ein einfacher Säbel mit einem abgewetzten Ledergriff und 
       <ID>1309</ID>
       <DefaultText>Angeblich lässt sich der Säbel mit dem Namen Entschluss bis zu einer uralten Blutlinie von Kriegern aus der Zeit noch vor der Gründung des Reichs Aedyr zurückverfolgen - auch wenn diese Behauptung schon immer angezweifelt wurde. Sicher bekannt ist nur, dass der Säbel von den Grafen von Yenwald von Generation zu Generation weitergegeben wurde und sie während der Kolonisierung des Dyrwalds bei der Überfahrt über das Meer begleitet hat. Der Säbel galt als Zeichen ihrer adligen Herkunft und ist auf den meisten formellen Porträts der Familie zu sehen. 
 
-Der jüngste Sproß der Familie ließ die Waffe reparieren, auf dass sie nicht mehr nur rein dekorativen Zwecken diene. Die Klinge wurde zu einer harten und präzisen Waffe umgeschmiedet, die der junge Graf bei seinen Bemühungen führte, die Burg von Caed Nua zurückzuerobern, die traditionelle Festung des Grafen von Yenwald. Sowohl das Schwert als auch der Graf verschwanden spurlos und wurden nie wieder gesehen. 
+Der jüngste Spross der Familie ließ die Waffe reparieren, auf dass sie nicht mehr nur rein dekorativen Zwecken diene. Die Klinge wurde zu einer harten und präzisen Waffe umgeschmiedet, die der junge Graf bei seinen Bemühungen führte, die Burg von Caed Nua zurückzuerobern, die traditionelle Festung des Grafen von Yenwald. Sowohl das Schwert als auch der Graf verschwanden spurlos und wurden nie wieder gesehen. 
 
 Während des Widerstandskriegs wurde mehrfach versucht, die Waffe wiederzufinden, allerdings ohne Erfolg.</DefaultText>
       <FemaleText />
@@ -7471,7 +7471,7 @@ Da sie besonders unter den Kriegern der Vailianischen Republiken weit verbreitet
     </Entry>
     <Entry>
       <ID>1470</ID>
-      <DefaultText>Vor langer Zeit fertigte ein Druide diesen Gürtel, um die Macht zu verstärken, die er selbst in der Haut eines Bären noch besaß. Der Gürtel nutzt die geisterwandlerische Macht eines Druiden, um seine Angriffe zu verstärken. Dieser Gürtel ist verzaubert, so dass er jeder Gestalt gerecht wird, die sein Träger annimmt. Somit kann jeder in den Genuß seiner Magie kommen, auch in der wildesten Gestalt.</DefaultText>
+      <DefaultText>Vor langer Zeit fertigte ein Druide diesen Gürtel, um die Macht zu verstärken, die er selbst in der Haut eines Bären noch besaß. Der Gürtel nutzt die geisterwandlerische Macht eines Druiden, um seine Angriffe zu verstärken. Dieser Gürtel ist verzaubert, so dass er jeder Gestalt gerecht wird, die sein Träger annimmt. Somit kann jeder in den Genuss seiner Magie kommen, auch in der wildesten Gestalt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7493,7 +7493,7 @@ Du hast diesen Gegenstand im Leuchtturm von Ondras Geschenk gefunden. Der Turm w
     </Entry>
     <Entry>
       <ID>1474</ID>
-      <DefaultText>Eotens kommen in den groteskesten aller Volkssagen vor. Einst waren sie lediglich die aggressivsten und reizbarsten Oger, doch inzwischen haben Eotens sich zu gewaltigen Monstern entwickelt, die deutlich größer und sehr viel weniger intelligent sind als ihre Cousins. Eotens besitzen zwei Köpfe, von denen der eine deutlich kleiner ist als der andere. Wenn der größere Kopf außer Gefecht ist, besitzt der Eoten noch genugend Bauernschläue im kleineren, um weiterzukämpfen. 
+      <DefaultText>Eotens kommen in den groteskesten aller Volkssagen vor. Einst waren sie lediglich die aggressivsten und reizbarsten Oger, doch inzwischen haben Eotens sich zu gewaltigen Monstern entwickelt, die deutlich größer und sehr viel weniger intelligent sind als ihre Cousins. Eotens besitzen zwei Köpfe, von denen der eine deutlich kleiner ist als der andere. Wenn der größere Kopf außer Gefecht ist, besitzt der Eoten noch genügend Bauernschläue im kleineren, um weiterzukämpfen. 
 Dieser Gürtel ist nach diesen Monstern benannt und verleiht dem Träger auf magische Weise eine ähnliche trotzige Hartnäckigkeit.</DefaultText>
       <FemaleText />
     </Entry>
@@ -7564,7 +7564,7 @@ Dieser ramponierte alte Ring sieht völlig gewöhnlich aus. Nachts aber erstrahl
     </Entry>
     <Entry>
       <ID>1486</ID>
-      <DefaultText>Der Druidenorden der Ovaten des Goldenen Hains ist überzeugt, dass der Ring des Wunders der Keimling eines der großen Bäume ist, die Teir Evron in Zwillingsulmen umgeben. Eines Tages, so sagen sie, wird er zu einem sogar noch mächtigeren Baum heranwachsen. Wurzelähnliche Fasern sprießen aus einer leuchtend grünen Knopse und verzweigen sich. Der Ring passt sich dem Finger des Trägers an. Ihn abzulegen kann jedoch schmerzhaft sein, da die Wurzeln sich mit dem Fleisch verbinden.</DefaultText>
+      <DefaultText>Der Druidenorden der Ovaten des Goldenen Hains ist überzeugt, dass der Ring des Wunders der Keimling eines der großen Bäume ist, die Teir Evron in Zwillingsulmen umgeben. Eines Tages, so sagen sie, wird er zu einem sogar noch mächtigeren Baum heranwachsen. Wurzelähnliche Fasern sprießen aus einer leuchtend grünen Knospe und verzweigen sich. Der Ring passt sich dem Finger des Trägers an. Ihn abzulegen kann jedoch schmerzhaft sein, da die Wurzeln sich mit dem Fleisch verbinden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7608,7 +7608,7 @@ Sie verbrachte das letzte Jahrhundert ihres Lebens damit, einen Weg zu suchen, i
     </Entry>
     <Entry>
       <ID>1494</ID>
-      <DefaultText>Casŵen war eine der Brîshalgwin von Eir&#160;Glanfath, die um das Jahr 2785 AI von Beseelern aus dem Dyrwald ausgebildet wurden. Als fünfzehn Jahre später die Dunrydstraße gegründet wurde, schloß sie sich der neuen Einrichtung als eines der ersten Medien überhaupt an. Obwohl sie für eine Orlanerin relativ alt war, war sie eine der engagiertesten und fähigsten Agentinnen der Dunrydstraße. Sie wurde "Dunryd-Dämon" genannt, wegen ihrer gnadenlos methodischen Vorgehensweise. Sie war in ganz Trutzbucht berüchtigt dafür, mit ihrem Helm durch die Straßen zu streifen, auf der Suche nach Hinweisen und Verbindungen. Als der Krieg des Heiligen endete, war sie über vierzig und wurde in die Götterhammerzitadelle geschickt, um nach Spuren von St. Waidwen zu suchen. Sie kam niemals dort an. Jahre später wurde ihr Helm auf der Straße von Echoschlucht gefunden.</DefaultText>
+      <DefaultText>Casŵen war eine der Brîshalgwin von Eir&#160;Glanfath, die um das Jahr 2785 AI von Beseelern aus dem Dyrwald ausgebildet wurden. Als fünfzehn Jahre später die Dunrydstraße gegründet wurde, schloss sie sich der neuen Einrichtung als eines der ersten Medien überhaupt an. Obwohl sie für eine Orlanerin relativ alt war, war sie eine der engagiertesten und fähigsten Agentinnen der Dunrydstraße. Sie wurde "Dunryd-Dämon" genannt, wegen ihrer gnadenlos methodischen Vorgehensweise. Sie war in ganz Trutzbucht berüchtigt dafür, mit ihrem Helm durch die Straßen zu streifen, auf der Suche nach Hinweisen und Verbindungen. Als der Krieg des Heiligen endete, war sie über vierzig und wurde in die Götterhammerzitadelle geschickt, um nach Spuren von St. Waidwen zu suchen. Sie kam niemals dort an. Jahre später wurde ihr Helm auf der Straße von Echoschlucht gefunden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7891,7 +7891,7 @@ Der Brauch des Naschzeugs kam im Laufe der Jahre während des Festmahls der Fest
 
 Karneval der Masken
 
-Als die ersten aedryanischen Kolonisten in das neue Land reisten, um den Dyrwald im Namen des Fercönyngs von Aedyr zu gründen, trafen sie auf das glanfathanische Volk. Der Karneval der Masken wird zu Ehren dieser Begegnung gefeiert. Ursprünglich war er schlicht eine formelle historische Nachstellung - in Form eines Theaterstücks - der Spannungen zwischen den Glanfathanern und den aedyranischen Siedlern. Inzwischen aber hat er sich zu sehr viel mehr entwickelt. Die Teilnehmer wählen eine "Seite" und verkleiden sich in aufwändigen Kostümen, die deutlich machen, welcher Gruppe sie angehören - den Aedyranern oder den Glanfathanern. Alle nehmen an einem Maskenball teil, der heute das eigentliche Theaterstück längst verdrängt hat. Nur noch das Fest zählt.
+Als die ersten aedyranischen Kolonisten in das neue Land reisten, um den Dyrwald im Namen des Fercönyngs von Aedyr zu gründen, trafen sie auf das glanfathanische Volk. Der Karneval der Masken wird zu Ehren dieser Begegnung gefeiert. Ursprünglich war er schlicht eine formelle historische Nachstellung - in Form eines Theaterstücks - der Spannungen zwischen den Glanfathanern und den aedyranischen Siedlern. Inzwischen aber hat er sich zu sehr viel mehr entwickelt. Die Teilnehmer wählen eine "Seite" und verkleiden sich in aufwendigen Kostümen, die deutlich machen, welcher Gruppe sie angehören - den Aedyranern oder den Glanfathanern. Alle nehmen an einem Maskenball teil, der heute das eigentliche Theaterstück längst verdrängt hat. Nur noch das Fest zählt.
 
 Wintersend
 
@@ -7902,7 +7902,7 @@ Wintersend war nie etwas anderes als eine willkommene Gelegenheit für ein Fest.
       <ID>1544</ID>
       <DefaultText>Die Beseelung ist eine ebenso angesehene wie verteufelte Wissenschaft, oft von ein und derselben Person. Trotz all der Forschungen, die auf dem Gebiet angestellt werden und wurden, wissen wir noch sehr wenig. Das Leben selbst kontrollieren! Auf dieses Ziel arbeiten Beseeler seit Jahrhunderten hin. Es gibt keine echten Aufzeichnungen darüber, wie die Beseelung entdeckt wurde, doch nachdem der Funke des Wissens einmal entzündet war, ließen sich die unvermeidlichen Entdeckungen nicht mehr aufhalten.
 
-Im Jahr 2260 AI konnten Beseeler als Ergebnis ihrer aufwändigen Forschungen eine Seele erfolgreich bannen und übertragen. Die Versuchsperson des Experiments war ein unbekannter junger Mann, der zwar wohlhabend war, aber schwer krank. Seine Seele sollte aus seinem sterbenden Körper in den eines kürzlich bei einem Unfall ums Leben gekommenen Mannes übertragen werden. Der neue Körper, der nur geringfügigen Verfall aufwies, sollte der Seele ein Zuhause bieten und dem jungen Mann ein sehr viel besseres Leben bescheren. Das Ergebnis des Experiments führte zur Schmähung und zum Verbot der Beseelung im aedyranischen Reich.
+Im Jahr 2260 AI konnten Beseeler als Ergebnis ihrer aufwendigen Forschungen eine Seele erfolgreich bannen und übertragen. Die Versuchsperson des Experiments war ein unbekannter junger Mann, der zwar wohlhabend war, aber schwer krank. Seine Seele sollte aus seinem sterbenden Körper in den eines kürzlich bei einem Unfall ums Leben gekommenen Mannes übertragen werden. Der neue Körper, der nur geringfügigen Verfall aufwies, sollte der Seele ein Zuhause bieten und dem jungen Mann ein sehr viel besseres Leben bescheren. Das Ergebnis des Experiments führte zur Schmähung und zum Verbot der Beseelung im aedyranischen Reich.
 
 Wir besitzen keine echten Aufzeichnungen darüber, was geschehen ist (sie wurden nach dem Verbot der Beseelung allesamt vernichtet). Es wurde jedoch ein Tagebuch entdeckt, eine Art Geständnis eines Teilnehmers. Es folgen Auszüge aus diesem Tagebuch:
 
@@ -8093,7 +8093,7 @@ Eine weitere gute Frage, die von vielen gestellt wird, bezieht sich auf die Glan
       <ID>1553</ID>
       <DefaultText>Wenn man in Eir&#160;Glanfath den Namen Regd erwähnt, so werden einem Geschichten erzählt von einem glorreichen Freiheitskämpfer - einem Orlaner, der sein taktisches Geschick und seine militärische Ausbildung nutzte, um die Glanfathaner vor den Gräueltaten der Invasoren im Dyrwald zu beschützen. Fragt man im Dyrwald nach ihm, so hört man wütende Berichte über die schändlichen Taten eines hinterhältigen, unehrenhaften Orlaners, der die Bürger des Dyrwalds terrorisiert hat. Aus solchen Konflikten entstehen Legenden, und Galven Regd ist eine solche Legende.
 
-Der Krieg des Zerbrochenen Steins begann durch ein Missverständnis zwischen den Glanfathanern, die im Dyrwald lebten, und den aedryranischen Kolonisten, die sich dort niederließen. Es gab bereits Spannungen zwischen den beiden Gruppen, da die Aedyraner Land für sich beanspruchten, von dem die Glanfathaner sagten, es befände sich bereits in ihrem Besitz. Da zudem noch Glanfathaner von Aedyranern gefangen genommen und versklavt wurden, war es nur eine Frage der Zeit, bis etwas das Fass zum Überlaufen brachte und die zwei Völker gegeneinander Krieg führten. Es gab zwar gelegentliche Scharmützel und Kämpfe zwischen isolierten Gruppen, aber keinen echten Konflikt ... bis zum Krieg des Zerbrochenen Steins.
+Der Krieg des Zerbrochenen Steins begann durch ein Missverständnis zwischen den Glanfathanern, die im Dyrwald lebten, und den aedyranischen Kolonisten, die sich dort niederließen. Es gab bereits Spannungen zwischen den beiden Gruppen, da die Aedyraner Land für sich beanspruchten, von dem die Glanfathaner sagten, es befände sich bereits in ihrem Besitz. Da zudem noch Glanfathaner von Aedyranern gefangen genommen und versklavt wurden, war es nur eine Frage der Zeit, bis etwas das Fass zum Überlaufen brachte und die zwei Völker gegeneinander Krieg führten. Es gab zwar gelegentliche Scharmützel und Kämpfe zwischen isolierten Gruppen, aber keinen echten Konflikt ... bis zum Krieg des Zerbrochenen Steins.
 
 Ob beabsichtigt oder nicht, aedyranische Bauern, die Ackerland für ihre Feldfrüchte schaffen wollten, warfen einen der uralten Hinkelsteine um, die überall auf dem Land zu finden sind - und er zerbrach. Die Glanfathaner, welche die alten Ruinen im Dyrwald als heilig ansahen, reagierten schnell und gewalttätig, angeführt von einem besonders fanatischen Reißzahn namens Regd. Der Krieg war zwar nur von kurzer Dauer und die Glanfathaner gingen letztlich nicht als Sieger aus ihm hervor, doch Regd und seine Truppen konnten eine beträchtliche Zahl von Kolonisten eliminieren.
 
@@ -8116,7 +8116,7 @@ Die Säuberung begann als Protest, der das Leid nachstellte, das den Glanfathane
 
 Festtag des Schwarzen Baums
 
-Der Festtag des Schwarzen Baums ist zugleich ein Gedenktag und ein Festmahl. Er findet am zweiten Tag des Herbsteinbruchs statt, wenn die Bäume noch bunt sind, ihre Blätter aber bereits verlieren und das Land kalt und dunkel wird. Die Glanfathaner erzählen an diesem Tag die Geschichte vom Krieg der Schwarzen Bäume und gedenken der Gefallenen. An Morgen hängen die Erwachsenen aufwändige Girlanden an den Ästen der Bäume auf. Die Girlanden bestehen aus roten, orangefarbenen und gelben Blumen. Sie stehen für die Flammen, die durch die Wälder von Eir&#160;Glanfath loderten und alles in ihrem Weg zerstörten. Nach einem Morgen des Fastens und der Besinnung dürfen die Kinder durch die Bäume rennen, die Girlanden abreißen und sie zurück zum Festmahl bringen, wo die Tische mit den Wildblumen dekoriert werden, um den Schrecken des Krieges in etwas Schönes zu verwandeln. Dann wird gegessen und es wird der Frieden gefeiert, der nun mit den Dyrwäldlern herrscht - und es wird darauf angestoßen, dass er noch viele Jahre halten möge.
+Der Festtag des Schwarzen Baums ist zugleich ein Gedenktag und ein Festmahl. Er findet am zweiten Tag des Herbsteinbruchs statt, wenn die Bäume noch bunt sind, ihre Blätter aber bereits verlieren und das Land kalt und dunkel wird. Die Glanfathaner erzählen an diesem Tag die Geschichte vom Krieg der Schwarzen Bäume und gedenken der Gefallenen. An Morgen hängen die Erwachsenen aufwendige Girlanden an den Ästen der Bäume auf. Die Girlanden bestehen aus roten, orangefarbenen und gelben Blumen. Sie stehen für die Flammen, die durch die Wälder von Eir&#160;Glanfath loderten und alles in ihrem Weg zerstörten. Nach einem Morgen des Fastens und der Besinnung dürfen die Kinder durch die Bäume rennen, die Girlanden abreißen und sie zurück zum Festmahl bringen, wo die Tische mit den Wildblumen dekoriert werden, um den Schrecken des Krieges in etwas Schönes zu verwandeln. Dann wird gegessen und es wird der Frieden gefeiert, der nun mit den Dyrwäldlern herrscht - und es wird darauf angestoßen, dass er noch viele Jahre halten möge.
 
 Bemerkenswert an der glanfathanischen Kultur ist auch die Vielzahl der Reisebräuche. Als halbnomadisches Volk besitzen die Glanfathaner eine Reihe von Traditionen, die ihre Sicherheit während der Reise gewährleisten sollen.
 
@@ -8388,7 +8388,7 @@ Rebelliere gegen jene, die dich entfernen möchten.</DefaultText>
       <ID>1563</ID>
       <DefaultText>Erwähnt man den Namen Waidwen, denken die meisten Leute nur an ein einziges Wort - Götterhammer. Das Echo dieses Ereignisses hallt durch die Zeit und ist auch Jahre nach der Zerstörung der Brücke von Evon Dewr noch zu hören, doch Waidwens bescheidene Herkunft ließ nicht ahnen, zu welch mächtiger Gewalt er einmal werden würde.
 
-Waidwen lebte ein einfaches Leben in einem entlegenen Winkel von Readceras, der Sohn eines Vorlas-Bauern. Er schuftete 22&#160;Jahre lang neben seinem Vater auf den Feldern, bis sein Vater starb. Er erbte den Hof. Er spielte mit dem Gedanken, ihn zu verkaufen, doch er besaß keinerlei andere Fähigkeiten, also wurde auch er Vorlas-Bauer. In den vier Jahren nach dem Tod seines Vaters scheint in Waidwens Leben nichts Bemerkenswertes geschehen zu sein. Eines Tages aber, als er auf dem Feld arbeitete, änderte sich Waidwens Leben unwiderbringlich. Mit seinen Worten:
+Waidwen lebte ein einfaches Leben in einem entlegenen Winkel von Readceras, der Sohn eines Vorlas-Bauern. Er schuftete 22&#160;Jahre lang neben seinem Vater auf den Feldern, bis sein Vater starb. Er erbte den Hof. Er spielte mit dem Gedanken, ihn zu verkaufen, doch er besaß keinerlei andere Fähigkeiten, also wurde auch er Vorlas-Bauer. In den vier Jahren nach dem Tod seines Vaters scheint in Waidwens Leben nichts Bemerkenswertes geschehen zu sein. Eines Tages aber, als er auf dem Feld arbeitete, änderte sich Waidwens Leben unwiederbringlich. Mit seinen Worten:
 
 "Die Nacht brach herein, die Finger der Dämmerung hatten den Himmel bereits im Griff. Die Sonne war hinter dem Rand der Welt versunken und Sterne blitzten von jenseits des Schleiers hervor. Der Tag war still und die Felder lagen gebettet in Dunkelheit. Ich legte meine letzte Ernte des Tages nieder, als hinter mir plötzlich ein gleißendes Licht erstrahlte. Ich wandte mich um, Furcht in der Brust, nicht wissend, was ein solches Strahlen verursacht haben könnte.
 
@@ -8420,7 +8420,7 @@ Die Konflikte mit Kulklin setzten sich fort und gipfelten im Jahr 2398 AI in ein
     </Entry>
     <Entry>
       <ID>1565</ID>
-      <DefaultText>"Wenn der Schmied scheitert, scheitert die Rüstung. Wenn die Rüstung scheitert, fällt der Soldat." - Olrun Cyneheod, erster Gildenmeister der Schmelztiegelritter.
+      <DefaultText>"Wenn der Schmied scheitert, scheitert die Rüstung. Wenn die Rüstung scheitert, fällt der Soldat." - Olrun Cyneheod, erster Gildemeister der Schmelztiegelritter.
 
 Die Schmelztiegelritter besitzen die vielleicht faszinierendste und reichhaltigste Geschichte in ganz Eora. Heute sind sie eine der einflussreichsten Gruppierungen im Dyrwald, doch ihre Anfänge waren bescheiden. Es gibt wohl niemanden im ganzen Dyrwald, dem wirklich bewusst ist, wie viel er den Rittern zu verdanken hat.
 
@@ -8530,7 +8530,7 @@ Es gibt viele Orte in Eir&#160;Glanfath, die für die Glanfathaner "magisch" ode
 
 Seltsamerweise scheinen die Regeln innerhalb der Grenzen von Zwillingsulmen nicht so streng zu gelten, einer Siedlung, die auf einer großen Konzentration engwithanischer Gebäude errichtet wurde. Dies scheint aber wohl kein selektives Versehen der Glanfathaner zu sein, sondern Teil der ursprünglichen Abmachung.
 
-Wie dem auch sei, die Glanfathaner nahmen ihre Rolle als Wächter ernst. Sie verehrten die Stätten und entwickelten Rituale, um die Ruinen zu bewachen und zu beschützen. Mit der Zeit wurden diese Rituale für einige zu bloßer Gewohnheit, zu Formalitäten. Nicht mehr wert als andere überlieferte Legenden. Das soll nicht heißen, dass die Glanfathaner ihre Bemühungen einstellten, ihren Eid aufrechtzuhalten (siehe den Abschnitt über die Zehnjahresverträge in meinem Buch über Admeth Hadret), doch die bedingungslose Hingabe an den Eid schwankte von Stamm zu Stamm und von Clan zu Clan. Nicht so allerdings bei den Reißzähnen. Die Reißzähne sind eine Gruppe, die nicht durch Verwandschaft oder Gemeinschaft verbunden sind, sondern durch ihren Glauben. Von allen Gruppen in Eir&#160;Glanfath scheinen die Reißzähne sich der Einhaltung des Versprechens, das ihre Ahnen den Engwithanern machten, am stärksten verschrieben zu haben.
+Wie dem auch sei, die Glanfathaner nahmen ihre Rolle als Wächter ernst. Sie verehrten die Stätten und entwickelten Rituale, um die Ruinen zu bewachen und zu beschützen. Mit der Zeit wurden diese Rituale für einige zu bloßer Gewohnheit, zu Formalitäten. Nicht mehr wert als andere überlieferte Legenden. Das soll nicht heißen, dass die Glanfathaner ihre Bemühungen einstellten, ihren Eid aufrechtzuhalten (siehe den Abschnitt über die Zehnjahresverträge in meinem Buch über Admeth Hadret), doch die bedingungslose Hingabe an den Eid schwankte von Stamm zu Stamm und von Clan zu Clan. Nicht so allerdings bei den Reißzähnen. Die Reißzähne sind eine Gruppe, die nicht durch Verwandtschaft oder Gemeinschaft verbunden sind, sondern durch ihren Glauben. Von allen Gruppen in Eir&#160;Glanfath scheinen die Reißzähne sich der Einhaltung des Versprechens, das ihre Ahnen den Engwithanern machten, am stärksten verschrieben zu haben.
 
 Die Tatsache, dass ihr Fanatismus und Eifer nicht so allumfassend sind, wie manche glauben, macht sie nicht weniger gefährlich. Die Reißzähne sind nicht dafür bekannt zu verhandeln, wenn sie sich im Recht fühlen. Wenn sie der Meinung sind, man habe eine heilige Stätte entweiht, so erfolgen ihr Urteil und ihre Strafe schnell und hart. Berichte über die Angriffe der Reißzähne sind bereits in Unterlagen aus der Zeit der ersten Erkundungen Eir&#160;Glanfath&#2060;s zu finden. Selbst der kleinste Verstoß rechtfertigt in ihren Augen eine Hinrichtung.
 
@@ -8653,7 +8653,7 @@ Niemals werde ich meine Begegnung mit den Trollen im Land der Lebenden vergessen
 
 Insekten
 
-Ich habe sie zwar selbst nie gesehen, doch ich habe Berichte von riesigen Insekten im Land der Lebenden gehört. Hundertfüßler, Fliegen, Moskitos und Hornissen zehnmal so groß wie sonstwo! Man stelle sich vor, man hat gerade sein Lager aufgeschlagen. Neben dem Zelt brennt ein gemütliches Feuer. Im Kochtopf köchelt ein schmackhaftes Abendessen leicht vor sich hin. Man setzt sich nieder, um nach einem beschwerlichen Tag endlich ein wenig zu entspannen. Man spürt ein Kitzeln an den Füßen, beharrlich und anhaltend. Man greift nach unten und berührt etwas Hartes, Langes, Wendiges, das sich um seinen Stiefel gewunden hat. Man blickt hinab und sieht einen Hundertfüßler so groß wie der eigene Arm, der gemächlich über die eigenen Füße krabbelt, um auf die andere Seite des Lagers zu gelangen. Man würde wohl schleunigst sein Lager wieder abbrechen, was? Genau das tat mein Freund, als er bemerkte, dass er sein Feuer neben einem Hundertfüßlernest entzündet hatte.
+Ich habe sie zwar selbst nie gesehen, doch ich habe Berichte von riesigen Insekten im Land der Lebenden gehört. Hundertfüßer, Fliegen, Moskitos und Hornissen zehnmal so groß wie sonstwo! Man stelle sich vor, man hat gerade sein Lager aufgeschlagen. Neben dem Zelt brennt ein gemütliches Feuer. Im Kochtopf köchelt ein schmackhaftes Abendessen leicht vor sich hin. Man setzt sich nieder, um nach einem beschwerlichen Tag endlich ein wenig zu entspannen. Man spürt ein Kitzeln an den Füßen, beharrlich und anhaltend. Man greift nach unten und berührt etwas Hartes, Langes, Wendiges, das sich um seinen Stiefel gewunden hat. Man blickt hinab und sieht einen Hundertfüßer so groß wie der eigene Arm, der gemächlich über die eigenen Füße krabbelt, um auf die andere Seite des Lagers zu gelangen. Man würde wohl schleunigst sein Lager wieder abbrechen, was? Genau das tat mein Freund, als er bemerkte, dass er sein Feuer neben einem Hundertfüßernest entzündet hatte.
 
 Pflanzen
 
@@ -8837,13 +8837,13 @@ Die Grafen wählten Graf Edrang Hadret zum Gréf, um den glanfathanischen Angrif
     </Entry>
     <Entry>
       <ID>1581</ID>
-      <DefaultText>Nach dem Krieg des Zerbrochenen Steins herrschte 21&#160;Jahre lang Friede und Wohlstand. Abgesehen von gelegentlichen Sklavenaufständen oder Grenzstreitigkeiten geschah bis zum Jahr 2652 AI nichts Bemerkenswertes. Einige der Grafen des Dyrwalds waren es leid, von den Verträgen eingeschränkt zu sein. Ermutigt durch kaiserliche Quellen widersetzten sie sich den Dekreten und sandten Truppen aus, um die Ruinen im Dyrwald zu plündern. Die Reaktion der Glanfathaner kam nicht sofort, doch als sie schließlich kam, war sie brutal und blutig. Es kam zu einem Sklavenaufstand und Regd übernahm wieder das Kommando über seine Guerillakämpfer. Auch ein Kontingent von Delemgan schloss sich den Truppen an, so dass die Kämpfe in den Wäldern für die Soldaten des Drywalds noch tödlicher wurden.
+      <DefaultText>Nach dem Krieg des Zerbrochenen Steins herrschte 21&#160;Jahre lang Friede und Wohlstand. Abgesehen von gelegentlichen Sklavenaufständen oder Grenzstreitigkeiten geschah bis zum Jahr 2652 AI nichts Bemerkenswertes. Einige der Grafen des Dyrwalds waren es leid, von den Verträgen eingeschränkt zu sein. Ermutigt durch kaiserliche Quellen widersetzten sie sich den Dekreten und sandten Truppen aus, um die Ruinen im Dyrwald zu plündern. Die Reaktion der Glanfathaner kam nicht sofort, doch als sie schließlich kam, war sie brutal und blutig. Es kam zu einem Sklavenaufstand und Regd übernahm wieder das Kommando über seine Guerillakämpfer. Auch ein Kontingent von Delemgan schloss sich den Truppen an, so dass die Kämpfe in den Wäldern für die Soldaten des Dyrwalds noch tödlicher wurden.
 
-Edrang war zu dieser Zeit schon viel zu alt, um den Dyrwald in den Krieg zu führen. Er schickte seinen Sohn Admeth an seiner Statt. Admeth besaß das taktische Geschick seines Vaters. Er setzte den Wald am Fluss Isce Uar in Brand und versperrte den fliehenden Truppen den Weg. Einige der Glanfathaner konnten entkommen, doch Tausende starben in dem Inferno. Regd wurde gefangen genommen und nach Neu-Heomar gebracht. Mehrere Monate lang setzte Admeth immer wieder diese Taktik ein, um die Glanfthaner und Delemgan vom Schlachtfeld zu treiben. Der gesamte Krieg dauerte weniger als ein Jahr. Am Ende obsiegte der Dyrwald, allerdings zu einem grauenhaften Preis. Dieser Konflikt ging als der Krieg der Schwarzen Bäume in die Geschichte ein.
+Edrang war zu dieser Zeit schon viel zu alt, um den Dyrwald in den Krieg zu führen. Er schickte seinen Sohn Admeth an seiner Statt. Admeth besaß das taktische Geschick seines Vaters. Er setzte den Wald am Fluss Isce Uar in Brand und versperrte den fliehenden Truppen den Weg. Einige der Glanfathaner konnten entkommen, doch Tausende starben in dem Inferno. Regd wurde gefangen genommen und nach Neu-Heomar gebracht. Mehrere Monate lang setzte Admeth immer wieder diese Taktik ein, um die Glanfathaner und Delemgan vom Schlachtfeld zu treiben. Der gesamte Krieg dauerte weniger als ein Jahr. Am Ende obsiegte der Dyrwald, allerdings zu einem grauenhaften Preis. Dieser Konflikt ging als der Krieg der Schwarzen Bäume in die Geschichte ein.
 
 Im Jahr 2654 erlebte der Dyrwald eine Tragödie - Edrang, dessen Gesundheit immer weiter nachgelassen hatte, verlor die Kraft und kehrte in den Kreislauf zurück. Regd, der im Laufe der Jahre einen widerwilligen Respekt für seinen Widersacher entwickelt hatte, ließ Admeth aus der Gefangenschaft in Neu-Heomar sein ehrliches Beileid aussprechen. Admeth folgte auf den Thron seines Vaters und wurde Gréf des Dyrwalds. Den anderen Grafen missfiel diese Entwicklung. Sie begannen, sich Admeths Dekreten öffentlich zu widersetzen. Im Jahr 2662 AI hatte Admeth genug von den widerspenstigen Grafen. Er konnte auf die Unterstützung der neuen vailianischen Ducs und des einfachen Volks im Dyrwald zählen (schließlich hatte er es vor den Glanfathanern gerettet) und stellte dem Fercönyng von Aedyr ein Ultimatum. Er forderte, dass er zum Gréf-Palatin gemacht werden solle. Damit besäße er die Autorität und Macht über alle Grafen, ihre Besitztümer und ihre Titel. Der Dyrwald würde kein Gréfram mehr sein, sondern ein Palatinat. Der Fercönyng, der sich nicht mit einer Rebellion herumschlagen wollte, während er versuchte, die Kontrolle über den Vorlas-Handel in Readceras zu gewinnen, willigte zähneknirschend in Admeths Forderungen ein. Admeth nutzte seine neue Macht, um die Grafen spuren zu lassen. Im Tausch gegen seine Macht investierte Admeth Zeit und Geld in alle Häfen des Dyrwalds, um den Handelsverkehr zu steigern. Das wiederum erhöhte das Einkommen des Fercönyngs.
 
-Unter Admeths Herrschaft erlebte der Dyrwald sieben produktive und profitable Jahre. Im Jahr 2662 AI gelang ihm, was schon seit vielen Jahren erfolglos versucht worden war - er beendete die Sklaverei im Dyrwald. Er handelte die Zehnjahresverträge aus, deren Name sich dadurch erklärt, dass sie zehn Jahre nach dem Ende des Kriegs der Schwarzem Bäume entstanden. Es wurde ein Zeitplan für die Freilassung der Sklaven vereinbart. Die Eigentümer sollten für jeden freigelassenen Sklaven mit Geld oder Land entschädigt werden. Weigerten sie sich, ihre Sklaven freizulassen, so sollten sie ihnen weggenommen werden und die Eigentümer mit einer Geldstrafe belegt. Im Gegenzug sollten die Glanfathaner den Handel mit dem Dyrwald eröffnen und einige ihrer Gebiete an die Regierung des Dyrwalds abtreten (was in der Praxis bedeutete, dass sie akzeptieren würden, dass die Dyrwäldler dort schon lebten und herrschten). Hunderte von Sklavenbesitzern versuchten zu rebellieren. Admeth hatte diese Reaktion erwartet. Der Aufstand wurde schnell niedergeschlagen. Anschließend ließ Admeth im Volk Propaganda verbreiten, was sowohl die Küferaustände aus auch ihre Anstifter in viel schlechterem Licht darstellte als sie wirklich waren. Diese Taktik ging auf und es gab keine Unruhen mehr.</DefaultText>
+Unter Admeths Herrschaft erlebte der Dyrwald sieben produktive und profitable Jahre. Im Jahr 2662 AI gelang ihm, was schon seit vielen Jahren erfolglos versucht worden war - er beendete die Sklaverei im Dyrwald. Er handelte die Zehnjahresverträge aus, deren Name sich dadurch erklärt, dass sie zehn Jahre nach dem Ende des Kriegs der Schwarzem Bäume entstanden. Es wurde ein Zeitplan für die Freilassung der Sklaven vereinbart. Die Eigentümer sollten für jeden freigelassenen Sklaven mit Geld oder Land entschädigt werden. Weigerten sie sich, ihre Sklaven freizulassen, so sollten sie ihnen weggenommen werden und die Eigentümer mit einer Geldstrafe belegt. Im Gegenzug sollten die Glanfathaner den Handel mit dem Dyrwald eröffnen und einige ihrer Gebiete an die Regierung des Dyrwalds abtreten (was in der Praxis bedeutete, dass sie akzeptieren würden, dass die Dyrwäldler dort schon lebten und herrschten). Hunderte von Sklavenbesitzern versuchten zu rebellieren. Admeth hatte diese Reaktion erwartet. Der Aufstand wurde schnell niedergeschlagen. Anschließend ließ Admeth im Volk Propaganda verbreiten, was sowohl die Küferaustände als auch ihre Anstifter in viel schlechterem Licht darstellte als sie wirklich waren. Diese Taktik ging auf und es gab keine Unruhen mehr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8858,7 +8858,7 @@ Unter Admeths Herrschaft erlebte der Dyrwald sieben produktive und profitable Ja
     </Entry>
     <Entry>
       <ID>1584</ID>
-      <DefaultText>Die Beseelung, die unter aedryanischer Herrschaft verboten worden war, war nach Hadrets Rebellion rechtlich gesehen kein Tabu mehr. Akademiker begannen im Jahr 2681 AI damit, sie intensiv zu studieren. Bis zum Jahr 2697 AI gab es fast 40 Akademiker, die aktiv in dieser Disziplin forschten, sowohl im Dyrwald als auch in den Vailianischen Republiken - obwohl es bis dahin noch keinerlei nennenswerte Ergebnisse gegeben hatte. Im Jahr 2704 AI kam es zu einem tragischen Durchbruch, wenn man das so sagen kann. Ein Beseeler in Baelreach zertrümmerte versehentlich die Seelen von etwa einem Dutzend Freiwilligen, die ihm geholfen hatten. Als Vergeltung für ihren Tod stürmten die Bewohner der Gegend das Haus des Beseelers und töteten ihn. Der Graf der Region wollte keine Ressourcen verschwenden und das Volk nicht noch weiter erzürnen. Er ließ nicht nach dem Anführer der Selbstjustiz übenden Menge suchen - ließ aber auch die Beseelung nicht verbieten. Um ihre Sicherheit zu gewährleisten, zogen die meisten Beseeler aus den ländlichen Gebieten, in denen sie ihre Forschungen unternahmen, nach Trutzbucht. Viele von ihnen wählten den aufstrebenden und wohlhabenden Distrikt Farnheim als ihre neue Heimat. 
+      <DefaultText>Die Beseelung, die unter aedyranischer Herrschaft verboten worden war, war nach Hadrets Rebellion rechtlich gesehen kein Tabu mehr. Akademiker begannen im Jahr 2681 AI damit, sie intensiv zu studieren. Bis zum Jahr 2697 AI gab es fast 40 Akademiker, die aktiv in dieser Disziplin forschten, sowohl im Dyrwald als auch in den Vailianischen Republiken - obwohl es bis dahin noch keinerlei nennenswerte Ergebnisse gegeben hatte. Im Jahr 2704 AI kam es zu einem tragischen Durchbruch, wenn man das so sagen kann. Ein Beseeler in Baelreach zertrümmerte versehentlich die Seelen von etwa einem Dutzend Freiwilligen, die ihm geholfen hatten. Als Vergeltung für ihren Tod stürmten die Bewohner der Gegend das Haus des Beseelers und töteten ihn. Der Graf der Region wollte keine Ressourcen verschwenden und das Volk nicht noch weiter erzürnen. Er ließ nicht nach dem Anführer der Selbstjustiz übenden Menge suchen - ließ aber auch die Beseelung nicht verbieten. Um ihre Sicherheit zu gewährleisten, zogen die meisten Beseeler aus den ländlichen Gebieten, in denen sie ihre Forschungen unternahmen, nach Trutzbucht. Viele von ihnen wählten den aufstrebenden und wohlhabenden Distrikt Farnheim als ihre neue Heimat. 
 
 In den nächsten 24&#160;Jahren wurde die Beseelung zwar weiter erforscht und es gab auch einige kleinere Durchbrüche, doch je mehr die Forscher lernten, desto teurer und komplizierter wurde ihre Arbeit. Die meisten Beseeler konnten ihre Forschungen nicht ohne Spenden von reichen Personen und Organisationen finanzieren. Im Jahr 2737 AI drangen einige Beseeler in die verbotenen Ruinen von Eir&#160;Glanfath an. Sie waren verzweifelt und sahen keinen anderen Weg, in ihrer Arbeit Fortschritte zu machen. Sie entdeckten, dass es in einigen Stätten seltsame Artefakte gab, die im Zusammenhang mit der Seelenessenz zu stehen schienen. Sie begannen, Experimente mit diesen Artefakten anzustellen. Trotz ihrer anhaltenden Bemühungen konnten sie nicht genau in Erfahrung, was sie da eigentlich entdeckt hatten. Schließlich wurden sie von den Glanfathanern entdeckt, die einige von ihnen gefangen nahmen und forderten, dass man sie für ihre Verbrechen bestrafe. Die Behörden des Dyrwalds hatten keine andere Wahl, wenn sie die Verträge einhalten und den Frieden wahren wollten - sie ließen zu, dass die Beseeler nach alter glanfathanischer Tradition hingerichtet wurden. Das veranlasste den Duc dazu, ein weiteres Dekret zu erlassen - die Erforschung und Ausübung der Beseelung an heiligen glanfathanischen Stätten - oder nur in ihrer Nähe - sollte fortan mit dem Tod bestraft werden.
 
@@ -8891,7 +8891,7 @@ Zwei Jahre später, im Jahr 2664 AI, fand der Fercönyng Verbündete, die bereit
 
 Mit seinem neuen Wissen bewaffnet arbeitete Admeth mit Galven Medhra (der neuen Anführerin der Glanfathaner) und den ländlichen Gemeinden des Dyrwalds zusammen, um zu verhindern, dass die Agenten des Fercönyngs die Ruinen erneut betraten. Es entwickelte sich ein Tauziehen zwischen den beiden Gruppen, die beide durch politische, wirtschaftliche und militärische Manöver versuchten, die Oberhand zu gewinnen. Der Fercönyng war in diesem Spiel aber im Nachteil, da er seine Autorität lieber durchsetzen wollte, ohne einen Aufstand auszulösen.
 
-Schließlich hatte Admeth genug. Er überzeugte sieben der neun Grafen, sich ihm anzuschließen und ihren Treueschwur gegenüber dem Fercönyng zu brechen. Sie erklärten ihre Unabhängigkeit und verkündeten, dass sie sich selbst regieren würden, genau wie die Vailianischen Republiken es zwanzig Jahre zuvor getan hatten. Admeth sagte dem Volk, er habe genug von einer Politik, die den Adel reich machte, während sie das Volk des Dyrwalds in Gefahr brachte. Er erklärte sich zum Duc (erneut nach dem Vorbild der Vailianischen Republiken) und nannte den Dyrwald ein "freies" Palatinat. So begann im Jahr 2668 AI der Widerstandskrieg. Der Krieg dauerte vier Jahre und führte zu unzähligen Toten, darunter auch Admeth selbst. Die Dyrwäldler konnten aber gemeinsam mit ihren glanfathanischen Verbündeten den Sieg erringen. Glanfathanische Astrologen gingen zusammen mit den dyrwäldlischen Truppen und Mitgliedern der eilig einberufenen Miliz der Schmelztiegelritter als Sieger aus der Schlacht von Trutzbucht hervor - der letzten Schlacht des Krieges, die den Dyrwald von der Herrschaft des aedyranischen Reichs befreite. Sieben der neun Grafen des Dyrwalds überlebten und unterzeichneten Verträge mit dem Fercönyng von Aedyr. Der Krieg verlieh dem Dyrwald ein größeres Gefühl der Gemeinschaft zwischen seinen Bürgern und seinen glanfathanischen Verbündeten. Admeth Hadret wurde von beiden Gruppen verehrt und der Dyrwald erlebte zum ersten Mal eine landesweite Gemeinschaft der Unabhängigkeit, Hartnäckigkeit und Opferbereitschaft. Yenwald und Cwynsrun wurden aufgelöst und in die umliegenden Grafschaften integriert, womit derer sieben übrig blieben - Helstor, Der Griff, Tenferths, Norwaech, Kaltwasser, Aschfall und Baelreach. Neu-Dunryd wurde in Trutzbucht umbenannt und wurde zum Machtsitz des neuen Ducs in Baelreach. Die Herrschaft des neuen Ducs begann im Jahr 2672 AI.</DefaultText>
+Schließlich hatte Admeth genug. Er überzeugte sieben der neun Grafen, sich ihm anzuschließen und ihren Treueschwur gegenüber dem Fercönyng zu brechen. Sie erklärten ihre Unabhängigkeit und verkündeten, dass sie sich selbst regieren würden, genau wie die Vailianischen Republiken es zwanzig Jahre zuvor getan hatten. Admeth sagte dem Volk, er habe genug von einer Politik, die den Adel reich machte, während sie das Volk des Dyrwalds in Gefahr brachte. Er erklärte sich zum Duc (erneut nach dem Vorbild der Vailianischen Republiken) und nannte den Dyrwald ein "freies" Palatinat. So begann im Jahr 2668 AI der Widerstandskrieg. Der Krieg dauerte vier Jahre und führte zu unzähligen Toten, darunter auch Admeth selbst. Die Dyrwäldler konnten aber gemeinsam mit ihren glanfathanischen Verbündeten den Sieg erringen. Glanfathanische Astrologen gingen zusammen mit den dyrwäldlerischen Truppen und Mitgliedern der eilig einberufenen Miliz der Schmelztiegelritter als Sieger aus der Schlacht von Trutzbucht hervor - der letzten Schlacht des Krieges, die den Dyrwald von der Herrschaft des aedyranischen Reichs befreite. Sieben der neun Grafen des Dyrwalds überlebten und unterzeichneten Verträge mit dem Fercönyng von Aedyr. Der Krieg verlieh dem Dyrwald ein größeres Gefühl der Gemeinschaft zwischen seinen Bürgern und seinen glanfathanischen Verbündeten. Admeth Hadret wurde von beiden Gruppen verehrt und der Dyrwald erlebte zum ersten Mal eine landesweite Gemeinschaft der Unabhängigkeit, Hartnäckigkeit und Opferbereitschaft. Yenwald und Cwynsrun wurden aufgelöst und in die umliegenden Grafschaften integriert, womit derer sieben übrig blieben - Helstor, Der Griff, Tenferths, Norwaech, Kaltwasser, Aschfall und Baelreach. Neu-Dunryd wurde in Trutzbucht umbenannt und wurde zum Machtsitz des neuen Ducs in Baelreach. Die Herrschaft des neuen Ducs begann im Jahr 2672 AI.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8927,7 +8927,7 @@ Vorlas-Felder wurden nördlich der Wälder des Dyrwalds angelegt, doch durch die
 
 Da der Fercönyng noch immer versuchte, sich einen Namen im Färbemittelhandel zu machen, konnte er nicht angemessen reagieren, als Admeth Hadret sein Ultimatum stellte. Um eine Rebellion zu vermeiden und sich Zeit zu verschaffen, die Vorlas-Höfe in Readceras zu überwachen, gab der Fercönyng nach und machte Admeth zum Gréf-Palatinen. Im Gegenzug investierte Admeth Zeit und Ressourcen in die Handels- und Transportwege des Dyrwalds, was dem Fercönyng ein höheres Einkommen einbrachte.
 
-Sieben Jahre lang versorgte der Dyrwald Aedyr mit regelmäßigen Einnahmen, so dass der Fercönyng Zeit hatte, sein Handelssystem in Readceras zu festigen. Da die Aufmerksamkeit des Fercönyngs auf andere Dinge gerichtet war, ging Admeth die Zehnjahresverträge ein, mit denen er die Sklaverei im Dyrwald beendete und eine der Einnahmequellen der dyrwäldlichen Entdecker dauerhaft zum Versiegen brachte - die Artefakte aus den Ruinen, die im ganzen Dyrwald zu finden sind. Zu dieser Zeit hatte das Wort des Fercönyngs für die Bewohner des Dyrwalds fast keinen Wert mehr. Admeth Hadret hatte ihn als ihren wahren Anführer ersetzt.
+Sieben Jahre lang versorgte der Dyrwald Aedyr mit regelmäßigen Einnahmen, so dass der Fercönyng Zeit hatte, sein Handelssystem in Readceras zu festigen. Da die Aufmerksamkeit des Fercönyngs auf andere Dinge gerichtet war, ging Admeth die Zehnjahresverträge ein, mit denen er die Sklaverei im Dyrwald beendete und eine der Einnahmequellen der dyrwäldlerischen Entdecker dauerhaft zum Versiegen brachte - die Artefakte aus den Ruinen, die im ganzen Dyrwald zu finden sind. Zu dieser Zeit hatte das Wort des Fercönyngs für die Bewohner des Dyrwalds fast keinen Wert mehr. Admeth Hadret hatte ihn als ihren wahren Anführer ersetzt.
 
 Um Admeths Stellung zu untergraben suchte der Fercönyng Verbündete, die bereit waren, entgegen den Bedingungen des Vertrages die Ruinen zu erforschen und Artefakte daraus zu plündern. Bald besaß Aedyr wieder eine Quelle für Artefakte, die es verkaufen konnte. Als seine Agenten schließlich geschnappt worden, distanzierte der Fercönyng sich von dem Geschehen - wohl wissend, dass es keine Beweise gab, die zu ihm zurückführten.
 
@@ -8963,7 +8963,7 @@ Wenn einmal ein Pfad gewählt ist, verbringt der Ritter sein Leben mit der Ausbi
 
 Marschall und Schmelzer
 
-Nach einiger Zeit der Ausbildung können herausragende Ritter, die wahre Führungsqualitäten und hohes Potenzial bewiesen haben, in den nächsten Rang aufsteigen. Ein Ritter des Körpers wird zum Marschall, ein Ritter der Seele zum Schmelzer. Er befehligt von nun an eine kleine Gruppe von Rittern der Ränge Kommandant beziehungsweise Schmeidemeister und darunter. Er ist verantwortlich für die Rekrutierung, Initiierung und Ausbildung neuer Knappen. Viele Ritter wollen nicht in diesen Rang oder darüber hinaus aufsteigen, weil die Rolle weniger praktisch und eher beratender Natur ist. Marschalle sind an ihren violetten Umhängen zu erkennen, Schmelzer tragen einen goldenen Umhang. 
+Nach einiger Zeit der Ausbildung können herausragende Ritter, die wahre Führungsqualitäten und hohes Potenzial bewiesen haben, in den nächsten Rang aufsteigen. Ein Ritter des Körpers wird zum Marschall, ein Ritter der Seele zum Schmelzer. Er befehligt von nun an eine kleine Gruppe von Rittern der Ränge Kommandant beziehungsweise Schmiedemeister und darunter. Er ist verantwortlich für die Rekrutierung, Initiierung und Ausbildung neuer Knappen. Viele Ritter wollen nicht in diesen Rang oder darüber hinaus aufsteigen, weil die Rolle weniger praktisch und eher beratender Natur ist. Marschälle sind an ihren violetten Umhängen zu erkennen, Schmelzer tragen einen goldenen Umhang. 
 
 Fürstjustiziar und Großtemplus
 
@@ -8989,12 +8989,12 @@ Der Fercönyng erkannte, dass er die Kontrolle über sein eigenes Palatinat verl
 
 Mit Hilfe der glanfathanischen Anführer fand Admeth Beweise, die zum Fercönyng als Drahtzieher der Plünderungen führten. Das war der Anfang vom Ende der aedyranischen Herrschaft im Dyrwald. In den nächsten sieben Jahren versuchten Admeth und der Fercönyng, durch politische, wirtschaftliche und militärische Manöver einen Vorteil über einander zu erlangen. Im Jahr 2668 AI erklärte Admeth, dass der Dyrwald genug hatte. Er verkündete, dass der Dyrwald die Autorität des Fercönyngs nicht mehr anerkannte, sondern nun ein freies Land sei, das sich selbst regieren würde. Das löste den Widerstandskrieg aus, der fünf Jahre andauerte.
 
-Das Ergebnis des Kriegs war die Freiheit des Drywalds, und auch wenn Duc Hadret vor Kriegsende starb, so gilt er für die Dyrwäldler doch als Gründer ihres Landes.</DefaultText>
+Das Ergebnis des Kriegs war die Freiheit des Dyrwalds, und auch wenn Duc Hadret vor Kriegsende starb, so gilt er für die Dyrwäldler doch als Gründer ihres Landes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1600</ID>
-      <DefaultText>Diese seltsame, mit einem Kamm versehene Kapuze wird von Skaen-Priestern getragen. Auf der Vorderseite der Maske wurde Blut in dünnen Spuren von oben nach unten verschmiert, eine fahle Reflektion der ausgehackten, blinden Augen des gefürchteten Bildnisses. Der Holzrahmen und die grausamen Stacheln sind die einzigen extravaganten Elemente. Der Rest der Kapuze ist aus grobem Material einfach gefertigt, wie es sich für Anhänger des Stillen Sklaven gehört.</DefaultText>
+      <DefaultText>Diese seltsame, mit einem Kamm versehene Kapuze wird von Skaen-Priestern getragen. Auf der Vorderseite der Maske wurde Blut in dünnen Spuren von oben nach unten verschmiert, eine fahle Reflexion der ausgehackten, blinden Augen des gefürchteten Bildnisses. Der Holzrahmen und die grausamen Stacheln sind die einzigen extravaganten Elemente. Der Rest der Kapuze ist aus grobem Material einfach gefertigt, wie es sich für Anhänger des Stillen Sklaven gehört.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9334,7 +9334,7 @@ MÄNNLICH: Das Urteil ist endgültig. Die Entscheidung ist gefallen. (Er wendet 
     </Entry>
     <Entry>
       <ID>1648</ID>
-      <DefaultText>Dieser Leinensack enthält den Kopf von Naroc, Anführer der Norwaech-Plünderer, die du bei Cliaban Rilag besiegt hast.</DefaultText>
+      <DefaultText>Dieser Leinensack enthält den Kopf von Naroc, Anführer der Norwaech-Plünderer, die du bei Clîaban Rilag besiegt hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9845,7 +9845,7 @@ Magran, führe uns zu der Schlacht, die gerecht ist. Lass uns dein Feuer sein, w
 
 Ich trage die Glücksbringer des Wolkensingers - des Vogels, von dem mir träumte, meine Mutter habe sich in ihn verwandelt. Mein gefiederter Schmuck sieht prunkhaft und unkleidsam aus, doch er ist ein Leuchtfeuer für Frauen in Not, dass ich eine ausgebildete Hebamme bin, von Hylea gesegnet und jede Note des Lebenslieds lebend. Die Königin der Vögel wünscht, dass wir neues Leben in die Welt geleiten - nicht es beenden, wie die anderen Götter es oft begehren.
 
-Ein Anhänger Magrans verspottete einst meinen Glauben. Er sagte, ich würde Pinsel und Vögel verehren - mickrige Dinge unter der Würde der Götter. Ich verabscheue die anderen Götter nicht, oder die brutalen Notwendigkeiten, die sie überwachen müssen - doch ist nicht die Sprache, die Liebe, die Kunst, die Kreativität das, was uns von bloßen Tieren unterscheidet? Durch Hylea können wir uns über unser wildisches, bestialisches Wesen erheben. Es amüsiert mich oft, dass Besucher, die unsere heiligen Volieren sehen, fragen: "Sehr hübsch, aber wo ist der WAHRE Tempel Hyleas?". Vielleicht glauben sie, dass heiliger Boden bedrückende Steinmauern erfordert und Decken, welche den Himmel verbergen. Sie erkennen nicht, dass die Vogelkönigin nicht auf Zeremoniell besteht. Sie zeigt sich im Gesang der Vögel und in der Schönheit des allgegenwärtigen freien Himmels. Hylea zieht die Anbetung zweier singender Kinder eintausend Bittstellern vor, die stumm für den Sieg beten. Die Himmelsmutter verlangt so wenig von uns, und doch so viel - wir haben den Auftrag, jede Note des Lebenslieds zu leben ... es überrascht mich, wie viele daran scheitern, diese göttliche Bestimmung anzunehmen.</DefaultText>
+Ein Anhänger Magrans verspottete einst meinen Glauben. Er sagte, ich würde Pinsel und Vögel verehren - mickrige Dinge unter der Würde der Götter. Ich verabscheue die anderen Götter nicht, oder die brutalen Notwendigkeiten, die sie überwachen müssen - doch ist nicht die Sprache, die Liebe, die Kunst, die Kreativität das, was uns von bloßen Tieren unterscheidet? Durch Hylea können wir uns über unser wildes, bestialisches Wesen erheben. Es amüsiert mich oft, dass Besucher, die unsere heiligen Volieren sehen, fragen: "Sehr hübsch, aber wo ist der WAHRE Tempel Hyleas?". Vielleicht glauben sie, dass heiliger Boden bedrückende Steinmauern erfordert und Decken, welche den Himmel verbergen. Sie erkennen nicht, dass die Vogelkönigin nicht auf Zeremoniell besteht. Sie zeigt sich im Gesang der Vögel und in der Schönheit des allgegenwärtigen freien Himmels. Hylea zieht die Anbetung zweier singender Kinder eintausend Bittstellern vor, die stumm für den Sieg beten. Die Himmelsmutter verlangt so wenig von uns, und doch so viel - wir haben den Auftrag, jede Note des Lebenslieds zu leben ... es überrascht mich, wie viele daran scheitern, diese göttliche Bestimmung anzunehmen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9882,7 +9882,7 @@ Ein Anhänger Magrans verspottete einst meinen Glauben. Er sagte, ich würde Pin
     <Entry>
       <ID>1729</ID>
       <DefaultText>Mein Sohn,
-morgen werde ich zum Bildnis. Morgen werde ich zu Skaens Verköperung auf Eora. Morgen erstickt mein Meister an seiner eigenen Peitsche.
+morgen werde ich zum Bildnis. Morgen werde ich zu Skaens Verkörperung auf Eora. Morgen erstickt mein Meister an seiner eigenen Peitsche.
 
 Monatelange haben wir uns als geheime Konklave getroffen, um den Niedergang unseres Grundherrn zu planen, während wir die Felder bestellt haben, als wären unsere Herzen voller Zufriedenheit. Skaen lehrt uns, mit dem Verstand zu planen, während unser Gesicht unbeteiligt bleibt, unergründlich - gerecht können nur jene kämpfen, die Armeen besitzen. Der Stille Sklave ist unser Schleifstein, unser Fokus - indem wir ihn anbeten, findet unsere Sache Fokus, Klarheit und Möglichkeit! Morgen erstickt mein Meister an seiner eigenen Peitsche.
 
@@ -10672,7 +10672,7 @@ Ich breche am Morgen nach Cilant Lîs auf. Dann muss ich nur noch das Relief fin
     </Entry>
     <Entry>
       <ID>1870</ID>
-      <DefaultText>In den Vailianischen Republiken ist man stolz auf seine aufwändige Kleidung. Als Mittelpunkt eines riesigen Handelsimperiums haben die Republiken Zugang zu unzähligen Textilien und Farbstoffen, die in ihrer Kleidungsindustrie zum Einsatz kommen. Die Bürger der Republiken bevorzugen dunkle Farben, aufwändige Musterung, hohe Kragen und voluminösen Ärmeln und Kniehosen.</DefaultText>
+      <DefaultText>In den Vailianischen Republiken ist man stolz auf seine aufwendige Kleidung. Als Mittelpunkt eines riesigen Handelsimperiums haben die Republiken Zugang zu unzähligen Textilien und Farbstoffen, die in ihrer Kleidungsindustrie zum Einsatz kommen. Die Bürger der Republiken bevorzugen dunkle Farben, aufwendige Musterung, hohe Kragen und voluminösen Ärmeln und Kniehosen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10746,7 +10746,7 @@ Trotz seiner Dicke und seines Gewichts ist dieser Gürtel optisch nicht sonderli
     </Entry>
     <Entry>
       <ID>1882</ID>
-      <DefaultText>Dieser meisterhaft gefertigte, aber unscheinbare Degen stammt aus den heißfeuchten Wäldern des Cythwalds. Sein Erstbesitzer war ein unbedeutender Adliger namens Aedwyn Grundmef. Aedwyn, der in sozialen Kreisen für seine unterwürfigen Manieren und die lästige Angewohnheit bekannt war, immer zu lang zu bleiben, wenn er nicht erwünscht war, hatten an den von ihm frequentierten Höfen nur wenig Verwendung für die Klinge.
+      <DefaultText>Dieser meisterhaft gefertigte, aber unscheinbare Degen stammt aus den heiß-feuchten Wäldern des Cythwalds. Sein Erstbesitzer war ein unbedeutender Adliger namens Aedwyn Grundmef. Aedwyn, der in sozialen Kreisen für seine unterwürfigen Manieren und die lästige Angewohnheit bekannt war, immer zu lang zu bleiben, wenn er nicht erwünscht war, hatten an den von ihm frequentierten Höfen nur wenig Verwendung für die Klinge.
 
 Als Aedwyn einen unbemerkten Tod starb, ging die Klinge in den Besitz seiner jungen Nichte über, Cadend Grundmef. Letztere fand, dass die Waffe über die Eigenheiten ihres Onkels verfügte: sie war gut, um in unpassenden Momenten zu unterbrechen und jedem, mit dem sie in Kontakt kam, das Leben zu entziehen ... und schuf eine generell lästige Präsenz. Aedwyn selbst gab dem Degen den Spitznamen "Moskito" und setzte ihn regelmäßig in Hofduellen ein.
 

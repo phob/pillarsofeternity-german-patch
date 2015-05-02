@@ -321,7 +321,7 @@ Aufgrund ihrer geringen Geburtenrate spielen die Vithrack, trotz ihrer extremen 
 
 Bîaŵacs (Seelenwinde), wie man diese Stürme nennt, lassen oft solch eine Seelenfäulnis entstehen. Wenn Seelen aus Körpern entrissen und im Auge des Sturms gefangen werden, können sie sich miteinander und allen Elementarsubstanzen im Mahlstrom verbinden. Sie stellen pures Chaos und Durcheinander dar - sie zu vernichten wird als Gnade für die Seelen aufgefasst, die im Inneren gefangen sind.
 
-Die Experimentielle Erzeugung dieser Seelenfäulnis ist eine andere fragwürdige Aktivität, die Beseelern in vielen Kreisen einen schlechten Ruf eingebracht hat. Manche sehen das als gefährlich und unmenschlich, andere dagegen als ein Mittel zum Zweck. Die Erzeugung einer Seelenfäulnis wird daher von vielen verängstigten Gestandenen Beseelern vorgeworfen.</DefaultText>
+Die experimentelle Erzeugung dieser Seelenfäulnis ist eine andere fragwürdige Aktivität, die Beseelern in vielen Kreisen einen schlechten Ruf eingebracht hat. Manche sehen das als gefährlich und unmenschlich, andere dagegen als ein Mittel zum Zweck. Die Erzeugung einer Seelenfäulnis wird daher von vielen verängstigten Gestandenen Beseelern vorgeworfen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -404,7 +404,7 @@ Wie alle anderen lebenden Kreaturen verfügen sie über ein Maß an Seelenessenz
     <Entry>
       <ID>68</ID>
       <DefaultText>In den Städten des Dyrwalds haben die Irrlichter einen fast mythologischen Status und kommen in mehreren Ammenmärchen vor. Eines der beliebtesten davon deutet an, dass Irrlichter die Seelen verlorener Kinder sind, die auf ihre nächsten Leben zuwandern. In ländlichen Gebieten betrachten jene, die regelmäßig in Kontakt mit Irrlichtern kommen, diese Geschichte einigermaßen amüsiert. 
-Irrlichter sind bekannt dafür, verlassene Ruinen und andere verlorene Orte zu bewohnen. Man hält sie für neugierige Kreaturen, da sie Reisende manchmal für kurze Zeit verfolgen. Obwohl Irrlichter normalerweise friedlich sind, reagieren sie auf Provokationen mit notorischen Aggressivität, und wenn sie eine Bedrohung ihrer Territorien wahrnehmen, verteidigen sie diese mit äußester Brutalität. Aus diesem Grund werden Irrlichter oft als das Unkraut der Geisterwelt beschrieben - schnell, zur schnellen Regeneration fähig und in großer Zahl fast nicht aufzuhalten.</DefaultText>
+Irrlichter sind bekannt dafür, verlassene Ruinen und andere verlorene Orte zu bewohnen. Man hält sie für neugierige Kreaturen, da sie Reisende manchmal für kurze Zeit verfolgen. Obwohl Irrlichter normalerweise friedlich sind, reagieren sie auf Provokationen mit notorischen Aggressivität, und wenn sie eine Bedrohung ihrer Territorien wahrnehmen, verteidigen sie diese mit äußerster Brutalität. Aus diesem Grund werden Irrlichter oft als das Unkraut der Geisterwelt beschrieben - schnell, zur schnellen Regeneration fähig und in großer Zahl fast nicht aufzuhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1134,7 +1134,7 @@ Hinweis: Es gibt einige Fähigkeiten, die Ausnahmen zu den üblichen Flankierung
 
 Alle Boni und Mali aus passiven Quellen und Waffen können addiert werden.
 
-Aktive und modale Boni (z.B. aus Fähigkeiten oder Verbrauchsgegenständen) wenden auf die jeweilige Statistik den höchsten Bonus und den niedrigsten Malus an. Wenn der Zauber eines Zauberers beispielsweise +3 auf Abwehr verleiht und die Aura eines Paladins +5, beträgt der aktive/modale Bonus +5, der Bonus von +3 verfällt. Wenn derselbe Zauber auch einen Bonus auf Macht verleiht, wird dieser dennoch angwendet (sofern er nicht von einem höheren Macht-Bonus einer anderen aktiven/modalen Quelle übertrumpft wird).
+Aktive und modale Boni (z.B. aus Fähigkeiten oder Verbrauchsgegenständen) wenden auf die jeweilige Statistik den höchsten Bonus und den niedrigsten Malus an. Wenn der Zauber eines Zauberers beispielsweise +3 auf Abwehr verleiht und die Aura eines Paladins +5, beträgt der aktive/modale Bonus +5, der Bonus von +3 verfällt. Wenn derselbe Zauber auch einen Bonus auf Macht verleiht, wird dieser dennoch angewendet (sofern er nicht von einem höheren Macht-Bonus einer anderen aktiven/modalen Quelle übertrumpft wird).
 
 Ausrüstung wendet ebenfalls den höchsten Bonus und den niedrigsten Malus auf die jeweilige Statistik an. Dazu zählen alle Gegenstände, die direkt am Charakter ausgerüstet sind, mit Ausnahme von Waffen. Ausrüstung ist eine eigenständige Kategorie, separat von aktiv/modal - daher werden die höchsten Boni und niedrigsten Mali aus jeder Kategorie addiert.
 
@@ -1261,7 +1261,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>Göttin der Ozeane, der vergessenen Dinge, des Verlusts, der Unnachgiebigkeit und der Trauer. Soll sich einst in den Mond verliebt und versucht haben, ihn zu sich zu ziehen, mit katastrophalen Folgen. Die Leute bringen Erinnungen an Dinge, die sie vergessen möchten, zu ihren Tempeln, und ihre Priester werfen diese Erinnerungsstücke ins Meer.</DefaultText>
+      <DefaultText>Göttin der Ozeane, der vergessenen Dinge, des Verlusts, der Unnachgiebigkeit und der Trauer. Soll sich einst in den Mond verliebt und versucht haben, ihn zu sich zu ziehen, mit katastrophalen Folgen. Die Leute bringen Erinnerungen an Dinge, die sie vergessen möchten, zu ihren Tempeln, und ihre Priester werfen diese Erinnerungsstücke ins Meer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1451,7 +1451,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>Nach dem Krieg des Heiligen trachteten dyrwäldische Mobs danach, alle Anhänger von Eothas zu töten, insbesondere in ländlichen Gebieten. Ausgehend von der Stadt Kaltmorg, die Waidwens Truppen angeblich widerstandslos passieren ließ, wurden Eothasianer gejagt, gefoltert und auf den Straßen ermordet.</DefaultText>
+      <DefaultText>Nach dem Krieg des Heiligen trachteten dyrwäldlerische Mobs danach, alle Anhänger von Eothas zu töten, insbesondere in ländlichen Gebieten. Ausgehend von der Stadt Kaltmorg, die Waidwens Truppen angeblich widerstandslos passieren ließ, wurden Eothasianer gejagt, gefoltert und auf den Straßen ermordet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

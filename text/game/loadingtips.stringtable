@@ -196,12 +196,12 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Mönche besitzen mächtige unbewaffnete Angriffe, können jedoch alle ihre Fähigkeiten auch mit normalen Nahkampfwaffen einsetzen. Während sie einige ihrer Fähigkeiten dann einsetzen können, wenn sie es wollen, ist es aber für viele ihrer Fähigkeiten Voraussetzung, dass sie Schaden erleiden und Wunden generieren. Disee Wunden können dann die Energie für die Spezialfähigkeiten des Mönchs bereitstellen.</DefaultText>
+      <DefaultText>Mönche besitzen mächtige unbewaffnete Angriffe, können jedoch alle ihre Fähigkeiten auch mit normalen Nahkampfwaffen einsetzen. Während sie einige ihrer Fähigkeiten dann einsetzen können, wenn sie es wollen, ist es aber für viele ihrer Fähigkeiten Voraussetzung, dass sie Schaden erleiden und Wunden generieren. Diese Wunden können dann die Energie für die Spezialfähigkeiten des Mönchs bereitstellen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Paladine besitzen eine Mischung aus offensiven und Unterstützungsfähigkeiten. Die eifrigen Auren des Paldins wirken sich dauerhaft auf alle Verbündeten in der Nähe aus. Ihre Ermunterungen belegen immer einen einzelnen Verbündeten mit einem mächtigen Effekt.</DefaultText>
+      <DefaultText>Paladine besitzen eine Mischung aus offensiven und Unterstützungsfähigkeiten. Die eifrigen Auren des Paladins wirken sich dauerhaft auf alle Verbündeten in der Nähe aus. Ihre Ermunterungen belegen immer einen einzelnen Verbündeten mit einem mächtigen Effekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,7 +421,7 @@
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Wenn du die Försterhütte bei deiner Festung baust, erhältst du Zugang zu zahlreichen Kopfgeldaufträgen. Kopfgeldquests sind herausfordernde Kampfbegegungen, die wertvolle Belohnungen einbringen können, darunter auch einzigartige Gegenstände.</DefaultText>
+      <DefaultText>Wenn du die Försterhütte bei deiner Festung baust, erhältst du Zugang zu zahlreichen Kopfgeldaufträgen. Kopfgeldquests sind herausfordernde Kampfbegegnungen, die wertvolle Belohnungen einbringen können, darunter auch einzigartige Gegenstände.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

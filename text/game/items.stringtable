@@ -5821,7 +5821,8 @@ Dieses große Schwert scheint mit Rost überzogen zu sein, doch bei näherer Bet
       <ID>1174</ID>
       <DefaultText>St. Rumbalt gehörte zu den ersten eothasianischen Pilgern, die das Angebot des Kaisers annahmen, in das entlegene Gebiet Readceras umzusiedeln. Rumbalt war ein treuer Priester des Strahlenden Gottes und galt in seiner Gemeinde als Anführer, bekannt für seine standhafte Hingabe an seine Gemeinde, aber auch für seine strenge Wachsamkeit gegen Verstöße gegen die Glaubenslehre. Seine überlieferten Predigten spiegeln diese Dualität wieder, denn er betonte die erlösende Kraft des Glaubens, während er gleichzeitig vor der strengen Bestrafung aller warnte, die Eothas' Wohlwollen ablehnten. 
 
-Die Kolonialisierungsbemühungen führten zu unmittelbaren Konflikten zwischen eothasianischen Siedlern und den eingeborenen Orlanern. Rumbalt half mit, einige brutale Angriffe auf die Siedlung abzuwehren. Schließlich aber wurde er während eines Überfalls tödlich verwundet. Augenzeugen berichten, dass Rumbalts Körper im Moment seines Todes von einem überwältigenden Lichtstrahl durchströmt wurde, der die verbleibenden orlanischen Krieger zu Boden warf oder in den Wald flüchten ließ. 
+Die Kolonialisierungsbemühungen führten zu unmittelbaren Konflikten zwischen eothasianischen Siedlern und den eingeborenen Orlanern. Rumbalt half mit, einige brutale Angriffe auf die Siedlung abzuwehren. Schließlich aber wurde er während eines Überfalls tödlich verwundet. Augenzeugen berichten, dass Rumbalts Körper im Moment seines Todes von einem überwältigenden Lichtstrahl durchströmt wurde, der die verbleibenden orlanischen Krieger zu Boden warf oder in den Wald flüchten ließ.
+ 
 Es häuften sich die Berichte, nach denen am Tag vor Rumbalts Tode große Wunder geschahen. Eothas, so hieß es, habe Rumbalt von seinem bevorstehenden Schicksal in Kenntnis gesetzt, und der Priester habe es froh und furchtlos angenommen, da er wusste, dass der Tod nur der erste Schritt seiner Wiedergeburt war. In jeder der letzten 27 Stunden seines Lebens wirkte er demnach ein Wunder, auf dass seine Gemeinde das Geschenk erkenne, mit dem Eothas ihn bedacht hatte, und Rumbalts Werk an seiner Statt weiterführe. 
 
 Anstatt den Strom der eothasianischen Siedler versiegen zu lassen, ermutigte Rumbalts Tod nur noch mehr Pilger, die Reise über das Meer zu wagen, um die letzte Ruhestätte von Eothas' treuestem Diener zu besichtigen. Die Stunden von St. Rumbalt wurde zu Ehren dieses Schutzheiligen der Umsiedlung geschmiedet. In die Klinge sind Markierungen graviert, welche die 27 Stunden vor Rumbalts Tod repräsentieren. Auf diese Weise wurde die Klinge mit der Macht des Heiligen getränkt. Es heißt, dass ein Mann, der vor dem Schwert niederkniet, den Augenblick seines Todes genau voraussehen kann.</DefaultText>
@@ -5837,7 +5838,9 @@ Er war groß, selbst für einen Aumaua, aber ein Mann der leisen Töne. Also bea
     <Entry>
       <ID>1176</ID>
       <DefaultText>Ein Zauberbuch ist das Lebensblut des magischen Repertoires eines jeden Zauberers. Diese Bücher werden aus seltenen Materialien sorgfältig und aufwendig gefertigt und können vorübergehend Fragmente freier Seelenessenz lagern, die durch das Buch kanalisiert und in Form eines Zaubers entladen wird.
+	  
 Unter Laien herrscht der Irrglaube, dass Zauberer die magischen Energien formen, die sie beherrschen. In Wahrheit formen die Seiten des Zauberbuchs die Magie. Die Kunst der Zauberei liegt in der disziplinierten Kontrolle und Manipulation des Zauberbuchs. Die fähigsten Zauberer können ihren Büchern Zauber von höchster Wirksamkeit und Stärke entlocken.
+
 Obwohl alle Zauberbücher ihre Grenzen haben, da sie aus einer begrenzten Anzahl an Seiten bestehen, tragen viele erfahrene Zauberer mehrere Zauberbücher gleichzeitig bei sich, um für alle erdenklichen Situationen gerüstet zu sein.</DefaultText>
       <FemaleText />
     </Entry>
@@ -6931,7 +6934,7 @@ Diese kniehohen Stiefel sind aus einem weichen Leder gefertigt, das dunkelviolet
 
 Verängstigt, hungrig und in dem Wissen, dass ihre Verfolger ihr auf den Fersen waren, kam sie zu einem Becken in der Form eines riesigen Hufabdrucks, gefüllt mit einer Flüssigkeit, die wie Eis schimmerte. Sie stieß ein Gebet zu Rymrgand aus und tauchte ihre Füße in die seltsame Flüssigkeit - sie tränkte ihre Stiefel mit einer Magie, die ihre Flucht beschleunigte und ihre Spuren verwischte.
 
- In der Hoffnung, ein neues Leben zu beginnen, reiste Malina zwei Monate später nach Eir&#160;Glanfath, wurde aber im Krieg der Schwarzen Bäume von einem orlanischen Brîshalgwin getötet.
+In der Hoffnung, ein neues Leben zu beginnen, reiste Malina zwei Monate später nach Eir&#160;Glanfath, wurde aber im Krieg der Schwarzen Bäume von einem orlanischen Brîshalgwin getötet.
 
 Die Stiefel bestehen aus rauem, rötlich-braunem Leder. Die linke Seite des Stiefels ist mit dem stilisierten Bild eines Walrosses versehen.</DefaultText>
       <FemaleText />
@@ -7493,7 +7496,8 @@ Du hast diesen Gegenstand im Leuchtturm von Ondras Geschenk gefunden. Der Turm w
     </Entry>
     <Entry>
       <ID>1474</ID>
-      <DefaultText>Eotens kommen in den groteskesten aller Volkssagen vor. Einst waren sie lediglich die aggressivsten und reizbarsten Oger, doch inzwischen haben Eotens sich zu gewaltigen Monstern entwickelt, die deutlich größer und sehr viel weniger intelligent sind als ihre Cousins. Eotens besitzen zwei Köpfe, von denen der eine deutlich kleiner ist als der andere. Wenn der größere Kopf außer Gefecht ist, besitzt der Eoten noch genügend Bauernschläue im kleineren, um weiterzukämpfen. 
+      <DefaultText>Eotens kommen in den groteskesten aller Volkssagen vor. Einst waren sie lediglich die aggressivsten und reizbarsten Oger, doch inzwischen haben Eotens sich zu gewaltigen Monstern entwickelt, die deutlich größer und sehr viel weniger intelligent sind als ihre Cousins. Eotens besitzen zwei Köpfe, von denen der eine deutlich kleiner ist als der andere. Wenn der größere Kopf außer Gefecht ist, besitzt der Eoten noch genügend Bauernschläue im kleineren, um weiterzukämpfen.
+	  
 Dieser Gürtel ist nach diesen Monstern benannt und verleiht dem Träger auf magische Weise eine ähnliche trotzige Hartnäckigkeit.</DefaultText>
       <FemaleText />
     </Entry>
@@ -7564,7 +7568,7 @@ Dieser ramponierte alte Ring sieht völlig gewöhnlich aus. Nachts aber erstrahl
     </Entry>
     <Entry>
       <ID>1486</ID>
-      <DefaultText>Der Druidenorden der Ovaten des Goldenen Hains ist überzeugt, dass der Ring des Wunders der Keimling eines der großen Bäume ist, die Teir Evron in Zwillingsulmen umgeben. Eines Tages, so sagen sie, wird er zu einem sogar noch mächtigeren Baum heranwachsen. Wurzelähnliche Fasern sprießen aus einer leuchtend grünen Knospe und verzweigen sich. Der Ring passt sich dem Finger des Trägers an. Ihn abzulegen kann jedoch schmerzhaft sein, da die Wurzeln sich mit dem Fleisch verbinden.</DefaultText>
+      <DefaultText>Der Druidenorden der Ovaten des Goldenen Hains ist überzeugt, dass Der Ring des Wunders der Keimling eines der großen Bäume ist, die Teir Evron in Zwillingsulmen umgeben. Eines Tages, so sagen sie, wird er zu einem sogar noch mächtigeren Baum heranwachsen. Wurzelähnliche Fasern sprießen aus einer leuchtend grünen Knospe und verzweigen sich. Der Ring passt sich dem Finger des Trägers an. Ihn abzulegen kann jedoch schmerzhaft sein, da die Wurzeln sich mit dem Fleisch verbinden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7680,7 +7684,13 @@ Edrang war zu diesem Zeitpunkt schon viel zu alt, um seine Truppen in die Schlac
 
 Der Konflikt mit den Glanfathanern dauerte noch mehrere Monate an und Admeth setzte die Taktik der verbrannten Erde noch mehrmals ein, um die feindlichen Truppen von zentralen Schlachtfeldern zu treiben. Er konnte den Konflikt beenden, noch ehe das Jahr sich zu Ende neigte. Doch die Dyrwäldler hatten sich den Sieg teuer erkauft. Admeths Taktiken führten dazu, dass der Konflikt als "Krieg der Schwarzen Bäume" in die Geschichte einging.
 
-Nach Edrangs Tod im Jahr 2654 wurde Admeth zum Gréf des Dyrwalds, zum Entsetzen des kaiserlichen Hofs und der anderen Grafen. Im Verlauf des nächsten Jahres widersetzten sie sich seiner Herrschaft bei jeder Gelegenheit. Sie wiesen seine Dekrete zurück und widersetzten sich seinen Befehlen. Als das Jahr 2655 AI anbrach, hatte Admeth genug. Obwohl ihm die Unterstützung der meisten Grafen fehlte, wurde er sowohl von den Vailianischen Ducs als auch von allen einfachen Leuten verehrt. Mithilfe dieser Unterstützung stellte er dem Fercönyng ein Ultimatum, ihm ein Palatinat zu übertragen. Der Fercönyng war nicht gewillt, sich mit einer Rebellion herumzuschlagen, während er versuchte, in Readceras einen neuen Vorlas-Handel zu etablieren. Er willigte ein. Admeth besaß nun die Autorität und rechtliche Macht über die Grafen, ihre Besitztümer und ihre Titel. Der Dyrwald war kein Gréfram mehr, sondern ein Palatinat. Diese Änderung verringerte die Macht des Fercönyngs über die Region. Dank seiner neuen Stellung hatte Admeth keine Mühe, die rebellischen Grafen spuren zu lassen. Im Tausch gegen seine Macht investierte Admeth jedoch Zeit und Geld in alle Häfen und Handelsposten des Dyrwalds, wodurch er den Handelsverkehr dramatisch steigerte. Das half den Grafen und brachte dem Fercönyng mehr Geld ein.</DefaultText>
+Nach Edrangs Tod im Jahr 2654 wurde Admeth zum Gréf des Dyrwalds, zum Entsetzen des kaiserlichen Hofs und der anderen Grafen. Im Verlauf des nächsten Jahres widersetzten sie sich seiner Herrschaft bei jeder Gelegenheit. Sie wiesen seine Dekrete zurück und widersetzten sich seinen Befehlen.
+
+Als das Jahr 2655 AI anbrach, hatte Admeth genug. Obwohl ihm die Unterstützung der meisten Grafen fehlte, wurde er sowohl von den Vailianischen Ducs als auch von allen einfachen Leuten verehrt. Mithilfe dieser Unterstützung stellte er dem Fercönyng ein Ultimatum, ihm ein Palatinat zu übertragen. Der Fercönyng war nicht gewillt, sich mit einer Rebellion herumzuschlagen, während er versuchte, in Readceras einen neuen Vorlas-Handel zu etablieren. Er willigte ein.
+
+Admeth besaß nun die Autorität und rechtliche Macht über die Grafen, ihre Besitztümer und ihre Titel. Der Dyrwald war kein Gréfram mehr, sondern ein Palatinat. Diese Änderung verringerte die Macht des Fercönyngs über die Region.
+
+Dank seiner neuen Stellung hatte Admeth keine Mühe, die rebellischen Grafen spuren zu lassen. Im Tausch gegen seine Macht investierte Admeth jedoch Zeit und Geld in alle Häfen und Handelsposten des Dyrwalds, wodurch er den Handelsverkehr dramatisch steigerte. Das half den Grafen und brachte dem Fercönyng mehr Geld ein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8593,7 +8603,9 @@ Nach ausgiebiger Erkundung erkannten sie, dass es ein kleiner Satellit mit einer
 
 Der Autor ist jedoch der Meinung, dass der Krieg in Wahrheit schon viele Jahre zuvor begonnen hatte.
 
-Nach dem Wunder des fruchtbaren Vorlas (wie es später genannt wurde) scharte Waidwen rasch Gefolgsleute um sich, die von den Geschichten von Eothas' wundersamem Propheten angezogen wurden. Seine Macht wuchs. Schließlich hatte Waidwen genügend Unterstützung gesammelt, um den kaiserlichen Gouverneur zu konfrontieren. Unterstützte von einer Gruppe von Rittern und Adligen, die sich seiner Sache angeschlossen hatten, marschierte er auf die Hauptstadt zu. Das Leben des Gouverneurs wurde verschont, er wurde jedoch gezwungen, abzutreten und die Kolonie zu verlassen. Das geschah nicht, weil der Gouverneur sich einsichtig zeigte oder rasch beigab, sondern allein deswegen, was geschah, als Waidwen den Palast des Gouverneurs betrat. Als Waidwen sich dem Gouverneur näherte, verwandelte sich sein Körper allen Augenzeugenberichten zufolge in etwas, das nicht mehr menschlich war. Sein Fleisch begann zu leuchten und sein Kopf verwandelte sich in pures, gleißendes Licht.
+Nach dem Wunder des fruchtbaren Vorlas (wie es später genannt wurde) scharte Waidwen rasch Gefolgsleute um sich, die von den Geschichten von Eothas' wundersamem Propheten angezogen wurden. Seine Macht wuchs. Schließlich hatte Waidwen genügend Unterstützung gesammelt, um den kaiserlichen Gouverneur zu konfrontieren.
+
+Unterstützte von einer Gruppe von Rittern und Adligen, die sich seiner Sache angeschlossen hatten, marschierte er auf die Hauptstadt zu. Das Leben des Gouverneurs wurde verschont, er wurde jedoch gezwungen, abzutreten und die Kolonie zu verlassen. Das geschah nicht, weil der Gouverneur sich einsichtig zeigte oder rasch beigab, sondern allein deswegen, was geschah, als Waidwen den Palast des Gouverneurs betrat. Als Waidwen sich dem Gouverneur näherte, verwandelte sich sein Körper allen Augenzeugenberichten zufolge in etwas, das nicht mehr menschlich war. Sein Fleisch begann zu leuchten und sein Kopf verwandelte sich in pures, gleißendes Licht.
 
 Der Gouverneur, in dem Wissen, dass er niemals einen Avatar von Eothas besiegen könnte, gab seine Macht ab. Das Volk bat Waidwen, die Kolonie zu führen. Er nahm an, wodurch er den Beinamen "Göttlicher König" von Readceras verdiente.
 
@@ -9845,7 +9857,11 @@ Magran, führe uns zu der Schlacht, die gerecht ist. Lass uns dein Feuer sein, w
 
 Ich trage die Glücksbringer des Wolkensingers - des Vogels, von dem mir träumte, meine Mutter habe sich in ihn verwandelt. Mein gefiederter Schmuck sieht prunkhaft und unkleidsam aus, doch er ist ein Leuchtfeuer für Frauen in Not, dass ich eine ausgebildete Hebamme bin, von Hylea gesegnet und jede Note des Lebenslieds lebend. Die Königin der Vögel wünscht, dass wir neues Leben in die Welt geleiten - nicht es beenden, wie die anderen Götter es oft begehren.
 
-Ein Anhänger Magrans verspottete einst meinen Glauben. Er sagte, ich würde Pinsel und Vögel verehren - mickrige Dinge unter der Würde der Götter. Ich verabscheue die anderen Götter nicht, oder die brutalen Notwendigkeiten, die sie überwachen müssen - doch ist nicht die Sprache, die Liebe, die Kunst, die Kreativität das, was uns von bloßen Tieren unterscheidet? Durch Hylea können wir uns über unser wildes, bestialisches Wesen erheben. Es amüsiert mich oft, dass Besucher, die unsere heiligen Volieren sehen, fragen: "Sehr hübsch, aber wo ist der WAHRE Tempel Hyleas?". Vielleicht glauben sie, dass heiliger Boden bedrückende Steinmauern erfordert und Decken, welche den Himmel verbergen. Sie erkennen nicht, dass die Vogelkönigin nicht auf Zeremoniell besteht. Sie zeigt sich im Gesang der Vögel und in der Schönheit des allgegenwärtigen freien Himmels. Hylea zieht die Anbetung zweier singender Kinder eintausend Bittstellern vor, die stumm für den Sieg beten. Die Himmelsmutter verlangt so wenig von uns, und doch so viel - wir haben den Auftrag, jede Note des Lebenslieds zu leben ... es überrascht mich, wie viele daran scheitern, diese göttliche Bestimmung anzunehmen.</DefaultText>
+Ein Anhänger Magrans verspottete einst meinen Glauben. Er sagte, ich würde Pinsel und Vögel verehren - mickrige Dinge unter der Würde der Götter. Ich verabscheue die anderen Götter nicht, oder die brutalen Notwendigkeiten, die sie überwachen müssen - doch ist nicht die Sprache, die Liebe, die Kunst, die Kreativität das, was uns von bloßen Tieren unterscheidet? Durch Hylea können wir uns über unser wildes, bestialisches Wesen erheben.
+
+Es amüsiert mich oft, dass Besucher, die unsere heiligen Volieren sehen, fragen: "Sehr hübsch, aber wo ist der WAHRE Tempel Hyleas?". Vielleicht glauben sie, dass heiliger Boden bedrückende Steinmauern erfordert und Decken, welche den Himmel verbergen. Sie erkennen nicht, dass die Vogelkönigin nicht auf Zeremoniell besteht. Sie zeigt sich im Gesang der Vögel und in der Schönheit des allgegenwärtigen freien Himmels.
+
+Hylea zieht die Anbetung zweier singender Kinder eintausend Bittstellern vor, die stumm für den Sieg beten. Die Himmelsmutter verlangt so wenig von uns, und doch so viel - wir haben den Auftrag, jede Note des Lebenslieds zu leben ... es überrascht mich, wie viele daran scheitern, diese göttliche Bestimmung anzunehmen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9900,11 +9916,19 @@ Mein Sohn, es tut mir leid, dass ich dich seit einigen Monden belogen habe, doch
       <ID>1731</ID>
       <DefaultText>Liebster Bruder, oder war es Schwester?
 
-Möge dieser Brief dich bei guter Gesundheit erreichen. Ein Mann von rüpelhaftem Auftreten stürmte kürzlich in meine Bibliothek und verlangte von mir, ihm bei der Suche nach einem Buch über den Bau einer Arkebuse zu helfen. Ich hielt es für den rechten Dienst an Wael, diesen Mann auf eine Bilderhandschrift über das Schnitzen von Spielzeugsoldaten und anderen Miniaturen hinzuweisen. Er zeigte sich wenig amüsiert über meine Lösung, woraufhin ich mit den Schultern zuckte und sagte "Was ist eine Antwort ohne eine Frage?". Er hielt meine spirituelle Rhetorik offenbar weder für hilfreich noch für unterhaltsam, weshalb er mir zwei Zähne ausschlug. Ich hoffe, dein Sommer war weniger turbulent als der meine?
+Möge dieser Brief dich bei guter Gesundheit erreichen. Ein Mann von rüpelhaftem Auftreten stürmte kürzlich in meine Bibliothek und verlangte von mir, ihm bei der Suche nach einem Buch über den Bau einer Arkebuse zu helfen.
 
-Ich habe jedoch auch wichtigere Kunde: Meine Schülerin sagt, sie habe neulich Nacht in einem Traum das Augenlose Gesicht gesehen! Ich muss gestehen, dass ich zunächst so zornig vor Neid war, dass ich mich weigerte, ihr zu glauben ... Wael verzeihe mir dieses vorübergehende Fehlurteil. Sie beschrieb einen Aumaua von leuchtend blauer Farbe, mit einem gesichtszuglosen Antlitz, umgeben von einem Schwarm von Augen - von denen sich keine zwei glichen. Sie sagt, Wael habe ihre Fragen ignoriert, und sie erinnert sich nicht an Einzelheiten darüber, was gesagt wurde. Meine Schülerin scheint sogar viele Dinge aus der Zeit vor der Erscheinung vergessen zu haben - sie konnte mir nicht sagen, wo sie aufwuchs oder was sie gerne isst. Zunächst war ich so eifersüchtig, dass sie Wael mit ihren eigenen Augen gesehen hat ... doch es scheint, als habe Waels Besuch dazu gedient zu verschleiern, nicht zu erhellen ... Ich bete, dass sie diese Glaubensprüfung übersteht und bald auf das Ereignis zurückblicken und die Freude des Unergründlichen spüren kann.
+ Ich hielt es für den rechten Dienst an Wael, diesen Mann auf eine Bilderhandschrift über das Schnitzen von Spielzeugsoldaten und anderen Miniaturen hinzuweisen. Er zeigte sich wenig amüsiert über meine Lösung, woraufhin ich mit den Schultern zuckte und sagte "Was ist eine Antwort ohne eine Frage?". Er hielt meine spirituelle Rhetorik offenbar weder für hilfreich noch für unterhaltsam, weshalb er mir zwei Zähne ausschlug. Ich hoffe, dein Sommer war weniger turbulent als der meine?
 
-Was ist eine Antwort ohne Frage? Letzte Woche glaubte ich, die Lösung sei "Ignoranz", doch nach Waels Besuch erscheint mir "eine Straße ohne Länge" nun als näher an der Lösung des Rätsels. Ich fürchte, meine Schülerin wird auf Waels Besuch zurückblicken und sich betrogen fühlen - eines Augenblicks der Klarheit beraubt, von dem bei unserem Beitritt alle glaubten, er würde uns zustehen ... Ich habe versucht, ihr zu sagen, dass sie großes Glück hatte, doch sie war zu jung, um es zu verstehen. Was ist eine Antwort ohne Frage? Möge ich tot sein und meine Seele von den Winden zerstreut, ehe jemand es mit Gewissheit sagen kann.</DefaultText>
+Ich habe jedoch auch wichtigere Kunde: Meine Schülerin sagt, sie habe neulich Nacht in einem Traum das Augenlose Gesicht gesehen! Ich muss gestehen, dass ich zunächst so zornig vor Neid war, dass ich mich weigerte, ihr zu glauben ... Wael verzeihe mir dieses vorübergehende Fehlurteil.
+
+Sie beschrieb einen Aumaua von leuchtend blauer Farbe, mit einem gesichtszuglosen Antlitz, umgeben von einem Schwarm von Augen - von denen sich keine zwei glichen. Sie sagt, Wael habe ihre Fragen ignoriert, und sie erinnert sich nicht an Einzelheiten darüber, was gesagt wurde. Meine Schülerin scheint sogar viele Dinge aus der Zeit vor der Erscheinung vergessen zu haben - sie konnte mir nicht sagen, wo sie aufwuchs oder was sie gerne isst.
+
+Zunächst war ich so eifersüchtig, dass sie Wael mit ihren eigenen Augen gesehen hat ... doch es scheint, als habe Waels Besuch dazu gedient zu verschleiern, nicht zu erhellen ... Ich bete, dass sie diese Glaubensprüfung übersteht und bald auf das Ereignis zurückblicken und die Freude des Unergründlichen spüren kann.
+
+Was ist eine Antwort ohne Frage? Letzte Woche glaubte ich, die Lösung sei "Ignoranz", doch nach Waels Besuch erscheint mir "eine Straße ohne Länge" nun als näher an der Lösung des Rätsels.
+
+Ich fürchte, meine Schülerin wird auf Waels Besuch zurückblicken und sich betrogen fühlen - eines Augenblicks der Klarheit beraubt, von dem bei unserem Beitritt alle glaubten, er würde uns zustehen ... Ich habe versucht, ihr zu sagen, dass sie großes Glück hatte, doch sie war zu jung, um es zu verstehen. Was ist eine Antwort ohne Frage? Möge ich tot sein und meine Seele von den Winden zerstreut, ehe jemand es mit Gewissheit sagen kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Aedyranische Bräuche</DefaultText>
+      <DefaultText>Aedyrische Bräuche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,12 +141,12 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Poesie aus Naasitaq</DefaultText>
+      <DefaultText>Naasitaqi Poesie</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Poesie aus Glanfathan</DefaultText>
+      <DefaultText>Glanfathanische Poesie</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,12 +171,12 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Heiliger Eothasia-Schrift</DefaultText>
+      <DefaultText>Heilige Eothas-Schrift</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Dyrwäldlerische Farce</DefaultText>
+      <DefaultText>Dyrwälderische Farce</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -273,12 +273,12 @@ Lauerer sind dafür berüchtigt, sich in voller Sicht zu verstecken. Oft warten 
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Einst wurden Löwen in den Ebenen östlich und südlich von Eir&#160;Glanfath&#2060;s ausgedehnten Wäldern oft gesichtet, aber die Kolonisierung im Östlichen Abschnitt hat die Großkatzen in die relative Sicherheit des Territoriums zwischen den glanfathanischen und dyrwäldlerischen Siedlungen zurückgedrängt. Zusätzlich zu ihrer enormen Kraft sind Löwen für ihr Gebrüll bekannt, einem furchterregenden Geräusch, das selbst dem tapfersten Gestandenen die Angst ins Herz treiben kann.</DefaultText>
+      <DefaultText>Einst wurden Löwen in den Ebenen östlich und südlich von Eir&#160;Glanfath&#2060;s ausgedehnten Wäldern oft gesichtet, aber die Kolonisierung im Östlichen Abschnitt hat die Großkatzen in die relative Sicherheit des Territoriums zwischen den glanfathanischen und dyrwälderischen Siedlungen zurückgedrängt. Zusätzlich zu ihrer enormen Kraft sind Löwen für ihr Gebrüll bekannt, einem furchterregenden Geräusch, das selbst dem tapfersten Gestandenen die Angst ins Herz treiben kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Wo auch immer es Hirsche gibt, bald sind die Wölfe da." Dieses aedyranische Sprichwort, bei dem oft der erste Satzteil ausgelassen wird, deutet die Verwundbarkeit an, die von den frühen Siedlern im Östlichen Abschnitt oft empfunden wurde. Außerdem steht es für die langjährige Assoziation der Aedyraner (wörtlich: "Das Volk des Hirschen") mit den vierbeinigen Raubtieren, die im Dyrwald wie im aedyranischen Reich gleichermaßen allgegenwärtig sind.
+      <DefaultText>"Wo auch immer es Hirsche gibt, bald sind die Wölfe da." Dieses aedyrische Sprichwort, bei dem oft der erste Satzteil ausgelassen wird, deutet die Verwundbarkeit an, die von den frühen Siedlern im Östlichen Abschnitt oft empfunden wurde. Außerdem steht es für die langjährige Assoziation der Aedyrer (wörtlich: "Das Volk des Hirschen") mit den vierbeinigen Raubtieren, die im Dyrwald wie im aedyrischen Reich gleichermaßen allgegenwärtig sind.
 
 Die Geschwindigkeit von Wölfen ist ebenso legendär wie ihre Fähigkeit, ihre Beute zu Boden zu bringen, um sie mit verheerenden Angriffen zu töten.</DefaultText>
       <FemaleText />
@@ -1075,7 +1075,7 @@ Manche Waffen oder Angriffe können mehrere Schadensarten anrichten oder zeigen 
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>Der Dyrwald besitzt eine gesunde Bärenpopulation, auch wenn die meisten der Tiere die zivilisierten Gebiete und Straßen der Gestandenen meiden. Adlige jagen manchmal zum Vergnügen Bären, doch die meisten Kolonisten, älteren Dyrwäldler und Glanfathaner gehen ihnen einfach aus dem Weg. In den Wäldern des Östlichen Abschnitts ist reichlich Wild zu finden, das sich sehr viel weniger erbittert wehrt als ein zorniger Bär.</DefaultText>
+      <DefaultText>Der Dyrwald besitzt eine gesunde Bärenpopulation, auch wenn die meisten der Tiere die zivilisierten Gebiete und Straßen der Gestandenen meiden. Adlige jagen manchmal zum Vergnügen Bären, doch die meisten Kolonisten, älteren Dyrwälder und Glanfathaner gehen ihnen einfach aus dem Weg. In den Wäldern des Östlichen Abschnitts ist reichlich Wild zu finden, das sich sehr viel weniger erbittert wehrt als ein zorniger Bär.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1322,7 +1322,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>Eine koloniale Nation, die von Siedlern aus dem aedyranischen Reich gegründet wurde. Nach einer Reihe von Konflikten mit Aedyr erlangte das Gebiet im Jahr 2672 AI seine Unabhängigkeit. Heute herrscht ein Duc über das Land, der von sieben Grafen gewählt wird, welche seine Grafschaften überwachen.</DefaultText>
+      <DefaultText>Eine koloniale Nation, die von Siedlern aus dem aedyrischen Reich gegründet wurde. Nach einer Reihe von Konflikten mit Aedyr erlangte das Gebiet im Jahr 2672 AI seine Unabhängigkeit. Heute herrscht ein Duc über das Land, der von sieben Grafen gewählt wird, welche seine Grafschaften überwachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1352,7 +1352,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>Dyrwalds Nachbar im Norden. Readceras ist eine Nation, die fest in ihrem eothasianischen Glauben verwurzelt ist. Begonnen hat dieser Eifer während des Kriegs des Heiligen, und selbst, nachdem Eothas offenbar tot ist, lässt er nicht nach.</DefaultText>
+      <DefaultText>Dyrwalds Nachbar im Norden. Readceras ist eine Nation, die fest in ihrem eothasischen Glauben verwurzelt ist. Begonnen hat dieser Eifer während des Kriegs des Heiligen, und selbst, nachdem Eothas offenbar tot ist, lässt er nicht nach.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1452,7 +1452,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>Nach dem Krieg des Heiligen trachteten dyrwäldische Mobs danach, alle Anhänger von Eothas zu töten, insbesondere in ländlichen Gebieten. Ausgehend von der Stadt Kaltmorg, die Waidwens Truppen angeblich widerstandslos passieren ließ, wurden Eothasianer gejagt, gefoltert und auf den Straßen ermordet.</DefaultText>
+      <DefaultText>Nach dem Krieg des Heiligen trachteten dyrwälderische Mobs danach, alle Anhänger von Eothas zu töten, insbesondere in ländlichen Gebieten. Ausgehend von der Stadt Kaltmorg, die Waidwens Truppen angeblich widerstandslos passieren ließ, wurden Eothasier gejagt, gefoltert und auf den Straßen ermordet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

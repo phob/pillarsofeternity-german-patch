@@ -21,8 +21,8 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Was kann ich dir heute anbieten, Amico?"</DefaultText>
-      <FemaleText />
+      <DefaultText>"Was kann ich dir heute anbieten, aimico?"</DefaultText>
+      <FemaleText>"Was kann ich dir heute anbieten, aimica?"</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

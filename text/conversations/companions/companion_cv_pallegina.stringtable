@@ -275,7 +275,9 @@ Sie presst die Kiefer zusammen und fährt leise fort:</DefaultText>
       <DefaultText>"Sie ist tot? Aimico, ich kann dir gar nicht genug danken, aber das wird die Doemenels nicht lange aufhalten. Ich muss von hier verschwinden, und dasselbe würde ich auch dir empfehlen."
 
 Mit zitternden Händen übergibt er einen Münzbeutel. "Das ist alles, was ich nach dieser unglückseligen Unternehmung noch übrig habe. Vielen Dank, und bitte pass auf dich auf."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Sie ist tot? Aimica, ich kann dir gar nicht genug danken, aber das wird die Doemenels nicht lange aufhalten. Ich muss von hier verschwinden, und dasselbe würde ich auch dir empfehlen."
+
+Mit zitternden Händen übergibt er einen Münzbeutel. "Das ist alles, was ich nach dieser unglückseligen Unternehmung noch übrig habe. Vielen Dank, und bitte pass auf dich auf."</FemaleText>
     </Entry>
     <Entry>
       <ID>84</ID>
@@ -524,7 +526,7 @@ Mit zitternden Händen übergibt er einen Münzbeutel. "Das ist alles, was ich n
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Die Wünsche der Ducs Bels haben sich seit unserem letzten Gespräch nicht geändert. Und falls du es noch nicht mitbekommen hast: Die Nachrichten über deinen Ungehorsam sind der Ducesa von Biageppe und dem Duc von Selona zu Ohren gekommen."</DefaultText>
+      <DefaultText>"Die Wünsche der Ducs Bels haben sich seit unserem letzten Gespräch nicht geändert. Und falls du es noch nicht mitbekommen hast: Die Nachrichten über deinen Ungehorsam sind der Ducessa von Biageppe und dem Duc von Selona zu Ohren gekommen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -581,7 +583,7 @@ Palleginas Gebaren schlägt schnell in Erschütterung und Angst um, aber sie sch
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>Palleginas Federn sträuben sich, aber dennoch spricht sie mit ungewöhnlich sanftmütiger Stimme. "Eccosi, Botschafter, aber wird das nicht die Dyrwäldler provozieren? Ihr Land ist im Zerfall begriffen und wir teilen schon ihre Handelsbündnisse unter uns auf."</DefaultText>
+      <DefaultText>Palleginas Federn sträuben sich, aber dennoch spricht sie mit ungewöhnlich sanftmütiger Stimme. "Eccosi, Botschafter, aber wird das nicht die Dyrwälder provozieren? Ihr Land ist im Zerfall begriffen und wir teilen schon ihre Handelsbündnisse unter uns auf."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -9843,12 +9843,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1977</ID>
-      <DefaultText />
+      <DefaultText>Info</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1978</ID>
-      <DefaultText />
+      <DefaultText>Zeige Informationen</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

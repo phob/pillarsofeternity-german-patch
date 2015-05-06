@@ -6716,7 +6716,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1334</ID>
-      <DefaultText>Nicht genügend Materialien, um {0} hinzuzufügen.</DefaultText>
+      <DefaultText>Nicht genügend Materialien, um {0} herzustellen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7793,7 +7793,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1551</ID>
-      <DefaultText>{0} pro Kill</DefaultText>
+      <DefaultText>{0} pro Tötung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

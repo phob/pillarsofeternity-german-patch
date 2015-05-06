@@ -57,7 +57,7 @@
     <Entry>
       <ID>10</ID>
       <DefaultText>Ganz gleich, ob es an einer geschickten Zunge, einem Sinn für Zahlen, einer Fähigkeit zur Einschätzung anderer oder einfach an König Zufall lag: Bis vor Kurzem hast du dir deinen Lebensunterhalt als Händler verdient und deine Kunden im Tausch mit deinen Waren von ihren Münzen getrennt.</DefaultText>
-      <FemaleText />
+      <FemaleText>Ganz gleich, ob es an einer geschickten Zunge, einem Sinn für Zahlen, einer Fähigkeit zur Einschätzung anderer oder einfach an König Zufall lag: Bis vor Kurzem hast du dir deinen Lebensunterhalt als Händlerin verdient und deine Kunden im Tausch mit deinen Waren von ihren Münzen getrennt.</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -1367,7 +1367,7 @@
     <Entry>
       <ID>273</ID>
       <DefaultText>Du bist schon immer ein Soldat gewesen, und deine Fähigkeiten sind solche für das Schlachtfeld. Angesichts der Ungewissheit des Friedens zogst du aus deinem Heimatland fort, wusstest aber nicht, wohin dich dein Weg als nächstes führen würde.</DefaultText>
-      <FemaleText />
+      <FemaleText>Du bist schon immer eine Soldatin gewesen, und deine Fähigkeiten sind solche für das Schlachtfeld. Angesichts der Ungewissheit des Friedens zogst du aus deinem Heimatland fort, wusstest aber nicht, wohin dich dein Weg als nächstes führen würde.</FemaleText>
     </Entry>
     <Entry>
       <ID>274</ID>
@@ -1377,12 +1377,12 @@
     <Entry>
       <ID>275</ID>
       <DefaultText>Das Leben eines Söldners kann überraschend kostspielig sein, und schon bald fandest du dich als Schuldner eines gefährlichen Individuums wieder. Du brachst in der Hoffnung, deine Schulden abzahlen zu können, bevor jemand ein Kopfgeld auf dich aussetzt, zur Arbeitssuche auf.</DefaultText>
-      <FemaleText />
+      <FemaleText>Das Leben einer Söldnerin kann überraschend kostspielig sein, und schon bald fandest du dich als Schuldnerin eines gefährlichen Individuums wieder. Du brachst in der Hoffnung, deine Schulden abzahlen zu können, bevor jemand ein Kopfgeld auf dich aussetzt, zur Arbeitssuche auf.</FemaleText>
     </Entry>
     <Entry>
       <ID>276</ID>
       <DefaultText>Deine Arbeit als Söldner brachte dir einen berüchtigten Ruf ein, und man dichtete dir mehrere schändliche Taten an, mit denen du gar nichts zu tun hattest. Du entschlosst dich, woanders einen Neubeginn zu wagen, wo man deinen Namen und dein Gesicht nicht erkennen würde.</DefaultText>
-      <FemaleText />
+      <FemaleText>Deine Arbeit als Söldnerin brachte dir einen berüchtigten Ruf ein, und man dichtete dir mehrere schändliche Taten an, mit denen zu gar nichts zu tun hattest. Du entschlosst dich, woanders einen Neubeginn zu wagen, wo man deinen Namen und dein Gesicht nicht erkennen würde.</FemaleText>
     </Entry>
     <Entry>
       <ID>277</ID>

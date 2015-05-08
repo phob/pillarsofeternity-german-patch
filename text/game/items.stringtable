@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1823</EntryCount>
+  <EntryCount>1821</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -10815,18 +10815,8 @@ Nach ihrem Tod wurde die Waffe an Aedwyns Enkel im Dyrwald weitergegeben. Als Th
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1890</ID>
-      <DefaultText>Beschädigtes Horn</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1891</ID>
-      <DefaultText>Gebrochenes Horn</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1892</ID>
-      <DefaultText>Zerbeulter Helm</DefaultText>
+      <ID>1948</ID>
+      <DefaultText>Siegelring des Arkanen</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

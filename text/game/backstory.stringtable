@@ -1426,7 +1426,7 @@
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>Du transportiertest nicht alle Gegenstände, sondern hieltst dich bei der Auswahl an bestimmte Prinzipien. Ein Kunde aber brachte dich trickreich dazu, etwas zu transportieren, was du normalerweise nie getan hättest, und du schworst dir, nie wieder in eine solche Position gebracht zu werden.</DefaultText>
+      <DefaultText>Du transportiertest nicht alle Gegenstände, sondern hieltest dich bei der Auswahl an bestimmte Prinzipien. Ein Kunde aber brachte dich trickreich dazu, etwas zu transportieren, was du normalerweise nie getan hättest, und du schworst dir, nie wieder in eine solche Position gebracht zu werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1461,12 +1461,12 @@
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>Durch deinen Erfolg zogst du dir aber den neidischen Zorn deiner Konkurrenten zu, und ein besonders neidischer warb Schläger zur Zerstörung deines Geschäfts an. Deiner Lebensgrundlage beraubt entschiedst du, dass dich an diesem Ort nichts mehr hielt.</DefaultText>
+      <DefaultText>Durch deinen Erfolg zogst du dir aber den Zorn deiner eifersüchtigen Konkurrenten zu, und ein besonders neidischer warb Schläger zur Zerstörung deines Geschäfts an. Deiner Lebensgrundlage beraubt beschlosst du, dass dich an diesem Ort nichts mehr hielt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>Im Laufe der Zeit bekamst du das Gefühl, alles gelernt zu haben, was dir bloße Texte bieten können. Die wahre Bedeutung hinter diesen Texte kann man nur draußen in der Welt herausfinden, und du müsstest nach ihnen suchen.</DefaultText>
+      <DefaultText>Im Laufe der Zeit bekamst du das Gefühl, alles gelernt zu haben, was dir bloße Texte bieten können. Die wahre Bedeutung hinter diesen Texten kann man nur draußen in der Welt herausfinden, und du müsstest nach ihnen suchen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1636,7 +1636,7 @@
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>Es war ein gutes Leben, bis du wegen Schwierigkeiten mit deinen Schiffskameraden über die Planke gingst. Du hattest Glück, am Leben zu bleiben.</DefaultText>
+      <DefaultText>Es war ein gutes Leben, bis du wegen Schwierigkeiten mit deinen Schiffskameraden über die Planke gingst. Du hattest das Glück, zu überleben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1681,12 +1681,12 @@
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText>Du aber liefst weg und entzogt dich erfolgreich den Bediensteten deines Herren und den örtlichen Gesetzeshütern.</DefaultText>
+      <DefaultText>Du aber liefst weg und entzogst dich erfolgreich den Bediensteten deines Herren und den örtlichen Gesetzeshütern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>337</ID>
-      <DefaultText>Letztendlich aber änderten sich die Gesetzen und du und deine Kameraden wurden per lokaler Verordnung befreit.</DefaultText>
+      <DefaultText>Letztendlich aber änderten sich die Gesetze und du und deine Kameraden wurden per lokaler Verordnung befreit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1711,7 +1711,7 @@
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>Nachdem du die Welt aber jahrelang nur in Büchern gesehen hattest, wolltest du sie mit eigenen Augen erleben.</DefaultText>
+      <DefaultText>Nachdem du die Welt aber jahrelang nur in Büchern kennengelernt hattest, wolltest du sie mit eigenen Augen sehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1726,7 +1726,7 @@
     </Entry>
     <Entry>
       <ID>345</ID>
-      <DefaultText>Deine Karriere aber fand ein jähes Ende, als eine schlechte deinerseits zu deiner Verstoßung führte.</DefaultText>
+      <DefaultText>Deine Karriere aber fand ein jähes Ende, als eine schlechte Entscheidung deinerseits zu deiner Verstoßung führte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1761,7 +1761,7 @@
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>In dieser Zeit unterliefen dir aber auch Fehler, und wegen mancher dieser Fehler wurden Unschuldige für Taten bestraft, die sich nicht begangen hatten.</DefaultText>
+      <DefaultText>In dieser Zeit unterliefen dir aber auch Fehler, und wegen mancher dieser Fehler wurden Unschuldige für Taten bestraft, die sie nicht begangen hatten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1786,7 +1786,7 @@
     </Entry>
     <Entry>
       <ID>357</ID>
-      <DefaultText>Die Konkurrenz aber war rücksichtslos, aber obwohl du aus dem Geschäft gedrängt wurdest, konntest du überleben.</DefaultText>
+      <DefaultText>Die Konkurrenz war rücksichtslos, aber obwohl du aus dem Geschäft gedrängt wurdest, konntest du überleben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1836,8 +1836,8 @@
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>Auf der Straße durch Magrans Gabelung trafst du auf einen wild dreinblickenden Priester, der sich selbst Durance nannte. Er erkannte dich umgehend als Wächter und schien davon überzeugt zu sein, dass euch das gemeinsame Reisen und gegenseitige Unterweisen vorgegeben war.</DefaultText>
-      <FemaleText />
+      <DefaultText>Auf der Straße durch Magrans Gabelung trafst du auf einen wild dreinblickenden Priester, der sich selbst Durance nannte. Er erkannte dich umgehend als Wächter und schien davon überzeugt zu sein, dass euch das gemeinsame Reisen und gegenseitige Unterweisen vorherbestimmt war.</DefaultText>
+      <FemaleText>Auf der Straße durch Magrans Gabelung trafst du auf einen wild dreinblickenden Priester, der sich selbst Durance nannte. Er erkannte dich umgehend als Wächterin und schien davon überzeugt zu sein, dass euch das gemeinsame Reisen und gegenseitige Unterweisen vorherbestimmt war.</FemaleText>
     </Entry>
     <Entry>
       <ID>369</ID>

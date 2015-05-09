@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1951</EntryCount>
+  <EntryCount>1964</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2326,7 +2326,7 @@
     </Entry>
     <Entry>
       <ID>467</ID>
-      <DefaultText>Die Rolle der Männer innerhalb der Gesellschaft variiert von Kultur zu Kultur. Im Reich Aedyr und dem Dyrwald besetzen sie Spitzenpositionen innerhalb des Militärs, der Politik und in Bereichen schwerer, körperlicher Arbeit. Innerhalb der Stämme von Naasitaq erfüllen Männer viele Gehöft- und Organisationsaufgaben. In Eir&#160;Glanfath und Ixamitl sind die Übergänge der sozialen Rollen zwischen Männern und Frauen eher fließend. In allen Gesellschaften gibt es jedoch Ausnahmen und Männer sind in vielen verschiedenen Rängen und Berufen anzutreffen.</DefaultText>
+      <DefaultText>Die Rolle der Männer innerhalb der Gesellschaft variiert von Kultur zu Kultur. Im Reich Aedyr und dem [g]Dyrwald[/g] besetzen sie Spitzenpositionen innerhalb des Militärs, der Politik und in Bereichen schwerer, körperlicher Arbeit. Innerhalb der Stämme von Naasitaq erfüllen Männer viele Gehöft- und Organisationsaufgaben. In [g]Eir&#160;Glanfath[/g] und Ixamitl sind die Übergänge der sozialen Rollen zwischen Männern und Frauen eher fließend. In allen Gesellschaften gibt es jedoch Ausnahmen und Männer sind in vielen verschiedenen Rängen und Berufen anzutreffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4881,7 +4881,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>965</ID>
-      <DefaultText>Die Instandsetzung von Leuchthöhle ermöglicht dir, Rast-Boni zu erhalten, wenn du die Nacht in Leuchthöhle verbringst.</DefaultText>
+      <DefaultText>Die Instandsetzung von Leuchthöhle ermöglicht es dir, dort zu rasten. Durch weitere Aufwertungen können Rast-Boni freigeschaltet werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8561,7 +8561,7 @@ Stufe {1} Schlösser knacken,
     </Entry>
     <Entry>
       <ID>1705</ID>
-      <DefaultText>Lagerzugriff nicht einschränken</DefaultText>
+      <DefaultText>Uneingeschränkter Lagerzugriff</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9128,7 +9128,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1819</ID>
-      <DefaultText>Änderungen am Schwierigkeitsgrad treten beim nächsten Kartenübergang in Kraft.</DefaultText>
+      <DefaultText>Änderungen am Schwierigkeitsgrad treten in allen noch nicht besuchten Gebieten in Kraft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9438,12 +9438,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1881</ID>
-      <DefaultText>Gruppen-Bewegungsstopp bei Angriffsbindung deaktivieren</DefaultText>
+      <DefaultText>Bewegungen trotz Angriffsbindung fortsetzen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1882</ID>
-      <DefaultText>Deaktiviert den automatischen Bewegungsstopp, der erfolgt, wenn ein Gruppenmitglied angriffsgebunden wird. Gruppenmitglieder bleiben weiterhin Ziele von Absetzangriffen.</DefaultText>
+      <DefaultText>Ist diese Option aktiviert, werden Gruppenmitglieder auch dann ihre Bewegung fortsetzen, wenn sie durch einen Angriff gebunden sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9782,66 +9782,6 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1965</ID>
-      <DefaultText>See</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1966</ID>
-      <DefaultText>Rüstkammer</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1967</ID>
-      <DefaultText>Mine</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1968</ID>
-      <DefaultText>Wahrsager-Kammer</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1969</ID>
-      <DefaultText>Eisrinne</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1970</ID>
-      <DefaultText>Schlafquartiere</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1971</ID>
-      <DefaultText>Speisesaal</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1972</ID>
-      <DefaultText>Zum Westlichen Außenbereich</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1973</ID>
-      <DefaultText>Zur Unteren Höhle</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1974</ID>
-      <DefaultText>Gefrorener See</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1975</ID>
-      <DefaultText>Holzfällerlager</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1976</ID>
-      <DefaultText>Jägerlager</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1977</ID>
       <DefaultText>Info</DefaultText>
       <FemaleText />
@@ -9849,6 +9789,131 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     <Entry>
       <ID>1978</ID>
       <DefaultText>Zeige Informationen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1979</ID>
+      <DefaultText>Stehlen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1980</ID>
+      <DefaultText>?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1981</ID>
+      <DefaultText>Ist diese Option aktiviert, werden die aktuellsten Neuigkeiten im Hauptmenü angezeigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1982</ID>
+      <DefaultText>{0} nimmt {1} zu sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1983</ID>
+      <DefaultText>Charaktersounds</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1984</ID>
+      <DefaultText>Legt fest, mit welcher Häufigkeit Gruppenmitglieder akustisches Feedback auf Befehle geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1985</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1987</ID>
+      <DefaultText>Verzauberung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1988</ID>
+      <DefaultText>{0} Wahrscheinlichkeit, Fernkampfangriffe zu reflektieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1989</ID>
+      <DefaultText>Gegenstand-Typ</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1990</ID>
+      <DefaultText>Name (absteigend)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1991</ID>
+      <DefaultText>Verkaufswert (aufsteigend)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1992</ID>
+      <DefaultText>Verkaufswert (absteigend)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1993</ID>
+      <DefaultText>Verzauberungen (aufsteigend)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1994</ID>
+      <DefaultText>Verzauberungen (absteigend)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1995</ID>
+      <DefaultText>Anwenden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1997</ID>
+      <DefaultText>max. Bildwiederholungsrate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1998</ID>
+      <DefaultText>Diese Option setzt eine maximal zulässige Bildwiederholungsrate für das Spiel. Dies kann helfen, Überhitzungsproblemen entgegenzuwirken. Bei eingeschalteter Vertikaler Synchronisation ist sie auch durch die Bildwiederholfrequenz des Monitors limitiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1999</ID>
+      <DefaultText>Autom. Stufenaufstieg für Gefährten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2000</ID>
+      <DefaultText>Ist diese Option aktiviert, steigen die Gefährten des Spielercharakters einem vorgegebenen Verlauf folgend automatisch in der Stufe auf. Falls deaktiviert, kann der Spieler frei über ihren Stufenaufstieg verfügen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2015</ID>
+      <DefaultText>Untersuchen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2016</ID>
+      <DefaultText>Steuert die Größe des Gebiets, in welchem mehrere Leichen mit einem einzigen Klick geplündert werden können. Wird es auf 0m gesetzt, wird immer nur die ausgewählte Leiche geplündert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2018</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2019</ID>
+      <DefaultText>Angreifer: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2020</ID>
+      <DefaultText>Verteidiger: {0}</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

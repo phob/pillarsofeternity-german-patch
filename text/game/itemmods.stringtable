@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\itemmods</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>248</EntryCount>
+  <EntryCount>253</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1242,6 +1242,31 @@
     <Entry>
       <ID>247</ID>
       <DefaultText>Verringerter kritischer Schaden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Bonus-Fernkampfschaden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Achtsam</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Starker Zauber: Bewegungseifer des Verderbens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Ergeben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Zauberwirkung: Raserei</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

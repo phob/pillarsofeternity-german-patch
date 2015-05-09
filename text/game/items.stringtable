@@ -492,7 +492,7 @@ Nachdem das Schwarzstand-Fort von seinem neuen Grafen verstärkt worden war, ver
       <ID>103</ID>
       <DefaultText>Die Rose ist eine junge Waffe mit einer relativ kurzen Geschichte. Sie wurde aus geschwärztem ymyranischen Stahl geschmiedet und mit einer "Blüte" aus stark dornigen Blütenblättern versehen. Die Ähnlichkeit dieses Morgensterns mit seiner Namensvetterin hört aber nicht beim Blütenkopf auf. Sein langer, geschwungener Schaft ist auf der gesamten Länge mit kleinen Dornen besetzt, die selbst einem gepanzerten Waffenführer Unbehagen bereiten.
 
-Hacran Grist, ein erfolgreicher Abenteurer aus dem readceranischen Fischerdorf Salzhöhle, ließ die knorrige Waffe anfertigen, nachdem seine Freunde Witze darüber rissen, dass nichts im alkalischen Boden ihrer Heimat wachsen würde. Hacran setzte die Rose zur Verteidigung von Salzhöhle gegen Banditen ein und half seinen Kameraden mit ihr, zwei Flugdrachen zur Strecke zu bringen, die ihr Nest nahe einer zum Dorf führenden Straße gebaut hatten. Als Salzhöhle für sie die frühere Faszination verloren hatte, brachen Hacran und seine Freunde in den Dyrwald auf, um in den Ruinen von Eír Glanfath ihr Glück zu suchen. Seitdem hat niemand mehr etwas von ihnen gehört.</DefaultText>
+Hacran Grist, ein erfolgreicher Abenteurer aus dem readceranischen Fischerdorf Salzhöhle, ließ die knorrige Waffe anfertigen, nachdem seine Freunde Witze darüber rissen, dass nichts im alkalischen Boden ihrer Heimat wachsen würde. Hacran setzte die Rose zur Verteidigung von Salzhöhle gegen Banditen ein und half seinen Kameraden mit ihr, zwei Flugdrachen zur Strecke zu bringen, die ihr Nest nahe einer zum Dorf führenden Straße gebaut hatten. Als Salzhöhle für sie die frühere Faszination verloren hatte, brachen Hacran und seine Freunde in den Dyrwald auf, um in den Ruinen von Eir&#160;Glanfath ihr Glück zu suchen. Seitdem hat niemand mehr etwas von ihnen gehört.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -809,7 +809,7 @@ Aloths hübsche, sorgfältige Schönschrift bildet auf den Seiten einen ordentli
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>Auf dieser Karte sind Gebiete im Dyrwald und in Eír Glanfath eingezeichnet, in denen es zu geologischen Aktivitäten kommt. Besonders beachtenswert ist die Beschreibung einer Höhle, in der geschmolzenes Gestein in einer tiefe Schlucht entlangfließt.</DefaultText>
+      <DefaultText>Auf dieser Karte sind Gebiete im Dyrwald und in Eir&#160;Glanfath eingezeichnet, in denen es zu geologischen Aktivitäten kommt. Besonders beachtenswert ist die Beschreibung einer Höhle, in der geschmolzenes Gestein in einer tiefe Schlucht entlangfließt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1212,7 +1212,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>Streitäxte können mit ihren breiten, gebogenen Klingen schwere Schläge austeilen und sind unter Soldaten im ganzen Dyrwald und in Eír Glanfath sehr gebräuchlich.</DefaultText>
+      <DefaultText>Streitäxte können mit ihren breiten, gebogenen Klingen schwere Schläge austeilen und sind unter Soldaten im ganzen Dyrwald und in Eir&#160;Glanfath sehr gebräuchlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1292,7 +1292,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>Jagdbogen sind im Dyrwald und in Eír Glanfath extrem beliebt. Sie werden zwar am häufigsten für die Jagd auf Hirsch und Kleinwild benutzt, aber auch gegen zweibeinige Beute können sie tödlich sein. Jagdbogen erreichen zwar nicht das hohe Zuggewicht von Kriegsbögen, dafür können sie aber häufiger abgefeuert werden.</DefaultText>
+      <DefaultText>Jagdbogen sind im Dyrwald und in Eir&#160;Glanfath extrem beliebt. Sie werden zwar am häufigsten für die Jagd auf Hirsch und Kleinwild benutzt, aber auch gegen zweibeinige Beute können sie tödlich sein. Jagdbogen erreichen zwar nicht das hohe Zuggewicht von Kriegsbögen, dafür können sie aber häufiger abgefeuert werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1347,7 +1347,7 @@ Die Seiten sind größtenteils gefüllt mit schlechter Dichtkunst und Kritzeleie
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>Zepter sind die am autoritärsten aussehenden magischen Werkzeuge und werden aus diesem Grund oft von aedyranischen Zauberern bevorzugt. Wie Zauberstäbe und Kampfstäbe bieten sie flexible Schadenstypen.</DefaultText>
+      <DefaultText>Zepter sind die am autoritärsten aussehenden magischen Werkzeuge und werden aus diesem Grund oft von aedyrischen Zauberern bevorzugt. Wie Zauberstäbe und Kampfstäbe bieten sie flexible Schadenstypen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2751,9 +2751,9 @@ Dieses Amulett soll Fulvano gehört haben. Er war von leichtem Aberglauben sehr 
     </Entry>
     <Entry>
       <ID>563</ID>
-      <DefaultText>Schon Jahrhunderte, bevor die aedyranischen und vailianischen Beseeler das formelle Studium von Medien auf dem Kontinent einführten, waren die Brîshalgwin oder "Verstandsjäger" in ganz Eir&#160;Glanfath bekannt. Man respektierte - und fürchtete - sie für ihre Fähigkeiten, Seelenverbindungen wahrzunehmen.
+      <DefaultText>Schon Jahrhunderte, bevor die aedyrischen und vailianischen Beseeler das formelle Studium von Medien auf dem Kontinent einführten, waren die Brîshalgwin oder "Verstandsjäger" in ganz Eir&#160;Glanfath bekannt. Man respektierte - und fürchtete - sie für ihre Fähigkeiten, Seelenverbindungen wahrzunehmen.
 
-Als sich die ersten aedyranischen Kolonisten im Dyrwald niederließen, zogen sie sich schnell den Zorn ihrer glanfathanischen Nachbarn zu, weil sie - manchmal unabsichtlich, manchmal mit voller Absicht - in engwithanische Ruinen eindrangen. Eine taubstumme Orlanerin des Drei-Stoßzahn-Stelgaer-Stammes, ein übernatürlich begabtes Medium, setzte ihre Fähigkeiten zur Überwachung der Grenzen zu den Ruinen und zum Aufspüren der Kolonisten ein, die sie durch ihre Handlungen schändeten. 
+Als sich die ersten aedyrischen Kolonisten im Dyrwald niederließen, zogen sie sich schnell den Zorn ihrer glanfathanischen Nachbarn zu, weil sie - manchmal unabsichtlich, manchmal mit voller Absicht - in engwithanische Ruinen eindrangen. Eine taubstumme Orlanerin des Drei-Stoßzahn-Stelgaer-Stammes, ein übernatürlich begabtes Medium, setzte ihre Fähigkeiten zur Überwachung der Grenzen zu den Ruinen und zum Aufspüren der Kolonisten ein, die sie durch ihre Handlungen schändeten. 
 
 Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei-Stoßzahn-Stelgaer-Stammes dieses Amulett, das man für eine engwithanische Reliquie hielt. Die öffentliche Überreichung eines derart verehrten Geschenks war nicht nur pragmatisch, sondern auch politisch motiviert, und rüttelte den glanfathanischen Widerstand gegen die Siedler wach - besonders im Drei-Stoßzahn-Stelgaer-Stamm. Als das Medium aber bei einem Überfall auf ein Bauerndorf getötet wurde, ging das Amulett verloren.</DefaultText>
       <FemaleText />
@@ -3380,7 +3380,7 @@ Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei
     </Entry>
     <Entry>
       <ID>688</ID>
-      <DefaultText>Argwes Adra</DefaultText>
+      <DefaultText>Argŵes Adra</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3655,7 +3655,7 @@ Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei
     </Entry>
     <Entry>
       <ID>744</ID>
-      <DefaultText>Auf dem Griff dieses schweren Eisenschlüssels befindet sich ein aedyranisches Zeichen. Der Griff ist mit einer dicken Staubschicht überzogen.</DefaultText>
+      <DefaultText>Auf dem Griff dieses schweren Eisenschlüssels befindet sich ein aedyrisches Zeichen. Der Griff ist mit einer dicken Staubschicht überzogen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3827,12 +3827,12 @@ Irgendwas summt in ihnen, ein verblichenes Überbleibsel einer Essenz. Welche Ma
     </Entry>
     <Entry>
       <ID>775</ID>
-      <DefaultText>Hüte gibt es in vielen verschiedenen Formen, Größen und einer großen Auswahl an Farben. Dyrwäldler sind für ihre bescheidenen, rustikalen Hüte bekannt, während Vailianer mit breitkrempigen Hüten, geschmückt mit verschiedenen exotischen Federn, assoziiert werden.</DefaultText>
+      <DefaultText>Hüte gibt es in vielen verschiedenen Formen, Größen und einer großen Auswahl an Farben. Dyrwälder sind für ihre bescheidenen, rustikalen Hüte bekannt, während Vailianer mit breitkrempigen Hüten, geschmückt mit verschiedenen exotischen Federn, assoziiert werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>776</ID>
-      <DefaultText>Von den Jägern der dyrwäldlerischen Wildnis bis hin zu den verhüllten Zauberern, die ein Flair für das Mysteriöse haben, wissen alle Bewohner des Östlichen Abschnitts die Wärme und Anonymität einer Kapuze zu schätzen.</DefaultText>
+      <DefaultText>Von den Jägern der dyrwälderischen Wildnis bis hin zu den verhüllten Zauberern, die ein Flair für das Mysteriöse haben, wissen alle Bewohner des Östlichen Abschnitts die Wärme und Anonymität einer Kapuze zu schätzen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3957,7 +3957,7 @@ Irgendwas summt in ihnen, ein verblichenes Überbleibsel einer Essenz. Welche Ma
     </Entry>
     <Entry>
       <ID>801</ID>
-      <DefaultText>Dyrwäldlerische Kleidung</DefaultText>
+      <DefaultText>Dyrwälderische Kleidung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4068,7 +4068,7 @@ Der Griff ist mit Adra-Stücken versehen und in den Schaft wurden Runen eingerit
     </Entry>
     <Entry>
       <ID>828</ID>
-      <DefaultText>Dieser Ring bedeutet die Mitgliedschaft im Klub der kultivierten und angesehenen Ehrenmänner. Unterhalb seines Siegels wurde in Alt-Aedyranisch ein Motto eingraviert: "Fréod ond Eathmédu."</DefaultText>
+      <DefaultText>Dieser Ring bedeutet die Mitgliedschaft im Klub der kultivierten und angesehenen Ehrenmänner. Unterhalb seines Siegels wurde in Alt-Aedyrisch ein Motto eingraviert: "Fréod ond Eathmédu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5055,7 +5055,7 @@ Wir dürfen nicht vergessen, dass Reisende und Dörfler die Straße in der Nähe
 
 "1. Ydit - lässt die Fenster in der Nacht offen. Kleines Haus am Rand von Flackertal.
 
-2. Higerto - Besucher aus Alt-Vailia, spricht kein Aedyranisch. Sondert sich ab, wird nicht vermisst werden.
+2. Higerto - Besucher aus Alt-Vailia, spricht kein Aedyrisch. Sondert sich ab, wird nicht vermisst werden.
 
 3. Tirfeyst - lebt in einem kleinen Lager auf dem Weg nach Stammheim. Geht jeden Morgen bei Sonnenaufgang allein spazieren, sollte dann am verwundbarsten sein.
 
@@ -5100,7 +5100,7 @@ Merec war fröhlich wie ein Kleinkind und sich sicher, dass wir die Xaurips übe
 Und jetzt? Jetzt seid ihr alle wie die Hasen davongelaufen. Währenddessen stehe ich hier bis zu den Achseln in Knochen und Xauripscheiße. 
 
 Ich hoffe, dass ihr alle hier unten verrotten werdet. Ich hoffe, dass Merec direkt über den Rand der Welt fällt und Drafden den Rest seines winzigen Verstands verliert und den Rest von euch ausweidet. Fünf von uns waren übrig, und ihr rennt weg. Verflucht sollt ihr sein, jeder einzelne von euch. Ich verfluche auch mich selbst, weil ich hier wegen ein paar wimmernden Jämmerlingen sterben werde.
-Und hier ist noch was für euch, falls einer von euch miesen Echsenbastarden jemals Aedyranisch lernen sollte - hoffentlich erstickt ihr alle zusammen!"</DefaultText>
+Und hier ist noch was für euch, falls einer von euch miesen Echsenbastarden jemals Aedyrisch lernen sollte - hoffentlich erstickt ihr alle zusammen!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5409,12 +5409,12 @@ Trindig</DefaultText>
     </Entry>
     <Entry>
       <ID>1104</ID>
-      <DefaultText>Diese robuste Brigandine wurde von der aedyranischen Abenteurerin, der sie einst gehörte, mehrfach verstärkt. Die dick ausgepolsterte Rüstung wurde Äru-Brekr genannt (Pfeilbrecher). Sie leistete der Abenteurerin gute Dienste, bis ihr Ruhm und ihr Reichtum sie nachlässig werden ließen und sie einen Gegner zu nah an sich heran ließ. Pfeilbrecher beschützte sie zwar vor Geschossen, bot jedoch nicht denselben Schutz gegen den Streitkolben, der ihr gegen die Schläfe geschlagen wurde.</DefaultText>
+      <DefaultText>Diese robuste Brigandine wurde von der aedyrischen Abenteurerin, der sie einst gehörte, mehrfach verstärkt. Die dick ausgepolsterte Rüstung wurde Äru-Brekr genannt (Pfeilbrecher). Sie leistete der Abenteurerin gute Dienste, bis ihr Ruhm und ihr Reichtum sie nachlässig werden ließen und sie einen Gegner zu nah an sich heran ließ. Pfeilbrecher beschützte sie zwar vor Geschossen, bot jedoch nicht denselben Schutz gegen den Streitkolben, der ihr gegen die Schläfe geschlagen wurde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1105</ID>
-      <DefaultText>Der Mantel der schlechten Bezahlung gelangte in den Besitz eines aedyranischen Glücksspielers, als er ihn - welch Wunder - beim Glücksspiel gewann. Da er nicht genau wusste, was er damit anfangen sollte, begann er, ihn beim Spielen als Glücksbringer zu tragen. Ein Gegner warf ihm vor, zu betrügen, und wollte seine Bezahlung aus dem Glücksspieler herausprügeln - schreckte jedoch vor Schmerzen zurück, nachdem er den ersten Hieb gelandet hatte. Der Glücksspieler erkannte, dass die Rüstung ihm einen gewissen magischen Schutz bot - und ließ sich etwas einfallen. 
+      <DefaultText>Der Mantel der schlechten Bezahlung gelangte in den Besitz eines aedyrischen Glücksspielers, als er ihn - welch Wunder - beim Glücksspiel gewann. Da er nicht genau wusste, was er damit anfangen sollte, begann er, ihn beim Spielen als Glücksbringer zu tragen. Ein Gegner warf ihm vor, zu betrügen, und wollte seine Bezahlung aus dem Glücksspieler herausprügeln - schreckte jedoch vor Schmerzen zurück, nachdem er den ersten Hieb gelandet hatte. Der Glücksspieler erkannte, dass die Rüstung ihm einen gewissen magischen Schutz bot - und ließ sich etwas einfallen. 
 
 Er stieg in ein Spiel an, betrog ganz offenkundig - oder gab es zumindest vor - und prügelte sich dann mit seinem wütenden Gegenspieler, oft mit noch höherem Einsatz. Damit hatte er großen Erfolg - bis er es eines Tages übertrieb und plötzlich mehr wütende Fäuste auf ihn einprasselten, als die Rüstung abwehren konnte.</DefaultText>
       <FemaleText />
@@ -5456,12 +5456,12 @@ Der Schöpfer dieser Rüstung bevorzugt die erste Version der Geschichte, denn i
     </Entry>
     <Entry>
       <ID>1112</ID>
-      <DefaultText>Einer dyrwäldlerischen Volkssage nach verleiht Rüstung, die aus der Haut der nachtaktiven, scheuen Skuldr gefertigt wird, ihrem Träger eine übernatürliche Fähigkeit, unbemerkt zu bleiben. Ein leidenschaftlicher Jäger war entschlossen, diesen Aberglauben auf die Probe zu stellen und fertigte diese Rüstung aus nicht weniger als sieben Skuldrhäuten. Welche Auswirkung die schiere Zahl hatte, ist unklar, doch das Ergebnis ist eine dunkle Rüstung, die sich ohne Zweifel nahtlos in die Schatten einfügt.</DefaultText>
+      <DefaultText>Einer dyrwälderischen Volkssage nach verleiht Rüstung, die aus der Haut der nachtaktiven, scheuen Skuldr gefertigt wird, ihrem Träger eine übernatürliche Fähigkeit, unbemerkt zu bleiben. Ein leidenschaftlicher Jäger war entschlossen, diesen Aberglauben auf die Probe zu stellen und fertigte diese Rüstung aus nicht weniger als sieben Skuldrhäuten. Welche Auswirkung die schiere Zahl hatte, ist unklar, doch das Ergebnis ist eine dunkle Rüstung, die sich ohne Zweifel nahtlos in die Schatten einfügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1113</ID>
-      <DefaultText>Diese Rüstung gehörte einst einem Aedyraner, der Mitglied einer Söldnerbande war, die sich "die Schreiter" nannte. Es gab immer nur fünf Mitglieder, von denen jedes ganz bestimmte Fähigkeiten besaß. Der erste Schreiter war stark, der zweite wendig, der dritte ein unerreichter Scharfschütze, der vierte mit unglaublicher Ausdauer gesegnet, der fünfte mit unwiderstehlichem Charme. Jeder der Schreiter trug eine Rüstung, die seine bereits formidablen Fähigkeiten noch verstärkte. In Kerdhed Pames ("Fünfter Schreiter") gekleidet überzeugte der Aedyraner einst einen Adligen aus Kulklin, seine preisgekrönte Stute gegen einen halbleeren Humpen Ale einzutauschen.</DefaultText>
+      <DefaultText>Diese Rüstung gehörte einst einem Aedyrer, der Mitglied einer Söldnerbande war, die sich "die Schreiter" nannte. Es gab immer nur fünf Mitglieder, von denen jedes ganz bestimmte Fähigkeiten besaß. Der erste Schreiter war stark, der zweite wendig, der dritte ein unerreichter Scharfschütze, der vierte mit unglaublicher Ausdauer gesegnet, der fünfte mit unwiderstehlichem Charme. Jeder der Schreiter trug eine Rüstung, die seine bereits formidablen Fähigkeiten noch verstärkte. In Kerdhed Pames ("Fünfter Schreiter") gekleidet überzeugte der Aedyrer einst einen Adligen aus Kulklin, seine preisgekrönte Stute gegen einen halbleeren Humpen Ale einzutauschen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5500,7 +5500,7 @@ Er verzichtete auf Sicherheitsgurte und schließlich sogar auf jede Art von Sich
     </Entry>
     <Entry>
       <ID>1120</ID>
-      <DefaultText>Kakuma war eine berühmte Aumaua-Seefahrerin und die ursprüngliche Besitzerin dieses Kleidungsstücks. Sie segelte von ihrer Heimat Rauatai zum gefürchteten Todesfeuer-Archipel. Dort geleitete sie Handels- und Passagierschiffe durch die von Piraten heimgesuchten Gewässer. Zu ihren Stammkunden zählten die Zwerge von Naasistaqi, welche die Kontinente im Norden bereisten, aus persönlichen Gründen oder im Auftrag des Stammes.
+      <DefaultText>Kakuma war eine berühmte Aumaua-Seefahrerin und die ursprüngliche Besitzerin dieses Kleidungsstücks. Sie segelte von ihrer Heimat Rauatai zum gefürchteten Todesfeuer-Archipel. Dort geleitete sie Handels- und Passagierschiffe durch die von Piraten heimgesuchten Gewässer. Zu ihren Stammkunden zählten die Zwerge von Naasitaq, welche die Kontinente im Norden bereisten, aus persönlichen Gründen oder im Auftrag des Stammes.
 
 Ihre ehrliche Art, Geschäfte zu machen, ihr Mut im Kampf und ihr Können auf See machten Kakuma zu einer angesehenen und beliebten Frau im Archipel und unter den Naasitaqi.</DefaultText>
       <FemaleText />
@@ -5520,7 +5520,7 @@ Als sie schließlich im Umgang mit dem Stilett geübt war, zog sie aus, die Mör
 
 Viele findige Händler begannen aber, Kopien herzustellen und zu verkaufen. Viele Fälschungen waren so täuschend echt, dass selbst Gelehrte sie nicht von echten Stücken unterscheiden konnten. Manchmal wurde gar ein Medium angeheuert, um die Echtheit von wertvollen Stücken zu bestätigen.
 
-Argwes Adra ("Adra-Rüstung") stammte aus den Ruinen beim Hof der verneigenden Asche, ähnelte zwei bekannten Fälschungen jedoch so sehr, dass sie durch Trutzbucht, Ancenze und Selona gereicht wurde, ehe ein Beseeler in Barda erkannte, dass es sich um ein Original handelt.</DefaultText>
+Argŵes Adra ("Adra-Rüstung") stammte aus den Ruinen beim Hof der verneigenden Asche, ähnelte zwei bekannten Fälschungen jedoch so sehr, dass sie durch Trutzbucht, Ancenze und Selona gereicht wurde, ehe ein Beseeler in Barda erkannte, dass es sich um ein Original handelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5586,7 +5586,7 @@ Diese Roben bestehen aus wenig mehr als einem einfachen, ungefärbten Stück Sto
     </Entry>
     <Entry>
       <ID>1131</ID>
-      <DefaultText>Ein junger Aedyraner, der in eine Fischerfamilie geboren wurde, beschloss eines Tages, mit der Tradition zu brechen und stattdessen zum Schwert zu greifen. Er schwor, dass er größeren Reichtum finden würde, als er seiner Familie je beschieden war. Als er aber nach Gelegenheiten suchte, sich zu beweisen, wurde er oft verspottet - denn er kam aus einer einfachen Familie, die nie etwas Bemerkenswertes geleistet hatte. 
+      <DefaultText>Ein junger Aedyrer, der in eine Fischerfamilie geboren wurde, beschloss eines Tages, mit der Tradition zu brechen und stattdessen zum Schwert zu greifen. Er schwor, dass er größeren Reichtum finden würde, als er seiner Familie je beschieden war. Als er aber nach Gelegenheiten suchte, sich zu beweisen, wurde er oft verspottet - denn er kam aus einer einfachen Familie, die nie etwas Bemerkenswertes geleistet hatte. 
 Entmutigt kehrte der Bursche nach Hause zurück - wo seine Familie ihre dürftigen Ersparnisse zusammengekratzt hatte, um ihm eine Rüstung fertigen zu lassen, die ihn bei der Erfüllung seines Herzenswunsches beschützen sollte. Der Bursche bat den Schmied, eine glänzende Schuppenrüstung zu fertigen, so hell wie die blitzenden Schuppen eines Fisches, und ebenso leicht und schnell. Er nannte sie Stolz der Pike, und wenn er sie trug, so war er immun gegen alle Beleidigungen, die seine Zweifler ihm an den Kopf warfen.</DefaultText>
       <FemaleText />
     </Entry>
@@ -5599,7 +5599,7 @@ Der Sieg über die Oger war zwar nur von kurzer Dauer, doch die Geschichte wird 
     </Entry>
     <Entry>
       <ID>1133</ID>
-      <DefaultText>Aedrins Zerstörer war schon vielen bekannt, als Aedrin selbst noch kaum jemandem bekannt war. Sie war eine Schurkin und eine hervorragende Scharfschützin, die im Widerstandskrieg kämpfte und aedyranische Soldaten aus den Schatten heraus niederstreckte. Sie sagte einst einem Schüler, sie würde einem Feind lieber in den Rücken schießen, als ihm die Gelegenheit zu geben, zurückzuschlagen. Für ihre Geduld war sie noch berühmter als für ihre Zielfertigkeit. Sie soll sich einmal drei Tage lang in einem Baum versteckt haben, während sie darauf wartete, dass ein aedyranischer General die Straße nach Madsdam entlangkam. Sie war jedoch so fähig, dass niemand diese Geschichte je bestätigen konnte.</DefaultText>
+      <DefaultText>Aedrins Zerstörer war schon vielen bekannt, als Aedrin selbst noch kaum jemandem bekannt war. Sie war eine Schurkin und eine hervorragende Scharfschützin, die im Widerstandskrieg kämpfte und aedyrische Soldaten aus den Schatten heraus niederstreckte. Sie sagte einst einem Schüler, sie würde einem Feind lieber in den Rücken schießen, als ihm die Gelegenheit zu geben, zurückzuschlagen. Für ihre Geduld war sie noch berühmter als für ihre Zielfertigkeit. Sie soll sich einmal drei Tage lang in einem Baum versteckt haben, während sie darauf wartete, dass ein aedyrischer General die Straße nach Madsdam entlangkam. Sie war jedoch so fähig, dass niemand diese Geschichte je bestätigen konnte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5629,7 +5629,7 @@ Der Sieg über die Oger war zwar nur von kurzer Dauer, doch die Geschichte wird 
     </Entry>
     <Entry>
       <ID>1139</ID>
-      <DefaultText>Streitäxte können mit ihren breiten, gebogenen Klingen schwere Schläge austeilen und sind unter Soldaten im ganzen Dyrwald und in Eír Glanfath sehr gebräuchlich.</DefaultText>
+      <DefaultText>Streitäxte können mit ihren breiten, gebogenen Klingen schwere Schläge austeilen und sind unter Soldaten im ganzen Dyrwald und in Eir&#160;Glanfath sehr gebräuchlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5654,7 +5654,7 @@ Der Sieg über die Oger war zwar nur von kurzer Dauer, doch die Geschichte wird 
     </Entry>
     <Entry>
       <ID>1144</ID>
-      <DefaultText>Scon Mica, der Oger aus den aedyranischen Mythen, der unzählige Helden besiegte, bevor er schließlich von einem einfachen Hirten getötet wurde, konnte mit seinem Brüllen angeblich den Regen aus den Wolken schütteln. Wenn er in die Schlacht zog, warf sein Geschrei seine Feinde um und ließ ihre Knochen aneinanderrasseln.</DefaultText>
+      <DefaultText>Scon Mica, der Oger aus den aedyrischen Mythen, der unzählige Helden besiegte, bevor er schließlich von einem einfachen Hirten getötet wurde, konnte mit seinem Brüllen angeblich den Regen aus den Wolken schütteln. Wenn er in die Schlacht zog, warf sein Geschrei seine Feinde um und ließ ihre Knochen aneinanderrasseln.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5689,7 +5689,7 @@ Der Sieg über die Oger war zwar nur von kurzer Dauer, doch die Geschichte wird 
     </Entry>
     <Entry>
       <ID>1151</ID>
-      <DefaultText>Die Barbarin Blesca wurde aus der Not heraus zur Anführerin - und erwies sich in dieser Rolle als äußerst effektiv. Sie stoppte die aedyranische Expansion nördlich von Readceras, indem sie die südlichen Ixamitl-Stämme vereinte. Sie hielt ihr ungleiches Bündnis durch Überzeugungskraft, Zwang und notfalls Gewalt beisammen. Ihre Koalition bestand gerade lang genug, um den Vormarsch abzuwehren.</DefaultText>
+      <DefaultText>Die Barbarin Blesca wurde aus der Not heraus zur Anführerin - und erwies sich in dieser Rolle als äußerst effektiv. Sie stoppte die aedyrische Expansion nördlich von Readceras, indem sie die südlichen Ixamitl-Stämme vereinte. Sie hielt ihr ungleiches Bündnis durch Überzeugungskraft, Zwang und notfalls Gewalt beisammen. Ihre Koalition bestand gerade lang genug, um den Vormarsch abzuwehren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5764,7 +5764,7 @@ Nach seinen ersten Begegnungen mit Lindwürmern ließ Saelfors Interesse an der 
     </Entry>
     <Entry>
       <ID>1165</ID>
-      <DefaultText>Ein aedyranischer Entdeckter hörte einst die Legende eines engwithanischen Grabs, das mit den größten Schätzen des untergegangenen Reichs gefüllt sei. Entschlossen, sich einen Namen zu machen und gleichzeitig reich zu werden, ließ er einen der besten Schmiede im Dyrwald eine Klinge fertigen, die der Aufgabe würdig sei. 
+      <DefaultText>Ein aedyrischer Entdeckter hörte einst die Legende eines engwithanischen Grabs, das mit den größten Schätzen des untergegangenen Reichs gefüllt sei. Entschlossen, sich einen Namen zu machen und gleichzeitig reich zu werden, ließ er einen der besten Schmiede im Dyrwald eine Klinge fertigen, die der Aufgabe würdig sei. 
 
 Er stieg an einen Ort hinab, der die Endlosen Pfade von Od Nua genannt wird ... und es ward nie wieder von ihm gehört. Die unbekannten Grauen, die dort hausen, fielen über seine Besitztümer her, und seine wertvolle Klinge wurde zertrümmert.</DefaultText>
       <FemaleText />
@@ -5795,9 +5795,9 @@ Gauns Anteil soll von einem verstörten Schmied aus dem Dyrwald gefertigt worden
     </Entry>
     <Entry>
       <ID>1170</ID>
-      <DefaultText>Anhänger Ondras entlang der Nordküste der Ixamitl-Ebenen beobachten jeden Abend, wie der Mond und die Sterne im Meer versinken, und huldigen der Göttin der Gezeiten. Ein reisender aedyranischer Anthropologe studierte ihre Rituale und füllte sein Tagebuch mit Skizzen von Gestalten, die ihre Arme gen Himmel schwangen, und mit Beschreibungen der Sterne, die vom nächtlichen Firmament fielen.
+      <DefaultText>Anhänger Ondras entlang der Nordküste der Ixamitl-Ebenen beobachten jeden Abend, wie der Mond und die Sterne im Meer versinken, und huldigen der Göttin der Gezeiten. Ein reisender aedyrischer Anthropologe studierte ihre Rituale und füllte sein Tagebuch mit Skizzen von Gestalten, die ihre Arme gen Himmel schwangen, und mit Beschreibungen der Sterne, die vom nächtlichen Firmament fielen.
 
-Das Tagebuch wurde in den jungen aedyranischen und vailianischen Kolonien in großer Auflage veröffentlicht. Eines Tages fiel einer Waffenschmiedin in der Ausbildung ein Exemplar in die Hand. Sie war so verzaubert von den Bildern der Rituale, dass sie begann, eine Hommage daran zu schaffen. Ihr Meisterwerk war Sternenrufer, ein Streitflegel von solcher Qualität, dass man sagte, er sei vom Himmel gefallen.</DefaultText>
+Das Tagebuch wurde in den jungen aedyrischen und vailianischen Kolonien in großer Auflage veröffentlicht. Eines Tages fiel einer Waffenschmiedin in der Ausbildung ein Exemplar in die Hand. Sie war so verzaubert von den Bildern der Rituale, dass sie begann, eine Hommage daran zu schaffen. Ihr Meisterwerk war Sternenrufer, ein Streitflegel von solcher Qualität, dass man sagte, er sei vom Himmel gefallen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5819,13 +5819,13 @@ Dieses große Schwert scheint mit Rost überzogen zu sein, doch bei näherer Bet
     </Entry>
     <Entry>
       <ID>1174</ID>
-      <DefaultText>St. Rumbalt gehörte zu den ersten eothasianischen Pilgern, die das Angebot des Kaisers annahmen, in das entlegene Gebiet Readceras umzusiedeln. Rumbalt war ein treuer Priester des Strahlenden Gottes und galt in seiner Gemeinde als Anführer, bekannt für seine standhafte Hingabe an seine Gemeinde, aber auch für seine strenge Wachsamkeit gegen Verstöße gegen die Glaubenslehre. Seine überlieferten Predigten spiegeln diese Dualität wieder, denn er betonte die erlösende Kraft des Glaubens, während er gleichzeitig vor der strengen Bestrafung aller warnte, die Eothas' Wohlwollen ablehnten. 
+      <DefaultText>St. Rumbalt gehörte zu den ersten eothasischen Pilgern, die das Angebot des Kaisers annahmen, in das entlegene Gebiet Readceras umzusiedeln. Rumbalt war ein treuer Priester des Strahlenden Gottes und galt in seiner Gemeinde als Anführer, bekannt für seine standhafte Hingabe an seine Gemeinde, aber auch für seine strenge Wachsamkeit gegen Verstöße gegen die Glaubenslehre. Seine überlieferten Predigten spiegeln diese Dualität wieder, denn er betonte die erlösende Kraft des Glaubens, während er gleichzeitig vor der strengen Bestrafung aller warnte, die Eothas' Wohlwollen ablehnten. 
 
-Die Kolonialisierungsbemühungen führten zu unmittelbaren Konflikten zwischen eothasianischen Siedlern und den eingeborenen Orlanern. Rumbalt half mit, einige brutale Angriffe auf die Siedlung abzuwehren. Schließlich aber wurde er während eines Überfalls tödlich verwundet. Augenzeugen berichten, dass Rumbalts Körper im Moment seines Todes von einem überwältigenden Lichtstrahl durchströmt wurde, der die verbleibenden orlanischen Krieger zu Boden warf oder in den Wald flüchten ließ.
+Die Kolonialisierungsbemühungen führten zu unmittelbaren Konflikten zwischen eothasischen Siedlern und den eingeborenen Orlanern. Rumbalt half mit, einige brutale Angriffe auf die Siedlung abzuwehren. Schließlich aber wurde er während eines Überfalls tödlich verwundet. Augenzeugen berichten, dass Rumbalts Körper im Moment seines Todes von einem überwältigenden Lichtstrahl durchströmt wurde, der die verbleibenden orlanischen Krieger zu Boden warf oder in den Wald flüchten ließ.
  
 Es häuften sich die Berichte, nach denen am Tag vor Rumbalts Tode große Wunder geschahen. Eothas, so hieß es, habe Rumbalt von seinem bevorstehenden Schicksal in Kenntnis gesetzt, und der Priester habe es froh und furchtlos angenommen, da er wusste, dass der Tod nur der erste Schritt seiner Wiedergeburt war. In jeder der letzten 27 Stunden seines Lebens wirkte er demnach ein Wunder, auf dass seine Gemeinde das Geschenk erkenne, mit dem Eothas ihn bedacht hatte, und Rumbalts Werk an seiner Statt weiterführe. 
 
-Anstatt den Strom der eothasianischen Siedler versiegen zu lassen, ermutigte Rumbalts Tod nur noch mehr Pilger, die Reise über das Meer zu wagen, um die letzte Ruhestätte von Eothas' treuestem Diener zu besichtigen. Die Stunden von St. Rumbalt wurde zu Ehren dieses Schutzheiligen der Umsiedlung geschmiedet. In die Klinge sind Markierungen graviert, welche die 27 Stunden vor Rumbalts Tod repräsentieren. Auf diese Weise wurde die Klinge mit der Macht des Heiligen getränkt. Es heißt, dass ein Mann, der vor dem Schwert niederkniet, den Augenblick seines Todes genau voraussehen kann.</DefaultText>
+Anstatt den Strom der eothasischen Siedler versiegen zu lassen, ermutigte Rumbalts Tod nur noch mehr Pilger, die Reise über das Meer zu wagen, um die letzte Ruhestätte von Eothas' treuestem Diener zu besichtigen. Die Stunden von St. Rumbalt wurde zu Ehren dieses Schutzheiligen der Umsiedlung geschmiedet. In die Klinge sind Markierungen graviert, welche die 27 Stunden vor Rumbalts Tod repräsentieren. Auf diese Weise wurde die Klinge mit der Macht des Heiligen getränkt. Es heißt, dass ein Mann, der vor dem Schwert niederkniet, den Augenblick seines Todes genau voraussehen kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6007,7 +6007,7 @@ Anstatt eine einzelne Person den Bogen besitzen zu lassen, betrachtete der Stamm
     </Entry>
     <Entry>
       <ID>1217</ID>
-      <DefaultText>Zu den berühmten Rezepten der Rauatai, mit deren Liebe für Süßes es nur die Aedyraner aufnehmen können, gehören viele köstliche Nachspeisen und reichhaltige Leckerbissen. Zu den Spezialitäten, die bei reichen Feinschmeckern der bekannten Welt am höchsten im Kurs stehen, gehört auch der "schwärzeste" Schokoladenkeks. Diese Kekse werden von Rauatai-Botschafter gerne als kleine Aufmerksamkeiten verteilt, und viele ausländische Würdenträger empfangen Rauatai-Delegationen vor allem deshalb sehr warmherzig, weil sie auf Gastgeschenke in Form dieser Kekse hoffen.</DefaultText>
+      <DefaultText>Zu den berühmten Rezepten der Rauatai, mit deren Liebe für Süßes es nur die Aedyrer aufnehmen können, gehören viele köstliche Nachspeisen und reichhaltige Leckerbissen. Zu den Spezialitäten, die bei reichen Feinschmeckern der bekannten Welt am höchsten im Kurs stehen, gehört auch der "schwärzeste" Schokoladenkeks. Diese Kekse werden von Rauatai-Botschafter gerne als kleine Aufmerksamkeiten verteilt, und viele ausländische Würdenträger empfangen Rauatai-Delegationen vor allem deshalb sehr warmherzig, weil sie auf Gastgeschenke in Form dieser Kekse hoffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6042,12 +6042,12 @@ Anstatt eine einzelne Person den Bogen besitzen zu lassen, betrachtete der Stamm
     </Entry>
     <Entry>
       <ID>1224</ID>
-      <DefaultText>Dieser Eiaufstrich kommt besonders bei den dyrwäldlerischen Bauern in Tenferths an Arbeitstagen oft auf den Tisch. Die Tenferther, die als unerschütterliche Zeitgenossen und rustikale Stoiker bekannt sind, finden sich oft als Zielscheibe von Witzen über ihr bescheidenes Essen wieder. Bei den verträglicheren Witzen geht es darum, dass Tenferther die Eierschalen versehentlich in den Aufstrich verarbeiten und ohne Murren alles aufessen. Böse Witze aber implizieren, dass Tenferther teilnahmslos Steine, Hühnerfedern, Nägel und andere scheußliche Sachen essen, die irgendwie in den Aufstrich geraten sind.</DefaultText>
+      <DefaultText>Dieser Eiaufstrich kommt besonders bei den dyrwälderischen Bauern in Tenferths an Arbeitstagen oft auf den Tisch. Die Tenferther, die als unerschütterliche Zeitgenossen und rustikale Stoiker bekannt sind, finden sich oft als Zielscheibe von Witzen über ihr bescheidenes Essen wieder. Bei den verträglicheren Witzen geht es darum, dass Tenferther die Eierschalen versehentlich in den Aufstrich verarbeiten und ohne Murren alles aufessen. Böse Witze aber implizieren, dass Tenferther teilnahmslos Steine, Hühnerfedern, Nägel und andere scheußliche Sachen essen, die irgendwie in den Aufstrich geraten sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1225</ID>
-      <DefaultText>Ein frisch gefangener Fisch mit silbernen Schuppen. Dyrwäldlerischen Legenden zufolge wird man klüger, wenn man die Augen eines Fischs isst (auch wenn sie dem Fisch selbst offenbar nicht geholfen haben).</DefaultText>
+      <DefaultText>Ein frisch gefangener Fisch mit silbernen Schuppen. Dyrwälderischen Legenden zufolge wird man klüger, wenn man die Augen eines Fischs isst (auch wenn sie dem Fisch selbst offenbar nicht geholfen haben).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6069,7 +6069,7 @@ Als der örtliche Duc von ihrem Mut und der Not der Kinder hörte, ließ er Notv
     </Entry>
     <Entry>
       <ID>1229</ID>
-      <DefaultText>Zu den häufigsten Früchten im Dyrwald gehören importierte Sonnreads aus aedyranischen Obstgärten und die gewöhnliche Birne, aber auch vailianische Feigen sind unter wohlhabenden Dyrwäldlern sehr beliebt.</DefaultText>
+      <DefaultText>Zu den häufigsten Früchten im Dyrwald gehören importierte Sonnreads aus aedyrischen Obstgärten und die gewöhnliche Birne, aber auch vailianische Feigen sind unter wohlhabenden Dyrwäldern sehr beliebt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6108,7 +6108,7 @@ Doch wieder stand Mabec ungläubig vor dem Baum - er fand weder einen Hohlraum i
     </Entry>
     <Entry>
       <ID>1236</ID>
-      <DefaultText>Rinderbraten ist ein im ganzen Dyrwald weit verbreitetes Gericht, und hunderte Familien haben seit Generationen dieselben Rezepte verwendet. Niemand ist sich sicher, wie er als "Duc-Rinderbraten" bekannt wurde, aber diesbezüglich gibt es zwei Hauptlegenden: Die erste dreht sich um Admeth Hadret, den ersten Duc des Dyrwalds, der angeblich für seinen Gefangenen, den Glanfathaner Galven Rêgd, persönlich einen Rinderbraten zubereitete. Dem Orlaner schmeckte das Gericht angeblich so gut, dass er um das Rezept bat, um es nach seiner Freilassung an seine Verwandten weiterzugeben. Die zweite, wahrscheinlichere Erzählung dreht sich um eine skrupellosen Köchin, der in der altehrwürdigen Schänke Zum Schwarzen Hund in Goldtal arbeitete. Unzähligen Reisenden vertraute sie an, sie hätte das Rezept für den "Duc-Rinderbraten" -- was einfach nur ihr eigenes, köstliches Rezept war - und verkaufte es Dutzenden für horrende Preise. Jedes Opfer der List bereitete daraufhin Rinderbraten mit dem vermeintlich persönlichen Rezept des Ducs zu, was schließlich zu diesem Gebrauchsnamen führte.</DefaultText>
+      <DefaultText>Rinderbraten ist ein im ganzen Dyrwald weit verbreitetes Gericht, und hunderte Familien haben seit Generationen dieselben Rezepte verwendet. Niemand ist sich sicher, wie er als "Duc-Rinderbraten" bekannt wurde, aber diesbezüglich gibt es zwei Hauptlegenden: Die erste dreht sich um Admeth Hadret, den ersten Duc des Dyrwalds, der angeblich für seinen Gefangenen, den Glanfathaner Galven Regd, persönlich einen Rinderbraten zubereitete. Dem Orlaner schmeckte das Gericht angeblich so gut, dass er um das Rezept bat, um es nach seiner Freilassung an seine Verwandten weiterzugeben. Die zweite, wahrscheinlichere Erzählung dreht sich um eine skrupellosen Köchin, der in der altehrwürdigen Schänke Zum Schwarzen Hund in Goldtal arbeitete. Unzähligen Reisenden vertraute sie an, sie hätte das Rezept für den "Duc-Rinderbraten" -- was einfach nur ihr eigenes, köstliches Rezept war - und verkaufte es Dutzenden für horrende Preise. Jedes Opfer der List bereitete daraufhin Rinderbraten mit dem vermeintlich persönlichen Rezept des Ducs zu, was schließlich zu diesem Gebrauchsnamen führte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6189,7 +6189,7 @@ Der fähige Pikenier Solmar konnte jeden Versuch abwehren, ihn zu treffen, und f
     </Entry>
     <Entry>
       <ID>1252</ID>
-      <DefaultText>Eine Gruppe aedyranischer Pikeniere war so diszipliniert im Kampf, dass sie die Aufmerksamkeit des Fercönyngs auf sich zogen. Er machte sie zu Mitgliedern seiner persönlichen Garde und ließ eigens Waffen für sie fertigen. Sie marschierten an der Spitze seiner Prozession, ihre Bewegungen im perfekten Einklang und ihre Piken wie Grashalme im Wind schwankend. Die Pikeniere wurden zu einer Attraktion bei königlichen Festen und Paraden, und sowohl sie als auch ihre Waffen erhielten den Beinamen "Hohes Gras".</DefaultText>
+      <DefaultText>Eine Gruppe aedyrischer Pikeniere war so diszipliniert im Kampf, dass sie die Aufmerksamkeit des Fercönyngs auf sich zogen. Er machte sie zu Mitgliedern seiner persönlichen Garde und ließ eigens Waffen für sie fertigen. Sie marschierten an der Spitze seiner Prozession, ihre Bewegungen im perfekten Einklang und ihre Piken wie Grashalme im Wind schwankend. Die Pikeniere wurden zu einer Attraktion bei königlichen Festen und Paraden, und sowohl sie als auch ihre Waffen erhielten den Beinamen "Hohes Gras".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6251,7 +6251,7 @@ Piken sind außerdem die bevorzugten Waffen der Xaurips. Diese Pike, einfach abe
     </Entry>
     <Entry>
       <ID>1264</ID>
-      <DefaultText>K'eel war ein Wachmann in dem kleinen dyrwäldlerischen Dorf Maidenfall. Er war ein guter Mann, der seine Pflichten ehrenhaft ausführte. Oft fand er sich in gewalttätigen Auseinandersetzungen mit Grobianen und Söldnern wieder, die in das Dorf kamen, um die Ruinen in der Nähe zu plündern.
+      <DefaultText>K'eel war ein Wachmann in dem kleinen dyrwälderischen Dorf Maidenfall. Er war ein guter Mann, der seine Pflichten ehrenhaft ausführte. Oft fand er sich in gewalttätigen Auseinandersetzungen mit Grobianen und Söldnern wieder, die in das Dorf kamen, um die Ruinen in der Nähe zu plündern.
 
 K'eel war dürr, mit einem knabenhaften Gesicht und einem unbeholfenen Gang, weshalb die Missetäter ihn selten für voll nahmen. Sie verspotteten ihn und sagten ihm, er würde sie nie im Leben ins Gefängnis werfen. "Du hast Recht", antwortete K'eel. "Ich bringe Vergebung."</DefaultText>
       <FemaleText />
@@ -6335,7 +6335,7 @@ Eine schreckliche Waffe, die jeden enttäuscht, der sie verwendet. Auf den erste
     </Entry>
     <Entry>
       <ID>1280</ID>
-      <DefaultText>Verdienst des Verräters befand sich einst im Besitz eines aedyranischen Fürsten namens Ygendurl und erhielt seinen Titel während des Widerstandskriegs. Ygendurls Truppen waren von Hadrets Armee besiegt und zerschlagen worden. Sie wussten, ihre Seite würde den Krieg verlieren. Ygendurl bat um einen Waffenstillstand und handelte eine Vereinbarung aus - wenn seine Soldaten verschont werden würden, würden sie in Zukunft für Hadret kämpfen. Anschließend richtete Ygendurl seine Waffe und seine verbleibenden Truppen gegen seine ehemaligen Verbündeten und flankierte sie, während sie auf Hadret konzentriert waren. In dem Chaos, das daraufhin entstand, erlitten die völlig überraschten kaiserlichen Truppen verheerende Verluste.
+      <DefaultText>Verdienst des Verräters befand sich einst im Besitz eines aedyrischen Fürsten namens Ygendurl und erhielt seinen Titel während des Widerstandskriegs. Ygendurls Truppen waren von Hadrets Armee besiegt und zerschlagen worden. Sie wussten, ihre Seite würde den Krieg verlieren. Ygendurl bat um einen Waffenstillstand und handelte eine Vereinbarung aus - wenn seine Soldaten verschont werden würden, würden sie in Zukunft für Hadret kämpfen. Anschließend richtete Ygendurl seine Waffe und seine verbleibenden Truppen gegen seine ehemaligen Verbündeten und flankierte sie, während sie auf Hadret konzentriert waren. In dem Chaos, das daraufhin entstand, erlitten die völlig überraschten kaiserlichen Truppen verheerende Verluste.
 
 Trotz seiner Bemühungen überlebten weder Ygendurl noch seine Truppen den Krieg. Seine Ehrlosigkeit aber ist bis heute nicht vergessen. Beide Seiten denken nicht gern an ihn zurück.</DefaultText>
       <FemaleText />
@@ -6568,7 +6568,7 @@ Während des Widerstandskriegs wurde mehrfach versucht, die Waffe wiederzufinden
     </Entry>
     <Entry>
       <ID>1317</ID>
-      <DefaultText>Die Sonnenlanzenfalle ist unter Eothasianern sehr beliebt. Sie ruft eine mächtige Lanze aus purem, gleißenden Licht herab, die mit tödlicher Kraft einschlägt. Eindringlinge, die nicht sofort aufgespießt werden, werden durch die Hitze oft bei lebendigem Leib verbrannt.</DefaultText>
+      <DefaultText>Die Sonnenlanzenfalle ist unter Eothasiern sehr beliebt. Sie ruft eine mächtige Lanze aus purem, gleißenden Licht herab, die mit tödlicher Kraft einschlägt. Eindringlinge, die nicht sofort aufgespießt werden, werden durch die Hitze oft bei lebendigem Leib verbrannt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6583,14 +6583,14 @@ Während des Widerstandskriegs wurde mehrfach versucht, die Waffe wiederzufinden
     </Entry>
     <Entry>
       <ID>1320</ID>
-      <DefaultText>Jeder in Baelreach kannte Gerun als missmutigen alten Mann mit einer ungewöhnlichen Vorliebe für Rüben und keinerlei Geduld für Plaudereien. Niemand kannte ihn als den aedyranischen Schläger, dessen Vergangenheit ihn gezwungen hatte, ein neues Leben in den Kolonien anzufangen.
+      <DefaultText>Jeder in Baelreach kannte Gerun als missmutigen alten Mann mit einer ungewöhnlichen Vorliebe für Rüben und keinerlei Geduld für Plaudereien. Niemand kannte ihn als den aedyrischen Schläger, dessen Vergangenheit ihn gezwungen hatte, ein neues Leben in den Kolonien anzufangen.
 
-Als daher aedyranische Soldaten zu Beginn des Widerstandskriegs in Baelreach einmarschierten, waren alle vollkommen überrascht, dass der alte Gerun sich den Verteidigern des Dorfes mit Schwert und Schild anschloss und die aedyranischen Truppen ebenso gut zurückhielt wie seine deutlich jüngeren Kameraden.</DefaultText>
+Als daher aedyrische Soldaten zu Beginn des Widerstandskriegs in Baelreach einmarschierten, waren alle vollkommen überrascht, dass der alte Gerun sich den Verteidigern des Dorfes mit Schwert und Schild anschloss und die aedyrischen Truppen ebenso gut zurückhielt wie seine deutlich jüngeren Kameraden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1321</ID>
-      <DefaultText>Dieser beeindruckend große Schild ist mit einem Relief von Dev Clef versehen. Dev Clef ist einer der wichtigsten Orte der Glanfathaner, der Schauplatz einer brutalen Schlacht mit den Dyrwäldlern während der turbulenten Zeiten vor der Unterzeichnung der Zehnjahresverträge. Die Felsen und Höhlen entlang der Klippen boten den Glanfathanern hervorragende Deckung, aus der sie ihre Angriffe gegen die Dyrwäldler starten konnten, nur um sofort wieder zu verschwinden, sobald Gefahr drohte. Dank dieses natürlichen Vorteils konnten die Glanfathaner die Dyrwäldler aus dieser Gegend vertreiben.</DefaultText>
+      <DefaultText>Dieser beeindruckend große Schild ist mit einem Relief von Dev Clef versehen. Dev Clef ist einer der wichtigsten Orte der Glanfathaner, der Schauplatz einer brutalen Schlacht mit den Dyrwäldern während der turbulenten Zeiten vor der Unterzeichnung der Zehnjahresverträge. Die Felsen und Höhlen entlang der Klippen boten den Glanfathanern hervorragende Deckung, aus der sie ihre Angriffe gegen die Dyrwälder starten konnten, nur um sofort wieder zu verschwinden, sobald Gefahr drohte. Dank dieses natürlichen Vorteils konnten die Glanfathaner die Dyrwälder aus dieser Gegend vertreiben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6617,7 +6617,7 @@ Als daher aedyranische Soldaten zu Beginn des Widerstandskriegs in Baelreach ein
       <ID>1326</ID>
       <DefaultText>Ilfan Byrngar war nicht der fähigste Soldat. Im Gegenteil, er neigte dazu, über seine eigenen Füße zu stolpern. Seine Familie, die sich seiner Tollpatschigkeit nur allzu gut bewusst war, ließ ihm einen Schild von außergewöhnlicher Stärke und Haltbarkeit fertigen. Wenn er schon keine Hiebe auf seine Gegner herabregnen lassen konnte, so hofften sie, er könnte sie wenigstens daran hindern, ihrerseits auf ihn einzuprügeln. 
 
-Der Schild erwies sich für diesen Zweck als äußerst wirkungsvoll, denn Ilfarn wurde durch ihn so gründlich verdeckt, selbst, wenn er benommen im Schlamm lag, dass viele Feinde sich aus purer Frustration neue Ziele suchten.</DefaultText>
+Der Schild erwies sich für diesen Zweck als äußerst wirkungsvoll, denn Ilfan wurde durch ihn so gründlich verdeckt, selbst, wenn er benommen im Schlamm lag, dass viele Feinde sich aus purer Frustration neue Ziele suchten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6627,7 +6627,7 @@ Der Schild erwies sich für diesen Zweck als äußerst wirkungsvoll, denn Ilfarn
     </Entry>
     <Entry>
       <ID>1328</ID>
-      <DefaultText>Scâth Gwannek ("Winterschild") wurde bei einer der ersten Erkundungen der engwithanischen Ruinen in der Weißmark entdeckt und dem aedyranischen Thayn übergeben, der Fort Knochenbeißer befehligte. Der Thayn wusste nicht von der Macht des Schildes und war zu eitel, um einem Artefakt aus den Ruinen zu vertrauen. Er hängte den Schild daher in der Ratskammer des Forts auf, als Zeichen der Herrschaft Aedrys über die Weißmark und den eingeborenen Stamm der Steindornen.</DefaultText>
+      <DefaultText>Scâth Gwannek ("Winterschild") wurde bei einer der ersten Erkundungen der engwithanischen Ruinen in der Weißmark entdeckt und dem aedyrischen Thayn übergeben, der Fort Knochenbeißer befehligte. Der Thayn wusste nicht von der Macht des Schildes und war zu eitel, um einem Artefakt aus den Ruinen zu vertrauen. Er hängte den Schild daher in der Ratskammer des Forts auf, als Zeichen der Herrschaft Aedyrs über die Weißmark und den eingeborenen Stamm der Steindornen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7061,7 +7061,7 @@ Die Handschuhe aus weichem Samt sind mit kryptischen Stickereien verziert. Eine 
     </Entry>
     <Entry>
       <ID>1399</ID>
-      <DefaultText>Kaninchenfellhandschuhe waren über viele Jahrhunderte Bestandteil von aedyranischen Fabeln und Gutenachtgeschichten, meist als glücksbringende Geschenke für besonders tugendhafte Figuren. 
+      <DefaultText>Kaninchenfellhandschuhe waren über viele Jahrhunderte Bestandteil von aedyrischen Fabeln und Gutenachtgeschichten, meist als glücksbringende Geschenke für besonders tugendhafte Figuren. 
  
 Zum ersten Mal erwähnt wurden die Handschuhe in einer Gutenachtgeschichte über ein Mädchen, das inmitten einer Hungersnot einer alten Greisin ein Stück Obst schenkte. Die alte Frau überreichte dem Mädchen daraufhin Kaninchenfellhandschuhe, und obwohl Sommer war, nahm das Mädchen sie dankbar an. Sie trug sie und konnte genug Essen sammeln, um ihre Familie zu ernähren. Wenige Jahre später war sie zu einer Jägerin mit erstaunlichen Fähigkeiten herangewachsen. 
 
@@ -7166,7 +7166,7 @@ Mit der Zeit ging die Krankheit auch auf ihn über, schmolz ihm das Fleisch vom 
       <ID>1416</ID>
       <DefaultText>Dieses Amulett wurde im Jahr 2664 AI von kaiserlichen Agenten aus den Ruinen von Eir&#160;Glanfath geborgen. In dem Versuch, den neuen und instabilen Frieden zwischen Gréf Admeth Hadret und den Glanfathanern zu zerschlagen, fanden sie sich plötzlich im Besitz zahlreicher mächtiger und mysteriöser Artefakte wieder. 
 
-Aedyranische Zauberer und Beseeler zeigten besonders großes Interesse an diesem Stück - zumal, nachdem ein kaiserlicher Wächter behauptete, er würde darin die Seele der Wälder des Dyrwalds sehen. Als einer der Zauberer, die das Amulett studierten, allerdings in den Wahnsinn getrieben wurde, kamen die Forschungen zum Erliegen. Das Artefakt wechselte den Besitzer und es wird angenommen, dass es von einem glanfathanischen Schurken zurückgestohlen wurde.
+Aedyrische Zauberer und Beseeler zeigten besonders großes Interesse an diesem Stück - zumal, nachdem ein kaiserlicher Wächter behauptete, er würde darin die Seele der Wälder des Dyrwalds sehen. Als einer der Zauberer, die das Amulett studierten, allerdings in den Wahnsinn getrieben wurde, kamen die Forschungen zum Erliegen. Das Artefakt wechselte den Besitzer und es wird angenommen, dass es von einem glanfathanischen Schurken zurückgestohlen wurde.
 
 Das tränenförmige Amulett hängt an einer silbernen Kette. Auf der Vorderseite zeigt es das Bild eines Kardinals im Flug, auf der Rückseite ist es mit Runen versehen. Wenn man es trägt, gibt es eine seltsame Vibration ab, die eher gespürt als gehört wird, als würde irgendetwas in dem Amulett die Seele des Trägers zum Schwingen bringen.</DefaultText>
       <FemaleText />
@@ -7254,7 +7254,7 @@ Unter den roten, schwarzen und braunen Federn des Umhangs sind auch einige silbe
     </Entry>
     <Entry>
       <ID>1428</ID>
-      <DefaultText>Dieser Umhang wurde in der Frühzeit des aedyranischen Reichs dem Ritter Erij von einem Kulklin-Gesandten als Freundschaftsgeschenk überreicht. Beeindruckt von den edlen Eigenschaften des Ritters wurde das Geschenk schnell zu einem Symbol des neuen Bündnisses zwischen Elfen und Volk. Der Umhang hat seitdem häufig den Besitzer gewechselt, doch es gilt noch immer als große Ehre, ihn zu empfangen.
+      <DefaultText>Dieser Umhang wurde in der Frühzeit des aedyrischen Reichs dem Ritter Erij von einem Kulkin-Gesandten als Freundschaftsgeschenk überreicht. Beeindruckt von den edlen Eigenschaften des Ritters wurde das Geschenk schnell zu einem Symbol des neuen Bündnisses zwischen Elfen und Volk. Der Umhang hat seitdem häufig den Besitzer gewechselt, doch es gilt noch immer als große Ehre, ihn zu empfangen.
 
 Das glänzende Goldgewebe ist mit rotem und silbernem Schweifwerk aus edler Seide verziert. Auf der Rückseite des Umhangs ist der Umriss einer offenen Rose zu sehen. Er ist immer sauber und in gutem Zustand.</DefaultText>
       <FemaleText />
@@ -7491,7 +7491,7 @@ Da sie besonders unter den Kriegern der Vailianischen Republiken weit verbreitet
       <ID>1473</ID>
       <DefaultText>Dieser Umhang fühlt sich so leicht an, dass man fast vergessen kann, dass man ihn trägt. Der Stoff riecht unverkennbar nach einer Seebrise, kühl und salzig. Auch wenn er von Motten zerfressen und zerfranst ist, hält er die Kälte ab. Die ausgeblichenen Farben fügen sich fast wie ein Tarnmuster in die Umgebung ein.
 
-Du hast diesen Gegenstand im Leuchtturm von Ondras Geschenk gefunden. Der Turm war anderthalb Jahrhunderte lang unbewohnt. Die letzte Bewohnerin, die Leuchtturmwärterin, starb angeblich während der Invasion durch die Aedyraner. Es heißt, dass ihr Geist noch immer in dem Turm haust und Ausschau nach Schiffen am Horizont hält.</DefaultText>
+Du hast diesen Gegenstand im Leuchtturm von Ondras Geschenk gefunden. Der Turm war anderthalb Jahrhunderte lang unbewohnt. Die letzte Bewohnerin, die Leuchtturmwärterin, starb angeblich während der Invasion durch die Aedyrer. Es heißt, dass ihr Geist noch immer in dem Turm haust und Ausschau nach Schiffen am Horizont hält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7510,7 +7510,7 @@ Dieser Gürtel ist nach diesen Monstern benannt und verleiht dem Träger auf mag
       <ID>1476</ID>
       <DefaultText>Die berühmteste Schlacht im Krieg des Heiligen - abgesehen von der bei der Zitadelle von Halgot - war die Schlacht im Gnadental. 
 
-Während der Haupttrupp von St. Waidwens Armee von Norden her in den Dyrwald einmarschierte, näherten sich zwei Brigaden aus Richtung Osten. Sie erreichten Kaltmorg durch einen Pass aus der Weißmark. Die Bewohner von Kaltmorg ließen die Readceraner ungehindert passieren, ein Akt der Feigheit, für den die Dyrwäldler sie noch heute verfluchen. Die Soldaten zogen nach Norden, wo sie sich bei Neu-Yarma der übrigen Armee anschließen wollten. 
+Während der Haupttrupp von St. Waidwens Armee von Norden her in den Dyrwald einmarschierte, näherten sich zwei Brigaden aus Richtung Osten. Sie erreichten Kaltmorg durch einen Pass aus der Weißmark. Die Bewohner von Kaltmorg ließen die Readceraner ungehindert passieren, ein Akt der Feigheit, für den die Dyrwälder sie noch heute verfluchen. Die Soldaten zogen nach Norden, wo sie sich bei Neu-Yarma der übrigen Armee anschließen wollten. 
 
 Die Bewohner des Gnadentals hatten kaum Vorwarnung und daher wenig Zeit, sich zu rüsten, doch sie kämpften erbittert, um die Readceraner so lange sie konnten zurückzuhalten. Die Stadt wurde zwar nach einigen Tagen des Kampfes niedergebrannt, doch die Gnadentaler hatten den Dörfern und Stämmen auf dem Weg nach Neu-Yarma genügend Zeit verschafft, um erfolgreiche Guerillaangriffe zu planen. Es wird allgemein angenommen, dass die Schlacht im Gnadental und die vielen Scharmützel in der Wildnis die Readceraner daran gehindert haben, die Zitadelle von Halgot zu erreichen, ehe der Götterhammer bereit war.
 
@@ -7592,7 +7592,7 @@ Sie verbrachte das letzte Jahrhundert ihres Lebens damit, einen Weg zu suchen, i
     </Entry>
     <Entry>
       <ID>1490</ID>
-      <DefaultText>Dieser dicke Eisenring ist verbeult und verkratzt und scheint lange und intensiv genutzt worden zu sein. Er ist mit elf kleinen Perlen besetzt, eine für jeden Gott. Er wurde von einem aedyranischen Priester gefertigt, um ihn an seinen Glauben zu erinnern, insbesondere im Eifer des Gefechts. Es heißt, wenn er mit den Fingern gegen die Perlen rieb, stieß er ein kurzes Gebet an jeden der Götter aus, die ihn im Gegenzug segneten.</DefaultText>
+      <DefaultText>Dieser dicke Eisenring ist verbeult und verkratzt und scheint lange und intensiv genutzt worden zu sein. Er ist mit elf kleinen Perlen besetzt, eine für jeden Gott. Er wurde von einem aedyrischen Priester gefertigt, um ihn an seinen Glauben zu erinnern, insbesondere im Eifer des Gefechts. Es heißt, wenn er mit den Fingern gegen die Perlen rieb, stieß er ein kurzes Gebet an jeden der Götter aus, die ihn im Gegenzug segneten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7636,7 +7636,7 @@ Das Monokel aus dunklem Messing ist mit filigranen Drahtarbeiten in der Form von
     </Entry>
     <Entry>
       <ID>1498</ID>
-      <DefaultText>Der Legende nach gehörte dieser Hut einst einem berühmten Prinzen eines kleinen Königreichs, das vom Aedyranischen Kaiserreich erobert wurde und darin aufging. Der Prinz und sein Hofstaat waren für ihre ausgefallene Kleidung bekannt, unglücklicherweise aber nicht für ihr Geschick im Kampf. Als der Prinz erfuhr, dass die aedyranische Armee auf ihn zumarschierte, ließ er ein rauschendes Fest ausrichten, um die Invasoren zu begrüßen. 
+      <DefaultText>Der Legende nach gehörte dieser Hut einst einem berühmten Prinzen eines kleinen Königreichs, das vom Aedyrischen Kaiserreich erobert wurde und darin aufging. Der Prinz und sein Hofstaat waren für ihre ausgefallene Kleidung bekannt, unglücklicherweise aber nicht für ihr Geschick im Kampf. Als der Prinz erfuhr, dass die aedyrische Armee auf ihn zumarschierte, ließ er ein rauschendes Fest ausrichten, um die Invasoren zu begrüßen. 
 
 Dieser Hut überlebte den Krieg und die anschließende Besatzung und wurde seitdem in vielen dunklen Ecken von Ehrgeizlingen gehandelt, die ihre gesellschaftliche Stellung mit Stil verbessern wollten.
 
@@ -7674,15 +7674,15 @@ Dieser abgewetzte und ramponierte Lederhelm passt über den Kopf und bedeckt den
     </Entry>
     <Entry>
       <ID>1504</ID>
-      <DefaultText>Niemand konnte wissen, dass der Mann, der einst einen Teil seines eigenen Landes durch Feuer zerstörte, einmal zum beliebtesten Anführer des Dyrwalds werden würde. Admeth starb als Märtyrer in dem Krieg, den er begonnen hatte, um sein Volk von der Unterdrückung zu befreien. Jeder Dyrwäldler kennt und verehrt ihn für seine Taten.
+      <DefaultText>Niemand konnte wissen, dass der Mann, der einst einen Teil seines eigenen Landes durch Feuer zerstörte, einmal zum beliebtesten Anführer des Dyrwalds werden würde. Admeth starb als Märtyrer in dem Krieg, den er begonnen hatte, um sein Volk von der Unterdrückung zu befreien. Jeder Dyrwälder kennt und verehrt ihn für seine Taten.
 
-Obwohl es Aufzeichnungen über die Kindheit seines Vaters Edrang gibt - und obwohl er vom Adel des Dyrwalds (als dieser noch zu aedyranischem Gebiet gehörte) großgezogen wurde, sind über Admeths frühe Jahre kaum Informationen zu finden. Aber Admeth ist nicht für seine Kindheit bekannt. Er ist dafür bekannt, den Dyrwald gerettet und mit seinem Erzfeind vereint zu haben - den Glanfathanern.
+Obwohl es Aufzeichnungen über die Kindheit seines Vaters Edrang gibt - und obwohl er vom Adel des Dyrwalds (als dieser noch zu aedyrischem Gebiet gehörte) großgezogen wurde, sind über Admeths frühe Jahre kaum Informationen zu finden. Aber Admeth ist nicht für seine Kindheit bekannt. Er ist dafür bekannt, den Dyrwald gerettet und mit seinem Erzfeind vereint zu haben - den Glanfathanern.
 
 Im Jahr 2652 AI hatten die Schwierigkeiten des Dyrwalds mit seinem Fercönyng ihren Höhepunkt erreicht. Mehrere der Grafen unter Edrangs Herrschaft - angestachelt vom kaiserlichen Hof in Aedyr - plünderten die Ruinen im gesamten Dyrwald, die den Glanfathanern heilig waren. Als die Glanfathaner schließlich Vergeltung übten, taten sie dies mit gewaltiger Brutalität und es kam zu einem Sklavenaufstand. Galven Regd, den Edrang schon einmal bekämpft hatte, übernahm die Führung über die glanfathanischen Truppen. Regd konnte auch einige Delemgan überzeugen, sich dem Kampf anzuschließen.
 
 Edrang war zu diesem Zeitpunkt schon viel zu alt, um seine Truppen in die Schlacht zu führen, also schickte er seinen Sohn Admeth an seiner Statt, um die Gefahr zu bannen. Admeth hatte offensichtlich von seinem Vater die Kunst der Taktik erlernt und machte ihm alle Ehre, als er eine gefährliche aber effektive Entscheidung traf. Um zu verhindern, dass Regds Truppen den Wald als Deckung nutzten und weiter durch sein Land vorrücken konnten, setzte er den Wald am Zufluss des Flusses Isce Uar in Brand und postierte seine Truppen so, dass sie die Glanfathaner am Rückzug hinderten. Diese Taktik erwies sich als äußerst effektiv. Einige Glanfathaner und Delemgan konnten zwar entkommen, doch Tausende starben. In dem Scharmützel, das folgte, wurde Galven Regd gefangen genommen und nach Neu-Heomar gebracht. Admeth gelang, was sein Vater jahrzehntelang versucht hatte. Er hielt Galven Regd auf.
 
-Der Konflikt mit den Glanfathanern dauerte noch mehrere Monate an und Admeth setzte die Taktik der verbrannten Erde noch mehrmals ein, um die feindlichen Truppen von zentralen Schlachtfeldern zu treiben. Er konnte den Konflikt beenden, noch ehe das Jahr sich zu Ende neigte. Doch die Dyrwäldler hatten sich den Sieg teuer erkauft. Admeths Taktiken führten dazu, dass der Konflikt als "Krieg der Schwarzen Bäume" in die Geschichte einging.
+Der Konflikt mit den Glanfathanern dauerte noch mehrere Monate an und Admeth setzte die Taktik der verbrannten Erde noch mehrmals ein, um die feindlichen Truppen von zentralen Schlachtfeldern zu treiben. Er konnte den Konflikt beenden, noch ehe das Jahr sich zu Ende neigte. Doch die Dyrwälder hatten sich den Sieg teuer erkauft. Admeths Taktiken führten dazu, dass der Konflikt als "Krieg der Schwarzen Bäume" in die Geschichte einging.
 
 Nach Edrangs Tod im Jahr 2654 wurde Admeth zum Gréf des Dyrwalds, zum Entsetzen des kaiserlichen Hofs und der anderen Grafen. Im Verlauf des nächsten Jahres widersetzten sie sich seiner Herrschaft bei jeder Gelegenheit. Sie wiesen seine Dekrete zurück und widersetzten sich seinen Befehlen.
 
@@ -7700,7 +7700,7 @@ Dank seiner neuen Stellung hatte Admeth keine Mühe, die rebellischen Grafen spu
     </Entry>
     <Entry>
       <ID>1506</ID>
-      <DefaultText>Aedyranische Bräuche</DefaultText>
+      <DefaultText>Aedyrische Bräuche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7725,7 +7725,7 @@ Dank seiner neuen Stellung hatte Admeth keine Mühe, die rebellischen Grafen spu
     </Entry>
     <Entry>
       <ID>1511</ID>
-      <DefaultText>Der Beherzte Dieb: Eine dyrwäldlerische Farce, Teil 1</DefaultText>
+      <DefaultText>Der Beherzte Dieb: Eine dyrwälderische Farce, Teil 1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7740,7 +7740,7 @@ Dank seiner neuen Stellung hatte Admeth keine Mühe, die rebellischen Grafen spu
     </Entry>
     <Entry>
       <ID>1514</ID>
-      <DefaultText>Eothasianische Gebete</DefaultText>
+      <DefaultText>Eothasische Gebete</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7885,13 +7885,13 @@ Dank seiner neuen Stellung hatte Admeth keine Mühe, die rebellischen Grafen spu
     </Entry>
     <Entry>
       <ID>1543</ID>
-      <DefaultText>Aedyr ist ein Land, das reich an Tradition und Brauchtum ist. Die strikte Einhaltung dieser Traditionen ist einer der Grundpfeiler der aedyranischen Gesellschaft. Das Spektrum der Bräuche reicht dabei von großen Feiern - wie dem Festmahl der Festmahle - bis zu trivialem Aberglauben - wie den Möglichkeiten, eine Svef-Sucht zu vermeiden. Dieser Band beschäftigt sich primär mit größeren Feierlichkeiten, denn niemand weiß rauschendere Feste auszurichten als ein Aedyraner.
+      <DefaultText>Aedyr ist ein Land, das reich an Tradition und Brauchtum ist. Die strikte Einhaltung dieser Traditionen ist einer der Grundpfeiler der aedyrischen Gesellschaft. Das Spektrum der Bräuche reicht dabei von großen Feiern - wie dem Festmahl der Festmahle - bis zu trivialem Aberglauben - wie den Möglichkeiten, eine Svef-Sucht zu vermeiden. Dieser Band beschäftigt sich primär mit größeren Feierlichkeiten, denn niemand weiß rauschendere Feste auszurichten als ein Aedyrer.
 
 Das Festmahl der Festmahle
 
-Die größte und wichtigste aller aedyranischen Traditionen ist das Festmahl der Festmahle. Dieses Fest wird während der gesamten ersten Woche des Fonestu (Tiefsommers) gefeiert und ist dem Leben des Ersten Fercönyngs gewidmet. Jeder Tag der Woche beschäftigt sich mit einem anderen Aspekt des Lebens des Fercönyngs, und bei jeder Mahlzeit werden spezielle Gerichte serviert. 
+Die größte und wichtigste aller aedyrischen Traditionen ist das Festmahl der Festmahle. Dieses Fest wird während der gesamten ersten Woche des Fonestu (Tiefsommers) gefeiert und ist dem Leben des Ersten Fercönyngs gewidmet. Jeder Tag der Woche beschäftigt sich mit einem anderen Aspekt des Lebens des Fercönyngs, und bei jeder Mahlzeit werden spezielle Gerichte serviert. 
 
-Das Festmahl der Festmahle hat seinen Ursprung in einer Feier zur Geburt des ersten Sohnes des Fercönyngs und wurde schnell zu einer jährlichen Tradition in der Woche seines Geburtstages. Heute nutzen die Aedyraner es schlicht als Ausrede für ein rauschendes Fest, bei dem sie sich stets bemühen, das Fest des Vorjahres noch zu übertreffen.
+Das Festmahl der Festmahle hat seinen Ursprung in einer Feier zur Geburt des ersten Sohnes des Fercönyngs und wurde schnell zu einer jährlichen Tradition in der Woche seines Geburtstages. Heute nutzen die Aedyrer es schlicht als Ausrede für ein rauschendes Fest, bei dem sie sich stets bemühen, das Fest des Vorjahres noch zu übertreffen.
 
 Und sollte der geneigte Leser sich fragen (wie ich es tat), welcher Fercönyng während des Festmahls der Festmahle geehrt wird - es ist stets der momentan herrschende Fercönyng. Denn jeder Fercönyng ist der Erste und Einzige Fercönyng.
 
@@ -7901,7 +7901,7 @@ Der Brauch des Naschzeugs kam im Laufe der Jahre während des Festmahls der Fest
 
 Karneval der Masken
 
-Als die ersten aedryanischen Kolonisten in das neue Land reisten, um den Dyrwald im Namen des Fercönyngs von Aedyr zu gründen, trafen sie auf das glanfathanische Volk. Der Karneval der Masken wird zu Ehren dieser Begegnung gefeiert. Ursprünglich war er schlicht eine formelle historische Nachstellung - in Form eines Theaterstücks - der Spannungen zwischen den Glanfathanern und den aedyranischen Siedlern. Inzwischen aber hat er sich zu sehr viel mehr entwickelt. Die Teilnehmer wählen eine "Seite" und verkleiden sich in aufwendigen Kostümen, die deutlich machen, welcher Gruppe sie angehören - den Aedyranern oder den Glanfathanern. Alle nehmen an einem Maskenball teil, der heute das eigentliche Theaterstück längst verdrängt hat. Nur noch das Fest zählt.
+Als die ersten aedyrischen Kolonisten in das neue Land reisten, um den Dyrwald im Namen des Fercönyngs von Aedyr zu gründen, trafen sie auf das glanfathanische Volk. Der Karneval der Masken wird zu Ehren dieser Begegnung gefeiert. Ursprünglich war er schlicht eine formelle historische Nachstellung - in Form eines Theaterstücks - der Spannungen zwischen den Glanfathanern und den aedyrischen Siedlern. Inzwischen aber hat er sich zu sehr viel mehr entwickelt. Die Teilnehmer wählen eine "Seite" und verkleiden sich in aufwendigen Kostümen, die deutlich machen, welcher Gruppe sie angehören - den Aedyrern oder den Glanfathanern. Alle nehmen an einem Maskenball teil, der heute das eigentliche Theaterstück längst verdrängt hat. Nur noch das Fest zählt.
 
 Wintersend
 
@@ -7912,7 +7912,7 @@ Wintersend war nie etwas anderes als eine willkommene Gelegenheit für ein Fest.
       <ID>1544</ID>
       <DefaultText>Die Beseelung ist eine ebenso angesehene wie verteufelte Wissenschaft, oft von ein und derselben Person. Trotz all der Forschungen, die auf dem Gebiet angestellt werden und wurden, wissen wir noch sehr wenig. Das Leben selbst kontrollieren! Auf dieses Ziel arbeiten Beseeler seit Jahrhunderten hin. Es gibt keine echten Aufzeichnungen darüber, wie die Beseelung entdeckt wurde, doch nachdem der Funke des Wissens einmal entzündet war, ließen sich die unvermeidlichen Entdeckungen nicht mehr aufhalten.
 
-Im Jahr 2260 AI konnten Beseeler als Ergebnis ihrer aufwendigen Forschungen eine Seele erfolgreich bannen und übertragen. Die Versuchsperson des Experiments war ein unbekannter junger Mann, der zwar wohlhabend war, aber schwer krank. Seine Seele sollte aus seinem sterbenden Körper in den eines kürzlich bei einem Unfall ums Leben gekommenen Mannes übertragen werden. Der neue Körper, der nur geringfügigen Verfall aufwies, sollte der Seele ein Zuhause bieten und dem jungen Mann ein sehr viel besseres Leben bescheren. Das Ergebnis des Experiments führte zur Schmähung und zum Verbot der Beseelung im aedyranischen Reich.
+Im Jahr 2260 AI konnten Beseeler als Ergebnis ihrer aufwendigen Forschungen eine Seele erfolgreich bannen und übertragen. Die Versuchsperson des Experiments war ein unbekannter junger Mann, der zwar wohlhabend war, aber schwer krank. Seine Seele sollte aus seinem sterbenden Körper in den eines kürzlich bei einem Unfall ums Leben gekommenen Mannes übertragen werden. Der neue Körper, der nur geringfügigen Verfall aufwies, sollte der Seele ein Zuhause bieten und dem jungen Mann ein sehr viel besseres Leben bescheren. Das Ergebnis des Experiments führte zur Schmähung und zum Verbot der Beseelung im aedyrischen Reich.
 
 Wir besitzen keine echten Aufzeichnungen darüber, was geschehen ist (sie wurden nach dem Verbot der Beseelung allesamt vernichtet). Es wurde jedoch ein Tagebuch entdeckt, eine Art Geständnis eines Teilnehmers. Es folgen Auszüge aus diesem Tagebuch:
 
@@ -8039,18 +8039,18 @@ Davon ließ Galven Regd sich jedoch nicht aufhalten. Er begann einen Feldzug des
 
 Es dauerte nicht lang, bevor Edrangs Männer Regds Schritte vorhersehen und wieder und wieder vereiteln konnten. Als er gefragt wurde, wie er einen Feind besiegen konnte, der jeden Schritt voraussah, antwortete Edrang: "Genau so stand er kurz davor, uns zu überlisten. Unsere Schritte waren vorhersehbar. Jeder konnte die gewöhnlichen Taktiken durchschauen. Wenn man etwas dünn genug ausbreitet, kann man ein Loch hineinstechen. Ich habe einen unvorhersehbaren Feind durch Unvorhersehbarkeit besiegt."
 
-Da Edrang die Pläne von Regd vereiteln konnte, verlief sich der Konflikt schließlich im Sande. Regd sandte eine Botschaft an Edrang, in der er ihm seinen Respekt für seine Taktiken und sein militärisches Geschick aussprach. Dieses politische und militärische Patt führte dazu, das erstmals zwischen den Glanfathanern und den aedyranischen Kolonisten, die einmal zu den Dyrwäldlern werden sollten, Verträge unterzeichnet wurden.</DefaultText>
+Da Edrang die Pläne von Regd vereiteln konnte, verlief sich der Konflikt schließlich im Sande. Regd sandte eine Botschaft an Edrang, in der er ihm seinen Respekt für seine Taktiken und sein militärisches Geschick aussprach. Dieses politische und militärische Patt führte dazu, das erstmals zwischen den Glanfathanern und den aedyrischen Kolonisten, die einmal zu den Dyrwäldern werden sollten, Verträge unterzeichnet wurden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1550</ID>
-      <DefaultText>Die Geschichte von Eir&#160;Glanfath vor der Entdeckung durch die Aedyraner ist schlecht dokumentiert. Die mündlichen Überlieferungen widersprechen sich häufig. Manche berichten von einer fortschrittlichen Zivilisation, die einfach verschwand, ihr gesamtes Wissen mitnahm und nur ihre Ruinen zurückließ. Andere sagen, die Glanfathaner selbst hätten solche Macht und Technologie entwickelt, dass sie sich beinahe selbst zerstört hätten, weshalb sie niemandem Zugang zu den Ruinen auf ihrem Land gewähren. Wie dem auch sei, verlässliche Informationen über das Gebiet Eir&#160;Glanfath gibt es erst, seit aedyranische Entdecker es im Jahr 2602 AI entdeckten.
+      <DefaultText>Die Geschichte von Eir&#160;Glanfath vor der Entdeckung durch die Aedyrer ist schlecht dokumentiert. Die mündlichen Überlieferungen widersprechen sich häufig. Manche berichten von einer fortschrittlichen Zivilisation, die einfach verschwand, ihr gesamtes Wissen mitnahm und nur ihre Ruinen zurückließ. Andere sagen, die Glanfathaner selbst hätten solche Macht und Technologie entwickelt, dass sie sich beinahe selbst zerstört hätten, weshalb sie niemandem Zugang zu den Ruinen auf ihrem Land gewähren. Wie dem auch sei, verlässliche Informationen über das Gebiet Eir&#160;Glanfath gibt es erst, seit aedyrische Entdecker es im Jahr 2602 AI entdeckten.
  
-Die Glanfathaner waren zuvor nicht an Begegnungen mit Fremden gewöhnt, und betrachteten das Eindringen in ihr Land daher als eine Art Prüfung. Die Ruinen, die das Land bedeckten, galten als heilig, und diese Fremden plünderten sie trotz zahlreicher Warnungen und stahlen Artefakte. Glanfathaner, die sich zur Wehr setzten, wurden gefangen genommen und versklavt, sie wurden zum Eigentum der neuen Kolonisten. Ihr Volk, ihr Vermächtnis und ihr Land standen auf dem Spiel. Die Glanfathaner schlugen zurück, in der Hoffnung, die Eindringlinge dauerhaft aus ihrem Land zu vertreiben. Doch trotz ihrer Bemühungen kamen immer mehr aedyranische Invasoren. Als das Jahr 2623 AI heranbrach, hatten die Aedyraner Städte gegründet, die Glanfathaner aus einigen Gebieten verdrängt und jeden versklavt, der sich widersetzte. Die Glanfathaner versuchten, in Frieden zu leben und die Aedyraner im Auge zu behalten. Bis auf einige Einzelfälle schien das auch zu funktionieren. Im Jahr 2626 AI kam dieser brüchige Frieden jedoch zu einem blutigen Ende. Eine Gruppe von Bauern wollte Ackerland schaffen, inmitten eines Gebiets, auf dem zahlreiche heilige Ruinen standen. Dabei stießen sie einen der uralten Hinkelsteine um. Ob es ein Versehen war oder absichtlich geschah, ist nicht bekannt. Doch der Vorfall löste einen Konflikt aus, der als Krieg des Zerbrochenen Steins in die Geschichte einging. Der Krieg war kurz, er dauerte weniger als ein Jahr, aber er war blutig und brutal. Mehrere tausend aedyranische Kolonisten starben, genau wie hunderte von Glanfathanern.
+Die Glanfathaner waren zuvor nicht an Begegnungen mit Fremden gewöhnt, und betrachteten das Eindringen in ihr Land daher als eine Art Prüfung. Die Ruinen, die das Land bedeckten, galten als heilig, und diese Fremden plünderten sie trotz zahlreicher Warnungen und stahlen Artefakte. Glanfathaner, die sich zur Wehr setzten, wurden gefangen genommen und versklavt, sie wurden zum Eigentum der neuen Kolonisten. Ihr Volk, ihr Vermächtnis und ihr Land standen auf dem Spiel. Die Glanfathaner schlugen zurück, in der Hoffnung, die Eindringlinge dauerhaft aus ihrem Land zu vertreiben. Doch trotz ihrer Bemühungen kamen immer mehr aedyrische Invasoren. Als das Jahr 2623 AI heranbrach, hatten die Aedyrer Städte gegründet, die Glanfathaner aus einigen Gebieten verdrängt und jeden versklavt, der sich widersetzte. Die Glanfathaner versuchten, in Frieden zu leben und die Aedyrer im Auge zu behalten. Bis auf einige Einzelfälle schien das auch zu funktionieren. Im Jahr 2626 AI kam dieser brüchige Frieden jedoch zu einem blutigen Ende. Eine Gruppe von Bauern wollte Ackerland schaffen, inmitten eines Gebiets, auf dem zahlreiche heilige Ruinen standen. Dabei stießen sie einen der uralten Hinkelsteine um. Ob es ein Versehen war oder absichtlich geschah, ist nicht bekannt. Doch der Vorfall löste einen Konflikt aus, der als Krieg des Zerbrochenen Steins in die Geschichte einging. Der Krieg war kurz, er dauerte weniger als ein Jahr, aber er war blutig und brutal. Mehrere tausend aedyrische Kolonisten starben, genau wie hunderte von Glanfathanern.
 
-Auch, nachdem der Krieg endete, nahmen die Angriffe auf die Aedyraner kein Ende. Ein Orlaner namens Regd wurde als Galven der Glanfathaner auserwählt. Er schwor, jeden Fremden für die Ungerechtigkeiten bezahlen zu lassen, die dem Land seines Volkes angetan worden waren. Er organisierte die glanfathanischen Reißzähne und führte im Verlauf der nächsten zwei Jahre eine Reihe von Angriffen aus. Es schien, als würden Regds Taktiken Erfolg zeigen und die Aedyraner aus Eir&#160;Glanfath vertreiben, doch dann begannen sie, sich zu wehren. Sie wurden deutlich organisierter, ihre Taktiken weniger vorhersehbar. Immer weniger von Regds Angriffen waren erfolgreich. Er fand heraus, dass ein neuer Gréf ernannt worden war, Edrang Hadret - jemand, der ähnliches taktisches Geschick besaß wie er selbst. Es entwickelte sich eine Pattsituation, keiner der beiden Anführer konnte mehr einen Vorteil über den anderen erlangen.
+Auch, nachdem der Krieg endete, nahmen die Angriffe auf die Aedyrer kein Ende. Ein Orlaner namens Regd wurde als Galven der Glanfathaner auserwählt. Er schwor, jeden Fremden für die Ungerechtigkeiten bezahlen zu lassen, die dem Land seines Volkes angetan worden waren. Er organisierte die glanfathanischen Reißzähne und führte im Verlauf der nächsten zwei Jahre eine Reihe von Angriffen aus. Es schien, als würden Regds Taktiken Erfolg zeigen und die Aedyrer aus Eir&#160;Glanfath vertreiben, doch dann begannen sie, sich zu wehren. Sie wurden deutlich organisierter, ihre Taktiken weniger vorhersehbar. Immer weniger von Regds Angriffen waren erfolgreich. Er fand heraus, dass ein neuer Gréf ernannt worden war, Edrang Hadret - jemand, der ähnliches taktisches Geschick besaß wie er selbst. Es entwickelte sich eine Pattsituation, keiner der beiden Anführer konnte mehr einen Vorteil über den anderen erlangen.
 
-Als Ergebnis des Patts fanden die Feindseligkeiten zwischen den beiden Gruppen ein Ende. Die Feinde unterzeichneten Verträge, um die Gewalt und die Anspannungen beizulegen. Regd trat als Galven zurück und kehrte zu seinem einfachen Leben zurück. Hadret stellte das Plündern der Ruinen von Eir&#160;Glanfath unter Strafe. Als Zeichen des guten Willens versuchte Hadret außerdem, die Sklaverei zu verbieten, was jedoch von den anderen Grafen und dem Fercönyng von Aedyr abgelehnt wurde. Es kam daher weiterhin gelegentlich zu gewalttätigen Auseinandersetzungen. Hadrets Verträge führten zu 20&#160;Jahren des relativen Friedens für die Glanfathaner, die den Aedyranern zwar weiterhin misstrauisch gegenüberstanden, aber bereit waren, ihre Anwesenheit zu dulden, wenn es nicht anders ging.</DefaultText>
+Als Ergebnis des Patts fanden die Feindseligkeiten zwischen den beiden Gruppen ein Ende. Die Feinde unterzeichneten Verträge, um die Gewalt und die Anspannungen beizulegen. Regd trat als Galven zurück und kehrte zu seinem einfachen Leben zurück. Hadret stellte das Plündern der Ruinen von Eir&#160;Glanfath unter Strafe. Als Zeichen des guten Willens versuchte Hadret außerdem, die Sklaverei zu verbieten, was jedoch von den anderen Grafen und dem Fercönyng von Aedyr abgelehnt wurde. Es kam daher weiterhin gelegentlich zu gewalttätigen Auseinandersetzungen. Hadrets Verträge führten zu 20&#160;Jahren des relativen Friedens für die Glanfathaner, die den Aedyrern zwar weiterhin misstrauisch gegenüberstanden, aber bereit waren, ihre Anwesenheit zu dulden, wenn es nicht anders ging.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8103,11 +8103,11 @@ Eine weitere gute Frage, die von vielen gestellt wird, bezieht sich auf die Glan
       <ID>1553</ID>
       <DefaultText>Wenn man in Eir&#160;Glanfath den Namen Regd erwähnt, so werden einem Geschichten erzählt von einem glorreichen Freiheitskämpfer - einem Orlaner, der sein taktisches Geschick und seine militärische Ausbildung nutzte, um die Glanfathaner vor den Gräueltaten der Invasoren im Dyrwald zu beschützen. Fragt man im Dyrwald nach ihm, so hört man wütende Berichte über die schändlichen Taten eines hinterhältigen, unehrenhaften Orlaners, der die Bürger des Dyrwalds terrorisiert hat. Aus solchen Konflikten entstehen Legenden, und Galven Regd ist eine solche Legende.
 
-Der Krieg des Zerbrochenen Steins begann durch ein Missverständnis zwischen den Glanfathanern, die im Dyrwald lebten, und den aedryranischen Kolonisten, die sich dort niederließen. Es gab bereits Spannungen zwischen den beiden Gruppen, da die Aedyraner Land für sich beanspruchten, von dem die Glanfathaner sagten, es befände sich bereits in ihrem Besitz. Da zudem noch Glanfathaner von Aedyranern gefangen genommen und versklavt wurden, war es nur eine Frage der Zeit, bis etwas das Fass zum Überlaufen brachte und die zwei Völker gegeneinander Krieg führten. Es gab zwar gelegentliche Scharmützel und Kämpfe zwischen isolierten Gruppen, aber keinen echten Konflikt ... bis zum Krieg des Zerbrochenen Steins.
+Der Krieg des Zerbrochenen Steins begann durch ein Missverständnis zwischen den Glanfathanern, die im Dyrwald lebten, und den aedyrischen Kolonisten, die sich dort niederließen. Es gab bereits Spannungen zwischen den beiden Gruppen, da die Aedyrer Land für sich beanspruchten, von dem die Glanfathaner sagten, es befände sich bereits in ihrem Besitz. Da zudem noch Glanfathaner von Aedyrern gefangen genommen und versklavt wurden, war es nur eine Frage der Zeit, bis etwas das Fass zum Überlaufen brachte und die zwei Völker gegeneinander Krieg führten. Es gab zwar gelegentliche Scharmützel und Kämpfe zwischen isolierten Gruppen, aber keinen echten Konflikt ... bis zum Krieg des Zerbrochenen Steins.
 
-Ob beabsichtigt oder nicht, aedyranische Bauern, die Ackerland für ihre Feldfrüchte schaffen wollten, warfen einen der uralten Hinkelsteine um, die überall auf dem Land zu finden sind - und er zerbrach. Die Glanfathaner, welche die alten Ruinen im Dyrwald als heilig ansahen, reagierten schnell und gewalttätig, angeführt von einem besonders fanatischen Reißzahn namens Regd. Der Krieg war zwar nur von kurzer Dauer und die Glanfathaner gingen letztlich nicht als Sieger aus ihm hervor, doch Regd und seine Truppen konnten eine beträchtliche Zahl von Kolonisten eliminieren.
+Ob beabsichtigt oder nicht, aedyrische Bauern, die Ackerland für ihre Feldfrüchte schaffen wollten, warfen einen der uralten Hinkelsteine um, die überall auf dem Land zu finden sind - und er zerbrach. Die Glanfathaner, welche die alten Ruinen im Dyrwald als heilig ansahen, reagierten schnell und gewalttätig, angeführt von einem besonders fanatischen Reißzahn namens Regd. Der Krieg war zwar nur von kurzer Dauer und die Glanfathaner gingen letztlich nicht als Sieger aus ihm hervor, doch Regd und seine Truppen konnten eine beträchtliche Zahl von Kolonisten eliminieren.
 
-Nach dem Ende des Krieges wurde Regd zum Galven - oder Anführer - der glanfathanischen Stimme gewählt. Seine Eignung als Anführer und seine Stärke im Kampf hatten ihm den Respekt aller Stämme von Eir&#160;Glanfath eingebracht. Da alle Stämme vereint hinter ihm standen, konnte er die Krieger derart organisiert befehligen und koordinieren, dass sie zu einer effektiven Armee wurden, vor deren nächstem Angriff die aedyranischen Kolonisten sich täglich fürchteten. Sein Name und sein Ruf verbreiteten sich unter beiden Völkern. In den zwei Jahren nach dem Krieg des Zerbrochenen Steins tötete Regd mit seinen Truppen durch Täuschung, Fehlinformation und Guerillataktiken Hunderte von Aedyranern. Die verbleibenden Grafen drängten den Fercönyng, etwas zu unternehmen, ehe noch mehr Adlige getötet wurden, doch Regd terrorisierte die Kolonisten weiter - und es schien, als würde sein Feldzug niemals ein Ende nehmen.
+Nach dem Ende des Krieges wurde Regd zum Galven - oder Anführer - der glanfathanischen Stimme gewählt. Seine Eignung als Anführer und seine Stärke im Kampf hatten ihm den Respekt aller Stämme von Eir&#160;Glanfath eingebracht. Da alle Stämme vereint hinter ihm standen, konnte er die Krieger derart organisiert befehligen und koordinieren, dass sie zu einer effektiven Armee wurden, vor deren nächstem Angriff die aedyrischen Kolonisten sich täglich fürchteten. Sein Name und sein Ruf verbreiteten sich unter beiden Völkern. In den zwei Jahren nach dem Krieg des Zerbrochenen Steins tötete Regd mit seinen Truppen durch Täuschung, Fehlinformation und Guerillataktiken Hunderte von Aedyrern. Die verbleibenden Grafen drängten den Fercönyng, etwas zu unternehmen, ehe noch mehr Adlige getötet wurden, doch Regd terrorisierte die Kolonisten weiter - und es schien, als würde sein Feldzug niemals ein Ende nehmen.
 
 Bis er auf Edrang Hadret traf.</DefaultText>
       <FemaleText />
@@ -8122,11 +8122,11 @@ Das Fest der Ahnen findet während des Frühlingserwachens statt und wird zu Ehr
 
 Die Säuberung
 
-Die Säuberung begann als Protest, der das Leid nachstellte, das den Glanfathanern von den aedyranischen Kolonisten zugefügt wurde, als diese begannen, sich im Dyrwald niederzulassen. Mit den Jahren hat die Säuberung sich gewandelt, so dass sie heute eher einem Spiel gleicht, das auch dazu dient, die Glanfathaner die Geschichte ihres Volkes zu lehren. Die Säuberung findet an Neujahr und Mittjahr statt und ist nur mehr eine Metapher für reale Ereignisse, keine Nachstellung der Ereignisse selbst mehr. Xaurip-Bildnisse werden im Wald aufgestellt, hohle Tonhüllen, die mit Süßigkeiten und Geschenken gefüllt sind. Die Kinder suchen im Wald nach den Bildnissen und zerstören sie - sie "säubern" den Wald, damit die Glanfathaner ihn besetzen können. Nachdem das Gebiet gesäubert wurde, versammelt man sich zu einer Feier und einem Festmahl, bei dem die Ältesten den jüngeren Mitgliedern der Gesellschaft von der wahren Geschichte des Volkes berichten.
+Die Säuberung begann als Protest, der das Leid nachstellte, das den Glanfathanern von den aedyrischen Kolonisten zugefügt wurde, als diese begannen, sich im Dyrwald niederzulassen. Mit den Jahren hat die Säuberung sich gewandelt, so dass sie heute eher einem Spiel gleicht, das auch dazu dient, die Glanfathaner die Geschichte ihres Volkes zu lehren. Die Säuberung findet an Neujahr und Mittjahr statt und ist nur mehr eine Metapher für reale Ereignisse, keine Nachstellung der Ereignisse selbst mehr. Xaurip-Bildnisse werden im Wald aufgestellt, hohle Tonhüllen, die mit Süßigkeiten und Geschenken gefüllt sind. Die Kinder suchen im Wald nach den Bildnissen und zerstören sie - sie "säubern" den Wald, damit die Glanfathaner ihn besetzen können. Nachdem das Gebiet gesäubert wurde, versammelt man sich zu einer Feier und einem Festmahl, bei dem die Ältesten den jüngeren Mitgliedern der Gesellschaft von der wahren Geschichte des Volkes berichten.
 
 Festtag des Schwarzen Baums
 
-Der Festtag des Schwarzen Baums ist zugleich ein Gedenktag und ein Festmahl. Er findet am zweiten Tag des Herbsteinbruchs statt, wenn die Bäume noch bunt sind, ihre Blätter aber bereits verlieren und das Land kalt und dunkel wird. Die Glanfathaner erzählen an diesem Tag die Geschichte vom Krieg der Schwarzen Bäume und gedenken der Gefallenen. An Morgen hängen die Erwachsenen aufwendige Girlanden an den Ästen der Bäume auf. Die Girlanden bestehen aus roten, orangefarbenen und gelben Blumen. Sie stehen für die Flammen, die durch die Wälder von Eir&#160;Glanfath loderten und alles in ihrem Weg zerstörten. Nach einem Morgen des Fastens und der Besinnung dürfen die Kinder durch die Bäume rennen, die Girlanden abreißen und sie zurück zum Festmahl bringen, wo die Tische mit den Wildblumen dekoriert werden, um den Schrecken des Krieges in etwas Schönes zu verwandeln. Dann wird gegessen und es wird der Frieden gefeiert, der nun mit den Dyrwäldlern herrscht - und es wird darauf angestoßen, dass er noch viele Jahre halten möge.
+Der Festtag des Schwarzen Baums ist zugleich ein Gedenktag und ein Festmahl. Er findet am zweiten Tag des Herbsteinbruchs statt, wenn die Bäume noch bunt sind, ihre Blätter aber bereits verlieren und das Land kalt und dunkel wird. Die Glanfathaner erzählen an diesem Tag die Geschichte vom Krieg der Schwarzen Bäume und gedenken der Gefallenen. An Morgen hängen die Erwachsenen aufwendige Girlanden an den Ästen der Bäume auf. Die Girlanden bestehen aus roten, orangefarbenen und gelben Blumen. Sie stehen für die Flammen, die durch die Wälder von Eir&#160;Glanfath loderten und alles in ihrem Weg zerstörten. Nach einem Morgen des Fastens und der Besinnung dürfen die Kinder durch die Bäume rennen, die Girlanden abreißen und sie zurück zum Festmahl bringen, wo die Tische mit den Wildblumen dekoriert werden, um den Schrecken des Krieges in etwas Schönes zu verwandeln. Dann wird gegessen und es wird der Frieden gefeiert, der nun mit den Dyrwäldern herrscht - und es wird darauf angestoßen, dass er noch viele Jahre halten möge.
 
 Bemerkenswert an der glanfathanischen Kultur ist auch die Vielzahl der Reisebräuche. Als halbnomadisches Volk besitzen die Glanfathaner eine Reihe von Traditionen, die ihre Sicherheit während der Reise gewährleisten sollen.
 
@@ -8187,11 +8187,11 @@ Das ist mein Versprechen. Das ist mein Schwur. Das ist mein Eid."</DefaultText>
       <ID>1556</ID>
       <DefaultText>Was lässt sich über das Haus Doemenel sagen, was nicht in einem Hinterzimmer im fahlen Schein eines langsam erlöschenden Feuers geflüstert wird, angsterfüllt, die falschen Ohren könnten es hören? Die Geschichte der Doemenels ist farbenfroh und gewalttätig, aufregend und mehr als nur ein klein wenig blutig.
 
-Die Doemenels waren eine kleine aedyranische Familie, die fast ausschließlich mit Textilien handelte. Sie erhielten dadurch ein bescheidenes Einkommen und erarbeiteten sich langsam den Ruf, hochwertige Ware anzubieten. Dieser Ruf brachte ihnen Verbindungen ein - geschäftliche, gesellschaftliche, manchmal eheliche. Durch diese Verbindungen wurden sie zur wichtigsten Familie der Region. Wollte man jemandem vorgestellt werden, so fragte man die Doemenels.
+Die Doemenels waren eine kleine aedyrische Familie, die fast ausschließlich mit Textilien handelte. Sie erhielten dadurch ein bescheidenes Einkommen und erarbeiteten sich langsam den Ruf, hochwertige Ware anzubieten. Dieser Ruf brachte ihnen Verbindungen ein - geschäftliche, gesellschaftliche, manchmal eheliche. Durch diese Verbindungen wurden sie zur wichtigsten Familie der Region. Wollte man jemandem vorgestellt werden, so fragte man die Doemenels.
 
 Bald gab es in jeder Stadt ein Geschäft, das zumindest teilweise den Doemenels gehörte. Ihre Macht und ihr Einfluss wuchsen, bis viele sagten, die Familie habe mehr Macht als der Fercönyng von Aedyr selbst.
 
-Doch mit der Macht kam das Verbrechen. Man kann keinen solchen Einfluss haben und ihn allein auf rechtmäßigem Wege aufrechterhalten. Bald kamen Gerüchte von Drohungen auf, von Erpressung. Natürlich lässt sich nichts beweisen, doch hinter vorgehaltener Hand wird gemunkelt, dass die Doemenels für den Tod von Trindig Byrnwigr verantwortlich waren, dessen lukratives Transportunternehmen von seiner Frau übernommen wurde - Udele Doemenel Byrnwigr.
+Doch mit der Macht kam das Verbrechen. Man kann keinen solchen Einfluss haben und ihn allein auf rechtmäßigem Wege aufrechterhalten. Bald kamen Gerüchte von Drohungen auf, von Erpressung. Natürlich lässt sich nichts beweisen, doch hinter vorgehaltener Hand wird gemunkelt, dass die Doemenels für den Tod von Trindig Byrnwigar verantwortlich waren, dessen lukratives Transportunternehmen von seiner Frau übernommen wurde - Udele Doemenel Byrnwigar.
 
 Nachdem die Doemenels das Land sicher im Griff hatten, hielten sie sich nicht weiter in den Schatten, sondern gingen fortan offen und dreist vor - sie eliminierten Widersacher, manipulierten Geschäfte und drohten jedem, der zu einem Problem werden könnte. Da sie nun die Handelsroute dominierten, wagte es niemand, sich ihnen zu widersetzen, aus Angst, sein Geschäft würde darunter leiden.
 
@@ -8408,7 +8408,7 @@ Ein plötzlicher Frieden überkam mich, spülte meine Furcht fort, ließ meine a
 
 'Fürchte dich nicht', sprach es zu mir, 'denn du bist auserwählt. Du wirst das Licht sein, welches die Wiedergeburt eines Reichs einleitet.' Das Wesen streckte seine Hand aus und beschenkte mich mit einer Vision von solcher Macht, dass ich sie kaum aufnehmen konnte."
 
-Am nächsten Morgen stolperte Waidwen zerzaust und schmutzig in sein Dorf und berichtete allen, die bereit waren, ihm zuzuhören, von dem Wunder, das sich auf seinen Feldern zugetragen hatte. Eothas selbst sei ihm erschienen! Er habe ihm aufgetragen, den aedyranischen Gouverneur dafür zu bestrafen, dass er sein Volk in das Verderben geführt habe. Es werde ihm ein Weg aufgezeigt werden und die Gläubigen, die ihm halfen, würden gesegnet werden, wenn "die Gottheit sich manifestierte". Die Dorfbewohner ignorierten ihn. Sie glaubten, der Verlust seiner Eltern habe ihn in den Wahnsinn getrieben.
+Am nächsten Morgen stolperte Waidwen zerzaust und schmutzig in sein Dorf und berichtete allen, die bereit waren, ihm zuzuhören, von dem Wunder, das sich auf seinen Feldern zugetragen hatte. Eothas selbst sei ihm erschienen! Er habe ihm aufgetragen, den aedyrischen Gouverneur dafür zu bestrafen, dass er sein Volk in das Verderben geführt habe. Es werde ihm ein Weg aufgezeigt werden und die Gläubigen, die ihm halfen, würden gesegnet werden, wenn "die Gottheit sich manifestierte". Die Dorfbewohner ignorierten ihn. Sie glaubten, der Verlust seiner Eltern habe ihn in den Wahnsinn getrieben.
 
 Doch Waidwen predigte weiter von der Macht von Eothas und der Fäulnis des Gouverneurs, was ihm schließlich den Zorn der Dorfbewohner einbrachte. Der Konflikt eskalierte eines Tages im Mittherbst. Eine Menge hatte sich um Waidwen versammelt. Sie verspotteten ihn und sagten ihm, er solle das Dorf verlassen. Die Vorlas-Ernte war schlecht ausgefallen und die Dorfbewohner gaben Waidwen die Schuld daran. Sie sagten, er habe mit seiner Blasphemie die Götter erzürnt, insbesondere Eothas. Sie trieben ihn in eines der welken Felder und schrien, er solle verschwinden. Es gibt unterschiedliche Berichte darüber, was der Auslöser für das war, was nun geschah. Manche sagen, ein Stein sei geworfen worden. Andere, er sei geschubst worden. Wieder andere, er sei schlicht über eine Wurzel gestolpert. Was auch der Auslöser war, Waidwen landete mit dem Gesicht nach unten auf dem Boden. Die Dorfbewohner standen über ihm und lachten.
 
@@ -8421,11 +8421,11 @@ Die Menge war stumm. Aus den hinteren Reihen ertönte der Ruf "Gelobet sei Eotha
     </Entry>
     <Entry>
       <ID>1564</ID>
-      <DefaultText>Etwa um das Jahr 2200 AI herum vereinigte sich eine Gruppe von Stämmen, genannt das Hirschvolk, zu einer neuen Zivilisation, dem Königreich von Aedyr. Die Stämme waren klein und über das gesamte Land verstreut. Sie wussten, für ihre anhaltende Existenz wäre es besser, sich zusammenzuschließen. Die Anführer jedes Stammes wurden zu Beratern des Königs, der von der Gruppe gewählt wurde. Jeder Berater war weiterhin Fürst seines Volkes, doch jeder Fürst unterstand dem Fercönyng (FER-kö-ning, "erster König"). Diese Entscheidung erwies sich als goldrichtig. Das aedyranische Königreich blühte auf, breitete sich über das Land aus, begründete starke Handelsrouten und war bald als Reich der gerechten - aber klugen - Geschäftsmänner bekannt. Während das Land florierte und es im Inneren kaum Zwietracht gab, gab es aber doch gelegentlich Scharmützel mit dem benachbarten Elfenkönigreich Kulklin.
+      <DefaultText>Etwa um das Jahr 2200 AI herum vereinigte sich eine Gruppe von Stämmen, genannt das Hirschvolk, zu einer neuen Zivilisation, dem Königreich von Aedyr. Die Stämme waren klein und über das gesamte Land verstreut. Sie wussten, für ihre anhaltende Existenz wäre es besser, sich zusammenzuschließen. Die Anführer jedes Stammes wurden zu Beratern des Königs, der von der Gruppe gewählt wurde. Jeder Berater war weiterhin Fürst seines Volkes, doch jeder Fürst unterstand dem Fercönyng (FER-kö-ning, "erster König"). Diese Entscheidung erwies sich als goldrichtig. Das aedyrische Königreich blühte auf, breitete sich über das Land aus, begründete starke Handelsrouten und war bald als Reich der gerechten - aber klugen - Geschäftsmänner bekannt. Während das Land florierte und es im Inneren kaum Zwietracht gab, gab es aber doch gelegentlich Scharmützel mit dem benachbarten Elfenkönigreich Kulkin.
 
-Nicht lang, nachdem das Königreich gegründet worden war, begann das aedyranische Volk mit dem Studium der Beseelung. Diese Wissenschaft war damals noch weitgehend unbekannt. Sie war eine aufregende, aber auch beängstigende neue Welt, in der die aedyranischen Gelehrten großes Potenzial sahen. Dieses Potenzial trug im Jahr 2260 AI Früchte, als eine Gruppe von Beseelern die Seele eines kürzlich verstorbenen Mannes in einen anderen Körper übertrug - und damit die erste der Kreaturen schuf, die man später "Untote" nennen sollte. Die Reaktion auf diese Entdeckung war rasch und entschlossen. Sowohl der König von Aedyr als auch die Kirche von Woedica verurteilten dieses Ereignis und das Studium und die Praxis der Beseelung wurden verboten. Sie wurde auf aedyranischem Boden nie wieder offen praktiziert.
+Nicht lang, nachdem das Königreich gegründet worden war, begann das aedyrische Volk mit dem Studium der Beseelung. Diese Wissenschaft war damals noch weitgehend unbekannt. Sie war eine aufregende, aber auch beängstigende neue Welt, in der die aedyrischen Gelehrten großes Potenzial sahen. Dieses Potenzial trug im Jahr 2260 AI Früchte, als eine Gruppe von Beseelern die Seele eines kürzlich verstorbenen Mannes in einen anderen Körper übertrug - und damit die erste der Kreaturen schuf, die man später "Untote" nennen sollte. Die Reaktion auf diese Entdeckung war rasch und entschlossen. Sowohl der König von Aedyr als auch die Kirche von Woedica verurteilten dieses Ereignis und das Studium und die Praxis der Beseelung wurden verboten. Sie wurde auf aedyrischem Boden nie wieder offen praktiziert.
 
-Die Konflikte mit Kulklin setzten sich fort und gipfelten im Jahr 2398 AI in einem kleinen Krieg. Nach dem Krieg wurde ein Vertrag unterzeichnet und das Königreich Aedyr verschmolz mit Kulklin zum Kaiserreich Aedyr. Da die politische und militärische Zwietracht beendet war, wurde das Reich Aedyr zu einer wirtschaftlichen Macht. Das Reich konnte Ressourcen beschaffen, die in anderen Teilen der Welt schwer zu bekommen waren. Seine Handelsrouten wurden zu den lukrativsten der Welt.</DefaultText>
+Die Konflikte mit Kulkin setzten sich fort und gipfelten im Jahr 2398 AI in einem kleinen Krieg. Nach dem Krieg wurde ein Vertrag unterzeichnet und das Königreich Aedyr verschmolz mit Kulkin zum Kaiserreich Aedyr. Da die politische und militärische Zwietracht beendet war, wurde das Reich Aedyr zu einer wirtschaftlichen Macht. Das Reich konnte Ressourcen beschaffen, die in anderen Teilen der Welt schwer zu bekommen waren. Seine Handelsrouten wurden zu den lukrativsten der Welt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8436,7 +8436,7 @@ Die Schmelztiegelritter besitzen die vielleicht faszinierendste und reichhaltigs
 
 Die Gruppe besteht seit Jahren - lange, bevor sie als "Ritter" bekannt war. Sie begann als ein Zusammenschluss von Schmieden, die unter der Führung von Olrun Cyneheod zusammenkamen, um eine Gilde zu gründen. Olrun hielt es für unabdingbar, dass die Mitglieder sich zusammenschlossen und ihr Wissen innerhalb der Gilde teilten, um die Fähigkeiten und Techniken zu bewahren, die sie ihr ganzes Leben über mühsam perfektioniert hatten. Er gab der Gilde den Namen "Der Schmelztiegel", da er darauf bestand, dass ihr Werk zwar für die Zerstörung genutzt wurde, man sich an sie aber immer als Schöpfer erinnern sollte. Sie sollten bekannt werden als das Instrument, das dem Feuer widersteht, um neue Form in die Welt zu bringen, im Feuer geschmiedet und durch diese Prüfung umso stärker. Olrun, der in vielen Schlachten gekämpft hatte, wusste um die Bedeutung perfekt gefertigter Waffen und Rüstungen. Zudem legte er Wert darauf, dass die Mitglieder der Gilde in der Kampfkunst geschult sind - "Eine gute Rüstung kann man nur anfertigen, wenn man sie selbst tragen muss."
 
-Olrun stand der Gilde viele Jahre lang vor und legte fest, dass jedes neue Mitglied nicht nur ein fähiger Schmied sein musste, sondern auch lernen musste, sich auf dem Schlachtfeld zu behaupten. Er erweiterte das Gebäude der Gilde um einen Übungsplatz, auf dem den ganzen Tag lang Mitglieder zu sehen waren, die an ihren Kampffähigkeiten feilten. So verdiente die Gilde sich den Spitznamen "Schmelztiegelritter". Sie wurden zu einer Miliz für den Dyrwald, einer ehrenwerten Gruppe, an die viele Dyrwäldler sich wandten, wenn sie Hilfe brauchten. Sie galten als gerecht, moralisch und stets hilfsbereit.
+Olrun stand der Gilde viele Jahre lang vor und legte fest, dass jedes neue Mitglied nicht nur ein fähiger Schmied sein musste, sondern auch lernen musste, sich auf dem Schlachtfeld zu behaupten. Er erweiterte das Gebäude der Gilde um einen Übungsplatz, auf dem den ganzen Tag lang Mitglieder zu sehen waren, die an ihren Kampffähigkeiten feilten. So verdiente die Gilde sich den Spitznamen "Schmelztiegelritter". Sie wurden zu einer Miliz für den Dyrwald, einer ehrenwerten Gruppe, an die viele Dyrwälder sich wandten, wenn sie Hilfe brauchten. Sie galten als gerecht, moralisch und stets hilfsbereit.
 
 Die Ritter erwählten Abydon zu ihrem Schutzpatron und widmeten ihr Werk seinem Namen. Ihm zu Ehren nahmen sie sein Zeichen in das ihre auf und trugen es auf ihren Armen. Viele der Ritter gingen noch weiter - gleich, aus welchem Material eine Rüstung bestand, etwas am rechten Arm bestand immer aus Eisen, zu Ehren von Abydons Beinamen "der Eiserne Arm". Beide diese Traditionen befolgen einige Ritter bis zum heutigen Tag.
 
@@ -8453,9 +8453,9 @@ In jüngsten Jahren ist der Aspekt des "Schmelztiegels" etwas in den Hintergrund
       <ID>1566</ID>
       <DefaultText>Anni Iroccio: Neujahr
 
-Der iroccianische Kalender ist zwar erst 150&#160;Jahre alt (und noch dazu vailianischen Ursprungs), wird aber dennoch fast im gesamten Dyrwald und in den umliegenden Gegenden verwendet. Der Dyrwald verwendete bis vor kurzem den aedyranischen Kalender, gab ihn jedoch zugunsten des iroccianischen Kalenders auf. Der Wechsel verlief reibungslos und es gab kaum Widerstände, da der aedyranische Kalender hoffnungslos ungenau war.
+Der iroccianische Kalender ist zwar erst 150&#160;Jahre alt (und noch dazu vailianischen Ursprungs), wird aber dennoch fast im gesamten Dyrwald und in den umliegenden Gegenden verwendet. Der Dyrwald verwendete bis vor kurzem den aedyrischen Kalender, gab ihn jedoch zugunsten des iroccianischen Kalenders auf. Der Wechsel verlief reibungslos und es gab kaum Widerstände, da der aedyrische Kalender hoffnungslos ungenau war.
 
-Iroccio berechnete, dass der Planet etwa 334 Tage benötigt, um die Sonne zu umkreisen. Er nahm daher die neun Monate des aedyranischen Kalenders und teilte sie in sechzehn Monate von je zwanzig Tagen auf. Jede Jahreszeit besteht aus vier Monaten. Die Länge der Monate spiegelt wider, wie lange Belafa (einer unserer Monde) benötigt, um den Planeten zu umkreisen. Auf jede Jahreszeit folgen drei Tage, die keiner Jahreszeit zugehörig sind, und in denen der Übergang gefeiert wird. Die übrigen zwei Tage des Jahres - Neujahr und Mittjahr - dienen dazu, den Anfang und den Mittelpunkt des Jahres zu feiern.
+Iroccio berechnete, dass der Planet etwa 334 Tage benötigt, um die Sonne zu umkreisen. Er nahm daher die neun Monate des aedyrischen Kalenders und teilte sie in sechzehn Monate von je zwanzig Tagen auf. Jede Jahreszeit besteht aus vier Monaten. Die Länge der Monate spiegelt wider, wie lange Belafa (einer unserer Monde) benötigt, um den Planeten zu umkreisen. Auf jede Jahreszeit folgen drei Tage, die keiner Jahreszeit zugehörig sind, und in denen der Übergang gefeiert wird. Die übrigen zwei Tage des Jahres - Neujahr und Mittjahr - dienen dazu, den Anfang und den Mittelpunkt des Jahres zu feiern.
 
 Um beim Übergang vom alten auf den neuen Kalender Verwirrung zu vermeiden, behielt Iroccio das Jahr bei. Obwohl der Kalender also erst seit 150&#160;Jahren besteht, schreiben wir bereits das Jahr 2823 AI (Anni Iroccio).
 
@@ -8470,7 +8470,7 @@ Wintermonate (zwei zu Beginn des Jahres, zwei am Ende des Jahres)
 Vollwinter - Fonivèrno
 Spätwinter - Tarivèrno
 
-Frühlingserwachen (3 Tage) - Inprima - Dient zum Feiern des Übergangs der Welt, der Wiedergeburt und des Frühlings. Zu dieser Zeit werden besonders viele eothasianische Feste gefeiert - oder wurden es, vor dem Krieg des Heiligen. 
+Frühlingserwachen (3 Tage) - Inprima - Dient zum Feiern des Übergangs der Welt, der Wiedergeburt und des Frühlings. Zu dieser Zeit werden besonders viele eothasische Feste gefeiert - oder wurden es, vor dem Krieg des Heiligen. 
  
 Frühlingsmonate
 
@@ -8504,7 +8504,7 @@ Winterdämmerung (3 Tage) - Inivèrno - Während der Winterdämmerung wird das L
 
 Wintermonate
 
-Vorwinter - Préivèrno
+Vorwinter - Préïvèrno
 Mittwinter - Majivèrno</DefaultText>
       <FemaleText />
     </Entry>
@@ -8512,7 +8512,7 @@ Mittwinter - Majivèrno</DefaultText>
       <ID>1567</ID>
       <DefaultText>Vor kaum mehr als einem Jahrzehnt kämpften auf der Brücke von Evon Dewr sieben Männer und fünf Frauen tapfer, um ihr Heimatland zu beschützen. Sie hatten sich freiwillig für die Mission gemeldet. Sie wussten, es lag an ihnen - und nur an ihnen - St. Waidwen daran zu hindern, die Brücke zu überqueren. Sie hatten Erfolg - auch, wenn nur vier von ihnen die Schlacht überlebten - und Waidwen befand sich auf der Brücke, als der Götterhammer detonierte. Die letzten vier wurden durch die Explosion getötet, ihr Opfer ein Beleg für ihre Hingabe.
 
-Die Dutzenden, eine Gruppe, die angeblich zum Schutz des Dyrwalds gebildet wurde, wurde zu Ehren dieser Männer und Frauen gegründet. Ja, die Dutzenden erkoren diese zwölf posthum sogar zu ihren wahren "Gründern". Ursprünglich machte die Gruppe es sich zur Aufgabe, den Dyrwald vor einer Invasion zu schützen, indem sie unermüdlich die Grenzen patrouillierte, auf der Suche nach readceranischen Truppen, die sich für einen neuen Angriff sammelten. Als dieser Angriff nie erfolgte, glaubten viele der Dutzenden, die nächste Gefahr könnte von eothasianischen Loyalisten ausgehen, die im Dyrwald wohnten. Sie richteten ihre Aufmerksamkeit folglich nach innen.
+Die Dutzenden, eine Gruppe, die angeblich zum Schutz des Dyrwalds gebildet wurde, wurde zu Ehren dieser Männer und Frauen gegründet. Ja, die Dutzenden erkoren diese zwölf posthum sogar zu ihren wahren "Gründern". Ursprünglich machte die Gruppe es sich zur Aufgabe, den Dyrwald vor einer Invasion zu schützen, indem sie unermüdlich die Grenzen patrouillierte, auf der Suche nach readceranischen Truppen, die sich für einen neuen Angriff sammelten. Als dieser Angriff nie erfolgte, glaubten viele der Dutzenden, die nächste Gefahr könnte von eothasischen Loyalisten ausgehen, die im Dyrwald wohnten. Sie richteten ihre Aufmerksamkeit folglich nach innen.
 
 Alle neuen Mitglieder der Dutzenden müssen schwören, des Opfers ihrer Gründer zu gedenken und wachsam gegen Readceras und alle Anhänger Eothas' zu bleiben. Aus diesem Grund werden die Anhänger Eothas' von den Dutzenden regelmäßig drangsaliert.
 
@@ -8525,9 +8525,9 @@ Die Dutzenden sind keine große Gruppe, doch das machen sie mit ihrer unbedingte
       <ID>1568</ID>
       <DefaultText>Kein anderes Land hat eine solch wilde und blutige jüngere Geschichte. Von der Kolonie zum Palatinat zur freien Republik - der Dyrwald ist aus einer Feuertaufe als eine mächtige Kraft im Östlichen Abschnitt hervorgegangen.
 
-Die Geschichte des Dyrwalds beginnt im Jahr 2602 AI in Aedyr. Aedyranische Entdecker kehrten von einer Reise über den Ozean zurück und berichteten von den Schätzen, die sie dort gefunden hatten. Sie hatten in den Wäldern und auf den Ebenen nördlich der Bäume, die ideal als Vorlas-Ackerland geeignet wären, unzählige Ruinen entdeckt. Es gab jedoch ein Problem - die Einheimischen waren feindselig, es würde wohl Konflikte geben. Der Fercönyng von Aedyr (FER-kö-ning, "erster König") wusste, dass diese Gelegenheit genutzt werden musste. Er sandte weitere Entdecker aus, um das Gebiet zu erkunden und zu kartographieren.
+Die Geschichte des Dyrwalds beginnt im Jahr 2602 AI in Aedyr. Aedyrische Entdecker kehrten von einer Reise über den Ozean zurück und berichteten von den Schätzen, die sie dort gefunden hatten. Sie hatten in den Wäldern und auf den Ebenen nördlich der Bäume, die ideal als Vorlas-Ackerland geeignet wären, unzählige Ruinen entdeckt. Es gab jedoch ein Problem - die Einheimischen waren feindselig, es würde wohl Konflikte geben. Der Fercönyng von Aedyr (FER-kö-ning, "erster König") wusste, dass diese Gelegenheit genutzt werden musste. Er sandte weitere Entdecker aus, um das Gebiet zu erkunden und zu kartographieren.
 
-Die Erkundung dauerte zwanzig Jahre. Kleine Gruppen von Entdeckern reisten zwischen Aedyr und dieser neuen Welt hin und her. Eine Handvoll Kolonisten errichtete kleine Lager, um eine Basis für die Expeditionen zu schaffen. Konflikte mit den Einheimischen - den Glanfathanern, wie die Aedyraner inzwischen erfahren hatten - waren rar, aber dennoch häufig genug, dass der Fercönyng einen kleinen Wachtrupp schickte, um seine Bürger zu beschützen. Diese Wachen errichteten eine zentrale Basis an einem Fluss im westlichen Teil des Waldes. Aus dieser Siedlung entstand schließlich die Stadt Dyrfurt (auf deren Ruinen die heutige Stadt desselben Namens errichtet wurde). Nachdem diese Basis errichtet war, entstanden die ersten dauerhaften aedyranischen Siedlungen nördlich und westlich des Flusses Bael. In den nächsten drei Jahren übersiedelten tausende von Aedyranern in dieses neue Land. Die Glanfathaner, welche die im Wald verteilten Ruinen zu verehren schienen, machten den Siedlungen einige Probleme - insbesondere jenen, die in der Nähe der Ruinen gegründet wurden. Die Kolonisten konnten diese Probleme mit Hilfe der kaiserlichen Wache jedoch mühelos beseitigen. Um ihren Einfluss in dem Gebiet zu festigen und die glanfathanische Bevölkerung unter Kontrolle zu halten, begannen die Aedyraner, alle Glanfathaner zu versklaven, die während der Aufstände gefangen genommen wurden. Das führte zu einem deutlichen Anstieg der Spannungen zwischen den beiden Gruppen.
+Die Erkundung dauerte zwanzig Jahre. Kleine Gruppen von Entdeckern reisten zwischen Aedyr und dieser neuen Welt hin und her. Eine Handvoll Kolonisten errichtete kleine Lager, um eine Basis für die Expeditionen zu schaffen. Konflikte mit den Einheimischen - den Glanfathanern, wie die Aedyrer inzwischen erfahren hatten - waren rar, aber dennoch häufig genug, dass der Fercönyng einen kleinen Wachtrupp schickte, um seine Bürger zu beschützen. Diese Wachen errichteten eine zentrale Basis an einem Fluss im westlichen Teil des Waldes. Aus dieser Siedlung entstand schließlich die Stadt Dyrfurt (auf deren Ruinen die heutige Stadt desselben Namens errichtet wurde). Nachdem diese Basis errichtet war, entstanden die ersten dauerhaften aedyrischen Siedlungen nördlich und westlich des Flusses Bael. In den nächsten drei Jahren übersiedelten tausende von Aedyrern in dieses neue Land. Die Glanfathaner, welche die im Wald verteilten Ruinen zu verehren schienen, machten den Siedlungen einige Probleme - insbesondere jenen, die in der Nähe der Ruinen gegründet wurden. Die Kolonisten konnten diese Probleme mit Hilfe der kaiserlichen Wache jedoch mühelos beseitigen. Um ihren Einfluss in dem Gebiet zu festigen und die glanfathanische Bevölkerung unter Kontrolle zu halten, begannen die Aedyrer, alle Glanfathaner zu versklaven, die während der Aufstände gefangen genommen wurden. Das führte zu einem deutlichen Anstieg der Spannungen zwischen den beiden Gruppen.
 
 Als die Bevölkerung in der Gegend immer größer wird, etabliert der Fercönyng eine offizielle Regierungsstruktur. Er ernennt mehrere Grafen, die über das Land herrschen sollen, unterstützt von Thayns. Sie nennen das neue Gréfram den Dyrwald. Dyrfurt bleibt zwar das Zentrum der kaiserlichen Wache, doch die Siedlung im Perlholzgolf, Neu-Dunryd, ist der wahre Machtsitz der Gegend. Das Land liegt am Rand des Ozeans, besitzt Wälder, fruchtbaren Ackerboden und einen Fluss, der von der Küste bis in die Weißmark verläuft. Die Siedler kamen in Scharen, in der Hoffnung, sich einen Namen zu machen. Aedyr begann, sich in dem neuen Land auszubreiten.</DefaultText>
       <FemaleText />
@@ -8592,7 +8592,7 @@ Belafa hängt groß und tief am Himmel. Er legt seine Reise um die Welt raschen 
 
 Cawldha
 
-Vor 315&#160;Jahren wurde das Großreich von Vailia von schrecklichen Stürmen und beängstigenden Gezeiten heimgesucht. Die Aufzeichnungen zeigen, dass im Reich Aedyr dasselbe geschah, und dass mehrere neue aedyranische Kolonien entlang der Küste des Dyrwalds von Stürmen und Fluten völlig zerstört wurden. Zu jener Zeit beobachteten glanfathanische Astronomen während einer Finsternis etwas kleines, das neben Belafa kreiste.
+Vor 315&#160;Jahren wurde das Großreich von Vailia von schrecklichen Stürmen und beängstigenden Gezeiten heimgesucht. Die Aufzeichnungen zeigen, dass im Reich Aedyr dasselbe geschah, und dass mehrere neue aedyrische Kolonien entlang der Küste des Dyrwalds von Stürmen und Fluten völlig zerstört wurden. Zu jener Zeit beobachteten glanfathanische Astronomen während einer Finsternis etwas kleines, das neben Belafa kreiste.
 
 Nach ausgiebiger Erkundung erkannten sie, dass es ein kleiner Satellit mit einer äußerst unregelmäßigen Umlaufbahn war. Sie nannten ihn Cawldha Debh - den schwarzen Läufer. Da er kleiner ist als Belafa, wirkt er sich kaum auf die Welt aus, doch wenn seine Umlaufbahn mit der von Belafa zusammenfällt, lässt er die Gezeiten und das Wetter verrückt spielen - überall. Das geschieht mit einer launischen Häufigkeit und Schwere, so dass dieses Ereignis als "Liebespaargezeiten" bezeichnet wird. Cawldha wurde in den Ondra-Mythos integriert. Wenn beide Monde zu sehen sind, steigert sich Ondras Verlangen, sie zu erreichen, in das Zehnfache, wodurch die Wetterkatastrophen entstehen.</DefaultText>
       <FemaleText />
@@ -8609,7 +8609,7 @@ Unterstützt von einer Gruppe von Rittern und Adligen, die sich seiner Sache ang
 
 Der Gouverneur, in dem Wissen, dass er niemals einen Avatar von Eothas besiegen könnte, gab seine Macht ab. Das Volk bat Waidwen, die Kolonie zu führen. Er nahm an, wodurch er den Beinamen "Göttlicher König" von Readceras verdiente.
 
-Waidwens Herrschaft war nahezu unangefochten. Zunächst lag das daran, dass jeder ehrfürchtig kauerte, weil ein Gott entschieden hatte, sich zu manifestieren und sein Volk zu führen. Das änderte sich jedoch, als Waidwen begann, die Verbündeten des alten Reichs und des "Gifts der Welt" zu bestrafen - was er als korrupte Kirchen oder Kirchenoberste von Eothas ansah. Das Misstrauen stieg und bald wurden Anhänger Eothas' bestraft, sobald auch nur die leiseste Vermutung auftrat, sie könnten Ketzer sein. Auch Anhänger anderer Religionen wurden verfolgt, schlicht, weil sie einem anderen Glauben anhingen. Das führte dazu, dass große Teile der Bevölkerung aus Readceras flohen und im Dyrwald um Zuflucht baten. Das wiederum führte zu Zwietracht zwischen den beiden Nationen. Die Dyrwäldler wussten, dass sie nicht unbegrenzt Flüchtlinge aufnehmen konnten, sollte Waidwen weiter widerstandslos walten können. Außerdem fürchteten sie, dass er seinen Blick von Readceras abwenden und auf sie richten könnte, wenn sie nichts unternahmen. Genau das geschah schließlich auch, und es brach ein offener Krieg aus, als Waidwen versuchte, sein Reich auf die Lande des Dyrwalds auszudehnen.</DefaultText>
+Waidwens Herrschaft war nahezu unangefochten. Zunächst lag das daran, dass jeder ehrfürchtig kauerte, weil ein Gott entschieden hatte, sich zu manifestieren und sein Volk zu führen. Das änderte sich jedoch, als Waidwen begann, die Verbündeten des alten Reichs und des "Gifts der Welt" zu bestrafen - was er als korrupte Kirchen oder Kirchenoberste von Eothas ansah. Das Misstrauen stieg und bald wurden Anhänger Eothas' bestraft, sobald auch nur die leiseste Vermutung auftrat, sie könnten Ketzer sein. Auch Anhänger anderer Religionen wurden verfolgt, schlicht, weil sie einem anderen Glauben anhingen. Das führte dazu, dass große Teile der Bevölkerung aus Readceras flohen und im Dyrwald um Zuflucht baten. Das wiederum führte zu Zwietracht zwischen den beiden Nationen. Die Dyrwälder wussten, dass sie nicht unbegrenzt Flüchtlinge aufnehmen konnten, sollte Waidwen weiter widerstandslos walten können. Außerdem fürchteten sie, dass er seinen Blick von Readceras abwenden und auf sie richten könnte, wenn sie nichts unternahmen. Genau das geschah schließlich auch, und es brach ein offener Krieg aus, als Waidwen versuchte, sein Reich auf die Lande des Dyrwalds auszudehnen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8839,7 +8839,7 @@ Vergesst nicht eure Königin.</DefaultText>
       <ID>1579</ID>
       <DefaultText>Im Jahr 2626 AI warf eine Gruppe von Bauern, die Ackerland schaffen wollte, versehentlich einen der uralten Adra-Hinkelsteine auf ihrem Land um. Dieses unschuldige Versehen weckte den Zorn der Ureinwohner und führte zum Ausbruch des Kriegs des Zerbrochenen Steins. Im Verlauf des Kriegs starben mehrere tausend Kolonisten und einige hundert Glanfathaner. Nachdem der Krieg offiziell beendet war, setzten die Glanfathaner noch zwei Jahre lang ihre Angriffe auf die Siedler mit unverminderter oder gar noch gesteigerter Aggressivität fort. Ihren brutalen Taktiken fielen unzählige Kolonisten, mehrere hochrangige Militärs, ein Graf und sechs Thayns zum Opfer.
 
-Die Grafen wählten Graf Edrang Hadret zum Gréf, um den glanfathanischen Angriffen ein Ende zu bereiten. Edrang war angesehen und galt als Meister der militärischen Taktik. Er erhielt den Auftrag, die glanfathanische Bedrohung zu beseitigen. Zwei Jahre lang bekämpfte Edrang die Glanfathaner, die von einem Orlaner namens Regd angeführt wurden. Keine der beiden Seiten konnte einen entscheidenden Vorteil gegenüber der anderen erlangen. Es kam zu einer angespannten Pattsituation. Dieses Patt führte dazu, dass die Feindseligkeiten sich im Sande verliefen. Im Jahr 2631 unterzeichneten die Dyrwäldler einen Vertrag mit den Glanfathanern. Regd legte sein Amt nieder, die Glanfathaner stellten ihre Angriffe ein und die Dyrwäldler betraten die Ruinen nicht mehr. Der Vertrag erzürnte den Adel von Aedyr, da er den Nachschub an Artefakten versiegen ließ. Edrang versuchte auch, die Sklaverei verbieten zu lassen, was ihm jedoch nicht gelang. Der Frieden zwischen dem Dyrwald und Eir&#160;Glanfath war daher instabil und wackelig. Es kam immer wieder zu kleinen gewalttätigen Auseinandersetzungen auf dem Lande. Diese waren aber nie von langer Dauer, da keine Seite einen weiteren Krieg wollte.</DefaultText>
+Die Grafen wählten Graf Edrang Hadret zum Gréf, um den glanfathanischen Angriffen ein Ende zu bereiten. Edrang war angesehen und galt als Meister der militärischen Taktik. Er erhielt den Auftrag, die glanfathanische Bedrohung zu beseitigen. Zwei Jahre lang bekämpfte Edrang die Glanfathaner, die von einem Orlaner namens Regd angeführt wurden. Keine der beiden Seiten konnte einen entscheidenden Vorteil gegenüber der anderen erlangen. Es kam zu einer angespannten Pattsituation. Dieses Patt führte dazu, dass die Feindseligkeiten sich im Sande verliefen. Im Jahr 2631 unterzeichneten die Dyrwälder einen Vertrag mit den Glanfathanern. Regd legte sein Amt nieder, die Glanfathaner stellten ihre Angriffe ein und die Dyrwälder betraten die Ruinen nicht mehr. Der Vertrag erzürnte den Adel von Aedyr, da er den Nachschub an Artefakten versiegen ließ. Edrang versuchte auch, die Sklaverei verbieten zu lassen, was ihm jedoch nicht gelang. Der Frieden zwischen dem Dyrwald und Eir&#160;Glanfath war daher instabil und wackelig. Es kam immer wieder zu kleinen gewalttätigen Auseinandersetzungen auf dem Lande. Diese waren aber nie von langer Dauer, da keine Seite einen weiteren Krieg wollte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8849,13 +8849,13 @@ Die Grafen wählten Graf Edrang Hadret zum Gréf, um den glanfathanischen Angrif
     </Entry>
     <Entry>
       <ID>1581</ID>
-      <DefaultText>Nach dem Krieg des Zerbrochenen Steins herrschte 21&#160;Jahre lang Friede und Wohlstand. Abgesehen von gelegentlichen Sklavenaufständen oder Grenzstreitigkeiten geschah bis zum Jahr 2652 AI nichts Bemerkenswertes. Einige der Grafen des Dyrwalds waren es leid, von den Verträgen eingeschränkt zu sein. Ermutigt durch kaiserliche Quellen widersetzten sie sich den Dekreten und sandten Truppen aus, um die Ruinen im Dyrwald zu plündern. Die Reaktion der Glanfathaner kam nicht sofort, doch als sie schließlich kam, war sie brutal und blutig. Es kam zu einem Sklavenaufstand und Regd übernahm wieder das Kommando über seine Guerillakämpfer. Auch ein Kontingent von Delemgan schloss sich den Truppen an, so dass die Kämpfe in den Wäldern für die Soldaten des Drywalds noch tödlicher wurden.
+      <DefaultText>Nach dem Krieg des Zerbrochenen Steins herrschte 21&#160;Jahre lang Friede und Wohlstand. Abgesehen von gelegentlichen Sklavenaufständen oder Grenzstreitigkeiten geschah bis zum Jahr 2652 AI nichts Bemerkenswertes. Einige der Grafen des Dyrwalds waren es leid, von den Verträgen eingeschränkt zu sein. Ermutigt durch kaiserliche Quellen widersetzten sie sich den Dekreten und sandten Truppen aus, um die Ruinen im Dyrwald zu plündern. Die Reaktion der Glanfathaner kam nicht sofort, doch als sie schließlich kam, war sie brutal und blutig. Es kam zu einem Sklavenaufstand und Regd übernahm wieder das Kommando über seine Guerillakämpfer. Auch ein Kontingent von Delemgan schloss sich den Truppen an, so dass die Kämpfe in den Wäldern für die Soldaten des Dyrwalds noch tödlicher wurden.
 
-Edrang war zu dieser Zeit schon viel zu alt, um den Dyrwald in den Krieg zu führen. Er schickte seinen Sohn Admeth an seiner Statt. Admeth besaß das taktische Geschick seines Vaters. Er setzte den Wald am Fluss Isce Uar in Brand und versperrte den fliehenden Truppen den Weg. Einige der Glanfathaner konnten entkommen, doch Tausende starben in dem Inferno. Regd wurde gefangen genommen und nach Neu-Heomar gebracht. Mehrere Monate lang setzte Admeth immer wieder diese Taktik ein, um die Glanfthaner und Delemgan vom Schlachtfeld zu treiben. Der gesamte Krieg dauerte weniger als ein Jahr. Am Ende obsiegte der Dyrwald, allerdings zu einem grauenhaften Preis. Dieser Konflikt ging als der Krieg der Schwarzen Bäume in die Geschichte ein.
+Edrang war zu dieser Zeit schon viel zu alt, um den Dyrwald in den Krieg zu führen. Er schickte seinen Sohn Admeth an seiner Statt. Admeth besaß das taktische Geschick seines Vaters. Er setzte den Wald am Fluss Isce Uar in Brand und versperrte den fliehenden Truppen den Weg. Einige der Glanfathaner konnten entkommen, doch Tausende starben in dem Inferno. Regd wurde gefangen genommen und nach Neu-Heomar gebracht. Mehrere Monate lang setzte Admeth immer wieder diese Taktik ein, um die Glanfathaner und Delemgan vom Schlachtfeld zu treiben. Der gesamte Krieg dauerte weniger als ein Jahr. Am Ende obsiegte der Dyrwald, allerdings zu einem grauenhaften Preis. Dieser Konflikt ging als der Krieg der Schwarzen Bäume in die Geschichte ein.
 
 Im Jahr 2654 erlebte der Dyrwald eine Tragödie - Edrang, dessen Gesundheit immer weiter nachgelassen hatte, verlor die Kraft und kehrte in den Kreislauf zurück. Regd, der im Laufe der Jahre einen widerwilligen Respekt für seinen Widersacher entwickelt hatte, ließ Admeth aus der Gefangenschaft in Neu-Heomar sein ehrliches Beileid aussprechen. Admeth folgte auf den Thron seines Vaters und wurde Gréf des Dyrwalds. Den anderen Grafen missfiel diese Entwicklung. Sie begannen, sich Admeths Dekreten öffentlich zu widersetzen. Im Jahr 2662 AI hatte Admeth genug von den widerspenstigen Grafen. Er konnte auf die Unterstützung der neuen vailianischen Ducs und des einfachen Volks im Dyrwald zählen (schließlich hatte er es vor den Glanfathanern gerettet) und stellte dem Fercönyng von Aedyr ein Ultimatum. Er forderte, dass er zum Gréf-Palatin gemacht werden solle. Damit besäße er die Autorität und Macht über alle Grafen, ihre Besitztümer und ihre Titel. Der Dyrwald würde kein Gréfram mehr sein, sondern ein Palatinat. Der Fercönyng, der sich nicht mit einer Rebellion herumschlagen wollte, während er versuchte, die Kontrolle über den Vorlas-Handel in Readceras zu gewinnen, willigte zähneknirschend in Admeths Forderungen ein. Admeth nutzte seine neue Macht, um die Grafen spuren zu lassen. Im Tausch gegen seine Macht investierte Admeth Zeit und Geld in alle Häfen des Dyrwalds, um den Handelsverkehr zu steigern. Das wiederum erhöhte das Einkommen des Fercönyngs.
 
-Unter Admeths Herrschaft erlebte der Dyrwald sieben produktive und profitable Jahre. Im Jahr 2662 AI gelang ihm, was schon seit vielen Jahren erfolglos versucht worden war - er beendete die Sklaverei im Dyrwald. Er handelte die Zehnjahresverträge aus, deren Name sich dadurch erklärt, dass sie zehn Jahre nach dem Ende des Kriegs der Schwarzem Bäume entstanden. Es wurde ein Zeitplan für die Freilassung der Sklaven vereinbart. Die Eigentümer sollten für jeden freigelassenen Sklaven mit Geld oder Land entschädigt werden. Weigerten sie sich, ihre Sklaven freizulassen, so sollten sie ihnen weggenommen werden und die Eigentümer mit einer Geldstrafe belegt. Im Gegenzug sollten die Glanfathaner den Handel mit dem Dyrwald eröffnen und einige ihrer Gebiete an die Regierung des Dyrwalds abtreten (was in der Praxis bedeutete, dass sie akzeptieren würden, dass die Dyrwäldler dort schon lebten und herrschten). Hunderte von Sklavenbesitzern versuchten zu rebellieren. Admeth hatte diese Reaktion erwartet. Der Aufstand wurde schnell niedergeschlagen. Anschließend ließ Admeth im Volk Propaganda verbreiten, was sowohl die Küferaufstände als auch ihre Anstifter in viel schlechterem Licht darstellte als sie wirklich waren. Diese Taktik ging auf und es gab keine Unruhen mehr.</DefaultText>
+Unter Admeths Herrschaft erlebte der Dyrwald sieben produktive und profitable Jahre. Im Jahr 2662 AI gelang ihm, was schon seit vielen Jahren erfolglos versucht worden war - er beendete die Sklaverei im Dyrwald. Er handelte die Zehnjahresverträge aus, deren Name sich dadurch erklärt, dass sie zehn Jahre nach dem Ende des Kriegs der Schwarzem Bäume entstanden. Es wurde ein Zeitplan für die Freilassung der Sklaven vereinbart. Die Eigentümer sollten für jeden freigelassenen Sklaven mit Geld oder Land entschädigt werden. Weigerten sie sich, ihre Sklaven freizulassen, so sollten sie ihnen weggenommen werden und die Eigentümer mit einer Geldstrafe belegt. Im Gegenzug sollten die Glanfathaner den Handel mit dem Dyrwald eröffnen und einige ihrer Gebiete an die Regierung des Dyrwalds abtreten (was in der Praxis bedeutete, dass sie akzeptieren würden, dass die Dyrwälder dort schon lebten und herrschten). Hunderte von Sklavenbesitzern versuchten zu rebellieren. Admeth hatte diese Reaktion erwartet. Der Aufstand wurde schnell niedergeschlagen. Anschließend ließ Admeth im Volk Propaganda verbreiten, was sowohl die Küferaufstände als auch ihre Anstifter in viel schlechterem Licht darstellte als sie wirklich waren. Diese Taktik ging auf und es gab keine Unruhen mehr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8870,7 +8870,7 @@ Unter Admeths Herrschaft erlebte der Dyrwald sieben produktive und profitable Ja
     </Entry>
     <Entry>
       <ID>1584</ID>
-      <DefaultText>Die Beseelung, die unter aedryanischer Herrschaft verboten worden war, war nach Hadrets Rebellion rechtlich gesehen kein Tabu mehr. Akademiker begannen im Jahr 2681 AI damit, sie intensiv zu studieren. Bis zum Jahr 2697 AI gab es fast 40 Akademiker, die aktiv in dieser Disziplin forschten, sowohl im Dyrwald als auch in den Vailianischen Republiken - obwohl es bis dahin noch keinerlei nennenswerte Ergebnisse gegeben hatte. Im Jahr 2704 AI kam es zu einem tragischen Durchbruch, wenn man das so sagen kann. Ein Beseeler in Baelreach zertrümmerte versehentlich die Seelen von etwa einem Dutzend Freiwilligen, die ihm geholfen hatten. Als Vergeltung für ihren Tod stürmten die Bewohner der Gegend das Haus des Beseelers und töteten ihn. Der Graf der Region wollte keine Ressourcen verschwenden und das Volk nicht noch weiter erzürnen. Er ließ nicht nach dem Anführer der Selbstjustiz übenden Menge suchen - ließ aber auch die Beseelung nicht verbieten. Um ihre Sicherheit zu gewährleisten, zogen die meisten Beseeler aus den ländlichen Gebieten, in denen sie ihre Forschungen unternahmen, nach Trutzbucht. Viele von ihnen wählten den aufstrebenden und wohlhabenden Distrikt Farnheim als ihre neue Heimat. 
+      <DefaultText>Die Beseelung, die unter aedyrischer Herrschaft verboten worden war, war nach Hadrets Rebellion rechtlich gesehen kein Tabu mehr. Akademiker begannen im Jahr 2681 AI damit, sie intensiv zu studieren. Bis zum Jahr 2697 AI gab es fast 40 Akademiker, die aktiv in dieser Disziplin forschten, sowohl im Dyrwald als auch in den Vailianischen Republiken - obwohl es bis dahin noch keinerlei nennenswerte Ergebnisse gegeben hatte. Im Jahr 2704 AI kam es zu einem tragischen Durchbruch, wenn man das so sagen kann. Ein Beseeler in Baelreach zertrümmerte versehentlich die Seelen von etwa einem Dutzend Freiwilligen, die ihm geholfen hatten. Als Vergeltung für ihren Tod stürmten die Bewohner der Gegend das Haus des Beseelers und töteten ihn. Der Graf der Region wollte keine Ressourcen verschwenden und das Volk nicht noch weiter erzürnen. Er ließ nicht nach dem Anführer der Selbstjustiz übenden Menge suchen - ließ aber auch die Beseelung nicht verbieten. Um ihre Sicherheit zu gewährleisten, zogen die meisten Beseeler aus den ländlichen Gebieten, in denen sie ihre Forschungen unternahmen, nach Trutzbucht. Viele von ihnen wählten den aufstrebenden und wohlhabenden Distrikt Farnheim als ihre neue Heimat. 
 
 In den nächsten 24&#160;Jahren wurde die Beseelung zwar weiter erforscht und es gab auch einige kleinere Durchbrüche, doch je mehr die Forscher lernten, desto teurer und komplizierter wurde ihre Arbeit. Die meisten Beseeler konnten ihre Forschungen nicht ohne Spenden von reichen Personen und Organisationen finanzieren. Im Jahr 2737 AI drangen einige Beseeler in die verbotenen Ruinen von Eir&#160;Glanfath an. Sie waren verzweifelt und sahen keinen anderen Weg, in ihrer Arbeit Fortschritte zu machen. Sie entdeckten, dass es in einigen Stätten seltsame Artefakte gab, die im Zusammenhang mit der Seelenessenz zu stehen schienen. Sie begannen, Experimente mit diesen Artefakten anzustellen. Trotz ihrer anhaltenden Bemühungen konnten sie nicht genau in Erfahrung, was sie da eigentlich entdeckt hatten. Schließlich wurden sie von den Glanfathanern entdeckt, die einige von ihnen gefangen nahmen und forderten, dass man sie für ihre Verbrechen bestrafe. Die Behörden des Dyrwalds hatten keine andere Wahl, wenn sie die Verträge einhalten und den Frieden wahren wollten - sie ließen zu, dass die Beseeler nach alter glanfathanischer Tradition hingerichtet wurden. Das veranlasste den Duc dazu, ein weiteres Dekret zu erlassen - die Erforschung und Ausübung der Beseelung an heiligen glanfathanischen Stätten - oder nur in ihrer Nähe - sollte fortan mit dem Tod bestraft werden.
 
@@ -8884,9 +8884,9 @@ Um das Verhältnis mit den Glanfathanern wieder zu stärken, gestattete die Regi
     </Entry>
     <Entry>
       <ID>1586</ID>
-      <DefaultText>Im Jahr 2807 AI kehrte der Krieg in den Dyrwald zurück. St. Waidwen, der plötzlich in eine lebende Inkarnation von Eothas verwandelt worden war, marschierte von Readceras aus auf den Dyrwald zu - es begann der Krieg des Heiligen. Der Dyrwald versammelte sich bei der Zitadelle von Halgot und trug den Kampf zu Waidwen nach Readceras, um zu verhindern, dass das eigene Land Schaden nahm. Obwohl die Truppen des Dyrwalds verheerende Verluste erlitten, konnten sie dank Hadrets militärischer Techniken in Kombination mit Galven Regds Strategien auch einige Siege erringen. Readceranische Truppen gelangten über die Weißmark in den Dyrwald - wobei sie von den Bewohnern von Kaltmorg unbehelligt blieben - und ließen das Gnadental verbrannt und zerstört zurück. Selbst lange nach Ende des Krieges verabscheuen die Dyrwäldler Kaltmorg noch wegen dieses Verrats.
+      <DefaultText>Im Jahr 2807 AI kehrte der Krieg in den Dyrwald zurück. St. Waidwen, der plötzlich in eine lebende Inkarnation von Eothas verwandelt worden war, marschierte von Readceras aus auf den Dyrwald zu - es begann der Krieg des Heiligen. Der Dyrwald versammelte sich bei der Zitadelle von Halgot und trug den Kampf zu Waidwen nach Readceras, um zu verhindern, dass das eigene Land Schaden nahm. Obwohl die Truppen des Dyrwalds verheerende Verluste erlitten, konnten sie dank Hadrets militärischer Techniken in Kombination mit Galven Regds Strategien auch einige Siege erringen. Readceranische Truppen gelangten über die Weißmark in den Dyrwald - wobei sie von den Bewohnern von Kaltmorg unbehelligt blieben - und ließen das Gnadental verbrannt und zerstört zurück. Selbst lange nach Ende des Krieges verabscheuen die Dyrwälder Kaltmorg noch wegen dieses Verrats.
 
-Um den Krieg zu beenden und St. Waidwen auszuschalten, wussten die magranischen Kleriker des Dyrwalds sich nicht anders zu helfen, als eine besondere Bombe zu bauen, die unter der Brücke bei der Zitadelle von Halgot versteckt wurde. Sie wollten Waidwen auf die Brücke locken und die Bombe dann zünden. Ihr Plan war erfolgreich und St. Waidwen wurde ausgelöscht, zusammen mit all seinen Truppen und der gesamten Brücke. Die zwölf Männer und Frauen aus dem Dyrwald, die sich freiwillig gemeldet hatten, um St. Waidwen auf der Brücke aufzuhalten, kamen ebenfalls ums Leben. Das Opfer, das diese Märtyrer erbracht haben, wurde in den kommenden Jahren im Dyrwald gefeiert. Die Bombe ging als "Götterhammer" in die Geschichte ein und die Zitadelle wurde kurz nach der Schlacht in "Götterhammerzitadelle" umbenannt. Nach St. Waidwens Tod konnten seine Truppen mühelos vertrieben werden und der Dyrwald begann mit dem Wiederaufbau nach dem ersten großen Konflikt in über einhundert Jahren. Als Vergeltung für St. Waidwens Taten im Namen Eothas' wurden viele Eothasianer aus den Gemeinden im Dyrwald verstoßen oder durch gesellschaftlichen Druck zum Wegzug gedrängt.
+Um den Krieg zu beenden und St. Waidwen auszuschalten, wussten die magranischen Kleriker des Dyrwalds sich nicht anders zu helfen, als eine besondere Bombe zu bauen, die unter der Brücke bei der Zitadelle von Halgot versteckt wurde. Sie wollten Waidwen auf die Brücke locken und die Bombe dann zünden. Ihr Plan war erfolgreich und St. Waidwen wurde ausgelöscht, zusammen mit all seinen Truppen und der gesamten Brücke. Die zwölf Männer und Frauen aus dem Dyrwald, die sich freiwillig gemeldet hatten, um St. Waidwen auf der Brücke aufzuhalten, kamen ebenfalls ums Leben. Das Opfer, das diese Märtyrer erbracht haben, wurde in den kommenden Jahren im Dyrwald gefeiert. Die Bombe ging als "Götterhammer" in die Geschichte ein und die Zitadelle wurde kurz nach der Schlacht in "Götterhammerzitadelle" umbenannt. Nach St. Waidwens Tod konnten seine Truppen mühelos vertrieben werden und der Dyrwald begann mit dem Wiederaufbau nach dem ersten großen Konflikt in über einhundert Jahren. Als Vergeltung für St. Waidwens Taten im Namen Eothas' wurden viele Eothasier aus den Gemeinden im Dyrwald verstoßen oder durch gesellschaftlichen Druck zum Wegzug gedrängt.
 
 Weniger als ein Jahr nach dem verheerenden Krieg des Heiligen kam es zu einer weiteren Tragödie. Im Jahr 2809 AI wurde von der ersten Hohlgeburt im Dyrwald berichtet. Viele dieser armen Geschöpfe starben wenige Wochen oder Monate nach ihrer Geburt. Die entsetzte Bevölkerung sehnt sich nach einem Schuldigen, der bestraft werden kann - seien es die Götter, die Mütter, die Regierung oder die Anhänger von Eothas. 
 
@@ -8903,7 +8903,7 @@ Zwei Jahre später, im Jahr 2664 AI, fand der Fercönyng Verbündete, die bereit
 
 Mit seinem neuen Wissen bewaffnet arbeitete Admeth mit Galven Medhra (der neuen Anführerin der Glanfathaner) und den ländlichen Gemeinden des Dyrwalds zusammen, um zu verhindern, dass die Agenten des Fercönyngs die Ruinen erneut betraten. Es entwickelte sich ein Tauziehen zwischen den beiden Gruppen, die beide durch politische, wirtschaftliche und militärische Manöver versuchten, die Oberhand zu gewinnen. Der Fercönyng war in diesem Spiel aber im Nachteil, da er seine Autorität lieber durchsetzen wollte, ohne einen Aufstand auszulösen.
 
-Schließlich hatte Admeth genug. Er überzeugte sieben der neun Grafen, sich ihm anzuschließen und ihren Treueschwur gegenüber dem Fercönyng zu brechen. Sie erklärten ihre Unabhängigkeit und verkündeten, dass sie sich selbst regieren würden, genau wie die Vailianischen Republiken es zwanzig Jahre zuvor getan hatten. Admeth sagte dem Volk, er habe genug von einer Politik, die den Adel reich machte, während sie das Volk des Dyrwalds in Gefahr brachte. Er erklärte sich zum Duc (erneut nach dem Vorbild der Vailianischen Republiken) und nannte den Dyrwald ein "freies" Palatinat. So begann im Jahr 2668 AI der Widerstandskrieg. Der Krieg dauerte vier Jahre und führte zu unzähligen Toten, darunter auch Admeth selbst. Die Dyrwäldler konnten aber gemeinsam mit ihren glanfathanischen Verbündeten den Sieg erringen. Glanfathanische Astrologen gingen zusammen mit den dyrwäldlischen Truppen und Mitgliedern der eilig einberufenen Miliz der Schmelztiegelritter als Sieger aus der Schlacht von Trutzbucht hervor - der letzten Schlacht des Krieges, die den Dyrwald von der Herrschaft des aedyranischen Reichs befreite. Sieben der neun Grafen des Dyrwalds überlebten und unterzeichneten Verträge mit dem Fercönyng von Aedyr. Der Krieg verlieh dem Dyrwald ein größeres Gefühl der Gemeinschaft zwischen seinen Bürgern und seinen glanfathanischen Verbündeten. Admeth Hadret wurde von beiden Gruppen verehrt und der Dyrwald erlebte zum ersten Mal eine landesweite Gemeinschaft der Unabhängigkeit, Hartnäckigkeit und Opferbereitschaft. Yenwald und Cwynsrun wurden aufgelöst und in die umliegenden Grafschaften integriert, womit derer sieben übrig blieben - Helstor, Der Griff, Tenferths, Norwaech, Kaltwasser, Aschfall und Baelreach. Neu-Dunryd wurde in Trutzbucht umbenannt und wurde zum Machtsitz des neuen Ducs in Baelreach. Die Herrschaft des neuen Ducs begann im Jahr 2672 AI.</DefaultText>
+Schließlich hatte Admeth genug. Er überzeugte sieben der neun Grafen, sich ihm anzuschließen und ihren Treueschwur gegenüber dem Fercönyng zu brechen. Sie erklärten ihre Unabhängigkeit und verkündeten, dass sie sich selbst regieren würden, genau wie die Vailianischen Republiken es zwanzig Jahre zuvor getan hatten. Admeth sagte dem Volk, er habe genug von einer Politik, die den Adel reich machte, während sie das Volk des Dyrwalds in Gefahr brachte. Er erklärte sich zum Duc (erneut nach dem Vorbild der Vailianischen Republiken) und nannte den Dyrwald ein "freies" Palatinat. So begann im Jahr 2668 AI der Widerstandskrieg. Der Krieg dauerte vier Jahre und führte zu unzähligen Toten, darunter auch Admeth selbst. Die Dyrwälder konnten aber gemeinsam mit ihren glanfathanischen Verbündeten den Sieg erringen. Glanfathanische Astrologen gingen zusammen mit den dyrwälderischen Truppen und Mitgliedern der eilig einberufenen Miliz der Schmelztiegelritter als Sieger aus der Schlacht von Trutzbucht hervor - der letzten Schlacht des Krieges, die den Dyrwald von der Herrschaft des aedyrischen Reichs befreite. Sieben der neun Grafen des Dyrwalds überlebten und unterzeichneten Verträge mit dem Fercönyng von Aedyr. Der Krieg verlieh dem Dyrwald ein größeres Gefühl der Gemeinschaft zwischen seinen Bürgern und seinen glanfathanischen Verbündeten. Admeth Hadret wurde von beiden Gruppen verehrt und der Dyrwald erlebte zum ersten Mal eine landesweite Gemeinschaft der Unabhängigkeit, Hartnäckigkeit und Opferbereitschaft. Yenwald und Cwynsrun wurden aufgelöst und in die umliegenden Grafschaften integriert, womit derer sieben übrig blieben - Helstor, Der Griff, Tenferths, Norwaech, Kaltwasser, Aschfall und Baelreach. Neu-Dunryd wurde in Trutzbucht umbenannt und wurde zum Machtsitz des neuen Ducs in Baelreach. Die Herrschaft des neuen Ducs begann im Jahr 2672 AI.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8933,13 +8933,13 @@ Schließlich hatte Admeth genug. Er überzeugte sieben der neun Grafen, sich ihm
     </Entry>
     <Entry>
       <ID>1593</ID>
-      <DefaultText>Im Jahr 2602 AI kehrten aedyranische Entdecker von jenseits des Ozeans zurück. Sie berichteten, dass sie dort Ruinen und Schätze vorgefunden hätten - und weitläufige Felder, die wie geschaffen für den Vorlas-Anbau waren. Die Entdecker warnten den Fercönyng, dass die Einheimischen Fremden gegenüber nicht freundlich gesinnt seien. Doch der Fercönyng sah nur die Gelegenheit, sein Reich zu vergrößern und Handel mit einem neuen Kontinent zu etablieren. Er sandte weitere Entdecker aus. In den nächsten zwanzig Jahren wurde das Gebiet, das später der Dyrwald wurde, erforscht, kartographiert und besiedelt. Im Jahr 2623 AI wurden die ersten dauerhaften aedyranischen Kolonialsiedlungen gegründet.
+      <DefaultText>Im Jahr 2602 AI kehrten aedyrische Entdecker von jenseits des Ozeans zurück. Sie berichteten, dass sie dort Ruinen und Schätze vorgefunden hätten - und weitläufige Felder, die wie geschaffen für den Vorlas-Anbau waren. Die Entdecker warnten den Fercönyng, dass die Einheimischen Fremden gegenüber nicht freundlich gesinnt seien. Doch der Fercönyng sah nur die Gelegenheit, sein Reich zu vergrößern und Handel mit einem neuen Kontinent zu etablieren. Er sandte weitere Entdecker aus. In den nächsten zwanzig Jahren wurde das Gebiet, das später der Dyrwald wurde, erforscht, kartographiert und besiedelt. Im Jahr 2623 AI wurden die ersten dauerhaften aedyrischen Kolonialsiedlungen gegründet.
 
-Vorlas-Felder wurden nördlich der Wälder des Dyrwalds angelegt, doch durch die Konflikte mit den Glanfathanern und den Krieg des Zerbrochenen Steins konnte die Kolonie nicht aufblühen. Erst 2643 AI bot sich eine neue Gelegenheit. Einige eothasianische Pilger, die der Verfolgung entgehen wollten, gründeten Siedlungen und Vorlas-Höfe im Gebiet von Readceras. Da Groß-Vailia vor dem Zusammenbruch stand, wollte der Fercönyng die Kontrolle über den Handel mit violetten Färbemitteln an sich reißen. Er förderte die Besiedlung und bezahlte sogar dafür, dass die Pilger sich in der neuen Welt niederlassen konnten.
+Vorlas-Felder wurden nördlich der Wälder des Dyrwalds angelegt, doch durch die Konflikte mit den Glanfathanern und den Krieg des Zerbrochenen Steins konnte die Kolonie nicht aufblühen. Erst 2643 AI bot sich eine neue Gelegenheit. Einige eothasische Pilger, die der Verfolgung entgehen wollten, gründeten Siedlungen und Vorlas-Höfe im Gebiet von Readceras. Da Groß-Vailia vor dem Zusammenbruch stand, wollte der Fercönyng die Kontrolle über den Handel mit violetten Färbemitteln an sich reißen. Er förderte die Besiedlung und bezahlte sogar dafür, dass die Pilger sich in der neuen Welt niederlassen konnten.
 
 Da der Fercönyng noch immer versuchte, sich einen Namen im Färbemittelhandel zu machen, konnte er nicht angemessen reagieren, als Admeth Hadret sein Ultimatum stellte. Um eine Rebellion zu vermeiden und sich Zeit zu verschaffen, die Vorlas-Höfe in Readceras zu überwachen, gab der Fercönyng nach und machte Admeth zum Gréf-Palatinen. Im Gegenzug investierte Admeth Zeit und Ressourcen in die Handels- und Transportwege des Dyrwalds, was dem Fercönyng ein höheres Einkommen einbrachte.
 
-Sieben Jahre lang versorgte der Dyrwald Aedyr mit regelmäßigen Einnahmen, so dass der Fercönyng Zeit hatte, sein Handelssystem in Readceras zu festigen. Da die Aufmerksamkeit des Fercönyngs auf andere Dinge gerichtet war, ging Admeth die Zehnjahresverträge ein, mit denen er die Sklaverei im Dyrwald beendete und eine der Einnahmequellen der dyrwäldlichen Entdecker dauerhaft zum Versiegen brachte - die Artefakte aus den Ruinen, die im ganzen Dyrwald zu finden sind. Zu dieser Zeit hatte das Wort des Fercönyngs für die Bewohner des Dyrwalds fast keinen Wert mehr. Admeth Hadret hatte ihn als ihren wahren Anführer ersetzt.
+Sieben Jahre lang versorgte der Dyrwald Aedyr mit regelmäßigen Einnahmen, so dass der Fercönyng Zeit hatte, sein Handelssystem in Readceras zu festigen. Da die Aufmerksamkeit des Fercönyngs auf andere Dinge gerichtet war, ging Admeth die Zehnjahresverträge ein, mit denen er die Sklaverei im Dyrwald beendete und eine der Einnahmequellen der dyrwälderischen Entdecker dauerhaft zum Versiegen brachte - die Artefakte aus den Ruinen, die im ganzen Dyrwald zu finden sind. Zu dieser Zeit hatte das Wort des Fercönyngs für die Bewohner des Dyrwalds fast keinen Wert mehr. Admeth Hadret hatte ihn als ihren wahren Anführer ersetzt.
 
 Um Admeths Stellung zu untergraben suchte der Fercönyng Verbündete, die bereit waren, entgegen den Bedingungen des Vertrages die Ruinen zu erforschen und Artefakte daraus zu plündern. Bald besaß Aedyr wieder eine Quelle für Artefakte, die es verkaufen konnte. Als seine Agenten schließlich geschnappt worden, distanzierte der Fercönyng sich von dem Geschehen - wohl wissend, dass es keine Beweise gab, die zu ihm zurückführten.
 
@@ -8953,13 +8953,13 @@ Der Gréf aber nutzte Mittel, die ihm seine glanfathanischen Verbündeten bereit
     </Entry>
     <Entry>
       <ID>1595</ID>
-      <DefaultText>Im Jahr 2652 AI begann alles zu zerfallen. Es wurde entdeckt, dass mehrere Ruinen geplündert worden waren. Alle Zeichen deuteten darauf hin, dass die Aedyraner den Vertrag gebrochen hatten. Die Glanfathaner hielten sich so lange sie nur konnten mit einem Urteil zurück, doch als die Beweise schließlich erdrückend wurden, schlugen sie mit all ihrer Macht zurück. Regd nahm wieder die Rolle des Anführers an und führte sein Volk in den Kampf gegen die Aedyraner. Anstatt wieder mit Edrang Hadret zu ringen, kreuzte Regd diesmal aber die Schwerter mit Edrangs Sohn Admeth Hadret. Admeth erwies sich also ebenso fähig - oder fähiger - wie sein Vater und setzte eine Taktik ein, mit der kein Glanfathaner gerechnet hatte. Um das Schlachtfeld zu räumen und dafür zu sorgen, dass der Feind sich nirgendwo verstecken konnte, ließ Admeth den gesamten Wald beim Fluss Isce Uar in Brand setzen und versperrte allen fliehenden Truppen mit seiner Armee den Weg. Einige überlebten das Gemetzel zwar, doch der Großteil der glanfathanischen Truppen kam um. Regd wurde in dem Chaos gefangen genommen und nach Neu-Heomar gebracht. Es kam zwar zu vielen weiteren Schlachten (in denen Admeth teilweise dieselbe Taktik einsetzte), doch die glanfathanischen Truppen hatten ihre Führung und ihre Entschlossenheit verloren. Sie wurden mühelos zerschlagen und noch vor Ende desselben Jahres war der Krieg der Schwarzen Bäume (wie er heute genannt wird) beendet.
+      <DefaultText>Im Jahr 2652 AI begann alles zu zerfallen. Es wurde entdeckt, dass mehrere Ruinen geplündert worden waren. Alle Zeichen deuteten darauf hin, dass die Aedyrer den Vertrag gebrochen hatten. Die Glanfathaner hielten sich so lange sie nur konnten mit einem Urteil zurück, doch als die Beweise schließlich erdrückend wurden, schlugen sie mit all ihrer Macht zurück. Regd nahm wieder die Rolle des Anführers an und führte sein Volk in den Kampf gegen die Aedyrer. Anstatt wieder mit Edrang Hadret zu ringen, kreuzte Regd diesmal aber die Schwerter mit Edrangs Sohn Admeth Hadret. Admeth erwies sich also ebenso fähig - oder fähiger - wie sein Vater und setzte eine Taktik ein, mit der kein Glanfathaner gerechnet hatte. Um das Schlachtfeld zu räumen und dafür zu sorgen, dass der Feind sich nirgendwo verstecken konnte, ließ Admeth den gesamten Wald beim Fluss Isce Uar in Brand setzen und versperrte allen fliehenden Truppen mit seiner Armee den Weg. Einige überlebten das Gemetzel zwar, doch der Großteil der glanfathanischen Truppen kam um. Regd wurde in dem Chaos gefangen genommen und nach Neu-Heomar gebracht. Es kam zwar zu vielen weiteren Schlachten (in denen Admeth teilweise dieselbe Taktik einsetzte), doch die glanfathanischen Truppen hatten ihre Führung und ihre Entschlossenheit verloren. Sie wurden mühelos zerschlagen und noch vor Ende desselben Jahres war der Krieg der Schwarzen Bäume (wie er heute genannt wird) beendet.
 
 Um das Verhältnis zwischen den beiden Gruppen zu verbessern, führte Admeth neue Gesetze ein, die das Rauben neuer Sklaven aus Eir&#160;Glanfath einschränkten. Die Gesetze gaben Glanfathanern außerdem die Möglichkeit, ihre Verwandten aus der Gefangenschaft freizukaufen. Die Glanfathaner waren zwar nicht vollständig glücklich darüber, ihre Landsleute - die bereits frei gewesen waren - kaufen zu müssen, doch sie betrachteten diese Geste des guten Willens als ebensolche und stellten die Feindseligkeiten wieder ein. Sieben Jahre vergingen, in denen der Dyrwald unter Admeths Herrschaft stand. Die Glanfathaner hatten zum ersten Mal das Gefühl, dass wieder wahrer Frieden in ihr Land zurückkehren könnte. Dieser Frieden führte zu den vermutlich bedeutendsten Friedensverhandlungen, die es zwischen Eir&#160;Glanfath und dem Dyrwald je gab. Admeth schuf die Zehnjahresverträge, deren Name sich dadurch erklärt, dass sie zehn Jahre nach dem Ende des Kriegs der Schwarzem Bäume entstanden. Es wurde ein Zeitplan für die Freilassung aller glanfathanischen Sklaven festgelegt. Die Bürger von Eir&#160;Glanfath betrachteten den Dyrwald mit einer vorsichtigen Hoffnung. Durch den erweiterten Frieden zwischen den zwei Völkern und durch die neuen Verträge hofften sie, dass der Konflikt tatsächlich überwunden war.
 
-Im Jahr 2665 brachte Galven Medhra, eine Elfenfrau, die das Amt von Regd übernommen hatte, Kunde zu Admeth. Einige Dyrwäldler waren ertappt worden, wie sie Artefakte aus einem Grab geraubt hatten. Während der Ermittlungen wurde festgestellt, dass auch weitere Stätten geplündert worden waren. Da es sich um Einzelfälle handelte, die frühzeitig aufgehalten werden konnten, wollte Medhra keinen neuen Krieg beginnen, nachdem so lange Frieden geherrscht hatte. Admeth war dankbar für diese Geste der Höflichkeit und ließ die Verantwortlichen sofort aufspüren. Medhra stellte Admeth ihre Brîshalgwin ("Verstandsjäger") zur Seite, mit deren Hilfe Beweise gefunden wurden, die direkt zum Fercönyng führten. Admeth und Medhra waren nun Verbündete gegen den aedyranischen Fercönyng. Sie nutzten alle Mittel, die ihnen zur Verfügung standen, um zu verhindern, dass die Agenten des Fercönyngs in die Ruinen gelangten.
+Im Jahr 2665 brachte Galven Medhra, eine Elfenfrau, die das Amt von Regd übernommen hatte, Kunde zu Admeth. Einige Dyrwälder waren ertappt worden, wie sie Artefakte aus einem Grab geraubt hatten. Während der Ermittlungen wurde festgestellt, dass auch weitere Stätten geplündert worden waren. Da es sich um Einzelfälle handelte, die frühzeitig aufgehalten werden konnten, wollte Medhra keinen neuen Krieg beginnen, nachdem so lange Frieden geherrscht hatte. Admeth war dankbar für diese Geste der Höflichkeit und ließ die Verantwortlichen sofort aufspüren. Medhra stellte Admeth ihre Brîshalgwin ("Verstandsjäger") zur Seite, mit deren Hilfe Beweise gefunden wurden, die direkt zum Fercönyng führten. Admeth und Medhra waren nun Verbündete gegen den aedyrischen Fercönyng. Sie nutzten alle Mittel, die ihnen zur Verfügung standen, um zu verhindern, dass die Agenten des Fercönyngs in die Ruinen gelangten.
 
-Im Jahr 2668 AI, als Admeth die Unabhängigkeit vom Reich Aedyr verkündete und damit das freie Palatinat des Dyrwalds schuf, standen die Glanfathaner hinter ihm und boten ihm ihre Unterstützung und Truppen an. Der Krieg wirkte sich zwar nicht unmittelbar auf das glanfathanische Volk aus, es gab aber doch Todesopfer. Letztlich erlangten die Dyrwäldler ihre Freiheit und die Verbindung zwischen den beiden Völkern wurde durch ihr geteiltes Leid gestärkt. Admeth</DefaultText>
+Im Jahr 2668 AI, als Admeth die Unabhängigkeit vom Reich Aedyr verkündete und damit das freie Palatinat des Dyrwalds schuf, standen die Glanfathaner hinter ihm und boten ihm ihre Unterstützung und Truppen an. Der Krieg wirkte sich zwar nicht unmittelbar auf das glanfathanische Volk aus, es gab aber doch Todesopfer. Letztlich erlangten die Dyrwälder ihre Freiheit und die Verbindung zwischen den beiden Völkern wurde durch ihr geteiltes Leid gestärkt. Admeth</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8995,13 +8995,13 @@ Es gibt keinen einzelnen Ritter, der der gesamten Organisation vorsteht. Diese V
       <ID>1599</ID>
       <DefaultText>In den fünf Jahren nach seinem Aufstieg zum Gréf bemühte Admeth sich, die Beziehungen zu den Glanfathanern zu verbessern und sein Land mit dem ihren zu vereinen. Er erließ Gesetze, die das Gefangennehmen neuer Sklaven einschränkten, erlaubte den Glanfathanern, ihre Landsleute aus der Gefangenschaft freizukaufen, und führte eine Steuer auf den Besitz von Sklaven ein, um die Verwendung bezahlter Arbeitskräfte zu fördern. Es gab zwar etwas Widerstand gegen die neuen Gesetze, doch die Aufmerksamkeit des Fercönyngs war auf Readceras gerichtet und Admeth war mächtig (und genoss die Unterstützung der Kolonisten) - die Grafen konnten kaum echten Widerstand leisten.
 
-Im Jahr 2662 AI, als sich der Krieg der Schwarzen Bäume zum zehnten Mal jährte, setzte Admeth der Sklaverei im Dyrwald ein Ende. Er handelte eine Reihe von Verträgen mit den Glanfathanern aus, durch die ein Zeitplan festgelegt wurde, wann die verbleibenden Sklaven freizulassen waren. Jeder Sklavenbesitzer sollte als Entschädigung Geld oder Land erhalten, abhängig von der Anzahl der freigelassenen Sklaven. Sollte ein Sklavenbesitzer sich weigern, so sollten die Sklaven zwangsweise freigelassen und ihr ehemaliger Herr mit einer empfindlichen Geldstrafe belegt werden. Die Glanfathaner öffneten im Gegenzug die Handelsrouten mit dem Dyrwald und erlaubten den Dyrwäldlern, in Gebieten zu leben, in denen ihre heiligen Ruinen stehen - wobei es weiterhin streng verboten blieb, die Ruinen zu betreten. Als letzten Akt des guten Willens ließ Admeth Galven Regd frei, da er genug für seine Taten gelitten habe.
+Im Jahr 2662 AI, als sich der Krieg der Schwarzen Bäume zum zehnten Mal jährte, setzte Admeth der Sklaverei im Dyrwald ein Ende. Er handelte eine Reihe von Verträgen mit den Glanfathanern aus, durch die ein Zeitplan festgelegt wurde, wann die verbleibenden Sklaven freizulassen waren. Jeder Sklavenbesitzer sollte als Entschädigung Geld oder Land erhalten, abhängig von der Anzahl der freigelassenen Sklaven. Sollte ein Sklavenbesitzer sich weigern, so sollten die Sklaven zwangsweise freigelassen und ihr ehemaliger Herr mit einer empfindlichen Geldstrafe belegt werden. Die Glanfathaner öffneten im Gegenzug die Handelsrouten mit dem Dyrwald und erlaubten den Dyrwäldern, in Gebieten zu leben, in denen ihre heiligen Ruinen stehen - wobei es weiterhin streng verboten blieb, die Ruinen zu betreten. Als letzten Akt des guten Willens ließ Admeth Galven Regd frei, da er genug für seine Taten gelitten habe.
 
 Der Fercönyng erkannte, dass er die Kontrolle über sein eigenes Palatinat verloren hatte. Er ersann einen Plan, um den Handel mit antiken Artefakten wieder zu beleben. Er sprach die Grafen an, die unter Admeths Herrschaft litten, und überzeugte sie, Agenten anzuheuern, um die Ruinen zu plündern. Anfänglich taten sie das im Geheimen, doch sie wurden schnell fahrlässig und wurden schließlich geschnappt. Dieser Verstoß gegen die Verträge provozierte die Glanfathaner wieder zu Gewaltakten, während Admeth Nachforschungen anstellte, wer dahinter steckte.
 
-Mit Hilfe der glanfathanischen Anführer fand Admeth Beweise, die zum Fercönyng als Drahtzieher der Plünderungen führten. Das war der Anfang vom Ende der aedyranischen Herrschaft im Dyrwald. In den nächsten sieben Jahren versuchten Admeth und der Fercönyng, durch politische, wirtschaftliche und militärische Manöver einen Vorteil über einander zu erlangen. Im Jahr 2668 AI erklärte Admeth, dass der Dyrwald genug hatte. Er verkündete, dass der Dyrwald die Autorität des Fercönyngs nicht mehr anerkannte, sondern nun ein freies Land sei, das sich selbst regieren würde. Das löste den Widerstandskrieg aus, der fünf Jahre andauerte.
+Mit Hilfe der glanfathanischen Anführer fand Admeth Beweise, die zum Fercönyng als Drahtzieher der Plünderungen führten. Das war der Anfang vom Ende der aedyrischen Herrschaft im Dyrwald. In den nächsten sieben Jahren versuchten Admeth und der Fercönyng, durch politische, wirtschaftliche und militärische Manöver einen Vorteil über einander zu erlangen. Im Jahr 2668 AI erklärte Admeth, dass der Dyrwald genug hatte. Er verkündete, dass der Dyrwald die Autorität des Fercönyngs nicht mehr anerkannte, sondern nun ein freies Land sei, das sich selbst regieren würde. Das löste den Widerstandskrieg aus, der fünf Jahre andauerte.
 
-Das Ergebnis des Kriegs war die Freiheit des Drywalds, und auch wenn Duc Hadret vor Kriegsende starb, so gilt er für die Dyrwäldler doch als Gründer ihres Landes.</DefaultText>
+Das Ergebnis des Kriegs war die Freiheit des Dyrwalds, und auch wenn Duc Hadret vor Kriegsende starb, so gilt er für die Dyrwälder doch als Gründer ihres Landes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9022,7 +9022,7 @@ Und es schien tatsächlich, als wäre er das, bis zur Schlacht bei der Zitadelle
 
 Zwölf Männer und Frauen aus dem Dyrwald meldeten sich freiwillig für die Aufgabe, Waidwen aus dem Hinterhalt anzugreifen, damit er auf der Brücke feststeckte, bis die Bombe gezündet werden konnte. Die Schlacht war kurz, blutig und endgültig. "Das Dutzend" (wie man sie später nannte) konnte Waidwen auf der Brücke aufhalten. Die Bombe detonierte und tötete Waidwen, die vier Freiwilligen, die zu diesem Zeitpunkt noch am Leben waren und über fünfzig readceranische Soldaten, die an vorderster Front mit Waidwen marschierten.
 
-In diesem Augenblick endete der Krieg des Heiligen. Die verbleibenden readceranischen Truppen konnten mühelos zerschlagen werden. Sie hatten zwar mehr als genug Männer und Material, um die Belagerung zu Ende zu bringen, doch ihr Anführer, der bis vor kurzem noch als unbesiegbar galt, war soeben in einem Hagel aus Metall und Stein verschwunden. Panik brach aus und die Dyrwäldler hatten keine Mühe, sie in die Flucht zu schlagen.
+In diesem Augenblick endete der Krieg des Heiligen. Die verbleibenden readceranischen Truppen konnten mühelos zerschlagen werden. Sie hatten zwar mehr als genug Männer und Material, um die Belagerung zu Ende zu bringen, doch ihr Anführer, der bis vor kurzem noch als unbesiegbar galt, war soeben in einem Hagel aus Metall und Stein verschwunden. Panik brach aus und die Dyrwälder hatten keine Mühe, sie in die Flucht zu schlagen.
 
 Von diesem Punkt an war die Bombe nur noch als "Götterhammer" bekannt. Sie hielt sogar Einzug in den alltäglichen Sprachgebrauch. "So sicher, wie der Götterhammer den Krieg des Heiligen beendete" wurde zu einer festen Redewendung. Weniger sicher ist das Schicksal von Eothas, der seit der Explosion der Bombe nicht mehr zu seinen Anhängern gesprochen hat und für viele als tot gilt.
 
@@ -9031,7 +9031,7 @@ Bevor ein besorgter Bürger seiner Furcht Ausdruck verleiht oder ein erfindungsr
     </Entry>
     <Entry>
       <ID>1603</ID>
-      <DefaultText>Der Beherzte Dieb: Eine dyrwäldlerische Farce, Teil 2</DefaultText>
+      <DefaultText>Der Beherzte Dieb: Eine dyrwälderische Farce, Teil 2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9195,7 +9195,7 @@ MÄNNLICH: Das Urteil ist endgültig. Die Entscheidung ist gefallen. (Er wendet 
       <ID>1619</ID>
       <DefaultText>Die Anordnung ist durch Zeit und Salz ganz steif geworden.
 
-"Aedyranische Verstärkung ist auf dem Vormarsch. Ondras Geschenk ist auf Befehl von Duc Hadret sofort zu evakuieren."</DefaultText>
+"Aedyrische Verstärkung ist auf dem Vormarsch. Ondras Geschenk ist auf Befehl von Duc Hadret sofort zu evakuieren."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9211,7 +9211,7 @@ MÄNNLICH: Das Urteil ist endgültig. Die Entscheidung ist gefallen. (Er wendet 
 
 12. Fonauton 2672 - Schwerer Regen. 2 Fischerboot auf See verloren. 164 Tage seit Sichtung der Roter Traum.
 
-1. Tarauton 2672 - Dunkle Wolken. Aedyranische Schiffe am Horizont. 173 Tage seit Sichtung der Roter Traum."</DefaultText>
+1. Tarauton 2672 - Dunkle Wolken. Aedyrische Schiffe am Horizont. 173 Tage seit Sichtung der Roter Traum."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9316,7 +9316,7 @@ MÄNNLICH: Das Urteil ist endgültig. Die Entscheidung ist gefallen. (Er wendet 
     </Entry>
     <Entry>
       <ID>1642</ID>
-      <DefaultText>Dieser Leinensack enthält den Kopf des berüchtigten aedyranischen Sklaventreibers Galen Dalgard.</DefaultText>
+      <DefaultText>Dieser Leinensack enthält den Kopf des berüchtigten aedyrischen Sklaventreibers Galen Dalgard.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9326,7 +9326,7 @@ MÄNNLICH: Das Urteil ist endgültig. Die Entscheidung ist gefallen. (Er wendet 
     </Entry>
     <Entry>
       <ID>1644</ID>
-      <DefaultText>Dieser Leinensack enthält den Kopf von Devŵen, einer monströsen Menpwgra.</DefaultText>
+      <DefaultText>Dieser Leinensack enthält den Kopf von Devŵen, einer monströsen Mênpŵgra.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9356,7 +9356,7 @@ MÄNNLICH: Das Urteil ist endgültig. Die Entscheidung ist gefallen. (Er wendet 
     </Entry>
     <Entry>
       <ID>1650</ID>
-      <DefaultText>Dieser Leinensack enthält den Kopf des eothasianischen Priesters Thorfen.</DefaultText>
+      <DefaultText>Dieser Leinensack enthält den Kopf des eothasischen Priesters Thorfen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9386,7 +9386,7 @@ MÄNNLICH: Das Urteil ist endgültig. Die Entscheidung ist gefallen. (Er wendet 
     </Entry>
     <Entry>
       <ID>1656</ID>
-      <DefaultText>Ich hätte nie erwartet, in meinem Leben einmal ein Massaker von solchen Ausmaßen zu sehen. Ich war in meinem Schreibzimmer, um wichtige Dokumente für die Evakuierung einpacken. Ich ahnte nicht, dass die Aedyraner so drastisch vorgehen würden. Es war meine Frau, Ne'iloc, die zuerst hörte, wie die Dämme brachen. Wir stiegen auf das Dach, als das Wasser den Treppenabsatz erreichte. Meine drei Kinder Nathe, Leibelsa und Kyrre hielten wir in den Armen. Das Wasser erreichte unsere Brust. Wir klammerten uns an den gerade erst reparierten Schornstein. So konnten wir verhindern, dass die Fluten uns wegrissen. Andere Familien hatten weniger Glück.
+      <DefaultText>Ich hätte nie erwartet, in meinem Leben einmal ein Massaker von solchen Ausmaßen zu sehen. Ich war in meinem Schreibzimmer, um wichtige Dokumente für die Evakuierung einpacken. Ich ahnte nicht, dass die Aedyrer so drastisch vorgehen würden. Es war meine Frau, Ne'iloc, die zuerst hörte, wie die Dämme brachen. Wir stiegen auf das Dach, als das Wasser den Treppenabsatz erreichte. Meine drei Kinder Nathe, Leibelsa und Kyrre hielten wir in den Armen. Das Wasser erreichte unsere Brust. Wir klammerten uns an den gerade erst reparierten Schornstein. So konnten wir verhindern, dass die Fluten uns wegrissen. Andere Familien hatten weniger Glück.
 
 Als das Wasser schließlich zurückging, waren die Straßen voller Schutt, Schlamm und stinkender Fische. Der halbe Bezirk war vom Meer verschluckt worden. Leichen schwammen im Wasser, zusammen mit allem, was bei der Evakuierung zurückgelassen worden war. Wir verbrannten die Bürger, die wir fanden. Die armen Seelen haben sonst niemanden, der sich an sie erinnert, daher dokumentiere ich sie hier. Ich weiß nicht, ob sie Angehörige hatten, welche die Flut überlebt haben, aber es ist besser, ihre Namen niederzuschreiben, damit diese grauenhafte Flut sie nicht einfach wegspült ... wie so vieles andere.
 
@@ -9689,7 +9689,7 @@ Retsim Namotatop</DefaultText>
     </Entry>
     <Entry>
       <ID>1701</ID>
-      <DefaultText>Der süße und dicke Met ist eines der Lieblingsgetränke der Aedyraner und hält die alte Tradition aufrecht, launige Abende mit qualvollen Morgen zu vereinen.</DefaultText>
+      <DefaultText>Der süße und dicke Met ist eines der Lieblingsgetränke der Aedyrer und hält die alte Tradition aufrecht, launige Abende mit qualvollen Morgen zu vereinen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9807,7 +9807,7 @@ Wenn Woedica ihren Thron zurückerobert, wird meine Familie verstehen, dass ich 
 
 Eothas hat nicht mit uns gesprochen, seit er als der Heilige Waidwen erschienen ist. Ich hatte gehofft, dass Eothas mich als seine nächste Hülle erwählen würde, doch ... das Kind des Lichts bleibt stumm. Jeden Tag vollführe ich das Ritual, die Schatten der Ungläubigen zu verbannen ... und jeden Tag bestelle ich einsam meine Felder, ohne ein Anzeichen von Eothas' Rückkehr. Er möge dir Licht bringen, wenn du in der Dunkelheit lebst, doch wie lange muss ich noch in dieser langen Nacht des Verlassenseins darben?
 
-Ist das meine Strafe dafür, dass ich meinen Glauben geheim gehalten habe? Versteckt Eothas sich vor mir, bis ich für alle hörbar herausschreie, wie ich ihn verehre? Gewiss weiß er, dass die Dyrwäldler ihn und seine Anhänger nun hassen ... meine Landsmänner geben die Schuld für alle Übel des Kriegs des Heiligen uns weiterhin treuen Anhängern von Eothas. Sollten sie nicht zornig auf die readceranischen Soldaten sein? Erkennen die Dyrwäldler nicht, dass sie alle Hoffnung auf Heilung verhindern, indem sie den Gott der Wiedergeburt und Erlösung verstoßen?
+Ist das meine Strafe dafür, dass ich meinen Glauben geheim gehalten habe? Versteckt Eothas sich vor mir, bis ich für alle hörbar herausschreie, wie ich ihn verehre? Gewiss weiß er, dass die Dyrwälder ihn und seine Anhänger nun hassen ... meine Landsmänner geben die Schuld für alle Übel des Kriegs des Heiligen uns weiterhin treuen Anhängern von Eothas. Sollten sie nicht zornig auf die readceranischen Soldaten sein? Erkennen die Dyrwälder nicht, dass sie alle Hoffnung auf Heilung verhindern, indem sie den Gott der Wiedergeburt und Erlösung verstoßen?
 
 Während ich diese Worte schreibe, weiß ich, dass ich weiterhin das Farbblatt anbauen muss. Ich werde jeden Tag mit neuer Hoffnung erwachen: Wenn du in der Dunkelheit lebst, wird er mir Licht bringen. Jeden Tag bete ich, dass die Dämmerungssterne mich besuchen, genau, wie sie den Heiligen Waidwen in seinem Vorlasfeld besuchten. Werden sie mir erscheinen, wie sie dem Heiligen Waidwen erschienen sind? Als ein Mann und zwei Frauen, strahlend und makellos? Man sagt mir, sie kommen, um neue Zeiten anzukündigen ... Man sagt mir viele Dinge, und ich versuche, den Glauben in mir zu finden, sie alle zu glauben.
 
@@ -9940,7 +9940,7 @@ Ich fürchte, meine Schülerin wird auf Waels Besuch zurückblicken und sich bet
       <ID>1733</ID>
       <DefaultText>Deine Soldaten sind nicht voll bewaffnet, nicht einmal anständig gekleidet, wenn sie nicht zumindest die Grundlagen der glanfathanischen Sprache beherrschen. Wenn deine Späher nicht lauschen können, wenn deine gefangenen Soldaten die Worte ihrer Wachen nicht erkennen, wenn unsere Offiziere nicht auf Friedensangebote antworten können - scheitern wir. Selbst wenige Wörter der Gesichtsbemalten zu kennen kann den Unterschied zwischen Sieg oder Niederlage bedeuten.
 
-Die glanfathanische Schrift ist - wie die aedyranische - eine Abwandlung des alten vailianischen Alphabets, das vor langer Zeit von den Aedyranern über das Meer getragen wurde. Die Glanfathaner veränderten dieses Alphabet etwas, so dass es einige auffällige Unterschiede gibt, welche für Uninformierte verwirrend sein können.
+Die glanfathanische Schrift ist - wie die aedyrische - eine Abwandlung des alten vailianischen Alphabets, das vor langer Zeit von den Aedyrern über das Meer getragen wurde. Die Glanfathaner veränderten dieses Alphabet etwas, so dass es einige auffällige Unterschiede gibt, welche für Uninformierte verwirrend sein können.
 
 A und â ist der Unterschied zwischen "Ball" und "fahl".
 E und ê ist der Unterschied zwischen "wenn" und "wen".
@@ -9948,7 +9948,7 @@ I und î ist der Unterschied zwischen "Knick" und "Krieg".
 O und ô ist der Unterschied zwischen "flott" und "rot".
 W und ŵ ist der Unterschied zwischen "Schutt" und "Mut".
 
-Man beachte den letzten Teil - in Eir&#160;Glanfath dient der Buchstabe w als unser Buchstabe u. Ihn als Konsonanten "www" auszusprechen ist die schnellste Art, einen Glanfathaner wissen zu lassen, dass man ein Dyrwäldler ist, der Schwierigkeiten hat, die Sprache zu erlernen. Siehe "Estramor" im untenstehenden Glossar.
+Man beachte den letzten Teil - in Eir&#160;Glanfath dient der Buchstabe w als unser Buchstabe u. Ihn als Konsonanten "www" auszusprechen ist die schnellste Art, einen Glanfathaner wissen zu lassen, dass man ein Dyrwälder ist, der Schwierigkeiten hat, die Sprache zu erlernen. Siehe "Estramor" im untenstehenden Glossar.
 
 Und man behalte diese kniffligen Unterschiede im Hinterkopf:
 
@@ -9983,22 +9983,22 @@ Weretha - die Gesamtheit unserer Welt (Aussprache "u-retha" mit stimmlosem denta
     </Entry>
     <Entry>
       <ID>1734</ID>
-      <DefaultText>Aedyranische Dialekte</DefaultText>
+      <DefaultText>Aedyrische Dialekte</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1735</ID>
-      <DefaultText>Die Sonne über der aedyranischen Sprache geht niemals unter. Wir, die wir diese stolze Sprache oder eine Abwandlung davon sprechen, bevölkern jeden Winkel von Eora.
+      <DefaultText>Die Sonne über der aedyrischen Sprache geht niemals unter. Wir, die wir diese stolze Sprache oder eine Abwandlung davon sprechen, bevölkern jeden Winkel von Eora.
 
-Die meisten von uns, die diese wunderbare Sprache sprechen, kennen sie als Aedyranisch. Gelehrte aber und penibel auf Korrektheit bedachte Personen qualifizieren sie oft als "modernes" oder "zeitgenössisches" Aedyranisch. Dies dient als Abgrenzung zum Alt-Aedyranischen - der alten Elfensprache, die im aedyranischen Reich gesprochen wurde, bevor die ersten Siedler des Dyrwalds ihre Langschiffe bauten.
+Die meisten von uns, die diese wunderbare Sprache sprechen, kennen sie als Aedyrisch. Gelehrte aber und penibel auf Korrektheit bedachte Personen qualifizieren sie oft als "modernes" oder "zeitgenössisches" Aedyrisch. Dies dient als Abgrenzung zum Alt-Aedyrischen - der alten Elfensprache, die im aedyrischen Reich gesprochen wurde, bevor die ersten Siedler des Dyrwalds ihre Langschiffe bauten.
 
-Wenn Alt-Aedyranisch als die Mutter des lebendigen Aedyranisch gelten könnte, so könnte man die Sprache Hylisch als den Vetter des Aedyranischen betrachten. Hylisch ist immer weniger verbreitet, doch viele Elfen (besonders ältere) im aedyranischen Landesinneren sprechen diesen Dialekt noch.
+Wenn Alt-Aedyrisch als die Mutter des lebendigen Aedyrisch gelten könnte, so könnte man die Sprache Hylisch als den Vetter des Aedyrischen betrachten. Hylisch ist immer weniger verbreitet, doch viele Elfen (besonders ältere) im aedyrischen Landesinneren sprechen diesen Dialekt noch.
 
-Ob es dem Leser bewusst ist oder nicht - wer diese Worte lesen kann, der versteht auch Hylisch. Es ist nahezu identisch mit dem Aedyranischen, besitzt jedoch ein großes Vokabular an archaischen Wörtern, die im heutigen Aedyranisch sehr selten geworden sind. Wenn man Barden lauscht, die alte aedyranische Gedichte vortragen, hört man oft Refrains, die wie melodischer Unsinn klingen - meist sind dies Wörter, die in unserer gemeinsamen Sprache ausgestorben sind, im Hylischen aber noch verwendet werden.
+Ob es dem Leser bewusst ist oder nicht - wer diese Worte lesen kann, der versteht auch Hylisch. Es ist nahezu identisch mit dem Aedyrischen, besitzt jedoch ein großes Vokabular an archaischen Wörtern, die im heutigen Aedyrisch sehr selten geworden sind. Wenn man Barden lauscht, die alte aedyrische Gedichte vortragen, hört man oft Refrains, die wie melodischer Unsinn klingen - meist sind dies Wörter, die in unserer gemeinsamen Sprache ausgestorben sind, im Hylischen aber noch verwendet werden.
 
-Während Hylisch jenen, die das so genannte "moderne" Aedyranisch sprechen, vertraut ist, gilt das nicht für den Vorläufer unserer Sprache. Alt-Aedyranisch ist eine tote Sprache, von Akademikern gesprochen, aber in keiner größeren Gemeinschaft noch aktiv verwendet. Alt-Aedyranische Wörter sind Aedyranischsprechenden oft vertraut, doch die Wörter verwenden eine veraltete Rechtschreibung voller unbekannter Akzentzeichen.
+Während Hylisch jenen, die das so genannte "moderne" Aedyrisch sprechen, vertraut ist, gilt das nicht für den Vorläufer unserer Sprache. Alt-Aedyrisch ist eine tote Sprache, von Akademikern gesprochen, aber in keiner größeren Gemeinschaft noch aktiv verwendet. Alt-Aedyrische Wörter sind Aedyrisch Sprechenden oft vertraut, doch die Wörter verwenden eine veraltete Rechtschreibung voller unbekannter Akzentzeichen.
 
-Das Alt-Aedyranische verwendet beispielsweise einige Doppellaute, die im modernen Aedyranisch nicht existieren, sowie einige knifflige Konsonantenhäufungen:
+Das Alt-Aedyrische verwendet beispielsweise einige Doppellaute, die im modernen Aedyrisch nicht existieren, sowie einige knifflige Konsonantenhäufungen:
 
 Ea erzeugt einen "eh-ja"-Klang, ähnlich dem Kinderreim "Eia-popeia".
 Eo klingt wie "eh-jo" - dieser Klang wird im modernen Wort "Eora" noch verwendet.
@@ -10009,7 +10009,7 @@ Gj klingt wie "j" in "Jugend".
 Sc klingt wie "sch" - Sciff spricht sich also "Schiff".
 Cg klingt wie "dsch" in "Dschungel".
 
-Die Vornamen von Aedyranern, Dyrwäldlern und Readceranern stammen oft aus dem Alt-Aedyranischen. Einige Beispiele:
+Die Vornamen von Aedyrern, Dyrwäldern und Readceranern stammen oft aus dem Alt-Aedyrischen. Einige Beispiele:
 
 Aldwyn wird "ALD-wihn" gesprochen, wegen des langen Vokalklangs des "y".
 Durnisc wird "DUR-nisch" gesprochen, da das "sc" am Ende wie "sch" klingt.
@@ -10671,12 +10671,12 @@ Ich breche am Morgen nach Cilant Lîs auf. Dann muss ich nur noch das Relief fin
     </Entry>
     <Entry>
       <ID>1865</ID>
-      <DefaultText>Da sich Aedyr in der Nähe von Eoras Äquator befindet, bevorzugen die Aedyraner leicht, lockere und bequeme Kleidung. Ihre Gewänder bestehen meistens aus Leinen, wobei aus der Naturfarbe der Faser und bunten Farben kräftige, einfache Muster entstehen.</DefaultText>
+      <DefaultText>Da sich Aedyr in der Nähe von Eoras Äquator befindet, bevorzugen die Aedyrer leicht, lockere und bequeme Kleidung. Ihre Gewänder bestehen meistens aus Leinen, wobei aus der Naturfarbe der Faser und bunten Farben kräftige, einfache Muster entstehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1866</ID>
-      <DefaultText>Obwohl die meisten Dyrwäldler aus dem Aedyr-Reich stammen, hat sich die dyrwäldlerischer Kleidung seit den ersten Kolonisierungswellen stark verändert. Dyrwäldler bevorzugen grobe Kleidung, die oft aus Wolle und Hirschleder gefertigt wird. Aufgrund des instabilen Wetter des Östlichen Abschnitts trägt man im Alltag des Dyrwalds gerne Westen und andere Überbekleidungen.</DefaultText>
+      <DefaultText>Obwohl die meisten Dyrwälder aus dem Aedyr-Reich stammen, hat sich die dyrwälderischer Kleidung seit den ersten Kolonisierungswellen stark verändert. Dyrwälder bevorzugen grobe Kleidung, die oft aus Wolle und Hirschleder gefertigt wird. Aufgrund des instabilen Wetter des Östlichen Abschnitts trägt man im Alltag des Dyrwalds gerne Westen und andere Überbekleidungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10774,7 +10774,7 @@ Trotz seiner Dicke und seines Gewichts ist dieser Gürtel optisch nicht sonderli
 
 Als Aedwyn einen unbemerkten Tod starb, ging die Klinge in den Besitz seiner jungen Nichte über, Cadend Grundmef. Letztere fand, dass die Waffe über die Eigenheiten ihres Onkels verfügte: sie war gut, um in unpassenden Momenten zu unterbrechen und jedem, mit dem sie in Kontakt kam, das Leben zu entziehen ... und schuf eine generell lästige Präsenz. Aedwyn selbst gab dem Degen den Spitznamen "Moskito" und setzte ihn regelmäßig in Hofduellen ein.
 
-Nach ihrem Tod wurde die Waffe an Aedwyns Enkel im Dyrwald weitergegeben. Als Thayn von Cwynsrun fiel er bei einem glanfathanischen Überfall, und Moskito ging mit ihm verloren. Da er keine Nachkommen hatte und keiner der Grundmeths von Aedyr den Degen beansprucht haben, war er seitdem im Besitz verschiedener anonymer Glanfathaner und Dyrwäldler.</DefaultText>
+Nach ihrem Tod wurde die Waffe an Aedwyns Enkel im Dyrwald weitergegeben. Als Thayn von Cwynsrun fiel er bei einem glanfathanischen Überfall, und Moskito ging mit ihm verloren. Da er keine Nachkommen hatte und keiner der Grundmeths von Aedyr den Degen beansprucht haben, war er seitdem im Besitz verschiedener anonymer Glanfathaner und Dyrwälder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10811,7 +10811,7 @@ Nach ihrem Tod wurde die Waffe an Aedwyns Enkel im Dyrwald weitergegeben. Als Th
     </Entry>
     <Entry>
       <ID>1889</ID>
-      <DefaultText>Einst wurden Löwen in den Ebenen östlich und südlich von Eir&#160;Glanfath&#2060;s ausgedehnten Wäldern oft gesichtet, aber die Kolonisierung im Östlichen Abschnitt hat die Großkatzen in die relative Sicherheit des Territoriums zwischen den glanfathanischen und dyrwäldlerischen Siedlungen zurückgedrängt. Zusätzlich zu ihrer enormen Kraft sind Löwen für ihr Gebrüll bekannt, einem furchterregenden Geräusch, das selbst dem tapfersten Gestandenen die Angst ins Herz treiben kann.</DefaultText>
+      <DefaultText>Einst wurden Löwen in den Ebenen östlich und südlich von Eir&#160;Glanfath&#2060;s ausgedehnten Wäldern oft gesichtet, aber die Kolonisierung im Östlichen Abschnitt hat die Großkatzen in die relative Sicherheit des Territoriums zwischen den glanfathanischen und dyrwälderischen Siedlungen zurückgedrängt. Zusätzlich zu ihrer enormen Kraft sind Löwen für ihr Gebrüll bekannt, einem furchterregenden Geräusch, das selbst dem tapfersten Gestandenen die Angst ins Herz treiben kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

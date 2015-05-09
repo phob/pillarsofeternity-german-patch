@@ -15,7 +15,7 @@ Die erste Gestalt erhebt ihre Hände, um die Situation zu beruhigen. Sein Gesich
       <ID>2</ID>
       <DefaultText>Die anderen Gestalten, Männer aus dem Volk und eine Elfe, sehen nicht gerade überzeugt aus. 
 
-Die Frau verschränkt ihre Arme. "Aha, willst unseren Stolz wohl mit ein paar aedyranischen Kupferstücken beschwichtigen, was?" Sie spuckt auf seine Füße. "Wir brauchen dein Geld nicht."</DefaultText>
+Die Frau verschränkt ihre Arme. "Aha, willst unseren Stolz wohl mit ein paar aedyrischen Kupferstücken beschwichtigen, was?" Sie spuckt auf seine Füße. "Wir brauchen dein Geld nicht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,9 +40,9 @@ Die Frau verschränkt ihre Arme. "Aha, willst unseren Stolz wohl mit ein paar ae
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Einer der anderen Männer deutet auf den Elf mit der Kapuze. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. "Verspottet uns sogar noch, während er in unserem Dorf wohnt. Soviel zum Thema, was diese feinen aedyranischen Manieren wirklich wert sind."
+      <DefaultText>Einer der anderen Männer deutet auf den Elf mit der Kapuze. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. "Verspottet uns sogar noch, während er in unserem Dorf wohnt. Soviel zum Thema, was diese feinen aedyrischen Manieren wirklich wert sind."
 
-"So eine Behandlung lassen wir uns nicht gefallen. Nicht von Ausländern, und von Aedyranern erst recht nicht."</DefaultText>
+"So eine Behandlung lassen wir uns nicht gefallen. Nicht von Ausländern, und von Aedyrern erst recht nicht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -57,12 +57,12 @@ Die Frau verschränkt ihre Arme. "Aha, willst unseren Stolz wohl mit ein paar ae
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Einer der anderen Männer starrt den Elf mit der Kapuze an. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. "Du bist ganz schön frech, uns in unserem eigenen Dorf zu verspotten. Von Ausländern lassen wir uns nicht schlecht behandeln. Von Aedyranern erst recht nicht."</DefaultText>
+      <DefaultText>Einer der anderen Männer starrt den Elf mit der Kapuze an. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. "Du bist ganz schön frech, uns in unserem eigenen Dorf zu verspotten. Von Ausländern lassen wir uns nicht schlecht behandeln. Von Aedyrern erst recht nicht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Einer der anderen Männer starrt den Elf mit der Kapuze an. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. "Wir sind einfache Leute, aber dumm sind wir nicht. Das scheint er aber anders zu sehen, da er uns verspottet, während er in unserem Dorf wohnt. So lassen wir uns von Ausländern nicht anreden, und von Aedyranern erst recht nicht."</DefaultText>
+      <DefaultText>Einer der anderen Männer starrt den Elf mit der Kapuze an. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. "Wir sind einfache Leute, aber dumm sind wir nicht. Das scheint er aber anders zu sehen, da er uns verspottet, während er in unserem Dorf wohnt. So lassen wir uns von Ausländern nicht anreden, und von Aedyrern erst recht nicht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -139,7 +139,7 @@ Er stellt sich fest hin. In seinen Augen flackert etwas Mürrisches und Rohes au
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Niemand gibt uns Befehle, Aedyraner."</DefaultText>
+      <DefaultText>"Niemand gibt uns Befehle, Aedyrer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -149,7 +149,7 @@ Er stellt sich fest hin. In seinen Augen flackert etwas Mürrisches und Rohes au
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Sie greifen dich mit hasserfüllten Augen an. "Oh nein, das wirst du nicht, Aedyraner."</DefaultText>
+      <DefaultText>Sie greifen dich mit hasserfüllten Augen an. "Oh nein, das wirst du nicht, Aedyrer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -164,7 +164,7 @@ Er stellt sich fest hin. In seinen Augen flackert etwas Mürrisches und Rohes au
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Wir lassen uns von irgendwelchen dahergelaufenen Aedyranern nichts befehlen. Und von Mildtätigkeit halten wir auch nichts."</DefaultText>
+      <DefaultText>"Wir lassen uns von irgendwelchen dahergelaufenen Aedyrern nichts befehlen. Und von Mildtätigkeit halten wir auch nichts."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

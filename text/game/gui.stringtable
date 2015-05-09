@@ -9813,12 +9813,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1983</ID>
-      <DefaultText>Charakterstimmen</DefaultText>
+      <DefaultText>Charaktersounds</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1984</ID>
-      <DefaultText>Legt fest, in welchem Abstand Gruppenmitglieder akustisches Feedback geben.</DefaultText>
+      <DefaultText>Legt fest, mit welcher Häufigkeit Gruppenmitglieder akustisches Feedback auf Befehle geben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

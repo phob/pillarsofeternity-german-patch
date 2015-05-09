@@ -1331,7 +1331,7 @@
     </Entry>
     <Entry>
       <ID>277</ID>
-      <DefaultText>Führt dazu, dass der Zauberwirker versetzt erscheint, wodurch dessen Abwehr und Reflexe für die Dauer erhöht werden.</DefaultText>
+      <DefaultText>Führt dazu, dass der Zauberwirker räumlich versetzt erscheint, wodurch dessen Abwehr und Reflexe für die Dauer erhöht werden. Bei Angriffen gegen Abwehr und Reflexe werden zudem viele erlittene Treffer in Leichte Treffer umgewandelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1346,7 +1346,7 @@
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>Speit eine schädliche Wolke aus ranziger Fäule hervor, die jeden krank macht, der sich darin befindet und einen geringen Zersetzungsschaden verursacht.</DefaultText>
+      <DefaultText>Speit eine schädliche Wolke aus ranziger Fäule hervor, die Zersetzungsschaden verursacht und Betroffene erkranken lässt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1841,7 +1841,7 @@
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>Der Kämpfer weigert sich, besiegt zu werden. Bei 0&#160;Ausdauer erhebt der Kämpfer sich wieder und erhält 50&#160;% seiner maximalen Ausdauer und erfährt eine vorübergehende Steigerung seiner Verteidigungen und seiner Schadensreduktion.</DefaultText>
+      <DefaultText>Der Kämpfer weigert sich, besiegt zu werden. Nachdem er bewusstlos geschlagen wurde, erhebt sich der Kämpfer nochmals mit zum Teil wiederhergestellter Ausdauer und vorübergehenden Boni auf Abwehr sowie allen Schadensreduktionen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3406,7 +3406,7 @@
     </Entry>
     <Entry>
       <ID>698</ID>
-      <DefaultText>Kriegerischer Verteidiger</DefaultText>
+      <DefaultText>Achtsamer Verteidiger</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5470,7 +5470,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1106</ID>
-      <DefaultText>Der Barbar führt einen gewaltigen Hieb aus, wodurch beim Hieb selbst und bei daraus resultierenden Blutbad-Treffern eine höhere Wahrscheinlichkeit auf einen Kritischen Treffer besteht und der Schaden von diesen Kritischen Treffern zusätzlich erhöht wird. Blutbad wirkt sich außerdem auf ein größeres Gebiet aus.</DefaultText>
+      <DefaultText>Der Barbar führt einen gewaltigen Hieb mit erhöhter Wahrscheinlichkeit eines Kritischen Treffers und erhöhtem Schaden im Falle eines Kritischen Treffers aus. Blutbad Angriffe sind hiervon nicht betroffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5525,7 +5525,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1117</ID>
-      <DefaultText>Verleiht bei Einsatz einer Zweihandwaffe einen Schadensbonus.</DefaultText>
+      <DefaultText>Verleiht bei Einsatz einer zweihändigen Nahkampfwaffe einen Schadensbonus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

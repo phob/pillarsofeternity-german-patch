@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>289</EntryCount>
+  <EntryCount>296</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -625,7 +625,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>Die Seele eines versteinerten Charakters verwandelt seinen Körper vorübergehend in unbeweglichen, brüchigen Stein. Er leidet unter denselben Wirkungen wie ein gelähmter Charakter - allerdings wirken Angriffe sich direkt auf seine Gesundheit aus, nicht auf seine Ausdauer. Versteinert-Effekte sind stärker als Gelähmt-, Betäubt-, Bewegungsunfähig- oder Niedergeschlagen-Effekte und heben diese auf.</DefaultText>
+      <DefaultText>Die Seele eines versteinerten Charakters verwandelt seinen Körper vorübergehend in unbeweglichen, brüchigen Stein. Er leidet unter denselben Wirkungen wie ein gelähmter Charakter - allerdings richten Angriffe weitaus größeren Schaden an. Versteinert-Effekte sind stärker als Gelähmt-, Betäubt-, Bewegungsunfähig- oder Niedergeschlagen-Effekte und heben diese auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1584,6 +1584,41 @@ Neben dem rot markierten inneren Wirkungsbereich besitzen diese noch einen weite
     <Entry>
       <ID>293</ID>
       <DefaultText>Unterdrückt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Starker Zauber</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Ein Gegenstand mit der "Starker Zauber" Eigenschaft ermöglicht das Ausüben einer Fähigkeit oder das Wirken eines Zaubers solange der Gegenstand ausgerüstet ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>Zauberwirkung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Gegenstände mit der "Zauberwirkung" Eigenschaft lösen automatisch die genannte Fähigkeit oder den genannten Zauber aus, wenn der Anwender des Gegenstands im Kampf einen Kritischen Treffer erleidet. Die Zauberwirkung kann nur 2-mal pro Begegnung ausgelöst werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Zauberschlag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Waffen mit der "Zauberschlag" Eigenschaft lösen die genannte Fähigkeit oder den genannten Zauber aus, wenn der Besitzer der Waffe einen Kritischen Treffer bei einem Feind verursacht. Der Zauberschlag kann nur 1-mal pro Begegnung ausgelöst werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Hirsche sind seit Jahrhunderten wesentlicher Bestandteil aedyrischer und glanfathanischer Kulturen. Sie werden ihrer Geweihe, Felle und des Fleisches wegen gejagt und aufgrund ihrer Kraft und Geschwindigkeit verehrt. Hirschkühe und -kälber stellen für gewöhnlich keine Probleme für Jäger und Reisende dar, die großen Hirschböcke des Dyrwalds sind jedoch bekannt für ihre Aggressivität.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

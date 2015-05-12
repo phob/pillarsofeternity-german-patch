@@ -52,7 +52,7 @@
 
 "Wenn es nach den Leuten hier ginge, könnten es auch 'Neunzehn' sein."
 
-Er betrachtet dich von Kopf bis Fuß und zieht eine Grimasse. "Glaube nicht, dass ich dich höher als 23 hängen würde. Maximal 23." Er schnalzt mit der Zunge. "Du siehst nach der Sorte aus, die sich gerne einmischt."</DefaultText>
+Er betrachtet dich von Kopf bis Fuß und zieht eine Grimasse. "Glaube nicht, dass ich dich höher als Zweiundzwanzig hängen würde. Maximal Dreiundzwanzig." Er schnalzt mit der Zunge. "Du siehst nach der Sorte aus, die sich gerne einmischt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -323,7 +323,9 @@ Er wirft einen kurzen Blick auf den Baum. "So lange DU nicht die Sehenswürdigke
       <DefaultText>Er kratzt sich geistesabwesend mit seinem schwieligen Daumen am Bart. 
 
 "Weiß nicht, was ich davon halten soll, mit einem Fremden aufzubrechen - noch dazu mit einem so seltsamen. Aber ehrlich gesagt könntest du der Einzige sein, der nicht eine Art von Erleichterung spürt, wenn ich an diesem Baum dort baumeln würde."</DefaultText>
-      <FemaleText />
+      <FemaleText>Er kratzt sich geistesabwesend mit seinem schwieligen Daumen am Bart.
+
+"Weiß nicht, was ich davon halten soll, mit einer Fremden aufzubrechen - noch dazu mit einer so seltsamen. Aber ehrlich gesagt könntest du die Einzige sein, die nicht eine Art von Erleichterung spürt, wenn ich an diesem Baum dort baumeln würde."</FemaleText>
     </Entry>
     <Entry>
       <ID>62</ID>

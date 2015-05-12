@@ -242,12 +242,12 @@
     <Entry>
       <ID>55</ID>
       <DefaultText>Nonton hustet. "J-ja, ich glaube, wir haben uns im Talholz getroffen. Ich ... habe ihn vor dem Bär gewarnt." Er neigt seinen Kopf. "Ich bin froh, dass du es geschafft hast. Willst du sonst noch etwas?"</DefaultText>
-      <FemaleText />
+      <FemaleText>Nonton hustet. "J-ja, ich glaube, wir haben uns im Talholz getroffen. Ich ... habe sie vor dem Bär gewarnt." Er neigt seinen Kopf. "Ich bin froh, dass du es geschafft hast. Willst du sonst noch etwas?"</FemaleText>
     </Entry>
     <Entry>
       <ID>56</ID>
       <DefaultText>Nonton schüttelt den Kopf. "Das glaube ich nicht. Gab es noch etwas, das du wolltest, Fremder?"</DefaultText>
-      <FemaleText />
+      <FemaleText>Nonton schüttelt den Kopf. "Das glaube ich nicht. Gab es noch etwas, das du wolltest, Fremde?"</FemaleText>
     </Entry>
     <Entry>
       <ID>57</ID>
@@ -322,7 +322,7 @@
     <Entry>
       <ID>71</ID>
       <DefaultText>"Ich wünsche dir viel Glück auf deinen eigenen Reisen, Fremder. Das werden wir dir nicht vergessen."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Ich wünsche dir viel Glück auf deinen eigenen Reisen, Fremde. Das werden wir dir nicht vergessen."</FemaleText>
     </Entry>
     <Entry>
       <ID>72</ID>

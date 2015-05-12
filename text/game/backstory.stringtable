@@ -57,7 +57,7 @@
     <Entry>
       <ID>10</ID>
       <DefaultText>Ganz gleich, ob es an einer geschickten Zunge, einem Sinn für Zahlen, einer Fähigkeit zur Einschätzung anderer oder einfach an König Zufall lag: Bis vor Kurzem hast du dir deinen Lebensunterhalt als Händler verdient und deine Kunden im Tausch mit deinen Waren von ihren Münzen getrennt.</DefaultText>
-      <FemaleText />
+      <FemaleText>Ganz gleich, ob es an einer geschickten Zunge, einem Sinn für Zahlen, einer Fähigkeit zur Einschätzung anderer oder einfach an König Zufall lag: Bis vor Kurzem hast du dir deinen Lebensunterhalt als Händlerin verdient und deine Kunden im Tausch mit deinen Waren von ihren Münzen getrennt.</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -551,7 +551,7 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Du trafst ein Abkommen mit Galawain, Magran und Abydon, die von Thaos gestohlenen Seelen zur Festigung der Seelen der überlebenden Dyrwäldler zu nutzen, und sie auf diese Weise stärker und fähiger zu machen.</DefaultText>
+      <DefaultText>Du trafst ein Abkommen mit Galawain, Magran und Abydon, die von Thaos gestohlenen Seelen zur Festigung der Seelen der überlebenden Dyrwälder zu nutzen, und sie auf diese Weise stärker und fähiger zu machen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1367,7 +1367,7 @@
     <Entry>
       <ID>273</ID>
       <DefaultText>Du bist schon immer ein Soldat gewesen, und deine Fähigkeiten sind solche für das Schlachtfeld. Angesichts der Ungewissheit des Friedens zogst du aus deinem Heimatland fort, wusstest aber nicht, wohin dich dein Weg als nächstes führen würde.</DefaultText>
-      <FemaleText />
+      <FemaleText>Du bist schon immer eine Soldatin gewesen, und deine Fähigkeiten sind solche für das Schlachtfeld. Angesichts der Ungewissheit des Friedens zogst du aus deinem Heimatland fort, wusstest aber nicht, wohin dich dein Weg als nächstes führen würde.</FemaleText>
     </Entry>
     <Entry>
       <ID>274</ID>
@@ -1377,12 +1377,12 @@
     <Entry>
       <ID>275</ID>
       <DefaultText>Das Leben eines Söldners kann überraschend kostspielig sein, und schon bald fandest du dich als Schuldner eines gefährlichen Individuums wieder. Du brachst in der Hoffnung, deine Schulden abzahlen zu können, bevor jemand ein Kopfgeld auf dich aussetzt, zur Arbeitssuche auf.</DefaultText>
-      <FemaleText />
+      <FemaleText>Das Leben einer Söldnerin kann überraschend kostspielig sein, und schon bald fandest du dich als Schuldnerin eines gefährlichen Individuums wieder. Du brachst in der Hoffnung, deine Schulden abzahlen zu können, bevor jemand ein Kopfgeld auf dich aussetzt, zur Arbeitssuche auf.</FemaleText>
     </Entry>
     <Entry>
       <ID>276</ID>
       <DefaultText>Deine Arbeit als Söldner brachte dir einen berüchtigten Ruf ein, und man dichtete dir mehrere schändliche Taten an, mit denen du gar nichts zu tun hattest. Du entschlosst dich, woanders einen Neubeginn zu wagen, wo man deinen Namen und dein Gesicht nicht erkennen würde.</DefaultText>
-      <FemaleText />
+      <FemaleText>Deine Arbeit als Söldnerin brachte dir einen berüchtigten Ruf ein, und man dichtete dir mehrere schändliche Taten an, mit denen zu gar nichts zu tun hattest. Du entschlosst dich, woanders einen Neubeginn zu wagen, wo man deinen Namen und dein Gesicht nicht erkennen würde.</FemaleText>
     </Entry>
     <Entry>
       <ID>277</ID>
@@ -1426,7 +1426,7 @@
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>Du transportiertest nicht alle Gegenstände, sondern hieltst dich bei der Auswahl an bestimmte Prinzipien. Ein Kunde aber brachte dich trickreich dazu, etwas zu transportieren, was du normalerweise nie getan hättest, und du schworst dir, nie wieder in eine solche Position gebracht zu werden.</DefaultText>
+      <DefaultText>Du transportiertest nicht alle Gegenstände, sondern hieltest dich bei der Auswahl an bestimmte Prinzipien. Ein Kunde aber brachte dich trickreich dazu, etwas zu transportieren, was du normalerweise nie getan hättest, und du schworst dir, nie wieder in eine solche Position gebracht zu werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1461,12 +1461,12 @@
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>Durch deinen Erfolg zogst du dir aber den neidischen Zorn deiner Konkurrenten zu, und ein besonders neidischer warb Schläger zur Zerstörung deines Geschäfts an. Deiner Lebensgrundlage beraubt entschiedst du, dass dich an diesem Ort nichts mehr hielt.</DefaultText>
+      <DefaultText>Durch deinen Erfolg zogst du dir aber den Zorn deiner eifersüchtigen Konkurrenten zu, und ein besonders neidischer warb Schläger zur Zerstörung deines Geschäfts an. Deiner Lebensgrundlage beraubt beschlosst du, dass dich an diesem Ort nichts mehr hielt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>Im Laufe der Zeit bekamst du das Gefühl, alles gelernt zu haben, was dir bloße Texte bieten können. Die wahre Bedeutung hinter diesen Texte kann man nur draußen in der Welt herausfinden, und du müsstest nach ihnen suchen.</DefaultText>
+      <DefaultText>Im Laufe der Zeit bekamst du das Gefühl, alles gelernt zu haben, was dir bloße Texte bieten können. Die wahre Bedeutung hinter diesen Texten kann man nur draußen in der Welt herausfinden, und du müsstest nach ihnen suchen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1636,7 +1636,7 @@
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>Es war ein gutes Leben, bis du wegen Schwierigkeiten mit deinen Schiffskameraden über die Planke gingst. Du hattest Glück, am Leben zu bleiben.</DefaultText>
+      <DefaultText>Es war ein gutes Leben, bis du wegen Schwierigkeiten mit deinen Schiffskameraden über die Planke gingst. Du hattest das Glück, zu überleben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1681,12 +1681,12 @@
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText>Du aber liefst weg und entzogt dich erfolgreich den Bediensteten deines Herren und den örtlichen Gesetzeshütern.</DefaultText>
+      <DefaultText>Du aber liefst weg und entzogst dich erfolgreich den Bediensteten deines Herren und den örtlichen Gesetzeshütern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>337</ID>
-      <DefaultText>Letztendlich aber änderten sich die Gesetzen und du und deine Kameraden wurden per lokaler Verordnung befreit.</DefaultText>
+      <DefaultText>Letztendlich aber änderten sich die Gesetze und du und deine Kameraden wurden per lokaler Verordnung befreit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1711,7 +1711,7 @@
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>Nachdem du die Welt aber jahrelang nur in Büchern gesehen hattest, wolltest du sie mit eigenen Augen erleben.</DefaultText>
+      <DefaultText>Nachdem du die Welt aber jahrelang nur in Büchern kennengelernt hattest, wolltest du sie mit eigenen Augen sehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1726,7 +1726,7 @@
     </Entry>
     <Entry>
       <ID>345</ID>
-      <DefaultText>Deine Karriere aber fand ein jähes Ende, als eine schlechte deinerseits zu deiner Verstoßung führte.</DefaultText>
+      <DefaultText>Deine Karriere aber fand ein jähes Ende, als eine schlechte Entscheidung deinerseits zu deiner Verstoßung führte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1761,7 +1761,7 @@
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>In dieser Zeit unterliefen dir aber auch Fehler, und wegen mancher dieser Fehler wurden Unschuldige für Taten bestraft, die sich nicht begangen hatten.</DefaultText>
+      <DefaultText>In dieser Zeit unterliefen dir aber auch Fehler, und wegen mancher dieser Fehler wurden Unschuldige für Taten bestraft, die sie nicht begangen hatten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1786,7 +1786,7 @@
     </Entry>
     <Entry>
       <ID>357</ID>
-      <DefaultText>Die Konkurrenz aber war rücksichtslos, aber obwohl du aus dem Geschäft gedrängt wurdest, konntest du überleben.</DefaultText>
+      <DefaultText>Die Konkurrenz war rücksichtslos, aber obwohl du aus dem Geschäft gedrängt wurdest, konntest du überleben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1836,8 +1836,8 @@
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>Auf der Straße durch Magrans Gabelung trafst du auf einen wild dreinblickenden Priester, der sich selbst Durance nannte. Er erkannte dich umgehend als Wächter und schien davon überzeugt zu sein, dass euch das gemeinsame Reisen und gegenseitige Unterweisen vorgegeben war.</DefaultText>
-      <FemaleText />
+      <DefaultText>Auf der Straße durch Magrans Gabelung trafst du auf einen wild dreinblickenden Priester, der sich selbst Durance nannte. Er erkannte dich umgehend als Wächter und schien davon überzeugt zu sein, dass euch das gemeinsame Reisen und gegenseitige Unterweisen vorherbestimmt war.</DefaultText>
+      <FemaleText>Auf der Straße durch Magrans Gabelung trafst du auf einen wild dreinblickenden Priester, der sich selbst Durance nannte. Er erkannte dich umgehend als Wächterin und schien davon überzeugt zu sein, dass euch das gemeinsame Reisen und gegenseitige Unterweisen vorherbestimmt war.</FemaleText>
     </Entry>
     <Entry>
       <ID>369</ID>
@@ -1921,7 +1921,7 @@
     </Entry>
     <Entry>
       <ID>385</ID>
-      <DefaultText>Hiravias traf Scathden, einen anderen Druiden, mit dem er die Herbst-Stelgaer-Gestalt gemeinsam hat. Hiravias arrangierte sich mit seinen vor langer Zeit erlittenen Wunden und darauffolgender Ächtung.</DefaultText>
+      <DefaultText>Hiravias traf Scâthden, einen anderen Druiden, mit dem er die Herbst-Stelgaer-Gestalt gemeinsam hat. Hiravias arrangierte sich mit seinen vor langer Zeit erlittenen Wunden und darauffolgender Ächtung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -11,8 +11,8 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Amico! So schön, dich wiederzusehen! Was kann ich für dich tun?"</DefaultText>
-      <FemaleText />
+      <DefaultText>"Aimico! So schön, dich wiederzusehen! Was kann ich für dich tun?"</DefaultText>
+      <FemaleText>"Aimica! So schön, dich wiederzusehen! Was kann ich für dich tun?"</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -21,8 +21,8 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Es ist schön, dich zu sehen, Amico."</DefaultText>
-      <FemaleText />
+      <DefaultText>"Es ist schön, dich zu sehen, aimico."</DefaultText>
+     <FemaleText>"Es ist schön, dich zu sehen, aimica."</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -299,7 +299,7 @@
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Diese Dyrwäldler sind wahnsinnig. Ihr Duc wird ermordet, also brennen sie fast die Stadt nieder?"
+      <DefaultText>"Diese Dyrwälder sind wahnsinnig. Ihr Duc wird ermordet, also brennen sie fast die Stadt nieder?"
 
 Er hebt die Hände und blickt an die Decke. "Diese Sciòderie. Wie ich mich freue, wieder nach Ozia zurückzukehren."</DefaultText>
       <FemaleText />

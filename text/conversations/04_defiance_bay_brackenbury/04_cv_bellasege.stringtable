@@ -67,7 +67,7 @@ Sie läuft fast in dich hinein. "Eccosi! Nun suche ich so angestrengt in meiner 
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ich scherze! Ihr Aedyraner seid so verspannt. Ich weiß nicht einmal, wofür das Ding verwendet wird. Es gehört wohl dem letzten Nutzer dieses Büros. Sie haben ihn hochgestuft, er hat jetzt seine eigene Zelle."
+      <DefaultText>"Ich scherze! Ihr Aedyrer seid so verspannt. Ich weiß nicht einmal, wofür das Ding verwendet wird. Es gehört wohl dem letzten Nutzer dieses Büros. Sie haben ihn hochgestuft, er hat jetzt seine eigene Zelle."
 
 "Und wieder. Ich scherze."</DefaultText>
       <FemaleText />
@@ -201,7 +201,7 @@ Sie lächelt dich breit an, wenn auch etwas bemüht. "Aber danke für das Angebo
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Tja, das ist das Wesen des Dyrwalds. Die Leute hier sind mächtig stolz auf ihre Souveränität. Dabei sind sie längst nicht so unabhängig von ihren aedyranischen Brüdern und ihren glanfathanischen Nachbarn, wie sie sich einreden. Sie verlassen sich zu sehr auf die unergründlichen Wege der Götter und fürchten genau jenen Fortschritt, den sie so nötig hätten."</DefaultText>
+      <DefaultText>"Tja, das ist das Wesen des Dyrwalds. Die Leute hier sind mächtig stolz auf ihre Souveränität. Dabei sind sie längst nicht so unabhängig von ihren aedyrischen Brüdern und ihren glanfathanischen Nachbarn, wie sie sich einreden. Sie verlassen sich zu sehr auf die unergründlichen Wege der Götter und fürchten genau jenen Fortschritt, den sie so nötig hätten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -554,7 +554,7 @@ Er hält einen Finger an seine Lippen, seine Augen weit und flehend. "Bitte. Ich
     <Entry>
       <ID>108</ID>
       <DefaultText>"Mir fallen selten Dinge auf, die nichts mit meiner Arbeit zu tun haben. Selbst, wenn sie direkt vor mir liegen. Sientere aimico, aber ich bin wahrlich nicht die beste Wahl, um dir dabei zu helfen."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Mir fallen selten Dinge auf, die nichts mit meiner Arbeit zu tun haben. Selbst, wenn sie direkt vor mir liegen. Sientere aimica, aber ich bin wahrlich nicht die beste Wahl, um dir dabei zu helfen."</FemaleText>
     </Entry>
     <Entry>
       <ID>109</ID>

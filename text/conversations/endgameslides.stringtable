@@ -60,12 +60,12 @@ Mit einer Festung, die ihm Schutz bot, und einer Garnison treuer Soldaten, die i
       <ID>11</ID>
       <DefaultText>Fürst Raedrics Eifer hatte ihn einmal wieder zum Leben erweckt, doch ein zweites Mal sollte das nicht geschehen. Raedrics Vernichtung durch deine Hände bedeutete das Ende seiner erdrückenden Herrschaft über Goldtal und die umliegenden Gebiete. Ohne ihn blühte das Dorf auf. Viele neue Siedler ließen sich dort nieder, die wegen der Aufstände aus Trutzbucht geflohen waren. 
 
-Ohne einen Herrscher in der Nähe wurde Goldtal auch wilder - nicht wenige Siedler zogen sehr bald weiter, erschreckt von der selbst für dyrwäldische Verhältnisse extremen Gesetzlosigkeit. Dennoch, auch wenn das Leben dort eine Herausforderung war - Goldtal hatte überlebt und würde auch für die absehbare Zukunft weiter überleben.</DefaultText>
+Ohne einen Herrscher in der Nähe wurde Goldtal auch wilder - nicht wenige Siedler zogen sehr bald weiter, erschreckt von der selbst für dyrwälderische Verhältnisse extremen Gesetzlosigkeit. Dennoch, auch wenn das Leben dort eine Herausforderung war - Goldtal hatte überlebt und würde auch für die absehbare Zukunft weiter überleben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Du hattest Fürst Raedric zwar in seinem Thronsaal getötet, doch sein Eifer, sein Land von den Eothasianern zu befreien, war so stark, dass er als Todeswächter ins Leben zurückkehrte, als todloser Kreuzritter für seine brutale Sache. Nachdem er auch die letzten Überreste seiner Menschlichkeit verloren hatte, sah Raedric in allen Bürgern von Goldtal Eothasianer und führte eines Tages persönlich seine Truppen in das Dorf, um sein Land von ihnen zu befreien. Goldtal blieb als leere Hülle zurück, die Gebäude zerstört, die Bewohner niedergemetzelt. Selbst Reisende und Obdachlose wagten es nicht, in den Stadtgrenzen Zuflucht zu suchen. 
+      <DefaultText>Du hattest Fürst Raedric zwar in seinem Thronsaal getötet, doch sein Eifer, sein Land von den Eothasiern zu befreien, war so stark, dass er als Todeswächter ins Leben zurückkehrte, als todloser Kreuzritter für seine brutale Sache. Nachdem er auch die letzten Überreste seiner Menschlichkeit verloren hatte, sah Raedric in allen Bürgern von Goldtal Eothasier und führte eines Tages persönlich seine Truppen in das Dorf, um sein Land von ihnen zu befreien. Goldtal blieb als leere Hülle zurück, die Gebäude zerstört, die Bewohner niedergemetzelt. Selbst Reisende und Obdachlose wagten es nicht, in den Stadtgrenzen Zuflucht zu suchen. 
 
 Fürst Raedric kehrte zu Raedrics Festung zurück, wo er ewige Wache über sein ödes Reich hält.</DefaultText>
       <FemaleText />
@@ -88,7 +88,7 @@ In den folgenden Wochen wurden auch die Überlebenden von wütenden Mobs getöte
       <ID>15</ID>
       <DefaultText>Die Ermordung des Ducs, mutmaßlich durch die Hand eines Beseelers, hatte zu verheerenden Aufständen auf den Straßen von Trutzbucht gesorgt. Nur wenige Beseeler überlebten den ersten Tag. 
 
-Viele Dyrwäldler sahen das Ende von Waidwens Vermächtnis als ein Zeichen dafür, dass die Götter die Beseelung nicht guthießen, durch die Vertreibung der Beseeler aus Trutzbucht aber besänftigt worden waren. Mit der Zeit legte sich der Zorn der Bürger und einige überlebende Beseeler blieben in Trutzbucht und der näheren Umgebung. Um ihrer wissenschaftlichen Arbeit ungestört nachgehen zu können, zogen sie oft in die Wildnis.</DefaultText>
+Viele Dyrwälder sahen das Ende von Waidwens Vermächtnis als ein Zeichen dafür, dass die Götter die Beseelung nicht guthießen, durch die Vertreibung der Beseeler aus Trutzbucht aber besänftigt worden waren. Mit der Zeit legte sich der Zorn der Bürger und einige überlebende Beseeler blieben in Trutzbucht und der näheren Umgebung. Um ihrer wissenschaftlichen Arbeit ungestört nachgehen zu können, zogen sie oft in die Wildnis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -192,7 +192,7 @@ Du erfuhrst nie, ob und wo sie letztlich angelangten. Doch als du nach Zwillings
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Auf dein Geheiß hin wurde die in Sonne im Schatten gesammelte Essenz über dem Dyrwald verstreut, um mit den Seelen seiner Bewohner zu verschmelzen und sie zu beleben. Viele Dyrwäldler, die mit Schwierigkeiten rangen und erwarteten, ihrer eigenen Schwäche ausgeliefert zu sein, stellten in den folgenden Tagen erstaunt fest, dass sie voller Stärke und Durchhaltevermögen waren. Wer trauerte, konnte trotz seines Verlustes mit seinem Leben fortfahren. Wer verzweifelt war, fand neuen Grund zur Hoffnung.</DefaultText>
+      <DefaultText>Auf dein Geheiß hin wurde die in Sonne im Schatten gesammelte Essenz über dem Dyrwald verstreut, um mit den Seelen seiner Bewohner zu verschmelzen und sie zu beleben. Viele Dyrwälder, die mit Schwierigkeiten rangen und erwarteten, ihrer eigenen Schwäche ausgeliefert zu sein, stellten in den folgenden Tagen erstaunt fest, dass sie voller Stärke und Durchhaltevermögen waren. Wer trauerte, konnte trotz seines Verlustes mit seinem Leben fortfahren. Wer verzweifelt war, fand neuen Grund zur Hoffnung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -249,7 +249,7 @@ In den folgenden Monaten wurden die grenznahen Siedlungen des Dyrwalds unerklär
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Pallegina hatte ihre Befehle von den Ducs Bels befolgt und geholfen, ein exklusives Handelsabkommen zwischen den Vailianischen Republiken und den Stämmen von Eir Glanfath auszuhandeln. Gestärkt durch das Seelengeschenk des Wächters führten die zornigen Dyrwäldler zwei lange Jahre lang Krieg gegen die Republiken. Die Republiken konnten durch Handel großen Reichtum erlangen, mussten jedoch den Verlust vieler Handelsschiffe und Tausender von Leben hinnehmen. Mehrere Duc-Familien verloren die Gunst ihrer Bürger. Aufstände in Selona forderten das Leben des dortigen Ducs, und die anderen Ducs Bels mussten ihre exklusiven Handelsrechte nach großem Druck schließlich aufgeben, um den Konflikt mit dem Dyrwald zu beenden. Pallegina war zu Beginn der Handelsbeziehungen für ihre Dienste geehrt worden und ihr Ruf bei den Ducs und innerhalb der Bruderschaft litt nicht unter den folgenden Ereignissen.</DefaultText>
+      <DefaultText>Pallegina hatte ihre Befehle von den Ducs Bels befolgt und geholfen, ein exklusives Handelsabkommen zwischen den Vailianischen Republiken und den Stämmen von Eir Glanfath auszuhandeln. Gestärkt durch das Seelengeschenk des Wächters führten die zornigen Dyrwälder zwei lange Jahre lang Krieg gegen die Republiken. Die Republiken konnten durch Handel großen Reichtum erlangen, mussten jedoch den Verlust vieler Handelsschiffe und Tausender von Leben hinnehmen. Mehrere Duc-Familien verloren die Gunst ihrer Bürger. Aufstände in Selona forderten das Leben des dortigen Ducs, und die anderen Ducs Bels mussten ihre exklusiven Handelsrechte nach großem Druck schließlich aufgeben, um den Konflikt mit dem Dyrwald zu beenden. Pallegina war zu Beginn der Handelsbeziehungen für ihre Dienste geehrt worden und ihr Ruf bei den Ducs und innerhalb der Bruderschaft litt nicht unter den folgenden Ereignissen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -302,7 +302,7 @@ Die Geheimnisse der Götter würden bewahrt werden und damit die geistige Gesund
       <ID>58</ID>
       <DefaultText>Nachdem der Wächter ihn fortgeschickt hatte, fand Aloth sich von allen Autoritäten und Verbündeten abgeschnitten, die er je gekannt hatte - seiner Familie, seiner Heimat, dem Bleiernen Schlüssel und schließlich dem Wächter.
 
-Er wanderte mehrere Tage lang allein umher, durch Dörfer und Siedlungen. Die Dyrwäldler, an denen er vorbeiwanderte, blickten den zerlumpten Aedyraner misstrauisch an. Er verweilte nicht lange genug, um ihr Misstrauen in Gewalt umschlagen zu lassen.</DefaultText>
+Er wanderte mehrere Tage lang allein umher, durch Dörfer und Siedlungen. Die Dyrwälder, an denen er vorbeiwanderte, blickten den zerlumpten Aedyrer misstrauisch an. Er verweilte nicht lange genug, um ihr Misstrauen in Gewalt umschlagen zu lassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -500,7 +500,7 @@ Doch die letzte Hohlgeburt war nun Vergangenheit, und die Eltern, die das Risiko
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Für den Drywald selbst aber war die letzte Hohlgeburt nun Vergangenheit, und das Land feierte das Ende von Waidwens Vermächtnis, ohne zu wissen, welchen Preis es in der Zukunft dafür würde zahlen müssen.</DefaultText>
+      <DefaultText>Für den Dyrwald selbst aber war die letzte Hohlgeburt nun Vergangenheit, und das Land feierte das Ende von Waidwens Vermächtnis, ohne zu wissen, welchen Preis es in der Zukunft dafür würde zahlen müssen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -515,12 +515,12 @@ Doch die letzte Hohlgeburt war nun Vergangenheit, und die Eltern, die das Risiko
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Für die Bewohner des Dyrwaldes blieb die Frage bestehen, wie eh und je, denn selbst die Wahrheit war schlicht nicht zu glauben. Eines Tages hatten die Hohlgeburten ein Ende genommen, so jäh und unerklärlich, wie sie begonnen hatten. Und bei all ihrer Freude über das Ende des Vermächtnisses mussten die Dyrwäldler sich mit ihren eigenen Theorien über das Wie und Warum zufriedengeben. Aber vielleicht war das, was Wael beabsichtigt hatte.</DefaultText>
+      <DefaultText>Für die Bewohner des Dyrwalds blieb die Frage bestehen, wie eh und je, denn selbst die Wahrheit war schlicht nicht zu glauben. Eines Tages hatten die Hohlgeburten ein Ende genommen, so jäh und unerklärlich, wie sie begonnen hatten. Und bei all ihrer Freude über das Ende des Vermächtnisses mussten die Dyrwälder sich mit ihren eigenen Theorien über das Wie und Warum zufriedengeben. Aber vielleicht war das, was Wael beabsichtigt hatte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Die Himmel des Dyrwalds verdunkelten sich. Gewaltige Schwärme von Vögeln und anderen geflügelten Kreaturen waren zusammengerufen wurden, um sich zu nehmen, was die Himmelsmutter als ihr Recht erachtete. Monatelang waren die Bewohner des Dyrwalds gezwungen, sich versteckt zu halten, aus Furcht vor den brutalen, unerklärlichen Angriffen vom Himmel, die ganze Dörfer dezimiert zurückließen und die Straßen von Trutzbucht mit Leichen pflasterten, die mit tausenden von Hieb-, Stich- und Hackwunden übersät waren.</DefaultText>
+      <DefaultText>Der Himmel des Dyrwalds verdunkelte sich. Gewaltige Schwärme von Vögeln und anderen geflügelten Kreaturen waren zusammengerufen worden, um sich zu nehmen, was die Himmelsmutter als ihr Recht erachtete. Monatelang waren die Bewohner des Dyrwalds gezwungen, sich versteckt zu halten, aus Furcht vor den brutalen, unerklärlichen Angriffen vom Himmel, die ganze Dörfer dezimiert zurückließen und die Straßen von Trutzbucht mit Leichen pflasterten, die mit tausenden von Hieb-, Stich- und Hackwunden übersät waren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -544,12 +544,12 @@ Wer die Beteiligung des Zwillingsgottes spürte, der bezeichnete die Katastrophe
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Im Herzen der geschäftigen Stadt Neu-Heomar verstümmelten und entstellten Skaeniten ein Mitglied ihrer eigenen Gemeinde, entfernten Augen, Haare, Nase und Genitalien, ritzten den Leichnam blutig und ersetzten seine Augen durch schwarze Steine. Der auserwählten Hülle gab man Blut zu trinken - nicht das eines Adligen, wie das Ritual es eigentlich verlangte, sondern das von einem Dutzend gewöhnlicher Dyrwäldler. Die Inkarnation des Bildnisses, die in jenen Körper geboren wurde, war brutaler als alle in der bekannten Geschichtsschreibung erwähnten. Unermüdlich tötete sie Hunderte und verstümmelte ihre Leichen auf rituelle Weise, ehe sie selbst tot umfiel, endlich zufrieden.</DefaultText>
+      <DefaultText>Im Herzen der geschäftigen Stadt Neu-Heomar verstümmelten und entstellten Skaeniten ein Mitglied ihrer eigenen Gemeinde, entfernten Augen, Haare, Nase und Genitalien, ritzten den Leichnam blutig und ersetzten seine Augen durch schwarze Steine. Der auserwählten Hülle gab man Blut zu trinken - nicht das eines Adligen, wie das Ritual es eigentlich verlangte, sondern das von einem Dutzend gewöhnlicher Dyrwälder. Die Inkarnation des Bildnisses, die in jenen Körper geboren wurde, war brutaler als alle in der bekannten Geschichtsschreibung erwähnten. Unermüdlich tötete sie Hunderte und verstümmelte ihre Leichen auf rituelle Weise, ehe sie selbst tot umfiel, endlich zufrieden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Goldtal verblieb unter der brutalen Herrschaft von Fürst Raedric, der nach dem Tod seines Vetters Kolsc unangefochten regierte und die Bewohner weiter terrorisierte, auf der Suche nach Eothasianern in ihrer Mitte.
+      <DefaultText>Goldtal verblieb unter der brutalen Herrschaft von Fürst Raedric, der nach dem Tod seines Vetters Kolsc unangefochten regierte und die Bewohner weiter terrorisierte, auf der Suche nach Eothasiern in ihrer Mitte.
 
 Für Raedric aber war das plötzliche und unerwartete Ende von Waidwens Vermächtnis ein Zeichen des Erfolges und der Rechtschaffenheit seiner Bemühungen, und mit der Zeit begann auch sein Volk, das zu glauben. Er lockerte seinen Einsatz von Autorität und Gewalt, da er sein eigenes Volk nicht länger als Bedrohung ansah, und nach und nach gewann Goldtal einen Teil seines früheren Glanzes zurück.</DefaultText>
       <FemaleText />
@@ -558,7 +558,7 @@ Für Raedric aber war das plötzliche und unerwartete Ende von Waidwens Vermäch
       <ID>103</ID>
       <DefaultText>Als das Vermächtnis aufgehoben worden war, betrachteten die Leute das nicht als Zeichen, dass die Aufstände den Wünschen der Götter entsprochen hatten, wie Thaos es erhofft hatte, sondern als Bestätigung, dass die Beseelung niemals je die Ursache des Problems gewesen war. 
 
-Stattdessen überzeugten die Dyrwäldler sich, dass die Aufstände Trutzbucht irgendwie von Spionen des Bleiernen Schlüssels befreit hatte, und dass das Ende von Waidwens Vermächtnis ihre wohlverdiente Belohnung war.
+Stattdessen überzeugten die Dyrwälder sich, dass die Aufstände Trutzbucht irgendwie von Spionen des Bleiernen Schlüssels befreit hatte, und dass das Ende von Waidwens Vermächtnis ihre wohlverdiente Belohnung war.
 
 Der Zorn gegen die Beseeler war bald vergessen, und wer überlebt hatte, durfte zum Sanatorium von Farnheim zurückkehren und es wieder aufbauen, um seine Forschungsarbeiten fortzusetzen.</DefaultText>
       <FemaleText />
@@ -683,7 +683,7 @@ Sagani kehrte in ein Dorf zurück, das ihr Gesicht vergessen hatte, sich aber an
       <ID>126</ID>
       <DefaultText>Zudem erfuhr sie, dass Kallu einige Jahre zuvor am Winterfieber gestorben war und ihr mittleres Kind, Najuo, bei einem Überfall ums Leben gekommen war.
 
-Sie fand jedoch ihre Tochter Yakuna vor, eine Jägerin und selbst Mutter dreier Kinder, sowie ihren Sohn Malaak, Erbauer mächtiger Wände. Durch sie fand sie schließlich ihren Platz in dem Dorf wieder - und in den vertrauten Konturen einer Welt, die sich während ihrer Abwesenheit verändert hatte.</DefaultText>
+Sie fand jedoch ihre Tochter Yakona vor, eine Jägerin und selbst Mutter dreier Kinder, sowie ihren Sohn Malaak, Erbauer mächtiger Wände. Durch sie fand sie schließlich ihren Platz in dem Dorf wieder - und in den vertrauten Konturen einer Welt, die sich während ihrer Abwesenheit verändert hatte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

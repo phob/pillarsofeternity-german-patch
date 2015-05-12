@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Naja, wer weiß das schon. Vielleicht werden letztendlich Nachbarn, wenn Raedric genug bezahlt."</DefaultText>
+      <DefaultText>"Naja, wer weiß das schon. Vielleicht werden wir letztendlich Nachbarn, wenn Raedric genug bezahlt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -930,7 +930,7 @@ Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine S
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Mein Partnerin hinterging mich bei einem Auftrag. Sie bekam das Geld und ich die Schuld."</DefaultText>
+      <DefaultText>"Meine Partnerin hinterging mich bei einem Auftrag. Sie bekam das Geld und ich die Schuld."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1136,17 +1136,17 @@ Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine S
     <Entry>
       <ID>224</ID>
       <DefaultText>"Die Leute sagen, du seist eine Art Künstler. Stimmt das?"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Die Leute sagen, du seist eine Art Künstlerin. Stimmt das?"</FemaleText>
     </Entry>
     <Entry>
       <ID>225</ID>
       <DefaultText>"Eigentlich eher ein Darsteller."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Eigentlich eher eine Darstellerin."</FemaleText>
     </Entry>
     <Entry>
       <ID>226</ID>
       <DefaultText>"Ich verdiente mir meinen Lebensunterhalt als Handwerker."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Ich verdiente mir meinen Lebensunterhalt als Handwerkerin."</FemaleText>
     </Entry>
     <Entry>
       <ID>227</ID>
@@ -1156,7 +1156,7 @@ Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine S
     <Entry>
       <ID>228</ID>
       <DefaultText>"Odema sagte, du seist eine Art Kolonist gewesen, bevor du hierher gekommen bist. Wenn das stimmt, dann bist du hier genau richtig - das ganze Land besteht aus einem Haufen Kolonisten. Dir scheint das Leben an der Grenze ja zu gefallen, was?"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Odema sagte, du seist eine Art Kolonistin gewesen, bevor du hierher gekommen bist. Wenn das stimmt, dann bist du hier genau richtig - das ganze Land besteht aus einem Haufen Kolonisten. Dir scheint das Leben an der Grenze ja zu gefallen, was?"</FemaleText>
     </Entry>
     <Entry>
       <ID>229</ID>
@@ -1176,7 +1176,7 @@ Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine S
     <Entry>
       <ID>232</ID>
       <DefaultText>"Ich weiß aus guter Quelle, dass du eine Art Unruhestifter bist. Oder dass du zumindest in deinem alten Leben einer warst."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Ich weiß aus guter Quelle, dass du eine Art Unruhestifterin bist. Oder dass du zumindest in deinem alten Leben eine warst."</FemaleText>
     </Entry>
     <Entry>
       <ID>233</ID>
@@ -1186,7 +1186,7 @@ Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine S
     <Entry>
       <ID>234</ID>
       <DefaultText>"Das könnte man so behaupten. Eine Zeit lang diente ich als Spion."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Das könnte man so behaupten. Eine Zeit lang diente ich als Spionin."</FemaleText>
     </Entry>
     <Entry>
       <ID>235</ID>
@@ -1221,7 +1221,7 @@ Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine S
     <Entry>
       <ID>241</ID>
       <DefaultText>"In die Wasserregionen dieser Welt. Ich war ein Seefahrer."</DefaultText>
-      <FemaleText />
+      <FemaleText>"In die Wasserregionen dieser Welt. Ich war eine Seefahrerin."</FemaleText>
     </Entry>
     <Entry>
       <ID>242</ID>
@@ -1236,7 +1236,7 @@ Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine S
     <Entry>
       <ID>244</ID>
       <DefaultText>"Wie ich höre, bist du ein ziemlich guter Jäger. Erzähl das bloß nicht Sparfel, sonst wird er dich bis nach Goldtal beschwafeln, um dir weiszumachen, wie viel besser er ist als du."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Wie ich höre, bist du eine ziemlich gute Jägerin. Erzähl das bloß nicht Sparfel, sonst wird er dich bis nach Goldtal beschwafeln, um dir weiszumachen, wie viel besser er ist als du."</FemaleText>
     </Entry>
     <Entry>
       <ID>245</ID>
@@ -1256,7 +1256,7 @@ Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine S
     <Entry>
       <ID>248</ID>
       <DefaultText>"Eigentlich war ich ein Fischer."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Eigentlich war ich eine Fischerin."</FemaleText>
     </Entry>
     <Entry>
       <ID>249</ID>
@@ -1266,17 +1266,17 @@ Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine S
     <Entry>
       <ID>250</ID>
       <DefaultText>"Und noch dazu der schweren Arbeit. Ich war ein Schmied."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Und noch dazu der schweren Arbeit. Ich war eine Schmiedin."</FemaleText>
     </Entry>
     <Entry>
       <ID>251</ID>
       <DefaultText>"Das stimmt. Ich verdiente mir meinen Lebensunterhalt als Bauarbeiter."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Das stimmt. Ich verdiente mir meinen Lebensunterhalt als Bauarbeiterin."</FemaleText>
     </Entry>
     <Entry>
       <ID>252</ID>
       <DefaultText>"Gewissermaßen. Ich war ein Koch."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Gewissermaßen. Ich war eine Köchin."</FemaleText>
     </Entry>
     <Entry>
       <ID>253</ID>
@@ -1286,12 +1286,12 @@ Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine S
     <Entry>
       <ID>254</ID>
       <DefaultText>"Ich bin ein Kriegsveteran."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Ich bin eine Kriegsveteranin."</FemaleText>
     </Entry>
     <Entry>
       <ID>255</ID>
       <DefaultText>"Ich verdingte mich als Söldner."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Ich verdingte mich als Söldnerin."</FemaleText>
     </Entry>
     <Entry>
       <ID>256</ID>
@@ -1301,7 +1301,7 @@ Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine S
     <Entry>
       <ID>257</ID>
       <DefaultText>"Ich war ein Wachmann."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Ich war eine Wachfrau."</FemaleText>
     </Entry>
     <Entry>
       <ID>258</ID>
@@ -1341,7 +1341,7 @@ Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine S
     <Entry>
       <ID>265</ID>
       <DefaultText>"Spiritualität war mein Leben, ich war ein Asket."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Spiritualität war mein Leben, ich war eine Asketin."</FemaleText>
     </Entry>
     <Entry>
       <ID>266</ID>
@@ -1356,7 +1356,7 @@ Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine S
     <Entry>
       <ID>268</ID>
       <DefaultText>"Es gehört zu meiner Natur. Bevor ich hierher kam, war ich ein Lehrer."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Es gehört zu meiner Natur. Bevor ich hierher kam, war ich eine Lehrerin."</FemaleText>
     </Entry>
     <Entry>
       <ID>269</ID>
@@ -1381,7 +1381,7 @@ Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine S
     <Entry>
       <ID>273</ID>
       <DefaultText>"Ich war ein Missionar."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Ich war eine Missionarin."</FemaleText>
     </Entry>
     <Entry>
       <ID>274</ID>
@@ -1406,12 +1406,12 @@ Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine S
     <Entry>
       <ID>278</ID>
       <DefaultText>"In meinem alten Leben war ich ein Wegelagerer."</DefaultText>
-      <FemaleText />
+      <FemaleText>"In meinem alten Leben war ich eine Wegelagerin."</FemaleText>
     </Entry>
     <Entry>
       <ID>279</ID>
       <DefaultText>"Also was hat ein Sklave im Freien Palatinat des Dyrwalds zu suchen? Diese Spuren auf deinem Rücken kommen wohl nur schwerlich von Liebkosungen."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Also was hat eine Sklavin im Freien Palatinat des Dyrwalds zu suchen? Diese Spuren auf deinem Rücken kommen wohl nur schwerlich von Liebkosungen."</FemaleText>
     </Entry>
     <Entry>
       <ID>280</ID>
@@ -1426,7 +1426,7 @@ Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine S
     <Entry>
       <ID>282</ID>
       <DefaultText>"Ich war ein Schuldknecht."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Ich war eine Schuldmagd."</FemaleText>
     </Entry>
     <Entry>
       <ID>283</ID>
@@ -1436,7 +1436,7 @@ Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine S
     <Entry>
       <ID>284</ID>
       <DefaultText>"Ich war ein Historiker."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Ich war eine Historikerin."</FemaleText>
     </Entry>
     <Entry>
       <ID>285</ID>
@@ -1451,7 +1451,7 @@ Mit einem unbehaglichen Zittern in der Stimme fügt sie hinzu: "Ich muss meine S
     <Entry>
       <ID>287</ID>
       <DefaultText>"Nach dem, was ich so höre, bist du eine Art Wissenschaftler."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Nach dem, was ich so höre, bist du eine Art Wissenschaftlerin."</FemaleText>
     </Entry>
     <Entry>
       <ID>288</ID>

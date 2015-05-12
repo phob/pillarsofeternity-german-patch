@@ -26,7 +26,9 @@ Seine Seidenkleidung ist zwar fein bestickt, aber keineswegs neu - du bemerkst e
       <DefaultText>Er wischt sich den Schweiß von der Stirn und sieht sich mit den weit aufgerissenen, ängstlichen Augen eines gejagten Tiers im Lagerhaus um. "Aimico, ich kann dir gar nicht genug danken, aber das wird die Doemenels nicht lange aufhalten. Ich muss von hier verschwinden, und dasselbe würde ich auch dir empfehlen."
 
 Mit zitternden Händen übergibt er dir seine Pistole und einen Münzbeutel. "Das ist alles, was ich nach dieser unglückseligen Unternehmung noch übrig habe. Vielen Dank, und bitte pass auf dich auf."</DefaultText>
-      <FemaleText />
+      <FemaleText>Er wischt sich den Schweiß von der Stirn und sieht sich mit den weit aufgerissenen, ängstlichen Augen eines gejagten Tiers im Lagerhaus um. "Aimica, ich kann dir gar nicht genug danken, aber das wird die Doemenels nicht lange aufhalten. Ich muss von hier verschwinden, und dasselbe würde ich auch dir empfehlen."
+
+Mit zitternden Händen übergibt er dir seine Pistole und einen Münzbeutel. "Das ist alles, was ich nach dieser unglückseligen Unternehmung noch übrig habe. Vielen Dank, und bitte pass auf dich auf."</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -242,7 +244,9 @@ Er deutet auf die gestapelten Kisten. "Wir transportieren Fracht in die Republik
       <DefaultText>"Sie ist tot? Aimico, ich kann dir gar nicht genug danken, aber das wird die Doemenels nicht lange aufhalten. Ich muss von hier verschwinden, und dasselbe würde ich auch dir empfehlen."
 
 Mit zitternden Händen übergibt er einen Münzbeutel. "Das ist alles, was ich nach dieser unglückseligen Unternehmung noch übrig habe. Vielen Dank, und bitte pass auf dich auf."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Sie ist tot? Aimica, ich kann dir gar nicht genug danken, aber das wird die Doemenels nicht lange aufhalten. Ich muss von hier verschwinden, und dasselbe würde ich auch dir empfehlen."
+
+Mit zitternden Händen übergibt er einen Münzbeutel. "Das ist alles, was ich nach dieser unglückseligen Unternehmung noch übrig habe. Vielen Dank, und bitte pass auf dich auf."</FemaleText>
     </Entry>
     <Entry>
       <ID>86</ID>

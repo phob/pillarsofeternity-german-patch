@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\maps</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>163</EntryCount>
+  <EntryCount>155</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -596,7 +596,7 @@
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>Tempel von Eothaas</DefaultText>
+      <DefaultText>Tempel von Eothas</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -765,43 +765,8 @@
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>160</ID>
-      <DefaultText>Taenas Haus</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>161</ID>
-      <DefaultText>Snogre-Höhle 01</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>162</ID>
       <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>163</ID>
-      <DefaultText>Snogre-Höhle 02</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>164</ID>
-      <DefaultText>Westlicher Außenbereich</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>165</ID>
-      <DefaultText>Durgans Batterie</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>166</ID>
-      <DefaultText>Die Große Halle</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>167</ID>
-      <DefaultText>Die Minen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -812,11 +777,6 @@
     <Entry>
       <ID>169</ID>
       <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>170</ID>
-      <DefaultText>Eishöhle</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

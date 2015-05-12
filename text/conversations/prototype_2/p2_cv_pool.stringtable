@@ -339,9 +339,9 @@ Du spürst eine andere Präsenz im Blutbecken, verwirrt und wütend. Die anderen
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Hiravias wird blass, seine Augen weiten sich. "Was geschieht mit ihm? So tu doch jemand etwas! Er stirbt, wir müssen ihm helf-"
+      <DefaultText>Hiravias wird blass, sein Auge weitet sich vor Überraschung. "Was geschieht mit ihm? So tu doch jemand etwas! Er stirbt, wir müssen ihm helf-"
 
-Er bedeckt seine Augen mit seinen Händen, um den blutigen Anblick nicht zu ertragen. "Ich glaube, ich muss mich übergeben ... "</DefaultText>
+Er hebt die Hände schützend vor sein Gesicht, um den blutigen Anblick nicht zu ertragen. "Ich glaube, ich muss mich übergeben ... "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -440,7 +440,9 @@ Er fällt würgend und hustend auf die Knie. Aus seinem geöffneten Mund sprudel
       <DefaultText>"Der Handel ist vollzogen, Wächter."
 
 Als die Blasen im Blutbecken verschwinden und sich die Wogen glätten, spürst du eine merkwürdige Kraft in dich hineinsickern.</DefaultText>
-      <FemaleText />
+      <FemaleText>"Der Handel ist vollzogen, Wächterin."
+
+Als die Blasen im Blutbecken verschwinden und sich die Wogen glätten, spürst du eine merkwürdige Kraft in dich hineinsickern.</FemaleText>
     </Entry>
     <Entry>
       <ID>152</ID>
@@ -469,9 +471,9 @@ Als die Blasen im Blutbecken verschwinden und sich die Wogen glätten, spürst d
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Hiravias wird blass, seine Augen weiten sich. "Was geschieht mit ihr? So tu doch jemand etwas! Jemand muss ihr helf-"
+      <DefaultText>Hiravias wird blass, sein Auge weitet sich vor Überraschung. "Was geschieht mit ihr? So tu doch jemand etwas! Jemand muss ihr helf-"
 
-Er bedeckt seine Augen mit seinen Händen, um den blutigen Anblick nicht zu ertragen. "Ich glaube, ich muss mich übergeben ... "</DefaultText>
+Er hebt die Hände schützend vor sein Gesicht, um den blutigen Anblick nicht zu ertragen. "Ich glaube, ich muss mich übergeben ... "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -546,7 +548,7 @@ Kana schüttelt den Kopf. "Verschwinden wir hier, bevor noch jemand dieser Magie
       <ID>172</ID>
       <DefaultText>Edérs Mund zieht sich zusammen, als die Leiche verschwindet. Er wirkt, als sei er kurz davor, hinterherzuspringen, doch er zügelt sich. Er bedeckt sein Gesicht mit einer Hand.
 
-"Genug davon. Jetzt aber."</DefaultText>
+"Genug davon. Komm schon."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -730,7 +732,9 @@ Die Seelen sinken wieder zurück ins Becken.</DefaultText>
       <DefaultText>"Die Zeit für Fragen ist vorbei, Wächter." 
 
 Das Blutbecken ruht.</DefaultText>
-      <FemaleText />
+      <FemaleText>"Die Zeit für Fragen ist vorbei, Wächterin."
+
+Das Blutbecken ruht.</FemaleText>
     </Entry>
     <Entry>
       <ID>208</ID>

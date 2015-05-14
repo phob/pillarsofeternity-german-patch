@@ -117,7 +117,7 @@
     <Entry>
       <ID>22</ID>
       <DefaultText>"Ich suche einen großen Schatz, musst du wissen. Kein Gold oder Silber, sondern das Tanvii ora Toha. Das heilige Buch unseres Volkes, mein Freund ... und es ist dort ... zumindest irgendwo da drin. Unter der Burg."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Ich suche einen großen Schatz, musst du wissen. Kein Gold oder Silber, sondern das Tanvii ora Toha. Das heilige Buch unseres Volkes, meine Freundin ... und es ist dort ... zumindest irgendwo da drin. Unter der Burg."</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -132,7 +132,7 @@
     <Entry>
       <ID>25</ID>
       <DefaultText>"Exakt! Genau dieses Frage stellt sich." Er lacht. "Mein Freund, das ist eine lange und verworrene Geschichte, wie es alle guten Lieder sein sollten. Mit der Zeit kann ich dir mehr dazu erzählen, wenn du möchtest."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Exakt! Genau dieses Frage stellt sich." Er lacht. "Meine Freundin, das ist eine lange und verworrene Geschichte, wie es alle guten Lieder sein sollten. Mit der Zeit kann ich dir mehr dazu erzählen, wenn du möchtest."</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
@@ -164,7 +164,7 @@
     <Entry>
       <ID>32</ID>
       <DefaultText>"Und du, mein Freund? Warum bist du hier?"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Und du, meine Freundin? Warum bist du hier?"</FemaleText>
     </Entry>
     <Entry>
       <ID>33</ID>
@@ -196,7 +196,9 @@
       <DefaultText>"Hervorragend! Geh voran, mein Freund, ich werde dir auf dem Fuße folgen ... oh, Moment: Wo wir gerade dabei sind, sollte ich dich zuerst warnen. Bei Ondras Zähnen, das habe ich fast vergessen."
 
 "Manchmal ist mir jemand gefolgt - es begann in Aedyr, und in Ixamitl haben sie mich gleich angegriffen ... ich glaube, sie wollen nicht, dass ich finde, wonach ich suche."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Hervorragend! Geh voran, meine Freundin, ich werde dir auf dem Fuße folgen ... oh, Moment: Wo wir gerade dabei sind, sollte ich dich zuerst warnen. Bei Ondras Zähnen, das habe ich fast vergessen."
+
+"Manchmal ist mir jemand gefolgt - es begann in Aedyr, und in Ixamitl haben sie mich gleich angegriffen ... ich glaube, sie wollen nicht, dass ich finde, wonach ich suche."</FemaleText>
     </Entry>
     <Entry>
       <ID>39</ID>

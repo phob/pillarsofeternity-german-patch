@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Das silbrige Gesicht dreht sich mit kaltem, ruhigen Ausdruck zu. Aus den Augenhöhlen der Maske geben flackernde Flammen ihr unheilvolles Licht ab.</DefaultText>
+      <DefaultText>Das silbrige Gesicht dreht sich dir mit kaltem, ruhigen Ausdruck zu. Aus den Augenhöhlen der Maske geben flackernde Flammen ihr unheilvolles Licht ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Wer bist du?" Seine Stimme scheint durch die ganze Kammer zu hallen. Selbst als der Raum um dich herum noch dunkler zu werden scheint, wird das Licht in den Augen der Maske plötzlich heller. "Würdest du deinen König verlassen? Ergreife dein Schwert! In den Kampf! Der Feind ist gekommen."</DefaultText>
+      <DefaultText>"Wer bist du?" Seine Stimme scheint durch die ganze Kammer zu hallen. Die Augen der Maske lodern plötzlich in einem neuem Licht, während der Raum um dich herum sich zu verdunkeln scheint. "Würdest du deinen König im Stich lassen? Ergreife dein Schwert! In den Kampf! Der Feind ist gekommen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Du vergisst das Antlitz unseres Herrn?" Zu Füßen des Schattens strömen Wirbel der Finsternis empor, und als sie sich in die Luft erheben, wendet sich die schimmernde Maske deinem Gesicht zu. "Nein. Besser wäre es zu sagen, dass du die Dinge klarer siehst als meine Untertanen."</DefaultText>
+      <DefaultText>"Du vergisst das Antlitz deines Herrn?" Zu Füßen des Schattens strömen Wirbel der Finsternis empor, und als sie sich in die Luft erheben, wendet sich die schimmernde Maske deinem Gesicht zu. "Nein. Besser wäre es zu sagen, dass du die Dinge klarer siehst als meine Untertanen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Nein. Nein! Od Nuas Augen lodern auf. "Ein zweites Mal wird man mich nicht verraten! DAS wirst du mir nicht nehmen!</DefaultText>
+      <DefaultText>"Nein. Nein!" Od Nuas Augen lodern auf. "Ein zweites Mal wird man mich nicht verraten! DAS wirst du mir nicht nehmen!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -296,12 +296,12 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Mein Volk schuf einen Riesen für mich, enorm und wundersam in Gestalt, auf dass er meiner Seele gerecht werden würde, in ihm zu wohnen." Er streckt eine Hand aus und deutet mit einer dunklen, spitzen Klaue auf die Stufen. "Ich habe ihn nicht ... angesehen, seit ..."</DefaultText>
+      <DefaultText>"Mein Volk schuf einen Riesen für mich, enorm und wundersam in Gestalt, auf dass er der Seele würdig sei, die in ihm wohnen würde." Er streckt eine Hand aus und deutet mit einer dunklen, spitzen Klaue auf die Stufen. "Ich habe ihn nicht ... angesehen, seit ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>" ... Von Zeit zu Zeit kommen viele Seelen zu diesem Ort. Der Adra zieht sie in die Tiefe, und dort vergehen sie." Die Maske wendet sich dir abermals zu. "Aber nicht von mir."</DefaultText>
+      <DefaultText>" ... Von Zeit zu Zeit kommen viele Seelen zu diesem Ort. Der Adra zieht sie in die Tiefe, und dort werden sie verzehrt." Die Maske wendet sich dir abermals zu. "Aber nicht von mir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,7 +411,7 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Oder, so wäre es gewesen, hätten sie mich bloß beenden lassen. Wenn sie verstanden hätten, dass solch eine ... scheußliche Basis eine wundersame Errungenschaft hervorbringen kann. Dass sie derselbe Fluch, den ich zu heilen suchte, sie im Gegenzug befallen hat."</DefaultText>
+      <DefaultText>"Oder, so wäre es gewesen, hätten sie es mich bloß beenden lassen. Wenn sie verstanden hätten, dass solch eine ... scheußliche Basis eine wundersame Errungenschaft hervorbringen kann. Dass sie derselbe Fluch, den ich zu heilen suchte, sie im Gegenzug befallen hat."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -481,7 +481,7 @@
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Du kannst nichts tun, was ich nicht gerne erleiden würde, um dich von diesem Ort fernzuhalten Denkst du, du kannst mich narren? Wir haben zu viele Verräter erlitten." Od Nua führt eine Hand zu seinem Gesicht, worauf das Feuer dort schwächer wird.</DefaultText>
+      <DefaultText>"Du kannst nichts tun, was ich nicht gerne erleiden würde, um dich von diesem Ort fernzuhalten! Denkst du, du kannst mich narren? Wir haben zu viele Verräter erlitten." Od Nua führt eine Hand zu seinem Gesicht, worauf das Feuer dort schwächer wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

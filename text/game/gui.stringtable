@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1964</EntryCount>
+  <EntryCount>1967</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -2331,7 +2331,7 @@
     </Entry>
     <Entry>
       <ID>468</ID>
-      <DefaultText>Die Rolle einer Frau in Eora ist in hohem Maße abhängig von ihrer Herkunft. Im Reich Aedyr, in den Vailianischen Republiken und im Dyrwald besetzen Frauen viele häusliche, erzieherische und organisatorische Rollen. Sie sind die primären Jäger, Soldaten und Führer der Stämme von Naasitaq. In Eir&#160;Glanfath und Ixamitl sind die Übergänge der sozialen Rollen zwischen Männern und Frauen eher fließend. In allen Gesellschaften gibt es jedoch Ausnahmen und Frauen sind in vielen verschiedenen Rängen und Berufen anzutreffen.</DefaultText>
+      <DefaultText>Die Rolle einer Frau in Eora ist in hohem Maße abhängig von ihrer Herkunft. Im Reich Aedyr, in den Vailianischen Republiken und im [g]Dyrwald[/g] besetzen Frauen viele häusliche, erzieherische und organisatorische Rollen. Sie sind die primären Jäger, Soldaten und Führer der Stämme von Naasitaq. In [g]Eir&#160;Glanfath[/g] und Ixamitl sind die Übergänge der sozialen Rollen zwischen Männern und Frauen eher fließend. In allen Gesellschaften gibt es jedoch Ausnahmen und Frauen sind in vielen verschiedenen Rängen und Berufen anzutreffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9821,11 +9821,6 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1985</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1987</ID>
       <DefaultText>Verzauberung</DefaultText>
       <FemaleText />
@@ -9902,7 +9897,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>2018</ID>
-      <DefaultText />
+      <DefaultText>Ungenutze Punkte werden in die nächste Stufe übertragen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9913,6 +9908,26 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     <Entry>
       <ID>2020</ID>
       <DefaultText>Verteidiger: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>2025</ID>
+      <DefaultText>Benötigt mindestens {0} im Kampf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2036</ID>
+      <DefaultText>, </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2049</ID>
+      <DefaultText>{0} kann nicht abgelegt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2059</ID>
+      <DefaultText>Trapper</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

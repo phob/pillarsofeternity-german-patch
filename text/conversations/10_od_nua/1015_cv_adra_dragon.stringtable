@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Ein Lachen wie ein Donnergrollen hallt durch die Höhlen. Du hörst das Poltern von Trümmern, als sich weit oben Felsbrocken lösen. "Ja. Der 'Meister in der Tiefe'. Du hast ihn gefunden. Caed Nua, und alles, was darunter liegt, gehört mir."</DefaultText>
+      <DefaultText>Ein Lachen wie ein Donnergrollen hallt durch die Höhlen. Du hörst das Poltern von Trümmern, als sich weit oben Felsbrocken lösen. "Ja. Der 'Meister in der Tiefe'. Du hast sie gefunden. Caed Nua, und alles, was darunter liegt, gehört mir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Wie glücklich du bist, solch wohlbehütete Geheimnisse zu erfahren." Er starrt dich mit seinen goldenen Augen an. "Und es hat dich nur dein Leben gekostet."</DefaultText>
+      <DefaultText>"Wie glücklich du bist, solch wohlbehütete Geheimnisse zu erfahren." Sie starrt dich mit ihren goldenen Augen an. "Und es hat dich nur dein Leben gekostet."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Ich bin von Anfang an hier gewesen. Ich habe beobachtet, wie die Engwithaner ihre Wände aus dem Fels geschnitten haben, wie sie ihren großen Riesen schufen." Er hebt seinen Kopf, um die Statue anzusehen. "Ich habe ihre letzten Augenblicke gesehen."</DefaultText>
+      <DefaultText>"Ich bin von Anfang an hier gewesen. Ich habe beobachtet, wie die Engwithaner ihre Wände aus dem Fels geschnitten haben, wie sie ihren großen Riesen schufen." Sie hebt ihren Kopf, um die Statue anzusehen. "Ich habe ihre letzten Augenblicke gesehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,7 +118,7 @@
       <ID>46</ID>
       <DefaultText>"All das, was vom größten Wunsch eines toten Mannes übrig ist. Ein großes Denkmal ... oder lediglich ein mickriges, kleines Grab." 
 
-Der Drache harkt mit seinen Klauen über die Erde. "Natürlich liegen hier mehr als nur Od Nuas kostbarer Sohn begraben. Viel mehr. Hier laufen die Adra-Adern zusammen, bevor sie nach unten in den Höhlen der Welt verschwinden."</DefaultText>
+Der Drache harkt mit seinen Klauen über die Erde. "Natürlich liegen hier mehr als nur Od Nuas kostbarer Sohn begraben. Viele mehr. Hier laufen die Adra-Adern zusammen, bevor sie nach unten in den Höhlen der Welt verschwinden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -139,7 +139,7 @@ Der Drache harkt mit seinen Klauen über die Erde. "Natürlich liegen hier mehr 
     <Entry>
       <ID>53</ID>
       <DefaultText>"Aber du bist der einzige, der es so weit geschafft hat. Ich kann dir nicht gestatten zu gehen. Jetzt nicht mehr, nachdem du diesen Ort gesehen hast."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Aber du bist die einzige, die es so weit geschafft hat. Ich kann dir nicht gestatten zu gehen. Jetzt nicht mehr, nachdem du diesen Ort gesehen hast."</FemaleText>
     </Entry>
     <Entry>
       <ID>56</ID>
@@ -435,7 +435,7 @@ Der Drache harkt mit seinen Klauen über die Erde. "Natürlich liegen hier mehr 
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Ein Teil der Statue überlebt, so wie ich. Wir beiden haben uns sehr verändert." Der Drache erhebt Adra-beladene Flügel, die über dir wie eine zweite Decke thronen. "Nichts kann die Seelen Tausender verschlingen und sich nicht verändern."</DefaultText>
+      <DefaultText>"Ein Teil der Statue überlebt, so wie ich. Wir beide haben uns sehr verändert." Der Drache erhebt Adra-beladene Flügel, die über dir wie eine zweite Decke thronen. "Nichts kann die Seelen Tausender verschlingen und sich nicht verändern."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

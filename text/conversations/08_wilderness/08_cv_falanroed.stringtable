@@ -11,8 +11,8 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Sie blickt auf, als du dich näherst. Ihre ernste Miene weicht einem schiefen Grinsen. "Sei gegrüßt, Fremder. Wir sehen hier in letzter Zeit nicht viele Reisenden. Ein wahrer Jammer."</DefaultText>
-      <FemaleText>Sie blickt auf, als du dich näherst. Ihre ernste Miene weicht einem schiefen Grinsen. "Sei gegrüßt, Fremde. Wir sehen hier in letzter Zeit nicht viele Reisenden. Ein wahrer Jammer."</FemaleText>
+      <DefaultText>Sie blickt auf, als du dich näherst. Ihre ernste Miene weicht einem schiefen Grinsen. "Sei gegrüßt, Fremder. Hier draußen sieht man in letzter Zeit nicht viele Reisende. Ein wahrer Jammer."</DefaultText>
+      <FemaleText>Sie blickt auf, als du dich näherst. Ihre ernste Miene weicht einem schiefen Grinsen. "Sei gegrüßt, Fremde. Hier draußen sieht man in letzter Zeit nicht viele Reisende. Ein wahrer Jammer."</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Sie stößt ein gepresstes Geräusch aus, ein knurrendes Husten, und versucht es dann mit gerunzelter Stirn erneut: "Ja ... "</DefaultText>
+      <DefaultText>Sie stößt ein gepresstes Geräusch aus, ein knurrendes Husten, und versucht es dann mit gerunzelter Stirn erneut: "Es ist ... "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,7 +141,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Sie wendet sich dir zu. "Du hast mich befreit. Nicht alltäglich, einen Drachen in seiner Schuld stehen zu haben."</DefaultText>
+      <DefaultText>Sie wendet sich dir zu. "Du hast mich befreit. Es ist nicht alltäglich, einen Drachen in seiner Schuld stehen zu haben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Ein Name, der mit vielen Jahren verbunden ist. Ist er deine Beute? Ich weiß nicht, wo er wandelt, noch kann ich ihn für dich bekämpfen. Du würdest dich nur der Antworten berauben, die du suchst ... und an seiner Statt Maerwalds Angewohnheiten übernehmen."</DefaultText>
+      <DefaultText>"Ein Name, der mit vielen Jahren verbunden ist. Ist er deine Beute? Ich weiß nicht, wo er wandelt, noch kann ich ihn für dich bekämpfen. Du würdest dich nur der Antworten berauben, die du suchst ... und an seiner statt Maerwalds Angewohnheiten übernehmen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -297,7 +297,7 @@
     <Entry>
       <ID>64</ID>
       <DefaultText>"Nein. Ich war nie ein sonderlich guter Jäger."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Nein. Ich war nie eine sonderlich gute Jägerin."</FemaleText>
     </Entry>
     <Entry>
       <ID>65</ID>
@@ -326,7 +326,7 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Sie mustert dich einen Augenblick lang stumm. "Vielleicht solltest du deine eigene Beute aber eher in den Städten suchen."</DefaultText>
+      <DefaultText>Sie mustert dich einen Augenblick lang stumm. "Natürlich, aber vielleicht solltest du deine eigene Beute eher in den Städten suchen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

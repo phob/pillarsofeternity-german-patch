@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1967</EntryCount>
+  <EntryCount>1968</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -9928,6 +9928,11 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     <Entry>
       <ID>2059</ID>
       <DefaultText>Trapper</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>2104</ID>
+      <DefaultText>Tierischer Begleiter</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

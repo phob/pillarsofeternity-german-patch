@@ -273,7 +273,7 @@ Lauerer sind dafür berüchtigt, sich in voller Sicht zu verstecken. Oft warten 
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Einst wurden Löwen in den Ebenen östlich und südlich von Eir&#160;Glanfath&#2060;s ausgedehnten Wäldern oft gesichtet, aber die Kolonisierung im Östlichen Abschnitt hat die Großkatzen in die relative Sicherheit des Territoriums zwischen den glanfathanischen und dyrwälderischen Siedlungen zurückgedrängt. Zusätzlich zu ihrer enormen Kraft sind Löwen für ihr Gebrüll bekannt, einem furchterregenden Geräusch, das selbst dem tapfersten Gestandenen die Angst ins Herz treiben kann.</DefaultText>
+      <DefaultText>Einst wurden Löwen in den Ebenen östlich und südlich von Eir&#160;Glanfath&#x2060;s ausgedehnten Wäldern oft gesichtet, aber die Kolonisierung im Östlichen Abschnitt hat die Großkatzen in die relative Sicherheit des Territoriums zwischen den glanfathanischen und dyrwälderischen Siedlungen zurückgedrängt. Zusätzlich zu ihrer enormen Kraft sind Löwen für ihr Gebrüll bekannt, einem furchterregenden Geräusch, das selbst dem tapfersten Gestandenen die Angst ins Herz treiben kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -483,7 +483,7 @@ Xaurips verehren Drachen als Gottheiten und errichten ihre Gemeinden um die Nest
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Die Genauigkeit spielt bei fast jedem Angriff eine Rolle. Sie beeinflusst, wie wahrscheinlich es ist, dass der Angriff eine Wirkung auf das Ziel hat. Genauigkeit wird hauptsächlich durch die Klasse und die Stufe eines Charakters festgelegt, wird aber auch durch Talente und andere aktive Effekte wie Zauber oder Gegenstände beeinflusst. Wird ein Angriff unternommen, wird die Genauigkeit mit der jeweiligen Verteidigung des Ziels verglichen, um festzustellen, wie der Angriffswurf modifiziert wird. Liegt die Genauigkeit über der Verteidigung des Ziels, erhöht sich die Wahrscheinlichkeit von T&#2060;reffer&#2060;n oder Kritischen Treffer&#2060;n und die Wahrscheinlichkeit von Leichten Treffer&#2060;n oder Fehlschläge&#2060;n sinkt.
+      <DefaultText>Die Genauigkeit spielt bei fast jedem Angriff eine Rolle. Sie beeinflusst, wie wahrscheinlich es ist, dass der Angriff eine Wirkung auf das Ziel hat. Genauigkeit wird hauptsächlich durch die Klasse und die Stufe eines Charakters festgelegt, wird aber auch durch Talente und andere aktive Effekte wie Zauber oder Gegenstände beeinflusst. Wird ein Angriff unternommen, wird die Genauigkeit mit der jeweiligen Verteidigung des Ziels verglichen, um festzustellen, wie der Angriffswurf modifiziert wird. Liegt die Genauigkeit über der Verteidigung des Ziels, erhöht sich die Wahrscheinlichkeit von T&#x2060;reffer&#x2060;n oder Kritischen Treffer&#x2060;n und die Wahrscheinlichkeit von Leichten Treffer&#x2060;n oder Fehlschläge&#x2060;n sinkt.
 Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, werden mit einem kleinen Genauigkeitsbonus verstärkt, der auf der Stufe des Charakters basiert.</DefaultText>
       <FemaleText />
     </Entry>
@@ -525,7 +525,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Mit seinem Wille&#2060;n widersetzt sich ein Charakter mentalen Angriffen (z.B. einem Zauber, der das Ziel mental lähmt). Er wird durch die Klasse des Charakters, seine Stufe, seinen Intellekt und seine Entschlossenheit definiert, kann aber auch durch andere Effekte beeinflusst werden.</DefaultText>
+      <DefaultText>Mit seinem Wille&#x2060;n widersetzt sich ein Charakter mentalen Angriffen (z.B. einem Zauber, der das Ziel mental lähmt). Er wird durch die Klasse des Charakters, seine Stufe, seinen Intellekt und seine Entschlossenheit definiert, kann aber auch durch andere Effekte beeinflusst werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -705,7 +705,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Gehirnerschütterungen belegen den Intellekt sowie den Wille&#2060;n des Charakters mit einem Malus.</DefaultText>
+      <DefaultText>Gehirnerschütterungen belegen den Intellekt sowie den Wille&#x2060;n des Charakters mit einem Malus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -780,7 +780,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>T&#2060;reffer</DefaultText>
+      <DefaultText>T&#x2060;reffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -847,7 +847,7 @@ Einige Kreaturen können manchen Wirkungen gegenüber immun sein. In diesem Fall
       <ID>154</ID>
       <DefaultText>Alle Angriffe in Pillars of Eternity vergleichen den Genauigkeitswert des Angreifers mit einer von vier Verteidigungen des Ziels: Abwehr (direkte Nah- und Fernkampfangriffe), Tapferkeit (Angriffe gegen das Immunsystem wie Gift oder Krankheit), Reflexe (Wirkungsbereichangriffe) und Wille (mentale Angriffe). 
 
-Es wird eine Zahl zwischen 1 und 100 generiert und zu der Differenz zwischen Genauigkeit und Verteidigung addiert, um das Ergebnis des Angriffs zu berechnen. Bis 15 = Fehlschläge, 16 - 50 = Leichte Treffer, 51-100 = T&#2060;reffer, ab 100 = Kritische Treffer. 
+Es wird eine Zahl zwischen 1 und 100 generiert und zu der Differenz zwischen Genauigkeit und Verteidigung addiert, um das Ergebnis des Angriffs zu berechnen. Bis 15 = Fehlschläge, 16 - 50 = Leichte Treffer, 51-100 = T&#x2060;reffer, ab 100 = Kritische Treffer. 
 
 In einem ausgeglichenen Angriff-/Verteidigung-Szenario werden die meisten Angriffe Treffer oder Leichte Treffer sein. Wenn die Genauigkeit über der Verteidigung liegt, ist die Wahrscheinlichkeit von Kritischen Treffern höher. Wenn die Verteidigung über der Genauigkeit liegt, ist die Wahrscheinlichkeit von Fehlschlägen höher.</DefaultText>
       <FemaleText />
@@ -1362,7 +1362,7 @@ Das bedeutet, dass alle Statistiken der Waffen weiter gelten, insbesondere der S
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>Eine Handelsmacht und die ehemalige Kolonie einer größeren, älteren Nation, Alt-Vailia. Die Republiken liegen südlich des Dyrwalds und Eir&#160;Glanfath&#2060;s und werden von einem Duc regiert, der vom "Consuagli Asegia" gewählt wird, einem Rat aus 14 Ducs, darunter auch die fünf mächtigsten, die "Ducs Bels".</DefaultText>
+      <DefaultText>Eine Handelsmacht und die ehemalige Kolonie einer größeren, älteren Nation, Alt-Vailia. Die Republiken liegen südlich des Dyrwalds und Eir&#160;Glanfath&#x2060;s und werden von einem Duc regiert, der vom "Consuagli Asegia" gewählt wird, einem Rat aus 14 Ducs, darunter auch die fünf mächtigsten, die "Ducs Bels".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

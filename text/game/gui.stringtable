@@ -621,7 +621,7 @@
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>{2} fügt {0} {1}&#2060;schaden zu.</DefaultText>
+      <DefaultText>{2} fügt {0} {1}&#x2060;schaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1651,7 +1651,7 @@
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>T&#2060;reffer</DefaultText>
+      <DefaultText>T&#x2060;reffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2475,7 +2475,7 @@ Silberflut - In jeder Begegnung generieren Mond-Gottähnliche, wenn sie auf unte
       <ID>492</ID>
       <DefaultText>Sesshafte Orlaner sind in Readceras und in den Vailianischen Republiken oftmals Sklaven. Eine der Vertragsbedingungen zwischen dem Dyrwald und dem Volk aus Eir&#160;Glanfath war die Befreiung der orlanischen Sklaven, und obwohl diese eingehalten wurde, leben im Dyrwald noch immer viele sesshafte Orlaner als Schuldknechte.
 
-Geringe Bedrohung - Greift ein sesshafter Orlaner ein Ziel an, das von einem Gruppenmitglied ebenfalls als Ziel ausgewählt worden ist, verwandelt der sesshafte Orlaner einen Teil seiner T&#2060;reffer in Kritische Treffer.</DefaultText>
+Geringe Bedrohung - Greift ein sesshafter Orlaner ein Ziel an, das von einem Gruppenmitglied ebenfalls als Ziel ausgewählt worden ist, verwandelt der sesshafte Orlaner einen Teil seiner T&#x2060;reffer in Kritische Treffer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3640,7 +3640,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>717</ID>
-      <DefaultText>Meiste T&#2060;reffer</DefaultText>
+      <DefaultText>Meiste T&#x2060;reffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3885,7 +3885,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>766</ID>
-      <DefaultText>T&#2060;reffer</DefaultText>
+      <DefaultText>T&#x2060;reffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4120,7 +4120,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>813</ID>
-      <DefaultText>T&#2060;reffer</DefaultText>
+      <DefaultText>T&#x2060;reffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5170,7 +5170,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1025</ID>
-      <DefaultText>Verursacht bei T&#2060;reffer {0}.</DefaultText>
+      <DefaultText>Verursacht bei T&#x2060;reffer {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5575,12 +5575,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1106</ID>
-      <DefaultText>{0} Nahkampf&#2060;genauigkeit</DefaultText>
+      <DefaultText>{0} Nahkampf&#x2060;genauigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1107</ID>
-      <DefaultText>{0} Fernkampf&#2060;genauigkeit</DefaultText>
+      <DefaultText>{0} Fernkampf&#x2060;genauigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5620,7 +5620,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1115</ID>
-      <DefaultText>{0} {1}&#2060;schaden</DefaultText>
+      <DefaultText>{0} {1}&#x2060;schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5680,7 +5680,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1127</ID>
-      <DefaultText>{0} {1}&#2060;schaden</DefaultText>
+      <DefaultText>{0} {1}&#x2060;schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5710,12 +5710,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1133</ID>
-      <DefaultText>{0} {1}&#2060;schaden pro Wunde</DefaultText>
+      <DefaultText>{0} {1}&#x2060;schaden pro Wunde</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1134</ID>
-      <DefaultText>{0} Rüstungs&#2060;schadensreduktion</DefaultText>
+      <DefaultText>{0} Rüstungs&#x2060;schadensreduktion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5725,7 +5725,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1136</ID>
-      <DefaultText>{0} Chance auf Betäubung bei T&#2060;reffer</DefaultText>
+      <DefaultText>{0} Chance auf Betäubung bei T&#x2060;reffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5735,7 +5735,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1138</ID>
-      <DefaultText>{0} Chance auf Verkrüppelung bei T&#2060;reffer</DefaultText>
+      <DefaultText>{0} Chance auf Verkrüppelung bei T&#x2060;reffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5750,7 +5750,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1141</ID>
-      <DefaultText>{0} Nahkampf&#2060;schaden</DefaultText>
+      <DefaultText>{0} Nahkampf&#x2060;schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5770,7 +5770,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1145</ID>
-      <DefaultText>{0} Konzentration bei T&#2060;reffer</DefaultText>
+      <DefaultText>{0} Konzentration bei T&#x2060;reffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5900,7 +5900,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1171</ID>
-      <DefaultText>{0} T&#2060;reffer umgewandelt in Kritische Treffer, wenn das gleiche Ziel eines Verbündeten angegriffen wird</DefaultText>
+      <DefaultText>{0} T&#x2060;reffer umgewandelt in Kritische Treffer, wenn das gleiche Ziel eines Verbündeten angegriffen wird</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5910,7 +5910,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1173</ID>
-      <DefaultText>{0} erlittene Kritische Treffer umgewandelt in T&#2060;reffer</DefaultText>
+      <DefaultText>{0} erlittene Kritische Treffer umgewandelt in T&#x2060;reffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5920,12 +5920,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1175</ID>
-      <DefaultText>{0} erlittener T&#2060;reffer umgewandelt in Leichte Treffer (nur Abwehr und Reflexe)</DefaultText>
+      <DefaultText>{0} erlittener T&#x2060;reffer umgewandelt in Leichte Treffer (nur Abwehr und Reflexe)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1176</ID>
-      <DefaultText>{0} erlittener T&#2060;reffer umgewandelt in Leichte Treffer (nur Tapferkeit und Wille)</DefaultText>
+      <DefaultText>{0} erlittener T&#x2060;reffer umgewandelt in Leichte Treffer (nur Tapferkeit und Wille)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6050,7 +6050,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1201</ID>
-      <DefaultText>{0} Leichte Treffer umgewandelt in T&#2060;reffer</DefaultText>
+      <DefaultText>{0} Leichte Treffer umgewandelt in T&#x2060;reffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6065,7 +6065,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1204</ID>
-      <DefaultText>{0} Kritische Treffer umgewandelt in T&#2060;reffer</DefaultText>
+      <DefaultText>{0} Kritische Treffer umgewandelt in T&#x2060;reffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6075,12 +6075,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1206</ID>
-      <DefaultText>{0} T&#2060;reffer umgewandelt in Kritische Treffer</DefaultText>
+      <DefaultText>{0} T&#x2060;reffer umgewandelt in Kritische Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1207</ID>
-      <DefaultText>{0} T&#2060;reffer umgewandelt in Leichte Treffer</DefaultText>
+      <DefaultText>{0} T&#x2060;reffer umgewandelt in Leichte Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6095,12 +6095,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1210</ID>
-      <DefaultText>{0} Nahkampf&#2060;schaden</DefaultText>
+      <DefaultText>{0} Nahkampf&#x2060;schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1211</ID>
-      <DefaultText>{0} Fernkampf&#2060;schaden</DefaultText>
+      <DefaultText>{0} Fernkampf&#x2060;schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6135,7 +6135,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1218</ID>
-      <DefaultText>{0} {1}-Zeitschaden bei T&#2060;reffer</DefaultText>
+      <DefaultText>{0} {1}-Zeitschaden bei T&#x2060;reffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6225,7 +6225,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1236</ID>
-      <DefaultText>{0} Schaden gegen Niedergeschlagen&#2060;e, Betäubt&#2060;e, Flankiert&#2060;e Feinde</DefaultText>
+      <DefaultText>{0} Schaden gegen Niedergeschlagen&#x2060;e, Betäubt&#x2060;e, Flankiert&#x2060;e Feinde</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6240,7 +6240,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1239</ID>
-      <DefaultText>{0} erlittener T&#2060;reffer umgewandelt in Leichte Treffer</DefaultText>
+      <DefaultText>{0} erlittener T&#x2060;reffer umgewandelt in Leichte Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6255,7 +6255,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1242</ID>
-      <DefaultText>{0} Rüstungs&#2060;schadensreduktion wenn unter 25% Gesundheit</DefaultText>
+      <DefaultText>{0} Rüstungs&#x2060;schadensreduktion wenn unter 25% Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6360,12 +6360,12 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1263</ID>
-      <DefaultText>{0} Frequenz für Gift&#2060;auswirkungen</DefaultText>
+      <DefaultText>{0} Frequenz für Gift&#x2060;auswirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1264</ID>
-      <DefaultText>{0} Frequenz für Krankheit&#2060;sauswirkungen</DefaultText>
+      <DefaultText>{0} Frequenz für Krankheit&#x2060;sauswirkungen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6690,7 +6690,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>1329</ID>
-      <DefaultText>{0}&#2060;schaden</DefaultText>
+      <DefaultText>{0}&#x2060;schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7697,7 +7697,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1532</ID>
-      <DefaultText>Entzieht {0} {1}&#2060;schaden als Ausdauer</DefaultText>
+      <DefaultText>Entzieht {0} {1}&#x2060;schaden als Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7747,7 +7747,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1542</ID>
-      <DefaultText>Erholung&#2060;sgeschwindigkeit: {0}</DefaultText>
+      <DefaultText>Erholung&#x2060;sgeschwindigkeit: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7957,7 +7957,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1584</ID>
-      <DefaultText>{0} {1}&#2060;schaden erlitten</DefaultText>
+      <DefaultText>{0} {1}&#x2060;schaden erlitten</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8177,12 +8177,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1628</ID>
-      <DefaultText>{0} Schild&#2060;abwehr</DefaultText>
+      <DefaultText>{0} Schild&#x2060;abwehr</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1629</ID>
-      <DefaultText>Schild&#2060;abwehr-Bonus gilt auch für Reflexe.</DefaultText>
+      <DefaultText>Schild&#x2060;abwehr-Bonus gilt auch für Reflexe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8400,7 +8400,7 @@ Stufe {1} Schlösser knacken,
     </Entry>
     <Entry>
       <ID>1673</ID>
-      <DefaultText>{0} {1}&#2060;schaden an selbst beim Angriff mit Werkzeugen</DefaultText>
+      <DefaultText>{0} {1}&#x2060;schaden an selbst beim Angriff mit Werkzeugen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8410,7 +8410,7 @@ Stufe {1} Schlösser knacken,
     </Entry>
     <Entry>
       <ID>1675</ID>
-      <DefaultText>{0} Leichte Treffer mit Einhand-Nahkampfwaffen umgewandelt in T&#2060;reffer</DefaultText>
+      <DefaultText>{0} Leichte Treffer mit Einhand-Nahkampfwaffen umgewandelt in T&#x2060;reffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8425,7 +8425,7 @@ Stufe {1} Schlösser knacken,
     </Entry>
     <Entry>
       <ID>1678</ID>
-      <DefaultText>{0} Unterbrechung&#2060;schance</DefaultText>
+      <DefaultText>{0} Unterbrechung&#x2060;schance</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8500,7 +8500,7 @@ Stufe {1} Schlösser knacken,
     </Entry>
     <Entry>
       <ID>1693</ID>
-      <DefaultText>{0} T&#2060;reffer gegen Ziele mit niedriger Ausdauer umgewandelt in Kritische Treffer</DefaultText>
+      <DefaultText>{0} T&#x2060;reffer gegen Ziele mit niedriger Ausdauer umgewandelt in Kritische Treffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

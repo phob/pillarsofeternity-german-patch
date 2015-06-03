@@ -1461,7 +1461,7 @@
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>Ermöglicht einem bewusstlosen Verbündeten, sich zu erholen und stellt zeitlich begrenzt einen großen Teil dessen Ausdauer wieder her – die Hälfte davon geht nach kurzer Zeit verloren.</DefaultText>
+      <DefaultText>Ermöglicht einem bewusstlosen Verbündeten, sich zu erholen und stellt zeitlich begrenzt einen großen Teil dessen Ausdauer wieder her – etwas davon geht nach kurzer Zeit verloren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1526,7 +1526,7 @@
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>Die intensive und reine Überzeugung des Paladins erfüllt ihn und alle seine Verbündeten mit einem überwältigenden Gefühl der Richtigkeit ihres Tuns, wodurch ihre Genauigkeit verbessert wird. Kann nicht gemeinsam mit anderen eifrigen Auren aktiv sein.</DefaultText>
+      <DefaultText>Die intensive und reine Überzeugung des Paladins erfüllt ihn und alle seine Verbündeten mit einem überwältigenden Gefühl der Richtigkeit ihres Tuns, wodurch ihre Genauigkeit verbessert wird und Leichte Treffer teilweise in Treffer umgewandelt werden. Kann nicht gemeinsam mit anderen eifrigen Auren aktiv sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1571,7 +1571,7 @@
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>Erfüllt den Paladin und seine Verbündeten mit unerschütterlichem Selbstvertrauen, wodurch ihre Schadensreduktion gesteigert wird. Kann nicht gemeinsam mit anderen eifrigen Auren aktiv sein.</DefaultText>
+      <DefaultText>Erfüllt den Paladin und seine Verbündeten mit unerschütterlichem Selbstvertrauen, wodurch ihre Schadensreduktion gesteigert wird und eingehende Treffer teilweise in Leichte Treffer umgewandelt werden. Kann nicht gemeinsam mit anderen eifrigen Auren aktiv sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

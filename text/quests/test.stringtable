@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>quests\test</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>9</EntryCount>
+  <EntryCount>19</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -15,12 +15,52 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>10000</ID>
       <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
       <DefaultText />
       <FemaleText />
     </Entry>
@@ -46,6 +86,16 @@
     </Entry>
     <Entry>
       <ID>30004</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

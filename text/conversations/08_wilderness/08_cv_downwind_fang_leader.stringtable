@@ -45,12 +45,12 @@ Sie deutet nach Norden, auf die Ruinen engwithanischer Gebäude, die aus dem Unt
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Die Elfe steckt ihr Schwert weg und streckt die Hand zu ihrem Hirschen aus. Das Tier neigt den Kopf, um der Liebkosung ihrer Hand zu begegnen. "Sanft. Stark. Wir warten hier, um dich als Krieger und Freund wieder willkommen zu heißen." </DefaultText>
-      <FemaleText>Die Elfe steckt ihr Schwert weg und streckt die Hand zu ihrem Hirschen aus. Das Tier neigt den Kopf, um der Liebkosung ihrer Hand zu begegnen. "Sanft. Stark. Wir warten hier, um dich als Kriegerin und Freundin wieder willkommen zu heißen." </FemaleText>
+      <DefaultText>Die Elfe steckt ihr Schwert weg und streckt die Hand zu ihrem Hirschen aus. Das Tier neigt den Kopf, um der Liebkosung ihrer Hand zu begegnen. "Sanft. Stark. Wir warten hier, um dich als Krieger und Freund wieder willkommen zu heißen."</DefaultText>
+      <FemaleText>Die Elfe steckt ihr Schwert weg und streckt die Hand zu ihrem Hirschen aus. Das Tier neigt den Kopf, um der Liebkosung ihrer Hand zu begegnen. "Sanft. Stark. Wir warten hier, um dich als Kriegerin und Freundin wieder willkommen zu heißen."</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Räuber. Plünderer. Genau wie alle anderen dyrwälderischen Diebe, die unsere Lande bestehlen." Die Frau berührt den Stummel, der von ihrem Ohr übrig ist. 
+      <DefaultText>"Räuber. Plünderer. Genau wie alle anderen dyrwälderischen Diebe, die unsere Lande bestehlen." Die Frau berührt den Stummel, der von ihrem Ohr übrig ist.
 
 "Wir haben die Dyrwälder verfolgt, seit sie den großen Fluss überquert haben. Haben gewartet, bis sie fehlgehen. Das tun sie immer. Wir haben ihr halbes Rudel beim ersten Angriff besiegt. Die Feiglinge, die geflohen sind, verbergen sich jetzt im Norden - wenn der Wind sich dreht, kannst du ihre Angst riechen."</DefaultText>
       <FemaleText />
@@ -123,7 +123,7 @@ Sie tritt näher und legt ihre Hände auf deinen Nabel. Sie drückt gegen deinen
     <Entry>
       <ID>21</ID>
       <DefaultText>"Wenn du mit den Plünderern nicht im Bunde stehst, so gebe ich dir die Gelegenheit, das zu beweisen."
- 
+
 Sie zieht eines ihrer Schwerter und deutet durch eine schnelle Bogenbewegung mit der Klinge auf die Ruinen. "Die Eindringlinge müssen aus unserem Land vertrieben werden. Beweise, dass du würdig bist, dann glauben wir deinen Worten."</DefaultText>
       <FemaleText />
     </Entry>
@@ -154,7 +154,7 @@ Sie zieht eines ihrer Schwerter und deutet durch eine schnelle Bogenbewegung mit
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Du ... ? Wenn das stimmt ... " Sie schnippt mit den Fingern in Richtung eines schlanken Elfen, der mit einem Jagdbogen bewaffnet ist, und deutet auf die engwithanischen Ruinen. Der Mann springt behände über einen Felsen und betrachtet die Ruinen aus der Ferne. Er wendet sich zu ihr um und nickt zur Bestätigung.</DefaultText>
+      <DefaultText>"Du ... ? Wenn das stimmt ..." Sie schnippt mit den Fingern in Richtung eines schlanken Elfen, der mit einem Jagdbogen bewaffnet ist, und deutet auf die engwithanischen Ruinen. Der Mann springt behände über einen Felsen und betrachtet die Ruinen aus der Ferne. Er wendet sich zu ihr um und nickt zur Bestätigung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

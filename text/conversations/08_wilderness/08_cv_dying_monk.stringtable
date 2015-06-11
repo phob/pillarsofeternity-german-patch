@@ -23,10 +23,10 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Der Mann auf dem Boden ringt nach Luft und hält sich die Brust. Als du ihn näher betrachtest, siehst du, dass sein roter Umhang die Schwere seiner Wunden verdeckt. Sein Gesicht wird weiß, die Blutlache um ihn herum wird immer größer. "Bitte. Reisender ... "
+      <DefaultText>Der Mann auf dem Boden ringt nach Luft und hält sich die Brust. Als du ihn näher betrachtest, siehst du, dass sein roter Umhang die Schwere seiner Wunden verdeckt. Sein Gesicht wird weiß, die Blutlache um ihn herum wird immer größer. "Bitte. Reisender ..."
 
 Er streckt mühsam die Hand nach dir aus.</DefaultText>
-      <FemaleText>Der Mann auf dem Boden ringt nach Luft und hält sich die Brust. Als du ihn näher betrachtest, siehst du, dass sein roter Umhang die Schwere seiner Wunden verdeckt. Sein Gesicht wird weiß, die Blutlache um ihn herum wird immer größer. "Bitte. Reisende ... "
+      <FemaleText>Der Mann auf dem Boden ringt nach Luft und hält sich die Brust. Als du ihn näher betrachtest, siehst du, dass sein roter Umhang die Schwere seiner Wunden verdeckt. Sein Gesicht wird weiß, die Blutlache um ihn herum wird immer größer. "Bitte. Reisende ..."
 
 Er streckt mühsam die Hand nach dir aus.</FemaleText>
     </Entry>
@@ -84,7 +84,7 @@ Der Mann greift hinab, um sein linkes Bein zu umklammern. Sein Finger gleitet ü
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Es ist so kalt ... "</DefaultText>
+      <DefaultText>"Es ist so kalt ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -205,7 +205,7 @@ Blut schießt aus dem Mund des Mannes, rote Ströme, die seinen Hals herabrinnen
       <ID>40</ID>
       <DefaultText>Mit ruhiger Hand massierst du langsam die Wachssiegel, bis du bei jedem Siegel spürst, wie es langsam nachgibt, ohne zu brechen. Als du fertig bist, sehen alle Siegel noch intakt aus und es ist nur ein wenig Hitze nötig, um den Behälter unbemerkt wieder zu versiegeln.
 
-Vorher aber liest du die Schriftrolle darin ... </DefaultText>
+Vorher aber liest du die Schriftrolle darin ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

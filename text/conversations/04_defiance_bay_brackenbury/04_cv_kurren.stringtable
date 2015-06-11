@@ -21,8 +21,8 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Es ist immer eine Freude, einen so klugen Freund zu sehen." Er beginnt wieder, die Schriftrollen auf dem Tisch durchzugehen. "Irgendwo hier muss es doch sein ... "</DefaultText>
-      <FemaleText>"Es ist immer eine Freude, eine so kluge Freundin zu sehen." Er beginnt wieder, die Schriftrollen auf dem Tisch durchzugehen. "Irgendwo hier muss es doch sein ... "</FemaleText>
+      <DefaultText>"Es ist immer eine Freude, einen so klugen Freund zu sehen." Er beginnt wieder, die Schriftrollen auf dem Tisch durchzugehen. "Irgendwo hier muss es doch sein ..."</DefaultText>
+      <FemaleText>"Es ist immer eine Freude, eine so kluge Freundin zu sehen." Er beginnt wieder, die Schriftrollen auf dem Tisch durchzugehen. "Irgendwo hier muss es doch sein ..."</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -165,7 +165,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Kurren nimmt den Ring und untersucht ihn genau. "Das ist in der Tat der ihre. Und er war an ... " Er schließt die Augen. "Dunklen Orten. Kalten Orten. Toten Orten." Seine Augen öffnen sich blitzartig wieder. "Hervorragende Arbeit. Durch diesen Hinweis kann ich sie zum Verhör bitten und die Wahrheit aus ihr herauskitzeln."</DefaultText>
+      <DefaultText>Kurren nimmt den Ring und untersucht ihn genau. "Das ist in der Tat der ihre. Und er war an ..." Er schließt die Augen. "Dunklen Orten. Kalten Orten. Toten Orten." Seine Augen öffnen sich blitzartig wieder. "Hervorragende Arbeit. Durch diesen Hinweis kann ich sie zum Verhör bitten und die Wahrheit aus ihr herauskitzeln."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -175,7 +175,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Was meine Bezahlung angeht ... "</DefaultText>
+      <DefaultText>"Was meine Bezahlung angeht ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -255,7 +255,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Wurde von Elcga als vermisst gemeldet, einer Zwergin, die nach ... " Er schließt die Augen und schnüffelt in die Luft. "... edlem Wein und jungen Dandys roch. Sie hat jede Menge Zeit und Geld für ihre Vergnügungen. Versuch es in Farnheim."</DefaultText>
+      <DefaultText>"Wurde von Elcga als vermisst gemeldet, einer Zwergin, die nach ..." Er schließt die Augen und schnüffelt in die Luft. "... edlem Wein und jungen Dandys roch. Sie hat jede Menge Zeit und Geld für ihre Vergnügungen. Versuch es in Farnheim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -302,7 +302,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Er hält die Seite, scheint jedoch durch die Worte hindurchzustarren, als wäre etwas in das Papier eingewebt. 
+      <DefaultText>Er hält die Seite, scheint jedoch durch die Worte hindurchzustarren, als wäre etwas in das Papier eingewebt.
 
 Kurren lässt seine spitzen Zähne aufblitzen. "Ich erinnere mich an Penhelm. Ein eitler Pfau von einem Mann, sein Mund trocken und seine Hände feucht, als ich ihm sagte, er sei ein Seelennachkomme eines aedyrischen Generals. Eines Generals, der gegen Hadrets Rebellion kämpfte."</DefaultText>
       <FemaleText />
@@ -453,17 +453,17 @@ Seine Nase zuckt, als er dich anblickt. "Äußerst nützlich, um Verbrechen zu l
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Ja, natürlich." Er reibt die Hände zusammen. "Solltest du es dir anders überlegen ... "</DefaultText>
+      <DefaultText>"Ja, natürlich." Er reibt die Hände zusammen. "Solltest du es dir anders überlegen ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Eine Verbindung, ja! Ich bin ganz sicher ... "</DefaultText>
+      <DefaultText>"Eine Verbindung, ja! Ich bin ganz sicher ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>Er überfliegt die eidesstattliche Versicherung. "Eine Fälschung, und zwar nicht die erste, die ich gesehen habe." Er gibt sie dir zurück. "Aber ich habe keine Zeit für die Ritter und ihre Besessenheiten." 
+      <DefaultText>Er überfliegt die eidesstattliche Versicherung. "Eine Fälschung, und zwar nicht die erste, die ich gesehen habe." Er gibt sie dir zurück. "Aber ich habe keine Zeit für die Ritter und ihre Besessenheiten."
 
 "Bring das seinem Kommandanten, Clyver, und zeig ihm das Siegel." Er deutet auf das Wachssiegel neben seiner gefälschten Unterschrift. "Wenn er es mit einem anderen vergleicht, wird er den Unterschied sehen."</DefaultText>
       <FemaleText />
@@ -492,7 +492,7 @@ Seine Nase zuckt, als er dich anblickt. "Äußerst nützlich, um Verbrechen zu l
       <ID>121</ID>
       <DefaultText>Kurren neigt den Kopf zur Seite, als würde er dich besser betrachten wollen.
 
-"Verzeih. Sie empfängt nicht viele Besucher. Die wenigen, die sie einlädt, sind ein faszinierender Haufen." 
+"Verzeih. Sie empfängt nicht viele Besucher. Die wenigen, die sie einlädt, sind ein faszinierender Haufen."
 
 "Ich habe bisher noch nicht ergründet, wie sie ihre Wahl trifft. In meinen Augen haben sie keine Gemeinsamkeiten, aber ihr Blick ist deutlich schärfer als meiner. Was sie wohl sieht?"</DefaultText>
       <FemaleText />

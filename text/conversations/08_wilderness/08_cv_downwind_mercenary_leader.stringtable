@@ -21,8 +21,8 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Blut rinnt von einer Wunde an seiner Schläfe seinen Hals hinab und befleckt ein Amulett an einer Goldkette. "Du bist kein Glanfathaner ... " Er umschließt den Griff seines Schwertes noch fester. "Bei Magran, Freund oder Feind, sage ich!"</DefaultText>
-      <FemaleText>Blut rinnt von einer Wunde an seiner Schläfe seinen Hals hinab und befleckt ein Amulett an einer Goldkette. "Du bist keine Glanfathanerin ... " Er umschließt den Griff seines Schwertes noch fester. "Bei Magran, Freund oder Feind, sage ich!"</FemaleText>
+      <DefaultText>Blut rinnt von einer Wunde an seiner Schläfe seinen Hals hinab und befleckt ein Amulett an einer Goldkette. "Du bist kein Glanfathaner ..." Er umschließt den Griff seines Schwertes noch fester. "Bei Magran, Freund oder Feind, sage ich!"</DefaultText>
+      <FemaleText>Blut rinnt von einer Wunde an seiner Schläfe seinen Hals hinab und befleckt ein Amulett an einer Goldkette. "Du bist keine Glanfathanerin ..." Er umschließt den Griff seines Schwertes noch fester. "Bei Magran, Freund oder Feind, sage ich!"</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -236,7 +236,7 @@ Er nimmt die Kette mit dem Amulett vom Hals und gibt sie einem Soldaten. "Du wei
       <ID>60</ID>
       <DefaultText>"DU hältst mich als Gefangenen und das stellt sie zufrieden?" Er macht einen halben Schritt zurück und mustert dich von oben bis unten.
 
-"So sei es. Ich bin mehr als bereit, als Geisel gehalten zu werden, wenn wir dadurch alle sicher nach Hause kommen. Gewiss wirst du mich als echten Gefangenen halten müssen, um die Vereinbarung zu ehren, doch das verstehe ich. Bei weitem besser, als der Gefangene der Reißzähne zu sein ... "</DefaultText>
+"So sei es. Ich bin mehr als bereit, als Geisel gehalten zu werden, wenn wir dadurch alle sicher nach Hause kommen. Gewiss wirst du mich als echten Gefangenen halten müssen, um die Vereinbarung zu ehren, doch das verstehe ich. Bei weitem besser, als der Gefangene der Reißzähne zu sein ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

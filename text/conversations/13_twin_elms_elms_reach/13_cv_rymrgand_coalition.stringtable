@@ -45,7 +45,7 @@ In der Ferne siehst du eine Prozession von Elfen, die immer wieder aus dem Weiß
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Als die Prozession an dir vorbeistapft, wendet ein in Felle gehüllter Mann den Kopf zu dir. "Willst du auch nach Mittagsfrost und zum Frostbruch?" Bevor du antworten kannst, ist er schon weitergezogen. Du folgst der Karawane und kommst nach wenigen Minuten an eine Wand aus Eis. 
+      <DefaultText>Als die Prozession an dir vorbeistapft, wendet ein in Felle gehüllter Mann den Kopf zu dir. "Willst du auch nach Mittagsfrost und zum Frostbruch?" Bevor du antworten kannst, ist er schon weitergezogen. Du folgst der Karawane und kommst nach wenigen Minuten an eine Wand aus Eis.
 
 Sie verschwindet in der fahlen Leere über dir und erstreckt sich in beide Richtung so weit, wie dein Auge reicht. Die Elfen bleiben vor einem spiegelglatten Abschnitt stehen, der eingerahmt ist wie eine Tempeltür. Er scheint dünner zu sein als der Rest der Wand. Du siehst nicht, was auf der anderen Seite liegt, aber es geht eine lähmende Kälte davon aus.</DefaultText>
       <FemaleText />
@@ -96,10 +96,10 @@ Der Schnee reicht dir nun bis zu den Knien. Deine Beine fühlen sich in den Schn
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Du packst die nächste Elfe bei den Schultern, schüttelst sie und schreist, um den heulenden Wind zu übertönen. Du zeigst in Richtung des dröhnenden Lärms, aber sie blickt dich nur zornig an. 
+      <DefaultText>Du packst die nächste Elfe bei den Schultern, schüttelst sie und schreist, um den heulenden Wind zu übertönen. Du zeigst in Richtung des dröhnenden Lärms, aber sie blickt dich nur zornig an.
 
 "Lass uns in Frieden, Reisender. Wir müssen hindurch. Wir können nicht länger auf dieser Seite bleiben."</DefaultText>
-      <FemaleText>Du packst die nächste Elfe bei den Schultern, schüttelst sie und schreist, um den heulenden Wind zu übertönen. Du zeigst in Richtung des dröhnenden Lärms, aber sie blickt dich nur zornig an. 
+      <FemaleText>Du packst die nächste Elfe bei den Schultern, schüttelst sie und schreist, um den heulenden Wind zu übertönen. Du zeigst in Richtung des dröhnenden Lärms, aber sie blickt dich nur zornig an.
 
 "Lass uns in Frieden, Reisende. Wir müssen hindurch. Wir können nicht länger auf dieser Seite bleiben."</FemaleText>
     </Entry>
@@ -129,7 +129,7 @@ Als die letzten Elfen fallen, verstummt das Gebrüll endlich und der Wind lässt
       <ID>34</ID>
       <DefaultText>Ein letzter Windstoß bläst vorbei und zerstreut die übrigen Elfen in einem chaotischen Wirbel.
 
-Du bemerkst einen einzigen verzweigten Riss in der spiegelglatten Barriere. Er ist die einzige Spur auf der makellosen Eisfläche. 
+Du bemerkst einen einzigen verzweigten Riss in der spiegelglatten Barriere. Er ist die einzige Spur auf der makellosen Eisfläche.
 
 Was auch auf der anderen Seite dieser seltsamen Tür liegt, du spürst, wie es dich anzieht. Erst, als du zurückblickst und die parallelen Spuren im Schnee hinter deinen Beinen siehst, erkennst du, wie stark die Anziehungskraft ist.</DefaultText>
       <FemaleText />
@@ -162,7 +162,7 @@ Du berührst den Elf neben dir und er zerfällt zu einem Schneehaufen.</DefaultT
       <ID>39</ID>
       <DefaultText>Die Elfe lauscht angestrengt. Als sie ihre Picke in dem immer tieferen Schnee absetzt, halten einige ihrer Kameraden in ihrer Arbeit inne.
 
-Ein Mann mit einem verkümmerten, abgefrorenen Finger dreht sich um. Er hebt seine verstümmelte Hand und die anderen hören auch mit der Arbeit auf. 
+Ein Mann mit einem verkümmerten, abgefrorenen Finger dreht sich um. Er hebt seine verstümmelte Hand und die anderen hören auch mit der Arbeit auf.
 
 Sie bleiben mehrere Sekunden lang regungslos stehen, ehe du erkennst, dass sie eingefroren sind. Du berührst den Elf neben dir und er zerfällt zu einem Schneehaufen.</DefaultText>
       <FemaleText />
@@ -403,7 +403,7 @@ Ein Eiskristall wächst aus deinem eingefrorenen Finger. Als du ihn untersuchst,
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Vor allem aber verabscheut Woedica sie." Er spielt eine übertriebene Verbeugung nach. "Und er gehorcht in allen Dingen dem Willen der Verbannten Königin ... "</DefaultText>
+      <DefaultText>"Vor allem aber verabscheut Woedica sie." Er spielt eine übertriebene Verbeugung nach. "Und er gehorcht in allen Dingen dem Willen der Verbannten Königin ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -460,7 +460,7 @@ Ein Eiskristall wächst aus deinem eingefrorenen Finger. Als du ihn untersuchst,
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>Das Monster schnaubt. Säulen der Kondensation steigen aus seinen Nüstern empor. "Die gnadenlosen Mechanismen des Zerfalls beunruhigen dich nicht so wie die meisten Sterblichen. Der langsam zur Erfrierung führende Winter und die Hungersnot, die über Nacht die Ernte zerstört, sind beide mein, ja. "</DefaultText>
+      <DefaultText>Das Monster schnaubt. Säulen der Kondensation steigen aus seinen Nüstern empor. "Die gnadenlosen Mechanismen des Zerfalls beunruhigen dich nicht so wie die meisten Sterblichen. Der langsam zur Erfrierung führende Winter und die Hungersnot, die über Nacht die Ernte zerstört, sind beide mein, ja."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -681,12 +681,12 @@ Sofort verschmelzen die Splitter wieder und du findest dich wieder in Teir Evron
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Eine Stimme ertönt aus dem Eis unter deinen Füßen. 
+      <DefaultText>Eine Stimme ertönt aus dem Eis unter deinen Füßen.
 
 "Und doch hat er den Stürmen und Meeren getrotzt, um seinem Geschäft nachzugehen. Er fährt über die weite, glasige Leere des Ozeans, er stellt sich den Launen des Himmels und den Geheimnissen der Tiefe, für ungewissen Gewinn."
 
 "Wenn sich jemand dem stellen kann, was nötig ist, dann dieser Wächter."</DefaultText>
-      <FemaleText>Eine Stimme ertönt aus dem Eis unter deinen Füßen. 
+      <FemaleText>Eine Stimme ertönt aus dem Eis unter deinen Füßen.
 
 "Und doch hat er den Stürmen und Meeren getrotzt, um seinem Geschäft nachzugehen. Er fährt über die weite, glasige Leere des Ozeans, er stellt sich den Launen des Himmels und den Geheimnissen der Tiefe, für ungewissen Gewinn."
 
@@ -694,12 +694,12 @@ Sofort verschmelzen die Splitter wieder und du findest dich wieder in Teir Evron
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>Eine Stimme ertönt aus dem Eis unter deinen Füßen. 
+      <DefaultText>Eine Stimme ertönt aus dem Eis unter deinen Füßen.
 
 "Und doch erkundet er verlorene, vergessene Orte. Das Unbekannte macht ihm keine Angst, seine Füße schrecken nicht vor spurenlosen Pfaden zurück."
 
 "Wenn jemand tun kann, was nötig ist, dann dieser Wächter."</DefaultText>
-      <FemaleText>Eine Stimme ertönt aus dem Eis unter deinen Füßen. 
+      <FemaleText>Eine Stimme ertönt aus dem Eis unter deinen Füßen.
 
 "Und doch erkundet er verlorene, vergessene Orte. Das Unbekannte macht ihm keine Angst, seine Füße schrecken nicht vor spurenlosen Pfaden zurück."
 

@@ -103,7 +103,7 @@ Kana hält inne. "Naja, hier oben ist natürlich alles aedyrischer Bauart, aber 
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Er war im Besitz des Tanvii ora Toha - oder der Form, die der uns bekannten vorausging. Ich habe es in den Ruinen neben Gabrannos' Namen gesehen - Reste derselben Symbole und Verse, die wir auch in Rauatai kennen. Er muss die Worte in hohen Ehren gehalten haben, oder vielleicht hat er sie sogar geschrieben ... "</DefaultText>
+      <DefaultText>"Er war im Besitz des Tanvii ora Toha - oder der Form, die der uns bekannten vorausging. Ich habe es in den Ruinen neben Gabrannos' Namen gesehen - Reste derselben Symbole und Verse, die wir auch in Rauatai kennen. Er muss die Worte in hohen Ehren gehalten haben, oder vielleicht hat er sie sogar geschrieben ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -238,7 +238,7 @@ Kana hält inne. "Naja, hier oben ist natürlich alles aedyrischer Bauart, aber 
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>" ... Ist da denn wirklich gar nichts? Nicht einmal eine Erklärung hierfür?" Kana sieht sich mit hängenden Schultern im Raum um. 
+      <DefaultText>"... Ist da denn wirklich gar nichts? Nicht einmal eine Erklärung hierfür?" Kana sieht sich mit hängenden Schultern im Raum um.
 
 Er beugt sich über die zerschmetterten Fragmente und legt die größten von ihnen zusammen. Er zieht sich ein aufgerolltes Stück Papier und einen Holzkohlestift aus den Taschen und versucht verzweifelt, ein paar Abdrücke zu erstellen.</DefaultText>
       <FemaleText />
@@ -280,7 +280,7 @@ Er beugt sich über die zerschmetterten Fragmente und legt die größten von ihn
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Diese Maschinen - Sie schufen Zerstörung ... "</DefaultText>
+      <DefaultText>"Diese Maschinen - Sie schufen Zerstörung ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -340,7 +340,7 @@ Er beugt sich über die zerschmetterten Fragmente und legt die größten von ihn
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"N-naja, das weiß ich ja, aber ... " Er zögert. "Aber sie haben Großartiges erreicht. Mehr will ich gar nicht für Rauatai. Unser Volk ist nicht perfekt, aber zusammen können wir ebenso viel erreichen - und ich werde ihnen etwas mitbringen, das sie inspirieren wird."</DefaultText>
+      <DefaultText>"N-naja, das weiß ich ja, aber ..." Er zögert. "Aber sie haben Großartiges erreicht. Mehr will ich gar nicht für Rauatai. Unser Volk ist nicht perfekt, aber zusammen können wir ebenso viel erreichen - und ich werde ihnen etwas mitbringen, das sie inspirieren wird."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -385,7 +385,7 @@ Er beugt sich über die zerschmetterten Fragmente und legt die größten von ihn
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Vielleicht. Aber ich habe mich sicherlich in ihm getäuscht. Ich sah ihn als Inspiration an. Ich wollte - ach, egal." 
+      <DefaultText>"Vielleicht. Aber ich habe mich sicherlich in ihm getäuscht. Ich sah ihn als Inspiration an. Ich wollte - ach, egal."
 
 Kana seufzt. "Lass uns die Tafel finden und von hier verschwinden."</DefaultText>
       <FemaleText />
@@ -412,9 +412,9 @@ Kana seufzt. "Lass uns die Tafel finden und von hier verschwinden."</DefaultText
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Kana schüttelt langsam den Kopf und sagt anfangs gar nichts. 
+      <DefaultText>Kana schüttelt langsam den Kopf und sagt anfangs gar nichts.
 
-" ... Lass uns die Tafel finden und von hier verschwinden."</DefaultText>
+"... Lass uns die Tafel finden und von hier verschwinden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -424,9 +424,9 @@ Kana seufzt. "Lass uns die Tafel finden und von hier verschwinden."</DefaultText
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Kana schüttelt langsam den Kopf und sagt anfangs gar nichts. 
+      <DefaultText>Kana schüttelt langsam den Kopf und sagt anfangs gar nichts.
 
-" ... Lass uns diesen Ort verlassen."</DefaultText>
+"... Lass uns diesen Ort verlassen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -461,19 +461,19 @@ Kana seufzt. "Lass uns die Tafel finden und von hier verschwinden."</DefaultText
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>" ... Aber einst existierte es. Hier, an diesem Ort. Im Ganzen." Er fährt mit seinen Fingern über den Stein. "Vielleicht hast du Recht."</DefaultText>
+      <DefaultText>"... Aber einst existierte es. Hier, an diesem Ort. Im Ganzen." Er fährt mit seinen Fingern über den Stein. "Vielleicht hast du Recht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Naja, nicht ganz. Wie könnte ich? Es handelt sich um eine tote Sprache, und kaum jemand hat mehr als nur ein kleines Stück davon übersetzt." 
+      <DefaultText>"Naja, nicht ganz. Wie könnte ich? Es handelt sich um eine tote Sprache, und kaum jemand hat mehr als nur ein kleines Stück davon übersetzt."
 
 "Aber das Wenige, das mir möglich ist, habe ich übersetzt, indem ich die Symbole in seiner Arbeit mit den anderen verglich, die ich fand, konnte ich einen Satz aus dem Tanvii ora Toha zusammenfügen. So klar wie der Tag. Ich gab sie zur Überprüfung sogar der Hüterin. Sie aber war davon überzeugt, dass ich ihn selbst geschrieben hatte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Wie könnte ich? Es handelt sich um eine tote Sprache, und kaum jemand hat mehr als nur ein kleines Stück davon übersetzt." 
+      <DefaultText>"Wie könnte ich? Es handelt sich um eine tote Sprache, und kaum jemand hat mehr als nur ein kleines Stück davon übersetzt."
 
 Er beäugt dich neugierig. "Du sprichst Engwithanisch. Vielleicht könntest du für mich übersetzen, wenn wir seine Arbeit finden?"</DefaultText>
       <FemaleText />
@@ -540,7 +540,7 @@ Er beäugt dich neugierig. "Du sprichst Engwithanisch. Vielleicht könntest du f
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Ja." Kana blinzelt und sieht sich im Raum um. " ... Es IST doch eine herausragende Leistung, nicht wahr?" Er lächelt zögerlich. "Wir werden die führenden Gelehrten unserer Zeit sein."</DefaultText>
+      <DefaultText>"Ja." Kana blinzelt und sieht sich im Raum um. "... Es IST doch eine herausragende Leistung, nicht wahr?" Er lächelt zögerlich. "Wir werden die führenden Gelehrten unserer Zeit sein."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -550,16 +550,16 @@ Er beäugt dich neugierig. "Du sprichst Engwithanisch. Vielleicht könntest du f
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Kana guckt ein wenig finster drein und legt die Stirn gedankenverloren in Falten. "Das ist allerdings wahr. Es gab bereits Unterschiede bei der Formulierung, und ein Großteil des Gesangs hat sich sogar während der letzten paar Jahrhunderte verändert ... " 
+      <DefaultText>Kana guckt ein wenig finster drein und legt die Stirn gedankenverloren in Falten. "Das ist allerdings wahr. Es gab bereits Unterschiede bei der Formulierung, und ein Großteil des Gesangs hat sich sogar während der letzten paar Jahrhunderte verändert ..."
 
-" ... Wir sollten besser unseren eigenen Weg gehen, als Gabrannos' Beispiel zu folgen."</DefaultText>
+"... Wir sollten besser unseren eigenen Weg gehen, als Gabrannos' Beispiel zu folgen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Er steht wieder auf. "Vielleicht hätte ich in Rauatai bleiben sollen." 
+      <DefaultText>Er steht wieder auf. "Vielleicht hätte ich in Rauatai bleiben sollen."
 
-" ... Ich werde diesen Ort gerne verlassen! Ich könnte etwas Luft gebrauchen."</DefaultText>
+"... Ich werde diesen Ort gerne verlassen! Ich könnte etwas Luft gebrauchen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -569,14 +569,14 @@ Er beäugt dich neugierig. "Du sprichst Engwithanisch. Vielleicht könntest du f
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>" ... Aber das trägt kaum zur Milderung unserer Konflikte bei." Kana steht wieder auf. 
+      <DefaultText>"... Aber das trägt kaum zur Milderung unserer Konflikte bei." Kana steht wieder auf.
 
 "Ich glaube, ich werde diesen Ort gerne verlassen. Ich könnte etwas Luft gebrauchen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>Während Kana aufsteht, zieht er eine Grimasse und nickt. 
+      <DefaultText>Während Kana aufsteht, zieht er eine Grimasse und nickt.
 
 "Ich werde diesen Ort gerne verlassen! Ich könnte etwas Luft gebrauchen."</DefaultText>
       <FemaleText />
@@ -638,9 +638,9 @@ Er beäugt dich neugierig. "Du sprichst Engwithanisch. Vielleicht könntest du f
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Ja, aber ... " Kana legt eine Hand nachdenklich an seine Schläfe. "Vielleicht. Wenn ich sie zumindest davon überzeugen könnte, dass es auch andere Wege als den des Tanvii ora Toha gibt ... " 
+      <DefaultText>"Ja, aber ..." Kana legt eine Hand nachdenklich an seine Schläfe. "Vielleicht. Wenn ich sie zumindest davon überzeugen könnte, dass es auch andere Wege als den des Tanvii ora Toha gibt ..."
 
-" ... Lass uns mal sehen, was ich davon retten kann. Vielleicht hat etwas überlebt."</DefaultText>
+"... Lass uns mal sehen, was ich davon retten kann. Vielleicht hat etwas überlebt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -650,14 +650,14 @@ Er beäugt dich neugierig. "Du sprichst Engwithanisch. Vielleicht könntest du f
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Ich ... Du hast wohl Recht. Außerdem war er nicht der einzige Engwithaner auf der Welt." Kana reibt sich sein Gesicht. 
+      <DefaultText>"Ich ... Du hast wohl Recht. Außerdem war er nicht der einzige Engwithaner auf der Welt." Kana reibt sich sein Gesicht.
 
 "... Ich frage mich nur, was er in dem Tanvii ora Toha gesehen hat. Welchen Reiz könnte es denn für jemanden wie ihn gehabt haben?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Kana zuckt zusammen. "Nein, aber ... Wie soll ich sie denn von irgendwas überzeugen, ohne ihnen eine klare Antwort geben zu können?" 
+      <DefaultText>Kana zuckt zusammen. "Nein, aber ... Wie soll ich sie denn von irgendwas überzeugen, ohne ihnen eine klare Antwort geben zu können?"
 
 "... Vielleicht ist noch etwas übrig. Ich werde so viel sammeln, wie ich kann. Vielleicht könnte mir das eine Chance verschaffen, die Sänger dazu bringen, mir zuzuhören ..."</DefaultText>
       <FemaleText />
@@ -734,7 +734,7 @@ Er beäugt dich neugierig. "Du sprichst Engwithanisch. Vielleicht könntest du f
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>" ... Hat das sonst noch jemand gehört?"</DefaultText>
+      <DefaultText>"... Hat das sonst noch jemand gehört?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -874,7 +874,7 @@ Er beäugt dich neugierig. "Du sprichst Engwithanisch. Vielleicht könntest du f
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Aber das ist es ja: Es gab kein Buch der Tugenden. Keine Friedensnachrichten. Keine Antworten. Ich lag total falsch." 
+      <DefaultText>"Aber das ist es ja: Es gab kein Buch der Tugenden. Keine Friedensnachrichten. Keine Antworten. Ich lag total falsch."
 
 Er runzelt die Stirn. "Als wenn wir uns auf dem rechten Weg befinden, wie du behauptest, wo ist dann sein Ende?"</DefaultText>
       <FemaleText />
@@ -916,7 +916,7 @@ Er runzelt die Stirn. "Als wenn wir uns auf dem rechten Weg befinden, wie du beh
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>Kana blinzelt überrascht. "Aber ich ... Ich dachte ..." Er schaut weg. "Nun gut, wenn du das willst. Ich werde mit dem nächsten Schiff nach Norden segeln. Vielleicht ist es an der Zeit, dass ich nach Hause zurückkehre." 
+      <DefaultText>Kana blinzelt überrascht. "Aber ich ... Ich dachte ..." Er schaut weg. "Nun gut, wenn du das willst. Ich werde mit dem nächsten Schiff nach Norden segeln. Vielleicht ist es an der Zeit, dass ich nach Hause zurückkehre."
 
 "Ich hoffe, dass du findest, nach was du suchst." Mit diesen Worten verbeugt sich Kana und stapft von dannen, ohne dir einen weiteren Blick zuzuwerfen.</DefaultText>
       <FemaleText />

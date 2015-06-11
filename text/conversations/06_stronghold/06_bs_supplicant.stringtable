@@ -6,18 +6,18 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Mein Fürst, ich habe hier eine wichtige Angelegenheit, die Ihrer Aufmerksamkeit bedarf ... "</DefaultText>
-      <FemaleText>Meine Fürstin, ich habe hier eine wichtige Angelegenheit, die Ihrer Aufmerksamkeit bedarf ... </FemaleText>
+      <DefaultText>"Mein Fürst, ich habe hier eine wichtige Angelegenheit, die Ihrer Aufmerksamkeit bedarf ..."</DefaultText>
+      <FemaleText>"Meine Fürstin, ich habe hier eine wichtige Angelegenheit, die Ihrer Aufmerksamkeit bedarf ..."</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Mein Fürst, sicherlich wurden doch Fortschritte erzielt?"</DefaultText>
-      <FemaleText>Meine Fürstin, sicherlich wurden doch Fortschritte erzielt?</FemaleText>
+      <FemaleText>"Meine Fürstin, sicherlich wurden doch Fortschritte erzielt?"</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Ich möchte Sie ja nicht unter Druck setzen, mein Fürst ... aber die Zeit drängt."</DefaultText>
-      <FemaleText>Ich möchte Sie ja nicht unter Druck setzen, meine Fürstin ... aber die Zeit drängt.</FemaleText>
+      <FemaleText>"Ich möchte Sie ja nicht unter Druck setzen, meine Fürstin ... aber die Zeit drängt."</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>

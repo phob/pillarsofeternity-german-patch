@@ -25,7 +25,7 @@ Du reist eine schier endlose Zeit, auf einen bekannten Ort zueilend, eine Erinne
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Du gelangst in den Raum, in dem du nun stehst, doch er ist neu und makellos und voller Personen - tausende von ihnen, die alle auf die große Adra-Säule und die sie umgebende Maschine blicken. 
+      <DefaultText>Du gelangst in den Raum, in dem du nun stehst, doch er ist neu und makellos und voller Personen - tausende von ihnen, die alle auf die große Adra-Säule und die sie umgebende Maschine blicken.
 
 Thaos steht vor der Maschine und du bist nun eins mit ihm. Du überblickst die Menge und siehst faltige alte Männer und engelsgesichtige kleine Mädchen; Mütter, die Säuglinge wiegen, Väter, die ihre unruhigen Kinder fest bei der Hand halten und dich mit ernster Akzeptanz ansehen. Eine Frau mit Tränen in den Augen nickt dir kurz zu.</DefaultText>
       <FemaleText />
@@ -44,9 +44,9 @@ Du stellst dich davor und legst deine Hände auf eine große mechanische Scheibe
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Der gesamte Raum zittert jetzt ob der Kraft der immer schneller werdenden Maschine. Alle Geräusche werden von dem tiefen, ohrenbetäubenden Dröhnen der Maschine übertönt. Gleißende Tentakeln aus Licht schießen von der Säule ausgehend in alle Richtungen und du blickst über deine Schulter und siehst, wie sie die Menge verschlingen und sie hell brennen lassen wie heißes Eisen. 
+      <DefaultText>Der gesamte Raum zittert jetzt ob der Kraft der immer schneller werdenden Maschine. Alle Geräusche werden von dem tiefen, ohrenbetäubenden Dröhnen der Maschine übertönt. Gleißende Tentakeln aus Licht schießen von der Säule ausgehend in alle Richtungen und du blickst über deine Schulter und siehst, wie sie die Menge verschlingen und sie hell brennen lassen wie heißes Eisen.
 
-Nach und nach verschwinden die Tentakeln und lassen nur aschene Bildnisse zurück, wo einst Personen standen. Viele zerfallen durch die Erschütterungen zu grauen Haufen. </DefaultText>
+Nach und nach verschwinden die Tentakeln und lassen nur aschene Bildnisse zurück, wo einst Personen standen. Viele zerfallen durch die Erschütterungen zu grauen Haufen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@ Nach und nach verschwinden die Tentakeln und lassen nur aschene Bildnisse zurüc
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Als der letzte Bogen verschwindet bleibt diese spektrale Masse einen Augenblick lang regungslos in der Luft hängen. Sie ist so hell, dass du deine Augen mit ausgestreckter Hand verdecken musst. Du hast das Gefühl, als würde sie dich anblicken. 
+      <DefaultText>Als der letzte Bogen verschwindet bleibt diese spektrale Masse einen Augenblick lang regungslos in der Luft hängen. Sie ist so hell, dass du deine Augen mit ausgestreckter Hand verdecken musst. Du hast das Gefühl, als würde sie dich anblicken.
 
 Du neigst wie zur Bestätigung den Kopf. Als du wieder aufblickst, siehst du, wie die Masse mit der Säule verschmilzt wie warmes Kerzenwachs. Die Säule blitzt kurz auf, so hell wie die Sonne selbst, und wird dann wieder dunkel.
 
@@ -80,7 +80,7 @@ Die Maschine wird langsamer und bleibt plötzlich stehen. Als das letzte Echo de
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Aloth schüttelt den Kopf und blickt mit einer Mischung aus Mitleid und Erstaunen auf Thaos hinab. "Er hat viele Leben - mehr, als wir je kennen werden - damit verbracht ... die Welt an eine Lüge zu binden." 
+      <DefaultText>Aloth schüttelt den Kopf und blickt mit einer Mischung aus Mitleid und Erstaunen auf Thaos hinab. "Er hat viele Leben - mehr, als wir je kennen werden - damit verbracht ... die Welt an eine Lüge zu binden."
 
 Er blickt zu dir hinauf. "Kann ein solcher Mann jemals errettet werden?"</DefaultText>
       <FemaleText />
@@ -154,7 +154,7 @@ Er tritt Thaos erneut. "Und um dem Vorschlag zuvorzukommen: Nein, ich esse seine
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Eine Grausamkeit, die dieses Mannes würdig ist ... "
+      <DefaultText>"Eine Grausamkeit, die dieses Mannes würdig ist ..."
 
 "Lass ihn den Schmerz erfahren, den er verursacht hat. Lass seine eigenen Entscheidungen seine Strafe sein."</DefaultText>
       <FemaleText />
@@ -181,7 +181,7 @@ Er tritt Thaos erneut. "Und um dem Vorschlag zuvorzukommen: Nein, ich esse seine
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Sagani verzieht das Gesicht. "Ich hoffe, das bringt dir Befriedigung. Nach allem, was du erlitten hast, um diesen Augenblick zu erreichen ... "</DefaultText>
+      <DefaultText>Sagani verzieht das Gesicht. "Ich hoffe, das bringt dir Befriedigung. Nach allem, was du erlitten hast, um diesen Augenblick zu erreichen ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,9 +246,9 @@ Er tritt Thaos erneut. "Und um dem Vorschlag zuvorzukommen: Nein, ich esse seine
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Du kehrst in die Landschaft von Thaos' Erinnerungen zurück, in die gewaltige Welt aus Täuschungen und lähmender Verzweiflung. Du spürst nun deine Macht in dieser Welt, die Fähigkeit, die Launen deines dominanten Willens neu zu formen. 
+      <DefaultText>Du kehrst in die Landschaft von Thaos' Erinnerungen zurück, in die gewaltige Welt aus Täuschungen und lähmender Verzweiflung. Du spürst nun deine Macht in dieser Welt, die Fähigkeit, die Launen deines dominanten Willens neu zu formen.
 
-Du konzentrierst dich auf eine Vision der puren Leere und dein Wille wird zu einem kreisenden Wirbel um dich herum. Er fegt durch die Landschaft und trägt Augenblicke und ganze Leben davon wie ein apokalyptischer Bîaŵac, der die Essenz des Planeten selbst davonreißt. </DefaultText>
+Du konzentrierst dich auf eine Vision der puren Leere und dein Wille wird zu einem kreisenden Wirbel um dich herum. Er fegt durch die Landschaft und trägt Augenblicke und ganze Leben davon wie ein apokalyptischer Bîaŵac, der die Essenz des Planeten selbst davonreißt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -260,7 +260,7 @@ Du richtest deine Aufmerksamkeit auf Thaos' Seele, die sich schwach an ihre besi
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Du konzentrierst deine Aufmerksamkeit auf einen einzigen Gedanken - "zertrümmern". 
+      <DefaultText>Du konzentrierst deine Aufmerksamkeit auf einen einzigen Gedanken - "zertrümmern".
 
 Du konzentrierst dich und spürst, wie sich eine Kraft in deiner Seele aufbaut - ein nach außen gerichteter Druck, der sich gegen die Enge stemmt und droht, deinen Geist zu zerreißen. Als der Druck schließlich unerträglich wird, überträgst du ihn mit einem Schlag auf Thaos' Seele und gibst ihn dort frei, eine Detonation des Willens, die sich in alle Richtungen ausstreckt und die Überreste seiner Essenz vertreibt und zerschlägt - zu einem einzigen Nichts.
 
@@ -276,14 +276,14 @@ Du wählst eine leere Säule und gießt dein Bewusstsein hinein. Du schaffst ein
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Und nun hebst du Thaos' Seele auf und trägst sie zu der Säule wie ein körperloser Kerkermeister, der von der Gerechtigkeit selbst gerufen wurde. Du spürst nun ihren Widerstand, die gewaltige Furcht, die sie ausstrahlt, doch deine Bindungen lassen sich nicht brechen. 
+      <DefaultText>Und nun hebst du Thaos' Seele auf und trägst sie zu der Säule wie ein körperloser Kerkermeister, der von der Gerechtigkeit selbst gerufen wurde. Du spürst nun ihren Widerstand, die gewaltige Furcht, die sie ausstrahlt, doch deine Bindungen lassen sich nicht brechen.
 
 Als die Seele endlich versiegelt ist und du beginnst, dich wieder in deine Mitte zurückzuziehen, könntest du fast schwören, dass du weit entfernt ein wortloses Winseln um Gnade hörst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Der Sturm baut sich auf, bis die Kruste der Welt selbst sich von dem Gewebe der Seele löst und sie in den Himmel getragen wird, bis sie nicht mehr zu sehen ist. 
+      <DefaultText>Der Sturm baut sich auf, bis die Kruste der Welt selbst sich von dem Gewebe der Seele löst und sie in den Himmel getragen wird, bis sie nicht mehr zu sehen ist.
 
 Das Letzte, was du siehst, ist eine weiße Leere, grenzenlos in alle Richtungen, ungebunden von den Fesseln der Erfahrung und des Zweifels.</DefaultText>
       <FemaleText />

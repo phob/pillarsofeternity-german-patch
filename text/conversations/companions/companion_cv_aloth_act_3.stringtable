@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Falls diese Delemgan Recht haben, sitzen du und ich mit unseren Erweckungen fest. Das sind nicht gerade die Neuigkeiten, auf die ich gehofft hatte ... "</DefaultText>
+      <DefaultText>"Falls diese Delemgan Recht haben, sitzen du und ich mit unseren Erweckungen fest. Das sind nicht gerade die Neuigkeiten, auf die ich gehofft hatte ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,9 +71,9 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Oh, das Wissen darum, dass ein halbzivilisierter Bauerntölpel für den Rest meines Lebens meinen Verstand und Körper mit mir teilen wird? Das ist aber nett, dass du fragst." 
+      <DefaultText>"Oh, das Wissen darum, dass ein halbzivilisierter Bauerntölpel für den Rest meines Lebens meinen Verstand und Körper mit mir teilen wird? Das ist aber nett, dass du fragst."
 
-Er verschränkt die Arme. "Ich hatte immer geglaubt, Iselmyr sei eine Krankheit, die ich eines Tages selbst heilen könnte. Wenn ich mir jetzt aber überlege, dass sie immer und ewig da sein wird ... "</DefaultText>
+Er verschränkt die Arme. "Ich hatte immer geglaubt, Iselmyr sei eine Krankheit, die ich eines Tages selbst heilen könnte. Wenn ich mir jetzt aber überlege, dass sie immer und ewig da sein wird ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,7 +88,7 @@ Er verschränkt die Arme. "Ich hatte immer geglaubt, Iselmyr sei eine Krankheit,
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Aloth schüttelt den Kopf. "Bitte ... tu das nicht. Es ist schon schlimm genug, dass ich jetzt weiß, dass ich sie wirklich nicht mehr wegkriege. "</DefaultText>
+      <DefaultText>Aloth schüttelt den Kopf. "Bitte ... tu das nicht. Es ist schon schlimm genug, dass ich jetzt weiß, dass ich sie wirklich nicht mehr wegkriege."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -170,7 +170,7 @@ Er verschränkt die Arme. "Ich hatte immer geglaubt, Iselmyr sei eine Krankheit,
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>" ... Du erinnerst dich an das Sanatorium von Farnheim."</DefaultText>
+      <DefaultText>"... Du erinnerst dich an das Sanatorium von Farnheim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -250,7 +250,7 @@ Er verschränkt die Arme. "Ich hatte immer geglaubt, Iselmyr sei eine Krankheit,
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ja, ich glaube schon. Trotzdem kann ich nicht aufhören, mir Sorgen darüber zu machen, in welchem Zustand wir wären, wenn das auf irgendeine Weise wahr ist. Wenn es keine Macht gäbe, die uns in diesem Leben leitet, und uns ins nächste führt." </DefaultText>
+      <DefaultText>"Ja, ich glaube schon. Trotzdem kann ich nicht aufhören, mir Sorgen darüber zu machen, in welchem Zustand wir wären, wenn das auf irgendeine Weise wahr ist. Wenn es keine Macht gäbe, die uns in diesem Leben leitet, und uns ins nächste führt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -315,7 +315,7 @@ Er verschränkt die Arme. "Ich hatte immer geglaubt, Iselmyr sei eine Krankheit,
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Trigger Conv Node 63 </DefaultText>
+      <DefaultText>Trigger Conv Node 63</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -420,7 +420,7 @@ Nach mehreren Sekunden seufzt er und schaut zu dir zurück.
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Er schaut aus seinen Augenwinkeln zu dir zurück. "Ich habe mir auch das Folgende überlegt: Wenn du mit Thaos fertig bist ... falls ich dich richtig einschätze ... dann wird nicht mehr viel von ihm übrig sein." Ein Mundwinkel zuckt zu einem schiefen Grinsen. 
+      <DefaultText>Er schaut aus seinen Augenwinkeln zu dir zurück. "Ich habe mir auch das Folgende überlegt: Wenn du mit Thaos fertig bist ... falls ich dich richtig einschätze ... dann wird nicht mehr viel von ihm übrig sein." Ein Mundwinkel zuckt zu einem schiefen Grinsen.
 
 "Das wird den Bleiernen Schlüssel seines Kopfes berauben. Vielleicht ist es das Beste, dass es so bleibt."</DefaultText>
       <FemaleText />

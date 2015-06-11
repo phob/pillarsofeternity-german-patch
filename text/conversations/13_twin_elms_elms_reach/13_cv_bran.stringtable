@@ -8,14 +8,14 @@
       <ID>1</ID>
       <DefaultText>Ein junger Mann nähert sich dir mit schnellem und entschlossenem Schritt. Du bist ihm zwar noch nie begegnet, aber er hat denselben ernsten, wilden Blick wie Simoc.
 
-Er spricht erst, als er unmittelbar neben dir steht. Seine Stimme ist leise. 
+Er spricht erst, als er unmittelbar neben dir steht. Seine Stimme ist leise.
 
 "Warte. Ich habe dich mit meinem Vater sprechen sehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Lliras hat seine Waffe gezogen, seine Augen brennen vor Zorn. Er ähnelt seinem Vater mehr denn je. "Ich wusste, dass mein Vater eine seelenlose Bestie ist, aber du ... "</DefaultText>
+      <DefaultText>Lliras hat seine Waffe gezogen, seine Augen brennen vor Zorn. Er ähnelt seinem Vater mehr denn je. "Ich wusste, dass mein Vater eine seelenlose Bestie ist, aber du ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -217,7 +217,7 @@ Mit einem weiteren Blick in Richtung Simocs Kammer geht er Richtung Tür. "Ich w
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Er faucht und legt die Hand auf die Waffe. "Wilde! Ich ... "
+      <DefaultText>Er faucht und legt die Hand auf die Waffe. "Wilde! Ich ..."
 
 Mit einem weiteren Blick in Richtung Simocs Kammer geht er Richtung Tür. "Ich warne dich, Estramor. Halte dich von Vela fern. In einer Hinsicht bin ich der Sohn meines Vaters."</DefaultText>
       <FemaleText />
@@ -239,7 +239,7 @@ Mit einem weiteren Blick in Richtung Simocs Kammer geht er Richtung Tür. "Ich w
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Warum bringe ich sie nicht einfach zurück, damit wir die Sache vergessen können ... "</DefaultText>
+      <DefaultText>"Warum bringe ich sie nicht einfach zurück, damit wir die Sache vergessen können ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -299,7 +299,7 @@ Mit einem weiteren Blick in Richtung Simocs Kammer geht er Richtung Tür. "Ich w
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Ich möchte dir glauben. Aber dein Ruf deutet auf Anderes hin." 
+      <DefaultText>"Ich möchte dir glauben. Aber dein Ruf deutet auf Anderes hin."
 
 "Dennoch, selbst wenn du es nicht tust, mein Vater findet jemanden, der es tut. Er ist hartnäckig." Er seufzt. "Aber es gibt einen Weg, ihn aufzuhalten."</DefaultText>
       <FemaleText />

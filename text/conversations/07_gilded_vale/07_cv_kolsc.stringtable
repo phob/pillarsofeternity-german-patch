@@ -11,8 +11,8 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ah, der hilfsbereite Fremde. Ich bin froh, dass du gekommen bist. Hast du Neuigkeiten für uns?" Kolsc runzelt die Stirn. "Merkwürdig – ich habe noch nichts aus der Burg gehört. Hattest du Erfolg? Ist Raedric tot?"</DefaultText>
-      <FemaleText>"Ah, die hilfsbereite Fremde. Ich bin froh, dass du gekommen bist. Hast du Neuigkeiten für uns?" Kolsc runzelt die Stirn. "Merkwürdig – ich habe noch nichts aus der Burg gehört. Hattest du Erfolg? Ist Raedric tot?"</FemaleText>
+      <DefaultText>"Ah, der hilfsbereite Fremde. Ich bin froh, dass du gekommen bist. Hast du Neuigkeiten für uns?" Kolsc runzelt die Stirn. "Merkwürdig&#160;– ich habe noch nichts aus der Burg gehört. Hattest du Erfolg? Ist Raedric tot?"</DefaultText>
+      <FemaleText>"Ah, die hilfsbereite Fremde. Ich bin froh, dass du gekommen bist. Hast du Neuigkeiten für uns?" Kolsc runzelt die Stirn. "Merkwürdig&#160;– ich habe noch nichts aus der Burg gehört. Hattest du Erfolg? Ist Raedric tot?"</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Suche meinen alten Freund Nedmar auf, sobald du es ins Innere geschafft hast. Er ist der Hohepriester – von Berath, nachdem der Strahlende Gott gefallen ist. Ein guter Mann in einer schwierigen Lage. Er wird mit sich reden lassen."</DefaultText>
+      <DefaultText>"Suche meinen alten Freund Nedmar auf, sobald du es ins Innere geschafft hast. Er ist der Hohepriester&#160;– von Berath, nachdem der Strahlende Gott gefallen ist. Ein guter Mann in einer schwierigen Lage. Er wird mit sich reden lassen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Was auch immer er dir erzählt hat – Raedrics Verbrechen sind real. Er wird mit der Ermordung seines eigenen Volks fortfahren. Seiner Familie." Kolscs Lippen kräuseln sich. "Und das soll fürstliches Benehmen sein? Nicht mal die Ehre eines verrückten Hundes hat er im Leib!"</DefaultText>
+      <DefaultText>"Was auch immer er dir erzählt hat&#160;– Raedrics Verbrechen sind real. Er wird mit der Ermordung seines eigenen Volks fortfahren. Seiner Familie." Kolscs Lippen kräuseln sich. "Und das soll fürstliches Benehmen sein? Nicht mal die Ehre eines verrückten Hundes hat er im Leib!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,12 +181,12 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Kommt, Männer – räumt diese Leichen aus dem Saal." Mit diesen Worten schreitet Kolsc begierig auf den Thron zu.</DefaultText>
+      <DefaultText>"Kommt, Männer&#160;– räumt diese Leichen aus dem Saal." Mit diesen Worten schreitet Kolsc begierig auf den Thron zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Vergib mir, Freund – es gibt viel zu tun. Dennoch werden wir nicht vergessen, was du für uns getan hast."</DefaultText>
+      <DefaultText>"Vergib mir, Freund&#160;– es gibt viel zu tun. Dennoch werden wir nicht vergessen, was du für uns getan hast."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Ja, ich hätte dich benutzt – um uns alle zu retten. Anscheinend habe ich eine schlechte Wahl getroffen." Er zieht sein Schwert aus der Scheide. "So sei es. Bitte entschuldige, Freund. Wir werden die Rettung von Goldtal ohne dich bewerkstelligen müssen."</DefaultText>
+      <DefaultText>"Ja, ich hätte dich benutzt&#160;– um uns alle zu retten. Anscheinend habe ich eine schlechte Wahl getroffen." Er zieht sein Schwert aus der Scheide. "So sei es. Bitte entschuldige, Freund. Wir werden die Rettung von Goldtal ohne dich bewerkstelligen müssen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -316,7 +316,7 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Kolsc Gesichtsausdruck wird kalt. "Ich verstehe. Ich bedauere es, dass ich dich nicht überzeugen konnte. Ich hatte gehofft, dass die vergiftete Zunge dieser Schlange keinen weiteren Narren mehr fordern würde – aber ich hatte Unrecht."</DefaultText>
+      <DefaultText>Kolsc Gesichtsausdruck wird kalt. "Ich verstehe. Ich bedauere es, dass ich dich nicht überzeugen konnte. Ich hatte gehofft, dass die vergiftete Zunge dieser Schlange keinen weiteren Narren mehr fordern würde&#160;– aber ich hatte Unrecht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,12 +356,12 @@
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Ich hoffe, dass du das wirst." Der Gesichtsausdruck des Mannes wird düster. "Denn wir benötigen sehr dringend Hilfe. Du könntest dich mit Pasca im Schwarzen Hund unterhalten. Sie kann dich mit zuverlässigen Leuten in Kontakt bringen. Und sollte sich deine Lage verbessern, so höre meine dringliche Bitte – Fürst Raedric muss aufgehalten werden."</DefaultText>
+      <DefaultText>"Ich hoffe, dass du das wirst." Der Gesichtsausdruck des Mannes wird düster. "Denn wir benötigen sehr dringend Hilfe. Du könntest dich mit Pasca im Schwarzen Hund unterhalten. Sie kann dich mit zuverlässigen Leuten in Kontakt bringen. Und sollte sich deine Lage verbessern, so höre meine dringliche Bitte&#160;– Fürst Raedric muss aufgehalten werden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Dann wird es dir vielleicht besser ergehen als uns." Der Gesichtsausdruck des Mannes wird düster. "Hör gut zu – wir haben nicht viel Zeit, und wenn du dein Leben sowieso gern für deine Neugier aufs Spiel setzt, vielleicht würdest du dasselbe auch für eine noblere Sache tun."</DefaultText>
+      <DefaultText>"Dann wird es dir vielleicht besser ergehen als uns." Der Gesichtsausdruck des Mannes wird düster. "Hör gut zu&#160;– wir haben nicht viel Zeit, und wenn du dein Leben sowieso gern für deine Neugier aufs Spiel setzt, vielleicht würdest du dasselbe auch für eine noblere Sache tun."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -401,12 +401,12 @@
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Er wird sich meiner nicht so einfach entledigen können. Und wenn ich mit ganz Goldtal im Rücken auf die Festung marschieren muss – ich werde dafür sorgen, dass er für seine Taten bezahlen muss. Du bist lediglich der erste seiner Verbündeten, der fällt."</DefaultText>
+      <DefaultText>"Er wird sich meiner nicht so einfach entledigen können. Und wenn ich mit ganz Goldtal im Rücken auf die Festung marschieren muss&#160;– ich werde dafür sorgen, dass er für seine Taten bezahlen muss. Du bist lediglich der erste seiner Verbündeten, der fällt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Bitte – Fürst Raedric wird nicht aufhören. Er wird mit der Ermordung seines eigenen Volks fortfahren. Seine eigene Familie hat er bereits ermordet." Kolscs Lippen kräuseln sich. "Und das soll fürstliches Benehmen sein? Ein ehrloser Hund ist er!"</DefaultText>
+      <DefaultText>"Bitte&#160;– Fürst Raedric wird nicht aufhören. Er wird mit der Ermordung seines eigenen Volks fortfahren. Seine eigene Familie hat er bereits ermordet." Kolscs Lippen kräuseln sich. "Und das soll fürstliches Benehmen sein? Ein ehrloser Hund ist er!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -431,7 +431,7 @@
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Vielleicht laufen die Dinge im Ausland anders, Fremder, aber hier im Dyrwald beugen wir uns nicht vor selbsternannten Fürsten – und die grausamen Launen von Adligen, die ihre Titel nicht verdient haben, die dulden wir auch nicht!"</DefaultText>
+      <DefaultText>"Vielleicht laufen die Dinge im Ausland anders, Fremder, aber hier im Dyrwald beugen wir uns nicht vor selbsternannten Fürsten&#160;– und die grausamen Launen von Adligen, die ihre Titel nicht verdient haben, die dulden wir auch nicht!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -461,7 +461,7 @@
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Es ist getan. Der Tyrann ist nicht mehr, und unserem Dorf steht eine bessere Zukunft offen. Goldtal steht tief in deiner Schuld. Auch ich schulde dir viel – du hast geschafft, was ich nicht konnte."</DefaultText>
+      <DefaultText>"Es ist getan. Der Tyrann ist nicht mehr, und unserem Dorf steht eine bessere Zukunft offen. Goldtal steht tief in deiner Schuld. Auch ich schulde dir viel&#160;– du hast geschafft, was ich nicht konnte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,7 +471,7 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Glaube aber nicht, dass wir deine Unterstützung jemals vergessen werden. Du hast eine große Veränderung bewirkt. Sei stolz darauf – jedermann wird sich an diesen Augenblick erinnern."</DefaultText>
+      <DefaultText>"Glaube aber nicht, dass wir deine Unterstützung jemals vergessen werden. Du hast eine große Veränderung bewirkt. Sei stolz darauf&#160;– jedermann wird sich an diesen Augenblick erinnern."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -618,7 +618,7 @@
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Du könntest dich mit Pasca im Schwarzen Hund unterhalten. Sie kann dich mit zuverlässigen Leuten in Kontakt bringen. Und sollte sich deine Lage verbessern, so höre meine dringliche Bitte – Fürst Raedric muss aufgehalten werden. Wenn wir ihm nicht die Stirn bieten, wird es niemand tun."</DefaultText>
+      <DefaultText>"Du könntest dich mit Pasca im Schwarzen Hund unterhalten. Sie kann dich mit zuverlässigen Leuten in Kontakt bringen. Und sollte sich deine Lage verbessern, so höre meine dringliche Bitte&#160;– Fürst Raedric muss aufgehalten werden. Wenn wir ihm nicht die Stirn bieten, wird es niemand tun."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -633,8 +633,8 @@
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Du bist ein aufrichtiger Mann – und bei meiner Ehre, ich werde dich gut behandeln. Wir stehen auf derselben Seite, mein Freund."</DefaultText>
-      <FemaleText>"Du bist eine aufrichtige Frau – und bei meiner Ehre, ich werde dich gut behandeln. Wir stehen auf derselben Seite, meine Freundin."</FemaleText>
+      <DefaultText>"Du bist ein aufrichtiger Mann&#160;– und bei meiner Ehre, ich werde dich gut behandeln. Wir stehen auf derselben Seite, mein Freund."</DefaultText>
+      <FemaleText>"Du bist eine aufrichtige Frau&#160;– und bei meiner Ehre, ich werde dich gut behandeln. Wir stehen auf derselben Seite, meine Freundin."</FemaleText>
     </Entry>
     <Entry>
       <ID>170</ID>
@@ -643,7 +643,7 @@
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>Kolsc Gesichtsausdruck wird kalt. "Aha. Ich hatte gehofft, dass eine gerechte Sache selbst deinesgleichen motivieren würde – jetzt aber sehe ich, dass mein in dich gesetztes Vertrauen falsch war. Raedric hat sich schon immer auf jene verlassen, die bei Bedarf schnell die Seiten wechseln."</DefaultText>
+      <DefaultText>Kolsc Gesichtsausdruck wird kalt. "Aha. Ich hatte gehofft, dass eine gerechte Sache selbst deinesgleichen motivieren würde&#160;– jetzt aber sehe ich, dass mein in dich gesetztes Vertrauen falsch war. Raedric hat sich schon immer auf jene verlassen, die bei Bedarf schnell die Seiten wechseln."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

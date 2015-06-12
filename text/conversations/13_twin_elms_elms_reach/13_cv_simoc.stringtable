@@ -77,7 +77,7 @@ Er leert die Phiole mit einem langen Schluck. Er schluckt, würgt einige Sekunde
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Sei gegrüßt, [Player Name]. Ich –" Ein Hustenanfall überkommt ihn und er krümmt sich.
+      <DefaultText>"Sei gegrüßt, [Player Name]. Ich&#160;–" Ein Hustenanfall überkommt ihn und er krümmt sich.
 
 Als er sich wieder aufrichtet, hebt und senkt sich seine Brust mit gurgelnden Atemzügen. "Der Trank scheint noch immer ... unerwünschte Nebenwirkungen zu haben." Der misstrauische Blick auf seinem Gesicht verschwindet so schnell, wie er kam. "Was kann ich für dich tun?"</DefaultText>
       <FemaleText />
@@ -140,7 +140,7 @@ Er hebt sein Kinn. "Wir waren schon immer der Grenzstamm. Und es war schon immer
       <ID>31</ID>
       <DefaultText>"Als Anamfath der Drei-Stoßzahn-Stelgaer führe ich unseren Stamm in allen Angelegenheiten."
 
-Er blickt zum Hauptraum der Hütte, wo andere sich versammelt haben. "Ich bin in Zwillingsulmen, um mit einigen der anderen Anamfatha über die Onolfên zu beraten – was ihr Hohlgeburten nennt. Wir haben hier nur sehr selten solche Geburten, aber es hat uns wachsamer gemacht, was unsere Nachbarn anbelangt."
+Er blickt zum Hauptraum der Hütte, wo andere sich versammelt haben. "Ich bin in Zwillingsulmen, um mit einigen der anderen Anamfatha über die Onolfên zu beraten&#160;– was ihr Hohlgeburten nennt. Wir haben hier nur sehr selten solche Geburten, aber es hat uns wachsamer gemacht, was unsere Nachbarn anbelangt."
 
 Ein Stelgaer reckt sich und lässt seine Krallen spielen.</DefaultText>
       <FemaleText />
@@ -511,7 +511,7 @@ Er nickt einmal. "Denke gut darüber nach, Estramor. Ich scheue nicht, jene zu b
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Nun, äh – da, wo ich herkomme ... heißt einen Stelgaer streicheln nicht das, was du glaubst ..."</DefaultText>
+      <DefaultText>"Nun, äh&#160;– da, wo ich herkomme ... heißt einen Stelgaer streicheln nicht das, was du glaubst ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -540,7 +540,7 @@ Hiravias verschränkt die Arme und zuckt mit den Schultern. "Er hat allen Grund,
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Schön wäre es!", ruft Hiravias. "Dieses junge Fischerkranich-Mädchen ist ein großartiges Geschenk – du solltest dankbar sein!" Hiravias' Stimme wird zu einem leisen Flüstern. "Vor allem angesichts der ... Schwäche in deiner Familie."</DefaultText>
+      <DefaultText>"Schön wäre es!", ruft Hiravias. "Dieses junge Fischerkranich-Mädchen ist ein großartiges Geschenk&#160;– du solltest dankbar sein!" Hiravias' Stimme wird zu einem leisen Flüstern. "Vor allem angesichts der ... Schwäche in deiner Familie."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

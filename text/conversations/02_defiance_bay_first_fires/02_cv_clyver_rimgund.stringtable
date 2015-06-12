@@ -102,7 +102,7 @@ Er zeigt mit dem Finger eines polierten Panzerhandschuhs auf dich. "Aus diesem G
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Anslogs Kompass ist eine kleine Lagune nördlich von Trutzbucht. Dein Ansprechpartner ist eine Kommandantin namens Aranroed – sie wird sich bei den Docks mit dir treffen."
+      <DefaultText>"Anslogs Kompass ist eine kleine Lagune nördlich von Trutzbucht. Dein Ansprechpartner ist eine Kommandantin namens Aranroed&#160;– sie wird sich bei den Docks mit dir treffen."
 
 "Komm zurück, wenn du fertig bist. Der Hochrichter hat die Erweiterung der Schmiederitter zur höchsten Priorität erklärt, was bedeutet, dass es auch meine ist."</DefaultText>
       <FemaleText />
@@ -144,7 +144,7 @@ Er zeigt mit dem Finger eines polierten Panzerhandschuhs auf dich. "Aus diesem G
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Schmiedemeister Dunstan arbeitet mit einer Beseelungsgelehrten zusammen, um etwas zu bauen, das wir als Schmiederitter bezeichnen – Krieger, die durch unsere Straßen patrouillieren können, ohne unter Müdigkeit, Ungehorsam oder Angst zu leiden. Einige Provokateure bewerfen sie mit Steinen, wir müssen uns aber keine Sorgen machen, dass es uns entgleitet."
+      <DefaultText>"Schmiedemeister Dunstan arbeitet mit einer Beseelungsgelehrten zusammen, um etwas zu bauen, das wir als Schmiederitter bezeichnen&#160;– Krieger, die durch unsere Straßen patrouillieren können, ohne unter Müdigkeit, Ungehorsam oder Angst zu leiden. Einige Provokateure bewerfen sie mit Steinen, wir müssen uns aber keine Sorgen machen, dass es uns entgleitet."
 
 "Er hat die Rüstung gebaut, wir brauchen jedoch die Forschungsunterlagen der Gelehrten. Leider war sie die letzten Male nicht anwesend, als meine Novizen nachsahen."</DefaultText>
       <FemaleText />
@@ -271,7 +271,7 @@ Er kommt einen Schritt auf dich zu, während seine Offiziere das Ganze weiterhin
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Das heißt, dass umsonst Leben geopfert wurden? Studiere die Schmiederitter weiter – ich bin mir sicher, dass du eine Möglichkeit finden wirst, sie unter Kontrolle zu bringen."</DefaultText>
+      <DefaultText>"Das heißt, dass umsonst Leben geopfert wurden? Studiere die Schmiederitter weiter&#160;– ich bin mir sicher, dass du eine Möglichkeit finden wirst, sie unter Kontrolle zu bringen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,7 +281,7 @@ Er kommt einen Schritt auf dich zu, während seine Offiziere das Ganze weiterhin
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Er starrt dich einen Moment lang an und lächelt dann leicht. "Es ist selten, dass mich jemand dazu bringt, meine Meinung zu ändern. Also gut. Wir werden die Forschungen vorantreiben, wobei wir immer nur einen Schmiederitter gleichzeitig aktivieren – und ihn schwer bewachen."</DefaultText>
+      <DefaultText>Er starrt dich einen Moment lang an und lächelt dann leicht. "Es ist selten, dass mich jemand dazu bringt, meine Meinung zu ändern. Also gut. Wir werden die Forschungen vorantreiben, wobei wir immer nur einen Schmiederitter gleichzeitig aktivieren&#160;– und ihn schwer bewachen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,17 +321,17 @@ Er kommt einen Schritt auf dich zu, während seine Offiziere das Ganze weiterhin
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Clyver studiert die Notizen und nickt langsam. "Das sieht gut aus. Bring sie gleich zu Dunstan – er wartet an der Schmiede. Komm zurück, wenn du fertig bist. Ich habe vielleicht noch mehr Arbeit für dich."</DefaultText>
+      <DefaultText>Clyver studiert die Notizen und nickt langsam. "Das sieht gut aus. Bring sie gleich zu Dunstan&#160;– er wartet an der Schmiede. Komm zurück, wenn du fertig bist. Ich habe vielleicht noch mehr Arbeit für dich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Sobald du ihm die Forschungsunterlagen gebracht hast, kann er dir jegliche Waffen oder Rüstungen verkaufen, wenn du Bedarf hast. Er schmiedet und repariert all unsere Ausrüstungen – du wirst keinen fähigeren Schmied in Trutzbucht finden."</DefaultText>
+      <DefaultText>"Sobald du ihm die Forschungsunterlagen gebracht hast, kann er dir jegliche Waffen oder Rüstungen verkaufen, wenn du Bedarf hast. Er schmiedet und repariert all unsere Ausrüstungen&#160;– du wirst keinen fähigeren Schmied in Trutzbucht finden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Sobald du ihm die Forschungsunterlagen gebracht hast, kann er dir jegliche Waffen oder Rüstungen verkaufen, wenn du Bedarf hast. Er schmiedet und repariert all unsere Ausrüstungen – du wirst keinen fähigeren Schmied in Trutzbucht finden."</DefaultText>
+      <DefaultText>"Sobald du ihm die Forschungsunterlagen gebracht hast, kann er dir jegliche Waffen oder Rüstungen verkaufen, wenn du Bedarf hast. Er schmiedet und repariert all unsere Ausrüstungen&#160;– du wirst keinen fähigeren Schmied in Trutzbucht finden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -382,7 +382,7 @@ Er dreht sich zu dir, sein Blick von Respekt erfüllt. "Du hast tapfer gekämpft
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Die Beseelung wird in den meisten Gebieten der Republik toleriert, aber einige Vailianer betreiben ihre Forschungen lieber in der wissenschaftlichen Gemeinschaft von Trutzbucht. Ich hoffe, sie wurde nicht aus der Stadt verjagt – oder noch schlimmer."</DefaultText>
+      <DefaultText>"Die Beseelung wird in den meisten Gebieten der Republik toleriert, aber einige Vailianer betreiben ihre Forschungen lieber in der wissenschaftlichen Gemeinschaft von Trutzbucht. Ich hoffe, sie wurde nicht aus der Stadt verjagt&#160;– oder noch schlimmer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -397,7 +397,7 @@ Er dreht sich zu dir, sein Blick von Respekt erfüllt. "Du hast tapfer gekämpft
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Die Dutzenden erkennen kaum etwas – nur das, wovon sie sich bedroht fühlen."</DefaultText>
+      <DefaultText>"Die Dutzenden erkennen kaum etwas&#160;– nur das, wovon sie sich bedroht fühlen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -429,7 +429,7 @@ Er dreht sich zu dir, sein Blick von Respekt erfüllt. "Du hast tapfer gekämpft
       <ID>110</ID>
       <DefaultText>"Ich gehe aber davon aus, dass sie danach von deiner Zusammenarbeit mit uns erfahren werden. Und sie werden nicht sonderlich erfreut darüber sein. Genauso wenig wie die Doemenels." Er schnaubt. "Sie versuchen, das Familienunternehmen zu erweitern, und nehmen es uns übel, dass wir ihnen dabei im Weg stehen."
 
-"Ich brauche jemanden, dem ich vertrauen kann – und du hast deine Integrität sowohl in meinen Diensten als auch in Trutzbucht unter Beweis gestellt."</DefaultText>
+"Ich brauche jemanden, dem ich vertrauen kann&#160;– und du hast deine Integrität sowohl in meinen Diensten als auch in Trutzbucht unter Beweis gestellt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -455,12 +455,12 @@ Er dreht sich zu dir, sein Blick von Respekt erfüllt. "Du hast tapfer gekämpft
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Er starrt dich einen Moment lang an und lächelt dann leicht. "Es ist selten, dass mich jemand dazu bringt, meine Meinung zu ändern. Aber ich vertraue dir und deinen unerschütterlichen Prinzipien. Also gut. Wir werden die Forschungen vorantreiben, wobei wir immer nur einen Schmiederitter gleichzeitig aktivieren – und ihn schwer bewachen."</DefaultText>
+      <DefaultText>Er starrt dich einen Moment lang an und lächelt dann leicht. "Es ist selten, dass mich jemand dazu bringt, meine Meinung zu ändern. Aber ich vertraue dir und deinen unerschütterlichen Prinzipien. Also gut. Wir werden die Forschungen vorantreiben, wobei wir immer nur einen Schmiederitter gleichzeitig aktivieren&#160;– und ihn schwer bewachen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>Er nickt. "Ich weiß, wie unerschütterlich du zu deinen Prinzipien stehst – und ich bin froh, dass du meiner Einschätzung der Lage zustimmst. Und wenn ich auf Dunstan gehört hätte, wäre all das überhaupt nicht passiert. Diesen Fehler werde ich nicht noch einmal machen."</DefaultText>
+      <DefaultText>Er nickt. "Ich weiß, wie unerschütterlich du zu deinen Prinzipien stehst&#160;– und ich bin froh, dass du meiner Einschätzung der Lage zustimmst. Und wenn ich auf Dunstan gehört hätte, wäre all das überhaupt nicht passiert. Diesen Fehler werde ich nicht noch einmal machen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -480,7 +480,7 @@ Er dreht sich zu dir, sein Blick von Respekt erfüllt. "Du hast tapfer gekämpft
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Wir wären Narren, sie nicht weiter zu erforschen. Ich habe gesehen, zu was die Forscher in Farnheim fähig sind – sie bauen Konstrukte, sie diagnostizieren Seelenkrankheiten, sie machen sich rohe Essenz zum Werkzeug. Das Potenzial ist gewaltig."
+      <DefaultText>"Wir wären Narren, sie nicht weiter zu erforschen. Ich habe gesehen, zu was die Forscher in Farnheim fähig sind&#160;– sie bauen Konstrukte, sie diagnostizieren Seelenkrankheiten, sie machen sich rohe Essenz zum Werkzeug. Das Potenzial ist gewaltig."
 
 "Die Kritiker sagen, es sei zu gefährlich, es würde die Götter erzürnen. Aberglaube und Unsinn. Natürlich ist es riskant, in die Seele einzutauchen, aber das viel größere Risiko liegt darin, nichts zu tun, während das Vermächtnis uns langsam auffrisst."</DefaultText>
       <FemaleText />

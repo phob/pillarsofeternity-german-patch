@@ -251,14 +251,14 @@ Deine Augen sind schwer und du siehst verschwommen. Das vage Unwohlsein von Albt
       <ID>49</ID>
       <DefaultText>"He. He! Du bist wach? Gut."
 
-Er atmet aus. "Du hast – du hast dich herumgeworfen, hast deine Augen nach hinten gerollt. Und du hast gezuckt."
+Er atmet aus. "Du hast&#160;– du hast dich herumgeworfen, hast deine Augen nach hinten gerollt. Und du hast gezuckt."
 
 "Ich versuche seit einer Weile, dich aufzuwecken. Ich dachte schon, ich müsste einen Eimer kaltes Wasser holen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Du, äh – du scheinst nachts nur wenig Schlaf zu finden. Du hast dunkle Ringe unter den Augen."</DefaultText>
+      <DefaultText>"Du, äh&#160;– du scheinst nachts nur wenig Schlaf zu finden. Du hast dunkle Ringe unter den Augen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -334,7 +334,7 @@ Er schüttelt den Kopf. "Du musst damit aufhören. Ich habe dich halb verprügel
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Du bist zur Zeit sehr unruhig. Das erinnert mich an Maerwald – mehr, als mir lieb ist. Wenn ich etwas tun kann, sag es mir einfach."
+      <DefaultText>"Du bist zur Zeit sehr unruhig. Das erinnert mich an Maerwald&#160;– mehr, als mir lieb ist. Wenn ich etwas tun kann, sag es mir einfach."
 
 "Es fehlt nicht mehr viel. Halte noch eine Weile durch, wir kriegen dich wieder hin."</DefaultText>
       <FemaleText />
@@ -390,10 +390,10 @@ Er schüttelt den Kopf. "Du musst damit aufhören. Ich habe dich halb verprügel
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Versteck dich, so viel du willst, Wächter, aber es ist offensichtlich, dass du leidest, weil du mit dem Feuer der Götter gespielt hast – wie alle Wächter es verdienen."
+      <DefaultText>"Versteck dich, so viel du willst, Wächter, aber es ist offensichtlich, dass du leidest, weil du mit dem Feuer der Götter gespielt hast&#160;– wie alle Wächter es verdienen."
 
 "Aber du wurdest noch nicht gebrochen, Wächter. Gib deinen Feinden nicht diese Befriedigung, bevor es nötig ist."</DefaultText>
-      <FemaleText>"Versteck dich, so viel du willst, Wächterin, aber es ist offensichtlich, dass du leidest, weil du mit dem Feuer der Götter gespielt hast – wie alle Wächter es verdienen."
+      <FemaleText>"Versteck dich, so viel du willst, Wächterin, aber es ist offensichtlich, dass du leidest, weil du mit dem Feuer der Götter gespielt hast&#160;– wie alle Wächter es verdienen."
 
 "Aber du wurdest noch nicht gebrochen, Wächterin. Gib deinen Feinden nicht diese Befriedigung, bevor es nötig ist."</FemaleText>
     </Entry>

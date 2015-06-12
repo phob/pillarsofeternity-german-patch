@@ -15,7 +15,7 @@ Als du dich näherst, scheint die Flamme ruhiger und stärker zu werden, und die
       <ID>3</ID>
       <DefaultText>Der Schein verblasst, als hättest du dich an seine Intensität angepasst. Dort, wo er war, erscheint Iovara, ein utopischer Schatten, der über dem feuchten Zellenboden schwebt.
 
-Obwohl sie ohne Alter ist, erscheint sie dir verändert – eine leicht gebeugte Haltung, vielleicht, oder kaum merklich eingefallene Augen. Über ihr Gesicht zieht sich eine breite Narbe, faserig und wurmartig, wo Flammen einst züngelten, selbst im Tod nicht verheilt.</DefaultText>
+Obwohl sie ohne Alter ist, erscheint sie dir verändert&#160;– eine leicht gebeugte Haltung, vielleicht, oder kaum merklich eingefallene Augen. Über ihr Gesicht zieht sich eine breite Narbe, faserig und wurmartig, wo Flammen einst züngelten, selbst im Tod nicht verheilt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@ Sie schüttelt besorgt den Kopf. "Oder habe ich lediglich ein zweites Mal versag
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Thaos hat sie aus dem Kreislauf gerissen. Er will Woedica mächtiger werden lassen – und die Schuld für seine Taten der Beseelung geben."</DefaultText>
+      <DefaultText>"Thaos hat sie aus dem Kreislauf gerissen. Er will Woedica mächtiger werden lassen&#160;– und die Schuld für seine Taten der Beseelung geben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -273,7 +273,7 @@ Sein Gesicht wird selbstgefällig und er spuckt auf den Boden. "In einer Sache h
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Sie richtet ihre Aufmerksamkeit auf Durance. "Was, wenn es verbotenes Wissen war, das deinen Untergang besiegelt hat – kein Fehler deinerseits? Was ist mit deiner Schuld?"</DefaultText>
+      <DefaultText>Sie richtet ihre Aufmerksamkeit auf Durance. "Was, wenn es verbotenes Wissen war, das deinen Untergang besiegelt hat&#160;– kein Fehler deinerseits? Was ist mit deiner Schuld?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -298,7 +298,7 @@ Sein Gesicht wird selbstgefällig und er spuckt auf den Boden. "In einer Sache h
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Kana legt die Stirn in Falten. "Über tausende von Jahren hat die engwithanische Lüge unsere Sicht getrübt. Wie können wir sagen, es gibt keinen anderen Weg, wenn wir nie die Gelegenheit hatten, einen zu entdecken? Es warten noch Antworten in dieser Welt – wir sind nur nie auf die Idee gekommen, danach zu suchen."</DefaultText>
+      <DefaultText>Kana legt die Stirn in Falten. "Über tausende von Jahren hat die engwithanische Lüge unsere Sicht getrübt. Wie können wir sagen, es gibt keinen anderen Weg, wenn wir nie die Gelegenheit hatten, einen zu entdecken? Es warten noch Antworten in dieser Welt&#160;– wir sind nur nie auf die Idee gekommen, danach zu suchen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -323,7 +323,7 @@ Sein Gesicht wird selbstgefällig und er spuckt auf den Boden. "In einer Sache h
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>Sie blickt die Trauernde Mutter direkt an – sie scheint sie zu sehen, wie sie jeden anderen sieht. "Was, wenn der Kreislauf aus Geburt und Tod nichts ist als ein Werkzeug der endlosen Beschäftigung?"</DefaultText>
+      <DefaultText>Sie blickt die Trauernde Mutter direkt an&#160;– sie scheint sie zu sehen, wie sie jeden anderen sieht. "Was, wenn der Kreislauf aus Geburt und Tod nichts ist als ein Werkzeug der endlosen Beschäftigung?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -562,7 +562,7 @@ Schweißperlen sammeln sich auf Durance' Stirn und strömen sein Gesicht hinab, 
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Unsinn!", ruft Hiravias – und errötet, sobald ihm der Ausruf über die Lippen rutscht.
+      <DefaultText>"Unsinn!", ruft Hiravias&#160;– und errötet, sobald ihm der Ausruf über die Lippen rutscht.
 
 "Sie hat wohl noch nie den Zorn eines Gottes gespürt ... sonst wüsste sie, wie real die Götter sein können ..."</DefaultText>
       <FemaleText />
@@ -599,7 +599,7 @@ Schweißperlen sammeln sich auf Durance' Stirn und strömen sein Gesicht hinab, 
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>"Generation um Generation suchten sie, entwirrten sie die Fäden der Welt und legten ihre Geheimnisse offen. Eines Tages fanden sie eine Antwort – nur, dass die Antwort keine Antwort war. Es gab keine Götter, die man finden konnte. Oder wenn es sie gegeben hatte, waren sie fort."</DefaultText>
+      <DefaultText>"Generation um Generation suchten sie, entwirrten sie die Fäden der Welt und legten ihre Geheimnisse offen. Eines Tages fanden sie eine Antwort&#160;– nur, dass die Antwort keine Antwort war. Es gab keine Götter, die man finden konnte. Oder wenn es sie gegeben hatte, waren sie fort."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -641,7 +641,7 @@ Schweißperlen sammeln sich auf Durance' Stirn und strömen sein Gesicht hinab, 
       <ID>327</ID>
       <DefaultText>"Wenn KEINER den Weg kennt?" Hiravias blickt sie an und beginnt zu lächeln, während er sich am Kinn kratzt.
 
-"Jeder Schüler Waels weiß, dass deine Frage irrelevant ist. Unabhängig davon, ob sie weise sind oder nicht, die Götter können einem keine dauerhafte Weisheit geben – sie können einen nur inspirieren, im Laufe der Zeit selbst Weisheit zu finden."</DefaultText>
+"Jeder Schüler Waels weiß, dass deine Frage irrelevant ist. Unabhängig davon, ob sie weise sind oder nicht, die Götter können einem keine dauerhafte Weisheit geben&#160;– sie können einen nur inspirieren, im Laufe der Zeit selbst Weisheit zu finden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -690,7 +690,7 @@ Er schüttelt den Kopf. "Ganz gleich, wie die Götter geschaffen wurden, sie exi
     </Entry>
     <Entry>
       <ID>337</ID>
-      <DefaultText>Der Farbstreifen auf Saganis Gesicht krümmt sich, als sie ihr Gesicht verzieht. "So düster kann es nicht sein. Die Herausforderungen, denen wir trotzen, die Entscheidungen, die wir angesichts großer Mühsal treffen – diese Dinge formen uns."</DefaultText>
+      <DefaultText>Der Farbstreifen auf Saganis Gesicht krümmt sich, als sie ihr Gesicht verzieht. "So düster kann es nicht sein. Die Herausforderungen, denen wir trotzen, die Entscheidungen, die wir angesichts großer Mühsal treffen&#160;– diese Dinge formen uns."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -720,7 +720,7 @@ Er schüttelt den Kopf. "Ganz gleich, wie die Götter geschaffen wurden, sie exi
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>"... Ha. Sie spricht, als wäre es eine grausame Wahrheit, aber denk darüber nach. Die vielen Jahre, die viele Macht – das war Engwiths Werk. Gestandene haben dies vollbracht. Sie haben Götter aus dem Nichts erschaffen!"</DefaultText>
+      <DefaultText>"... Ha. Sie spricht, als wäre es eine grausame Wahrheit, aber denk darüber nach. Die vielen Jahre, die viele Macht&#160;– das war Engwiths Werk. Gestandene haben dies vollbracht. Sie haben Götter aus dem Nichts erschaffen!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -763,7 +763,7 @@ Er schüttelt den Kopf. "Ganz gleich, wie die Götter geschaffen wurden, sie exi
     </Entry>
     <Entry>
       <ID>350</ID>
-      <DefaultText>"Vielleicht soll es so sein, dass wir nicht eins sind. Jede Mühe, jede Suche nach einer einzigen Wahrheit wird scheitern – weil es nicht nur eine einzige Wahrheit gibt."
+      <DefaultText>"Vielleicht soll es so sein, dass wir nicht eins sind. Jede Mühe, jede Suche nach einer einzigen Wahrheit wird scheitern&#160;– weil es nicht nur eine einzige Wahrheit gibt."
 
 Kana sieht weg. "Wir suchen nach einfachen Antworten, doch die gibt es nicht."</DefaultText>
       <FemaleText />
@@ -803,7 +803,7 @@ Schweißperlen sammeln sich auf Durance' Stirn und strömen sein Gesicht hinab, 
       <ID>357</ID>
       <DefaultText>"Ich biete sie dir nicht an, diese Realität. Sie existiert, ob du das akzeptierst oder nicht."
 
-"Und diese Dinge, von denen du sprichst, diese Krankheiten, die geheilt werden müssen. Frage dich – wenn die Götter keinen Einfluss hatten, würden diese Dinge dann überhaupt existieren? Oder würde es der Welt besser gehen?"</DefaultText>
+"Und diese Dinge, von denen du sprichst, diese Krankheiten, die geheilt werden müssen. Frage dich&#160;– wenn die Götter keinen Einfluss hatten, würden diese Dinge dann überhaupt existieren? Oder würde es der Welt besser gehen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

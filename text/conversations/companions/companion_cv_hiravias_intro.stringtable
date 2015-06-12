@@ -27,7 +27,7 @@ Er geht einen Schritt zurück, wobei er die Arme ausbreitet und dir den Kadaver 
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Er kichert und kratzt sich am Stummel seines zur Hälfte abgetrennten rechten Ohres. "Ein widerspenstiger Stelgaer. Als ich mir die Innereien des Hirsches ansah, fiel mir das deformierte – aber köstliche – Herz auf. Er wäre ohnehin innerhalb eines Jahres daran verendet ..."</DefaultText>
+      <DefaultText>Er kichert und kratzt sich am Stummel seines zur Hälfte abgetrennten rechten Ohres. "Ein widerspenstiger Stelgaer. Als ich mir die Innereien des Hirsches ansah, fiel mir das deformierte –&#160;aber köstliche&#160;– Herz auf. Er wäre ohnehin innerhalb eines Jahres daran verendet ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@ Er beugt seinen Kopf zu dir und kaut weiter an einem Fetzen Hirschfleisch. "Mach
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Als Kind huldigte ich Galawain, um ein großer Jäger zu werden, aber seit dem hier ..." – er deutet auf seine Augenklappe – "habe ich Wael kennengelernt, Ihn, der sieht und nicht gesehen wird'."</DefaultText>
+      <DefaultText>"Als Kind huldigte ich Galawain, um ein großer Jäger zu werden, aber seit dem hier", er deutet auf seine Augenklappe, "habe ich Wael kennengelernt, Ihn, der sieht und nicht gesehen wird."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -123,7 +123,7 @@ Er beugt seinen Kopf zu dir und kaut weiter an einem Fetzen Hirschfleisch. "Mach
       <ID>28</ID>
       <DefaultText>"Der Fürst der Jagd, Gönner aller Suchenden ..." Er verstummt. "Das fragst du den Falschen."
 
-Er schiebt seine Haare zur Seite, was eine genauere Betrachtung seiner Augenklappe gestattet – auf das abgenutzte Leder wurde das stilisierte Muster eines Auges gestickt.</DefaultText>
+Er schiebt seine Haare zur Seite, was eine genauere Betrachtung seiner Augenklappe gestattet&#160;– auf das abgenutzte Leder wurde das stilisierte Muster eines Auges gestickt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -262,7 +262,7 @@ Itumaak hängt seine rosa Zunge aus dem Mund.</DefaultText>
       <ID>56</ID>
       <DefaultText>Der Orlaner lächelt, öffnet seinen Mund, als wolle er sprechen, und verstummt dann.
 
-"Wael ist der Gott der Geheimnisse und der Verdunkelung. Wael schreitet in unsere Taten kaum ein, noch diktiert oder beschränkt er sie – und er gibt sich auch nicht einfach so zu erkennen. Ich würde sagen, dass ich mehr über Wael nachdenke, als ihm zu folgen oder zu dienen."</DefaultText>
+"Wael ist der Gott der Geheimnisse und der Verdunkelung. Wael schreitet in unsere Taten kaum ein, noch diktiert oder beschränkt er sie&#160;– und er gibt sich auch nicht einfach so zu erkennen. Ich würde sagen, dass ich mehr über Wael nachdenke, als ihm zu folgen oder zu dienen."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

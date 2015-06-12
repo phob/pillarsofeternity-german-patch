@@ -13,7 +13,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Gib mir das!", ruft der Mönch und entreißt dir den Brief. Fast augenblicklich errötet er. "Ich meine, bitte – es ist äußerst wichtig!"</DefaultText>
+      <DefaultText>"Gib mir das!", ruft der Mönch und entreißt dir den Brief. Fast augenblicklich errötet er. "Ich meine, bitte&#160;– es ist äußerst wichtig!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -74,7 +74,7 @@ Alle Augen blicken zu Boden. Die Mönche beginnen, im Chor Sprechgesänge zu rez
       <ID>16</ID>
       <DefaultText>Der Mönch verneigt sich, als du dich näherst. Er spricht mit aufgeregter Stimme, unfähig, seine Ungeduld zu verbergen.
 
-"Wenn du etwas willst, sprich – ansonsten lass uns in Frieden. Wir sind nicht laut, wir wollen keinen Streit, wir haben das Recht, uns hier aufzuhalten."</DefaultText>
+"Wenn du etwas willst, sprich&#160;– ansonsten lass uns in Frieden. Wir sind nicht laut, wir wollen keinen Streit, wir haben das Recht, uns hier aufzuhalten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -159,12 +159,12 @@ Er verschränkt die Arme vor der Brust und starrt dich mit hochgezogener Augenbr
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>[Ihm den Brief zeigen.] "Fast hätte ich es vergessen – er hat mir das hier gegeben."</DefaultText>
+      <DefaultText>[Ihm den Brief zeigen.] "Fast hätte ich es vergessen&#160;– er hat mir das hier gegeben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>[Lügen] "Vielleicht hat er versucht, mir etwas zu sagen, aber er lag im Sterben – ich konnte ihn nicht verstehen."</DefaultText>
+      <DefaultText>[Lügen] "Vielleicht hat er versucht, mir etwas zu sagen, aber er lag im Sterben&#160;– ich konnte ihn nicht verstehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

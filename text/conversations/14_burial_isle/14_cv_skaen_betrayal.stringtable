@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Neben dir steht ein unterernährter Mann, der einen abgewetzten Lendenschurz trägt – und Fesseln. Sein gesamter Körper ist überzogen von Striemen. Narbengewebe überzieht sein Gesicht, wo seine Nase und seine Ohren sein sollten. Er stinkt nach altem Schweiß und ungewaschenem Schmutz.
+      <DefaultText>Neben dir steht ein unterernährter Mann, der einen abgewetzten Lendenschurz trägt&#160;– und Fesseln. Sein gesamter Körper ist überzogen von Striemen. Narbengewebe überzieht sein Gesicht, wo seine Nase und seine Ohren sein sollten. Er stinkt nach altem Schweiß und ungewaschenem Schmutz.
 
 Du siehst jemanden die Straße entlang wandern, doch die Gestalt hat dir den Rücken zugekehrt. Deine Aufmerksamkeit gilt vorerst dem bemitleidenswerten Sklaven.</DefaultText>
       <FemaleText />
@@ -28,8 +28,8 @@ Du siehst jemanden die Straße entlang wandern, doch die Gestalt hat dir den Rü
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Seine schwarzen Augen funkeln. "Ich habe dich beobachtet, Wächter. Deine Gier nach Blut bewundert – und die Leichtigkeit, mit der du es vergießt."</DefaultText>
-      <FemaleText>Seine schwarzen Augen funkeln. "Ich habe dich beobachtet, Wächterin. Deine Gier nach Blut bewundert – und die Leichtigkeit, mit der du es vergießt."</FemaleText>
+      <DefaultText>Seine schwarzen Augen funkeln. "Ich habe dich beobachtet, Wächter. Deine Gier nach Blut bewundert&#160;– und die Leichtigkeit, mit der du es vergießt."</DefaultText>
+      <FemaleText>Seine schwarzen Augen funkeln. "Ich habe dich beobachtet, Wächterin. Deine Gier nach Blut bewundert&#160;– und die Leichtigkeit, mit der du es vergießt."</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -38,7 +38,7 @@ Du siehst jemanden die Straße entlang wandern, doch die Gestalt hat dir den Rü
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Du hast für andere geschuftet – für die verschrumpelte Alte im Haus Hadret, für die eitlen Soldaten, denen mehr an Seide liegt als an Stahl, für die jämmerlichen Stammesbrüder, die ihre Allmachtsfantasien ausleben. Und dann hast du dich vor den Göttern selbst kauernd niedergekniet und einen einzigen winzigen Gefallen erbeten – und als Antwort nur Rätsel und Visionen erhalten."</DefaultText>
+      <DefaultText>"Du hast für andere geschuftet&#160;– für die verschrumpelte Alte im Haus Hadret, für die eitlen Soldaten, denen mehr an Seide liegt als an Stahl, für die jämmerlichen Stammesbrüder, die ihre Allmachtsfantasien ausleben. Und dann hast du dich vor den Göttern selbst kauernd niedergekniet und einen einzigen winzigen Gefallen erbeten&#160;– und als Antwort nur Rätsel und Visionen erhalten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -129,10 +129,10 @@ Du siehst jemanden die Straße entlang wandern, doch die Gestalt hat dir den Rü
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Skaen hebt ein Bündel auf, das vor ihm liegt, und schultert es. "Ich habe die Alternative erläutert, Wächter. Du kannst als Marionette der Götter weiterleben – oder als Partner eines Gottes."
+      <DefaultText>Skaen hebt ein Bündel auf, das vor ihm liegt, und schultert es. "Ich habe die Alternative erläutert, Wächter. Du kannst als Marionette der Götter weiterleben&#160;– oder als Partner eines Gottes."
 
 Die Gestalt am anderen Ende der Straße bleibt stehen. Sie dreht ihren Kopf gerade weit genug, um über die Schulter zu blicken. Ihr Gesicht ist fast vollständig verborgen, doch ein gnadenloses Auge blickt dich aus einer Wange aus verbranntem Fleisch an.</DefaultText>
-      <FemaleText>Skaen hebt ein Bündel auf, das vor ihm liegt, und schultert es. "Ich habe die Alternative erläutert, Wächterin. Du kannst als Marionette der Götter weiterleben – oder als Partner eines Gottes."
+      <FemaleText>Skaen hebt ein Bündel auf, das vor ihm liegt, und schultert es. "Ich habe die Alternative erläutert, Wächterin. Du kannst als Marionette der Götter weiterleben&#160;– oder als Partner eines Gottes."
 
 Die Gestalt am anderen Ende der Straße bleibt stehen. Sie dreht ihren Kopf gerade weit genug, um über die Schulter zu blicken. Ihr Gesicht ist fast vollständig verborgen, doch ein gnadenloses Auge blickt dich aus einer Wange aus verbranntem Fleisch an.</FemaleText>
     </Entry>
@@ -148,17 +148,17 @@ Die Gestalt am anderen Ende der Straße bleibt stehen. Sie dreht ihren Kopf gera
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Du hast für andere geschuftet – für die verschrumpelte Alte im Haus Hadret, für diese aufgeblasenen Fanatiker aus dem Dyrwald, für die jämmerlichen Stammesbrüder, die ihre Allmachtsfantasien ausleben. Und dann hast du dich vor den Göttern selbst kauernd niedergekniet und einen einzigen winzigen Gefallen erbeten – und als Antwort nur Rätsel und Visionen erhalten."</DefaultText>
+      <DefaultText>"Du hast für andere geschuftet&#160;– für die verschrumpelte Alte im Haus Hadret, für diese aufgeblasenen Fanatiker aus dem Dyrwald, für die jämmerlichen Stammesbrüder, die ihre Allmachtsfantasien ausleben. Und dann hast du dich vor den Göttern selbst kauernd niedergekniet und einen einzigen winzigen Gefallen erbeten&#160;– und als Antwort nur Rätsel und Visionen erhalten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Du hast für andere geschuftet – für die verschrumpelte Alte im Haus Hadret, für diese hochwohlgeborenen Diebe mit ihren eingebildeten Herrschaftsansprüchen, für die jämmerlichen Stammesbrüder, die ihre Allmachtsfantasien ausleben. Und dann hast du dich vor den Göttern selbst kauernd niedergekniet und einen einzigen winzigen Gefallen erbeten – und als Antwort nur Rätsel und Visionen erhalten."</DefaultText>
+      <DefaultText>"Du hast für andere geschuftet&#160;– für die verschrumpelte Alte im Haus Hadret, für diese hochwohlgeborenen Diebe mit ihren eingebildeten Herrschaftsansprüchen, für die jämmerlichen Stammesbrüder, die ihre Allmachtsfantasien ausleben. Und dann hast du dich vor den Göttern selbst kauernd niedergekniet und einen einzigen winzigen Gefallen erbeten&#160;– und als Antwort nur Rätsel und Visionen erhalten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Du hast für Andere geschuftet – für die verschrumpelte Alte im Haus Hadret, für diesen alten Duc in Trutzbucht, für die jämmerlichen Stammesbrüder, die ihre Allmachtsfantasien ausleben. Und dann hast du dich vor den Göttern selbst kauernd niedergekniet und einen einzigen winzigen Gefallen erbeten – und als Antwort nur Rätsel und Visionen erhalten."</DefaultText>
+      <DefaultText>"Du hast für Andere geschuftet&#160;– für die verschrumpelte Alte im Haus Hadret, für diesen alten Duc in Trutzbucht, für die jämmerlichen Stammesbrüder, die ihre Allmachtsfantasien ausleben. Und dann hast du dich vor den Göttern selbst kauernd niedergekniet und einen einzigen winzigen Gefallen erbeten&#160;– und als Antwort nur Rätsel und Visionen erhalten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -237,7 +237,7 @@ Er geht weiter die Straße entlang, und als die Sonne hinter dem Horizont versin
       <ID>46</ID>
       <DefaultText>Hiravias räuspert sich und sagt leise: "Fünf Kupferstücke, dass er nur seine eigenen Ziele verfolgt ... weiß Wael, WAS diese Ziele sind ..."
 
-Hiravias grinst, beugt sich zu dir und flüstert: "An deiner Stelle würde ich ihm sagen, die Götter hätten uns ein Dutzend Jungfrauen versprochen – mal sehen, ob er mitzieht, dann kann das Feilschen beginnen."</DefaultText>
+Hiravias grinst, beugt sich zu dir und flüstert: "An deiner Stelle würde ich ihm sagen, die Götter hätten uns ein Dutzend Jungfrauen versprochen&#160;– mal sehen, ob er mitzieht, dann kann das Feilschen beginnen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -285,7 +285,7 @@ Er verneigt sich stockend und übertrieben vor dir, zornig zu dir aufblickend, s
       <ID>54</ID>
       <DefaultText>Dein Fleisch verbrennt und wird schwarz. Sengend heiße Flüssigkeit füllt deine Adern. Du reißt an deiner glühenden Haut, doch die versengten Schichten abzuschälen lindert deine Qualen nicht.
 
-Schließlich beendet die Sonne ihren Niedergang. Du bleibst in Dunkelheit zurück. Als du wieder zu Sinnen kommst, stehst du vor der Maschine – unverletzt, aber mit einer neuen Macht erfüllt.</DefaultText>
+Schließlich beendet die Sonne ihren Niedergang. Du bleibst in Dunkelheit zurück. Als du wieder zu Sinnen kommst, stehst du vor der Maschine&#160;– unverletzt, aber mit einer neuen Macht erfüllt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

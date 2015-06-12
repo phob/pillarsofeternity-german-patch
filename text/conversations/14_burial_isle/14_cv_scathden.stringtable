@@ -200,7 +200,7 @@ Seine Hand fährt in seinen Wams und holt sein verrostetes eisernes Hundeamulett
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Du hast wohl Recht". Er errötet angesichts der Bemerkung und blickt zu seinen Füßen. "Mir fehlte Stärke und ich bat Galawain um Hilfe ... und die Lektion, die er mich lehrte, war: Bitte nicht - nimm!"
+      <DefaultText>"Du hast wohl Recht." Er errötet angesichts der Bemerkung und blickt zu seinen Füßen. "Mir fehlte Stärke und ich bat Galawain um Hilfe ... und die Lektion, die er mich lehrte, war: Bitte nicht - nimm!"
 
 Seine Hand fährt in seinen Wams und holt sein verrostetes eisernes Hundeamulett aus seiner Tasche.</DefaultText>
       <FemaleText />
@@ -221,10 +221,10 @@ Er gleitet mit dem Daumen über die eingeprägte Metallikone von Galawain. Sein 
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Mein Wächter-Freund". Seine Stimme ist tief, fast grollend. "Ich muss diese Angelegenheit klären."
+      <DefaultText>"Mein Wächter-Freund." Seine Stimme ist tief, fast grollend. "Ich muss diese Angelegenheit klären."
 
 Und damit springt er auf Scâthden zu.</DefaultText>
-      <FemaleText>"Meine Wächter-Freundin". Seine Stimme ist tief, fast grollend. "Ich muss diese Angelegenheit klären."
+      <FemaleText>"Meine Wächter-Freundin." Seine Stimme ist tief, fast grollend. "Ich muss diese Angelegenheit klären."
 
 Und damit springt er auf Scâthden zu.</FemaleText>
     </Entry>
@@ -319,7 +319,7 @@ Scâthden springt los.</DefaultText>
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Hiravias, mach keine Dummheiten. [Ihn von Scâthden wegziehen.]"</DefaultText>
+      <DefaultText>[Ihn von Scâthden wegziehen.] "Hiravias, mach keine Dummheiten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

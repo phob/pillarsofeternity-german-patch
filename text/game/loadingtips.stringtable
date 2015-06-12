@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Der Spähmodus wird für zwei Zwecke verwendet: Schleichen und suchen. Schleichen kann dir einen taktischen Vorteil gegen schwierige Feinde verleihen - oder dir helfen, ihnen aus dem Weg zu gehen. Suchen ermöglicht es dir, Fallen und versteckte Gegenstände zu finden.</DefaultText>
+      <DefaultText>Der Spähmodus wird für zwei Zwecke verwendet: Schleichen und suchen. Schleichen kann dir einen taktischen Vorteil gegen schwierige Feinde verleihen – oder dir helfen, ihnen aus dem Weg zu gehen. Suchen ermöglicht es dir, Fallen und versteckte Gegenstände zu finden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Die Schadensart 'Direktschaden' ignoriert die Schadensreduktionen des Ziels. Nur eine kleine Anzahl von Angriffen - beispielsweise Gifte oder mentale Fähigkeiten - verursacht Direktschaden.</DefaultText>
+      <DefaultText>Die Schadensart 'Direktschaden' ignoriert die Schadensreduktionen des Ziels. Nur eine kleine Anzahl von Angriffen – beispielsweise Gifte oder mentale Fähigkeiten – verursacht Direktschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Durch die Entscheidungen deines Charakters in Dialogen und Quests baust du dir einen Ruf auf - einen allgemeinen und einen separaten bei einzelnen Gruppierungen. Charaktere in der Welt reagieren auf diese Entscheidungen und diesen Ruf - auf gute oder schlechte Weise.</DefaultText>
+      <DefaultText>Durch die Entscheidungen deines Charakters in Dialogen und Quests baust du dir einen Ruf auf – einen allgemeinen und einen separaten bei einzelnen Gruppierungen. Charaktere in der Welt reagieren auf diese Entscheidungen und diesen Ruf – auf gute oder schlechte Weise.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,12 +241,12 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Einige Waffenarten - zum Beispiel Panzerbrecher, Streitkolben und Stilett - negieren einen Teil der Schadensreduktion des Gegners.</DefaultText>
+      <DefaultText>Einige Waffenarten – zum Beispiel Panzerbrecher, Streitkolben und Stilett – negieren einen Teil der Schadensreduktion des Gegners.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Alle Waffen, die einen Schadenstyp wie "Hieb oder Wucht" aufführen, richten jeweils den Schadenstyp an, der in der aktuellen Situation vorteilhafter ist - meist den Schadenstyp, gegen den das Ziel am anfälligsten ist.</DefaultText>
+      <DefaultText>Alle Waffen, die einen Schadenstyp wie "Hieb oder Wucht" aufführen, richten jeweils den Schadenstyp an, der in der aktuellen Situation vorteilhafter ist – meist den Schadenstyp, gegen den das Ziel am anfälligsten ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Mein Fürst, wir tun, was wir können. Leider sind diese Dörfler-"</DefaultText>
+      <DefaultText>"Mein Fürst, wir tun, was wir können. Leider sind diese Dörfler –"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -130,7 +130,7 @@
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Der Mann trägt Ornat im aedyrischen Stil - einfach, aber doch elegant. Seine edlen Lederschuhe sehen eher wie Hausschuhe aus, aber sie sind trotzdem schlammverkrustet.
+      <DefaultText>Der Mann trägt Ornat im aedyrischen Stil – einfach, aber doch elegant. Seine edlen Lederschuhe sehen eher wie Hausschuhe aus, aber sie sind trotzdem schlammverkrustet.
 
 Er zerrt an einer Haarlocke, die um seinen seidenbehandschuhten Finger gewickelt ist. Über seine noblen Züge hat sich der Schatten der Angst gelegt.</DefaultText>
       <FemaleText />
@@ -311,7 +311,7 @@ Er bemerkt dich und zeigt ein zuckendes Grinsen. "Es ist an der Zeit, dass Aelys
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>Er nickt langsam. "Solltest du ihn Zukunft eine Gefälligkeit benötigen - wir Haronds sind einfach zu finden. Unser Haus gibt es schon seit Hunderten von Jahren, und es wird noch tausend mehr bestehen."</DefaultText>
+      <DefaultText>Er nickt langsam. "Solltest du ihn Zukunft eine Gefälligkeit benötigen – wir Haronds sind einfach zu finden. Unser Haus gibt es schon seit Hunderten von Jahren, und es wird noch tausend mehr bestehen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -323,7 +323,7 @@ Er bemerkt dich und zeigt ein zuckendes Grinsen. "Es ist an der Zeit, dass Aelys
       <ID>224</ID>
       <DefaultText>Er hustet und schaut von einer Seite zur anderen. Der Wächter neben ihm blickt zur Seite.
 
-"Nichts ist mir wichtiger als die Sicherheit meiner Aelys - meines Kindes. Hier, nimm das und vergnüge dich damit, wenn das an einem Ort wie diesem überhaupt möglich ist. Er rümpft seine Nase."</DefaultText>
+"Nichts ist mir wichtiger als die Sicherheit meiner Aelys – meines Kindes. Hier, nimm das und vergnüge dich damit, wenn das an einem Ort wie diesem überhaupt möglich ist. Er rümpft seine Nase."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -363,7 +363,7 @@ Er bemerkt dich und zeigt ein zuckendes Grinsen. "Es ist an der Zeit, dass Aelys
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>Seine Körperhaltung versteift sich. "Ich weiß deine rüden Manieren oder deine üblen Andeutungen nicht zu schätzen - aber gut, nimm dies zur Beendigung unseres armseligen Geschäfts."
+      <DefaultText>Seine Körperhaltung versteift sich. "Ich weiß deine rüden Manieren oder deine üblen Andeutungen nicht zu schätzen – aber gut, nimm dies zur Beendigung unseres armseligen Geschäfts."
 
 Er dreht sich zu Aelys um. "Lass uns gehen, mein Liebling. Schnell."</DefaultText>
       <FemaleText />
@@ -445,7 +445,7 @@ Er dreht sich zu Aelys um. "Lass uns gehen, mein Liebling. Schnell."</DefaultTex
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>Harond hebt eine Hand, um den Mann zum Schweigen zu bringen. "Solltest du sie finden ..." Er knabbert am Daumen eines Seidenhandschuhs herum. "Sag ihr, dass ich nicht böse auf sie bin. Sie kann zurückkommen, und dann wird alles gut sein. Ich will nur sichergehen, dass Aelys - mein Kind - in Sicherheit ist. Nichts in der Welt bedeutet mir mehr."</DefaultText>
+      <DefaultText>Harond hebt eine Hand, um den Mann zum Schweigen zu bringen. "Solltest du sie finden ..." Er knabbert am Daumen eines Seidenhandschuhs herum. "Sag ihr, dass ich nicht böse auf sie bin. Sie kann zurückkommen, und dann wird alles gut sein. Ich will nur sichergehen, dass Aelys – mein Kind – in Sicherheit ist. Nichts in der Welt bedeutet mir mehr."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -470,7 +470,7 @@ Er dreht sich zu Aelys um. "Lass uns gehen, mein Liebling. Schnell."</DefaultTex
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>Sein Wächter beugen sich herein. "Mein Fürst, ich-"</DefaultText>
+      <DefaultText>Sein Wächter beugen sich herein. "Mein Fürst, ich –"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -499,38 +499,38 @@ Du bist dir auch sicher, dass niemand zu viele Fragen stellen wird, wenn sie ihn
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>Sein Wächter beugt sich zu ihm. "Mein Fürst, ein einfacher Sklave-"</DefaultText>
-      <FemaleText>Sein Wächter beugt sich zu ihm. "Mein Fürst, eine einfache Sklavin-"</FemaleText>
+      <DefaultText>Sein Wächter beugt sich zu ihm. "Mein Fürst, ein einfacher Sklave –"</DefaultText>
+      <FemaleText>Sein Wächter beugt sich zu ihm. "Mein Fürst, eine einfache Sklavin –"</FemaleText>
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>Sein Wächter beugt sich zu ihm. "Mein Fürst, ein Händler-"</DefaultText>
-      <FemaleText>Sein Wächter beugt sich zu ihm. "Mein Fürst, eine Händlerin-"</FemaleText>
+      <DefaultText>Sein Wächter beugt sich zu ihm. "Mein Fürst, ein Händler –"</DefaultText>
+      <FemaleText>Sein Wächter beugt sich zu ihm. "Mein Fürst, eine Händlerin –"</FemaleText>
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>Sein Wächter beugt sich zu ihm. "Mein Fürst, ein Söldner-"</DefaultText>
-      <FemaleText>Sein Wächter beugt sich zu ihm. "Mein Fürst, eine Söldnerin-"</FemaleText>
+      <DefaultText>Sein Wächter beugt sich zu ihm. "Mein Fürst, ein Söldner –"</DefaultText>
+      <FemaleText>Sein Wächter beugt sich zu ihm. "Mein Fürst, eine Söldnerin –"</FemaleText>
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>Sein Wächter beugt sich zu ihm. "Mein Fürst, ein Künstler-"</DefaultText>
-      <FemaleText>Sein Wächter beugt sich zu ihm. "Mein Fürst, eine Künstlerin -"</FemaleText>
+      <DefaultText>Sein Wächter beugt sich zu ihm. "Mein Fürst, ein Künstler –"</DefaultText>
+      <FemaleText>Sein Wächter beugt sich zu ihm. "Mein Fürst, eine Künstlerin –"</FemaleText>
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>Sein Wächter beugt sich zu ihm. "Mein Fürst, ein Mann der Bücher-"</DefaultText>
-      <FemaleText>Sein Wächter beugt sich zu ihm. "Mein Fürst, eine Frau der Bücher-"</FemaleText>
+      <DefaultText>Sein Wächter beugt sich zu ihm. "Mein Fürst, ein Mann der Bücher –"</DefaultText>
+      <FemaleText>Sein Wächter beugt sich zu ihm. "Mein Fürst, eine Frau der Bücher –"</FemaleText>
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>Sein Wächter beugt sich zu ihm. "Mein Fürst, ein einfacher Vagabund-"</DefaultText>
-      <FemaleText>Sein Wächter beugt sich zu ihm. "Mein Fürst, eine einfache Vagabundin-"</FemaleText>
+      <DefaultText>Sein Wächter beugt sich zu ihm. "Mein Fürst, ein einfacher Vagabund –"</DefaultText>
+      <FemaleText>Sein Wächter beugt sich zu ihm. "Mein Fürst, eine einfache Vagabundin –"</FemaleText>
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>Sein Wächter beugt sich zu ihm. "Mein Fürst, ein plündernder-"</DefaultText>
-      <FemaleText>Sein Wächter beugt sich zu ihm. "Mein Fürst, eine plündernde-"</FemaleText>
+      <DefaultText>Sein Wächter beugt sich zu ihm. "Mein Fürst, ein plündernder –"</DefaultText>
+      <FemaleText>Sein Wächter beugt sich zu ihm. "Mein Fürst, eine plündernde –"</FemaleText>
     </Entry>
     <Entry>
       <ID>266</ID>

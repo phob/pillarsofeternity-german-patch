@@ -230,7 +230,7 @@ Phantome können sich auch aus Gestandenen manifestieren, die ein besonders chao
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Oger sind große, dickhäutige Kreaturen mit einer ungefähren Körpergröße von 3-4 Metern. Sie sind sehr muskulös und tragen üblicherweise die Felle oder Häute ihrer Beute. Keulen, Äxte und Streitkolben aus Knochen oder Holz sind ihre bevorzugten Waffen.
+      <DefaultText>Oger sind große, dickhäutige Kreaturen mit einer ungefähren Körpergröße von 3–4 Metern. Sie sind sehr muskulös und tragen üblicherweise die Felle oder Häute ihrer Beute. Keulen, Äxte und Streitkolben aus Knochen oder Holz sind ihre bevorzugten Waffen.
 
 Oger sind ebenso intelligent (oder intelligenter) wie die "zivilisierten" Rassen, aber aufgrund ihrer überwältigenden Feindseligkeit, selbst gegenüber ihren Artgenossen, hält sich ihre Zahl gering. Trotz ihrer angeborenen Intelligenz hat sie ihr sprunghaftes Temperament schon immer daran gehindert, sich länger an einem Ort zu konzentrieren, um etwas von bedeutendem kulturellen Wert hervorzubringen. Die meisten leben halbnomadisch und abgeschieden in der Wildnis, wo sie mit geringerer Wahrscheinlichkeit auf andere Oger treffen. Eigentlich finden sie nur während der Paarungszeit halbwegs zuverlässig zueinander, was ihre Zahl meistens ebenso reduziert wie erhöht. Oger mit "friedlicheren" Charakterzügen bemühen sich besonders, jeglichen Kontakt zu vermeiden.
 
@@ -848,7 +848,7 @@ Einige Kreaturen können manchen Wirkungen gegenüber immun sein. In diesem Fall
       <ID>154</ID>
       <DefaultText>Alle Angriffe in Pillars of Eternity vergleichen den Genauigkeitswert des Angreifers mit einer von vier Verteidigungen des Ziels: Abwehr (direkte Nah- und Fernkampfangriffe), Tapferkeit (Angriffe gegen das Immunsystem wie Gift oder Krankheit), Reflexe (Wirkungsbereichangriffe) und Wille (mentale Angriffe).
 
-Es wird eine Zahl zwischen 1 und 100 generiert und zu der Differenz zwischen Genauigkeit und Verteidigung addiert, um das Ergebnis des Angriffs zu berechnen. Bis 15 = Fehlschläge, 16&#160;– 50 = Leichte Treffer, 51-100 = T&#x2060;reffer, ab 100 = Kritische Treffer.
+Es wird eine Zahl zwischen 1 und 100 generiert und zu der Differenz zwischen Genauigkeit und Verteidigung addiert, um das Ergebnis des Angriffs zu berechnen. Bis 15 = Fehlschläge, 16–50 = Leichte Treffer, 51–100 = T&#x2060;reffer, ab 100 = Kritische Treffer.
 
 In einem ausgeglichenen Angriff-/Verteidigung-Szenario werden die meisten Angriffe Treffer oder Leichte Treffer sein. Wenn die Genauigkeit über der Verteidigung liegt, ist die Wahrscheinlichkeit von Kritischen Treffern höher. Wenn die Verteidigung über der Genauigkeit liegt, ist die Wahrscheinlichkeit von Fehlschlägen höher.</DefaultText>
       <FemaleText />

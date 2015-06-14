@@ -79,7 +79,7 @@ Er schätzt dich über halbmondförmige Augengläser ab und kratzt sich am Kinn.
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Das ist eine ziemlich persönliche Frage ..."</DefaultText>
+      <DefaultText>"Das ist eine ziemlich persönliche Frage&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,7 +113,7 @@ Er schätzt dich über halbmondförmige Augengläser ab und kratzt sich am Kinn.
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Urgeat gafft dich an. "Du! Du bist derjenige, der Fürst Raedric auf Geheiß dieses schwachsinnigen Verräters ermordet hat.!" Er zieht die Nase hoch. "Sicherlich verstehst du, dass ich deine Anfrage bezüglich Haus und Land jetzt nicht mehr bearbeiten kann ..."</DefaultText>
+      <DefaultText>Urgeat gafft dich an. "Du! Du bist derjenige, der Fürst Raedric auf Geheiß dieses schwachsinnigen Verräters ermordet hat.!" Er zieht die Nase hoch. "Sicherlich verstehst du, dass ich deine Anfrage bezüglich Haus und Land jetzt nicht mehr bearbeiten kann&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -123,7 +123,7 @@ Er schätzt dich über halbmondförmige Augengläser ab und kratzt sich am Kinn.
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Er kneift seine Augen zusammen. "Bist du dir ... wirklich sicher?"
+      <DefaultText>Er kneift seine Augen zusammen. "Bist du dir&#160;… wirklich sicher?"
 
 "Fürst Raedric hat die Tilgung dieser Geißel aus unserem Dorf nämlich zur obersten Priorität gemacht."</DefaultText>
       <FemaleText />
@@ -150,7 +150,7 @@ Er schätzt dich über halbmondförmige Augengläser ab und kratzt sich am Kinn.
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Du sagtest vorher etwas von 'Hohlgeburten' und 'Waidwens Vermächtnis' ..."</DefaultText>
+      <DefaultText>"Du sagtest vorher etwas von 'Hohlgeburten' und 'Waidwens Vermächtnis'&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -218,7 +218,7 @@ Er hebt seine leeren Händen. "In Wirklichkeit weiß es niemand sicher. Da sie a
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Dieser Baum dort drüben ..."</DefaultText>
+      <DefaultText>"Dieser Baum dort drüben&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -230,7 +230,7 @@ Er hebt seine leeren Händen. "In Wirklichkeit weiß es niemand sicher. Da sie a
       <ID>48</ID>
       <DefaultText>"Waidwens Vermächtnis natürlich. In letzter Zeit hatten viele Frauen Schwierigkeiten, gesunde Kinder zu gebären. Vor einiger Zeit hat Fürst Raedric per Dekret erlassen, dass sich in Goldtal keine Mütter von Hohlgeburten aufhalten dürfen." Sein Mund zieht sich zu einem straffen Strich zusammen. "Seine Herrschaft hat mit seinen Gegnern kurzen Prozess gemacht."
 
-"Es mag ja hart sein, aber wenn wir dadurch von diesem Fluch befreit werden ... ist es das dann nicht wert?"</DefaultText>
+"Es mag ja hart sein, aber wenn wir dadurch von diesem Fluch befreit werden&#160;… ist es das dann nicht wert?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -312,7 +312,7 @@ Er deutet auf den Körper einer Zwergenfrau. "Die Letzte war einer Beseelerin au
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Der Magistrat wirft die Stirn in Falten. "Was auch immer dein ... Problem ist, es klingt nach einer Angelegenheit für einen Beseeler. Die einzige Vertreterin dieser Zunft in Goldtal ist aber nicht mehr in der Lage, zu sprechen." Er deutet auf eine vom Baum hängende Leiche.
+      <DefaultText>Der Magistrat wirft die Stirn in Falten. "Was auch immer dein&#160;… Problem ist, es klingt nach einer Angelegenheit für einen Beseeler. Die einzige Vertreterin dieser Zunft in Goldtal ist aber nicht mehr in der Lage, zu sprechen." Er deutet auf eine vom Baum hängende Leiche.
 
 Er lächelt höhnisch. "Du solltest dich glücklich schätzen. Nachdem sie Fürst Raedric enttäuscht hatte, sorgten wir dafür, dass sie nicht vom fälschlich in sie gesetzten Vertrauen anderer profitieren würde. Eine falsche Heilung ist schlimmer als gar keine."</DefaultText>
       <FemaleText />
@@ -321,7 +321,7 @@ Er lächelt höhnisch. "Du solltest dich glücklich schätzen. Nachdem sie Fürs
       <ID>65</ID>
       <DefaultText>"Aber falls du erpicht darauf bist, eine Flasche Trollpisse oder ein Steinchen toten Adra zu finden, um dir damit die Stirn einzureiben, so kannst du gerne ihre Taschen durchsuchen. Wenn man nach Scheiße gräbt, ist ein bisschen Leichengestank unerheblich."
 
-"Ich an deiner Stelle würde mich aber freuen, dass mir die Flucht gelungen ist ... und es dabei zu belassen."</DefaultText>
+"Ich an deiner Stelle würde mich aber freuen, dass mir die Flucht gelungen ist&#160;… und es dabei zu belassen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,12 +346,12 @@ Er lächelt höhnisch. "Du solltest dich glücklich schätzen. Nachdem sie Fürs
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Eine grausame und feige Tat ... wenn sie sich denn tatsächlich ereignet hat. Welche Beweise kannst du vorbringen?"</DefaultText>
+      <DefaultText>"Eine grausame und feige Tat&#160;… wenn sie sich denn tatsächlich ereignet hat. Welche Beweise kannst du vorbringen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Eine ... Vision?" Urgeat seufzt. "Hierzulande nehmen wir solche Anschuldigungen nicht auf die leichte Schulter. Wenn du dich das nächstes Mal geneigt fühlst, mit solchen Dingen zu scherzen, würde ich dir empfehlen, vorher erst über die damit verbundenen Risiken nachzudenken." Er wirft einen demonstrativen Blick auf den Baum.</DefaultText>
+      <DefaultText>"Eine&#160;… Vision?" Urgeat seufzt. "Hierzulande nehmen wir solche Anschuldigungen nicht auf die leichte Schulter. Wenn du dich das nächstes Mal geneigt fühlst, mit solchen Dingen zu scherzen, würde ich dir empfehlen, vorher erst über die damit verbundenen Risiken nachzudenken." Er wirft einen demonstrativen Blick auf den Baum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -430,12 +430,12 @@ Eine merkwürdige Zuckung zieht sich über sein Gesicht, und seine Mundwinkel ve
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Zu diesem Zeitpunkt weiß ich gar nichts sicher. Du solltest dich etwas ausruhen&#160;– in der Schänke ... oder meinetwegen auch in einem Stall. Komm danach wieder zu mir. Ich werde schon früh genug mehr wissen."</DefaultText>
+      <DefaultText>"Zu diesem Zeitpunkt weiß ich gar nichts sicher. Du solltest dich etwas ausruhen&#160;– in der Schänke&#160;… oder meinetwegen auch in einem Stall. Komm danach wieder zu mir. Ich werde schon früh genug mehr wissen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Mir wurde bestätigt, dass Fürst Raedrics Erbe nicht ... gesund geboren wurde."
+      <DefaultText>"Mir wurde bestätigt, dass Fürst Raedrics Erbe nicht&#160;… gesund geboren wurde."
 
 "Mein Fürst hat einen Unterlassungsbefehl auf alle neuen Heimstätten erteilt, bis er sicher sein kann, dass das Dorf von Eothasiern und allen sonstigen Unerwünschten gesäubert wurde, die diesen Fluch über seine Lande gebracht haben."</DefaultText>
       <FemaleText />
@@ -493,12 +493,12 @@ Eine merkwürdige Zuckung zieht sich über sein Gesicht, und seine Mundwinkel ve
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Ich könnte mir das Angebot deines Fürsten nochmal durch den Kopf gehen lassen ..."</DefaultText>
+      <DefaultText>"Ich könnte mir das Angebot deines Fürsten nochmal durch den Kopf gehen lassen&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Unsinn. Goldtal ist ein perfektes Dorf für jene, denen die Dekrete des Fürsten etwas bedeuten. Außerdem ..." Er mustert dich von oben bis unten. "Heutzutage wirst du im Dyrwald nirgendwo ein besseres Angebot finden. Und du siehst definitiv so aus, als würde dir ein Neuanfang gut tun."
+      <DefaultText>"Unsinn. Goldtal ist ein perfektes Dorf für jene, denen die Dekrete des Fürsten etwas bedeuten. Außerdem&#160;…" Er mustert dich von oben bis unten. "Heutzutage wirst du im Dyrwald nirgendwo ein besseres Angebot finden. Und du siehst definitiv so aus, als würde dir ein Neuanfang gut tun."
 
 Während er sich im Dorf umsieht, ist sein Gesicht wie eine Maske nüchterner Zufriedenheit.</DefaultText>
       <FemaleText />

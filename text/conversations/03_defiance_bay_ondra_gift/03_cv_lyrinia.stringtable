@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Wenn du das tust, kannst du mich jederzeit in meiner Festung besuchen ..."</DefaultText>
+      <DefaultText>"Wenn du das tust, kannst du mich jederzeit in meiner Festung besuchen&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Von mir aus gerne ..."</DefaultText>
+      <DefaultText>"Von mir aus gerne&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

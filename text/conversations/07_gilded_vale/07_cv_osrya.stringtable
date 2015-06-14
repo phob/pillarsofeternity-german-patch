@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Wenn sich Fürst Raedric schnellere Fortschritte wünscht, dann sollte er mir vielleicht die Materialien gewähren, die ich brauche. Glaubt er denn, nur er würde hier ungeduldig werden? Er 'schenkte' mir dieses ... jämmerliche kleine 'Labor', und jetzt erwartet er Wunder.", sagt sie, in den Raum gestikulierend.</DefaultText>
+      <DefaultText>"Wenn sich Fürst Raedric schnellere Fortschritte wünscht, dann sollte er mir vielleicht die Materialien gewähren, die ich brauche. Glaubt er denn, nur er würde hier ungeduldig werden? Er 'schenkte' mir dieses&#160;… jämmerliche kleine 'Labor', und jetzt erwartet er Wunder.", sagt sie, in den Raum gestikulierend.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,8 +121,8 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Du ..." Osryas Gesicht wird dunkel vor Wut. "Dieser wichtigtuerische alte Narr. Er wagt es, einen Botenjungen hier herunter in mein Labor zu schicken? Für was? Um seinen kleinen Schützling zu retten?"</DefaultText>
-      <FemaleText>"Du ..." Osryas Gesicht wird dunkel vor Wut. "Dieser wichtigtuerische alte Narr. Er wagt es, ein Botenmädchen hier herunter in mein Labor zu schicken? Für was? Um seinen kleinen Schützling zu retten?"</FemaleText>
+      <DefaultText>"Du&#160;…" Osryas Gesicht wird dunkel vor Wut. "Dieser wichtigtuerische alte Narr. Er wagt es, einen Botenjungen hier herunter in mein Labor zu schicken? Für was? Um seinen kleinen Schützling zu retten?"</DefaultText>
+      <FemaleText>"Du&#160;…" Osryas Gesicht wird dunkel vor Wut. "Dieser wichtigtuerische alte Narr. Er wagt es, ein Botenmädchen hier herunter in mein Labor zu schicken? Für was? Um seinen kleinen Schützling zu retten?"</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Osryas Gesichtsausdruck wird kalt. "Es ist dieser närrische alte Priester, Nedmar, der Berathianer." Sie grinst spöttisch. "Dieser alte Mann hat ein hübsches kleines Netz aus Lügen und Legenden gewoben. Da Fürst Raedric ein frommer Mann ist, hat ihn Nedmar fest in der Hand&#160;– besonders jetzt, nach dieser Sache mit Ygrid ... als ob dieses Hohlgeborene meine Schuld gewesen wäre ... Wie auch immer, meine Bemühungen werden immer mehr von Ignoranz behindert."</DefaultText>
+      <DefaultText>Osryas Gesichtsausdruck wird kalt. "Es ist dieser närrische alte Priester, Nedmar, der Berathianer." Sie grinst spöttisch. "Dieser alte Mann hat ein hübsches kleines Netz aus Lügen und Legenden gewoben. Da Fürst Raedric ein frommer Mann ist, hat ihn Nedmar fest in der Hand&#160;– besonders jetzt, nach dieser Sache mit Ygrid&#160;… als ob dieses Hohlgeborene meine Schuld gewesen wäre&#160;… Wie auch immer, meine Bemühungen werden immer mehr von Ignoranz behindert."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Jetzt aber ist es an der Zeit, meinen Teil der Abmachung zu erfüllen. In der Zeit vor Lady Ygrids ... verfrühten Todes ließ sie Raedric von meiner Vorgängerin rund um die Uhr betreuen. Es gibt einen Geheimgang in diese Gemächer, und ich könnte ihn für dich öffnen&#160;– falls du mir versicherst, dass Fürst Raedric nicht zu Schaden kommen wird."</DefaultText>
+      <DefaultText>"Jetzt aber ist es an der Zeit, meinen Teil der Abmachung zu erfüllen. In der Zeit vor Lady Ygrids&#160;… verfrühten Todes ließ sie Raedric von meiner Vorgängerin rund um die Uhr betreuen. Es gibt einen Geheimgang in diese Gemächer, und ich könnte ihn für dich öffnen&#160;– falls du mir versicherst, dass Fürst Raedric nicht zu Schaden kommen wird."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,7 +306,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Osrya schnaubt. "Ich habe viel zu viel überlebt, um hier durch deine Hände zu Tode zu kommen. Wenn du aber unbedingt sterben möchtest, bevor du überhaupt die Chance hast, Fürst Raedric gegenüberzutreten ... wer bin ich denn, dir diesen Wunsch zu verwehren?"</DefaultText>
+      <DefaultText>Osrya schnaubt. "Ich habe viel zu viel überlebt, um hier durch deine Hände zu Tode zu kommen. Wenn du aber unbedingt sterben möchtest, bevor du überhaupt die Chance hast, Fürst Raedric gegenüberzutreten&#160;… wer bin ich denn, dir diesen Wunsch zu verwehren?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -326,7 +326,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"All dieser frische Nachschub. Oh, diese Verschwendung ..."</DefaultText>
+      <DefaultText>"All dieser frische Nachschub. Oh, diese Verschwendung&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,7 +351,7 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Ohne Thayn waren wir in einer ziemlich misslichen Situation. Ich muss gestehen, dass ich bestimmte ... unwahrscheinliche Möglichkeiten in Betracht gezogen habe. Ich dachte, wir müssten eine lange Zeit warten, bis ein neuer Fürst oder eine neue Lady den Titel bekleiden würde. Anscheinend war Fürst Raedric entschieden gegen diese Vorstellung eingestellt."</DefaultText>
+      <DefaultText>"Ohne Thayn waren wir in einer ziemlich misslichen Situation. Ich muss gestehen, dass ich bestimmte&#160;… unwahrscheinliche Möglichkeiten in Betracht gezogen habe. Ich dachte, wir müssten eine lange Zeit warten, bis ein neuer Fürst oder eine neue Lady den Titel bekleiden würde. Anscheinend war Fürst Raedric entschieden gegen diese Vorstellung eingestellt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,7 +411,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Nun ja, da du diesbezüglich so furchtbar effizient gewesen bist, muss ich dich wohl wirklich belohnen. Hier: In der Zeit vor Lady Ygrids ... verfrühten Todes ließ sie Raedric von meiner Vorgängerin rund um die Uhr betreuen. Es gibt einen Geheimgang in diese Gemächer, und ich könnte ihn für dich öffnen&#160;– falls du mir versicherst, dass Fürst Raedric nicht zu Schaden kommen wird."</DefaultText>
+      <DefaultText>"Nun ja, da du diesbezüglich so furchtbar effizient gewesen bist, muss ich dich wohl wirklich belohnen. Hier: In der Zeit vor Lady Ygrids&#160;… verfrühten Todes ließ sie Raedric von meiner Vorgängerin rund um die Uhr betreuen. Es gibt einen Geheimgang in diese Gemächer, und ich könnte ihn für dich öffnen&#160;– falls du mir versicherst, dass Fürst Raedric nicht zu Schaden kommen wird."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -436,7 +436,7 @@
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Dieser Priester mag ja abergläubisch und unvernünftig sein, ihn aber umzubringen erscheint mir etwas ... zu übertrieben."</DefaultText>
+      <DefaultText>"Dieser Priester mag ja abergläubisch und unvernünftig sein, ihn aber umzubringen erscheint mir etwas&#160;… zu übertrieben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

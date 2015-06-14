@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Momentan ist der Kerker leer, aber ... das werden Sie sicherlich schon bald ändern!"</DefaultText>
+      <DefaultText>"Momentan ist der Kerker leer, aber&#160;… das werden Sie sicherlich schon bald ändern!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Mein Fürst, diese ... Kreatur, Kestorik, die Ihnen ins Netz gegangen ist ... sie hat mir einige Probleme bereitet. Wie soll ich in dieser Angelegenheit verfahren?"</DefaultText>
+      <DefaultText>"Mein Fürst, diese&#160;… Kreatur, Kestorik, die Ihnen ins Netz gegangen ist&#160;… sie hat mir einige Probleme bereitet. Wie soll ich in dieser Angelegenheit verfahren?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,8 +121,8 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Sehr wohl, mein Fürst ... Wie ... äh, hart soll die Bestrafung dafür ausfallen?"</DefaultText>
-      <FemaleText>"Sehr wohl, meine Fürstin ... Wie ... äh, hart soll die Bestrafung dafür ausfallen?"</FemaleText>
+      <DefaultText>"Sehr wohl, mein Fürst&#160;… Wie&#160;… äh, hart soll die Bestrafung dafür ausfallen?"</DefaultText>
+      <FemaleText>"Sehr wohl, meine Fürstin&#160;… Wie&#160;… äh, hart soll die Bestrafung dafür ausfallen?"</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
@@ -211,7 +211,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Nun, wenn Sie sicher sind ... Stückchen abschneiden hat mir noch nie gefallen ..."</DefaultText>
+      <DefaultText>"Nun, wenn Sie sicher sind&#160;… Stückchen abschneiden hat mir noch nie gefallen&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,8 +231,8 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Wenn ... wenn Sie sicher sind, mein Fürst."</DefaultText>
-      <FemaleText>"Wenn ... wenn Sie sicher sind, meine Fürstin."</FemaleText>
+      <DefaultText>"Wenn&#160;… wenn Sie sicher sind, mein Fürst."</DefaultText>
+      <FemaleText>"Wenn&#160;… wenn Sie sicher sind, meine Fürstin."</FemaleText>
     </Entry>
     <Entry>
       <ID>49</ID>

@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Dieser Schandfleck wird auf unseren Seelen bleiben ..."</DefaultText>
+      <DefaultText>"Dieser Schandfleck wird auf unseren Seelen bleiben&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"... bis zur letzten Umdrehung des Rads ..."</DefaultText>
+      <DefaultText>"…&#160;bis zur letzten Umdrehung des Rads&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -29,14 +29,14 @@ Der vailianische Kaufmann tobt vor Zorn. Er läuft in kleinen Kreisen auf und ab
       <ID>4</ID>
       <DefaultText>Rinatto lächelt, als du dich näherst, seine Arme ausgestreckt, um dich zu begrüßen. "Mein Freund, du bist zurückgekehrt!"
 
-Er klatscht in die Hände und reibt sie eifrig. "Also ... willst du meine besondere Auswahl sehen?"</DefaultText>
+Er klatscht in die Hände und reibt sie eifrig. "Also&#160;… willst du meine besondere Auswahl sehen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>"Du schon wieder", spuckt Rinatto aus, als du dich näherst. "DEINETWEGEN wurde ich aus Zwillingsulmen geworfen! Jetzt begleichen wir die Rechnung."
 
-Rinatto steckt dich die Finger in den Mund und pfeift einen hohen Ton. Bewaffnete Männer erscheinen um ihn herum. "Ich habe einige Freunde angeheuert, um sicherzugehen, dass ich mich bei dir revanchieren kann ... angemessen."</DefaultText>
+Rinatto steckt dich die Finger in den Mund und pfeift einen hohen Ton. Bewaffnete Männer erscheinen um ihn herum. "Ich habe einige Freunde angeheuert, um sicherzugehen, dass ich mich bei dir revanchieren kann&#160;… angemessen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@ Er verschränkt die Arme und streckt die Brust heraus. "Und warum bitte sollten 
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Es wird dir schwerfallen, deinen Teil der Geschichte zu erzählen ... ohne Zähne und mit halb herausgerissener Zunge."</DefaultText>
+      <DefaultText>"Es wird dir schwerfallen, deinen Teil der Geschichte zu erzählen&#160;… ohne Zähne und mit halb herausgerissener Zunge."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -115,12 +115,12 @@ Er verschränkt die Arme und streckt die Brust heraus. "Und warum bitte sollten 
 
 Rinatto gestikuliert bei jedem Wort, seine Stimme wird immer lauter, Spucke fliegt aus seinem Mund. "Für diese Beleidigung wird sie bezahlen, sie und ihre bemalten Schergen!"
 
-Er streckt die Hand aus, um dir den Käfig wegzuschlagen ...</DefaultText>
+Er streckt die Hand aus, um dir den Käfig wegzuschlagen&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Das werden wir ja sehen ..."</DefaultText>
+      <DefaultText>"Das werden wir ja sehen&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,16 +144,16 @@ Er wedelt mit der Hand in deine Richtung, um dich wegzuscheuchen. "Verschwinde, 
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Ganz genau, sie werden nicht&#160;–" Rinatto vollendet seinen Satz nicht. Jede Farbe verschwindet aus seinem Gesicht. "Du ... hältst Rat mit den Anamfatha?"
+      <DefaultText>"Ganz genau, sie werden nicht&#160;–" Rinatto vollendet seinen Satz nicht. Jede Farbe verschwindet aus seinem Gesicht. "Du&#160;… hältst Rat mit den Anamfatha?"
 
-"Wenn du mich bitte entschuldigst, ich habe ... äh ... anderswo etwas zu erledigen ..." Vor Angst zitternd sucht Rinatto unter deinem Blick eilig seine Sachen zusammen. Nachdem er gepackt hat, stolpert er wortlos davon.</DefaultText>
+"Wenn du mich bitte entschuldigst, ich habe&#160;… äh&#160;… anderswo etwas zu erledigen&#160;…" Vor Angst zitternd sucht Rinatto unter deinem Blick eilig seine Sachen zusammen. Nachdem er gepackt hat, stolpert er wortlos davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ich ... verstehe dein Argument." Rinattos Gesicht wird weiß wie Schnee. Er senkt den Kopf, nicht in der Lage, dir in die Augen zu sehen.
+      <DefaultText>"Ich&#160;… verstehe dein Argument." Rinattos Gesicht wird weiß wie Schnee. Er senkt den Kopf, nicht in der Lage, dir in die Augen zu sehen.
 
-"Wenn du mich bitte entschuldigst, ich habe ... äh ... anderswo etwas zu erledigen ..." Vor Angst zitternd sucht Rinatto unter deinem Blick eilig seine Sachen zusammen. Nachdem er gepackt hat, stolpert er wortlos davon.</DefaultText>
+"Wenn du mich bitte entschuldigst, ich habe&#160;… äh&#160;… anderswo etwas zu erledigen&#160;…" Vor Angst zitternd sucht Rinatto unter deinem Blick eilig seine Sachen zusammen. Nachdem er gepackt hat, stolpert er wortlos davon.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -173,7 +173,7 @@ Er wedelt mit der Hand in deine Richtung, um dich wegzuscheuchen. "Verschwinde, 
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Tu das lieber nicht ..."</DefaultText>
+      <DefaultText>"Tu das lieber nicht&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -214,7 +214,7 @@ Er wirft eine Handvoll getrocknete Pflanzen zu Boden und tritt auf die brüchige
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Du hast die Arznei an dir selbst ausprobiert ..."</DefaultText>
+      <DefaultText>"Du hast die Arznei an dir selbst ausprobiert&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -224,14 +224,14 @@ Er wirft eine Handvoll getrocknete Pflanzen zu Boden und tritt auf die brüchige
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Nun, ich ..." Rinatto tritt verlegen auf der Stelle, seine Hände glätten die Falten in seinem Wams. "Wie kann ich eine Arznei verkaufen, die ich nicht probiert habe? Natürlich habe ich das Kraut probiert&#160;– man stelle sich vor, was geschehen wäre, wenn ich diese schlechte Imitiation verkauft hätte!"
+      <DefaultText>"Nun, ich&#160;…" Rinatto tritt verlegen auf der Stelle, seine Hände glätten die Falten in seinem Wams. "Wie kann ich eine Arznei verkaufen, die ich nicht probiert habe? Natürlich habe ich das Kraut probiert&#160;– man stelle sich vor, was geschehen wäre, wenn ich diese schlechte Imitiation verkauft hätte!"
 
 Rinatto räuspert sich, seine Stimme wird leise. "Das Kraut hatte NICHT die gewünschte Wirkung. Hart wurde dadurch nur eins&#160;– mein Stuhlgang."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Nichts Wesentliches ..." murmelt er schnell. "Sie hat sich natürlich verteidigt&#160;– hat behauptet, die Kräuter wären echt. Warum sollte sie auch nicht lügen? Niemand wird meinem Wort gegen das ihre glauben."
+      <DefaultText>"Nichts Wesentliches&#160;…" murmelt er schnell. "Sie hat sich natürlich verteidigt&#160;– hat behauptet, die Kräuter wären echt. Warum sollte sie auch nicht lügen? Niemand wird meinem Wort gegen das ihre glauben."
 
 Er spuckt auf den Boden. "Alarhî kann ungestraft lügen, wenn sie von ihrer Bande von wilden Schlägern umgeben ist."</DefaultText>
       <FemaleText />
@@ -245,14 +245,14 @@ Er spuckt auf den Boden. "Alarhî kann ungestraft lügen, wenn sie von ihrer Ban
       <ID>45</ID>
       <DefaultText>Rinattos Zorn lässt kurz nach und sein Gesicht verzieht sich zu einem nervösen Lächeln. "Elardh Golah ist eine Pflanze, die in den Dschungeln von Eir Glanfath wächst."
 
-Er räuspert sich und spricht leiser. "Wird sie getrocknet und gegessen oder als Tee getrunken, so kann sie ... äh ... so kann sie den Antrieb für die angenehmeren Freuden des Lebens stärken."</DefaultText>
+Er räuspert sich und spricht leiser. "Wird sie getrocknet und gegessen oder als Tee getrunken, so kann sie&#160;… äh&#160;… so kann sie den Antrieb für die angenehmeren Freuden des Lebens stärken."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>Er seufzt und reibt sich die Schläfen. "Ich kann dieses wertlose Kraut nicht verkaufen, um mein Geld zurückzugewinnen. Und ich kann nichts gegen Alarhî tun."
 
-"Vielleicht aber ..." Er blickt dich prüfend an. "Wenn du vermitteln könntest, hättest du vielleicht Erfolg, wo ich gescheitert bin. Ich würde dich natürlich großzügig für deine Mühen belohnen."</DefaultText>
+"Vielleicht aber&#160;…" Er blickt dich prüfend an. "Wenn du vermitteln könntest, hättest du vielleicht Erfolg, wo ich gescheitert bin. Ich würde dich natürlich großzügig für deine Mühen belohnen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

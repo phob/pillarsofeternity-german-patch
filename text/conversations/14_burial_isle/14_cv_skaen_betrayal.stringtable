@@ -18,8 +18,8 @@ Du siehst jemanden die Straße entlang wandern, doch die Gestalt hat dir den Rü
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Seine schwarzen Augen funkeln. "Du weißt, was stummes Dienen bedeutet, Wächter. Vor den Göttern, deren Hilfe man benötigt, unterwürfig auf dem Bauche rutschen und einfältig lächeln ... bis sie einen endlich in eine Machtposition heben und man sich greifen kann, was man begehrt."</DefaultText>
-      <FemaleText>Seine schwarzen Augen funkeln. "Du weißt, was stummes Dienen bedeutet, Wächterin. Vor den Göttern, deren Hilfe man benötigt, unterwürfig auf dem Bauche rutschen und einfältig lächeln ... bis sie einen endlich in eine Machtposition heben und man sich greifen kann, was man begehrt."</FemaleText>
+      <DefaultText>Seine schwarzen Augen funkeln. "Du weißt, was stummes Dienen bedeutet, Wächter. Vor den Göttern, deren Hilfe man benötigt, unterwürfig auf dem Bauche rutschen und einfältig lächeln&#160;… bis sie einen endlich in eine Machtposition heben und man sich greifen kann, was man begehrt."</DefaultText>
+      <FemaleText>Seine schwarzen Augen funkeln. "Du weißt, was stummes Dienen bedeutet, Wächterin. Vor den Göttern, deren Hilfe man benötigt, unterwürfig auf dem Bauche rutschen und einfältig lächeln&#160;… bis sie einen endlich in eine Machtposition heben und man sich greifen kann, was man begehrt."</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -50,7 +50,7 @@ Du siehst jemanden die Straße entlang wandern, doch die Gestalt hat dir den Rü
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Skaens Stimme wird zu einem hungrigen Wispern. "Beende das Werk, das Thaos begonnen hat. Stärke Woedica mit diesen Seelen und erlaube ihr, zum mächtigsten aller Götter zu werden ... mit dir als ihrem Günstling."</DefaultText>
+      <DefaultText>Skaens Stimme wird zu einem hungrigen Wispern. "Beende das Werk, das Thaos begonnen hat. Stärke Woedica mit diesen Seelen und erlaube ihr, zum mächtigsten aller Götter zu werden&#160;… mit dir als ihrem Günstling."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -79,7 +79,7 @@ Du siehst jemanden die Straße entlang wandern, doch die Gestalt hat dir den Rü
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Den Empfänger von Woedicas Segen. Sie hatte immer einen Platz für Sterbliche von besonderem Nutzen. Wenn du ihr jetzt hilfst, wird sie zum mächtigsten aller Götter ... und du machst sie dazu. Denk nur an die vielen Leben voller Belohnungen, die dir zuteil werden würden."</DefaultText>
+      <DefaultText>"Den Empfänger von Woedicas Segen. Sie hatte immer einen Platz für Sterbliche von besonderem Nutzen. Wenn du ihr jetzt hilfst, wird sie zum mächtigsten aller Götter&#160;… und du machst sie dazu. Denk nur an die vielen Leben voller Belohnungen, die dir zuteil werden würden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -138,7 +138,7 @@ Die Gestalt am anderen Ende der Straße bleibt stehen. Sie dreht ihren Kopf gera
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Er lacht. "Das sagst du jetzt. Aber wenn du vor der Maschine stehst und an die vielen Leben denkst, die dich erwarten, an die viele Macht ... dann werden wir ja sehen, was du tust." Er geht weiter die Straße entlang. Die Sonne sinkt plötzlich unter den Horizont und taucht dich vorübergehend in völlige Dunkelheit. Als du wieder zu Sinnen kommst, stehst du vor der Maschine.</DefaultText>
+      <DefaultText>Er lacht. "Das sagst du jetzt. Aber wenn du vor der Maschine stehst und an die vielen Leben denkst, die dich erwarten, an die viele Macht&#160;… dann werden wir ja sehen, was du tust." Er geht weiter die Straße entlang. Die Sonne sinkt plötzlich unter den Horizont und taucht dich vorübergehend in völlige Dunkelheit. Als du wieder zu Sinnen kommst, stehst du vor der Maschine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -168,7 +168,7 @@ Die Gestalt am anderen Ende der Straße bleibt stehen. Sie dreht ihren Kopf gera
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Mir gefällt seine Art nicht, [Player Name], aber ... ich kenne die Macht einer guten Geschichte. Des Glaubens an etwas Größeres. Das Volk von Engwith hat bereitwillig seine Seelen aufgegeben, um das zu beweisen. Vielleicht sollten wir auf ihn hören."</DefaultText>
+      <DefaultText>"Mir gefällt seine Art nicht, [Player Name], aber&#160;… ich kenne die Macht einer guten Geschichte. Des Glaubens an etwas Größeres. Das Volk von Engwith hat bereitwillig seine Seelen aufgegeben, um das zu beweisen. Vielleicht sollten wir auf ihn hören."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -178,7 +178,7 @@ Die Gestalt am anderen Ende der Straße bleibt stehen. Sie dreht ihren Kopf gera
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Das Gesicht der Trauernden Mutter ist so hart und still wie Stein. "Du kannst nicht wirklich vorhaben, über einen Pakt mit einer solchen Kreatur auch nur nachzudenken ... Unschuldige an ihren Hunger zu verfüttern, ihre Macht zu mehren ..."</DefaultText>
+      <DefaultText>Das Gesicht der Trauernden Mutter ist so hart und still wie Stein. "Du kannst nicht wirklich vorhaben, über einen Pakt mit einer solchen Kreatur auch nur nachzudenken&#160;… Unschuldige an ihren Hunger zu verfüttern, ihre Macht zu mehren&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -195,7 +195,7 @@ Er geht weiter die Straße entlang, und als die Sonne hinter dem Horizont versin
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"All das Böse, das wir gesehen haben, vom Krieg des Heiligen bis heute ... das war alles Woedica. Man stelle sich vor, sie würde dadurch noch stärker werden."</DefaultText>
+      <DefaultText>"All das Böse, das wir gesehen haben, vom Krieg des Heiligen bis heute&#160;… das war alles Woedica. Man stelle sich vor, sie würde dadurch noch stärker werden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@ Er geht weiter die Straße entlang, und als die Sonne hinter dem Horizont versin
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Das Gesicht der Trauernden Mutter ist so hart und still wie Stein. "Du kannst nicht wirklich vorhaben, über einen Pakt mit einer solchen Kreatur auch nur nachzudenken ... Unschuldige an ihren Hunger zu verfüttern, ihre Macht zu mehren ..."</DefaultText>
+      <DefaultText>Das Gesicht der Trauernden Mutter ist so hart und still wie Stein. "Du kannst nicht wirklich vorhaben, über einen Pakt mit einer solchen Kreatur auch nur nachzudenken&#160;… Unschuldige an ihren Hunger zu verfüttern, ihre Macht zu mehren&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -235,7 +235,7 @@ Er geht weiter die Straße entlang, und als die Sonne hinter dem Horizont versin
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Hiravias räuspert sich und sagt leise: "Fünf Kupferstücke, dass er nur seine eigenen Ziele verfolgt ... weiß Wael, WAS diese Ziele sind ..."
+      <DefaultText>Hiravias räuspert sich und sagt leise: "Fünf Kupferstücke, dass er nur seine eigenen Ziele verfolgt&#160;… weiß Wael, WAS diese Ziele sind&#160;…"
 
 Hiravias grinst, beugt sich zu dir und flüstert: "An deiner Stelle würde ich ihm sagen, die Götter hätten uns ein Dutzend Jungfrauen versprochen&#160;– mal sehen, ob er mitzieht, dann kann das Feilschen beginnen."</DefaultText>
       <FemaleText />
@@ -273,7 +273,7 @@ Ein schrilles Gackern ertönt. Du blickst dich um.</DefaultText>
       <ID>52</ID>
       <DefaultText>Seine schwarzen Augen funkeln. "Du hast dich einst fettgefressen, während andere die Währung ihres Lebens in deinen Diensten ausgaben. Ich würde nur zu gerne deinen Rücken mit der Peitsche geißeln und für jeden Tropfen Blut, den du vergossen hast, für jede Narbe, die du in unschuldiges Fleisch gebrannt hast, den Zins einfordern."
 
-Er verneigt sich stockend und übertrieben vor dir, zornig zu dir aufblickend, selbst während seine Knie zittern und wanken. "Aber meine Herrin möchte an deinen Sinn für ... Perspektive appellieren. Denn du weißt, dass alle Dinge ihren Platz haben."</DefaultText>
+Er verneigt sich stockend und übertrieben vor dir, zornig zu dir aufblickend, selbst während seine Knie zittern und wanken. "Aber meine Herrin möchte an deinen Sinn für&#160;… Perspektive appellieren. Denn du weißt, dass alle Dinge ihren Platz haben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

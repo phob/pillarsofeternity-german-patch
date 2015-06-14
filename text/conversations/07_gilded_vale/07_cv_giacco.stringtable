@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Das Gesicht dieses jungen Mannes ist schwer gezeichnet, und seine ausgemergelte Gestalt steckt in einem abgenutzten Hemd. Zitternd beobachtet er dich mit einem Hoffnungsschimmer in den Augen. "Ich weiß nicht, wer du bist, aber ... wirst du mir helfen?"</DefaultText>
+      <DefaultText>Das Gesicht dieses jungen Mannes ist schwer gezeichnet, und seine ausgemergelte Gestalt steckt in einem abgenutzten Hemd. Zitternd beobachtet er dich mit einem Hoffnungsschimmer in den Augen. "Ich weiß nicht, wer du bist, aber&#160;… wirst du mir helfen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Nedmar ...?" Giacco lacht leise wie ungläubig. "Der Priester hat dich geschickt? Ich dachte ..."</DefaultText>
+      <DefaultText>"Nedmar&#160;…?" Giacco lacht leise wie ungläubig. "Der Priester hat dich geschickt? Ich dachte&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,17 +61,17 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ja." Er schaut weg. "Der Plan schien gut zu sein. Wir kamen ohne Zwischenfälle hinein, und ich kannte den Weg. Im Kerker aber überraschten sie uns, und die meisten von uns ..."</DefaultText>
+      <DefaultText>"Ja." Er schaut weg. "Der Plan schien gut zu sein. Wir kamen ohne Zwischenfälle hinein, und ich kannte den Weg. Im Kerker aber überraschten sie uns, und die meisten von uns&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Giacco erschaudert. "Einige von ihnen wirst du schon gesehen haben. Sie bekämpft haben. Zumindest ihre Körper, ihren Verstand aber nicht mehr. Aber ihre Seelen ..."</DefaultText>
+      <DefaultText>Giacco erschaudert. "Einige von ihnen wirst du schon gesehen haben. Sie bekämpft haben. Zumindest ihre Körper, ihren Verstand aber nicht mehr. Aber ihre Seelen&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Die Frau da unten&#160;– Raedrics Beseelerin ... Ihr Name ist Osrya. Ich habe sie manchmal ein Heilmittel erwähnen hören. Fürst Raedric ruft sie oft zu sich. Sie aber heilt niemanden, vielmehr verwandelt sie Männer und Frauen nur in Monster." Er schaudert. "Ich sah, wie sie die anderen holte. Ich war mir sicher, der nächste zu sein."</DefaultText>
+      <DefaultText>"Die Frau da unten&#160;– Raedrics Beseelerin&#160;… Ihr Name ist Osrya. Ich habe sie manchmal ein Heilmittel erwähnen hören. Fürst Raedric ruft sie oft zu sich. Sie aber heilt niemanden, vielmehr verwandelt sie Männer und Frauen nur in Monster." Er schaudert. "Ich sah, wie sie die anderen holte. Ich war mir sicher, der nächste zu sein."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Ich aber begann zu sehen, was mit Goldtal geschah&#160;– und was Raedric tat. Nedmar aber sagte einfach immerzu, dass letztendlich alles gut werden würde. Dass wir dem Fürsten der Burg beistehen müssten. Kolsc war der Einzige, der gewillt zu sein schien, etwas dagegen zu unternehmen, anstatt ... naja, anstatt zu beten." Er lächelt traurig. "In anderen Worten: Ich habe zwei Väter zurückgelassen."</DefaultText>
+      <DefaultText>"Ich aber begann zu sehen, was mit Goldtal geschah&#160;– und was Raedric tat. Nedmar aber sagte einfach immerzu, dass letztendlich alles gut werden würde. Dass wir dem Fürsten der Burg beistehen müssten. Kolsc war der Einzige, der gewillt zu sein schien, etwas dagegen zu unternehmen, anstatt&#160;… naja, anstatt zu beten." Er lächelt traurig. "In anderen Worten: Ich habe zwei Väter zurückgelassen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,12 +116,12 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Sie ist gefährlich, und wer weiß, was sie sonst noch in ihrem Labor hat. Ich würde da nicht reingehen. Sie hat etwas ... Überzeugendes an sich. Zauber&#160;– kein Zweifel!"</DefaultText>
+      <DefaultText>"Sie ist gefährlich, und wer weiß, was sie sonst noch in ihrem Labor hat. Ich würde da nicht reingehen. Sie hat etwas&#160;… Überzeugendes an sich. Zauber&#160;– kein Zweifel!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Danke dir, Fremder! Ich muss zurück zur Gabelung ... aber zuerst muss ich wohl etwas essen und mich ausruhen." Er zögert. "Wenn du dich in die oberen Stockwerke traust, sagt Nedmar bitte, dass ich noch lebe. Sag ihm ... sag ihm, dass ich noch immer die Schnitzerei der Bleichen Ritterin habe, die er mir gab. Das sollte ihn überzeugen, und vielleicht kann er dir irgendwie helfen."</DefaultText>
+      <DefaultText>"Danke dir, Fremder! Ich muss zurück zur Gabelung&#160;… aber zuerst muss ich wohl etwas essen und mich ausruhen." Er zögert. "Wenn du dich in die oberen Stockwerke traust, sagt Nedmar bitte, dass ich noch lebe. Sag ihm&#160;… sag ihm, dass ich noch immer die Schnitzerei der Bleichen Ritterin habe, die er mir gab. Das sollte ihn überzeugen, und vielleicht kann er dir irgendwie helfen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Kriegst du das Schloss auf? Ich glaube, diese Beseelerin hat den Schlüssel ..."</DefaultText>
+      <DefaultText>"Kriegst du das Schloss auf? Ich glaube, diese Beseelerin hat den Schlüssel&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,12 +176,12 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Aber ... aber das ist noch schlimmer&#160;– warum machst du das alles? Um unser Dorf zu verdammen? Jetzt haben wir niemand mehr, an den wir uns wenden können."</DefaultText>
+      <DefaultText>"Aber&#160;… aber das ist noch schlimmer&#160;– warum machst du das alles? Um unser Dorf zu verdammen? Jetzt haben wir niemand mehr, an den wir uns wenden können."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Bitte ... du hast genug Schaden angerichtet. Lass mich in Frieden."</DefaultText>
+      <DefaultText>"Bitte&#160;… du hast genug Schaden angerichtet. Lass mich in Frieden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Irgendwann hat dort wohl jemand gelebt. Heutzutage treffen wir uns manchmal da. Kolsc sagt, der Ort war verlassen, als sie ihn fanden. So, äh, geheim ist das dann doch nicht, oder? Aber ich vermute, es ist weit genug von der Festung entfernt ..."</DefaultText>
+      <DefaultText>"Irgendwann hat dort wohl jemand gelebt. Heutzutage treffen wir uns manchmal da. Kolsc sagt, der Ort war verlassen, als sie ihn fanden. So, äh, geheim ist das dann doch nicht, oder? Aber ich vermute, es ist weit genug von der Festung entfernt&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,12 +231,12 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Wie tapfer von dir, es mit ihr aufzunehmen. Diese Beseeler ... Man weiß nie, zu was sie fähig sind."</DefaultText>
+      <DefaultText>"Wie tapfer von dir, es mit ihr aufzunehmen. Diese Beseeler&#160;… Man weiß nie, zu was sie fähig sind."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Danke dir, Fremder! Ich muss zurück zur Gabelung ... aber zuerst muss ich wohl etwas essen und mich ausruhen. Sag Nedmar ... naja, sag ihm, dass ich noch immer die Schnitzerei der Bleichen Ritterin habe, die er mir gab, als ich noch ein Junge war. Und dass ich hoffe, dass es ihm gut geht."</DefaultText>
+      <DefaultText>"Danke dir, Fremder! Ich muss zurück zur Gabelung&#160;… aber zuerst muss ich wohl etwas essen und mich ausruhen. Sag Nedmar&#160;… naja, sag ihm, dass ich noch immer die Schnitzerei der Bleichen Ritterin habe, die er mir gab, als ich noch ein Junge war. Und dass ich hoffe, dass es ihm gut geht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,7 +276,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Nur Wael weiß, welche Verdorbenheiten diesem Mann zugefügt wurden ... etwas sagt mir, dass die Verbrechen dieses Mannes, sofern es überhaupt irgendwelche gab, diese Art von Behandlung nicht rechtfertigen."</DefaultText>
+      <DefaultText>"Nur Wael weiß, welche Verdorbenheiten diesem Mann zugefügt wurden&#160;… etwas sagt mir, dass die Verbrechen dieses Mannes, sofern es überhaupt irgendwelche gab, diese Art von Behandlung nicht rechtfertigen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,7 +346,7 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Mit einer schnellen Bewegung zieht du dem jungen Mann deine Klinge über den Hals. Er fällt nach hinten, während er nach seiner klaffenden Halswunde greift. Hinter dir hörst du das Geräusch schabenden Metalls, als sich Kolsc bewegt ... allerdings zu spät, um dich aufzuhalten.</DefaultText>
+      <DefaultText>Mit einer schnellen Bewegung zieht du dem jungen Mann deine Klinge über den Hals. Er fällt nach hinten, während er nach seiner klaffenden Halswunde greift. Hinter dir hörst du das Geräusch schabenden Metalls, als sich Kolsc bewegt&#160;… allerdings zu spät, um dich aufzuhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,7 +361,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Giacco starrt dich an. "Du bist ... du bist einer von&#160;– du bist verrückt! Bleib weg von mir!" Er rennt an dir vorbei auf die Tür zu.</DefaultText>
+      <DefaultText>Giacco starrt dich an. "Du bist&#160;… du bist einer von&#160;– du bist verrückt! Bleib weg von mir!" Er rennt an dir vorbei auf die Tür zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

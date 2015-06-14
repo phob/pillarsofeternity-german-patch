@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Kämpf ... weiter!"</DefaultText>
+      <DefaultText>"Kämpf&#160;… weiter!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Ich ..."</DefaultText>
+      <DefaultText>"Ich&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Was ... was ist gerade geschehen?"</DefaultText>
+      <DefaultText>"Was&#160;… was ist gerade geschehen?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Kana, hoch mir dir! Hoch ... nein!"</DefaultText>
+      <DefaultText>"Kana, hoch mir dir! Hoch&#160;… nein!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -13,7 +13,7 @@ Die Frau versperrt dir den Weg zu der Löwin. Sie scheint keinerlei Angst vor de
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ich bin vielleicht geduldig, aber Sul ist es nicht. Wenn du keine Kunde vom Ableben des Bären bringst, solltest du lieber Abstand halten ... Sul hat noch nicht zu Abend gegessen."</DefaultText>
+      <DefaultText>"Ich bin vielleicht geduldig, aber Sul ist es nicht. Wenn du keine Kunde vom Ableben des Bären bringst, solltest du lieber Abstand halten&#160;… Sul hat noch nicht zu Abend gegessen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -122,7 +122,7 @@ Sie blickt die elegante Löwin an. "Danke, dass du diese Angelegenheit gelöst h
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"So ... habe ich es noch nie gesehen." Sie blickt die Löwin traurig an. "Solch ein erhabenes Tier. Ich dachte, sie zu beschützen würde Galawains Willen dienen, aber du hast Recht. Jeder wird einmal vom Jäger zum Gejagten."
+      <DefaultText>"So&#160;… habe ich es noch nie gesehen." Sie blickt die Löwin traurig an. "Solch ein erhabenes Tier. Ich dachte, sie zu beschützen würde Galawains Willen dienen, aber du hast Recht. Jeder wird einmal vom Jäger zum Gejagten."
 
 "Wir gehen. Wenn Sul wirklich die Würdigste ist, braucht sie unsere Hilfe nicht."</DefaultText>
       <FemaleText />
@@ -144,7 +144,7 @@ Sie blickt die elegante Löwin an. "Danke, dass du diese Angelegenheit gelöst h
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Hiravias blickt dich mit besorgter Miene an. "Ich frage mich, was Galawain über all das denkt ... seine große Löwin muss sich nicht selbst mit ihrem Herausforderer messen?"
+      <DefaultText>Hiravias blickt dich mit besorgter Miene an. "Ich frage mich, was Galawain über all das denkt&#160;… seine große Löwin muss sich nicht selbst mit ihrem Herausforderer messen?"
 
 Er verstummt einen Augenblick, wird dann aber sofort fröhlich. "Und es wäre schön, jemand anderen als mich dabei zu sehen, wie er den Gott der Sucher erzürnt. Wie er sie wohl für ihre Unentschlossenheit prüfen wird?"</DefaultText>
       <FemaleText />

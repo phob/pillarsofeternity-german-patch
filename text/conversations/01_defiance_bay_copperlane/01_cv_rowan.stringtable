@@ -52,7 +52,7 @@ Er mustert dich. "Neu in der Stadt, was? Du kommst zu spannenden Zeiten nach Tru
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Sie beschäftigt sich mit dem Studium und der Manipulation von Essenz, was wie jeder mit einem Funken Verstand weiß den Göttern vorbehalten ist. Die Aedyrer waren zumindest so klug, sie zu verbieten ... was aber auch das einzige Gute ist, was sich über sie sagen lässt."
+      <DefaultText>"Sie beschäftigt sich mit dem Studium und der Manipulation von Essenz, was wie jeder mit einem Funken Verstand weiß den Göttern vorbehalten ist. Die Aedyrer waren zumindest so klug, sie zu verbieten&#160;… was aber auch das einzige Gute ist, was sich über sie sagen lässt."
 
 "Sie ist nicht wie die Magie, das Zaubern oder das Seelenlesen, das ein Medium betreibt. Es gibt die Beseelung seit antiken engwithanischen Zeiten, weshalb diese Beseeler auch oft mit alten engwithanischen Artefakten herumhantieren."</DefaultText>
       <FemaleText />
@@ -217,7 +217,7 @@ Er blickt auf die Menge und senkt seine Stimme. "Du hast es vermutlich noch nich
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Unser ... nachdrücklicher Freund hat zumindest in einer Sache Recht."</DefaultText>
+      <DefaultText>"Unser&#160;… nachdrücklicher Freund hat zumindest in einer Sache Recht."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

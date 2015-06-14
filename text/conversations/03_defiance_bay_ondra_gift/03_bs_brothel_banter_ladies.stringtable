@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Wie ... funktioniert das denn genau?"</DefaultText>
+      <DefaultText>"Wie&#160;… funktioniert das denn genau?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Du weißt ganz genau, was ich meine! Wie, äh ... wie fange ich an?"</DefaultText>
+      <DefaultText>"Du weißt ganz genau, was ich meine! Wie, äh&#160;… wie fange ich an?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ich weiß aus verlässlicher Quelle, dass dieser orlanische Bursche ..."</DefaultText>
+      <DefaultText>"Ich weiß aus verlässlicher Quelle, dass dieser orlanische Bursche&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ja, aber erst brauche ich noch mal was zum Trinken ..."</DefaultText>
+      <DefaultText>"Ja, aber erst brauche ich noch mal was zum Trinken&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

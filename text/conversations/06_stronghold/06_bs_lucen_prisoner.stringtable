@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Bitte, Fürst ... Meine Tat grämt mich. Wenn Sie mich gehen lassen, werde ich ein ehrbares Leben führen!"</DefaultText>
+      <DefaultText>"Bitte, Fürst&#160;… Meine Tat grämt mich. Wenn Sie mich gehen lassen, werde ich ein ehrbares Leben führen!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"N-nein, bleib weg ..."</DefaultText>
+      <DefaultText>"N-nein, bleib weg&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Du ... grausamer Bastard! Welchen Schaden habe ich dir denn angerichtet?"</DefaultText>
+      <DefaultText>"Du&#160;… grausamer Bastard! Welchen Schaden habe ich dir denn angerichtet?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

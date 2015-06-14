@@ -40,7 +40,7 @@ Sie deutet auf die Tür zu ihrer Rechten. "Dies ist unser Lagerhaus, wo wir Tran
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich bin die Direktionsassistentin dieses Lagerhauses. Derzeit helfe ich Verzano bei den laufenden Geschäften, aber ich werde hier übernehmen, wenn er sich zur Ruhe setzt ... oder falls die Firmenchefs zu Hause beschließen, dass es an der Zeit für eine neue Verwaltung ist." Sie verdreht ihre Augen.</DefaultText>
+      <DefaultText>"Ich bin die Direktionsassistentin dieses Lagerhauses. Derzeit helfe ich Verzano bei den laufenden Geschäften, aber ich werde hier übernehmen, wenn er sich zur Ruhe setzt&#160;… oder falls die Firmenchefs zu Hause beschließen, dass es an der Zeit für eine neue Verwaltung ist." Sie verdreht ihre Augen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -50,7 +50,7 @@ Sie deutet auf die Tür zu ihrer Rechten. "Dies ist unser Lagerhaus, wo wir Tran
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ich bin die neue Lagerhausleiterin. Verzano, mein Vorgänger ..." Sie verdreht ihre Augen zur Tür. "Er war der Aufgabe nicht länger gewachsen."</DefaultText>
+      <DefaultText>"Ich bin die neue Lagerhausleiterin. Verzano, mein Vorgänger&#160;…" Sie verdreht ihre Augen zur Tür. "Er war der Aufgabe nicht länger gewachsen."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

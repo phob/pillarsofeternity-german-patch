@@ -28,7 +28,7 @@ Er wartet, doch Iovara blickt nur stur geradeaus, mit steinerner Miene. Das einz
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Sie öffnet den Mund zum Sprechen. Dünne Speichelfäden erstrecken sich von einer Lippe zur anderen wie das Netz einer Spinne. "Ich gestehe ... einen Fehler verleugnet zu haben."</DefaultText>
+      <DefaultText>Sie öffnet den Mund zum Sprechen. Dünne Speichelfäden erstrecken sich von einer Lippe zur anderen wie das Netz einer Spinne. "Ich gestehe&#160;… einen Fehler verleugnet zu haben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -38,7 +38,7 @@ Er wartet, doch Iovara blickt nur stur geradeaus, mit steinerner Miene. Das einz
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich gestehe ... Augen geöffnet zu haben."</DefaultText>
+      <DefaultText>"Ich gestehe&#160;… Augen geöffnet zu haben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,7 +78,7 @@ Er wartet, doch Iovara blickt nur stur geradeaus, mit steinerner Miene. Das einz
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Nein! Warte ... warte. Ich bin bereit ... Ich bin bereit."</DefaultText>
+      <DefaultText>"Nein! Warte&#160;… warte. Ich bin bereit&#160;… Ich bin bereit."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,7 +88,7 @@ Er wartet, doch Iovara blickt nur stur geradeaus, mit steinerner Miene. Das einz
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Iovara japst nach Luft und sammelt ihre letzte Kraft zusammen, um zu sprechen. "Ich bin bereit ... ein Geständnis ... zu hören ... von dir."</DefaultText>
+      <DefaultText>Iovara japst nach Luft und sammelt ihre letzte Kraft zusammen, um zu sprechen. "Ich bin bereit&#160;… ein Geständnis&#160;… zu hören&#160;… von dir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

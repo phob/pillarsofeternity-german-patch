@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Lass uns erstmal abziehen, Leute ... Aber wir kommen zurück, hörst du, Trumbel? Und wenn wir zurückkommen, dann wirst du uns einen fairen Preis bieten, sonst werden wir mit dir abrechnen, so wahr uns die Flamme helfe!"</DefaultText>
+      <DefaultText>"Lass uns erstmal abziehen, Leute&#160;… Aber wir kommen zurück, hörst du, Trumbel? Und wenn wir zurückkommen, dann wirst du uns einen fairen Preis bieten, sonst werden wir mit dir abrechnen, so wahr uns die Flamme helfe!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Oh, das wundert mich gar nicht. Was für ein Adliger, dieser Trumbel. Zwei große, starke Kinder. Die reinste Seele in ganz Goldtal." Der Zwerg schnaubt. "Der Feigling sendet Boten aus, um seine Angelegenheiten für ihn zu erledigen? Na, du kannst zu ihm gehen und ihm sagen, dass wir wegen ihm schon seit Tagen nichts Festes mehr gegessen haben, dass wir uns wegen ihm die Schänke nicht mehr leisten können ... aber dass wir uns nicht an seiner Statt von irgendeinem Ausländer einschüchtern lassen!"</DefaultText>
+      <DefaultText>"Oh, das wundert mich gar nicht. Was für ein Adliger, dieser Trumbel. Zwei große, starke Kinder. Die reinste Seele in ganz Goldtal." Der Zwerg schnaubt. "Der Feigling sendet Boten aus, um seine Angelegenheiten für ihn zu erledigen? Na, du kannst zu ihm gehen und ihm sagen, dass wir wegen ihm schon seit Tagen nichts Festes mehr gegessen haben, dass wir uns wegen ihm die Schänke nicht mehr leisten können&#160;… aber dass wir uns nicht an seiner Statt von irgendeinem Ausländer einschüchtern lassen!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Tot? Wie ist das&#160;–" Er wirft dir einen fragenden Blick zu, scheint es sich dann aber eines Besseren zu überlegen. "Verdammt. Es mag ja ein bisschen hitzig geworden sein, aber ... Ich hatte immer gedacht, dass der alte Mann zur Vernunft käme, bevor etwas passiert."</DefaultText>
+      <DefaultText>"Tot? Wie ist das&#160;–" Er wirft dir einen fragenden Blick zu, scheint es sich dann aber eines Besseren zu überlegen. "Verdammt. Es mag ja ein bisschen hitzig geworden sein, aber&#160;… Ich hatte immer gedacht, dass der alte Mann zur Vernunft käme, bevor etwas passiert."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,12 +211,12 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Der Zwerg nickt dir zu. "Nicht dass wir nicht schätzen würden, was du getan hast, aber ... Vielleicht solltest du besser weiterziehen, Freund. Zwischen dem Magistrat und diesem Geschäft mit dem Weizen glaube ich nicht, dass es hier für dich viel zu holen gibt."</DefaultText>
+      <DefaultText>Der Zwerg nickt dir zu. "Nicht dass wir nicht schätzen würden, was du getan hast, aber&#160;… Vielleicht solltest du besser weiterziehen, Freund. Zwischen dem Magistrat und diesem Geschäft mit dem Weizen glaube ich nicht, dass es hier für dich viel zu holen gibt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Also ... wer verteilt das Getreide?"</DefaultText>
+      <DefaultText>"Also&#160;… wer verteilt das Getreide?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Wegen dieser Schwierigkeiten mit dem Müller ..."</DefaultText>
+      <DefaultText>"Wegen dieser Schwierigkeiten mit dem Müller&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,7 +301,7 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Dieser bucklige Speichellecker ... Denkt wohl, er könnte uns aushungern ..."</DefaultText>
+      <DefaultText>"Dieser bucklige Speichellecker&#160;… Denkt wohl, er könnte uns aushungern&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -316,7 +316,7 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Sweynur wirft dir einen neugierigen Blick zu. "Dieses Geschäft? Lass es mich mal so sagen ... wenn du dich hier nützlich machen möchtest, solltest du vielleicht manchmal auch an die gewöhnlichen Gestandenen denken."</DefaultText>
+      <DefaultText>Sweynur wirft dir einen neugierigen Blick zu. "Dieses Geschäft? Lass es mich mal so sagen&#160;… wenn du dich hier nützlich machen möchtest, solltest du vielleicht manchmal auch an die gewöhnlichen Gestandenen denken."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,7 +331,7 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Sweynur wirft dir einen neugierigen Blick zu. "Dieses Geschäft? Lass es mich mal so sagen ... wenn du dich hier nützlich machen möchtest, solltest du vielleicht manchmal auch an die gewöhnlichen Gestandenen denken."</DefaultText>
+      <DefaultText>Sweynur wirft dir einen neugierigen Blick zu. "Dieses Geschäft? Lass es mich mal so sagen&#160;… wenn du dich hier nützlich machen möchtest, solltest du vielleicht manchmal auch an die gewöhnlichen Gestandenen denken."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

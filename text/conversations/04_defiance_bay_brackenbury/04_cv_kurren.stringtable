@@ -21,8 +21,8 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Es ist immer eine Freude, einen so klugen Freund zu sehen." Er beginnt wieder, die Schriftrollen auf dem Tisch durchzugehen. "Irgendwo hier muss es doch sein ..."</DefaultText>
-      <FemaleText>"Es ist immer eine Freude, eine so kluge Freundin zu sehen." Er beginnt wieder, die Schriftrollen auf dem Tisch durchzugehen. "Irgendwo hier muss es doch sein ..."</FemaleText>
+      <DefaultText>"Es ist immer eine Freude, einen so klugen Freund zu sehen." Er beginnt wieder, die Schriftrollen auf dem Tisch durchzugehen. "Irgendwo hier muss es doch sein&#160;…"</DefaultText>
+      <FemaleText>"Es ist immer eine Freude, eine so kluge Freundin zu sehen." Er beginnt wieder, die Schriftrollen auf dem Tisch durchzugehen. "Irgendwo hier muss es doch sein&#160;…"</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Ein Fall oder drei, je nachdem, wie man es betrachtet." Er tippt seine Klauenfinger zusammen. "Drei Wochen ... und dann verschwindet immer jemand. Manch einer würde es Zufall nennen. Ich nenne es einen Hinweis."
+      <DefaultText>"Ein Fall oder drei, je nachdem, wie man es betrachtet." Er tippt seine Klauenfinger zusammen. "Drei Wochen&#160;… und dann verschwindet immer jemand. Manch einer würde es Zufall nennen. Ich nenne es einen Hinweis."
 
 "Lady Webb kennt dich. Vertraut dir. Also vertraue ich dir auch, so lange wir die gleichen Interessen verfolgen."</DefaultText>
       <FemaleText />
@@ -53,7 +53,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Sie wurden alle ermordet. Eine Frau namens Lumdala hat sie als Teil ihrer ... Darbietung getötet."</DefaultText>
+      <DefaultText>"Sie wurden alle ermordet. Eine Frau namens Lumdala hat sie als Teil ihrer&#160;… Darbietung getötet."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -150,7 +150,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Dafür ist es zu spät. Sie hat mich konfrontiert, bevor ich dich informieren konnte ... ich musste sie töten."</DefaultText>
+      <DefaultText>"Dafür ist es zu spät. Sie hat mich konfrontiert, bevor ich dich informieren konnte&#160;… ich musste sie töten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -165,7 +165,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Kurren nimmt den Ring und untersucht ihn genau. "Das ist in der Tat der ihre. Und er war an ..." Er schließt die Augen. "Dunklen Orten. Kalten Orten. Toten Orten." Seine Augen öffnen sich blitzartig wieder. "Hervorragende Arbeit. Durch diesen Hinweis kann ich sie zum Verhör bitten und die Wahrheit aus ihr herauskitzeln."</DefaultText>
+      <DefaultText>Kurren nimmt den Ring und untersucht ihn genau. "Das ist in der Tat der ihre. Und er war an&#160;…" Er schließt die Augen. "Dunklen Orten. Kalten Orten. Toten Orten." Seine Augen öffnen sich blitzartig wieder. "Hervorragende Arbeit. Durch diesen Hinweis kann ich sie zum Verhör bitten und die Wahrheit aus ihr herauskitzeln."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -175,7 +175,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Was meine Bezahlung angeht ..."</DefaultText>
+      <DefaultText>"Was meine Bezahlung angeht&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -235,7 +235,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Seine Augen weiten sich. "Äußerst großzügig von dir. Die Dunrydstraße wird das nicht vergessen ... und auch ich nicht." Kurren schüttelt dir die Hand. "Und solltest du beschließen, dass langwierige Ermittlungen und schlechte Bezahlung genau das Richtige für dich sind ... Die Dunrydstraße hat immer einen Platz für dich."</DefaultText>
+      <DefaultText>Seine Augen weiten sich. "Äußerst großzügig von dir. Die Dunrydstraße wird das nicht vergessen&#160;… und auch ich nicht." Kurren schüttelt dir die Hand. "Und solltest du beschließen, dass langwierige Ermittlungen und schlechte Bezahlung genau das Richtige für dich sind&#160;… Die Dunrydstraße hat immer einen Platz für dich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -255,7 +255,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Wurde von Elcga als vermisst gemeldet, einer Zwergin, die nach ..." Er schließt die Augen und schnüffelt in die Luft. "... edlem Wein und jungen Dandys roch. Sie hat jede Menge Zeit und Geld für ihre Vergnügungen. Versuch es in Farnheim."</DefaultText>
+      <DefaultText>"Wurde von Elcga als vermisst gemeldet, einer Zwergin, die nach&#160;…" Er schließt die Augen und schnüffelt in die Luft. "…&#160;edlem Wein und jungen Dandys roch. Sie hat jede Menge Zeit und Geld für ihre Vergnügungen. Versuch es in Farnheim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -265,7 +265,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Das ist nicht nötig. Sie hat mich konfrontiert, bevor ich dich informieren konnte ... ich musste sie töten."</DefaultText>
+      <DefaultText>"Das ist nicht nötig. Sie hat mich konfrontiert, bevor ich dich informieren konnte&#160;… ich musste sie töten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,19 +386,19 @@ Seine Nase zuckt, als er dich anblickt. "Äußerst nützlich, um Verbrechen zu l
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Es gab ... gewisse Schwierigkeiten, fürchte ich."</DefaultText>
+      <DefaultText>"Es gab&#160;… gewisse Schwierigkeiten, fürchte ich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Kurrens Stirn legt sich in Falten. "Wie unerquicklich. Er hätte uns gewiss erhellen können mit seinem Wissen über viele ... faszinierende Verbindungen."</DefaultText>
+      <DefaultText>Kurrens Stirn legt sich in Falten. "Wie unerquicklich. Er hätte uns gewiss erhellen können mit seinem Wissen über viele&#160;… faszinierende Verbindungen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Kurrens Stirn legt sich in Falten. "Wie unerquicklich. Sie hätten uns gewiss erhellen können mit ihrem Wissen über viele ... faszinierende Verbindungen."
+      <DefaultText>Kurrens Stirn legt sich in Falten. "Wie unerquicklich. Sie hätten uns gewiss erhellen können mit ihrem Wissen über viele&#160;… faszinierende Verbindungen."
 
-"Vielleicht hast du ... Überreste zurückgelassen, aus denen wir etwas lernen können."</DefaultText>
+"Vielleicht hast du&#160;… Überreste zurückgelassen, aus denen wir etwas lernen können."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -453,12 +453,12 @@ Seine Nase zuckt, als er dich anblickt. "Äußerst nützlich, um Verbrechen zu l
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Ja, natürlich." Er reibt die Hände zusammen. "Solltest du es dir anders überlegen ..."</DefaultText>
+      <DefaultText>"Ja, natürlich." Er reibt die Hände zusammen. "Solltest du es dir anders überlegen&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Eine Verbindung, ja! Ich bin ganz sicher ..."</DefaultText>
+      <DefaultText>"Eine Verbindung, ja! Ich bin ganz sicher&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -597,7 +597,7 @@ Als er dich erkennt, seufzt er und fasst sich ans Herz. "Ich dachte, du wärst e
       <ID>140</ID>
       <DefaultText>"Ich will noch ein paar Sachen zusammensuchen&#160;– Akten, vor allem. Einige Fälle, die ich nicht aufgeben will. Auch, wenn ich jetzt alleine bin."
 
-"Ich werde bald fort sein. Vermutlich werden sie mich jagen. Aber es ist ... schwer, all das zurückzulassen. Lady Webb, sie ... hat hart dafür gearbeitet."</DefaultText>
+"Ich werde bald fort sein. Vermutlich werden sie mich jagen. Aber es ist&#160;… schwer, all das zurückzulassen. Lady Webb, sie&#160;… hat hart dafür gearbeitet."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

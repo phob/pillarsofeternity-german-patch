@@ -6655,12 +6655,12 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1322</ID>
-      <DefaultText>... jedoch ohne zusätzlichen Effekt.</DefaultText><!-- {1}: ID 811 ('verfehlt') -->
+      <DefaultText>…&#160;jedoch ohne zusätzlichen Effekt.</DefaultText><!-- {1}: ID 811 ('verfehlt') -->
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1323</ID>
-      <DefaultText>... sowie {1} für zusätzlichen Effekt:</DefaultText>
+      <DefaultText>…&#160;sowie {1} für zusätzlichen Effekt:</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7657,7 +7657,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1524</ID>
-      <DefaultText>Lädt ...</DefaultText>
+      <DefaultText>Lädt&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9207,7 +9207,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1835</ID>
-      <DefaultText>Neu erstellen ...</DefaultText>
+      <DefaultText>Neu erstellen&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9222,7 +9222,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1838</ID>
-      <DefaultText>{0} ...</DefaultText>
+      <DefaultText>{0}&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9327,7 +9327,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1859</ID>
-      <DefaultText>{0} hat etwas entdeckt ...</DefaultText>
+      <DefaultText>{0} hat etwas entdeckt&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

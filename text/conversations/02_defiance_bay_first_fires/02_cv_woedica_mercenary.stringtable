@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Der Wächter pfeift scharf, und du hörst in der Ferne alarmierte Rufe ...</DefaultText>
+      <DefaultText>Der Wächter pfeift scharf, und du hörst in der Ferne alarmierte Rufe&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,8 +111,8 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Sei vorsichtig, Wächter. Sein Verstand ist scharfkantig ... er will deine Absichten ergründen ..."</DefaultText>
-      <FemaleText>Sei vorsichtig, Wächterin. Sein Verstand ist scharfkantig ... er will deine Absichten ergründen ...</FemaleText>
+      <DefaultText>"Sei vorsichtig, Wächter. Sein Verstand ist scharfkantig&#160;… er will deine Absichten ergründen&#160;…"</DefaultText>
+      <FemaleText>Sei vorsichtig, Wächterin. Sein Verstand ist scharfkantig&#160;… er will deine Absichten ergründen&#160;…</FemaleText>
     </Entry>
     <Entry>
       <ID>37</ID>

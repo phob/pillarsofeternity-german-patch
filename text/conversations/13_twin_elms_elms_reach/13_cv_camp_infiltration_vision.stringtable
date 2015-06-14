@@ -11,8 +11,8 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Der Phantomsoldat hält dir sein Kurzschwert an die Brust. "Du bist in der falschen Stadt ... Inquisitor."</DefaultText>
-      <FemaleText>Der Phantomsoldat hält dir sein Kurzschwert an die Brust. "Du bist in der falschen Stadt ... Inquisitorin."</FemaleText>
+      <DefaultText>Der Phantomsoldat hält dir sein Kurzschwert an die Brust. "Du bist in der falschen Stadt&#160;… Inquisitor."</DefaultText>
+      <FemaleText>Der Phantomsoldat hält dir sein Kurzschwert an die Brust. "Du bist in der falschen Stadt&#160;… Inquisitorin."</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -47,7 +47,7 @@ Sie blickt ihn starr an, bis er den Blick abwendet. Er tritt beiseite, beobachte
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Kenne ... kenne ich dich?"</DefaultText>
+      <DefaultText>"Kenne&#160;… kenne ich dich?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -102,7 +102,7 @@ Sie blickt ihn starr an, bis er den Blick abwendet. Er tritt beiseite, beobachte
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Ich ... hatte gehofft, es gäbe einen anderen Grund. Aber du bist hier, das allein muss reichen."</DefaultText>
+      <DefaultText>"Ich&#160;… hatte gehofft, es gäbe einen anderen Grund. Aber du bist hier, das allein muss reichen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -119,8 +119,8 @@ Sie blickt ihn starr an, bis er den Blick abwendet. Er tritt beiseite, beobachte
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Es ist ... etwas Besonderes, dass ein alter Schüler zu mir zurückkehrt. Ich muss wohl etwas richtig gemacht haben, auch wenn ich soviel Falsches gelehrt habe."</DefaultText>
-      <FemaleText>"Es ist ... etwas Besonderes, dass eine alte Schülerin zu mir zurückkehrt. Ich muss wohl etwas richtig gemacht haben, auch wenn ich soviel Falsches gelehrt habe."</FemaleText>
+      <DefaultText>"Es ist&#160;… etwas Besonderes, dass ein alter Schüler zu mir zurückkehrt. Ich muss wohl etwas richtig gemacht haben, auch wenn ich soviel Falsches gelehrt habe."</DefaultText>
+      <FemaleText>"Es ist&#160;… etwas Besonderes, dass eine alte Schülerin zu mir zurückkehrt. Ich muss wohl etwas richtig gemacht haben, auch wenn ich soviel Falsches gelehrt habe."</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -134,7 +134,7 @@ Sie blickt ihn starr an, bis er den Blick abwendet. Er tritt beiseite, beobachte
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Iovara blickt dich verwundert an. "Welch angenehme Überraschung. Es ist lange her, dass ich einen meiner alten Freunde gesehen habe. Und gerade dich ... hätte ich niemals erwartet."</DefaultText>
+      <DefaultText>Iovara blickt dich verwundert an. "Welch angenehme Überraschung. Es ist lange her, dass ich einen meiner alten Freunde gesehen habe. Und gerade dich&#160;… hätte ich niemals erwartet."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -159,7 +159,7 @@ Sie blickt ihn starr an, bis er den Blick abwendet. Er tritt beiseite, beobachte
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"So viel ist seitdem geschehen. Die Inquisition ..."
+      <DefaultText>"So viel ist seitdem geschehen. Die Inquisition&#160;…"
 
 Sie blickt gedankenverloren nach unten.
 
@@ -173,7 +173,7 @@ Sie blickt gedankenverloren nach unten.
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ich bin ... überrascht, dass du für mich solche Mühen aufnimmst. Du weißt, dass ich das niemals von dir verlangt hätte."</DefaultText>
+      <DefaultText>"Ich bin&#160;… überrascht, dass du für mich solche Mühen aufnimmst. Du weißt, dass ich das niemals von dir verlangt hätte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

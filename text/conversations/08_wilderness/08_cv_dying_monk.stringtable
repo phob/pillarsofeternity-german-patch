@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>"Dies muss meinem Orden gebracht werden." Der Mönch greift kraftlos nach seinem Beutel und zieht daraus die Schriftrollenhülle eines Boten. "Nimm das!", krächzt er, und hält dir das Sendschreiben hin.
 
-"Es muss ... muss zum Himmlischen Bäumchen gebracht werden. Gib es meinen Brüdern ... sie werden dich belohnen."</DefaultText>
+"Es muss&#160;… muss zum Himmlischen Bäumchen gebracht werden. Gib es meinen Brüdern&#160;… sie werden dich belohnen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23,10 +23,10 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Der Mann auf dem Boden ringt nach Luft und hält sich die Brust. Als du ihn näher betrachtest, siehst du, dass sein roter Umhang die Schwere seiner Wunden verdeckt. Sein Gesicht wird weiß, die Blutlache um ihn herum wird immer größer. "Bitte. Reisender ..."
+      <DefaultText>Der Mann auf dem Boden ringt nach Luft und hält sich die Brust. Als du ihn näher betrachtest, siehst du, dass sein roter Umhang die Schwere seiner Wunden verdeckt. Sein Gesicht wird weiß, die Blutlache um ihn herum wird immer größer. "Bitte. Reisender&#160;…"
 
 Er streckt mühsam die Hand nach dir aus.</DefaultText>
-      <FemaleText>Der Mann auf dem Boden ringt nach Luft und hält sich die Brust. Als du ihn näher betrachtest, siehst du, dass sein roter Umhang die Schwere seiner Wunden verdeckt. Sein Gesicht wird weiß, die Blutlache um ihn herum wird immer größer. "Bitte. Reisende ..."
+      <FemaleText>Der Mann auf dem Boden ringt nach Luft und hält sich die Brust. Als du ihn näher betrachtest, siehst du, dass sein roter Umhang die Schwere seiner Wunden verdeckt. Sein Gesicht wird weiß, die Blutlache um ihn herum wird immer größer. "Bitte. Reisende&#160;…"
 
 Er streckt mühsam die Hand nach dir aus.</FemaleText>
     </Entry>
@@ -37,7 +37,7 @@ Er streckt mühsam die Hand nach dir aus.</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ruhig, lass mich deine Wunden versorgen ... oder zumindest den Schmerz lindern."</DefaultText>
+      <DefaultText>"Ruhig, lass mich deine Wunden versorgen&#160;… oder zumindest den Schmerz lindern."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -52,7 +52,7 @@ Er streckt mühsam die Hand nach dir aus.</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Vergesslich ... so fahrlässig", murmelt er. Blut fließt aus seinem Mund. "Wunden auf den Fingerknöcheln ... von den morgendlichen Übungen." Er streckt seine blutige Hand vor sich aus. "Die Stelgaer&#160;– sie haben das Blut gerochen. Dachten, sie hätten ihre nächste Mahlzeit gefunden."
+      <DefaultText>"Vergesslich&#160;… so fahrlässig", murmelt er. Blut fließt aus seinem Mund. "Wunden auf den Fingerknöcheln&#160;… von den morgendlichen Übungen." Er streckt seine blutige Hand vor sich aus. "Die Stelgaer&#160;– sie haben das Blut gerochen. Dachten, sie hätten ihre nächste Mahlzeit gefunden."
 
 Der Mann greift hinab, um sein linkes Bein zu umklammern. Sein Finger gleitet über ein Stück Knochen, das aus seinem Knie ragt. "Sie hatten beinahe Recht."</DefaultText>
       <FemaleText />
@@ -84,12 +84,12 @@ Der Mann greift hinab, um sein linkes Bein zu umklammern. Sein Finger gleitet ü
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Es ist so kalt ..."</DefaultText>
+      <DefaultText>"Es ist so kalt&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Bitte, hilf ... mir."</DefaultText>
+      <DefaultText>"Bitte, hilf&#160;… mir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -122,7 +122,7 @@ Die Siegel würden vermutlich brechen, wenn du versuchen solltest, die Hülle zu
       <ID>26</ID>
       <DefaultText>Der Mann blickt dich einige Augenblicke lang intensiv an, bevor seine Augen sich weiten, als er dich erkennt.
 
-"Ich habe von dir gehört! Wir wissen von deiner Grausamkeit. Bereitet es dir Freude ... Freude, einen Fremden sterben zu sehen? Bereitet es dir noch mehr Freude, zu wissen, dass ich sterbe, ohne meine Mission erfüllt zu haben?"</DefaultText>
+"Ich habe von dir gehört! Wir wissen von deiner Grausamkeit. Bereitet es dir Freude&#160;… Freude, einen Fremden sterben zu sehen? Bereitet es dir noch mehr Freude, zu wissen, dass ich sterbe, ohne meine Mission erfüllt zu haben?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -134,12 +134,12 @@ Die Siegel würden vermutlich brechen, wenn du versuchen solltest, die Hülle zu
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Der Mann blickt dich an, er scheint dich zu erkennen. "Du ... du bist der Wächter! Man sagte mir, du seist unehrlich, manipulierend ... doch du bist&#160;–" Der Mann beißt sich auf die Lippe, als sein Körper plötzlich zuckend verkrampft.
+      <DefaultText>Der Mann blickt dich an, er scheint dich zu erkennen. "Du&#160;… du bist der Wächter! Man sagte mir, du seist unehrlich, manipulierend&#160;… doch du bist&#160;–" Der Mann beißt sich auf die Lippe, als sein Körper plötzlich zuckend verkrampft.
 
-"Du bist alles, was ich in meinen letzten Augenblicken habe ... bitte, hör mich an ... Ich sollte etwas überbringen, einen&#160;–" Seine Stimme lässt nach, doch seine Augen blicken auf eine Tasche neben ihm.</DefaultText>
-      <FemaleText>Der Mann blickt dich an, er scheint dich zu erkennen. "Du ... du bist die Wächterin! Man sagte mir, du seist unehrlich, manipulierend ... doch du bist&#160;–" Der Mann beißt sich auf die Lippe, als sein Körper plötzlich zuckend verkrampft.
+"Du bist alles, was ich in meinen letzten Augenblicken habe&#160;… bitte, hör mich an&#160;… Ich sollte etwas überbringen, einen&#160;–" Seine Stimme lässt nach, doch seine Augen blicken auf eine Tasche neben ihm.</DefaultText>
+      <FemaleText>Der Mann blickt dich an, er scheint dich zu erkennen. "Du&#160;… du bist die Wächterin! Man sagte mir, du seist unehrlich, manipulierend&#160;… doch du bist&#160;–" Der Mann beißt sich auf die Lippe, als sein Körper plötzlich zuckend verkrampft.
 
-"Du bist alles, was ich in meinen letzten Augenblicken habe ... bitte, hör mich an ... Ich sollte etwas überbringen, einen&#160;–" Seine Stimme lässt nach, doch seine Augen blicken auf eine Tasche neben ihm.</FemaleText>
+"Du bist alles, was ich in meinen letzten Augenblicken habe&#160;… bitte, hör mich an&#160;… Ich sollte etwas überbringen, einen&#160;–" Seine Stimme lässt nach, doch seine Augen blicken auf eine Tasche neben ihm.</FemaleText>
     </Entry>
     <Entry>
       <ID>30</ID>
@@ -150,10 +150,10 @@ Die Siegel würden vermutlich brechen, wenn du versuchen solltest, die Hülle zu
       <ID>31</ID>
       <DefaultText>Ein schmerzverzerrtes Lächeln macht sich auf dem Gesicht des Mannes breit. "Das würde ich gern, Bruder, doch meine Wunden sind zu schwer."
 
-"Ich habe es versucht ... Ich habe den Schmerz so lange wie möglich unterdrückt ... doch meine Wunden sind tödlich und mein Fleisch jenseits der Kontrolle meiner Ausbildung."</DefaultText>
+"Ich habe es versucht&#160;… Ich habe den Schmerz so lange wie möglich unterdrückt&#160;… doch meine Wunden sind tödlich und mein Fleisch jenseits der Kontrolle meiner Ausbildung."</DefaultText>
       <FemaleText>Ein schmerzverzerrtes Lächeln macht sich auf dem Gesicht des Mannes breit. "Das würde ich gern, Schwester, doch meine Wunden sind zu schwer."
 
-"Ich habe es versucht ... Ich habe den Schmerz so lange wie möglich unterdrückt ... doch meine Wunden sind tödlich und mein Fleisch jenseits der Kontrolle meiner Ausbildung."</FemaleText>
+"Ich habe es versucht&#160;… Ich habe den Schmerz so lange wie möglich unterdrückt&#160;… doch meine Wunden sind tödlich und mein Fleisch jenseits der Kontrolle meiner Ausbildung."</FemaleText>
     </Entry>
     <Entry>
       <ID>32</ID>
@@ -186,7 +186,7 @@ Er blickt dich an. "Bitte, trage die Botschaft den Rest des Weges."</DefaultText
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Er nickt. "Ich habe unzählige Verletzungen meines Fleisches erlebt&#160;– und ich weiß, dass ich mich dieses Mal nicht erholen werde. Der lange Weg meines Lebens endet hier ... doch meine Seele ist bereit."</DefaultText>
+      <DefaultText>Er nickt. "Ich habe unzählige Verletzungen meines Fleisches erlebt&#160;– und ich weiß, dass ich mich dieses Mal nicht erholen werde. Der lange Weg meines Lebens endet hier&#160;… doch meine Seele ist bereit."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -205,7 +205,7 @@ Blut schießt aus dem Mund des Mannes, rote Ströme, die seinen Hals herabrinnen
       <ID>40</ID>
       <DefaultText>Mit ruhiger Hand massierst du langsam die Wachssiegel, bis du bei jedem Siegel spürst, wie es langsam nachgibt, ohne zu brechen. Als du fertig bist, sehen alle Siegel noch intakt aus und es ist nur ein wenig Hitze nötig, um den Behälter unbemerkt wieder zu versiegeln.
 
-Vorher aber liest du die Schriftrolle darin ...</DefaultText>
+Vorher aber liest du die Schriftrolle darin&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

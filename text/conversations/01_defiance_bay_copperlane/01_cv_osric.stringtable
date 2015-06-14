@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Andererseits ..." Er mustert dich. "Ich hätte da etwas, was erledigt werden muss. Es erfordert ..." Er wirft einen schiefen Blick auf einen Abenteurer, der hilflos auf eine Puppe eindrischt. "... Kompetenz."</DefaultText>
+      <DefaultText>"Andererseits&#160;…" Er mustert dich. "Ich hätte da etwas, was erledigt werden muss. Es erfordert&#160;…" Er wirft einen schiefen Blick auf einen Abenteurer, der hilflos auf eine Puppe eindrischt. "…&#160;Kompetenz."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Ich war ... früher einmal ... Schmelztiegelritter. Als ich ging, behielten sie meine Waffen und meine Rüstung. Die Waffen können sie behalten, aber die Rüstung gehört meiner Familie. Ich will sie wiederhaben."</DefaultText>
+      <DefaultText>"Ich war&#160;… früher einmal&#160;… Schmelztiegelritter. Als ich ging, behielten sie meine Waffen und meine Rüstung. Die Waffen können sie behalten, aber die Rüstung gehört meiner Familie. Ich will sie wiederhaben."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -218,7 +218,7 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Er versucht, dir in die Augen zu blicken, aber als er das tut, überlegt er es sich offenbar anders. Er seufzt. "Sie wurde vom Magran-Orden verliehen. Die höchste Tapferkeitsauszeichnung. Sie wird nur den Toten verliehen, niemals jemandem Lebenden. Wir Dyrwälder –&#160;ECHTE Dyrwälder&#160;– wir haben keinen Adel, keine Geburtsrechte ... wenn man kein reicher Kupferficker aus Aedyr ist. Wir haben nur die Ehre, die wir dem Namen unserer Familie einbringen."</DefaultText>
+      <DefaultText>Er versucht, dir in die Augen zu blicken, aber als er das tut, überlegt er es sich offenbar anders. Er seufzt. "Sie wurde vom Magran-Orden verliehen. Die höchste Tapferkeitsauszeichnung. Sie wird nur den Toten verliehen, niemals jemandem Lebenden. Wir Dyrwälder –&#160;ECHTE Dyrwälder&#160;– wir haben keinen Adel, keine Geburtsrechte&#160;… wenn man kein reicher Kupferficker aus Aedyr ist. Wir haben nur die Ehre, die wir dem Namen unserer Familie einbringen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -309,14 +309,14 @@
       <ID>92</ID>
       <DefaultText>Er beugt sich näher an dich heran. "Ich habe von einer zuverlässigen Quelle erfahren, dass Penhelm einen Fälscher in Ondras Geschenk aufgesucht hat, nachdem seine Seelenherkunft von einem Medium in der Dunrydstraße gelesen wurde."
 
-"Sollte dir der Sinn danach stehen, sein Leben zu ruinieren, während du dort bist, nun ... dann gehen die Getränke auf mich."</DefaultText>
+"Sollte dir der Sinn danach stehen, sein Leben zu ruinieren, während du dort bist, nun&#160;… dann gehen die Getränke auf mich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
       <DefaultText>Sagani kratzt sich am Genick. "Wenn viele Generationen massukscher Traditionen als Hinweis dienen, erinnert dieser Penhelm sich vermutlich nicht."
 
-"Dennoch, eine solche Vergangenheit muss doch etwas zählen ..."</DefaultText>
+"Dennoch, eine solche Vergangenheit muss doch etwas zählen&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,7 +346,7 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Der Magran-Orden ist ... naja, sie verleihen sie nicht oft. Man sieht selten ein Mitglied der Dutzenden, dessen revolutionäre Verbindungen so stark sind, wie er selbst sagt."</DefaultText>
+      <DefaultText>"Der Magran-Orden ist&#160;… naja, sie verleihen sie nicht oft. Man sieht selten ein Mitglied der Dutzenden, dessen revolutionäre Verbindungen so stark sind, wie er selbst sagt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,17 +356,17 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Andererseits ..." Er mustert dich. "Ich hätte da etwas, was erledigt werden muss. Es erfordert ..." Er wirft einen schiefen Blick auf einen Abenteurer, der hilflos auf eine Puppe eindrischt. "... Kompetenz. Und Verschlagenheit. Was ja deine Spezialität sein soll, wie man hört."</DefaultText>
+      <DefaultText>"Andererseits&#160;…" Er mustert dich. "Ich hätte da etwas, was erledigt werden muss. Es erfordert&#160;…" Er wirft einen schiefen Blick auf einen Abenteurer, der hilflos auf eine Puppe eindrischt. "…&#160;Kompetenz. Und Verschlagenheit. Was ja deine Spezialität sein soll, wie man hört."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Andererseits ..." Er mustert dich. "Ich hätte da etwas, was erledigt werden muss. Es erfordert ..." Er wirft einen schiefen Blick auf einen Abenteurer, der hilflos auf eine Puppe eindrischt. "... Kompetenz. Und Gnadenlosigkeit. Was ja deine Spezialität sein soll, wie man hört."</DefaultText>
+      <DefaultText>"Andererseits&#160;…" Er mustert dich. "Ich hätte da etwas, was erledigt werden muss. Es erfordert&#160;…" Er wirft einen schiefen Blick auf einen Abenteurer, der hilflos auf eine Puppe eindrischt. "…&#160;Kompetenz. Und Gnadenlosigkeit. Was ja deine Spezialität sein soll, wie man hört."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Osric betrachtet kurz dein Gesicht. "Entweder ist deine Überzeugungskraft Stoff für Legenden ... oder der Mann, mit dem du gesprochen hast, war nicht Penhelm."</DefaultText>
+      <DefaultText>Osric betrachtet kurz dein Gesicht. "Entweder ist deine Überzeugungskraft Stoff für Legenden&#160;… oder der Mann, mit dem du gesprochen hast, war nicht Penhelm."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

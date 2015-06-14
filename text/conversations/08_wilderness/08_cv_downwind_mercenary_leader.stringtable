@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Sobald ein Weg frei ist, gib uns Bescheid. Wir sind bereit ... verwundet oder nicht, wir laufen, so schnell unsere Beine uns tragen."</DefaultText>
+      <DefaultText>"Sobald ein Weg frei ist, gib uns Bescheid. Wir sind bereit&#160;… verwundet oder nicht, wir laufen, so schnell unsere Beine uns tragen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,8 +21,8 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Blut rinnt von einer Wunde an seiner Schläfe seinen Hals hinab und befleckt ein Amulett an einer Goldkette. "Du bist kein Glanfathaner ..." Er umschließt den Griff seines Schwertes noch fester. "Bei Magran, Freund oder Feind, sage ich!"</DefaultText>
-      <FemaleText>Blut rinnt von einer Wunde an seiner Schläfe seinen Hals hinab und befleckt ein Amulett an einer Goldkette. "Du bist keine Glanfathanerin ..." Er umschließt den Griff seines Schwertes noch fester. "Bei Magran, Freund oder Feind, sage ich!"</FemaleText>
+      <DefaultText>Blut rinnt von einer Wunde an seiner Schläfe seinen Hals hinab und befleckt ein Amulett an einer Goldkette. "Du bist kein Glanfathaner&#160;…" Er umschließt den Griff seines Schwertes noch fester. "Bei Magran, Freund oder Feind, sage ich!"</DefaultText>
+      <FemaleText>Blut rinnt von einer Wunde an seiner Schläfe seinen Hals hinab und befleckt ein Amulett an einer Goldkette. "Du bist keine Glanfathanerin&#160;…" Er umschließt den Griff seines Schwertes noch fester. "Bei Magran, Freund oder Feind, sage ich!"</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -101,12 +101,12 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Der Mann legt seine Faust an die Lippen und küsst das Amulett. "Saretta ... ziehe ihn zu einem starken Mann auf." Er ergreift seine Klinge mit beiden Händen und fixiert dich mit seinem Blick.</DefaultText>
+      <DefaultText>Der Mann legt seine Faust an die Lippen und küsst das Amulett. "Saretta&#160;… ziehe ihn zu einem starken Mann auf." Er ergreift seine Klinge mit beiden Händen und fixiert dich mit seinem Blick.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Er blickt seinen Söldnertrupp mit besorgten Augen an. "Sieh uns an ... wir verstecken uns in den Felsen und halten unsere Eingeweide, damit sie nicht herausfallen." Er deutet nach Süden. "Die Reißzähne ... sie haben uns bluten lassen und nun stecken wir in der Falle."</DefaultText>
+      <DefaultText>Er blickt seinen Söldnertrupp mit besorgten Augen an. "Sieh uns an&#160;… wir verstecken uns in den Felsen und halten unsere Eingeweide, damit sie nicht herausfallen." Er deutet nach Süden. "Die Reißzähne&#160;… sie haben uns bluten lassen und nun stecken wir in der Falle."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,9 +116,9 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Er legt sein Schwert, noch immer mit Blut verkrustet, über die Schultern. "Der Stamm hat uns aus dem Hinterhalt angegriffen, als wir unser Lager aufschlugen. Der Kampf war ein ... einseitiges Gemetzel." Esmar starrt auf seine Füße, als er seinen Gedanken zu Ende führt.
+      <DefaultText>Er legt sein Schwert, noch immer mit Blut verkrustet, über die Schultern. "Der Stamm hat uns aus dem Hinterhalt angegriffen, als wir unser Lager aufschlugen. Der Kampf war ein&#160;… einseitiges Gemetzel." Esmar starrt auf seine Füße, als er seinen Gedanken zu Ende führt.
 
-"Während des Kampfes stolperte jemand durch das Lagerfeuer. Das war unser 'Glück' ... der Gestank von verbranntem Fleisch und der beißende Rauch haben für Verwirrung gesorgt und einigen von uns gelang der Rückzug."</DefaultText>
+"Während des Kampfes stolperte jemand durch das Lagerfeuer. Das war unser 'Glück'&#160;… der Gestank von verbranntem Fleisch und der beißende Rauch haben für Verwirrung gesorgt und einigen von uns gelang der Rückzug."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -135,7 +135,7 @@ Seine linke Hand spielt gedankenverloren mit einem Amulett herum, das er um den 
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Könnten wir. Vielleicht könnten wir sogar den Glanfathanern ausweichen, wenn wir schnell sind, aber ..." Der Hauptmann blickt über seine Schulter und schüttelt den Kopf. "Wir haben dort oben ein Rudel Stelgaer gesehen. Ich lasse mich lieber schnell von einem Gesichtsbemalten töten als langsam, Biss für Biss, von einer Raubkatze."</DefaultText>
+      <DefaultText>"Könnten wir. Vielleicht könnten wir sogar den Glanfathanern ausweichen, wenn wir schnell sind, aber&#160;…" Der Hauptmann blickt über seine Schulter und schüttelt den Kopf. "Wir haben dort oben ein Rudel Stelgaer gesehen. Ich lasse mich lieber schnell von einem Gesichtsbemalten töten als langsam, Biss für Biss, von einer Raubkatze."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,7 +147,7 @@ Seine linke Hand spielt gedankenverloren mit einem Amulett herum, das er um den 
       <ID>28</ID>
       <DefaultText>"Auf das Positive konzentrieren?", fragt er lachend, als er das Amulett zwischen seinen schwieligen Fingern spielen lässt.
 
-"Das ist für meinen Sohn&#160;– wenn er alt genug ist, dass man ihm solche Dinge anvertrauen kann. Er ist wenige Monate alt. Keine Hohlgeburt ... Hylea sei Dank."</DefaultText>
+"Das ist für meinen Sohn&#160;– wenn er alt genug ist, dass man ihm solche Dinge anvertrauen kann. Er ist wenige Monate alt. Keine Hohlgeburt&#160;… Hylea sei Dank."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -174,9 +174,9 @@ Er schultert seinen Rucksack. "Wenn ein Weg frei ist –&#160;nach Norden oder S
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Esmar blinzelt und hebt überrascht die Augenbrauen. "Du ... hast sie überzeugt?"
+      <DefaultText>Esmar blinzelt und hebt überrascht die Augenbrauen. "Du&#160;… hast sie überzeugt?"
 
-Die Falten um seine Augen herum vertiefen sich, als er die Stirn runzelt. Er blickt auf sein Amulett und dann wieder auf dich. "Gefangener? Wenn es der einzige Weg ist, meine Männer zu retten ... Dann erdulde ich es. Aber wessen Gefangener?"</DefaultText>
+Die Falten um seine Augen herum vertiefen sich, als er die Stirn runzelt. Er blickt auf sein Amulett und dann wieder auf dich. "Gefangener? Wenn es der einzige Weg ist, meine Männer zu retten&#160;… Dann erdulde ich es. Aber wessen Gefangener?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -195,7 +195,7 @@ Die Söldner tauschen Blicke aus und warten darauf, dass der erste dem Befehl ge
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Es ist meine Pflicht, für die Heimkehr meiner Männer zu sorgen. Wenn ich dafür die Gefangenschaft erdulden muss ... nun denn."</DefaultText>
+      <DefaultText>"Es ist meine Pflicht, für die Heimkehr meiner Männer zu sorgen. Wenn ich dafür die Gefangenschaft erdulden muss&#160;… nun denn."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -212,7 +212,7 @@ Die Söldner tauschen Blicke aus und warten darauf, dass der erste dem Befehl ge
       <ID>48</ID>
       <DefaultText>Als der letzte Mann gegangen ist, nickt Esmar dir zu. "Ich habe es begonnen, ich sollte es beenden." Er zieht ein Messer aus seinem Gürtel, schiebt es unter seinen linken Handschuh und mit einem kurzen Schmerzensschrei in sein Handgelenk.
 
-"Sag ... sag den Reißzähnen, ich habe die Abmachung eingehalten", sagt er, als er sich auf eine zerstörte Steinmauer setzt und die Klinge in den anderen Handschuh schiebt. Er schließt die Augen und sackt zu einem schwer atmenden Haufen zusammen. Blut sammelt sich um ihn herum.</DefaultText>
+"Sag&#160;… sag den Reißzähnen, ich habe die Abmachung eingehalten", sagt er, als er sich auf eine zerstörte Steinmauer setzt und die Klinge in den anderen Handschuh schiebt. Er schließt die Augen und sackt zu einem schwer atmenden Haufen zusammen. Blut sammelt sich um ihn herum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,7 +236,7 @@ Er nimmt die Kette mit dem Amulett vom Hals und gibt sie einem Soldaten. "Du wei
       <ID>60</ID>
       <DefaultText>"DU hältst mich als Gefangenen und das stellt sie zufrieden?" Er macht einen halben Schritt zurück und mustert dich von oben bis unten.
 
-"So sei es. Ich bin mehr als bereit, als Geisel gehalten zu werden, wenn wir dadurch alle sicher nach Hause kommen. Gewiss wirst du mich als echten Gefangenen halten müssen, um die Vereinbarung zu ehren, doch das verstehe ich. Bei weitem besser, als der Gefangene der Reißzähne zu sein ..."</DefaultText>
+"So sei es. Ich bin mehr als bereit, als Geisel gehalten zu werden, wenn wir dadurch alle sicher nach Hause kommen. Gewiss wirst du mich als echten Gefangenen halten müssen, um die Vereinbarung zu ehren, doch das verstehe ich. Bei weitem besser, als der Gefangene der Reißzähne zu sein&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,9 +246,9 @@ Er nimmt die Kette mit dem Amulett vom Hals und gibt sie einem Soldaten. "Du wei
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Esmar blinzelt und hebt überrascht die Augenbrauen. "Nun, wenn es jemandem gelingen kann, dann wohl nur dir. Aber ..."
+      <DefaultText>Esmar blinzelt und hebt überrascht die Augenbrauen. "Nun, wenn es jemandem gelingen kann, dann wohl nur dir. Aber&#160;…"
 
-Die Falten um seine Augen herum vertiefen sich, als er die Stirn runzelt. Er blickt auf sein Amulett und dann wieder auf dich. "Gefangener? Wenn es der einzige Weg ist, meine Männer zu retten ... Dann erdulde ich es. Aber wessen Gefangener?"</DefaultText>
+Die Falten um seine Augen herum vertiefen sich, als er die Stirn runzelt. Er blickt auf sein Amulett und dann wieder auf dich. "Gefangener? Wenn es der einzige Weg ist, meine Männer zu retten&#160;… Dann erdulde ich es. Aber wessen Gefangener?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

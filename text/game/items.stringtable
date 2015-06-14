@@ -821,7 +821,7 @@ Aloths hübsche, sorgfältige Schönschrift bildet auf den Seiten einen ordentli
       <ID>171</ID>
       <DefaultText>Diese Notiz ist blutverschmiert und zerrissen. Die Ränder sind mit einer Art Farbstoff verwischt. Aus den lesbaren Fetzen kannst du hastig geschriebene Anweisungen ablesen.
 
-"... zur Vermeidung des Eingangs im Turm ... Durchgang durch mein Geschäft würde die Aufmerksamkeit von ... auf sich ziehen. Der Dyrwald mag ja mit unseren Zielen sympathisieren, aber einen Tempel würden sie nicht genehmigen ... noch nicht ... Schlüssel zum Eingang am Fluss, östlich vom Dorf. Vorsicht auf der Straße ... zur Zeit gibt es Berichte über ... -T"</DefaultText>
+"…&#160;zur Vermeidung des Eingangs im Turm&#160;… Durchgang durch mein Geschäft würde die Aufmerksamkeit von&#160;… auf sich ziehen. Der Dyrwald mag ja mit unseren Zielen sympathisieren, aber einen Tempel würden sie nicht genehmigen&#160;… noch nicht&#160;… Schlüssel zum Eingang am Fluss, östlich vom Dorf. Vorsicht auf der Straße&#160;… zur Zeit gibt es Berichte über&#160;… –T"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1461,7 +1461,7 @@ Ich muss gestehen, dass ich nicht glaube, dass er seine Aufgabe besonders gut er
 
 "Sceyda hat es nicht geschafft. Ich weiß, dass Merec sein Bestes gegeben hat.
 
-'Kein Grund, jetzt noch umzukehren.' Das jedenfalls hat Merec gesagt. Ich glaube, dass es eher darum geht, diese Ruinen lebend zu verlassen. Wir haben bereits die Hälfte unserer Leute verloren, und ich weiß nicht, wie wir das hier überleben sollen ... besonders jetzt, da Sceyda von uns gegangen ist. Die Götter waren uns gnädig und ließen uns dieses Herrenzimmer mit den Büchern darin finden. Mit diesen Wälzern sollte sich an und für sich ein guter Preis erzielen lassen. Wir müssen gar nicht mehr weiter gehen.
+'Kein Grund, jetzt noch umzukehren.' Das jedenfalls hat Merec gesagt. Ich glaube, dass es eher darum geht, diese Ruinen lebend zu verlassen. Wir haben bereits die Hälfte unserer Leute verloren, und ich weiß nicht, wie wir das hier überleben sollen&#160;… besonders jetzt, da Sceyda von uns gegangen ist. Die Götter waren uns gnädig und ließen uns dieses Herrenzimmer mit den Büchern darin finden. Mit diesen Wälzern sollte sich an und für sich ein guter Preis erzielen lassen. Wir müssen gar nicht mehr weiter gehen.
 
 Aber dieses Siegel bringt sein Blut in Wallung. Er ist sich sicher, dass wir unter der Erde noch mehr engwithanische Reliquien finden werden. Mit jedem Schritt entfernen wir uns mehr von einer sicheren Beute und steigen tiefer in unbekanntes Territorium hinab. Ich weiß nicht, welcher Wahnsinn ihn ergriffen hat.
 
@@ -2523,7 +2523,7 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
     </Entry>
     <Entry>
       <ID>516</ID>
-      <DefaultText>"Wie kann es sein, dass einen eine derart große Reise wie die meine hierher führt? Die Bevölkerung des Dyrwalds nennt diese erbärmliche Lagune sehenswert, aber mir ist hier nur Unglück widerfahren. Die Höhlen am Wasser wollte ich erkunden, aber ich fand nur heraus, dass dort Sporlinge leben. Den gerühmten Kompass ging ich mir ansehen, stolperte über ein Stück Treibholz und verlor den Großteil meiner Briefe. Letztlich machte ich mich auf, die Drachenschädel in der Nähe zu inspizieren, und was passierte? Ein paar kleine närrische Xaurips bedrohten mich. Sobald ich wieder zu Atem gekommen bin, werde ich nach Goldtal zurückkehren. Zumindest scheinen mir die Xaurips nicht gefolgt zu s ..."</DefaultText>
+      <DefaultText>"Wie kann es sein, dass einen eine derart große Reise wie die meine hierher führt? Die Bevölkerung des Dyrwalds nennt diese erbärmliche Lagune sehenswert, aber mir ist hier nur Unglück widerfahren. Die Höhlen am Wasser wollte ich erkunden, aber ich fand nur heraus, dass dort Sporlinge leben. Den gerühmten Kompass ging ich mir ansehen, stolperte über ein Stück Treibholz und verlor den Großteil meiner Briefe. Letztlich machte ich mich auf, die Drachenschädel in der Nähe zu inspizieren, und was passierte? Ein paar kleine närrische Xaurips bedrohten mich. Sobald ich wieder zu Atem gekommen bin, werde ich nach Goldtal zurückkehren. Zumindest scheinen mir die Xaurips nicht gefolgt zu s…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2590,7 +2590,7 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
       <ID>529</ID>
       <DefaultText>Dieses Stück Pergament ist in relativ gutem Zustand, aber die Tinte darauf ist verblichen. Du kannst ein paar Stellen mit sorgfältiger Schönschrift erkennen.
 
-"...esucher zur Ritualebene. Rectrix Obrica sagt ...rlösung sogar für diese ...ergessen und die größte Glocke zuerst geschlagen statt als zweites ..." Der Rest ist unleserlich.</DefaultText>
+"…esucher zur Ritualebene. Rectrix Obrica sagt …rlösung sogar für diese …ergessen und die größte Glocke zuerst geschlagen statt als zweites&#160;…" Der Rest ist unleserlich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2714,7 +2714,7 @@ Dieser Helm trägt das Sonnensymbol der readceranischen Armee. Wahrscheinlich wu
     </Entry>
     <Entry>
       <ID>556</ID>
-      <DefaultText>Dieses Stück Pergament ist zerrissen und mit Blut und Trollspeichel gesprenkelt. Auf dem verbliebenen Rest steht: "Besorgt, dass ihm etwas passiert sein könnte. Nachdem ich Trutzbucht erreicht habe, werde ich Führer anwerben, die mich sicher zurück nach Westen bringen. Vielleicht können wir Fulvano ja finden. Momentan bereue ich meinen Eifer, Goldtal verlassen zu haben. Es ist sehr dunkel ..."</DefaultText>
+      <DefaultText>Dieses Stück Pergament ist zerrissen und mit Blut und Trollspeichel gesprenkelt. Auf dem verbliebenen Rest steht: "Besorgt, dass ihm etwas passiert sein könnte. Nachdem ich Trutzbucht erreicht habe, werde ich Führer anwerben, die mich sicher zurück nach Westen bringen. Vielleicht können wir Fulvano ja finden. Momentan bereue ich meinen Eifer, Goldtal verlassen zu haben. Es ist sehr dunkel&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3770,7 +3770,7 @@ Icantha.</DefaultText>
 
 "Morgen kommt Clessia an. Angesichts unserer Trennung bei ihrem letzten Besuch hätte ich nicht angenommen, dass sie zurückkehrt. Als ich den Brief von Ozia erhielt, befürchtete ich das Schlimmste. Unsere räumliche Trennung ist schwer für sie gewesen, und meine Konzentration auf meine Forschung hat die Sache nicht unbedingt leichter gemacht.
 
-Morgen wird all das aber egal sein. Die Dinge, die wir sagten, die Dinge, die ich nicht sagte ... Ich werde die Chance bekommen, es wieder gutzumachen. Ich wünschte, dass wir hier mehr unter uns wären, aber momentan ist das alte Haus im Norden von Ondras Geschenk immer noch leer."</DefaultText>
+Morgen wird all das aber egal sein. Die Dinge, die wir sagten, die Dinge, die ich nicht sagte&#160;… Ich werde die Chance bekommen, es wieder gutzumachen. Ich wünschte, dass wir hier mehr unter uns wären, aber momentan ist das alte Haus im Norden von Ondras Geschenk immer noch leer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5013,19 +5013,19 @@ Bitte sieh dich vor. Sei dir sicher: Was auch immer passiert, ich liebe dich noc
       <ID>1016</ID>
       <DefaultText>Das verschlungene Gekritzel ist schwer zu lesen, aber als du durch die Seiten blätterst, siehst du mehrere lesbare Passagen. Ziemlich am Anfang liest du Folgendes:
 
-"... wird ein geeigneter Ort für meine Experimente sein. Es gibt dort mehr als genug Platz, aber noch besser ist, dass ihn die Einheimischen bereitwillig ignorieren. Möglich wäre wahrscheinlich sogar ein B ..."
+"…&#160;wird ein geeigneter Ort für meine Experimente sein. Es gibt dort mehr als genug Platz, aber noch besser ist, dass ihn die Einheimischen bereitwillig ignorieren. Möglich wäre wahrscheinlich sogar ein B…"
 
 Du überspringst mehrere Seiten.
 
-"... Freiwillige. Das Vermächtnis hat viele Missstände ans Licht gebracht, und das Einfangen der Essenz ist hauptsächlich eine Frage des richtigen Zeitpunkts. Das Ritual des Bildnisses fungiert als gute Vorlage für ..."
+"…&#160;Freiwillige. Das Vermächtnis hat viele Missstände ans Licht gebracht, und das Einfangen der Essenz ist hauptsächlich eine Frage des richtigen Zeitpunkts. Das Ritual des Bildnisses fungiert als gute Vorlage für&#160;…"
 
 Du überfliegst die Mitte des Buches.
 
-"... starben und ihre Essenzen verdampften. Nächstes Mal muss ich es mit einer geringeren Konzentration der Reagenz versuchen, um ..."
+"…&#160;starben und ihre Essenzen verdampften. Nächstes Mal muss ich es mit einer geringeren Konzentration der Reagenz versuchen, um&#160;…"
 
 Du blätterst bis zur letzten Seite.
 
-"... Edelmann aus Trutzbucht. Die Ergebnisse deckten sich größtenteils mit denen der anderen Testpersonen. Die Methode auf einen widerwilligen Teilnehmer anzuwenden, stellt immer eine Herausforderung dar, aber ihre Situation könnte sich als Vorteil herausstellen. Falls es mir gelingt, diese Erinnerungen an ihren Onkel nach vorne zu holen, könnte ihre Essenz dadurch empfänglicher für das Verfahren werden."</DefaultText>
+"…&#160;Edelmann aus Trutzbucht. Die Ergebnisse deckten sich größtenteils mit denen der anderen Testpersonen. Die Methode auf einen widerwilligen Teilnehmer anzuwenden, stellt immer eine Herausforderung dar, aber ihre Situation könnte sich als Vorteil herausstellen. Falls es mir gelingt, diese Erinnerungen an ihren Onkel nach vorne zu holen, könnte ihre Essenz dadurch empfänglicher für das Verfahren werden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5364,7 +5364,7 @@ Trindig</DefaultText>
     </Entry>
     <Entry>
       <ID>1095</ID>
-      <DefaultText>Peridot ist ein glasiger Stein, der fast immer fahlgrün ist. Er ist relativ häufig zu finden ... aber relativ selten in echter Edelsteinqualität.</DefaultText>
+      <DefaultText>Peridot ist ein glasiger Stein, der fast immer fahlgrün ist. Er ist relativ häufig zu finden&#160;… aber relativ selten in echter Edelsteinqualität.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5495,7 +5495,7 @@ In der Mitte der Wiese, der von den Völkern von Ixamitl als Zentrum von Eora an
       <ID>1119</ID>
       <DefaultText>Der bekannte vailianische Akrobat Angio trug dieses Gewand, während er atemberaubende Kunststücke vorführte, die sich den Gesetzen der Natur und den Standards des gesunden Menschenverstands zu widersetzen schienen. Er sprang und rollte über hoch über dem Boden gespannte Seile, und auch wenn es keine Beweise gibt, dass dieser Brustharnisch seine Intelligenz minderte, so ließ seine Sorge um seine Sicherheit doch immer mehr nach, je größer seine Berühmtheit und sein Können wurden.
 
-Er verzichtete auf Sicherheitsgurte und schließlich sogar auf jede Art von Sicherung, da er der Meinung war, diese Fesseln würden ihn bei seinen Darbietungen nur behindern. Tatsächlich ließ sein Können ihn nie im Stich ... eines seiner Drahtseile jedoch schon. Er stürzte am Fuß der Festung von Ancenze in den Tod.</DefaultText>
+Er verzichtete auf Sicherheitsgurte und schließlich sogar auf jede Art von Sicherung, da er der Meinung war, diese Fesseln würden ihn bei seinen Darbietungen nur behindern. Tatsächlich ließ sein Können ihn nie im Stich&#160;… eines seiner Drahtseile jedoch schon. Er stürzte am Fuß der Festung von Ancenze in den Tod.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5765,7 +5765,7 @@ Nach seinen ersten Begegnungen mit Lindwürmern ließ Saelfors Interesse an der 
       <ID>1165</ID>
       <DefaultText>Ein aedyrischer Entdeckter hörte einst die Legende eines engwithanischen Grabs, das mit den größten Schätzen des untergegangenen Reichs gefüllt sei. Entschlossen, sich einen Namen zu machen und gleichzeitig reich zu werden, ließ er einen der besten Schmiede im Dyrwald eine Klinge fertigen, die der Aufgabe würdig sei.
 
-Er stieg an einen Ort hinab, der die Endlosen Pfade von Od Nua genannt wird ... und es ward nie wieder von ihm gehört. Die unbekannten Grauen, die dort hausen, fielen über seine Besitztümer her, und seine wertvolle Klinge wurde zertrümmert.</DefaultText>
+Er stieg an einen Ort hinab, der die Endlosen Pfade von Od Nua genannt wird&#160;… und es ward nie wieder von ihm gehört. Die unbekannten Grauen, die dort hausen, fielen über seine Besitztümer her, und seine wertvolle Klinge wurde zertrümmert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6495,7 +6495,7 @@ Er fertigte aus dem Kerzenständer eine Waffe und durchstreifte die Stadt, um in
 
 Eines Nachts erwachte die Stadt von lauten Angst- und Schmerzensschreien. Der Bauer, der Wache gehalten hatte, lag in der Mitte eines Feldes, eine Schulter nur noch ein blutiger Stumpf, ein grauenhafter Ghul über ihn gebeugt. Der Ghul sah die Bewohner und floh, noch immer am rechten Arm des Bauern nagend.
 
-Sie brachten den Bauern zurück zu seinem Haus und die Heilerin tat ihr Bestes, ihn zu versorgen. Als sie fragten, was geschehen sei, stammelte der Bauer etwas, was wie "wunderschön ... so schön ..." klang. Der Ghul wurde fortan nur noch Wunderschön-so-schön genannt und die Bewohner der Stadt suchten jemanden, der ihn besiegen konnte. Ihre Rufe wurden schließlich von einem Nekromanten erhört, der eine Rippe des getöteten Ghuls behielt und daraus einen Stab fertigen ließ.</DefaultText>
+Sie brachten den Bauern zurück zu seinem Haus und die Heilerin tat ihr Bestes, ihn zu versorgen. Als sie fragten, was geschehen sei, stammelte der Bauer etwas, was wie "wunderschön&#160;… so schön&#160;…" klang. Der Ghul wurde fortan nur noch Wunderschön-so-schön genannt und die Bewohner der Stadt suchten jemanden, der ihn besiegen konnte. Ihre Rufe wurden schließlich von einem Nekromanten erhört, der eine Rippe des getöteten Ghuls behielt und daraus einen Stab fertigen ließ.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7916,17 +7916,17 @@ Im Jahr 2260 AI konnten Beseeler als Ergebnis ihrer aufwendigen Forschungen eine
 Wir besitzen keine echten Aufzeichnungen darüber, was geschehen ist (sie wurden nach dem Verbot der Beseelung allesamt vernichtet). Es wurde jedoch ein Tagebuch entdeckt, eine Art Geständnis eines Teilnehmers. Es folgen Auszüge aus diesem Tagebuch:
 
 2260 AI, 16. Fonprima
-Es ist getan, mögen die Götter uns unsere Arroganz vergeben. Ich weiß nicht, was ich erwartet hatte&#160;– sicherlich nicht ... das. Aber was haben wir überhaupt erwartet?
+Es ist getan, mögen die Götter uns unsere Arroganz vergeben. Ich weiß nicht, was ich erwartet hatte&#160;– sicherlich nicht&#160;… das. Aber was haben wir überhaupt erwartet?
 
 Dennoch, unter der Abscheu spüre ich auch einen Hauch von Stolz, das kann ich nicht leugnen. All die Forschungen. Die Studien. Alles, worauf wir hingearbeitet haben. Wir dachten, wir würden die Welt verändern. Und wie sie sich verändert hat!
 
 Es war alles bereit. Die kranke Gestalt, die auf dem Tisch neben ihrem neuen Behälter lag. Die Ausrüstung war vorbereitet. Die Tinkturen und Tränke waren sorgfältig hergestellt worden. Jedes noch so kleine Detail war gewissenhaft vorbereitet, um den Erfolg der Prozedur zu gewährleisten. Und wir waren erfolgreich, oh ja, das waren wir.
 
-Die Prozedur verlief genau wie geplant. Die Seele ... aus dem alten Körper extrahiert ... festgehalten ... gebunden, damit sie nicht weiterzieht. Dann der nächste Schritt&#160;– die Übertragung auf den frischen Behälter. Es war wunderschön und Furcht erregend. Ich lauschte den Worten der Bindung. Ich sah, wie die Seele sich bewegte&#160;– nicht die Seele selbst, versteht sich, sondern den Dampf, den wir verwenden, um sie zu entdecken -, als sie hinab in den Behälter glitt. Ein sanftes Leuchten bedeckte den Körper und dann ... nichts.
+Die Prozedur verlief genau wie geplant. Die Seele&#160;… aus dem alten Körper extrahiert&#160;… festgehalten&#160;… gebunden, damit sie nicht weiterzieht. Dann der nächste Schritt&#160;– die Übertragung auf den frischen Behälter. Es war wunderschön und Furcht erregend. Ich lauschte den Worten der Bindung. Ich sah, wie die Seele sich bewegte&#160;– nicht die Seele selbst, versteht sich, sondern den Dampf, den wir verwenden, um sie zu entdecken -, als sie hinab in den Behälter glitt. Ein sanftes Leuchten bedeckte den Körper und dann&#160;… nichts.
 
 Schweigen. Dunkelheit. Ich hielt den Atem an, in der Sorge, dass selbst die kleinste Störung unsere ganze harte Arbeit zerstören würde.
 
-Dann bewegte sich etwas. Dann ... liebe Götter ... dann ...
+Dann bewegte sich etwas. Dann&#160;… liebe Götter&#160;… dann&#160;…
 
 Blut.
 
@@ -8013,8 +8013,8 @@ TORFAL: Kein Wort mehr!
 Belmis' Kopf erscheint während dieses Austausches über dem Stuhl. Er beobachtet die drei. Als Clanna spricht, ist er von ihr wie verzaubert.
 
 TORFAL: Pafenda, wurden alle Vorkehrungen für Irebys Ankunft getroffen?
-PAFENDA: Jawohl, Herr. Der gute Brandy wurde aus dem Keller geholt. Und die ... andere Erfrischung wurde ebenfalls vorbereitet.
-CLANNA: Andere ... Torfal! Wage es nicht!
+PAFENDA: Jawohl, Herr. Der gute Brandy wurde aus dem Keller geholt. Und die&#160;… andere Erfrischung wurde ebenfalls vorbereitet.
+CLANNA: Andere&#160;… Torfal! Wage es nicht!
 TORFAL: Wenn das dazu nötig ist, Clanna, dann tue ich es. Und nun geh und bereite dich auf Irebys Ankunft vor. Wir müssen makellos aussehen. Wir müssen diesen Auftrag bekommen!
 
 Alle drei verlassen den Raum. Belmis erhebt sich.
@@ -8102,7 +8102,7 @@ Eine weitere gute Frage, die von vielen gestellt wird, bezieht sich auf die Glan
       <ID>1553</ID>
       <DefaultText>Wenn man in Eir&#160;Glanfath den Namen Regd erwähnt, so werden einem Geschichten erzählt von einem glorreichen Freiheitskämpfer&#160;– einem Orlaner, der sein taktisches Geschick und seine militärische Ausbildung nutzte, um die Glanfathaner vor den Gräueltaten der Invasoren im Dyrwald zu beschützen. Fragt man im Dyrwald nach ihm, so hört man wütende Berichte über die schändlichen Taten eines hinterhältigen, unehrenhaften Orlaners, der die Bürger des Dyrwalds terrorisiert hat. Aus solchen Konflikten entstehen Legenden, und Galven Regd ist eine solche Legende.
 
-Der Krieg des Zerbrochenen Steins begann durch ein Missverständnis zwischen den Glanfathanern, die im Dyrwald lebten, und den aedyrischen Kolonisten, die sich dort niederließen. Es gab bereits Spannungen zwischen den beiden Gruppen, da die Aedyrer Land für sich beanspruchten, von dem die Glanfathaner sagten, es befände sich bereits in ihrem Besitz. Da zudem noch Glanfathaner von Aedyrern gefangen genommen und versklavt wurden, war es nur eine Frage der Zeit, bis etwas das Fass zum Überlaufen brachte und die zwei Völker gegeneinander Krieg führten. Es gab zwar gelegentliche Scharmützel und Kämpfe zwischen isolierten Gruppen, aber keinen echten Konflikt ... bis zum Krieg des Zerbrochenen Steins.
+Der Krieg des Zerbrochenen Steins begann durch ein Missverständnis zwischen den Glanfathanern, die im Dyrwald lebten, und den aedyrischen Kolonisten, die sich dort niederließen. Es gab bereits Spannungen zwischen den beiden Gruppen, da die Aedyrer Land für sich beanspruchten, von dem die Glanfathaner sagten, es befände sich bereits in ihrem Besitz. Da zudem noch Glanfathaner von Aedyrern gefangen genommen und versklavt wurden, war es nur eine Frage der Zeit, bis etwas das Fass zum Überlaufen brachte und die zwei Völker gegeneinander Krieg führten. Es gab zwar gelegentliche Scharmützel und Kämpfe zwischen isolierten Gruppen, aber keinen echten Konflikt&#160;… bis zum Krieg des Zerbrochenen Steins.
 
 Ob beabsichtigt oder nicht, aedyrische Bauern, die Ackerland für ihre Feldfrüchte schaffen wollten, warfen einen der uralten Hinkelsteine um, die überall auf dem Land zu finden sind&#160;– und er zerbrach. Die Glanfathaner, welche die alten Ruinen im Dyrwald als heilig ansahen, reagierten schnell und gewalttätig, angeführt von einem besonders fanatischen Reißzahn namens Regd. Der Krieg war zwar nur von kurzer Dauer und die Glanfathaner gingen letztlich nicht als Sieger aus ihm hervor, doch Regd und seine Truppen konnten eine beträchtliche Zahl von Kolonisten eliminieren.
 
@@ -8261,7 +8261,7 @@ Man stelle sich den größten Wal vor, den man je gesehen hat. Der Leviathan ist
 
 Polpovir
 
-Alle Kreaturen, über die in diesem Buch berichtet wurden, verblassen gegenüber dem Polpovir. Er ist kaum so groß wie ein Mann, doch was ihm an Größe und Stärke fehlt, das macht er durch zahlenmäßige Überlegenheit und Furcht erregende Aggressivität wett. Die untere Hälfte des Polpovirs ist eine Masse von Tentakeln, ähnlich einem Oktopus oder Tintenfisch, aber viel zahlreicher. Die Tentakeln sind lange, schwarze Peitschen mit Saugnäpfen an der Unterseite und kleinen dornigen Stacheln an der Oberseite. Durch die schiere Zahl an Tentakeln bewegt der Polpovir sich an Land mit beängstigender Geschwindigkeit, beinahe so schnell wie ein galoppierendes Pferd. Von der Hüfte aufwärts ähnelt der Polpovir auf den ersten Blick einem Menschen, doch bei näherer Betrachtung zeigt sich, wie falsch diese Annahme ist. Lange, strähnige, schwarze Haare fallen von seinem Kopf und bedecken ein Gesicht, das unmittelbar aus einem Albtraum stammt. Ein breites, klaffendes Maul erstreckt sich am unteren Ende des Kopfes von Ohr zu Ohr, voll von grauenhaften, dolchähnlichen Zähnen. Zwei große, runde Augen sitzen tief im Kopf des Polpovirs und leuchten mit einem böswilligen Feuer. Ein kleiner Fühler ragt aus der Mitte seiner Stirn hervor. An seinem Ende sitzt ein kleiner Knoten, der ein unheimliches blaues Licht ausstrahlen kann. Man stelle sich einen Seemann vor, der des Nachts an Deck seines Schiffes steht und über das schwarze Wasser blickt ... als plötzlich unzählige Lichter unter der Wasseroberfläche erscheinen und zu ihm aufsteigen, als der Polpovir-Schwarm sich aus dem Wasser erhebt. Da der Polpovir mehr Oktopus als Mensch zu sein scheint, kann er sich einrollen, wodurch er an Orte gelangen kann, an die kein Mensch je gelangen könnte. Der kleinste Riss im Rumpf, der kleinste Spalt zwischen Bohlen bietet ihm Zugang. Es ist schon vorkommen, dass Polpovirs von unten in ein Schiff eingedrungen sind und die gesamte Besetzung vom Lagerraum bis zum Oberdeck getötet haben. Glücklicherweise scheint der Polpovir sich außerhalb des Archipels noch nicht ausgebreitet zu haben. Es ist jedoch zu befürchten, dass sich das eines Tages ändert ...</DefaultText>
+Alle Kreaturen, über die in diesem Buch berichtet wurden, verblassen gegenüber dem Polpovir. Er ist kaum so groß wie ein Mann, doch was ihm an Größe und Stärke fehlt, das macht er durch zahlenmäßige Überlegenheit und Furcht erregende Aggressivität wett. Die untere Hälfte des Polpovirs ist eine Masse von Tentakeln, ähnlich einem Oktopus oder Tintenfisch, aber viel zahlreicher. Die Tentakeln sind lange, schwarze Peitschen mit Saugnäpfen an der Unterseite und kleinen dornigen Stacheln an der Oberseite. Durch die schiere Zahl an Tentakeln bewegt der Polpovir sich an Land mit beängstigender Geschwindigkeit, beinahe so schnell wie ein galoppierendes Pferd. Von der Hüfte aufwärts ähnelt der Polpovir auf den ersten Blick einem Menschen, doch bei näherer Betrachtung zeigt sich, wie falsch diese Annahme ist. Lange, strähnige, schwarze Haare fallen von seinem Kopf und bedecken ein Gesicht, das unmittelbar aus einem Albtraum stammt. Ein breites, klaffendes Maul erstreckt sich am unteren Ende des Kopfes von Ohr zu Ohr, voll von grauenhaften, dolchähnlichen Zähnen. Zwei große, runde Augen sitzen tief im Kopf des Polpovirs und leuchten mit einem böswilligen Feuer. Ein kleiner Fühler ragt aus der Mitte seiner Stirn hervor. An seinem Ende sitzt ein kleiner Knoten, der ein unheimliches blaues Licht ausstrahlen kann. Man stelle sich einen Seemann vor, der des Nachts an Deck seines Schiffes steht und über das schwarze Wasser blickt&#160;… als plötzlich unzählige Lichter unter der Wasseroberfläche erscheinen und zu ihm aufsteigen, als der Polpovir-Schwarm sich aus dem Wasser erhebt. Da der Polpovir mehr Oktopus als Mensch zu sein scheint, kann er sich einrollen, wodurch er an Orte gelangen kann, an die kein Mensch je gelangen könnte. Der kleinste Riss im Rumpf, der kleinste Spalt zwischen Bohlen bietet ihm Zugang. Es ist schon vorkommen, dass Polpovirs von unten in ein Schiff eingedrungen sind und die gesamte Besetzung vom Lagerraum bis zum Oberdeck getötet haben. Glücklicherweise scheint der Polpovir sich außerhalb des Archipels noch nicht ausgebreitet zu haben. Es ist jedoch zu befürchten, dass sich das eines Tages ändert&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8668,7 +8668,7 @@ Ich habe sie zwar selbst nie gesehen, doch ich habe Berichte von riesigen Insekt
 
 Pflanzen
 
-Und ehe wir es vergessen&#160;– auch vor den Pflanzen muss man sich hüten! Ich hatte eine wunderbare Ansammlung von riesigen Blumen entdeckt. Sie waren leuchtend rosa und wuchsen in einem Kreis um einen Stängel herum. Dieser Duft! Mir fehlen die Worte, um zu beschreiben, wie wunderbar er war. Süß, fruchtig und leicht, ein klein bisschen scharf. Als ich die Blumen genauer besah, entdeckte ich, dass auf dem Stängel in ihrer Mitte Beeren wuchsen. Ich musste sie einfach haben! Ich begann also, mich durch die Blumen zu quetschen. Dann begannen die Ranken am Fuß der Pflanze zu zucken und die Blüten drehten sich zu mir. In diesem Augenblick erkannte ich, dass es keine Blumen waren, sondern Kiefer! Ich war auf die Tarnung hereingefallen! Eilige drängte ich wieder hinaus, gerade noch rechtzeitig. Die Blumen schnappten zu. Hätte ich noch dort gestanden und vergeblich versucht, die Beeren zu erreichen ... ich würde heute nicht dieses Buch schreiben.</DefaultText>
+Und ehe wir es vergessen&#160;– auch vor den Pflanzen muss man sich hüten! Ich hatte eine wunderbare Ansammlung von riesigen Blumen entdeckt. Sie waren leuchtend rosa und wuchsen in einem Kreis um einen Stängel herum. Dieser Duft! Mir fehlen die Worte, um zu beschreiben, wie wunderbar er war. Süß, fruchtig und leicht, ein klein bisschen scharf. Als ich die Blumen genauer besah, entdeckte ich, dass auf dem Stängel in ihrer Mitte Beeren wuchsen. Ich musste sie einfach haben! Ich begann also, mich durch die Blumen zu quetschen. Dann begannen die Ranken am Fuß der Pflanze zu zucken und die Blüten drehten sich zu mir. In diesem Augenblick erkannte ich, dass es keine Blumen waren, sondern Kiefer! Ich war auf die Tarnung hereingefallen! Eilige drängte ich wieder hinaus, gerade noch rechtzeitig. Die Blumen schnappten zu. Hätte ich noch dort gestanden und vergeblich versucht, die Beeren zu erreichen&#160;… ich würde heute nicht dieses Buch schreiben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8745,7 +8745,7 @@ Doch, sieh!
 Wie dunkel wird es nur? Wo ist die Sonne denn geblieben?
 Wo bist du? Ich sehe ich dich nicht.
 Ich werde dich finden.
-Ich werde ...
+Ich werde&#160;…
 
 Favia stirbt.
 
@@ -8826,7 +8826,7 @@ Vergesst nicht eure Königin.</DefaultText>
     </Entry>
     <Entry>
       <ID>1577</ID>
-      <DefaultText>Der Legende nach wurde dieser rote Umhang einst von einem berühmten Schwertkämpfer aus dem Todesfeuer-Archipel getragen. Mit seiner Karavelle lieferte er für seine Kunden wertvolle Fracht auf der gesamten Inselkette aus. Er war für seine Geschwindigkeit und List auf hoher See bekannt&#160;– nur wenigen Piraten gelang es je, ihn einzuholen ... und sie bereuten es bald.</DefaultText>
+      <DefaultText>Der Legende nach wurde dieser rote Umhang einst von einem berühmten Schwertkämpfer aus dem Todesfeuer-Archipel getragen. Mit seiner Karavelle lieferte er für seine Kunden wertvolle Fracht auf der gesamten Inselkette aus. Er war für seine Geschwindigkeit und List auf hoher See bekannt&#160;– nur wenigen Piraten gelang es je, ihn einzuholen&#160;… und sie bereuten es bald.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9051,7 +9051,7 @@ TORFAL: (Pause) Wann-
 BELMIS: Ich bin eben erst eingetroffen. Das Wetter hat mich aufgehalten, sonst wäre ich schon früher gekommen.
 TORFAL: Pause) Wie-
 BELMIS: Pafenda hat mich eingelassen und mich gebeten, hier auf dich zu warten. Sie wollte dich suchen gehen.
-TORFAL: (Pause) Ireby ... Natürlich! Willkommen in meinem Heim. Bitte verzeiht meine Manieren! Ich hatte Euch erst in einer Stunde erwartet.
+TORFAL: (Pause) Ireby&#160;… Natürlich! Willkommen in meinem Heim. Bitte verzeiht meine Manieren! Ich hatte Euch erst in einer Stunde erwartet.
 
 Sie schütteln sich die Hände und Torfal gießt ihnen etwas zu trinken ein.
 
@@ -9071,14 +9071,14 @@ BELMIS: Auf das Geschäft!
 Belmis stellt das Glas ab und nimmt die Kiste in die Hand. Er öffnet sie und steckt einen Finger hinein. Als er ihn wieder herausnimmt, ist er voll mit einer dunklen Paste. Er streckt ihn Torfals Mund entgegen.
 
 BELMIS: Sollen wir richtig feiern?
-TORFAL: Oh, nein. Nein, nein, nein. Ich nehme nie Svef, ich wusste nur, dass Ihr eine Vorliebe dafür habt. Bitte sehr, nur zu ...
+TORFAL: Oh, nein. Nein, nein, nein. Ich nehme nie Svef, ich wusste nur, dass Ihr eine Vorliebe dafür habt. Bitte sehr, nur zu&#160;…
 
 Belmis grunzt und betrachtet seinen Finger. Er geht auf Torfal zu.
 
 TORFAL: Ich muss sagen, diese Wendung ist äußerst erfreulich. Ich war mir sicher, es würde Stunden dauern, Euch-
 BELMIS (streckt seinen Finger Torfals Mund entgegen): Was ist das?
 TORFAL (wendet den Kopf, so dass Belmis' Finger seine Lippen nur knapp verfehlt): Was?
-BELMIS (seufzt): Ach, nichts. Mein Fehler ... Ich war mir sicher, etwas gesehen zu haben.
+BELMIS (seufzt): Ach, nichts. Mein Fehler&#160;… Ich war mir sicher, etwas gesehen zu haben.
 
 Belmis geht hinter Torfal herum und nähert sich ihm von der anderen Seite.
 
@@ -9387,7 +9387,7 @@ MÄNNLICH: Das Urteil ist endgültig. Die Entscheidung ist gefallen. (Er wendet 
       <ID>1656</ID>
       <DefaultText>Ich hätte nie erwartet, in meinem Leben einmal ein Massaker von solchen Ausmaßen zu sehen. Ich war in meinem Schreibzimmer, um wichtige Dokumente für die Evakuierung einpacken. Ich ahnte nicht, dass die Aedyrer so drastisch vorgehen würden. Es war meine Frau, Ne'iloc, die zuerst hörte, wie die Dämme brachen. Wir stiegen auf das Dach, als das Wasser den Treppenabsatz erreichte. Meine drei Kinder Nathe, Leibelsa und Kyrre hielten wir in den Armen. Das Wasser erreichte unsere Brust. Wir klammerten uns an den gerade erst reparierten Schornstein. So konnten wir verhindern, dass die Fluten uns wegrissen. Andere Familien hatten weniger Glück.
 
-Als das Wasser schließlich zurückging, waren die Straßen voller Schutt, Schlamm und stinkender Fische. Der halbe Bezirk war vom Meer verschluckt worden. Leichen schwammen im Wasser, zusammen mit allem, was bei der Evakuierung zurückgelassen worden war. Wir verbrannten die Bürger, die wir fanden. Die armen Seelen haben sonst niemanden, der sich an sie erinnert, daher dokumentiere ich sie hier. Ich weiß nicht, ob sie Angehörige hatten, welche die Flut überlebt haben, aber es ist besser, ihre Namen niederzuschreiben, damit diese grauenhafte Flut sie nicht einfach wegspült ... wie so vieles andere.
+Als das Wasser schließlich zurückging, waren die Straßen voller Schutt, Schlamm und stinkender Fische. Der halbe Bezirk war vom Meer verschluckt worden. Leichen schwammen im Wasser, zusammen mit allem, was bei der Evakuierung zurückgelassen worden war. Wir verbrannten die Bürger, die wir fanden. Die armen Seelen haben sonst niemanden, der sich an sie erinnert, daher dokumentiere ich sie hier. Ich weiß nicht, ob sie Angehörige hatten, welche die Flut überlebt haben, aber es ist besser, ihre Namen niederzuschreiben, damit diese grauenhafte Flut sie nicht einfach wegspült&#160;… wie so vieles andere.
 
 William "Blutiger Bill" Distelholz&#160;– Fleischer
 Albel Nordenbring&#160;– Professor
@@ -9758,7 +9758,7 @@ Berath rettet vielleicht unsere Verstorbenen nicht, aber er beantwortet unsere G
 
 Du hast mich einst gefragt, warum ich Ondra so sehr liebe&#160;– wie ich vom Festlandbewohner zu einem Anhänger der Göttin der Meere werden konnte. Ich singe von der Trauer des Ozeans, auf dass ich die meine vergesse. Es ist Ondras Botschaft, die zu meinem Herzen spricht&#160;– ich habe mein Leben der Aufgabe verschrieben, anderen dabei zu helfen, schmerzliche Erinnerungen aufzugeben, denn mit dieser Gabe hat Ondra mich bedacht. Als ich meine junge Tochter verlor, waren meine Frau und ich untröstlich, bis ein Gabenbringer anbot, die Spielzeuge meines Kindes zu nehmen und sie in die tiefsten Wasser zu werfen.
 
-Um ehrlich zu sein, haben weder ich noch die anderen Gabenbringer, die ich kenne, jemals mit Ondra gesprochen ... sie ist meistens stumm, und wenn sie doch "spricht", dann mit Fluten und gewaltigen Wogen, nicht mit Worten. Aber wir singen von der Trauer des Ozeans, auf dass andere die ihre vergessen. Ondras Geschichte –&#160;die Geschichte des unerfüllten Verlangens&#160;– ist für Leute wie dich und mich wirklich von Bedeutung. Magran kann einen nicht zum Sieg über die Trauer leiten, Hylea kann keine Freude in einen weinenden Mund stopfen ... nur Ondra kann uns die Stärke geben, durchzuhalten, wenn das Leben wertlos erscheint. Und das ist die Antwort auf deine Frage, warum ich meine Göttin so liebe.</DefaultText>
+Um ehrlich zu sein, haben weder ich noch die anderen Gabenbringer, die ich kenne, jemals mit Ondra gesprochen&#160;… sie ist meistens stumm, und wenn sie doch "spricht", dann mit Fluten und gewaltigen Wogen, nicht mit Worten. Aber wir singen von der Trauer des Ozeans, auf dass andere die ihre vergessen. Ondras Geschichte –&#160;die Geschichte des unerfüllten Verlangens&#160;– ist für Leute wie dich und mich wirklich von Bedeutung. Magran kann einen nicht zum Sieg über die Trauer leiten, Hylea kann keine Freude in einen weinenden Mund stopfen&#160;… nur Ondra kann uns die Stärke geben, durchzuhalten, wenn das Leben wertlos erscheint. Und das ist die Antwort auf deine Frage, warum ich meine Göttin so liebe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9790,7 +9790,7 @@ erinnert ihr euch an eure erste Erlösung? Als ihr euren ersten Missetäter erw�
 
 Woedica lehrt Rache und Erinnerung&#160;– und während sie im Exil weilt, müssen wir ihre Augen und Ohren sein, auf dass keine Unrechtmäßigkeit vergessen wird! Wir müssen die geballte Faust sein, die den verlogenen Atem verstummen lässt. Wenn Woedica ihren Thron zurückerobert, werden alle Unrechtmäßigkeiten, die in den Ritzen der Geschichte verloren gegangen sind, wiedergutgemacht. Die Schurken, die sich ganz offen unter den Unschuldigen verstecken, werden den Würgegriff der Verbrannten Königin spüren. Betet, dass ihr den Tag noch erleben werdet, an dem ihr unserer Königin bei dieser Läuterung des Bösen beistehen könnt.
 
-Aber wisset, meine Schwestern, dass wir darauf vorbereitet sein müssen, das Ende unserer Tage zu erleben, ohne vorher die Rückkehr der Königin gefeiert zu haben&#160;– denn sie wird zwar ihren Thron zurückerobern, doch vielleicht sind es unsere Töchter, die dem wiedergeborenen Hof dienen. Wir müssen weiter leben, wie wir immer gelebt haben&#160;– von den anderen Religionen gehasst, obwohl wir die Gerechtigkeit über unser eigenes Wohlergehen stellen. Zumindest hält das Reich Aedyr unseren Glauben noch in hohem Ansehen. Es ist ein angemessenes Zeichen des Respekt, dass nach kaiserlicher Tradition unser Klerus einen Vertrag bestätigen muss, damit er rechtsgültig ist. Denn wer, wenn nicht Woedicas Anhänger, weiß, wie wichtig es ist, einen geleisteten Schwur einzuhalten? Auch die Unterstützung des Paladinordens der Stahlgarotte genießen wir noch&#160;– auch sie wissen, dass die Gesellschaft durch die Schwüre und Regeln ihrer Mitglieder aufgebaut wird ... und durch sie zerstört.
+Aber wisset, meine Schwestern, dass wir darauf vorbereitet sein müssen, das Ende unserer Tage zu erleben, ohne vorher die Rückkehr der Königin gefeiert zu haben&#160;– denn sie wird zwar ihren Thron zurückerobern, doch vielleicht sind es unsere Töchter, die dem wiedergeborenen Hof dienen. Wir müssen weiter leben, wie wir immer gelebt haben&#160;– von den anderen Religionen gehasst, obwohl wir die Gerechtigkeit über unser eigenes Wohlergehen stellen. Zumindest hält das Reich Aedyr unseren Glauben noch in hohem Ansehen. Es ist ein angemessenes Zeichen des Respekt, dass nach kaiserlicher Tradition unser Klerus einen Vertrag bestätigen muss, damit er rechtsgültig ist. Denn wer, wenn nicht Woedicas Anhänger, weiß, wie wichtig es ist, einen geleisteten Schwur einzuhalten? Auch die Unterstützung des Paladinordens der Stahlgarotte genießen wir noch&#160;– auch sie wissen, dass die Gesellschaft durch die Schwüre und Regeln ihrer Mitglieder aufgebaut wird&#160;… und durch sie zerstört.
 
 Wenn Woedica ihren Thron zurückerobert, wird meine Familie verstehen, dass ich richtig daran tat, mein Leben der Verbannten Königin zu widmen. Wenn Woedica ihren Thron zurückerobert, ist der Würger nicht mehr nur eine Geschichte, mit denen wir unseren Töchtern Angst machen, sondern ein Held, der in Parabeln einfließt, die unsere Kinder Gerechtigkeit lehren. Wenn Woedica ihren Thron zurückerobert, bringt sie ihr makelloses Gedächtnis mit sich&#160;– jeder Fehltritt, jedes Verbrechen, jede Unrechtmäßigkeit wird aufgedeckt werden. Wenn Woedica ihren Thron zurückerobert, werden selbst die Götter nicht von ihrer gerechten Vergeltung verschont bleiben.</DefaultText>
       <FemaleText />
@@ -9804,11 +9804,11 @@ Wenn Woedica ihren Thron zurückerobert, wird meine Familie verstehen, dass ich 
       <ID>1719</ID>
       <DefaultText>Zehn Jahre lang habe ich Vorlas angebaut, und zehn Jahre lang habe ich mir selbst eingeredet, wenn ich nur den Fußstapfen des Heiligen Waidwen folgen würde, würde ich zur Wiedergeburt gelangen. Jeden neuen Tag betete ich in der Morgendämmerung, dass er dir Licht bringen möge, wenn du in der Dunkelheit lebst, doch jeder Abend brachte nur dieselbe Leere. Ein Jahrzehnt lang habe ich als einfacher Farbstoffbauer gelebt, doch vorzuweisen habe ich nichts als reichlich violette Kleidung.
 
-Eothas hat nicht mit uns gesprochen, seit er als der Heilige Waidwen erschienen ist. Ich hatte gehofft, dass Eothas mich als seine nächste Hülle erwählen würde, doch ... das Kind des Lichts bleibt stumm. Jeden Tag vollführe ich das Ritual, die Schatten der Ungläubigen zu verbannen ... und jeden Tag bestelle ich einsam meine Felder, ohne ein Anzeichen von Eothas' Rückkehr. Er möge dir Licht bringen, wenn du in der Dunkelheit lebst, doch wie lange muss ich noch in dieser langen Nacht des Verlassenseins darben?
+Eothas hat nicht mit uns gesprochen, seit er als der Heilige Waidwen erschienen ist. Ich hatte gehofft, dass Eothas mich als seine nächste Hülle erwählen würde, doch&#160;… das Kind des Lichts bleibt stumm. Jeden Tag vollführe ich das Ritual, die Schatten der Ungläubigen zu verbannen&#160;… und jeden Tag bestelle ich einsam meine Felder, ohne ein Anzeichen von Eothas' Rückkehr. Er möge dir Licht bringen, wenn du in der Dunkelheit lebst, doch wie lange muss ich noch in dieser langen Nacht des Verlassenseins darben?
 
-Ist das meine Strafe dafür, dass ich meinen Glauben geheim gehalten habe? Versteckt Eothas sich vor mir, bis ich für alle hörbar herausschreie, wie ich ihn verehre? Gewiss weiß er, dass die Dyrwälder ihn und seine Anhänger nun hassen ... meine Landsmänner geben die Schuld für alle Übel des Kriegs des Heiligen uns weiterhin treuen Anhängern von Eothas. Sollten sie nicht zornig auf die readceranischen Soldaten sein? Erkennen die Dyrwälder nicht, dass sie alle Hoffnung auf Heilung verhindern, indem sie den Gott der Wiedergeburt und Erlösung verstoßen?
+Ist das meine Strafe dafür, dass ich meinen Glauben geheim gehalten habe? Versteckt Eothas sich vor mir, bis ich für alle hörbar herausschreie, wie ich ihn verehre? Gewiss weiß er, dass die Dyrwälder ihn und seine Anhänger nun hassen&#160;… meine Landsmänner geben die Schuld für alle Übel des Kriegs des Heiligen uns weiterhin treuen Anhängern von Eothas. Sollten sie nicht zornig auf die readceranischen Soldaten sein? Erkennen die Dyrwälder nicht, dass sie alle Hoffnung auf Heilung verhindern, indem sie den Gott der Wiedergeburt und Erlösung verstoßen?
 
-Während ich diese Worte schreibe, weiß ich, dass ich weiterhin das Farbblatt anbauen muss. Ich werde jeden Tag mit neuer Hoffnung erwachen: Wenn du in der Dunkelheit lebst, wird er mir Licht bringen. Jeden Tag bete ich, dass die Dämmerungssterne mich besuchen, genau, wie sie den Heiligen Waidwen in seinem Vorlasfeld besuchten. Werden sie mir erscheinen, wie sie dem Heiligen Waidwen erschienen sind? Als ein Mann und zwei Frauen, strahlend und makellos? Man sagt mir, sie kommen, um neue Zeiten anzukündigen ... Man sagt mir viele Dinge, und ich versuche, den Glauben in mir zu finden, sie alle zu glauben.
+Während ich diese Worte schreibe, weiß ich, dass ich weiterhin das Farbblatt anbauen muss. Ich werde jeden Tag mit neuer Hoffnung erwachen: Wenn du in der Dunkelheit lebst, wird er mir Licht bringen. Jeden Tag bete ich, dass die Dämmerungssterne mich besuchen, genau, wie sie den Heiligen Waidwen in seinem Vorlasfeld besuchten. Werden sie mir erscheinen, wie sie dem Heiligen Waidwen erschienen sind? Als ein Mann und zwei Frauen, strahlend und makellos? Man sagt mir, sie kommen, um neue Zeiten anzukündigen&#160;… Man sagt mir viele Dinge, und ich versuche, den Glauben in mir zu finden, sie alle zu glauben.
 
 Und doch geht die Sonne jeden Morgen am Osthimmel auf&#160;– und jeden Morgen beleuchtet Eothas mein einfaches Stück Land und verjagt mit seinem goldenen Glanz die Schatten der Ungläubigen. Ich danke dir, Eothas, für all die Frühjahre, die ich erlebt habe, und für alle, die noch kommen. Ich bin in Dunkelheit, bitte bring mir Licht.</DefaultText>
       <FemaleText />
@@ -9824,7 +9824,7 @@ Und doch geht die Sonne jeden Morgen am Osthimmel auf&#160;– und jeden Morgen 
 
 Aber ich schlage meine Schüler erst, wenn sie die zweite dumme Frage stellen, denn wir alle beginnen jung und schwach&#160;– das ist eine Tatsache, keine Schande, und es ist ein zentraler Grundsatz in Galawains Lehren. Beharrlichkeit und Gerissenheit schätzt Galawain mehr als rohe Gewalt&#160;– eine Tatsache, die meine jungen Schüler oft vergessen. Es ist richtig und gut, dass die Starken die Schwachen anführen, und es ist ebenso gut, dass die Starken wieder und wieder geprüft werden, bis das Gleichgewicht sich verlagert. Galawain feiert die Stärke des Siegers und die Macht des wohlgenährten Jägers, doch vor allem feiert der Kluge Hund das umwälzende Wesen der Stärke. Galawains größter Wunsch für uns ist, dass die Beute zum Jäger wird, dass schreiende Säuglinge zu starken Jagdmännern heranwachsen, dass die Verirrten ihre eigene Erleuchtung finden.
 
-Das beste Beispiel für diese Philosophie sind die Riten der Anamfatha von Eir&#160;Glanfath. Wenn einer der spirituellen Anführer der Glanfathaner alt ist und sein Tod bevorsteht, zieht er in den Wald und konfrontiert Galawains Boten. Wenn der Suchergott befindet, das Leben, die Taten und die Seele des Anamfath seien würdig, ist die Belohnung ein schneller Tod und seine Seele schließt sich Galawains Rudel an. Wird er für unwürdig befunden, wird der Anamfath getötet, seine Seele wird gezwungen, selbst ihren Weg in das nächste Leben zu finden, und die Erinnerung an ihn wird aus den Annalen des Stammes ausgelöscht&#160;– das Überleben beginnt mit Stärke von innen, und schwache Anführer gefährden das gesamte Rudel. Das ist Galawain in seiner reinsten Form: Selbst am Ende des Lebens, muss man kämpfen, um würdig zu sein, um groß zu sein ... genau, wie man jeden Tag kämpfen muss, um sein Rudel zu nähren.
+Das beste Beispiel für diese Philosophie sind die Riten der Anamfatha von Eir&#160;Glanfath. Wenn einer der spirituellen Anführer der Glanfathaner alt ist und sein Tod bevorsteht, zieht er in den Wald und konfrontiert Galawains Boten. Wenn der Suchergott befindet, das Leben, die Taten und die Seele des Anamfath seien würdig, ist die Belohnung ein schneller Tod und seine Seele schließt sich Galawains Rudel an. Wird er für unwürdig befunden, wird der Anamfath getötet, seine Seele wird gezwungen, selbst ihren Weg in das nächste Leben zu finden, und die Erinnerung an ihn wird aus den Annalen des Stammes ausgelöscht&#160;– das Überleben beginnt mit Stärke von innen, und schwache Anführer gefährden das gesamte Rudel. Das ist Galawain in seiner reinsten Form: Selbst am Ende des Lebens, muss man kämpfen, um würdig zu sein, um groß zu sein&#160;… genau, wie man jeden Tag kämpfen muss, um sein Rudel zu nähren.
 
 Der Suchergott ist leicht zu verstehen, wenn man aktiv nach Wissen sucht. Wer jedoch lediglich fragt, wer Wissen ohne die erforderliche Jagd begehrt, dem bleiben seine Geheimnisse verschlossen. Mein eigenes Fleisch und Blut hat mich einst gefragt: "Gefällt es Galawain, wenn man lernt zu jagen?" Ich sagte ja, fügte jedoch hinzu: "Galawain wäre es lieber, du würdest jagen, um zu lernen."</DefaultText>
       <FemaleText />
@@ -9838,9 +9838,9 @@ Der Suchergott ist leicht zu verstehen, wenn man aktiv nach Wissen sucht. Wer je
       <ID>1723</ID>
       <DefaultText>Die Möglichkeit zu wählen, ist ein Luxus, den wir durch Frieden verdienen. Der Kampf ist unsere grundlegende Natur.
 
-Selbst, wenn unsere Kriegsbanner zusammengefaltet lagern, schürt die Menschheit Zwietracht&#160;– Freunde streiten mit Fäusten, Liebhaber entzünden Eifersucht, Kaufleute stechen ihre Wettbewerber durch Lügen aus ... wo die Menschheit auch hingeht, der Kampf folgt ihr.
+Selbst, wenn unsere Kriegsbanner zusammengefaltet lagern, schürt die Menschheit Zwietracht&#160;– Freunde streiten mit Fäusten, Liebhaber entzünden Eifersucht, Kaufleute stechen ihre Wettbewerber durch Lügen aus&#160;… wo die Menschheit auch hingeht, der Kampf folgt ihr.
 
-Magran ist die Göttin des Feuers und des Krieges, nicht des Blutvergießens und der Eroberung&#160;– auch, wenn viele in Readceras anderes sagen. Wie verbittert müssen sie sein, dass Magrans Priester ein göttliches Manifest zerstören konnten ... wie verbittert. Wir, die wir Magran verehren, sind keine verwirrten Barbaren oder isolierten Mystiker. Wir sind Soldaten, Waffenmeister, Wachleute und Leibwächter&#160;– Handwerker des Konflikts und Beschützer unserer Familien und Flaggen. Wir geifern nicht nach der Schlacht, wir betrachten den Krieg als unwillkommen, doch der Kampf ist unsere grundlegende Natur. Wir beten nicht um Zwietracht, wir beten um die Weisheit, sie schnell beizulegen. Wir wünschen uns den Krieg nicht herbei, doch wenn er unweigerlich gekämpft werden muss, finden wir göttliche Ekstase in der Disziplin, der Effizienz, der Vortrefflichkeit.
+Magran ist die Göttin des Feuers und des Krieges, nicht des Blutvergießens und der Eroberung&#160;– auch, wenn viele in Readceras anderes sagen. Wie verbittert müssen sie sein, dass Magrans Priester ein göttliches Manifest zerstören konnten&#160;… wie verbittert. Wir, die wir Magran verehren, sind keine verwirrten Barbaren oder isolierten Mystiker. Wir sind Soldaten, Waffenmeister, Wachleute und Leibwächter&#160;– Handwerker des Konflikts und Beschützer unserer Familien und Flaggen. Wir geifern nicht nach der Schlacht, wir betrachten den Krieg als unwillkommen, doch der Kampf ist unsere grundlegende Natur. Wir beten nicht um Zwietracht, wir beten um die Weisheit, sie schnell beizulegen. Wir wünschen uns den Krieg nicht herbei, doch wenn er unweigerlich gekämpft werden muss, finden wir göttliche Ekstase in der Disziplin, der Effizienz, der Vortrefflichkeit.
 
 Magran, führe uns zu der Schlacht, die gerecht ist. Lass uns dein Feuer sein, welches das Profane verbrennt und nur das Rechtschaffene zurücklässt. Wenn der Kampf unsere grundlegende Natur ist, möge der Sieg unsere unvermeidliche Gnade sein.</DefaultText>
       <FemaleText />
@@ -9860,7 +9860,7 @@ Ein Anhänger Magrans verspottete einst meinen Glauben. Er sagte, ich würde Pin
 
 Es amüsiert mich oft, dass Besucher, die unsere heiligen Volieren sehen, fragen: "Sehr hübsch, aber wo ist der WAHRE Tempel Hyleas?". Vielleicht glauben sie, dass heiliger Boden bedrückende Steinmauern erfordert und Decken, welche den Himmel verbergen. Sie erkennen nicht, dass die Vogelkönigin nicht auf Zeremoniell besteht. Sie zeigt sich im Gesang der Vögel und in der Schönheit des allgegenwärtigen freien Himmels.
 
-Hylea zieht die Anbetung zweier singender Kinder eintausend Bittstellern vor, die stumm für den Sieg beten. Die Himmelsmutter verlangt so wenig von uns, und doch so viel&#160;– wir haben den Auftrag, jede Note des Lebenslieds zu leben ... es überrascht mich, wie viele daran scheitern, diese göttliche Bestimmung anzunehmen.</DefaultText>
+Hylea zieht die Anbetung zweier singender Kinder eintausend Bittstellern vor, die stumm für den Sieg beten. Die Himmelsmutter verlangt so wenig von uns, und doch so viel&#160;– wir haben den Auftrag, jede Note des Lebenslieds zu leben&#160;… es überrascht mich, wie viele daran scheitern, diese göttliche Bestimmung anzunehmen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9919,15 +9919,15 @@ Möge dieser Brief dich bei guter Gesundheit erreichen. Ein Mann von rüpelhafte
 
  Ich hielt es für den rechten Dienst an Wael, diesen Mann auf eine Bilderhandschrift über das Schnitzen von Spielzeugsoldaten und anderen Miniaturen hinzuweisen. Er zeigte sich wenig amüsiert über meine Lösung, woraufhin ich mit den Schultern zuckte und sagte "Was ist eine Antwort ohne eine Frage?". Er hielt meine spirituelle Rhetorik offenbar weder für hilfreich noch für unterhaltsam, weshalb er mir zwei Zähne ausschlug. Ich hoffe, dein Sommer war weniger turbulent als der meine?
 
-Ich habe jedoch auch wichtigere Kunde: Meine Schülerin sagt, sie habe neulich Nacht in einem Traum das Augenlose Gesicht gesehen! Ich muss gestehen, dass ich zunächst so zornig vor Neid war, dass ich mich weigerte, ihr zu glauben ... Wael verzeihe mir dieses vorübergehende Fehlurteil.
+Ich habe jedoch auch wichtigere Kunde: Meine Schülerin sagt, sie habe neulich Nacht in einem Traum das Augenlose Gesicht gesehen! Ich muss gestehen, dass ich zunächst so zornig vor Neid war, dass ich mich weigerte, ihr zu glauben&#160;… Wael verzeihe mir dieses vorübergehende Fehlurteil.
 
 Sie beschrieb einen Aumaua von leuchtend blauer Farbe, mit einem gesichtszuglosen Antlitz, umgeben von einem Schwarm von Augen&#160;– von denen sich keine zwei glichen. Sie sagt, Wael habe ihre Fragen ignoriert, und sie erinnert sich nicht an Einzelheiten darüber, was gesagt wurde. Meine Schülerin scheint sogar viele Dinge aus der Zeit vor der Erscheinung vergessen zu haben&#160;– sie konnte mir nicht sagen, wo sie aufwuchs oder was sie gerne isst.
 
-Zunächst war ich so eifersüchtig, dass sie Wael mit ihren eigenen Augen gesehen hat ... doch es scheint, als habe Waels Besuch dazu gedient zu verschleiern, nicht zu erhellen ... Ich bete, dass sie diese Glaubensprüfung übersteht und bald auf das Ereignis zurückblicken und die Freude des Unergründlichen spüren kann.
+Zunächst war ich so eifersüchtig, dass sie Wael mit ihren eigenen Augen gesehen hat&#160;… doch es scheint, als habe Waels Besuch dazu gedient zu verschleiern, nicht zu erhellen&#160;… Ich bete, dass sie diese Glaubensprüfung übersteht und bald auf das Ereignis zurückblicken und die Freude des Unergründlichen spüren kann.
 
 Was ist eine Antwort ohne Frage? Letzte Woche glaubte ich, die Lösung sei "Ignoranz", doch nach Waels Besuch erscheint mir "eine Straße ohne Länge" nun als näher an der Lösung des Rätsels.
 
-Ich fürchte, meine Schülerin wird auf Waels Besuch zurückblicken und sich betrogen fühlen&#160;– eines Augenblicks der Klarheit beraubt, von dem bei unserem Beitritt alle glaubten, er würde uns zustehen ... Ich habe versucht, ihr zu sagen, dass sie großes Glück hatte, doch sie war zu jung, um es zu verstehen. Was ist eine Antwort ohne Frage? Möge ich tot sein und meine Seele von den Winden zerstreut, ehe jemand es mit Gewissheit sagen kann.</DefaultText>
+Ich fürchte, meine Schülerin wird auf Waels Besuch zurückblicken und sich betrogen fühlen&#160;– eines Augenblicks der Klarheit beraubt, von dem bei unserem Beitritt alle glaubten, er würde uns zustehen&#160;… Ich habe versucht, ihr zu sagen, dass sie großes Glück hatte, doch sie war zu jung, um es zu verstehen. Was ist eine Antwort ohne Frage? Möge ich tot sein und meine Seele von den Winden zerstreut, ehe jemand es mit Gewissheit sagen kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10771,7 +10771,7 @@ Trotz seiner Dicke und seines Gewichts ist dieser Gürtel optisch nicht sonderli
       <ID>1882</ID>
       <DefaultText>Dieser meisterhaft gefertigte, aber unscheinbare Degen stammt aus den heißfeuchten Wäldern des Cythwalds. Sein Erstbesitzer war ein unbedeutender Adliger namens Aedwyn Grundmef. Aedwyn, der in sozialen Kreisen für seine unterwürfigen Manieren und die lästige Angewohnheit bekannt war, immer zu lang zu bleiben, wenn er nicht erwünscht war, hatten an den von ihm frequentierten Höfen nur wenig Verwendung für die Klinge.
 
-Als Aedwyn einen unbemerkten Tod starb, ging die Klinge in den Besitz seiner jungen Nichte über, Cadend Grundmef. Letztere fand, dass die Waffe über die Eigenheiten ihres Onkels verfügte: sie war gut, um in unpassenden Momenten zu unterbrechen und jedem, mit dem sie in Kontakt kam, das Leben zu entziehen ... und schuf eine generell lästige Präsenz. Aedwyn selbst gab dem Degen den Spitznamen "Moskito" und setzte ihn regelmäßig in Hofduellen ein.
+Als Aedwyn einen unbemerkten Tod starb, ging die Klinge in den Besitz seiner jungen Nichte über, Cadend Grundmef. Letztere fand, dass die Waffe über die Eigenheiten ihres Onkels verfügte: sie war gut, um in unpassenden Momenten zu unterbrechen und jedem, mit dem sie in Kontakt kam, das Leben zu entziehen&#160;… und schuf eine generell lästige Präsenz. Aedwyn selbst gab dem Degen den Spitznamen "Moskito" und setzte ihn regelmäßig in Hofduellen ein.
 
 Nach ihrem Tod wurde die Waffe an Aedwyns Enkel im Dyrwald weitergegeben. Als Thayn von Cwynsrun fiel er bei einem glanfathanischen Überfall, und Moskito ging mit ihm verloren. Da er keine Nachkommen hatte und keiner der Grundmeths von Aedyr den Degen beansprucht haben, war er seitdem im Besitz verschiedener anonymer Glanfathaner und Dyrwälder.</DefaultText>
       <FemaleText />
@@ -10783,7 +10783,7 @@ Nach ihrem Tod wurde die Waffe an Aedwyns Enkel im Dyrwald weitergegeben. Als Th
     </Entry>
     <Entry>
       <ID>1884</ID>
-      <DefaultText>Du magst dich ja anmaßen, über eine alte Ruine zu herrschen, aber du hast dir keine schmeichelnden Titel verdient. Auch wenn, so würde ich nicht so anreden, als seist du eine wertvolle Kreatur. Du hast mir schweren Schaden zugefügt, und ich werde es dir entsprechend vergelten. Sei dir gewiss: Deine Bemühungen in Goldtal haben nichts Gutes eingebracht, denn solange ich atme werde ich es nicht zulassen, dass du ungestört auf Eora wandelst. Meine Untertanen werden deine Burg Ziegel um Ziegel bis auf die Grundmauern niederreißen, bis du deinem endgültigen Urteil in Form eines ehrenhaften Zweikampfs entgegentrittst ... oder dein Blut die Erde von Caed Nua tränkt.
+      <DefaultText>Du magst dich ja anmaßen, über eine alte Ruine zu herrschen, aber du hast dir keine schmeichelnden Titel verdient. Auch wenn, so würde ich nicht so anreden, als seist du eine wertvolle Kreatur. Du hast mir schweren Schaden zugefügt, und ich werde es dir entsprechend vergelten. Sei dir gewiss: Deine Bemühungen in Goldtal haben nichts Gutes eingebracht, denn solange ich atme werde ich es nicht zulassen, dass du ungestört auf Eora wandelst. Meine Untertanen werden deine Burg Ziegel um Ziegel bis auf die Grundmauern niederreißen, bis du deinem endgültigen Urteil in Form eines ehrenhaften Zweikampfs entgegentrittst&#160;… oder dein Blut die Erde von Caed Nua tränkt.
 
 –&#160;Fürst Raedric VII., Thayn des Yenwalds</DefaultText>
       <FemaleText />

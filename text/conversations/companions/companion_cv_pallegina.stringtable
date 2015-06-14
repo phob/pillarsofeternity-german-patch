@@ -98,7 +98,7 @@ Sie presst die Kiefer zusammen und fährt leise fort:</DefaultText>
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Pallegina schnaubt. "Als ob das alles jemals in meinen Händen lag. Aufgrund seines Erfolgs haben die Republiken dein Unternehmen für schützenswert befunden. Dieser Erfolg hing von der Kooperation mit den Einheimischen ab, zum Beispiel dem Haus Doemenel. Die hast du eingebüßt ...", sie kneift ihre goldenen Augen zusammen, "... und die Gunst der Ducs ebenfalls."</DefaultText>
+      <DefaultText>Pallegina schnaubt. "Als ob das alles jemals in meinen Händen lag. Aufgrund seines Erfolgs haben die Republiken dein Unternehmen für schützenswert befunden. Dieser Erfolg hing von der Kooperation mit den Einheimischen ab, zum Beispiel dem Haus Doemenel. Die hast du eingebüßt&#160;…", sie kneift ihre goldenen Augen zusammen, "…&#160;und die Gunst der Ducs ebenfalls."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,12 +113,12 @@ Sie presst die Kiefer zusammen und fährt leise fort:</DefaultText>
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Pallegina starrt Verzano einen langen Augenblick an. Bevor sie fortfährt gleiten die Nickhäute ihrer Augen nach außen und wieder zurück. "Verzano, Verzano ... warum vergeudest du deinen kostbaren Atem auf mich? Meine Befehle erhalte ich vom Botschafter, und durch den Botschafter von Leuten, die so erhaben sind, dass du dich geehrt fühlen solltest, dass sie sich einen Moment lang damit befasst haben, ob du leben oder sterben sollst."</DefaultText>
+      <DefaultText>Pallegina starrt Verzano einen langen Augenblick an. Bevor sie fortfährt gleiten die Nickhäute ihrer Augen nach außen und wieder zurück. "Verzano, Verzano&#160;… warum vergeudest du deinen kostbaren Atem auf mich? Meine Befehle erhalte ich vom Botschafter, und durch den Botschafter von Leuten, die so erhaben sind, dass du dich geehrt fühlen solltest, dass sie sich einen Moment lang damit befasst haben, ob du leben oder sterben sollst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Du scheinst mir niemand zu sein, der die Götter anfleht, nicht in die Hölle fahren zu müssen ... aber warum flehst du nicht die einzige Person in diesem Raum um Gnade an, die die Macht hat, sie dir zu gewähren?"</DefaultText>
+      <DefaultText>"Du scheinst mir niemand zu sein, der die Götter anfleht, nicht in die Hölle fahren zu müssen&#160;… aber warum flehst du nicht die einzige Person in diesem Raum um Gnade an, die die Macht hat, sie dir zu gewähren?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,7 +133,7 @@ Sie presst die Kiefer zusammen und fährt leise fort:</DefaultText>
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>[Verzano angreifen] "Die Doemenels sind es nicht, um die er sich Sorgen machen muss ..."</DefaultText>
+      <DefaultText>[Verzano angreifen] "Die Doemenels sind es nicht, um die er sich Sorgen machen muss&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -237,7 +237,7 @@ Sie presst die Kiefer zusammen und fährt leise fort:</DefaultText>
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>[Verzano angreifen] "Die Doemenels sind es nicht, um die er sich Sorgen machen muss ..."</DefaultText>
+      <DefaultText>[Verzano angreifen] "Die Doemenels sind es nicht, um die er sich Sorgen machen muss&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -501,7 +501,7 @@ Mit zitternden Händen übergibt er einen Münzbeutel. "Das ist alles, was ich n
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Der Botschafter betrachtet dich mit einem gewissen Maß an Besorgnis. "Du hast meine Aufmerksamkeit ... [Player Name], nicht wahr? Aber sofern Pallegina keine zwingenden Gründe für eine Einmischungen in die politischen Angelegenheiten von Trutzbucht vorbringen kann, bleibt der Standpunkt der Ducs, dass wir unnötige Verwicklungen vermeiden sollten."</DefaultText>
+      <DefaultText>Der Botschafter betrachtet dich mit einem gewissen Maß an Besorgnis. "Du hast meine Aufmerksamkeit&#160;… [Player Name], nicht wahr? Aber sofern Pallegina keine zwingenden Gründe für eine Einmischungen in die politischen Angelegenheiten von Trutzbucht vorbringen kann, bleibt der Standpunkt der Ducs, dass wir unnötige Verwicklungen vermeiden sollten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -563,7 +563,7 @@ Palleginas Gebaren schlägt schnell in Erschütterung und Angst um, aber sie sch
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>Der Botschafter blinzelt. Er war eindeutig nicht auf deinen Ausbruch vorbereitet. "Nun, äh ... wir alle haben unsere Rollen zu spielen. Was auch immer geschieht&#160;– ich bin der Repräsentant der Ducs, nicht Palleginas Fürsprecher."</DefaultText>
+      <DefaultText>Der Botschafter blinzelt. Er war eindeutig nicht auf deinen Ausbruch vorbereitet. "Nun, äh&#160;… wir alle haben unsere Rollen zu spielen. Was auch immer geschieht&#160;– ich bin der Repräsentant der Ducs, nicht Palleginas Fürsprecher."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -648,7 +648,7 @@ Palleginas Gebaren schlägt schnell in Erschütterung und Angst um, aber sie sch
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Pallegina, Pallegina ..." Er schüttelt den Kopf. "Reise nach Zwillingsulmen. Sprich mit der Anamenfath, beeindrucke sie mit der Instabilität des Dyrwalds und versichere ihr den Wunsch der Vailianischen Republiken, sichere Handelsgeschäfte aufzunehmen."</DefaultText>
+      <DefaultText>"Pallegina, Pallegina&#160;…" Er schüttelt den Kopf. "Reise nach Zwillingsulmen. Sprich mit der Anamenfath, beeindrucke sie mit der Instabilität des Dyrwalds und versichere ihr den Wunsch der Vailianischen Republiken, sichere Handelsgeschäfte aufzunehmen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -683,7 +683,7 @@ Palleginas Gebaren schlägt schnell in Erschütterung und Angst um, aber sie sch
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>Pallegina schaut dich durch zusammengekniffene Augen ärgerlich an, Vicent aber strahlt. "Wunderbar. Wenn ihr mich dann bitte entschuldigen würdet ..."</DefaultText>
+      <DefaultText>Pallegina schaut dich durch zusammengekniffene Augen ärgerlich an, Vicent aber strahlt. "Wunderbar. Wenn ihr mich dann bitte entschuldigen würdet&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -693,7 +693,7 @@ Palleginas Gebaren schlägt schnell in Erschütterung und Angst um, aber sie sch
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>Vicent verzieht seinen Mund, während er versucht, deine Absichten zu deuten, nach einem langen Augenblick aber gibt er auf. "Hmmh. Sehr gut. Wenn du mich nun bitte entschuldigen würdest ..."</DefaultText>
+      <DefaultText>Vicent verzieht seinen Mund, während er versucht, deine Absichten zu deuten, nach einem langen Augenblick aber gibt er auf. "Hmmh. Sehr gut. Wenn du mich nun bitte entschuldigen würdest&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -703,7 +703,7 @@ Palleginas Gebaren schlägt schnell in Erschütterung und Angst um, aber sie sch
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Gut. Wenn du mich nun bitte entschuldigen würdest ..."</DefaultText>
+      <DefaultText>"Gut. Wenn du mich nun bitte entschuldigen würdest&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -818,7 +818,7 @@ Palleginas Gebaren schlägt schnell in Erschütterung und Angst um, aber sie sch
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>"Dieser verfluchte Botschafter! Ich sagte ihm, dass es eine Verschwörung ist. Wieder und wieder wurde ich ignoriert. Dann kam der Tod des Ducs, die Aufstände und nun ... das. Wenn der Bleierne Schlüssel mich ins Visier genommen hat, müssen wir den Botschafter in Urfeuer warnen."</DefaultText>
+      <DefaultText>"Dieser verfluchte Botschafter! Ich sagte ihm, dass es eine Verschwörung ist. Wieder und wieder wurde ich ignoriert. Dann kam der Tod des Ducs, die Aufstände und nun&#160;… das. Wenn der Bleierne Schlüssel mich ins Visier genommen hat, müssen wir den Botschafter in Urfeuer warnen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -843,7 +843,7 @@ Palleginas Gebaren schlägt schnell in Erschütterung und Angst um, aber sie sch
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Dieser verfluchte Botschafter! Ich sagte ihm, dass es eine Verschwörung ist. Wieder und wieder wurde ich ignoriert. Dann kam der Tod des Ducs, die Aufstände und nun ... das. Wenn der Bleierne Schlüssel mich ins Visier genommen hat, müssen wir den Botschafter warnen."</DefaultText>
+      <DefaultText>"Dieser verfluchte Botschafter! Ich sagte ihm, dass es eine Verschwörung ist. Wieder und wieder wurde ich ignoriert. Dann kam der Tod des Ducs, die Aufstände und nun&#160;… das. Wenn der Bleierne Schlüssel mich ins Visier genommen hat, müssen wir den Botschafter warnen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

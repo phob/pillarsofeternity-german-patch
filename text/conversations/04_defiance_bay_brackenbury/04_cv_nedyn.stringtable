@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Du ... Bei der Fürstin der Klagen, du hast sie gefunden!"
+      <DefaultText>"Du&#160;… Bei der Fürstin der Klagen, du hast sie gefunden!"
 
 Nedyn wiegt das modrige Buch wie ein Neugeborenes. "Ich fasse es nicht. Es gibt sie wirklich!" Sie blickt wieder zu dir. "Vielen, vielen Dank. Das wird von unschätzbarem Wert sein." Sie wendet sich fast zurück zu dem Buch, doch im letzten Augenblick hält sie inne und überreicht dir einen Beutel Münzen.</DefaultText>
       <FemaleText />
@@ -48,7 +48,7 @@ Nedyn wiegt das modrige Buch wie ein Neugeborenes. "Ich fasse es nicht. Es gibt 
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Sie schlägt ihr Buch zu. "Ich studiere die Seelenbefestigung. Wir wissen alle, dass bei der Geburt eines Menschen eine Seele in ihn fährt, die ihn beim Tod wieder verlässt. Aber wir haben noch viele Fragen darüber, wie sie sozusagen ... kleben bleibt."</DefaultText>
+      <DefaultText>Sie schlägt ihr Buch zu. "Ich studiere die Seelenbefestigung. Wir wissen alle, dass bei der Geburt eines Menschen eine Seele in ihn fährt, die ihn beim Tod wieder verlässt. Aber wir haben noch viele Fragen darüber, wie sie sozusagen&#160;… kleben bleibt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -102,12 +102,12 @@ Sie seufzt. "Was es recht schwierig machen kann, an die Informationen zu gelange
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Die Lehrsätze könnten meine Forschungen rasant vorantreiben, aber Grimda, die Oberarchivarin, verehrt Wael&#160;– und hat daher etwas paradoxe Ansichten, was das Teilen und Schützen von Wissen angeht. Und da sie nicht unbedingt als Befürworterin der Beseelung bekannt ist, neigt sie dazu, Informationen, die mir helfen könnten, zu beschützen ... und nicht zu teilen."</DefaultText>
+      <DefaultText>"Die Lehrsätze könnten meine Forschungen rasant vorantreiben, aber Grimda, die Oberarchivarin, verehrt Wael&#160;– und hat daher etwas paradoxe Ansichten, was das Teilen und Schützen von Wissen angeht. Und da sie nicht unbedingt als Befürworterin der Beseelung bekannt ist, neigt sie dazu, Informationen, die mir helfen könnten, zu beschützen&#160;… und nicht zu teilen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Nedyn wirkt überrascht, als sie euch bemerkt. Sie schließt langsam ihr Buch. "Ich ... habe gehört, es gab ein Massaker beim Tempel."</DefaultText>
+      <DefaultText>Nedyn wirkt überrascht, als sie euch bemerkt. Sie schließt langsam ihr Buch. "Ich&#160;… habe gehört, es gab ein Massaker beim Tempel."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -132,7 +132,7 @@ Sie seufzt. "Was es recht schwierig machen kann, an die Informationen zu gelange
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Sie nimmt das alte Buch und hält es schützend vor ihre Brust. Sie blickt auf den zerrissenen Buchrücken und die vergilbten Seiten. "Ich ... dachte nicht, dass jemand sterben würde ..."</DefaultText>
+      <DefaultText>Sie nimmt das alte Buch und hält es schützend vor ihre Brust. Sie blickt auf den zerrissenen Buchrücken und die vergilbten Seiten. "Ich&#160;… dachte nicht, dass jemand sterben würde&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -172,7 +172,7 @@ Sie seufzt. "Was es recht schwierig machen kann, an die Informationen zu gelange
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Sie blättert vorsichtig durch die Seiten, aber ihre Augen sind feucht. "Ja, ich ... hoffe, das war es wert." Sie wühlt in ihren Taschen. "Hier, nimm das. Für deine Mühen."</DefaultText>
+      <DefaultText>Sie blättert vorsichtig durch die Seiten, aber ihre Augen sind feucht. "Ja, ich&#160;… hoffe, das war es wert." Sie wühlt in ihren Taschen. "Hier, nimm das. Für deine Mühen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -232,7 +232,7 @@ Sie seufzt. "Was es recht schwierig machen kann, an die Informationen zu gelange
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Pandgram war ein Beseeler, der im Dyrwald arbeitete. Er hat einige interessante Theorien zur Essenz und einige recht ... innovative Techniken entwickelt, um sie zu studieren. Er konnte Seelen nach dem Tod wieder am Körper befestigen, auch wenn es ihm nicht gelang, die Degeneration seiner Patienten aufzuhalten."
+      <DefaultText>"Pandgram war ein Beseeler, der im Dyrwald arbeitete. Er hat einige interessante Theorien zur Essenz und einige recht&#160;… innovative Techniken entwickelt, um sie zu studieren. Er konnte Seelen nach dem Tod wieder am Körper befestigen, auch wenn es ihm nicht gelang, die Degeneration seiner Patienten aufzuhalten."
 
 "Er war umstritten, um es vorsichtig auszudrücken, aber inzwischen erkennen viele, dass er einfach nur seiner Zeit voraus war."</DefaultText>
       <FemaleText />
@@ -279,12 +279,12 @@ Sie seufzt. "Was es recht schwierig machen kann, an die Informationen zu gelange
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Nedyn wringt die Hände. "Nun, es scheint ein kleines Problem damit zu geben, Seelen nach dem Tod wieder zu befestigen. Die Körper werden wiederbelebt und können sogar Erinnerungen und Persönlichkeit beibehalten, aber sie entwickeln einen ... Hunger. Nach Fleisch. Nach lebendem, beseeltem Fleisch."</DefaultText>
+      <DefaultText>Nedyn wringt die Hände. "Nun, es scheint ein kleines Problem damit zu geben, Seelen nach dem Tod wieder zu befestigen. Die Körper werden wiederbelebt und können sogar Erinnerungen und Persönlichkeit beibehalten, aber sie entwickeln einen&#160;… Hunger. Nach Fleisch. Nach lebendem, beseeltem Fleisch."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Ohne sie beginnen sie sich zurückzuentwickeln, mental und körperlich zu zerfallen. Wenn der Prozess zu weit fortschreitet, was er früher oder später tut, werden sie zu Leichen ohne Verstand, die alles angreifen, was sich bewegt. Wir ... konnten noch keinen Weg finden, das zu verhindern."</DefaultText>
+      <DefaultText>"Ohne sie beginnen sie sich zurückzuentwickeln, mental und körperlich zu zerfallen. Wenn der Prozess zu weit fortschreitet, was er früher oder später tut, werden sie zu Leichen ohne Verstand, die alles angreifen, was sich bewegt. Wir&#160;… konnten noch keinen Weg finden, das zu verhindern."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -319,7 +319,7 @@ Sie seufzt. "Was es recht schwierig machen kann, an die Informationen zu gelange
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Es freut mich, dass es dir helfen kann. Du kannst nicht zufällig noch etwas entbehren ..."</DefaultText>
+      <DefaultText>"Es freut mich, dass es dir helfen kann. Du kannst nicht zufällig noch etwas entbehren&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -334,7 +334,7 @@ Sie seufzt. "Was es recht schwierig machen kann, an die Informationen zu gelange
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Ah ... natürlich." Sie zieht einen Ring vom Finger. "Er mag unscheinbar wirken, aber mit diesem Ring konnte ich immer ein wenig Geld dazuverdienen, wenn ich gerade ohne Forschungsstipendium war. Für jemanden, der seine Forschungen ohne reichen Mäzen durchführen muss, ist das essenziell."
+      <DefaultText>"Ah&#160;… natürlich." Sie zieht einen Ring vom Finger. "Er mag unscheinbar wirken, aber mit diesem Ring konnte ich immer ein wenig Geld dazuverdienen, wenn ich gerade ohne Forschungsstipendium war. Für jemanden, der seine Forschungen ohne reichen Mäzen durchführen muss, ist das essenziell."
 
 Sie lächelt schwach und überreicht ihn dir. "Bitte, nimm ihn. Du hast mir eine Ressource verschafft, die ich alleine nie gefunden hätte."</DefaultText>
       <FemaleText />
@@ -353,9 +353,9 @@ Sie seufzt. "Was es recht schwierig machen kann, an die Informationen zu gelange
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Es hat dir Spaß gemacht, oder? Das Töten ..." Nedyn entfernt sich rückwärts von dir.
+      <DefaultText>"Es hat dir Spaß gemacht, oder? Das Töten&#160;…" Nedyn entfernt sich rückwärts von dir.
 
-Sie nimmt das alte Buch und hält es schützend vor ihre Brust. Sie blickt auf den zerrissenen Buchrücken und die vergilbten Seiten. "Ich ... dachte nicht, dass jemand sterben würde ..."</DefaultText>
+Sie nimmt das alte Buch und hält es schützend vor ihre Brust. Sie blickt auf den zerrissenen Buchrücken und die vergilbten Seiten. "Ich&#160;… dachte nicht, dass jemand sterben würde&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -435,12 +435,12 @@ Sie nimmt das alte Buch und hält es schützend vor ihre Brust. Sie blickt auf d
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Pandgrams Arbeit gilt als eine der, nun ja, wagemutigeren Schriften zur Beseelung. Nichts, was gemeinhin unter Anfängern verbreitet wird. Und auch sehr schwer zu bekommen ... es wäre fein, einmal einen Blick hineinzuwerfen ..."</DefaultText>
+      <DefaultText>"Pandgrams Arbeit gilt als eine der, nun ja, wagemutigeren Schriften zur Beseelung. Nichts, was gemeinhin unter Anfängern verbreitet wird. Und auch sehr schwer zu bekommen&#160;… es wäre fein, einmal einen Blick hineinzuwerfen&#160;…"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Ich habe von diesem Buch gehört&#160;– in Selona, glaube ich ... aber gesehen habe ich es nie. Viele Beseeler sprechen bewundernd davon."</DefaultText>
+      <DefaultText>"Ich habe von diesem Buch gehört&#160;– in Selona, glaube ich&#160;… aber gesehen habe ich es nie. Viele Beseeler sprechen bewundernd davon."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -465,7 +465,7 @@ Sie nimmt das alte Buch und hält es schützend vor ihre Brust. Sie blickt auf d
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Das ist, äh ..." Pallegina kratzt sich die Federn. "Unglücklich."</DefaultText>
+      <DefaultText>"Das ist, äh&#160;…" Pallegina kratzt sich die Federn. "Unglücklich."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -996,12 +996,12 @@
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>Das Spiel wird pausiert, wenn die Ausdauer eines Gruppenmitglieds unter 25% fällt.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn die Ausdauer eines Gruppenmitglieds unter 25&#160;% fällt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>Das Spiel wird pausiert, wenn die Gesundheit eines Gruppenmitglieds unter 25% fällt.</DefaultText>
+      <DefaultText>Das Spiel wird pausiert, wenn die Gesundheit eines Gruppenmitglieds unter 25&#160;% fällt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1396,7 +1396,7 @@
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText>{0}%</DefaultText>
+      <DefaultText>{0}&#160;%</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1826,12 +1826,12 @@
     </Entry>
     <Entry>
       <ID>367</ID>
-      <DefaultText>{0}% Schaden und Heilung, {1} Tapferkeit</DefaultText>
+      <DefaultText>{0}&#160;% Schaden und Heilung, {1} Tapferkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>{0}% Ausdauer und Gesundheit, {1} Tapferkeit</DefaultText>
+      <DefaultText>{0}&#160;% Ausdauer und Gesundheit, {1} Tapferkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1846,7 +1846,7 @@
     </Entry>
     <Entry>
       <ID>371</ID>
-      <DefaultText>{0}% Wirkungsbereich, {1}% Dauer und {2} Wille</DefaultText>
+      <DefaultText>{0}&#160;% Wirkungsbereich, {1}&#160;% Dauer und {2} Wille</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2398,21 +2398,21 @@
       <ID>481</ID>
       <DefaultText>Die am weitesten verbreiteten Menschen im Dyrwald, das Weidevolk (oder Thyrtaner), leben in dieser Gegend seit fast 2000&#160;Jahren. Das Weidevolk lebt traditionell am Rande der Elfenwälder und bearbeitet die offenen Flächen&#160;– daher ihr Name. Die meisten Menschen im Dyrwald sind Thyrtaner.
 
-Kämpfergeist: Einmal pro Begegnung –&#160;5&#160;Sekunden, nachdem die Ausdauer auf unter 50% gefallen ist&#160;– erhalten Menschen vorübergehend Boni auf Genauigkeit und Schaden.</DefaultText>
+Kämpfergeist: Einmal pro Begegnung –&#160;5&#160;Sekunden, nachdem die Ausdauer auf unter 50&#160;% gefallen ist&#160;– erhalten Menschen vorübergehend Boni auf Genauigkeit und Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>482</ID>
       <DefaultText>Das Ozeanvolk (Calbandra) ist auf der anderen Seite des Globus in der Nähe des Äquators entstanden und ist derzeit die am weitesten verbreitete Menschengruppe in dieser Region. Es ist jedoch auch in die entlegenen Gegenden der Welt ausgewandert. Das Ozeanvolk ist die dominierende Kultur in den Vailianischen Republiken und sind auch im Dyrwald verbreitet.
 
-Kämpfergeist: Einmal pro Begegnung –&#160;5&#160;Sekunden, nachdem die Ausdauer auf unter 50% gefallen ist&#160;– erhalten Menschen vorübergehend Boni auf Genauigkeit und Schaden.</DefaultText>
+Kämpfergeist: Einmal pro Begegnung –&#160;5&#160;Sekunden, nachdem die Ausdauer auf unter 50&#160;% gefallen ist&#160;– erhalten Menschen vorübergehend Boni auf Genauigkeit und Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>483</ID>
       <DefaultText>Das Savannenvolk (Natlaner) kommt ursprünglich aus dem Gebiet südlich des Äquators und sind, mit Ausnahme von manchen Gruppen, die in Richtung Norden ausgewandert sind, seit mehr als 10.000&#160;Jahren am selben Ort ansässig. Wortgetreu bedeutet der Name Natlaner „ursprünglich“. Während es in Readceras relativ verbreitet ist, trifft man das Savannenvolk normalerweise nicht im Dyrwald und den Vailianischen Republiken an.
 
-Kämpfergeist: Einmal pro Begegnung –&#160;5&#160;Sekunden, nachdem die Ausdauer auf unter 50% gefallen ist&#160;– erhalten Menschen vorübergehend Boni auf Genauigkeit und Schaden.</DefaultText>
+Kämpfergeist: Einmal pro Begegnung –&#160;5&#160;Sekunden, nachdem die Ausdauer auf unter 50&#160;% gefallen ist&#160;– erhalten Menschen vorübergehend Boni auf Genauigkeit und Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2447,28 +2447,28 @@ Instinkte des Jägers: Nordzwerge erhalten +15 Genauigkeit im Kampf gegen Wesen 
       <ID>488</ID>
       <DefaultText>Von allen Rassen der Gottähnlichen wird den Tod-Gottähnlichen am wenigsten getraut. Seltsame Wucherungen verdecken ihre Augen –&#160;oder in manch anderen Fällen, das komplette Gesicht&#160;– und verleihen ihnen eine unheimliche Erscheinung. Die Geschwüre sind für die Gottähnlichen transparent, doch von außen gesehen undurchsichtig und verstecken deren Gesichtszüge. Die Tod-Gottähnlichen werden bei der Geburt gewöhnlich getötet, weil viele Kulturen sie als Vorboten des Unheils betrachten.
 
-Gerichtsdiener des Todes: Wenn Tod-Gottähnliche einen Feind angreifen, dessen Ausdauer bei 15% oder weniger liegt, wird ihr Schaden erhöht.</DefaultText>
+Gerichtsdiener des Todes: Wenn Tod-Gottähnliche einen Feind angreifen, dessen Ausdauer bei 15&#160;% oder weniger liegt, wird ihr Schaden erhöht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>489</ID>
       <DefaultText>Die Körper der Feuer-Gottähnlichen ähneln oftmals heißem Metall, verbranntem Holz oder Stein. Aus den Rissen ihrer Haut brechen harmlose Flammen aus. Im Todesfeuer-Archipel sind die Feuer-Gottähnlichen Objekt sowohl der Ehrfurcht als auch der Angst. Viele Einheimische glauben, dass sie die Kraft haben, Vulkane zu erwecken&#160;– oder, dass ein Vulkan erweckt wird, wenn man einen von ihnen tötet. Im Dyrwald sieht man die Feuer-Gottähnlichen oftmals als Segen von Magran an, Göttin des Krieges und des Feuers.
 
-Kampfgestählt: Wenn ihre Ausdauer auf unter 50% fällt, leuchten Feuer-Gottähnliche wie Metall in einer Esse. Ihre Schadensreduktion steigt an und sie fügen jeder Kreatur, die sie im Nahkampf trifft, eine kleine Menge an Feuerschaden zu.</DefaultText>
+Kampfgestählt: Wenn ihre Ausdauer auf unter 50&#160;% fällt, leuchten Feuer-Gottähnliche wie Metall in einer Esse. Ihre Schadensreduktion steigt an und sie fügen jeder Kreatur, die sie im Nahkampf trifft, eine kleine Menge an Feuerschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>490</ID>
       <DefaultText>Natur-Gottähnliche erscheinen als eine Verschmelzung der Eigenschaften von Mensch und Tier. Sie sind oftmals mit Pflanzen, Moos oder Pilzen bedeckt. Dies führte zu dem verbreitetem Stigma, sie seien krank, weshalb viele bei der Geburt getötet werden. Viele Druiden-Orden verfolgen ein eifriges Interesse an den Natur-Gottähnlichen, aufgrund der den Druiden eigenen Neugier gegenüber dem Phänomen, wie Seelen Tiere, Pflanzen und Steine besetzen.
 
-Quelle des Lebens: Verleiht einen Bonus auf Macht, Verfassung und Gewandtheit, wenn die Ausdauer unter 50% liegt.</DefaultText>
+Quelle des Lebens: Verleiht einen Bonus auf Macht, Verfassung und Gewandtheit, wenn die Ausdauer unter 50&#160;% liegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>491</ID>
       <DefaultText>Von allen Gottähnlichen werden Mond-Gottähnliche am meisten toleriert. Auch wenn ihre Hautfarbe und ein großes mondähnliches Gewächs auf ihrer Stirn für manche seltsam erscheinen mag, betrachtet man ihre Erscheinung generell eher als angenehmer. Seefahrer haben bezüglich den Mond-Gottähnlichen und ihrem Hang, Glück zu bringen, viele Ansichten, auch wenn es nur wenig Übereinstimmung darüber gibt, welche Art von Glück sie bringen.
 
-Silberflut: In jeder Begegnung generieren Mond-Gottähnliche, wenn sie auf unter 75%, unter 50% und unter 25% Ausdauer fallen, Wellen von heilendem Mondschein, die ihnen und ihren Verbündeten Ausdauer zurückgeben.</DefaultText>
+Silberflut: In jeder Begegnung generieren Mond-Gottähnliche, wenn sie auf unter 75&#160;%, unter 50&#160;% und unter 25&#160;% Ausdauer fallen, Wellen von heilendem Mondschein, die ihnen und ihren Verbündeten Ausdauer zurückgeben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6255,7 +6255,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1242</ID>
-      <DefaultText>{0} Rüstungs&#x2060;schadensreduktion wenn unter 25% Gesundheit</DefaultText>
+      <DefaultText>{0} Rüstungs&#x2060;schadensreduktion wenn unter 25&#160;% Gesundheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6430,7 +6430,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1277</ID>
-      <DefaultText>{0}%</DefaultText>
+      <DefaultText>{0}&#160;%</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7947,7 +7947,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1582</ID>
-      <DefaultText>{0}% Aktionsgeschwindigkeit und {1} Reflexe</DefaultText>
+      <DefaultText>{0}&#160;% Aktionsgeschwindigkeit und {1} Reflexe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8187,7 +8187,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1630</ID>
-      <DefaultText>Bestiarium-Fortschritt&#160;– {0} {1}%. {2}/{3} EP gesammelt.</DefaultText>
+      <DefaultText>Bestiarium-Fortschritt&#160;– {0} {1}&#160;%. {2}/{3} EP gesammelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8312,8 +8312,8 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1656</ID>
-      <DefaultText>{0}% Max. Erschöpfung,
-{1}% Erschöpfungszuwachs im Kampf</DefaultText>
+      <DefaultText>{0}&#160;% Max. Erschöpfung,
+{1}&#160;% Erschöpfungszuwachs im Kampf</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8330,7 +8330,7 @@ Stufe {1} Schlösser knacken,
     </Entry>
     <Entry>
       <ID>1659</ID>
-      <DefaultText>{0}% Verbrauchsgegenstanddauer</DefaultText>
+      <DefaultText>{0}&#160;% Verbrauchsgegenstanddauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

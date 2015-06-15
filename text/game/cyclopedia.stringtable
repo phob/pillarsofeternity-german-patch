@@ -505,8 +505,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Die Tapferkeit widersteht Angriffen gegen das Immunsystem des Charakters (z.B. Gift, Krankheit usw.).
- Sie wird durch die Klasse des Charakters, seine Stufe, seine Macht und seine Verfassung definiert, kann aber auch durch andere Effekte beeinflusst werden.</DefaultText>
+      <DefaultText>Die Tapferkeit widersteht Angriffen gegen das Immunsystem des Charakters (z.&#160;B. Gift, Krankheit usw.). Sie wird durch die Klasse des Charakters, seine Stufe, seine Macht und seine Verfassung definiert, kann aber auch durch andere Effekte beeinflusst werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,7 +515,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Durch seine Reflexe kann der Verteidiger physisch schädlichen Wirkungsbereichangriffen ausweichen (z.B. Explosionen, Blitzschlägen). Sie werden durch die Klasse des Charakters, seine Stufe, seine Gewandtheit und seine Wahrnehmung bestimmt, können aber auch durch andere Effekte beeinflusst werden.</DefaultText>
+      <DefaultText>Durch seine Reflexe kann der Verteidiger physisch schädlichen Wirkungsbereichangriffen ausweichen (z.&#160;B. Explosionen, Blitzschlägen). Sie werden durch die Klasse des Charakters, seine Stufe, seine Gewandtheit und seine Wahrnehmung bestimmt, können aber auch durch andere Effekte beeinflusst werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -526,7 +525,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Mit seinem [g]Wille[/g]n widersetzt sich ein Charakter mentalen Angriffen (z.B. einem Zauber, der das Ziel mental lähmt). Er wird durch die Klasse des Charakters, seine Stufe, seinen Intellekt und seine Entschlossenheit definiert, kann aber auch durch andere Effekte beeinflusst werden.</DefaultText>
+      <DefaultText>Mit seinem [g]Wille[/g]n widersetzt sich ein Charakter mentalen Angriffen (z.&#160;B. einem Zauber, der das Ziel mental lähmt). Er wird durch die Klasse des Charakters, seine Stufe, seinen Intellekt und seine Entschlossenheit definiert, kann aber auch durch andere Effekte beeinflusst werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -566,7 +565,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Die Genauigkeit eines benommenen Ziels wird um 10 reduziert. Gewandtheit, Wahrnehmung und Intellekt werden um jeweils 2 reduziert, Angriffsgeschwindigkeit wird um 15% reduziert.</DefaultText>
+      <DefaultText>Die Genauigkeit eines benommenen Ziels wird um 10 reduziert. Gewandtheit, Wahrnehmung und Intellekt werden um jeweils 2 reduziert, Angriffsgeschwindigkeit wird um 15&#160;% reduziert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -766,7 +765,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Ein Kritischer Treffer ist jeder Angriffswurf über 100. Ein Kritischer Treffer, der Schaden verursacht, erhöht dessen Gesamtschaden um 50%. Ein Kritischer Treffer bei Effekten mit einer Dauer (meistens Wirkungen wie Erkrankt oder Gelähmt) erhöht die Laufzeit um 50%.</DefaultText>
+      <DefaultText>Ein Kritischer Treffer ist jeder Angriffswurf über 100. Ein Kritischer Treffer, der Schaden verursacht, erhöht dessen Gesamtschaden um 50&#160;%. Ein Kritischer Treffer bei Effekten mit einer Dauer (meistens Wirkungen wie Erkrankt oder Gelähmt) erhöht die Laufzeit um 50&#160;%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -776,7 +775,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Ein Leichter Treffer ist jeder Angriffswurf zwischen 16 und 50. Ein Leichter Treffer verringert Schaden und Dauer um 50%.</DefaultText>
+      <DefaultText>Ein Leichter Treffer ist jeder Angriffswurf zwischen 16 und 50. Ein Leichter Treffer verringert Schaden und Dauer um 50&#160;%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -796,7 +795,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>In Pillars of Eternity gibt es vier Verteidigungen: Abwehr, Tapferkeit, Reflexe und Wille. Jede Verteidigung dient als Schutz gegen eine andere Kategorie von Angriffen durch den Angriffswurf. Abwehr dient als Schutz gegen die meisten direkten Waffenangriffe oder Angriffe, die Waffen ähneln. Tapferkeit bietet Schutz gegen körperliche Versuche, einen Charakter zu überwältigen oder seinen Körper innerlich anzugreifen (z.B. durch ein Gift). Körperliche Wirkungsbereichsangriffe wie Feuerbälle oder Blitze werden durch die Reflexe abgeschwächt. Fast alle mentalen Angriffe müssen die Willensverteidigung des Ziels überwinden.
+      <DefaultText>In Pillars of Eternity gibt es vier Verteidigungen: Abwehr, Tapferkeit, Reflexe und Wille. Jede Verteidigung dient als Schutz gegen eine andere Kategorie von Angriffen durch den Angriffswurf. Abwehr dient als Schutz gegen die meisten direkten Waffenangriffe oder Angriffe, die Waffen ähneln. Tapferkeit bietet Schutz gegen körperliche Versuche, einen Charakter zu überwältigen oder seinen Körper innerlich anzugreifen (z.&#160;B. durch ein Gift). Körperliche Wirkungsbereichsangriffe wie Feuerbälle oder Blitze werden durch die Reflexe abgeschwächt. Fast alle mentalen Angriffe müssen die Willensverteidigung des Ziels überwinden.
 
 Tapferkeit, Reflexe und Wille basieren alle auf Attributspaaren. Macht und Verfassung definieren die Tapferkeit. Geschicklichkeit und Wahrnehmung definieren die Reflexe, und Intellekt und Entschlossenheit definieren den Wille. Die Basisabwehr wird durch die Wahrnehmung und die Entschlossenheit des Charakters definiert. Alle Charaktere erhalten mit jedem Stufenaufstieg pauschale Boni auf ihre Verteidigungen. Darüber hinaus können Zauber, Fähigkeiten, Wirkungen und Gegenstände die Verteidigungen eines Charakters modifizieren.</DefaultText>
       <FemaleText />
@@ -812,7 +811,7 @@ Tapferkeit, Reflexe und Wille basieren alle auf Attributspaaren. Macht und Verfa
 
 Wenn ein Zauber gegen ein Ziel gewirkt wird, werden der Zauber und seine untergeordneten Effekte und Wirkungen alle in einem prozedural-gebündelten Container zusammengefasst, der durch den Zauber generiert wird.
 
-Wenn diese prozedural-gebündelten Container angewandt werden, während eine identische Version bereits aktiv ist (z.B. Segen auf ein Ziel gewirkt, das bereits unter dem Einfluss von Segen steht), wird die alte Version durch die neue ersetzt.
+Wenn diese prozedural-gebündelten Container angewandt werden, während eine identische Version bereits aktiv ist (z.&#160;B. Segen auf ein Ziel gewirkt, das bereits unter dem Einfluss von Segen steht), wird die alte Version durch die neue ersetzt.
 
 Unabhängig davon, mit wie vielen Effekten das Ziel belegt ist, werden grundsätzlich nur die besten Boni und nur die schlimmsten Mali angewandt.
 
@@ -874,7 +873,7 @@ In einem ausgeglichenen Angriff-/Verteidigung-Szenario werden die meisten Angrif
 
 Die Schadensreduktion wird direkt von allem erlittenen Schaden abgezogen. Ein Angriff, der einem Ziel mit 7 SR ursprünglich 20 Schaden zufügen würde, wird also auf 13 reduziert.
 
-Der tatsächlich erlittene Schaden kann nie unter die Schwelle von 20% des ursprünglichen Wertes sinken. Wird dieser Mindestwert erreicht, erscheint im Kampfprotokoll in der Angriffszeile die Meldung MIN.
+Der tatsächlich erlittene Schaden kann nie unter die Schwelle von 20&#160;% des ursprünglichen Wertes sinken. Wird dieser Mindestwert erreicht, erscheint im Kampfprotokoll in der Angriffszeile die Meldung MIN.
 
 Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadensreduktionswerte gegen die verschiedenen Schadenstypen. Eine niedrigere SR schützt weniger gegen Schaden, so dass das Ziel gegen Angriffe dieses Typs anfälliger ist.</DefaultText>
       <FemaleText />
@@ -957,7 +956,7 @@ Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadens
     <Entry>
       <ID>174</ID>
       <DefaultText>Die Unterbrechung legt die Wahrscheinlichkeit fest, dass ein erfolgreicher Angriff die derzeitige oder nächste Handlung seines Gegners verzögert.
- Der Wurf nutzt den Unterbrechung-Wert des Angreifers (basierend auf seiner Wahrnehmung), der dann mit der Konzentration des Ziels (basierend auf seiner Entschlossenheit) verglichen wird. Es wird eine Zahl von 1&#160;– 100 gewürfelt und die Unterbrechung dazu addiert. Ist das Ergebnis höher als die Konzentration, spielt das Ziel eine Trefferreaktion ab und seine aktuelle Handlung wird verzögert.
+ Der Wurf nutzt den Unterbrechung-Wert des Angreifers (basierend auf seiner Wahrnehmung), der dann mit der Konzentration des Ziels (basierend auf seiner Entschlossenheit) verglichen wird. Es wird eine Zahl von 1–100 gewürfelt und die Unterbrechung dazu addiert. Ist das Ergebnis höher als die Konzentration, spielt das Ziel eine Trefferreaktion ab und seine aktuelle Handlung wird verzögert.
 
 Die Dauer der Unterbrechung hängt von der Unterbrechungsstärke der Waffe bzw. des Angriffs ab. Eine Unterbrechung, die auf eine Figur angewandt wird, die schon unter einer Unterbrechung mit einer längeren Dauer leidet, hat keinen Effekt.</DefaultText>
       <FemaleText />
@@ -1136,11 +1135,11 @@ Hinweis: Es gibt einige Fähigkeiten, die Ausnahmen zu den üblichen Flankierung
 
 Alle Boni und Mali aus passiven Quellen und Waffen können addiert werden.
 
-Aktive und modale Boni (z.B. aus Fähigkeiten oder Verbrauchsgegenständen) wenden auf die jeweilige Statistik den höchsten Bonus und den niedrigsten Malus an. Wenn der Zauber eines Zauberers beispielsweise +3 auf Abwehr verleiht und die Aura eines Paladins +5, beträgt der aktive/modale Bonus +5, der Bonus von +3 verfällt. Wenn derselbe Zauber auch einen Bonus auf Macht verleiht, wird dieser dennoch angewendet (sofern er nicht von einem höheren Macht-Bonus einer anderen aktiven/modalen Quelle übertrumpft wird).
+Aktive und modale Boni (z.&#160;B. aus Fähigkeiten oder Verbrauchsgegenständen) wenden auf die jeweilige Statistik den höchsten Bonus und den niedrigsten Malus an. Wenn der Zauber eines Zauberers beispielsweise +3 auf Abwehr verleiht und die Aura eines Paladins +5, beträgt der aktive/modale Bonus +5, der Bonus von +3 verfällt. Wenn derselbe Zauber auch einen Bonus auf Macht verleiht, wird dieser dennoch angewendet (sofern er nicht von einem höheren Macht-Bonus einer anderen aktiven/modalen Quelle übertrumpft wird).
 
 Ausrüstung wendet ebenfalls den höchsten Bonus und den niedrigsten Malus auf die jeweilige Statistik an. Dazu zählen alle Gegenstände, die direkt am Charakter ausgerüstet sind, mit Ausnahme von Waffen. Ausrüstung ist eine eigenständige Kategorie, separat von aktiv/modal&#160;– daher werden die höchsten Boni und niedrigsten Mali aus jeder Kategorie addiert.
 
-Wirkungen (z.B. Betäubt, Niedergeschlagen) gelten im Allgemeinen als aktive Effekte. Wenn eine Wirkung auf einen Charakter angewandt wird, während dieselbe Wirkung bereits aktiv ist, wird die Dauer der bestehenden Wirkung ersetzt, wenn die neue Dauer länger ist.</DefaultText>
+Wirkungen (z.&#160;B. Betäubt, Niedergeschlagen) gelten im Allgemeinen als aktive Effekte. Wenn eine Wirkung auf einen Charakter angewandt wird, während dieselbe Wirkung bereits aktiv ist, wird die Dauer der bestehenden Wirkung ersetzt, wenn die neue Dauer länger ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

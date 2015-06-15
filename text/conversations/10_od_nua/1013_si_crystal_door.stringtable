@@ -23,7 +23,7 @@ Nach mehreren Augenblicken halten die Stimmen inne, als ob sie eine Antwort erwa
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"…&#160;Hallo?"</DefaultText>
+      <DefaultText>„…&#160;Hallo?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -33,7 +33,7 @@ Nach mehreren Augenblicken halten die Stimmen inne, als ob sie eine Antwort erwa
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Sprich den Satz nach, den die Todesfee gesagt hat. "Carith! Exter naolus Od Nua!"</DefaultText>
+      <DefaultText>Sprich den Satz nach, den die Todesfee gesagt hat. „Carith! Exter naolus Od Nua!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,7 +78,7 @@ Nach mehreren Augenblicken halten die Stimmen inne, als ob sie eine Antwort erwa
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Tür, öffne dich."</DefaultText>
+      <DefaultText>„Tür, öffne dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -93,32 +93,32 @@ Nach mehreren Augenblicken halten die Stimmen inne, als ob sie eine Antwort erwa
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Ich möchte mit dem Meister in der Tiefe sprechen."</DefaultText>
+      <DefaultText>„Ich möchte mit dem Meister in der Tiefe sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Lasst mich durch!"</DefaultText>
+      <DefaultText>„Lasst mich durch!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Unter dem Stein und dem Gewicht der Jahre ruht jemand, der selbst den Tod erschlagen würde."</DefaultText>
+      <DefaultText>„Unter dem Stein und dem Gewicht der Jahre ruht jemand, der selbst den Tod erschlagen würde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Wer ist gekommen, um ihn zu erwecken?"</DefaultText>
+      <DefaultText>„Wer ist gekommen, um ihn zu erwecken?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Ich bin ein Feind von Od Nua. Mein Schwertarm ist gegen seine Anhänger eingeschworen. Diesem Zweck ist meine Seele geweiht."</DefaultText>
+      <DefaultText>„Ich bin ein Feind von Od Nua. Mein Schwertarm ist gegen seine Anhänger eingeschworen. Diesem Zweck ist meine Seele geweiht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Ich bin ein Diener von Od Nua. Mein Schwertarm ist gegen seine Verbündeten eingeschworen. Diesem Zweck ist meine Seele geweiht."</DefaultText>
+      <DefaultText>„Ich bin ein Diener von Od Nua. Mein Schwertarm ist gegen seine Verbündeten eingeschworen. Diesem Zweck ist meine Seele geweiht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,7 +143,7 @@ Nach mehreren Augenblicken halten die Stimmen inne, als ob sie eine Antwort erwa
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>Du spürst eine eigenartige Abkühlung der Luft, und die Stimmen werden scharf und angespannt. "Hier kommt kein Verräter durch."</DefaultText>
+      <DefaultText>Du spürst eine eigenartige Abkühlung der Luft, und die Stimmen werden scharf und angespannt. „Hier kommt kein Verräter durch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -153,13 +153,13 @@ Nach mehreren Augenblicken halten die Stimmen inne, als ob sie eine Antwort erwa
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Ich bin [Player Name], der rechtmäßige Herrscher von Caed Nua."</DefaultText>
-      <FemaleText>"Ich bin [Player Name], die rechtmäßige Herrscherin von Caed Nua."</FemaleText>
+      <DefaultText>„Ich bin [Player Name], der rechtmäßige Herrscher von Caed Nua.“</DefaultText>
+      <FemaleText>„Ich bin [Player Name], die rechtmäßige Herrscherin von Caed Nua.“</FemaleText>
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Ein Erkunder."</DefaultText>
-      <FemaleText>"Eine Erkunderin."</FemaleText>
+      <DefaultText>„Ein Erkunder.“</DefaultText>
+      <FemaleText>„Eine Erkunderin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>91</ID>
@@ -188,7 +188,7 @@ Nach mehreren Augenblicken halten die Stimmen inne, als ob sie eine Antwort erwa
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Ich suche nach dem Meister in der Tiefe."</DefaultText>
+      <DefaultText>„Ich suche nach dem Meister in der Tiefe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -198,7 +198,7 @@ Nach mehreren Augenblicken halten die Stimmen inne, als ob sie eine Antwort erwa
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>[Lügen.] "Ich bin gekommen, um Od Nuas Herrschaft ein Ende zu bereiten."</DefaultText>
+      <DefaultText>[Lügen.] „Ich bin gekommen, um Od Nuas Herrschaft ein Ende zu bereiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

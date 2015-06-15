@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Gut, Sie zu sehen, mein Fürst. Ich habe hier allerlei Kleinkram aus jedem Winkel des Dyrwalds. Spinnengift, Skuldr-Ohren&#160;… alles, was man so braucht."</DefaultText>
-      <FemaleText>"Gut, Sie zu sehen, meine Fürstin. Ich habe hier allerlei Kleinkram aus jedem Winkel des Dyrwalds. Spinnengift, Skuldr-Ohren&#160;… alles, was man so braucht."</FemaleText>
+      <DefaultText>„Gut, Sie zu sehen, mein Fürst. Ich habe hier allerlei Kleinkram aus jedem Winkel des Dyrwalds. Spinnengift, Skuldr-Ohren&#160;… alles, was man so braucht.“</DefaultText>
+      <FemaleText>„Gut, Sie zu sehen, meine Fürstin. Ich habe hier allerlei Kleinkram aus jedem Winkel des Dyrwalds. Spinnengift, Skuldr-Ohren&#160;… alles, was man so braucht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Lass mich mal sehen, was du anzubieten hast."</DefaultText>
+      <DefaultText>„Lass mich mal sehen, was du anzubieten hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[Weggehen.] "Leb wohl."</DefaultText>
+      <DefaultText>[Weggehen.] „Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Seien Sie gegrüßt, mein Fürst. Mit was kann ich Ihnen dienen? Käferpanzer? Xaurip-Zungen?"</DefaultText>
-      <FemaleText>"Seien Sie gegrüßt, meine Fürstin. Mit was kann ich Ihnen dienen? Käferpanzer? Xaurip-Zungen?"</FemaleText>
+      <DefaultText>„Seien Sie gegrüßt, mein Fürst. Mit was kann ich Ihnen dienen? Käferpanzer? Xaurip-Zungen?“</DefaultText>
+      <FemaleText>„Seien Sie gegrüßt, meine Fürstin. Mit was kann ich Ihnen dienen? Käferpanzer? Xaurip-Zungen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Gewiss!"</DefaultText>
+      <DefaultText>„Gewiss!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

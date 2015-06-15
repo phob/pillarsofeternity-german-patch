@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Heben Sie einen Kelch mit mir, mein Fürst!"</DefaultText>
-      <FemaleText>"Heben Sie einen Kelch mit mir, meine Fürstin!"</FemaleText>
+      <DefaultText>„Heben Sie einen Kelch mit mir, mein Fürst!“</DefaultText>
+      <FemaleText>„Heben Sie einen Kelch mit mir, meine Fürstin!“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"*Hicks* Haben Sie schon mal den Witz über den Orlaner und den Mecwyn gehört?"</DefaultText>
+      <DefaultText>„*Hicks* Haben Sie schon mal den Witz über den Orlaner und den Mecwyn gehört?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

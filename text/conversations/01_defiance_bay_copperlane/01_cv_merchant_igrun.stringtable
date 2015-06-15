@@ -8,17 +8,17 @@
       <ID>1</ID>
       <DefaultText>Igrun steht hinter einem Stand und poliert ein Breitschwert. Die gemusterte Haut um seine Augen herum ist alt und faltig. Die Muskeln in seinen Armen sind knotig und mager, und doch hält er die Waffe ohne jede Mühe.
 
-Er blinzelt dich an. "Willst du dich umsehen? Du wirst in ganz Trutzbucht kein besseres Angebot an Waffen und Rüstungen finden. Außer bei Sonild, versteht sich." Er grinst schief.</DefaultText>
+Er blinzelt dich an. „Willst du dich umsehen? Du wirst in ganz Trutzbucht kein besseres Angebot an Waffen und Rüstungen finden. Außer bei Sonild, versteht sich.“ Er grinst schief.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Zeig mir, was du zu verkaufen hast."</DefaultText>
+      <DefaultText>„Zeig mir, was du zu verkaufen hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich suche nach einem bestimmten Dolch aus Markstahl."</DefaultText>
+      <DefaultText>„Ich suche nach einem bestimmten Dolch aus Markstahl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -28,96 +28,96 @@ Er blinzelt dich an. "Willst du dich umsehen? Du wirst in ganz Trutzbucht kein b
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Wie ihn die Schmelztiegelritter verwenden? Lass mich raten. Du hast mit dem Jungen gesprochen, nicht wahr?" Er lacht und schüttelt den Kopf.
+      <DefaultText>„Wie ihn die Schmelztiegelritter verwenden? Lass mich raten. Du hast mit dem Jungen gesprochen, nicht wahr?“ Er lacht und schüttelt den Kopf.
 
-"Ich wäre versucht, ihn dir trotzdem zu verkaufen und den kleinen Bengel seine Lektion lernen zu lassen, aber eine Gruppe von Abenteurern hat ihn mir bereits abgekauft."</DefaultText>
+„Ich wäre versucht, ihn dir trotzdem zu verkaufen und den kleinen Bengel seine Lektion lernen zu lassen, aber eine Gruppe von Abenteurern hat ihn mir bereits abgekauft.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Die Abenteurer, denen du den Dolch verkauft hast&#160;– wo sind sie jetzt?"</DefaultText>
+      <DefaultText>„Die Abenteurer, denen du den Dolch verkauft hast&#160;– wo sind sie jetzt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Erzähl mir mehr über diesen Dolch."</DefaultText>
+      <DefaultText>„Erzähl mir mehr über diesen Dolch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Solche Leute kommen nur nach Kupferweg, um in der Expeditionshalle von Admeths Lager Aufträge zu finden oder im Fuchs und Gans etwas zu trinken. Und nachdem sie nicht in das Lager gegangen sind, tja&#160;… darfst du dreimal raten."</DefaultText>
+      <DefaultText>„Solche Leute kommen nur nach Kupferweg, um in der Expeditionshalle von Admeths Lager Aufträge zu finden oder im Fuchs und Gans etwas zu trinken. Und nachdem sie nicht in das Lager gegangen sind, tja&#160;… darfst du dreimal raten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Er ölt den Lappen in seiner Hand. "Er wurde aus einem besonders reinen Eisenerz aus den Bergen der Weißmark geschmiedet. Traditionellerweise fertigen die Schmiede auf Burg Schmelztiegel aus diesem Stahl Dolche und Schwerter, die sie nur den Schmelztiegelrittern überreichen."
+      <DefaultText>Er ölt den Lappen in seiner Hand. „Er wurde aus einem besonders reinen Eisenerz aus den Bergen der Weißmark geschmiedet. Traditionellerweise fertigen die Schmiede auf Burg Schmelztiegel aus diesem Stahl Dolche und Schwerter, die sie nur den Schmelztiegelrittern überreichen.“
 
-"Aber das hat dir der Knabe bestimmt schon alles erzählt." Er grinst.</DefaultText>
+„Aber das hat dir der Knabe bestimmt schon alles erzählt.“ Er grinst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Was ist an Sonild so besonders?"</DefaultText>
+      <DefaultText>„Was ist an Sonild so besonders?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Sie hat ihren Laden in der Expeditionshalle." Er deutet mit dem Daumen über seine Schulter. "Sie verkauft die beste Ausrüstung der Stadt, aber Wenan hält sie an der kurzen Leine. Ihre edlen Waren sind reserviert für angeheuerte Expeditionsteilnehmer, Mitglieder der Dutzenden und alle anderen, an denen er Gefallen findet."</DefaultText>
+      <DefaultText>„Sie hat ihren Laden in der Expeditionshalle.“ Er deutet mit dem Daumen über seine Schulter. „Sie verkauft die beste Ausrüstung der Stadt, aber Wenan hält sie an der kurzen Leine. Ihre edlen Waren sind reserviert für angeheuerte Expeditionsteilnehmer, Mitglieder der Dutzenden und alle anderen, an denen er Gefallen findet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Wenn Markstahl-Dolche nur an Schmelztiegelritter vergeben werden, wie bist du dann in seinen Besitz gelangt?"</DefaultText>
+      <DefaultText>„Wenn Markstahl-Dolche nur an Schmelztiegelritter vergeben werden, wie bist du dann in seinen Besitz gelangt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Igrun hält mitten im Polieren inne, das Tuch bewegt sich nur noch langsam über die Klinge. "Durch meine Hände wandert sehr viel Stahl. Ich habe es mir längst abgewöhnt, nach seiner Herkunft zu fragen."</DefaultText>
+      <DefaultText>Igrun hält mitten im Polieren inne, das Tuch bewegt sich nur noch langsam über die Klinge. „Durch meine Hände wandert sehr viel Stahl. Ich habe es mir längst abgewöhnt, nach seiner Herkunft zu fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Wenn du mir einen kleinen Nachlass gewährst, müssen auch die Schmelztiegelritter nicht erfahren, woher er kam."</DefaultText>
+      <DefaultText>„Wenn du mir einen kleinen Nachlass gewährst, müssen auch die Schmelztiegelritter nicht erfahren, woher er kam.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Ich will dir keinen Ärger machen, aber du solltest vorsichtig sein, womit du handelst&#160;… und mit *wem* du handelst. Hehlerei mit gestohlenen Waren ist riskant."</DefaultText>
+      <DefaultText>„Ich will dir keinen Ärger machen, aber du solltest vorsichtig sein, womit du handelst&#160;… und mit *wem* du handelst. Hehlerei mit gestohlenen Waren ist riskant.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Also gut. Ich will nicht neugierig sein."</DefaultText>
+      <DefaultText>„Also gut. Ich will nicht neugierig sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Er grunzt. "Nett, dass du dich um mich sorgst, aber es ist unnötig. Ich passe schon auf, dass ich sauber bin."</DefaultText>
+      <DefaultText>Er grunzt. „Nett, dass du dich um mich sorgst, aber es ist unnötig. Ich passe schon auf, dass ich sauber bin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Er grunzt und rollt mit den Augen. "Also gut. Fünf Prozent, damit ich mir den Ärger spare. Ich kann es wirklich nicht brauchen, dass sie mich in die Mangel nehmen, nachdem mein Stand so nah an Admeths Lager und den Dutzenden steht."</DefaultText>
+      <DefaultText>Er grunzt und rollt mit den Augen. „Also gut. Fünf Prozent, damit ich mir den Ärger spare. Ich kann es wirklich nicht brauchen, dass sie mich in die Mangel nehmen, nachdem mein Stand so nah an Admeths Lager und den Dutzenden steht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Möchtest du etwas Bestimmtes sehen?"</DefaultText>
+      <DefaultText>„Möchtest du etwas Bestimmtes sehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Möchtest du etwas Bestimmtes sehen?"</DefaultText>
+      <DefaultText>„Möchtest du etwas Bestimmtes sehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Zeig mir, was du zu verkaufen hast."</DefaultText>
+      <DefaultText>„Zeig mir, was du zu verkaufen hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Man hat das Gefühl, als würde alle 200&#160;Jahre jemand versuchen, diese Stadt niederzubrennen. Zumindest bin ich beim nächsten Mal nicht mehr dabei."</DefaultText>
+      <DefaultText>„Man hat das Gefühl, als würde alle 200&#160;Jahre jemand versuchen, diese Stadt niederzubrennen. Zumindest bin ich beim nächsten Mal nicht mehr dabei.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

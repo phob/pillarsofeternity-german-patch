@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Die Schadensart 'Direktschaden' ignoriert die Schadensreduktionen des Ziels. Nur eine kleine Anzahl von Angriffen –&#160;beispielsweise Gifte oder mentale Fähigkeiten&#160;– verursacht Direktschaden.</DefaultText>
+      <DefaultText>Die Schadensart ‚Direktschaden‘ ignoriert die Schadensreduktionen des Ziels. Nur eine kleine Anzahl von Angriffen –&#160;beispielsweise Gifte oder mentale Fähigkeiten&#160;– verursacht Direktschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,12 +56,12 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Alle Waffen, Schilde oder Rüstungen können verzaubert werden, indem man auf der entsprechenden Beschreibungsseite auf die Schaltfläche 'Verzaubern' klickt.</DefaultText>
+      <DefaultText>Alle Waffen, Schilde oder Rüstungen können verzaubert werden, indem man auf der entsprechenden Beschreibungsseite auf die Schaltfläche ‚Verzaubern‘ klickt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Tränke, Schriftrollen und Lebensmittel können geschaffen werden, indem man im Inventar eines beliebigen Gruppenmitglieds auf 'Herstellen' klickt.</DefaultText>
+      <DefaultText>Tränke, Schriftrollen und Lebensmittel können geschaffen werden, indem man im Inventar eines beliebigen Gruppenmitglieds auf ‚Herstellen‘ klickt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Der Schwierigkeitsgrad beeinflusst, welche Kreaturen im Kampf erscheinen (und wie viele). Nur 'Pfad der Verdammten' verändert die Statistiken der Kreaturen, die erscheinen.</DefaultText>
+      <DefaultText>Der Schwierigkeitsgrad beeinflusst, welche Kreaturen im Kampf erscheinen (und wie viele). Nur ‚Pfad der Verdammten‘ verändert die Statistiken der Kreaturen, die erscheinen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,7 +246,7 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Alle Waffen, die einen Schadenstyp wie "Hieb oder Wucht" aufführen, richten jeweils den Schadenstyp an, der in der aktuellen Situation vorteilhafter ist&#160;– meist den Schadenstyp, gegen den das Ziel am anfälligsten ist.</DefaultText>
+      <DefaultText>Alle Waffen, die einen Schadenstyp wie „Hieb oder Wucht“ aufführen, richten jeweils den Schadenstyp an, der in der aktuellen Situation vorteilhafter ist&#160;– meist den Schadenstyp, gegen den das Ziel am anfälligsten ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

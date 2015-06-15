@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Hallo?"</DefaultText>
+      <DefaultText>„Hallo?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Vorsicht!"</DefaultText>
+      <DefaultText>„Vorsicht!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Verschwinden wir hier!"</DefaultText>
+      <DefaultText>„Verschwinden wir hier!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

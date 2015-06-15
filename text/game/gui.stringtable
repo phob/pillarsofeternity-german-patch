@@ -481,17 +481,17 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>{0} hinzugefügt: "{1}"</DefaultText>
+      <DefaultText>{0} hinzugefügt: „{1}“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>{0} aktualisiert: "{1}"</DefaultText>
+      <DefaultText>{0} aktualisiert: „{1}“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>{0} abgeschlossen: "{1}"</DefaultText>
+      <DefaultText>{0} abgeschlossen: „{1}“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -766,7 +766,7 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>In der Schwierigkeitsstufe "Pfad der Verdammten" erhalten Feinde einen Bonus auf die meisten Werte, und in Gefechten erscheinen viel mehr Feinde. Achtung: Diese Option kann nach Spielbeginn nicht angepasst werden. Sie ist nur für Spieler, die große Herausforderungen schätzen!</DefaultText>
+      <DefaultText>In der Schwierigkeitsstufe „Pfad der Verdammten“ erhalten Feinde einen Bonus auf die meisten Werte, und in Gefechten erscheinen viel mehr Feinde. Achtung: Diese Option kann nach Spielbeginn nicht angepasst werden. Sie ist nur für Spieler, die große Herausforderungen schätzen!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -816,17 +816,17 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Die Schwierigkeitsstufe "Einfach" erfordert minimales Mikromanagement und verzeiht Fehler im Gefecht ohne Umstände. SEHR EMPFOHLEN für Spieler, die zum ersten Mal oder seit langer Zeit wieder gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe „Einfach“ erfordert minimales Mikromanagement und verzeiht Fehler im Gefecht ohne Umstände. SEHR EMPFOHLEN für Spieler, die zum ersten Mal oder seit langer Zeit wieder gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Die Schwierigkeitsstufe "Normal" erfordert Strategie und Effizienz, doch sie verzeiht einige wenige Fehler im Gefecht. NICHT ZU EMPFEHLEN für Spieler, die zum ersten Mal gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe „Normal“ erfordert Strategie und Effizienz, doch sie verzeiht einige wenige Fehler im Gefecht. NICHT ZU EMPFEHLEN für Spieler, die zum ersten Mal gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>Die Schwierigkeitsstufe "Schwer" ist geeignet für erfahrene Infinity-Engine-Spieler, die nach einer Herausforderung suchen. Überleben erfordert Mikromanagement und Werte-Optimierung durch Gegenstände, Zauber und Fähigkeiten.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe „Schwer“ ist geeignet für erfahrene Infinity-Engine-Spieler, die nach einer Herausforderung suchen. Überleben erfordert Mikromanagement und Werte-Optimierung durch Gegenstände, Zauber und Fähigkeiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1311,7 +1311,7 @@
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>{0} gescheitert: "{1}"</DefaultText>
+      <DefaultText>{0} gescheitert: „{1}“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2216,7 +2216,7 @@
     </Entry>
     <Entry>
       <ID>445</ID>
-      <DefaultText>{0}-{1}</DefaultText>
+      <DefaultText>{0}–{1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2410,7 +2410,7 @@ Kämpfergeist: Einmal pro Begegnung –&#160;5&#160;Sekunden, nachdem die Ausdau
     </Entry>
     <Entry>
       <ID>483</ID>
-      <DefaultText>Das Savannenvolk (Natlaner) kommt ursprünglich aus dem Gebiet südlich des Äquators und sind, mit Ausnahme von manchen Gruppen, die in Richtung Norden ausgewandert sind, seit mehr als 10.000&#160;Jahren am selben Ort ansässig. Wortgetreu bedeutet der Name Natlaner "ursprünglich". Während es in Readceras relativ verbreitet ist, trifft man das Savannenvolk normalerweise nicht im Dyrwald und den Vailianischen Republiken an.
+      <DefaultText>Das Savannenvolk (Natlaner) kommt ursprünglich aus dem Gebiet südlich des Äquators und sind, mit Ausnahme von manchen Gruppen, die in Richtung Norden ausgewandert sind, seit mehr als 10.000&#160;Jahren am selben Ort ansässig. Wortgetreu bedeutet der Name Natlaner „ursprünglich“. Während es in Readceras relativ verbreitet ist, trifft man das Savannenvolk normalerweise nicht im Dyrwald und den Vailianischen Republiken an.
 
 Kämpfergeist: Einmal pro Begegnung –&#160;5&#160;Sekunden, nachdem die Ausdauer auf unter 50% gefallen ist&#160;– erhalten Menschen vorübergehend Boni auf Genauigkeit und Schaden.</DefaultText>
       <FemaleText />
@@ -2440,7 +2440,7 @@ Gesund und Zäh: Bergzwerge erhalten einen Bonus auf die Verteidigung gegen Gift
       <ID>487</ID>
       <DefaultText>Die meisten Nordzwerge (Enutanik) leben auf der abgeschiedenen südlichen Insel von Naasitaq, wo sie die felsige Tundra und die schneebedeckten Wälder mit den eingewanderten Bleichelfen und den küstennah fahrenden Schiffen der Aumaua teilen. Wie ihre nördlichen Vettern teilen die Enutanik eine instinktive Liebe für Erkundungen. Nordzwerge sind in den Vailianischen Republiken einigermaßen verbreitet, im Dyrwald trifft man sie jedoch nur selten an.
 
-Instinkte des Jägers: Nordzwerge erhalten +15 Genauigkeit im Kampf gegen Wesen der Kategorien "Wilde" oder "Primitive".</DefaultText>
+Instinkte des Jägers: Nordzwerge erhalten +15 Genauigkeit im Kampf gegen Wesen der Kategorien „Wilde“ oder „Primitive“.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2480,7 +2480,7 @@ Geringe Bedrohung: Greift ein sesshafter Orlaner ein Ziel an, das von einem Grup
     </Entry>
     <Entry>
       <ID>493</ID>
-      <DefaultText>Wilde Orlaner sind die "ursprünglichen" Orlaner, die in den tiefsten Wäldern und Dschungeln zwischen den Tropen lebten. Auch wenn sie nur etwa tausend Jahre merklich von den sesshaften Orlanern getrennt waren, sind schnell ein paar genetische Unterschiede aufgetaucht. Bemerkenswert ist dabei vor allem die fehlende Gesichtsbehaarung im Zweig der sesshaften Orlaner. Wilde Orlaner sind in den Tiefen von Eir&#160;Glanfath verbreitet. Im Gegensatz zu ihren sesshaften Brüdern sieht man sie nur selten im Dyrwald, in Readceras oder in den Vailianischen Republiken.
+      <DefaultText>Wilde Orlaner sind die „ursprünglichen“ Orlaner, die in den tiefsten Wäldern und Dschungeln zwischen den Tropen lebten. Auch wenn sie nur etwa tausend Jahre merklich von den sesshaften Orlanern getrennt waren, sind schnell ein paar genetische Unterschiede aufgetaucht. Bemerkenswert ist dabei vor allem die fehlende Gesichtsbehaarung im Zweig der sesshaften Orlaner. Wilde Orlaner sind in den Tiefen von Eir&#160;Glanfath verbreitet. Im Gegensatz zu ihren sesshaften Brüdern sieht man sie nur selten im Dyrwald, in Readceras oder in den Vailianischen Republiken.
 
 Trotzige Entschlossenheit: Nachdem sie einem Willensangriff ausgesetzt waren, erhalten wilde Orlaner vorübergehend einen Bonus auf alle Verteidigungen.</DefaultText>
       <FemaleText />
@@ -2615,7 +2615,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>508</ID>
-      <DefaultText>Todesfeuer setzt sich zusammen aus der Nation von Naasitaq, Dutzenden von Aumaua-Siedlungen und Hunderten von gesetzlosen, piratenverseuchten Inseln, die sich entlang der südlichen See erstrecken. Das Gebiet ist die Heimat der Nordzwerge, der Aumaua und einiger anderer Rassen. Das Todesfeuer-Archipel ist der "letzte Halt" für jeden, der Richtung Osten reist&#160;– eine Vielzahl monströser Seekreaturen haben den Ozean befallen und das Reisen praktisch unmöglich gemacht.</DefaultText>
+      <DefaultText>Todesfeuer setzt sich zusammen aus der Nation von Naasitaq, Dutzenden von Aumaua-Siedlungen und Hunderten von gesetzlosen, piratenverseuchten Inseln, die sich entlang der südlichen See erstrecken. Das Gebiet ist die Heimat der Nordzwerge, der Aumaua und einiger anderer Rassen. Das Todesfeuer-Archipel ist der „letzte Halt“ für jeden, der Richtung Osten reist&#160;– eine Vielzahl monströser Seekreaturen haben den Ozean befallen und das Reisen praktisch unmöglich gemacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3330,7 +3330,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>651</ID>
-      <DefaultText>Die Försterhütte wacht über die Wildnis in der Nähe der Festung. Der Ausbau der Hütte verleiht einen Bonus auf die Fähigkeit "Überleben", wenn in Leuchthöhle gerastet wird. Außerdem erhält man Zugang zum Förster, der lukrative Kopfgelder bietet.</DefaultText>
+      <DefaultText>Die Försterhütte wacht über die Wildnis in der Nähe der Festung. Der Ausbau der Hütte verleiht einen Bonus auf die Fähigkeit „Überleben“, wenn in Leuchthöhle gerastet wird. Außerdem erhält man Zugang zum Förster, der lukrative Kopfgelder bietet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5160,7 +5160,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1023</ID>
-      <DefaultText>Gewährt Talent "{0}"</DefaultText>
+      <DefaultText>Gewährt Talent „{0}“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9022,7 +9022,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1798</ID>
-      <DefaultText>Mönchsfähigkeiten bieten eine Reihe von Effekten, um Nahkampfangriffe zu stärken, Schutz vor Wirkungen zu bieten oder den Spieß gegen Angreifer umzudrehen. Die meisten Mönchsfähigkeiten werden durch Wunden genährt, einige besitzen jedoch auch ein Limit "pro Begegnung" oder "pro Ruhephase".</DefaultText>
+      <DefaultText>Mönchsfähigkeiten bieten eine Reihe von Effekten, um Nahkampfangriffe zu stärken, Schutz vor Wirkungen zu bieten oder den Spieß gegen Angreifer umzudrehen. Die meisten Mönchsfähigkeiten werden durch Wunden genährt, einige besitzen jedoch auch ein Limit „pro Begegnung“ oder „pro Ruhephase“.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9297,7 +9297,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1853</ID>
-      <DefaultText>Zauber der Stufe {0} können jetzt "pro Begegnung" eingesetzt werden.</DefaultText>
+      <DefaultText>Zauber der Stufe {0} können jetzt „pro Begegnung“ eingesetzt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9592,7 +9592,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1920</ID>
-      <DefaultText>Notiz "{0}" wirklich löschen?</DefaultText>
+      <DefaultText>Notiz „{0}“ wirklich löschen?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

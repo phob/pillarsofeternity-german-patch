@@ -11,52 +11,52 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Du bist zurückgekehrt. Sieh dich vor, wenn du dich durch die Burg bewegst. Deine Einmischung hier könnte schlimme Konsequenzen für uns alle haben."</DefaultText>
+      <DefaultText>„Du bist zurückgekehrt. Sieh dich vor, wenn du dich durch die Burg bewegst. Deine Einmischung hier könnte schlimme Konsequenzen für uns alle haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Du bist zurückgekehrt! Hast du ihn gefunden? Gibt es irgendwelche Überlebenden?"</DefaultText>
+      <DefaultText>„Du bist zurückgekehrt! Hast du ihn gefunden? Gibt es irgendwelche Überlebenden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Hallo mal wieder! Ich hoffe, du bringst den Mut, mit Raedric zu sprechen, bevor du irgendwelche Entscheidungen triffst. Vielleicht würde dir das dabei helfen, Goldtal aus der Finsternis ins Licht der Götter zu führen."</DefaultText>
+      <DefaultText>„Hallo mal wieder! Ich hoffe, du bringst den Mut, mit Raedric zu sprechen, bevor du irgendwelche Entscheidungen triffst. Vielleicht würde dir das dabei helfen, Goldtal aus der Finsternis ins Licht der Götter zu führen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Wie schade, dass es hierzu gekommen ist. Jetzt aber können wir damit fortfahren, den Frieden in Goldtal wiederherzustellen."</DefaultText>
+      <DefaultText>„Wie schade, dass es hierzu gekommen ist. Jetzt aber können wir damit fortfahren, den Frieden in Goldtal wiederherzustellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Ich bin gekommen, um Raedric die Stirn zu bieten. Hilfst du mir?"</DefaultText>
+      <DefaultText>„Ich bin gekommen, um Raedric die Stirn zu bieten. Hilfst du mir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Woher wusstest du, dass ich im Auftrag von Kolsc hierhergekommen bin?"</DefaultText>
+      <DefaultText>„Woher wusstest du, dass ich im Auftrag von Kolsc hierhergekommen bin?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Nedmars Stirn runzelt sich im Ausdruck kläglichen Bedauerns. "Ich weiß nicht, ob ich das kann. Ich habe versucht, Kolsc und seine Leute vor den involvierten Gefahren zu warnen. In Wahrheit habe ich sogar oftmals versucht, sie von ihrem Weg abzubringen. Meine Bemühungen scheinen keinerlei Unterschied gemacht zu haben."</DefaultText>
+      <DefaultText>Nedmars Stirn runzelt sich im Ausdruck kläglichen Bedauerns. „Ich weiß nicht, ob ich das kann. Ich habe versucht, Kolsc und seine Leute vor den involvierten Gefahren zu warnen. In Wahrheit habe ich sogar oftmals versucht, sie von ihrem Weg abzubringen. Meine Bemühungen scheinen keinerlei Unterschied gemacht zu haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Würdest du mir dabei helfen, Raedric zu erreichen, wenn ich Giacco rettete?"</DefaultText>
+      <DefaultText>„Würdest du mir dabei helfen, Raedric zu erreichen, wenn ich Giacco rettete?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Giacco ist in Sicherheit. Er bat mich, dir zu sagen, dass er die Schnitzerei, die du ihm in Kindertagen gabst, immer noch bei sich trägt."</DefaultText>
+      <DefaultText>„Giacco ist in Sicherheit. Er bat mich, dir zu sagen, dass er die Schnitzerei, die du ihm in Kindertagen gabst, immer noch bei sich trägt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Nedmar Augen weiten sich. Mit plötzlicher Vitalität schießt er nach vorne und packt dich am Arm. "Oh, den Göttern sei Dank. Danke sehr! Ich hätte nicht gedacht, dass du&#160;… Das heißt, ich fürchtete&#160;…" Er schüttelt seinen Kopf. "Ich wollte nicht, dass er der Bleichen Ritterin so früh entgegentritt&#160;…"</DefaultText>
+      <DefaultText>Nedmar Augen weiten sich. Mit plötzlicher Vitalität schießt er nach vorne und packt dich am Arm. „Oh, den Göttern sei Dank. Danke sehr! Ich hätte nicht gedacht, dass du&#160;… Das heißt, ich fürchtete&#160;…“ Er schüttelt seinen Kopf. „Ich wollte nicht, dass er der Bleichen Ritterin so früh entgegentritt&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,137 +66,137 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Also noch mehr Besucher. Du gehörst nicht zu den Akolythen, und einer der Wächter bist du auch nicht." Seine Stimme klingt wie ein trockenes, leises Krächzen. "Was dich wenigstens zu einem Eindringling macht. Dazu hat dich wohl Kolsc angestiftet, oder?"</DefaultText>
+      <DefaultText>„Also noch mehr Besucher. Du gehörst nicht zu den Akolythen, und einer der Wächter bist du auch nicht.“ Seine Stimme klingt wie ein trockenes, leises Krächzen. „Was dich wenigstens zu einem Eindringling macht. Dazu hat dich wohl Kolsc angestiftet, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ja, junge Männer gegen die Verteidigungsstellungen der Burg anrennen lassen, das klingt ganz nach ihm." Er schüttelt seinen Kopf. "Ach, würden doch meine Predigten solchen Eifer hervorrufen. Und dennoch bist du hier. Was willst du von mir?"</DefaultText>
-      <FemaleText>"Ja, junge Frauen gegen die Verteidigungsstellungen der Burg anrennen lassen, das klingt ganz nach ihm." Er schüttelt seinen Kopf. "Ach, würden doch meine Predigten solchen Eifer hervorrufen. Und dennoch bist du hier. Was willst du von mir?"</FemaleText>
+      <DefaultText>„Ja, junge Männer gegen die Verteidigungsstellungen der Burg anrennen lassen, das klingt ganz nach ihm.“ Er schüttelt seinen Kopf. „Ach, würden doch meine Predigten solchen Eifer hervorrufen. Und dennoch bist du hier. Was willst du von mir?“</DefaultText>
+      <FemaleText>„Ja, junge Frauen gegen die Verteidigungsstellungen der Burg anrennen lassen, das klingt ganz nach ihm.“ Er schüttelt seinen Kopf. „Ach, würden doch meine Predigten solchen Eifer hervorrufen. Und dennoch bist du hier. Was willst du von mir?“</FemaleText>
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Selbst der arme Giacco&#160;… Ich dachte, dass wenigstens er gerettet werden könnte. Jetzt aber gehört er Osrya. Nachschub ist er, für ihre Experimente." Er beugt seinen Kopf und stützt sich mit seinen zitternden Händen auf dem Tisch ab. "Ich bin nur knapp der Verdächtigung entgangen."</DefaultText>
+      <DefaultText>„Selbst der arme Giacco&#160;… Ich dachte, dass wenigstens er gerettet werden könnte. Jetzt aber gehört er Osrya. Nachschub ist er, für ihre Experimente.“ Er beugt seinen Kopf und stützt sich mit seinen zitternden Händen auf dem Tisch ab. „Ich bin nur knapp der Verdächtigung entgangen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Du erwähntest Osryas Experimente?"</DefaultText>
+      <DefaultText>„Du erwähntest Osryas Experimente?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Erzähl mir von Giacco."</DefaultText>
+      <DefaultText>„Erzähl mir von Giacco.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Die Trauer hat Raedric im Griff, er wird sich nicht umstimmen lassen. Er wird diese armen Gefangenen seine Rache spüren lassen." Er schüttelt seinen Kopf. "Und diese Schuld kann ich nicht auf mich nehmen, ich kann es nicht ertragen."</DefaultText>
+      <DefaultText>„Die Trauer hat Raedric im Griff, er wird sich nicht umstimmen lassen. Er wird diese armen Gefangenen seine Rache spüren lassen.“ Er schüttelt seinen Kopf. „Und diese Schuld kann ich nicht auf mich nehmen, ich kann es nicht ertragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Das ist es nicht, ich stimme mit seinen Methoden einfach nicht überein. Wir kennen einander seit langer Zeit&#160;… Ich erinnere mich noch daran, als er ein junger Mann war. Das macht es noch viel schwerer, ihn auf diese Weise handeln zu sehen: impulsiv, blind." Nedmar runzelt die Stirn. "Trotz all seiner guten Absichten haben er und seine Anhänger mehr Schaden als Gutes bewirkt."</DefaultText>
+      <DefaultText>„Das ist es nicht, ich stimme mit seinen Methoden einfach nicht überein. Wir kennen einander seit langer Zeit&#160;… Ich erinnere mich noch daran, als er ein junger Mann war. Das macht es noch viel schwerer, ihn auf diese Weise handeln zu sehen: impulsiv, blind.“ Nedmar runzelt die Stirn. „Trotz all seiner guten Absichten haben er und seine Anhänger mehr Schaden als Gutes bewirkt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Aber&#160;… Ich wünsche ihm nichts Übles. Und da bin ich also: Mittendrin, gefangen in ihrem Machtkampf." Er hebt einen knochigen Finger. "Diese Krise kann aber weder Kolsc noch Raedric lösen, denn beide sind nur sterbliche Männer. Wir müssen uns Berath zuwenden, denn es ist der Zwillingsgott, der den Seelen von Goldtal Frieden und Ausgeglichenheit bringen wird. Deshalb müssen wir zu Berath beten, wenn wir das Ende von Waidwens Vermächtnis erleben möchten."</DefaultText>
+      <DefaultText>„Aber&#160;… Ich wünsche ihm nichts Übles. Und da bin ich also: Mittendrin, gefangen in ihrem Machtkampf.“ Er hebt einen knochigen Finger. „Diese Krise kann aber weder Kolsc noch Raedric lösen, denn beide sind nur sterbliche Männer. Wir müssen uns Berath zuwenden, denn es ist der Zwillingsgott, der den Seelen von Goldtal Frieden und Ausgeglichenheit bringen wird. Deshalb müssen wir zu Berath beten, wenn wir das Ende von Waidwens Vermächtnis erleben möchten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Nedmar mustert dich einen Augenblick lang stumm. "Meine Augen mögen mich ja im Stich lassen, mein Verstand aber nicht. Kolsc hat jeden Verbündeten rekrutiert, den er finden konnte, und macht jetzt mit der Erstürmung der Burg Ernst."</DefaultText>
+      <DefaultText>Nedmar mustert dich einen Augenblick lang stumm. „Meine Augen mögen mich ja im Stich lassen, mein Verstand aber nicht. Kolsc hat jeden Verbündeten rekrutiert, den er finden konnte, und macht jetzt mit der Erstürmung der Burg Ernst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Sein letzter Angriff ist noch nicht lange her, und wie du sehen kannst, ist er katastrophal ausgegangen&#160;– wie ich es vorhergesagt hatte."</DefaultText>
+      <DefaultText>„Sein letzter Angriff ist noch nicht lange her, und wie du sehen kannst, ist er katastrophal ausgegangen&#160;– wie ich es vorhergesagt hatte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Kolsc ist nicht bereit, manche Wahrheiten zu akzeptieren, und er versteht auch nicht, aus welchen Gründen Raedric immer noch an der Macht ist. Wenn er Raedrics Festung einnehmen will, benötigt er meine Führung. Ich&#160;… kann nur hoffen, dass er zuhört."</DefaultText>
+      <DefaultText>„Kolsc ist nicht bereit, manche Wahrheiten zu akzeptieren, und er versteht auch nicht, aus welchen Gründen Raedric immer noch an der Macht ist. Wenn er Raedrics Festung einnehmen will, benötigt er meine Führung. Ich&#160;… kann nur hoffen, dass er zuhört.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>[Weggehen.] "Auf Wiedersehen."</DefaultText>
+      <DefaultText>[Weggehen.] „Auf Wiedersehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Einer meiner Akolythen." Nedmars Gesichtsausdruck fällt vor Trauer in sich zusammen. "Ich fand ihn bettelnd auf der Straße, als er nur ein junger Kerl war. Ich nahm ihn zu mir."</DefaultText>
+      <DefaultText>„Einer meiner Akolythen.“ Nedmars Gesichtsausdruck fällt vor Trauer in sich zusammen. „Ich fand ihn bettelnd auf der Straße, als er nur ein junger Kerl war. Ich nahm ihn zu mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Ich hoffte, dass er sich in der Kirche entwickelt würde, dass er meinen Platz einnehmen könnte, wenn ich zu alt bin, um Fürst Raedric zu dienen." Seine Stimme hat nun einen verbitterten Unterton angenommen. "Er aber fand Interesse an Kolscs Bemühungen, an seiner nutzlosen Rebellion. Ich konnte ihn nicht daran hindern, wegzugehen."</DefaultText>
+      <DefaultText>„Ich hoffte, dass er sich in der Kirche entwickelt würde, dass er meinen Platz einnehmen könnte, wenn ich zu alt bin, um Fürst Raedric zu dienen.“ Seine Stimme hat nun einen verbitterten Unterton angenommen. „Er aber fand Interesse an Kolscs Bemühungen, an seiner nutzlosen Rebellion. Ich konnte ihn nicht daran hindern, wegzugehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Und jetzt&#160;… jetzt hat er sich Kolscs Bemühungen gegen unseren Fürsten angeschlossen und versauert im Kerker. Ich fürchte, dass er Osryas bösen Plänen bereits zum Opfer gefallen sein könnte."</DefaultText>
+      <DefaultText>„Und jetzt&#160;… jetzt hat er sich Kolscs Bemühungen gegen unseren Fürsten angeschlossen und versauert im Kerker. Ich fürchte, dass er Osryas bösen Plänen bereits zum Opfer gefallen sein könnte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Osrya&#160;… eine kluge junge Frau, die von den Lehren der Beseeler korrumpiert wurde. Sie hat Fürst Raedric den Kopf mit frevlerischen Gedanken und falscher Hoffnung verwirrt, und ihn dabei seines Wunsches beraubt, sein Volk zu führen."</DefaultText>
+      <DefaultText>„Osrya&#160;… eine kluge junge Frau, die von den Lehren der Beseeler korrumpiert wurde. Sie hat Fürst Raedric den Kopf mit frevlerischen Gedanken und falscher Hoffnung verwirrt, und ihn dabei seines Wunsches beraubt, sein Volk zu führen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Und er ist töricht genug gewesen, ihr zuzuhören. Raedric hat Osrya freie Hand gegeben, alle Experimente durchzuführen, die sie will. Jetzt sind die Niederungen der Burg vom Verwesungsgestank verdorben. Wer weiß, welche Seelen in diese Finsternis leben und wehklagen?"</DefaultText>
+      <DefaultText>„Und er ist töricht genug gewesen, ihr zuzuhören. Raedric hat Osrya freie Hand gegeben, alle Experimente durchzuführen, die sie will. Jetzt sind die Niederungen der Burg vom Verwesungsgestank verdorben. Wer weiß, welche Seelen in diese Finsternis leben und wehklagen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ich&#160;… flehte Fürst Raedric für meinen Akolythen um Vergebung an, aber ich glaube, dass ich Giaccos Schicksal auf diese Weise nur hinausgezögert habe." Er schüttelt seinen Kopf. "Jetzt ist er Osrya schutzlos ausgeliefert."</DefaultText>
+      <DefaultText>„Ich&#160;… flehte Fürst Raedric für meinen Akolythen um Vergebung an, aber ich glaube, dass ich Giaccos Schicksal auf diese Weise nur hinausgezögert habe.“ Er schüttelt seinen Kopf. „Jetzt ist er Osrya schutzlos ausgeliefert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Ich&#160;… Ich könnte es dir ermöglichen, in Raedrics Kapelle unter uns zu gelangen. Auf diese Weise wärst du direkt neben seinem Thronsaal." Nedmars Stimme erzittert. "Aber während Giacco in Gefahr ist, kann ich es nicht riskieren."</DefaultText>
+      <DefaultText>„Ich&#160;… Ich könnte es dir ermöglichen, in Raedrics Kapelle unter uns zu gelangen. Auf diese Weise wärst du direkt neben seinem Thronsaal.“ Nedmars Stimme erzittert. „Aber während Giacco in Gefahr ist, kann ich es nicht riskieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Wenn du ihn aber sicher außer Reichweite von Osrya bringt, so verspreche ich dir, dass ich mein Bestes geben werde, um dir zu helfen." Er sieht sich vorsichtig im Zimmer um.</DefaultText>
+      <DefaultText>„Wenn du ihn aber sicher außer Reichweite von Osrya bringt, so verspreche ich dir, dass ich mein Bestes geben werde, um dir zu helfen.“ Er sieht sich vorsichtig im Zimmer um.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Ich flehe dich an, lass dich nicht erwischen. Südlich von hier, neben dem Schrein von Berath, befindet sich eine Tür&#160;– sie führt hinunter zum Kerker. Dort wirst du ihn finden."</DefaultText>
+      <DefaultText>„Ich flehe dich an, lass dich nicht erwischen. Südlich von hier, neben dem Schrein von Berath, befindet sich eine Tür&#160;– sie führt hinunter zum Kerker. Dort wirst du ihn finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Ich werde Giacco in Sicherheit bringen und dann zurückkehren."</DefaultText>
+      <DefaultText>„Ich werde Giacco in Sicherheit bringen und dann zurückkehren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Dafür ist keine Zeit! Gib mir den Schlüssel, alter Mann."</DefaultText>
+      <DefaultText>„Dafür ist keine Zeit! Gib mir den Schlüssel, alter Mann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Ich werde mich bemühen, Blutvergießen zu vermeiden."</DefaultText>
+      <DefaultText>„Ich werde mich bemühen, Blutvergießen zu vermeiden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"…&#160;Ich werde wiederkommen."</DefaultText>
+      <DefaultText>„…&#160;Ich werde wiederkommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Sei vorsichtig. Osrya beherrscht mächtige Magie, außerdem hat sie eine Vorliebe für grausame Fallen. Wenn du sie verärgerst, wirst sie dir sicherlich zu einer schrecklichen Feindin gereichen." Nedmar presst seine Hände zusammen. "Mögen dich die Götter leiten."</DefaultText>
+      <DefaultText>„Sei vorsichtig. Osrya beherrscht mächtige Magie, außerdem hat sie eine Vorliebe für grausame Fallen. Wenn du sie verärgerst, wirst sie dir sicherlich zu einer schrecklichen Feindin gereichen.“ Nedmar presst seine Hände zusammen. „Mögen dich die Götter leiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Nedmar richtet sich ein wenig auf, aber seine Hände zittern noch immer. "Würdest du so unbedacht wie Kolsc handeln? Einen alten Priester bedrohen? Bis du Giacco nicht befreit hast, werde ich dir nicht helfen. Mehr werde ich nicht sagen."</DefaultText>
+      <DefaultText>Nedmar richtet sich ein wenig auf, aber seine Hände zittern noch immer. „Würdest du so unbedacht wie Kolsc handeln? Einen alten Priester bedrohen? Bis du Giacco nicht befreit hast, werde ich dir nicht helfen. Mehr werde ich nicht sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,177 +206,177 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Ich kann nicht dabei gesehen werden, wie ich dir helfen. Nicht während sich Giacco in Osryas Fängen befindet. Wenn ihm irgendwas geschehen sollte&#160;…"</DefaultText>
+      <DefaultText>„Ich kann nicht dabei gesehen werden, wie ich dir helfen. Nicht während sich Giacco in Osryas Fängen befindet. Wenn ihm irgendwas geschehen sollte&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ich brauche eine Rast."</DefaultText>
+      <DefaultText>„Ich brauche eine Rast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Aber sicherlich möchtest du nicht&#160;–" Nedmar verlagert unbehaglich sein Gewicht und schaut zum Gang hinaus. "…&#160;Nun gut. Ich kann dich nicht darum bitten, dich in den Kerker zu wagen, wenn du nicht im Vollbesitz deiner Kräfte bist. Ruhe dich hier etwas aus. Ich werde dafür sorgen, dass niemand hereinkommt."</DefaultText>
+      <DefaultText>„Aber sicherlich möchtest du nicht&#160;–“ Nedmar verlagert unbehaglich sein Gewicht und schaut zum Gang hinaus. „…&#160;Nun gut. Ich kann dich nicht darum bitten, dich in den Kerker zu wagen, wenn du nicht im Vollbesitz deiner Kräfte bist. Ruhe dich hier etwas aus. Ich werde dafür sorgen, dass niemand hereinkommt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Ich habe Giacco gefunden, aber er wurde auf der Flucht erschlagen."</DefaultText>
+      <DefaultText>„Ich habe Giacco gefunden, aber er wurde auf der Flucht erschlagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Nedmar zieht sich zurück, um sich zu sammeln. "Hier&#160;– was ich dir im Gegenzug versprochen hatte." Er zieht einen großen Eisenschlüssel aus seiner Robentasche und gibt ihn dir. "Dieser Schlüssel öffnet eine Tür des Skriptoriums." Er deutet nach Westen. "Und von dort kannst du die Kapelle erreichen, und damit Fürst Raedric, ohne dabei auf zu viele Wachen zu stoßen."</DefaultText>
+      <DefaultText>Nedmar zieht sich zurück, um sich zu sammeln. „Hier&#160;– was ich dir im Gegenzug versprochen hatte.“ Er zieht einen großen Eisenschlüssel aus seiner Robentasche und gibt ihn dir. „Dieser Schlüssel öffnet eine Tür des Skriptoriums.“ Er deutet nach Westen. „Und von dort kannst du die Kapelle erreichen, und damit Fürst Raedric, ohne dabei auf zu viele Wachen zu stoßen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Bevor du gehst, habe ich noch eine eindringliche Bitte an dich&#160;… Trotz seiner Mankos hat Fürst Raedric den Göttern stets gehorsam gedient, und er hat nur das Beste für Goldtal im Sinn. Es könnte sein, dass er seine Ziele erreicht, genügend Zeit vorausgesetzt. Bitte zieh das in Betracht, bevor du Gewalt anwendest."</DefaultText>
+      <DefaultText>„Bevor du gehst, habe ich noch eine eindringliche Bitte an dich&#160;… Trotz seiner Mankos hat Fürst Raedric den Göttern stets gehorsam gedient, und er hat nur das Beste für Goldtal im Sinn. Es könnte sein, dass er seine Ziele erreicht, genügend Zeit vorausgesetzt. Bitte zieh das in Betracht, bevor du Gewalt anwendest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Was öffnet dieser Schlüssel?"</DefaultText>
+      <DefaultText>„Was öffnet dieser Schlüssel?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Ich dachte, du würdest Kolsc als Herrn von Raedrics Festung bevorzugen."</DefaultText>
+      <DefaultText>„Ich dachte, du würdest Kolsc als Herrn von Raedrics Festung bevorzugen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <DefaultText>„Auf Wiedersehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Ich verfluche dich! Möge deine Seele bis zu ihrer Auflösung ziellos umherirren! Wachen! Wachen, zu Hilfe! Totschläger! Mörder!" Der alte Mann zieht einen dünnen Dolch aus den Falten seiner Robe hervor und stürzt auf dich zu.</DefaultText>
+      <DefaultText>„Ich verfluche dich! Möge deine Seele bis zu ihrer Auflösung ziellos umherirren! Wachen! Wachen, zu Hilfe! Totschläger! Mörder!“ Der alte Mann zieht einen dünnen Dolch aus den Falten seiner Robe hervor und stürzt auf dich zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Er ist ein Hauptschlüssel." Nedmar wringt beim Sprechen mit seinen Händen. "Er wird dir zwar nicht jede Tür öffnen, aber damit kommst du zu den Stufen, die zur Kapelle des Fürsten hinunterführen."</DefaultText>
+      <DefaultText>„Er ist ein Hauptschlüssel.“ Nedmar wringt beim Sprechen mit seinen Händen. „Er wird dir zwar nicht jede Tür öffnen, aber damit kommst du zu den Stufen, die zur Kapelle des Fürsten hinunterführen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Außerdem wird er alle Türen entlang des Hauptsaals der Burg aufschließen. Wenn du dort entlanggehst, musst du dich aber auf schwere Kämpfe gefasst machen."</DefaultText>
+      <DefaultText>„Außerdem wird er alle Türen entlang des Hauptsaals der Burg aufschließen. Wenn du dort entlanggehst, musst du dich aber auf schwere Kämpfe gefasst machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Du hast nicht viel Zeit. Egal was deine Absichten sind: Fürst Raedric wird schon bald entdecken, dass einer seiner Gefangenen entkommen ist, und dann wirst du das Überraschungsmoment einbüßen."</DefaultText>
+      <DefaultText>„Du hast nicht viel Zeit. Egal was deine Absichten sind: Fürst Raedric wird schon bald entdecken, dass einer seiner Gefangenen entkommen ist, und dann wirst du das Überraschungsmoment einbüßen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Ich bevorzuge ihn, da er ein Mann mit Weitblick ist. …&#160;Kolsc aber wird von einem Hunger nach Macht angetrieben, selbst wenn er damit Gutes tun will. Er wird nicht von seinem Glauben geleitet."</DefaultText>
+      <DefaultText>„Ich bevorzuge ihn, da er ein Mann mit Weitblick ist. …&#160;Kolsc aber wird von einem Hunger nach Macht angetrieben, selbst wenn er damit Gutes tun will. Er wird nicht von seinem Glauben geleitet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Trotzdem&#160;– er ist mein Freund, und daher bin ich bereit, Kolsc bei der Wiederherstellung der göttlichen Gunst für die Lande Goldtals zu unterstützten. …&#160;Das heißt, sofern Fürst Raedric fällt."</DefaultText>
+      <DefaultText>„Trotzdem&#160;– er ist mein Freund, und daher bin ich bereit, Kolsc bei der Wiederherstellung der göttlichen Gunst für die Lande Goldtals zu unterstützten. …&#160;Das heißt, sofern Fürst Raedric fällt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Und so hat Goldtal also seinen neuen Thayn. Ich vertraue darauf, dass du eine kluge Wahl getroffen hast."</DefaultText>
+      <DefaultText>„Und so hat Goldtal also seinen neuen Thayn. Ich vertraue darauf, dass du eine kluge Wahl getroffen hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Nedmar wirkt gebrechlicher denn je, und seine runzlige Haut spannt sich über seine alten Knochen. Als er dich sieht, blinzelt er mehrfach, also ob er seinen Augen nicht trauen würde. "Du bist zurückgekehrt&#160;…"</DefaultText>
+      <DefaultText>Nedmar wirkt gebrechlicher denn je, und seine runzlige Haut spannt sich über seine alten Knochen. Als er dich sieht, blinzelt er mehrfach, also ob er seinen Augen nicht trauen würde. „Du bist zurückgekehrt&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Ich fürchte aber, dass er unerreichbar ist." Mit einer zitternden Hand deutet Nedmar auf die Gewölbedecke. "Er wartet am höchsten Punkt der Burg. Dorthin kannst du vom höchsten Stockwerk aus gelangen."</DefaultText>
+      <DefaultText>„Ich fürchte aber, dass er unerreichbar ist.“ Mit einer zitternden Hand deutet Nedmar auf die Gewölbedecke. „Er wartet am höchsten Punkt der Burg. Dorthin kannst du vom höchsten Stockwerk aus gelangen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Viel Glück, mein Freund."</DefaultText>
+      <DefaultText>„Viel Glück, mein Freund.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Ich&#160;… Ich werde diesen Ort verlassen und dorthin gehen, wo ich gebraucht werde. Um Beraths Wort zu verbreiten&#160;– an einem anderen Ort." Er beugt seinen Kopf. "Ich wünsche dir Glück, mein Freund. Bitte&#160;… setze all dem ein Ende."</DefaultText>
+      <DefaultText>„Ich&#160;… Ich werde diesen Ort verlassen und dorthin gehen, wo ich gebraucht werde. Um Beraths Wort zu verbreiten&#160;– an einem anderen Ort.“ Er beugt seinen Kopf. „Ich wünsche dir Glück, mein Freund. Bitte&#160;… setze all dem ein Ende.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Ich&#160;… Ich werde diesen Ort verlassen und dorthin gehen, wo ich gebraucht werde. Vielleicht kann ich Giacco finden und er wir eine Rückkehr zur Kirche in Betracht ziehen&#160;– an einem anderen Ort." Er beugt seinen Kopf. "Ich wünsche dir Glück, mein Freund. Bitte&#160;… setze all dem ein Ende."</DefaultText>
+      <DefaultText>„Ich&#160;… Ich werde diesen Ort verlassen und dorthin gehen, wo ich gebraucht werde. Vielleicht kann ich Giacco finden und er wir eine Rückkehr zur Kirche in Betracht ziehen&#160;– an einem anderen Ort.“ Er beugt seinen Kopf. „Ich wünsche dir Glück, mein Freund. Bitte&#160;… setze all dem ein Ende.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Eigentlich hat mich ja Raedric beauftragt, Kolscs Leben ein Ende zu setzen."</DefaultText>
+      <DefaultText>„Eigentlich hat mich ja Raedric beauftragt, Kolscs Leben ein Ende zu setzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"I-ich verstehe. Dann wirst du dieser Rebellion endlich ein Ende setzen." Nedmar schaut mit starrem Blick auf den Tisch hinunter. "Dann, vielleicht&#160;…"</DefaultText>
+      <DefaultText>„I-ich verstehe. Dann wirst du dieser Rebellion endlich ein Ende setzen.“ Nedmar schaut mit starrem Blick auf den Tisch hinunter. „Dann, vielleicht&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Eigentlich bin ich nur gekommen, um diesen Ort zu säubern."</DefaultText>
+      <DefaultText>„Eigentlich bin ich nur gekommen, um diesen Ort zu säubern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Du scheinst ja nicht viel von diesem Kerl Kolsc zu halten."</DefaultText>
+      <DefaultText>„Du scheinst ja nicht viel von diesem Kerl Kolsc zu halten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Nedmar faltiges Gesicht verzieht sich zu einem sorgenschweren Stirnrunzeln. "Sind solche Dinge das Risiko wert? Mit Dieben geht Fürst Raedric gar nicht zimperlich um, und die Denunzierung von Raedrics Feinden wird dir auch kein besseres Schicksal einbringen."</DefaultText>
+      <DefaultText>Nedmar faltiges Gesicht verzieht sich zu einem sorgenschweren Stirnrunzeln. „Sind solche Dinge das Risiko wert? Mit Dieben geht Fürst Raedric gar nicht zimperlich um, und die Denunzierung von Raedrics Feinden wird dir auch kein besseres Schicksal einbringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Was auch immer deine Gründe sind&#160;– lass mich dich vor dem Versuch warnen. Raedric wird gut bewacht, und nach Kolscs gescheitertem Angriff hat er seine Leute um sich versammelt." Nedmar schüttelt den Kopf. "Ich will nicht, dass noch mehr Leben verloren gehen."</DefaultText>
+      <DefaultText>„Was auch immer deine Gründe sind&#160;– lass mich dich vor dem Versuch warnen. Raedric wird gut bewacht, und nach Kolscs gescheitertem Angriff hat er seine Leute um sich versammelt.“ Nedmar schüttelt den Kopf. „Ich will nicht, dass noch mehr Leben verloren gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Nedmar schüttelt den Kopf. "Ich werde dich nicht von deinen Pflichten abhalten. Geh hin mit meinem Segen. Zu viele Unschuldige haben Kolscs Ehrgeiz schon mit dem Leben bezahlt."</DefaultText>
+      <DefaultText>Nedmar schüttelt den Kopf. „Ich werde dich nicht von deinen Pflichten abhalten. Geh hin mit meinem Segen. Zu viele Unschuldige haben Kolscs Ehrgeiz schon mit dem Leben bezahlt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Du findest Kolsc in der Wildnis hinter Goldtal. Er entfernt sich nie besonders weit."</DefaultText>
+      <DefaultText>„Du findest Kolsc in der Wildnis hinter Goldtal. Er entfernt sich nie besonders weit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Du hast ja keine Ahnung, welche Schrecken diese Burg heimgesucht haben. Fürst Raedric hat seinen Glauben aufgegeben. Er klammert sich an unnatürliches Leben. In Nachahmung von Osryas Lehren erschafft er andere Monster." Er sackt in sich zusammen. "Nur weil sie jetzt nicht mehr da ist, konnte ich Raedric überzeugen, mich bleiben zu lassen. Um zu versuchen, ihn auf den rechten Weg zurückzuführen."</DefaultText>
+      <DefaultText>„Du hast ja keine Ahnung, welche Schrecken diese Burg heimgesucht haben. Fürst Raedric hat seinen Glauben aufgegeben. Er klammert sich an unnatürliches Leben. In Nachahmung von Osryas Lehren erschafft er andere Monster.“ Er sackt in sich zusammen. „Nur weil sie jetzt nicht mehr da ist, konnte ich Raedric überzeugen, mich bleiben zu lassen. Um zu versuchen, ihn auf den rechten Weg zurückzuführen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>[Angreifen.] "Osrya bestellt dir ihre Grüße."</DefaultText>
+      <DefaultText>[Angreifen.] „Osrya bestellt dir ihre Grüße.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Der alte Mann taumelt mit entsetztem Gesicht von dir weg. Er schnauft überrascht und tastet nach einem Messer, das er schließlich aus den Falten seiner Robe hervorzieht. "Wachen! Wachen, zu Hilfe! Totschläger! Mörder!"</DefaultText>
+      <DefaultText>Der alte Mann taumelt mit entsetztem Gesicht von dir weg. Er schnauft überrascht und tastet nach einem Messer, das er schließlich aus den Falten seiner Robe hervorzieht. „Wachen! Wachen, zu Hilfe! Totschläger! Mörder!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"D-du&#160;… Du hast sie beide umgebracht. Was sollen wir denn jetzt tun? Goldtal wird in ein gesetzloses Chaos stürzen."</DefaultText>
+      <DefaultText>„D-du&#160;… Du hast sie beide umgebracht. Was sollen wir denn jetzt tun? Goldtal wird in ein gesetzloses Chaos stürzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Oh&#160;– das wird dir mehr zum Vorteil gereichen als eine Verkleidung. Wir haben eine Losung, sie lautet: 'Ein Anfang aus jedem Ende'. Wenn du das zu den Wächtern sagst, werden sie dich passieren lassen. Allerdings nur auf diesem Stockwerk, fürchte ich. Raedrics Söldner haben nur wenig Geduld für solche Dinge."</DefaultText>
+      <DefaultText>„Oh&#160;– das wird dir mehr zum Vorteil gereichen als eine Verkleidung. Wir haben eine Losung, sie lautet: ‚Ein Anfang aus jedem Ende‘. Wenn du das zu den Wächtern sagst, werden sie dich passieren lassen. Allerdings nur auf diesem Stockwerk, fürchte ich. Raedrics Söldner haben nur wenig Geduld für solche Dinge.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>[Lügen.] "Er ist in Sicherheit. Er trug mir auf, dir zu sagen, dass er die Schnitzerei, die du ihm in Kindertagen gabst, immer noch hat."</DefaultText>
+      <DefaultText>[Lügen.] „Er ist in Sicherheit. Er trug mir auf, dir zu sagen, dass er die Schnitzerei, die du ihm in Kindertagen gabst, immer noch hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,93 +386,93 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Beseeler." Seine Lippen verziehen sich in einem finsteren Gesichtsausdruck. "Warum überrascht es mich nicht, dass sie alle in diesen Unsinn verwickelt sind?"</DefaultText>
+      <DefaultText>„Beseeler.“ Seine Lippen verziehen sich in einem finsteren Gesichtsausdruck. „Warum überrascht es mich nicht, dass sie alle in diesen Unsinn verwickelt sind?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Dieses Land wurde mit Schwert und Feuer erobert. Es war nicht einfach, und eine saubere Sache war es auch nicht. Was sollte es schon ändern, eine Lösung für Waidwens Vermächtnis zu finden?"</DefaultText>
+      <DefaultText>„Dieses Land wurde mit Schwert und Feuer erobert. Es war nicht einfach, und eine saubere Sache war es auch nicht. Was sollte es schon ändern, eine Lösung für Waidwens Vermächtnis zu finden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Ihre Umrisse verschwimmen und verblassen für einen Moment. "Zu viel Zeit ist vergangen, seit in diesen Hallen Gelächter erschallte&#160;… und die Schritte von Kindern zu hören waren. Die Verzweiflung treibt diese Leute dazu, viel zu riskieren&#160;… zu versuchen, was sie ansonsten nicht versuchen würden."</DefaultText>
+      <DefaultText>Ihre Umrisse verschwimmen und verblassen für einen Moment. „Zu viel Zeit ist vergangen, seit in diesen Hallen Gelächter erschallte&#160;… und die Schritte von Kindern zu hören waren. Die Verzweiflung treibt diese Leute dazu, viel zu riskieren&#160;… zu versuchen, was sie ansonsten nicht versuchen würden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Warum dich mit dem Typ gut stellen, der dich und all deine Freunde umbringen will? Ich kann mir nicht vorstellen, warum sie einem solch guten Rat keine Beachtung schenken sollten."</DefaultText>
+      <DefaultText>„Warum dich mit dem Typ gut stellen, der dich und all deine Freunde umbringen will? Ich kann mir nicht vorstellen, warum sie einem solch guten Rat keine Beachtung schenken sollten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Dann ist es wohl gut, dass sein Vorgänger die Erwartungen gedämpft hat."</DefaultText>
+      <DefaultText>„Dann ist es wohl gut, dass sein Vorgänger die Erwartungen gedämpft hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Wir beide sind Beraths Diener. Könntest du mich hier und jetzt nicht unterstützen?"</DefaultText>
+      <DefaultText>„Wir beide sind Beraths Diener. Könntest du mich hier und jetzt nicht unterstützen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Ich werde mein Wort halten." Die Augen des alten Priesters glänzen feucht. "Und wenn du das nur für mich tun könntest. Es hat schon so viel Tod und Leid gegeben. Die&#160;… die arme Lady Ygrid&#160;…" Er atmet vorsichtig aus. "Bitte. Ich weiß, dass Giaccos Zeit noch nicht gekommen ist."</DefaultText>
+      <DefaultText>„Ich werde mein Wort halten.“ Die Augen des alten Priesters glänzen feucht. „Und wenn du das nur für mich tun könntest. Es hat schon so viel Tod und Leid gegeben. Die&#160;… die arme Lady Ygrid&#160;…“ Er atmet vorsichtig aus. „Bitte. Ich weiß, dass Giaccos Zeit noch nicht gekommen ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Natürlich, natürlich. Ich werde die Tür verriegeln."</DefaultText>
+      <DefaultText>„Natürlich, natürlich. Ich werde die Tür verriegeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Nimm auch dies an dich. Ich habe nur wenig Reichtümer anzubieten, daher gebe ich dir besser etwas Nützliches."</DefaultText>
+      <DefaultText>„Nimm auch dies an dich. Ich habe nur wenig Reichtümer anzubieten, daher gebe ich dir besser etwas Nützliches.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Hmmh? Wer ist da? Komm näher."</DefaultText>
+      <DefaultText>„Hmmh? Wer ist da? Komm näher.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Giacco ist in Sicherheit. Er bat mich, dir von der Schnitzerei zu erzählen, die du ihm gabst."</DefaultText>
+      <DefaultText>„Giacco ist in Sicherheit. Er bat mich, dir von der Schnitzerei zu erzählen, die du ihm gabst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Nedmar Augen weiten sich. Mit plötzlicher Vitalität schießt er nach vorne und packt dich am Arm. "Oh, den Göttern sei Dank. Danke sehr! Ich hätte nicht gedacht, dass jemand&#160;… Das heißt, ich fürchtete&#160;…" Er schüttelt den Kopf. "Ich wollte nicht, dass er der Bleichen Ritterin so früh entgegentritt&#160;…"</DefaultText>
+      <DefaultText>Nedmar Augen weiten sich. Mit plötzlicher Vitalität schießt er nach vorne und packt dich am Arm. „Oh, den Göttern sei Dank. Danke sehr! Ich hätte nicht gedacht, dass jemand&#160;… Das heißt, ich fürchtete&#160;…“ Er schüttelt den Kopf. „Ich wollte nicht, dass er der Bleichen Ritterin so früh entgegentritt&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Nedmar zieht sich zurück, um sich zu sammeln. "Hier&#160;– vielleicht wird dir das zur Belohnung gereichen." Er zieht einen großen Eisenschlüssel aus seiner Robentasche und gibt ihn dir. "Dieser Schlüssel öffnet eine Tür des Skriptoriums." Er deutet nach Westen. "Und von dort kannst du die Kapelle erreichen, und damit Fürst Raedric, ohne dabei auf zu viele Wachen zu stoßen."</DefaultText>
+      <DefaultText>Nedmar zieht sich zurück, um sich zu sammeln. „Hier&#160;– vielleicht wird dir das zur Belohnung gereichen.“ Er zieht einen großen Eisenschlüssel aus seiner Robentasche und gibt ihn dir. „Dieser Schlüssel öffnet eine Tür des Skriptoriums.“ Er deutet nach Westen. „Und von dort kannst du die Kapelle erreichen, und damit Fürst Raedric, ohne dabei auf zu viele Wachen zu stoßen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Pass auf dich auf, mein Freund."</DefaultText>
-      <FemaleText>"Pass auf dich auf, meine Freundin."</FemaleText>
+      <DefaultText>„Pass auf dich auf, mein Freund.“</DefaultText>
+      <FemaleText>„Pass auf dich auf, meine Freundin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Kolsc hat seinen Sieg&#160;… Hat man schon irgendetwas von Giacco gehört?"</DefaultText>
+      <DefaultText>„Kolsc hat seinen Sieg&#160;… Hat man schon irgendetwas von Giacco gehört?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Giacco ist in Sicherheit. Er bat mich, dir zu sagen, dass er die Schnitzerei, die du ihm in Kindertagen gabst, immer noch bei sich trägt."</DefaultText>
+      <DefaultText>„Giacco ist in Sicherheit. Er bat mich, dir zu sagen, dass er die Schnitzerei, die du ihm in Kindertagen gabst, immer noch bei sich trägt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Nedmar Augen weiten sich. Mit plötzlicher Vitalität schießt er nach vorne und packt dich am Arm. "Oh, den Göttern sei Dank. Danke sehr! Ich hätte nicht gedacht, dass du&#160;… Das heißt, ich fürchtete&#160;…" Er schüttelt den Kopf. "Ich wollte nicht, dass er der Bleichen Ritterin so früh entgegentritt."</DefaultText>
+      <DefaultText>Nedmar Augen weiten sich. Mit plötzlicher Vitalität schießt er nach vorne und packt dich am Arm. „Oh, den Göttern sei Dank. Danke sehr! Ich hätte nicht gedacht, dass du&#160;… Das heißt, ich fürchtete&#160;…“ Er schüttelt den Kopf. „Ich wollte nicht, dass er der Bleichen Ritterin so früh entgegentritt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Hier, nimm das. Ich habe nur wenig Reichtümer anzubieten, daher gebe ich dir besser etwas Nützliches. Die Götter mögen dich behüten, mein Freund&#160;… und deinen neuen Thayn auch."</DefaultText>
-      <FemaleText>"Hier, nimm das. Ich habe nur wenig Reichtümer anzubieten, daher gebe ich dir besser etwas Nützliches. Die Götter mögen dich behüten, meine Freundin&#160;… und deinen neuen Thayn auch."</FemaleText>
+      <DefaultText>„Hier, nimm das. Ich habe nur wenig Reichtümer anzubieten, daher gebe ich dir besser etwas Nützliches. Die Götter mögen dich behüten, mein Freund&#160;… und deinen neuen Thayn auch.“</DefaultText>
+      <FemaleText>„Hier, nimm das. Ich habe nur wenig Reichtümer anzubieten, daher gebe ich dir besser etwas Nützliches. Die Götter mögen dich behüten, meine Freundin&#160;… und deinen neuen Thayn auch.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

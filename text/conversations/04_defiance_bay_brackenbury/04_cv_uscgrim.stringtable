@@ -49,7 +49,7 @@ Am anderen Ende der Station öffnet sich die Tür. Die Silhouette eines Fleischg
       <ID>31</ID>
       <DefaultText>Als das Konstrukt sich nähert, spannst du dich an und schießt dann nach vorne, aus dem Körper des Jungen heraus als wäre er eine Membran. Du spürst, wie sein Körper hinter dir zu Boden fällt, eine Marionette, deren Fäden durchtrennt wurden.
 
-Du stürzt auf den Golem zu, körperlos wie ein Windstoß. 'Schnell', denkst du bei dir, 'schnell', und du spürst, wie die Kraft aus deiner Seele blutet, während du auf die zusammengeschusterte Abscheulichkeit zueilst. Du durchdringst die Hülle des Golems und übernimmst die darin eingepflanzte Seele. Du umkreist sie, du unterdrückst sie. In diesem neuen Gefäß bist du wieder stark.</DefaultText>
+Du stürzt auf den Golem zu, körperlos wie ein Windstoß. ‚Schnell‘, denkst du bei dir, ‚schnell‘, und du spürst, wie die Kraft aus deiner Seele blutet, während du auf die zusammengeschusterte Abscheulichkeit zueilst. Du durchdringst die Hülle des Golems und übernimmst die darin eingepflanzte Seele. Du umkreist sie, du unterdrückst sie. In diesem neuen Gefäß bist du wieder stark.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -73,7 +73,7 @@ Die Menge ist gekommen, um dir zuzusehen, doch ist dies kein Theaterstück.</Def
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Der Mann spricht und die Menge applaudiert mit einer Begeisterung, die eines heimkehrenden Helden würdig wäre. "Werdet Zeuge", sagt er und zieht einen Hebel. Die Maschine zittert und wirft Funken und ein Schweißtropfen rollt die Schläfe des Mannes hinab, doch die Anspannung der Menge weicht rasch gebannter Ehrfurcht, als sich eine Kristallkugel mit einem strahlenden Nebel füllt, der das gesamte Theater erleuchtet.
+      <DefaultText>Der Mann spricht und die Menge applaudiert mit einer Begeisterung, die eines heimkehrenden Helden würdig wäre. „Werdet Zeuge“, sagt er und zieht einen Hebel. Die Maschine zittert und wirft Funken und ein Schweißtropfen rollt die Schläfe des Mannes hinab, doch die Anspannung der Menge weicht rasch gebannter Ehrfurcht, als sich eine Kristallkugel mit einem strahlenden Nebel füllt, der das gesamte Theater erleuchtet.
 
 Er öffnet ein Ventil und das Leuchten kriecht durch eine Röhre entlang einer Kupferleitung, die zu Elektroden unter deinen Achseln führt.</DefaultText>
       <FemaleText />
@@ -82,12 +82,12 @@ Er öffnet ein Ventil und das Leuchten kriecht durch eine Röhre entlang einer K
       <ID>36</ID>
       <DefaultText>Du spürst nichts, als es dich erreicht, genau wie es sein sollte, denn du hast ihn in seiner Arbeit immer wieder in die Irre geführt, Notizen und Einstellungen verändert und Puppenspieler für Hohlgeburten gespielt. Du lässt es aber so aussehen, wie die Leute es erwarten würden, wenn ein Körper mit einer Seele belebt wird. Kurz darauf erlischt die Maschine und der Mann bindet dich los. Er blickt dich mit der Sorge eines Wissenschaftlers an.
 
-Er sieht wieder zu seinen Zusehern. "Seht!", sagt er, doch mit deutlich hörbarem Zögern in der Stimme. Langsam machst du einen wackligen Schritt nach vorne, dann noch einen und noch einen. Du blickst zu dem Mann auf, mit dem Blickkontakt, zu dem keine Hohlgeburt fähig ist, und das Publikum schnappt nach Luft.</DefaultText>
+Er sieht wieder zu seinen Zusehern. „Seht!“, sagt er, doch mit deutlich hörbarem Zögern in der Stimme. Langsam machst du einen wackligen Schritt nach vorne, dann noch einen und noch einen. Du blickst zu dem Mann auf, mit dem Blickkontakt, zu dem keine Hohlgeburt fähig ist, und das Publikum schnappt nach Luft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Der Mann sieht erleichtert aus. "Wie geht es dir?" fragt er laut genug für das Publikum. Der Augenblick ist gekommen. Du schreist so laut du kannst, markerschütternd. Der Mann geht mit ausgestreckten Händen auf dich zu, doch du läufst in die andere Richtung, zurück zu der Maschine.</DefaultText>
+      <DefaultText>Der Mann sieht erleichtert aus. „Wie geht es dir?“ fragt er laut genug für das Publikum. Der Augenblick ist gekommen. Du schreist so laut du kannst, markerschütternd. Der Mann geht mit ausgestreckten Händen auf dich zu, doch du läufst in die andere Richtung, zurück zu der Maschine.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -110,34 +110,34 @@ Schließlich kommst du in einem Raum zur Ruhe, den du bereits einmal gesehen has
       <ID>40</ID>
       <DefaultText>Plötzlich wirst du wieder in die Realität gerissen und der einst katatonische Knabe in der Zelle blickt dich unmittelbar an, musternd, berechnend. Es gibt keinen Zweifel mehr, dass es die Seele von Thaos Ix Arkannon ist, die aus der geliehenen Hülle blickt. Die Seele des Mannes, nach dem du suchst.
 
-"Ein Wächter."</DefaultText>
+„Ein Wächter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Du hast mich zu einem Wächter gemacht. Du musst es rückgängig machen."</DefaultText>
+      <DefaultText>„Du hast mich zu einem Wächter gemacht. Du musst es rückgängig machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Ich glaube, wir haben eine gemeinsame Vergangenheit. Ich suche nur nach Antworten."</DefaultText>
+      <DefaultText>„Ich glaube, wir haben eine gemeinsame Vergangenheit. Ich suche nur nach Antworten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Nicht nur ein Wächter. Jemand, der dir deine dünnen Beinchen bricht, wenn du nicht genau tust, was ich dir sage."</DefaultText>
+      <DefaultText>„Nicht nur ein Wächter. Jemand, der dir deine dünnen Beinchen bricht, wenn du nicht genau tust, was ich dir sage.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Ach, tatsächlich?" Er gibt sich keine Mühe, das Desinteresse in seiner Stimme zu verbergen, aber er studiert weiter deine Augen.
+      <DefaultText>„Ach, tatsächlich?“ Er gibt sich keine Mühe, das Desinteresse in seiner Stimme zu verbergen, aber er studiert weiter deine Augen.
 
 Er stößt ein leichtes Grunzen aus und sein Blick wird vorübergehend weicher. In diesem Augenblick scheint es, als würde er dich erkennen. Er öffnet seinen Mund, um zu sprechen, scheint es sich aber anders zu überlegen und bleibt stumm. Er beißt den Kiefer zusammen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ich werde dir helfen loszulassen."
+      <DefaultText>„Ich werde dir helfen loszulassen.“
 
 Er bringt sich außer Reichweite, indem er mit verblüffender Anmut nach hinten ausweicht. Auf seinem Gesicht siehst du keine Bosheit, nur die Sachlichkeit eines Bauern, der ein krankes Tier von seinen Leiden erlöst. Dann, plötzlich, taumelt er nach vorne.</DefaultText>
       <FemaleText />
@@ -146,12 +146,12 @@ Er bringt sich außer Reichweite, indem er mit verblüffender Anmut nach hinten 
       <ID>47</ID>
       <DefaultText>Plötzlich wirst du wieder in die Realität gerissen und der einst katatonische Knabe in der Zelle blickt dich unmittelbar an, musternd, berechnend. Es gibt keinen Zweifel mehr, dass aus der geliehenen Hülle die Seele des Mannes blickt, der deine Erweckung verursacht hat.
 
-"Ein Wächter."</DefaultText>
+„Ein Wächter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ich kenne deinen Blick. Deinen Hunger. Den Hunger nach Antworten, die nicht zu greifen sind. Er nagt an deiner Seele. Er untergräbt deinen Daseinszweck. Du bist wie alle anderen."</DefaultText>
+      <DefaultText>„Ich kenne deinen Blick. Deinen Hunger. Den Hunger nach Antworten, die nicht zu greifen sind. Er nagt an deiner Seele. Er untergräbt deinen Daseinszweck. Du bist wie alle anderen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

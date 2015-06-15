@@ -6,13 +6,13 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Halt!"</DefaultText>
+      <DefaultText>„Halt!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Der Phantomsoldat hält dir sein Kurzschwert an die Brust. "Du bist in der falschen Stadt&#160;… Inquisitor."</DefaultText>
-      <FemaleText>Der Phantomsoldat hält dir sein Kurzschwert an die Brust. "Du bist in der falschen Stadt&#160;… Inquisitorin."</FemaleText>
+      <DefaultText>Der Phantomsoldat hält dir sein Kurzschwert an die Brust. „Du bist in der falschen Stadt&#160;… Inquisitor.“</DefaultText>
+      <FemaleText>Der Phantomsoldat hält dir sein Kurzschwert an die Brust. „Du bist in der falschen Stadt&#160;… Inquisitorin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -21,250 +21,250 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Dachtest du, man würde dich hier in deiner alten Heimat nicht erkennen? Ich habe deine Prozesse mit meinen eigenen Augen gesehen. Ich habe gesehen, wie du Scheiterhaufen in Brand gesteckt hast, auf denen gute Leute gefesselt waren. Leute, die ich seit vielen Jahren kannte."
+      <DefaultText>„Dachtest du, man würde dich hier in deiner alten Heimat nicht erkennen? Ich habe deine Prozesse mit meinen eigenen Augen gesehen. Ich habe gesehen, wie du Scheiterhaufen in Brand gesteckt hast, auf denen gute Leute gefesselt waren. Leute, die ich seit vielen Jahren kannte.“
 
-Er packt dich an der Kehle und dir wird die Luft abgeschnürt&#160;– ob tatsächlich oder nur aus Einbildung weißt du nicht. "Sie verdienen dein Geständnis." Er hebt seine Schwertspitze und hält sie unmittelbar vor dein Auge.</DefaultText>
+Er packt dich an der Kehle und dir wird die Luft abgeschnürt&#160;– ob tatsächlich oder nur aus Einbildung weißt du nicht. „Sie verdienen dein Geständnis.“ Er hebt seine Schwertspitze und hält sie unmittelbar vor dein Auge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Suros, was TUST du da?"
+      <DefaultText>„Suros, was TUST du da?“
 
 Erschrocken lässt der Soldat dich sofort los und wendet sich zu der Frau um, die diese Frage gestellt hat. Sie trägt ein einfaches Wollwams und ist einen guten Kopf kleiner als er, scheint aber dennoch über ihm zu thronen. Du hast das Gesicht dieser Frau schon einmal gesehen, aus der Ferne, blutig und verbrannt über ein eisernes Rad gespannt. Jetzt aber ist in ihrem Gesicht nur Sorge zu sehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Wenn er ein solch schlechter Meuchelmörder ist, sich am helllichten Tage einem bewaffneten Wachmann zu nähern, habe ich nichts zu befürchten. Ich würde mir anhören, was dieser Mann zu sagen hat."
+      <DefaultText>„Wenn er ein solch schlechter Meuchelmörder ist, sich am helllichten Tage einem bewaffneten Wachmann zu nähern, habe ich nichts zu befürchten. Ich würde mir anhören, was dieser Mann zu sagen hat.“
 
 Sie blickt ihn starr an, bis er den Blick abwendet. Er tritt beiseite, beobachtet dich aber mit ärgerlichem Blick von der Seite. Seine Fingerknöchel umschließen den Knauf seines Schwertes so fest, dass sie weiß werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Was tust du hier, Inquisitor?"</DefaultText>
-      <FemaleText>"Was tust du hier, Inquisitorin?"</FemaleText>
+      <DefaultText>„Was tust du hier, Inquisitor?“</DefaultText>
+      <FemaleText>„Was tust du hier, Inquisitorin?“</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Kenne&#160;… kenne ich dich?"</DefaultText>
+      <DefaultText>„Kenne&#160;… kenne ich dich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Iovaras Augen weiten sich, als sie dein Gesicht zum ersten Mal sieht. "Mein eigener Bruder, nach Hause zurückgekehrt! Ich hätte mir nie träumen lassen, dass dieser Tag einmal kommt."</DefaultText>
-      <FemaleText>Iovaras Augen weiten sich, als sie dein Gesicht zum ersten Mal sieht. "Meine eigene Schwester, nach Hause zurückgekehrt! Ich hätte mir nie träumen lassen, dass dieser Tag einmal kommt."</FemaleText>
+      <DefaultText>Iovaras Augen weiten sich, als sie dein Gesicht zum ersten Mal sieht. „Mein eigener Bruder, nach Hause zurückgekehrt! Ich hätte mir nie träumen lassen, dass dieser Tag einmal kommt.“</DefaultText>
+      <FemaleText>Iovaras Augen weiten sich, als sie dein Gesicht zum ersten Mal sieht. „Meine eigene Schwester, nach Hause zurückgekehrt! Ich hätte mir nie träumen lassen, dass dieser Tag einmal kommt.“</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Iovaras Augen weiten sich, als sie dein Gesicht zum ersten Mal sieht. "Das muss eine Täuschung sein. Ich hatte nicht erwartet, dich je wiederzusehen."</DefaultText>
+      <DefaultText>Iovaras Augen weiten sich, als sie dein Gesicht zum ersten Mal sieht. „Das muss eine Täuschung sein. Ich hatte nicht erwartet, dich je wiederzusehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ich hatte nicht das Recht, es zu erwarten. Nicht, nachdem wir so auseinander gegangen sind."</DefaultText>
+      <DefaultText>„Ich hatte nicht das Recht, es zu erwarten. Nicht, nachdem wir so auseinander gegangen sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[Lügen] "Ich wollte dich einfach wiedersehen."</DefaultText>
+      <DefaultText>[Lügen] „Ich wollte dich einfach wiedersehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[Lügen] "Ich bin gekommen, um dir zu helfen, wo und wie ich kann."</DefaultText>
+      <DefaultText>[Lügen] „Ich bin gekommen, um dir zu helfen, wo und wie ich kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[Lügen] "Ich glaube nun, dass deine Lehre wahr ist."</DefaultText>
+      <DefaultText>[Lügen] „Ich glaube nun, dass deine Lehre wahr ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[Lügen] "Ich kann nicht länger ertragen, was ich im Namen der Inquisition für böse Dinge getan habe. Du musst mir helfen, dem ein Ende zu setzen."</DefaultText>
+      <DefaultText>[Lügen] „Ich kann nicht länger ertragen, was ich im Namen der Inquisition für böse Dinge getan habe. Du musst mir helfen, dem ein Ende zu setzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Großinquisitor Thaos ix Arkannon schickt mich, um dich auszuspionieren."</DefaultText>
+      <DefaultText>„Großinquisitor Thaos ix Arkannon schickt mich, um dich auszuspionieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[Lügen] "Ich hatte gehofft, wir könnten von vorne anfangen."</DefaultText>
+      <DefaultText>[Lügen] „Ich hatte gehofft, wir könnten von vorne anfangen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ein hilfreicher Inquisitor. Eine bezaubernde Vorstellung. Wenn ihr doch nur alle so hilfsbereit wäret."</DefaultText>
-      <FemaleText>"Eine hilfreiche Inquisitorin. Eine bezaubernde Vorstellung. Wenn ihr doch nur alle so hilfsbereit wäret."</FemaleText>
+      <DefaultText>„Ein hilfreicher Inquisitor. Eine bezaubernde Vorstellung. Wenn ihr doch nur alle so hilfsbereit wäret.“</DefaultText>
+      <FemaleText>„Eine hilfreiche Inquisitorin. Eine bezaubernde Vorstellung. Wenn ihr doch nur alle so hilfsbereit wäret.“</FemaleText>
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Ich&#160;… hatte gehofft, es gäbe einen anderen Grund. Aber du bist hier, das allein muss reichen."</DefaultText>
+      <DefaultText>„Ich&#160;… hatte gehofft, es gäbe einen anderen Grund. Aber du bist hier, das allein muss reichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Ich weiß, für dich steckt vielleicht mehr dahinter, aber ich kann es niemandem vorwerfen, seinem Herzen zu folgen."</DefaultText>
+      <DefaultText>„Ich weiß, für dich steckt vielleicht mehr dahinter, aber ich kann es niemandem vorwerfen, seinem Herzen zu folgen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Du weißt, als der Großinquisitor dir auftrug, zu konvertieren, da meinte er, du solltest andere Leute konvertieren?"
+      <DefaultText>„Du weißt, als der Großinquisitor dir auftrug, zu konvertieren, da meinte er, du solltest andere Leute konvertieren?“
 
-"Aber alle Missverständnisse einmal außer Acht gelassen, es ist schön zu sehen, welche Macht die Wahrheit besitzt."</DefaultText>
+„Aber alle Missverständnisse einmal außer Acht gelassen, es ist schön zu sehen, welche Macht die Wahrheit besitzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Es ist&#160;… etwas Besonderes, dass ein alter Schüler zu mir zurückkehrt. Ich muss wohl etwas richtig gemacht haben, auch wenn ich soviel Falsches gelehrt habe."</DefaultText>
-      <FemaleText>"Es ist&#160;… etwas Besonderes, dass eine alte Schülerin zu mir zurückkehrt. Ich muss wohl etwas richtig gemacht haben, auch wenn ich soviel Falsches gelehrt habe."</FemaleText>
+      <DefaultText>„Es ist&#160;… etwas Besonderes, dass ein alter Schüler zu mir zurückkehrt. Ich muss wohl etwas richtig gemacht haben, auch wenn ich soviel Falsches gelehrt habe.“</DefaultText>
+      <FemaleText>„Es ist&#160;… etwas Besonderes, dass eine alte Schülerin zu mir zurückkehrt. Ich muss wohl etwas richtig gemacht haben, auch wenn ich soviel Falsches gelehrt habe.“</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ich habe dich viele falsche Dinge gelehrt. Ich hoffe, du gibst mir die Gelegenheit, dir zu zeigen, wie ich mich seither verändert habe."</DefaultText>
+      <DefaultText>„Ich habe dich viele falsche Dinge gelehrt. Ich hoffe, du gibst mir die Gelegenheit, dir zu zeigen, wie ich mich seither verändert habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Es ist auf jeden Fall schön, einen alten Freund wiederzusehen. Es ist einsamer, als man glauben mag, wenn man seine Freunde gegen Anhänger eintauscht."</DefaultText>
+      <DefaultText>„Es ist auf jeden Fall schön, einen alten Freund wiederzusehen. Es ist einsamer, als man glauben mag, wenn man seine Freunde gegen Anhänger eintauscht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Iovara blickt dich verwundert an. "Welch angenehme Überraschung. Es ist lange her, dass ich einen meiner alten Freunde gesehen habe. Und gerade dich&#160;… hätte ich niemals erwartet."</DefaultText>
+      <DefaultText>Iovara blickt dich verwundert an. „Welch angenehme Überraschung. Es ist lange her, dass ich einen meiner alten Freunde gesehen habe. Und gerade dich&#160;… hätte ich niemals erwartet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Was auch dein Beweggrund sein mag, ich habe dich in all den Jahren vermisst. Dich nun hier zu haben, wo ich von Fremden umgeben bin, ist ein wunderbares Geschenk."</DefaultText>
+      <DefaultText>„Was auch dein Beweggrund sein mag, ich habe dich in all den Jahren vermisst. Dich nun hier zu haben, wo ich von Fremden umgeben bin, ist ein wunderbares Geschenk.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Aber es gibt weniger, was stärker ist, als die Familienbande. Ich hätte nie daran zweifeln sollen, dass wir eines Tages wieder vereint sein werden."</DefaultText>
+      <DefaultText>„Aber es gibt weniger, was stärker ist, als die Familienbande. Ich hätte nie daran zweifeln sollen, dass wir eines Tages wieder vereint sein werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Ich war mir sicher, ich hätte dich für immer verloren, als ich erfuhr, dass Thaos eine Inquisition angeordnet hat. Es ist eine große Erleichterung, zu sehen, dass unsere Familie sich nicht so leicht auseinanderreißen ließ."</DefaultText>
+      <DefaultText>„Ich war mir sicher, ich hätte dich für immer verloren, als ich erfuhr, dass Thaos eine Inquisition angeordnet hat. Es ist eine große Erleichterung, zu sehen, dass unsere Familie sich nicht so leicht auseinanderreißen ließ.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Wenn es doch nur einen einfachen Weg gäbe, das zu tun, ohne den Großinquisitor selbst zu konvertieren. Aber vielleicht zeigt dein Kommen, dass wir nicht so weit davon entfernt sind, wie ich glaubte."</DefaultText>
+      <DefaultText>„Wenn es doch nur einen einfachen Weg gäbe, das zu tun, ohne den Großinquisitor selbst zu konvertieren. Aber vielleicht zeigt dein Kommen, dass wir nicht so weit davon entfernt sind, wie ich glaubte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"So viel ist seitdem geschehen. Die Inquisition&#160;…"
+      <DefaultText>„So viel ist seitdem geschehen. Die Inquisition&#160;…“
 
 Sie blickt gedankenverloren nach unten.
 
-"All das ist jetzt wohl nicht von Bedeutung. Schließlich bist du hier."</DefaultText>
+„All das ist jetzt wohl nicht von Bedeutung. Schließlich bist du hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Du hast dich in große Gefahr begeben, um meinetwillen. Ich hätte das niemals von jemandem verlangt, besonders nicht von jemandem, dessen Sicherheit mir so am Herzen liegt."</DefaultText>
+      <DefaultText>„Du hast dich in große Gefahr begeben, um meinetwillen. Ich hätte das niemals von jemandem verlangt, besonders nicht von jemandem, dessen Sicherheit mir so am Herzen liegt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ich bin&#160;… überrascht, dass du für mich solche Mühen aufnimmst. Du weißt, dass ich das niemals von dir verlangt hätte."</DefaultText>
+      <DefaultText>„Ich bin&#160;… überrascht, dass du für mich solche Mühen aufnimmst. Du weißt, dass ich das niemals von dir verlangt hätte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Woher kommst du, Inquisitor?"</DefaultText>
-      <FemaleText>"Woher kommst du, Inquisitorin?"</FemaleText>
+      <DefaultText>„Woher kommst du, Inquisitor?“</DefaultText>
+      <FemaleText>„Woher kommst du, Inquisitorin?“</FemaleText>
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Von hier."</DefaultText>
+      <DefaultText>„Von hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Tatsächlich? Ich begegne nur noch Einheimischen. Viele meiner Anhänger reisen aus anderen Städten und Königreichen her. Und viele dieser Soldaten wurden aus den umliegenden ländlichen Gebieten eingezogen."
+      <DefaultText>„Tatsächlich? Ich begegne nur noch Einheimischen. Viele meiner Anhänger reisen aus anderen Städten und Königreichen her. Und viele dieser Soldaten wurden aus den umliegenden ländlichen Gebieten eingezogen.“
 
-"Es freut mich, jemanden um mich zu haben, der Creitum in besseren Zeiten kannte."</DefaultText>
+„Es freut mich, jemanden um mich zu haben, der Creitum in besseren Zeiten kannte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Sie blickt dich genauer an. "Ich ERINNERE mich an dich. Es ist Jahre her, als ich Missionarin war. Vor all dem hier." Sie schüttelt den Kopf.
+      <DefaultText>Sie blickt dich genauer an. „Ich ERINNERE mich an dich. Es ist Jahre her, als ich Missionarin war. Vor all dem hier.“ Sie schüttelt den Kopf.
 
-"Man kann sich diese Tage kaum mehr vorstellen, was? Was würde ich nicht darum geben."</DefaultText>
+„Man kann sich diese Tage kaum mehr vorstellen, was? Was würde ich nicht darum geben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Die wenigsten meiner Anhänger stammen aus dieser Gegend. Und die meisten Soldaten wurden aus den ländlichen Gebieten eingezogen. Es freut mich, jemanden um mich zu haben, der Creitum in besseren Zeiten kannte."</DefaultText>
+      <DefaultText>„Die wenigsten meiner Anhänger stammen aus dieser Gegend. Und die meisten Soldaten wurden aus den ländlichen Gebieten eingezogen. Es freut mich, jemanden um mich zu haben, der Creitum in besseren Zeiten kannte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Ich lade dich ein, als mein Gast in unserem Lager zu bleiben."</DefaultText>
+      <DefaultText>„Ich lade dich ein, als mein Gast in unserem Lager zu bleiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
       <DefaultText>Der Soldat kann nicht länger schweigen. Er geht zu Iovara, legt ihr die Hand auf die Schulter und nimmt sie beiseite. Seine Stimme ist leise, aber deutlich hörbar.
 
-"Herrin Iovara, ich bitte Euch. Das ist ein INQUISITOR! Das ist ein verzweifelter Versuch, Euch zu töten. Er kann nur Erfolg haben, wenn Ihr das zulasst."</DefaultText>
+„Herrin Iovara, ich bitte Euch. Das ist ein INQUISITOR! Das ist ein verzweifelter Versuch, Euch zu töten. Er kann nur Erfolg haben, wenn Ihr das zulasst.“</DefaultText>
       <FemaleText>Der Soldat kann nicht länger schweigen. Er geht zu Iovara, legt ihr die Hand auf die Schulter und nimmt sie beiseite. Seine Stimme ist leise, aber deutlich hörbar.
 
-"Herrin Iovara, ich bitte Euch. Das ist eine INQUISITORIN! Das ist ein verzweifelter Versuch, Euch zu töten. Sie kann nur Erfolg haben, wenn Ihr das zulasst."</FemaleText>
+„Herrin Iovara, ich bitte Euch. Das ist eine INQUISITORIN! Das ist ein verzweifelter Versuch, Euch zu töten. Sie kann nur Erfolg haben, wenn Ihr das zulasst.“</FemaleText>
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Sie wischt seine Hand mit der ruhigen Anmut der Entschlossenheit beiseite. "Er ist ein Missionar, genau wie ich es war. Man hat ihn die falschen Dinge gelehrt, genau wie mich."
+      <DefaultText>Sie wischt seine Hand mit der ruhigen Anmut der Entschlossenheit beiseite. „Er ist ein Missionar, genau wie ich es war. Man hat ihn die falschen Dinge gelehrt, genau wie mich.“
 
-"Wenn ich kein Vertrauen darauf habe, dass ein einzelner Mann Vernunft annimmt, wenn er erst die Wahrheit kennt, welche Hoffnung haben wir dann?"</DefaultText>
-      <FemaleText>Sie wischt seine Hand mit der ruhigen Anmut der Entschlossenheit beiseite. "Sie ist eine Missionarin, genau wie ich es war. Man hat sie die falschen Dinge gelehrt, genau wie mich."
+„Wenn ich kein Vertrauen darauf habe, dass ein einzelner Mann Vernunft annimmt, wenn er erst die Wahrheit kennt, welche Hoffnung haben wir dann?“</DefaultText>
+      <FemaleText>Sie wischt seine Hand mit der ruhigen Anmut der Entschlossenheit beiseite. „Sie ist eine Missionarin, genau wie ich es war. Man hat sie die falschen Dinge gelehrt, genau wie mich.“
 
-"Wenn ich kein Vertrauen darauf habe, dass eine einzelne Frau Vernunft annimmt, wenn sie erst die Wahrheit kennt, welche Hoffnung haben wir dann?"</FemaleText>
+„Wenn ich kein Vertrauen darauf habe, dass eine einzelne Frau Vernunft annimmt, wenn sie erst die Wahrheit kennt, welche Hoffnung haben wir dann?“</FemaleText>
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Wir haben hier viele ehemalige Missionare. Sie sind unsere treuesten und hilfreichsten Mitglieder. Viele sind für uns gestorben. Wir dürfen diese Leute nicht verstoßen."
+      <DefaultText>„Wir haben hier viele ehemalige Missionare. Sie sind unsere treuesten und hilfreichsten Mitglieder. Viele sind für uns gestorben. Wir dürfen diese Leute nicht verstoßen.“
 
-"Und wenn die Inquisition mein Leben will, kann sie es haben. Aber sie wissen genau wie ich, dass meine Sache nicht mit mir sterben wird."</DefaultText>
+„Und wenn die Inquisition mein Leben will, kann sie es haben. Aber sie wissen genau wie ich, dass meine Sache nicht mit mir sterben wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Iovara blinzelt nicht. "Ist die Lage dort so verzweifelt? Das hätte ich nie geahnt."
+      <DefaultText>Iovara blinzelt nicht. „Ist die Lage dort so verzweifelt? Das hätte ich nie geahnt.“
 
-"Ich hoffe, dein nächster Auftrag ist anregender. Meinen Lehren zu lauschen ist fades Werk für einen Spion."</DefaultText>
+„Ich hoffe, dein nächster Auftrag ist anregender. Meinen Lehren zu lauschen ist fades Werk für einen Spion.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Iovara winkt dir zu, ihr zu folgen. "Komm. Wir haben viel zu besprechen."</DefaultText>
+      <DefaultText>Iovara winkt dir zu, ihr zu folgen. „Komm. Wir haben viel zu besprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Ein von der Inquisition gesandter Meuchelmörder, Herrin. Der es wagt, sich unserem Lager zu nähern."</DefaultText>
+      <DefaultText>„Ein von der Inquisition gesandter Meuchelmörder, Herrin. Der es wagt, sich unserem Lager zu nähern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Herrin, er GESTEHT, ein Spion zu sein!"</DefaultText>
-      <FemaleText>"Herrin, sie GESTEHT, eine Spionin zu sein!"</FemaleText>
+      <DefaultText>„Herrin, er GESTEHT, ein Spion zu sein!“</DefaultText>
+      <FemaleText>„Herrin, sie GESTEHT, eine Spionin zu sein!“</FemaleText>
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Das macht ihn doch gewiss zu einer geringeren Bedrohung, meinst du nicht?"
+      <DefaultText>„Das macht ihn doch gewiss zu einer geringeren Bedrohung, meinst du nicht?“
 
-"Ich habe nichts zu verbergen. Ich sehe lediglich eine Gelegenheit, jemanden zu überzeugen, der uns helfen könnte."</DefaultText>
-      <FemaleText>"Das macht sie doch gewiss zu einer geringeren Bedrohung, meinst du nicht?"
+„Ich habe nichts zu verbergen. Ich sehe lediglich eine Gelegenheit, jemanden zu überzeugen, der uns helfen könnte.“</DefaultText>
+      <FemaleText>„Das macht sie doch gewiss zu einer geringeren Bedrohung, meinst du nicht?“
 
-"Ich habe nichts zu verbergen. Ich sehe lediglich eine Gelegenheit, jemanden zu überzeugen, der uns helfen könnte."</FemaleText>
+„Ich habe nichts zu verbergen. Ich sehe lediglich eine Gelegenheit, jemanden zu überzeugen, der uns helfen könnte.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ich bediene hier nur. Du solltest mit Pasca da am Tresen sprechen."</DefaultText>
+      <DefaultText>„Ich bediene hier nur. Du solltest mit Pasca da am Tresen sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Glaub bloß nicht, dass du hier auftauchen und meinen Platz einnehmen kannst. Um diese Stelle zu bekommen, musste ich hart arbeiten."</DefaultText>
+      <DefaultText>„Glaub bloß nicht, dass du hier auftauchen und meinen Platz einnehmen kannst. Um diese Stelle zu bekommen, musste ich hart arbeiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Entschuldigung, mein Herr. Ich habe nicht viel Zeit zum Plaudern."</DefaultText>
-      <FemaleText>"Entschuldigung, meine Dame. Ich habe nicht viel Zeit zum Plaudern."</FemaleText>
+      <DefaultText>„Entschuldigung, mein Herr. Ich habe nicht viel Zeit zum Plaudern.“</DefaultText>
+      <FemaleText>„Entschuldigung, meine Dame. Ich habe nicht viel Zeit zum Plaudern.“</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Musstest du den Kampf denn unbedingt hier drin austragen? Das muss ich alles saubermachen, weißt du?"</DefaultText>
+      <DefaultText>„Musstest du den Kampf denn unbedingt hier drin austragen? Das muss ich alles saubermachen, weißt du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Bist du gerade im Dorf angekommen? Gestandene wie du scheinen gut zurechtzukommen."</DefaultText>
+      <DefaultText>„Bist du gerade im Dorf angekommen? Gestandene wie du scheinen gut zurechtzukommen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

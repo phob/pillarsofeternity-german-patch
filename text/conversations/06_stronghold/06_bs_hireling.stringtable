@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Warte auf Ihre Befehle, mein Fürst."</DefaultText>
-      <FemaleText>"Warte auf Ihre Befehle, meine Fürstin."</FemaleText>
+      <DefaultText>„Warte auf Ihre Befehle, mein Fürst.“</DefaultText>
+      <FemaleText>„Warte auf Ihre Befehle, meine Fürstin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Alles scheint in Ordnung zu sein."</DefaultText>
+      <DefaultText>„Alles scheint in Ordnung zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Wünschen Sie etwas?"</DefaultText>
+      <DefaultText>„Wünschen Sie etwas?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,28 +6,28 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Seien Sie gegrüßt, mein Fürst. Hier finden Sie nur die raffiniertesten Apparate. Öle, Fallen und verzauberte Sachen&#160;– alles, was man zum Fesseln und Frustrieren seiner Feinde braucht. Möchten Sie einen Blick darauf werfen?"</DefaultText>
-      <FemaleText>"Seien Sie gegrüßt, meine Fürstin. Hier finden Sie nur die raffiniertesten Apparate. Öle, Fallen und verzauberte Sachen&#160;– alles, was man zum Fesseln und Frustrieren seiner Feinde braucht. Möchten Sie einen Blick darauf werfen?"</FemaleText>
+      <DefaultText>„Seien Sie gegrüßt, mein Fürst. Hier finden Sie nur die raffiniertesten Apparate. Öle, Fallen und verzauberte Sachen&#160;– alles, was man zum Fesseln und Frustrieren seiner Feinde braucht. Möchten Sie einen Blick darauf werfen?“</DefaultText>
+      <FemaleText>„Seien Sie gegrüßt, meine Fürstin. Hier finden Sie nur die raffiniertesten Apparate. Öle, Fallen und verzauberte Sachen&#160;– alles, was man zum Fesseln und Frustrieren seiner Feinde braucht. Möchten Sie einen Blick darauf werfen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Lass mich mal sehen, was du anzubieten hast."</DefaultText>
+      <DefaultText>„Lass mich mal sehen, was du anzubieten hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Leb wohl."</DefaultText>
+      <DefaultText>„Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Guten Tag, mein Fürst. Haben wir heute Bedarf an Fallen?"</DefaultText>
-      <FemaleText>"Guten Tag, meine Fürstin. Haben wir heute Bedarf an Fallen?"</FemaleText>
+      <DefaultText>„Guten Tag, mein Fürst. Haben wir heute Bedarf an Fallen?“</DefaultText>
+      <FemaleText>„Guten Tag, meine Fürstin. Haben wir heute Bedarf an Fallen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Guten Abend, mein Fürst. Haben wir heute Bedarf an Fallen?"</DefaultText>
-      <FemaleText>"Guten Abend, meine Fürstin. Haben wir heute Bedarf an Fallen?"</FemaleText>
+      <DefaultText>„Guten Abend, mein Fürst. Haben wir heute Bedarf an Fallen?“</DefaultText>
+      <FemaleText>„Guten Abend, meine Fürstin. Haben wir heute Bedarf an Fallen?“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

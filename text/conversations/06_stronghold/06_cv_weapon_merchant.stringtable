@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ich grüße. Interesse an einer neuen Klinge? Vielleicht einer Axt? Wer gerne durch die Welt reist und Abenteuer erlebt, der findet bei mir, was er braucht."</DefaultText>
+      <DefaultText>„Ich grüße. Interesse an einer neuen Klinge? Vielleicht einer Axt? Wer gerne durch die Welt reist und Abenteuer erlebt, der findet bei mir, was er braucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Wenn man damit jemanden verletzen kann, dann habe ich es im Angebot."</DefaultText>
+      <DefaultText>„Wenn man damit jemanden verletzen kann, dann habe ich es im Angebot.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Zeig mir deine Waren."</DefaultText>
+      <DefaultText>„Zeig mir deine Waren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Möchtest du dich umsehen?"</DefaultText>
+      <DefaultText>„Möchtest du dich umsehen?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

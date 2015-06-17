@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Hallo. Hast du vielleicht Interesse an neuen Rezepten oder Zutaten? Etwas, um die lange Reise ein wenig ... zu würzen?"</DefaultText>
+      <DefaultText>„Hallo. Hast du vielleicht Interesse an neuen Rezepten oder Zutaten? Etwas, um die lange Reise ein wenig&#160;… zu würzen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Willkommen zurück. Möchtest du dir ansehen, was ich Neues im Angebot habe?"</DefaultText>
+      <DefaultText>„Willkommen zurück. Möchtest du dir ansehen, was ich Neues im Angebot habe?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich möchte gerne deine Ware sehen."</DefaultText>
+      <DefaultText>„Ich möchte gerne deine Ware sehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Selbst für den ausgefallensten Geschmack findet man bei mir etwas."</DefaultText>
+      <DefaultText>„Selbst für den ausgefallensten Geschmack findet man bei mir etwas.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

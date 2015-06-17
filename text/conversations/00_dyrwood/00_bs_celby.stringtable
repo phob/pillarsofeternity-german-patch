@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Du suchst sicherlich nach Beodmar. Er ist nicht im Dorf. Ich sorge nur dafür, dass die Kerzen brennen, bis er wieder da ist."</DefaultText>
+      <DefaultText>„Du suchst sicherlich nach Beodmar. Er ist nicht im Dorf. Ich sorge nur dafür, dass die Kerzen brennen, bis er wieder da ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Sprich mit Beodmar. Mir traut man nur zu, mich um die Kerzen zu kümmern ... "</DefaultText>
+      <DefaultText>„Sprich mit Beodmar. Mir traut man nur zu, mich um die Kerzen zu kümmern&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>„“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

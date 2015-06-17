@@ -8,12 +8,12 @@
       <ID>1</ID>
       <DefaultText>Geisterhafter Rauch wirbelt um dich herum. Zuerst kannst du außer dem Nebel nichts sehen, allmählich aber erkennst du die verschrumpelte, gebeugte Gestalt eines alten Elfen. Sein Gesicht und seine knochigen Arme sind mit Farbe verschmiert.
 
-"Das könnt ihr doch nicht machen!" Er schüttelt seinen Kopf und speit dir die Worte förmlich entgegen.</DefaultText>
+„Das könnt ihr doch nicht machen!“ Er schüttelt seinen Kopf und speit dir die Worte förmlich entgegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Was denn?"</DefaultText>
+      <DefaultText>„Was denn?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -28,16 +28,16 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Das ist unser Dorf. Geht nach Hause! Die Neun Klauen haben hier seit fast fünfzig Generationen gelebt." Du kannst nicht erkennen, ob er wegen des Rauchs blinzelt oder dich finster anblickt. "Wir waren schon lange hier, bevor eure Art den Krieg in unsere Lande gebracht hat."
+      <DefaultText>„Das ist unser Dorf. Geht nach Hause! Die Neun Klauen haben hier seit fast fünfzig Generationen gelebt.“ Du kannst nicht erkennen, ob er wegen des Rauchs blinzelt oder dich finster anblickt. „Wir waren schon lange hier, bevor eure Art den Krieg in unsere Lande gebracht hat.“
 
-Ein Husten lässt ihn erbeben. "Ihr könnt nicht einfach alles verbrennen."</DefaultText>
+Ein Husten lässt ihn erbeben. „Ihr könnt nicht einfach alles verbrennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Nach einer Pause zieht er sich zurück und starrt dich entsetzt an, anscheinend eine Reaktion auf etwas, das du eigentlich gar nicht gesagt hast. An den Rändern deines Sichtfelds aber flackern illusorische Flammenzungen.
 
-"Hab Gnade, Soldat! All unsere Krieger sind gegangen ... " Er hustet. "Ihr könnt uns nicht alle wegen ihnen verbrennen."</DefaultText>
+„Hab Gnade, Soldat! All unsere Krieger sind gegangen&#160;…“ Er hustet. „Ihr könnt uns nicht alle wegen ihnen verbrennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -47,7 +47,7 @@ Ein Husten lässt ihn erbeben. "Ihr könnt nicht einfach alles verbrennen."</Def
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Verschwindet aus unserem Dorf! Wir haben euch nichts getan!"</DefaultText>
+      <DefaultText>„Verschwindet aus unserem Dorf! Wir haben euch nichts getan!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

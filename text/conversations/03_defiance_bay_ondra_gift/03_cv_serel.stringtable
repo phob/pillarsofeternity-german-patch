@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Das Puder verdeckt ihre Augenringe fast und das Rouge legt sich über ihre zu ausgeprägten Wangenknochen. Trotzdem: Serel ist eine schöne Frau. Sie empfängt dich mit einem Lächeln, das sie geübt haben muss. "Hallo, Fremder. Lass es mich dir etwas bequemer machen."</DefaultText>
-      <FemaleText>Das Puder verdeckt ihre Augenringe fast und das Rouge legt sich über ihre zu ausgeprägten Wangenknochen. Trotzdem: Serel ist eine schöne Frau. Sie empfängt dich mit einem Lächeln, das sie geübt haben muss. "Hallo, Fremde. Lass es mich dir etwas bequemer machen."</FemaleText>
+      <DefaultText>Das Puder verdeckt ihre Augenringe fast und das Rouge legt sich über ihre zu ausgeprägten Wangenknochen. Trotzdem: Serel ist eine schöne Frau. Sie empfängt dich mit einem Lächeln, das sie geübt haben muss. „Hallo, Fremder. Lass es mich dir etwas bequemer machen.“</DefaultText>
+      <FemaleText>Das Puder verdeckt ihre Augenringe fast und das Rouge legt sich über ihre zu ausgeprägten Wangenknochen. Trotzdem: Serel ist eine schöne Frau. Sie empfängt dich mit einem Lächeln, das sie geübt haben muss. „Hallo, Fremde. Lass es mich dir etwas bequemer machen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[Einschüchtern] "Gib mir das engwithanische Medaillon."</DefaultText>
+      <DefaultText>[Einschüchtern] „Gib mir das engwithanische Medaillon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,57 +21,57 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Es gibt da etwas, das ich mit dir besprechen muss."</DefaultText>
+      <DefaultText>„Es gibt da etwas, das ich mit dir besprechen muss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Sie fährt dir mit einem geschmeidigen Finger deinen Hals entlang und unter dein Kinn. "Sag mir einfach, was du willst. Wenn du noch jemand mitbringen möchtest, dann kostet das extra."</DefaultText>
+      <DefaultText>Sie fährt dir mit einem geschmeidigen Finger deinen Hals entlang und unter dein Kinn. „Sag mir einfach, was du willst. Wenn du noch jemand mitbringen möchtest, dann kostet das extra.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Sie sieht ihre toten Wachen ungläubig an. "Bei der Flamme, nie hätte ich gedacht, dass ... " Sie reißt ein Medaillon unter ihrem Korsett hervor und wirft es mit bebenden Lippen in deine Richtung. "Da, nimm diesen Trödel! Die Hölle soll Thristwn und seinen ganzen verdammten Stamm verschlingen!"</DefaultText>
+      <DefaultText>Sie sieht ihre toten Wachen ungläubig an. „Bei der Flamme, nie hätte ich gedacht, dass&#160;…“ Sie reißt ein Medaillon unter ihrem Korsett hervor und wirft es mit bebenden Lippen in deine Richtung. „Da, nimm diesen Trödel! Die Hölle soll Thristwn und seinen ganzen verdammten Stamm verschlingen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Es IST ziemlich warm hier drin ... "</DefaultText>
+      <DefaultText>„Es IST ziemlich warm hier drin&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Die Frau weicht vor dir zurück. "Geh weg von mir!"</DefaultText>
+      <DefaultText>Die Frau weicht vor dir zurück. „Geh weg von mir!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Dein Freund Thristwn hat mich geschickt. Er braucht dieses Medaillon."</DefaultText>
+      <DefaultText>„Dein Freund Thristwn hat mich geschickt. Er braucht dieses Medaillon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Es tut mir wirklich leid für ihn, aber ich würde alles darauf verwetten, dass er jetzt ein besseres Leben als in Eir Glanfath hat. Ich habe lange gearbeitet, um hier herauszukommen, und ich werde all das nicht aufgeben, nur weil Thristwn plötzlich nostalgisch geworden ist."</DefaultText>
+      <DefaultText>„Es tut mir wirklich leid für ihn, aber ich würde alles darauf verwetten, dass er jetzt ein besseres Leben als in Eir Glanfath hat. Ich habe lange gearbeitet, um hier herauszukommen, und ich werde all das nicht aufgeben, nur weil Thristwn plötzlich nostalgisch geworden ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Hier geht es nicht um Reichtum, sondern um herauszufinden, wer du wirklich bist."</DefaultText>
+      <DefaultText>„Hier geht es nicht um Reichtum, sondern um herauszufinden, wer du wirklich bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[Einschüchtern] "Du wirst mir dieses Medaillon geben - so oder so."</DefaultText>
+      <DefaultText>[Einschüchtern] „Du wirst mir dieses Medaillon geben&#160;– so oder so.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Lass uns das Medaillon vergessen. Ich möchte, dass du mir mit etwas anderem hilfst ... "</DefaultText>
+      <DefaultText>„Lass uns das Medaillon vergessen. Ich möchte, dass du mir mit etwas anderem hilfst&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Du hast vermutlich Recht." Sie zieht ein Medaillon aus ihrem Korsett und drückt es dir in die Hand.</DefaultText>
+      <DefaultText>„Du hast vermutlich Recht.“ Sie zieht ein Medaillon aus ihrem Korsett und drückt es dir in die Hand.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,22 +81,22 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Wachen!"</DefaultText>
+      <DefaultText>„Wachen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Ihre Schultern entspannen sich und ihr kokettes Lächeln kehrt zurück. "So ist's recht."</DefaultText>
+      <DefaultText>Ihre Schultern entspannen sich und ihr kokettes Lächeln kehrt zurück. „So ist’s recht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>[Ihren Mund bedecken.] "Bleib ruhig."</DefaultText>
+      <DefaultText>[Ihren Mund bedecken.] „Bleib ruhig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Leb wohl."</DefaultText>
+      <DefaultText>„Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Wachen!"</DefaultText>
+      <DefaultText>„Wachen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,67 +116,67 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>[Medaillon nehmen.] "Danke."</DefaultText>
+      <DefaultText>[Medaillon nehmen.] „Danke.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ich hoffe, dass er an mich denkt, wenn er umgeben von Freunden und seiner Familie in seiner kleinen Hütte hockt." Sie macht auf dem Absatz kehrt und beginnt, ihr Schlafzimmer aufzuräumen.</DefaultText>
+      <DefaultText>„Ich hoffe, dass er an mich denkt, wenn er umgeben von Freunden und seiner Familie in seiner kleinen Hütte hockt.“ Sie macht auf dem Absatz kehrt und beginnt, ihr Schlafzimmer aufzuräumen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ich habe schon bezahlt, um Zeit mit dir zu verbringen, und gutes Geld kann ich nicht einfach so verschwenden."</DefaultText>
+      <DefaultText>„Ich habe schon bezahlt, um Zeit mit dir zu verbringen, und gutes Geld kann ich nicht einfach so verschwenden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Vielleicht später."</DefaultText>
+      <DefaultText>„Vielleicht später.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Serel sieht dich verwundert an. "Schon wieder zurück?"</DefaultText>
+      <DefaultText>Serel sieht dich verwundert an. „Schon wieder zurück?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Du hast schon bekommen, was du wolltest. Sag Thristwn, dass er sein Gesicht in dieser Stadt besser nicht mehr zeigen sollte."</DefaultText>
+      <DefaultText>„Du hast schon bekommen, was du wolltest. Sag Thristwn, dass er sein Gesicht in dieser Stadt besser nicht mehr zeigen sollte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Und ich auch." Serel hebt ihr Kinn. "Ich habe ihm die Hälfte des Geldes angeboten, und er hat abgelehnt." Sie verschränkt ihre Arme und umkreist dich mit kurzen, schnellen Schritten. "Mit Sicherheit hat er dir auch über seinen zerrissenen Clan erzählt. Hat er auch erwähnt, dass ich ihn dahin gebracht habe, wo er heute ist?"</DefaultText>
+      <DefaultText>„Und ich auch.“ Serel hebt ihr Kinn. „Ich habe ihm die Hälfte des Geldes angeboten, und er hat abgelehnt.“ Sie verschränkt ihre Arme und umkreist dich mit kurzen, schnellen Schritten. „Mit Sicherheit hat er dir auch über seinen zerrissenen Clan erzählt. Hat er auch erwähnt, dass ich ihn dahin gebracht habe, wo er heute ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Ich sollte gehen. Ich glaube, mir ist die Lust vergangen."</DefaultText>
+      <DefaultText>„Ich sollte gehen. Ich glaube, mir ist die Lust vergangen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Wie du willst. Ich fürchte aber, dass ich dir keine Rückerstattung anbieten kann."</DefaultText>
+      <DefaultText>„Wie du willst. Ich fürchte aber, dass ich dir keine Rückerstattung anbieten kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Ach, weißt du was? Ich bleibe doch lieber da. Vielleicht taucht es ja noch auf ... "</DefaultText>
+      <DefaultText>„Ach, weißt du was? Ich bleibe doch lieber da. Vielleicht taucht es ja noch auf&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Ich werde es dir abkaufen."</DefaultText>
+      <DefaultText>„Ich werde es dir abkaufen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Sie lacht. "Es ist sechstausend Pand wert. Wenn du so viel Kleingeld hast, werde ich dir gerne dabei helfen, es auszugeben."</DefaultText>
+      <DefaultText>Sie lacht. „Es ist sechstausend Pand wert. Wenn du so viel Kleingeld hast, werde ich dir gerne dabei helfen, es auszugeben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>[6.000 KP zahlen] "Abgemacht."</DefaultText>
+      <DefaultText>[6.000 KP zahlen] „Abgemacht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,127 +186,127 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Ich bin hier, um einen glanfathanischen Clan wiederherzustellen."</DefaultText>
+      <DefaultText>„Ich bin hier, um einen glanfathanischen Clan wiederherzustellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Sie betrachtet deine Kleidung. "Aha, du stehst also auf Rollenspiele? Damit kann ich umgehen."</DefaultText>
+      <DefaultText>Sie betrachtet deine Kleidung. „Aha, du stehst also auf Rollenspiele? Damit kann ich umgehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Du und ich haben noch eine Rechnung offen."</DefaultText>
+      <DefaultText>„Du und ich haben noch eine Rechnung offen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Lass uns über Thristwn und dieses Medaillon sprechen."</DefaultText>
+      <DefaultText>„Lass uns über Thristwn und dieses Medaillon sprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Thristwn hat kein Recht, das von dir zu fordern. Ich werden ihm sagen, dass er dich in Ruhe lassen soll."</DefaultText>
+      <DefaultText>„Thristwn hat kein Recht, das von dir zu fordern. Ich werden ihm sagen, dass er dich in Ruhe lassen soll.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Sie wiegt den Beutel mit Kupfermünzen in ihren Händen. "Morgen schon könnte ich in einem schönen Häuschen in Farnheim sein." Sie wirft einen hoffnungsvollen Blick auf das Medaillon in deiner Hand. "Ich werde dir nicht sagen, was du tun oder lassen sollst, aber wenn du das hier Thristwn geben könntest, würde mir das auch viel bedeuten. Ich hoffe, dass sich für ihn zuhause alle Wünsche erfüllen werden."</DefaultText>
+      <DefaultText>Sie wiegt den Beutel mit Kupfermünzen in ihren Händen. „Morgen schon könnte ich in einem schönen Häuschen in Farnheim sein.“ Sie wirft einen hoffnungsvollen Blick auf das Medaillon in deiner Hand. „Ich werde dir nicht sagen, was du tun oder lassen sollst, aber wenn du das hier Thristwn geben könntest, würde mir das auch viel bedeuten. Ich hoffe, dass sich für ihn zuhause alle Wünsche erfüllen werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Ich habe schon für Zeit mit dir bezahlt und möchte sie auch nutzen."</DefaultText>
+      <DefaultText>„Ich habe schon für Zeit mit dir bezahlt und möchte sie auch nutzen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Serels Lächeln stockt für den Bruchteil einer Sekunde ein. "Natürlich. Wenn das so ist, dann lass es mir dir etwas bequemer machen ... "</DefaultText>
+      <DefaultText>Serels Lächeln stockt für den Bruchteil einer Sekunde ein. „Natürlich. Wenn das so ist, dann lass es mir dir etwas bequemer machen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Sie stößt ein schwaches Seufzen aus. "Ach, wirklich? Ich kann gewiss dafür sorgen, dass du auf deine Kosten kommst."</DefaultText>
+      <DefaultText>Sie stößt ein schwaches Seufzen aus. „Ach, wirklich? Ich kann gewiss dafür sorgen, dass du auf deine Kosten kommst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Zuerst würde ich gerne die Zeit mit dir nutzen, für die ich bezahlt habe."</DefaultText>
+      <DefaultText>„Zuerst würde ich gerne die Zeit mit dir nutzen, für die ich bezahlt habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Gebrauchte engwithanische Reliquien sind viel weniger wert. Mehr als viertausend wirst du hierfür nicht bekommen."</DefaultText>
+      <DefaultText>„Gebrauchte engwithanische Reliquien sind viel weniger wert. Mehr als viertausend wirst du hierfür nicht bekommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Ihre Stirn legt sich in Falten. "Du hast vermutlich Recht. Wenn du dir das leisten kannst, gehört es dir."</DefaultText>
+      <DefaultText>Ihre Stirn legt sich in Falten. „Du hast vermutlich Recht. Wenn du dir das leisten kannst, gehört es dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>[4.000 KP zahlen] "Hier, bitte."</DefaultText>
+      <DefaultText>[4.000 KP zahlen] „Hier, bitte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Obwohl ... lieber doch nicht."</DefaultText>
+      <DefaultText>„Obwohl&#160;… lieber doch nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>[Lügen] "Wie es der Zufall will, kenne ich genau die richtigen Leute, die für so etwas zahlen würden."</DefaultText>
+      <DefaultText>[Lügen] „Wie es der Zufall will, kenne ich genau die richtigen Leute, die für so etwas zahlen würden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Ha, und ich soll dir glauben, dass du es für mich weiterverkaufen wirst?" Sie schätzt dich ab. "Da Thristwn die Märkte im Auge hat, habe ich wohl keine andere Wahl." Sie fährt mit einer Hand vorne in ihr Korsett hinein und zieht ein geschnitztes Adra-Medaillon heraus. "Je mehr du herausholst, desto mehr kannst du für dich selbst behalten." Sie legt das Medaillon in deine Hand und beobachtet deine Augen ganz genau. "Bitte enttäusch mich nicht."</DefaultText>
+      <DefaultText>„Ha, und ich soll dir glauben, dass du es für mich weiterverkaufen wirst?“ Sie schätzt dich ab. „Da Thristwn die Märkte im Auge hat, habe ich wohl keine andere Wahl.“ Sie fährt mit einer Hand vorne in ihr Korsett hinein und zieht ein geschnitztes Adra-Medaillon heraus. „Je mehr du herausholst, desto mehr kannst du für dich selbst behalten.“ Sie legt das Medaillon in deine Hand und beobachtet deine Augen ganz genau. „Bitte enttäusch mich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Sie sieht dich sorgenvoll an. "Ich habe mich schon gewundert, wann du kommen würdest. Hast du mein Geld schon zusammen?"</DefaultText>
+      <DefaultText>Sie sieht dich sorgenvoll an. „Ich habe mich schon gewundert, wann du kommen würdest. Hast du mein Geld schon zusammen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>[6.000 KP geben] "Ja."</DefaultText>
+      <DefaultText>[6.000 KP geben] „Ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Ich arbeite noch daran."</DefaultText>
+      <DefaultText>„Ich arbeite noch daran.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Sie kaut auf ihrer Unterlippe herum. "Aha. Ich bin mir sicher, dass du damit zurückkommen wirst ... "</DefaultText>
+      <DefaultText>Sie kaut auf ihrer Unterlippe herum. „Aha. Ich bin mir sicher, dass du damit zurückkommen wirst&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Du hättest die Gesichter dieser feinen Pinkel sehen sollen, als ich eingezogen bin."</DefaultText>
+      <DefaultText>„Du hättest die Gesichter dieser feinen Pinkel sehen sollen, als ich eingezogen bin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Ich habe Thristwn fortgeschickt, er wird dich nicht mehr belästigen."</DefaultText>
+      <DefaultText>„Ich habe Thristwn fortgeschickt, er wird dich nicht mehr belästigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Serel senkt ihren Blick. "Ich wünschte, es wäre anders geendet, aber trotzdem danke. Ich hoffe, er findet Zufriedenheit in seinem neuen Leben, für was auch immer er sich entscheidet." Ihre Hand festigt ihren Griff um etwas, das unter ihrem Korsett verborgen liegt.</DefaultText>
+      <DefaultText>Serel senkt ihren Blick. „Ich wünschte, es wäre anders geendet, aber trotzdem danke. Ich hoffe, er findet Zufriedenheit in seinem neuen Leben, für was auch immer er sich entscheidet.“ Ihre Hand festigt ihren Griff um etwas, das unter ihrem Korsett verborgen liegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Ich fürchte, ich habe keine Zeit zum Plaudern. Zur Zeit bin ich mehr beschäftigt als jemals zuvor."</DefaultText>
+      <DefaultText>„Ich fürchte, ich habe keine Zeit zum Plaudern. Zur Zeit bin ich mehr beschäftigt als jemals zuvor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Zornig starrend packt sie ihr Korsett. "Nimm es mir doch selbst ab, du Feigling. Eher schmore ich in der Hölle, bevor ich dir meinen Schein in die Freiheit gebe."</DefaultText>
+      <DefaultText>Zornig starrend packt sie ihr Korsett. „Nimm es mir doch selbst ab, du Feigling. Eher schmore ich in der Hölle, bevor ich dir meinen Schein in die Freiheit gebe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -316,121 +316,121 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Ich werde diesen Ort endlich verlassen! Ich muss meine Sachen packen ... "</DefaultText>
+      <DefaultText>„Ich werde diesen Ort endlich verlassen! Ich muss meine Sachen packen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Sie zieht einen Mondsteinring vom Finger. "Bitte, nimm das. Bei den Leuten hier hat mir das immer einen Vorteil verschafft, aber mit diesem Teil meines Lebens bin ich fertig."</DefaultText>
+      <DefaultText>Sie zieht einen Mondsteinring vom Finger. „Bitte, nimm das. Bei den Leuten hier hat mir das immer einen Vorteil verschafft, aber mit diesem Teil meines Lebens bin ich fertig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Sie zieht einen Mondsteinring vom Finger. "Bitte, nimm das. Bei den Leuten hier hat mir das immer einen Vorteil verschafft, aber mit diesem Teil meines Lebens bin ich fertig."</DefaultText>
+      <DefaultText>Sie zieht einen Mondsteinring vom Finger. „Bitte, nimm das. Bei den Leuten hier hat mir das immer einen Vorteil verschafft, aber mit diesem Teil meines Lebens bin ich fertig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Thristwn wird dir keine Schwierigkeiten mehr machen."</DefaultText>
+      <DefaultText>„Thristwn wird dir keine Schwierigkeiten mehr machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Serel senkt ihren Blick. "Ich hoffe, damit meinst du nicht, was ich glaube ... "</DefaultText>
+      <DefaultText>Serel senkt ihren Blick. „Ich hoffe, damit meinst du nicht, was ich glaube&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Es tut mir leid. Ich wollte nicht gegen ihn kämpfen."</DefaultText>
+      <DefaultText>„Es tut mir leid. Ich wollte nicht gegen ihn kämpfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>[Lügen] "Er ging seines Weges. Das ist alles."</DefaultText>
+      <DefaultText>[Lügen] „Er ging seines Weges. Das ist alles.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Er ist tot. Er wollte dieses Medaillon einfach nicht aufgeben."</DefaultText>
+      <DefaultText>„Er ist tot. Er wollte dieses Medaillon einfach nicht aufgeben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Sie hält sich eine Hand vor den Mund. "Ich wollte niemals ... Ich wollte nur von hier weg." Sie zieht ein Medaillon unter ihrem Korsett hervor und betrachtet es. "Er sagte immer, dass ein Fluch diesen Reliquien folgt, wenn man sie aus ihren Ruinen entfernt. Meinst du, dass er damit Recht gehabt hat?"</DefaultText>
+      <DefaultText>Sie hält sich eine Hand vor den Mund. „Ich wollte niemals&#160;… Ich wollte nur von hier weg.“ Sie zieht ein Medaillon unter ihrem Korsett hervor und betrachtet es. „Er sagte immer, dass ein Fluch diesen Reliquien folgt, wenn man sie aus ihren Ruinen entfernt. Meinst du, dass er damit Recht gehabt hat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Nein."</DefaultText>
+      <DefaultText>„Nein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Verflucht oder nicht, du musst weitermachen."</DefaultText>
+      <DefaultText>„Verflucht oder nicht, du musst weitermachen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Wahrscheinlich."</DefaultText>
+      <DefaultText>„Wahrscheinlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Aha." Serel senkt ihren Blick. "Was für eine Schande, dass es so geendet ist, aber trotzdem danke. Ich hoffe, er findet Zufriedenheit in seinem neuen Leben, für was auch immer er sich entscheidet." Ihre Hand festigt ihren Griff um etwas, das unter ihrem Korsett verborgen liegt.</DefaultText>
+      <DefaultText>„Aha.“ Serel senkt ihren Blick. „Was für eine Schande, dass es so geendet ist, aber trotzdem danke. Ich hoffe, er findet Zufriedenheit in seinem neuen Leben, für was auch immer er sich entscheidet.“ Ihre Hand festigt ihren Griff um etwas, das unter ihrem Korsett verborgen liegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>Sie nickt langsam mit verschwommenen Augen. "Du hast wohl Recht."</DefaultText>
+      <DefaultText>Sie nickt langsam mit verschwommenen Augen. „Du hast wohl Recht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Serel lacht verbittert. "Gut zu sehen, dass wir beide uns meines Platzes sicher sind. Wie du wünschst."</DefaultText>
+      <DefaultText>Serel lacht verbittert. „Gut zu sehen, dass wir beide uns meines Platzes sicher sind. Wie du wünschst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Serel rollt mit ihren Augen und lehnt sich gegen einen Bettpfosten. "Endlich habe ich einen Weg aus diesem Leben gefunden. DAS bedeutet mir etwas."</DefaultText>
+      <DefaultText>Serel rollt mit ihren Augen und lehnt sich gegen einen Bettpfosten. „Endlich habe ich einen Weg aus diesem Leben gefunden. DAS bedeutet mir etwas.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Du weißt ganz genau, was ich meine. Thristwn wird niemals deine Gewissheit haben, solange er von seinem Clan getrennt ist."</DefaultText>
+      <DefaultText>„Du weißt ganz genau, was ich meine. Thristwn wird niemals deine Gewissheit haben, solange er von seinem Clan getrennt ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Das kann ich nicht bestreiten."</DefaultText>
+      <DefaultText>„Das kann ich nicht bestreiten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Sie reißt ihre geschminkten Augenlieder weit auf. "Ich hätte wissen müssen, dass du ... "</DefaultText>
+      <DefaultText>Sie reißt ihre geschminkten Augenlieder weit auf. „Ich hätte wissen müssen, dass du&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>Ihre zarten Lippen verzerren sich zu einem Knurren. "Das glaube ich dir keinen Augenblick."
+      <DefaultText>Ihre zarten Lippen verzerren sich zu einem Knurren. „Das glaube ich dir keinen Augenblick.“
 
-Sie hält sich eine Hand vor den Mund. "Ich wollte nur von hier weg." Sie zieht ein Medaillon unter ihrem Korsett hervor und betrachtet es. "Er sagte immer, dass ein Fluch diesen Reliquien folgt, wenn man sie aus ihren Ruinen entfernt. Meinst du, dass er damit Recht gehabt hat?"</DefaultText>
+Sie hält sich eine Hand vor den Mund. „Ich wollte nur von hier weg.“ Sie zieht ein Medaillon unter ihrem Korsett hervor und betrachtet es. „Er sagte immer, dass ein Fluch diesen Reliquien folgt, wenn man sie aus ihren Ruinen entfernt. Meinst du, dass er damit Recht gehabt hat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Ihre Schultern entspannen sich und ihr kokettes Lächeln kehrt zurück. "Ich wusste, du hast den richtigen Elan ... "</DefaultText>
+      <DefaultText>Ihre Schultern entspannen sich und ihr kokettes Lächeln kehrt zurück. „Ich wusste, du hast den richtigen Elan&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Sie wiegt den Beutel mit Kupfermünzen in ihren Händen. "Morgen schon könnte ich in einem schönen Häuschen in Farnheim sein." Sie schaut dich wieder an. "Danke. Ich hatte eigentlich nicht erwartet, dass du mir das Geld zurückzahlen würdest. Jetzt kann ich endlich von hier fort."
+      <DefaultText>Sie wiegt den Beutel mit Kupfermünzen in ihren Händen. „Morgen schon könnte ich in einem schönen Häuschen in Farnheim sein.“ Sie schaut dich wieder an. „Danke. Ich hatte eigentlich nicht erwartet, dass du mir das Geld zurückzahlen würdest. Jetzt kann ich endlich von hier fort.“
 
-"Da fällt mir ein ... "</DefaultText>
+„Da fällt mir ein&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Sie haben das gesamte Sanatorium niedergerissen! Und ich dachte, im Geschenk würde es schlimm zugehen ... "</DefaultText>
+      <DefaultText>„Sie haben das gesamte Sanatorium niedergerissen! Und ich dachte, im Geschenk würde es schlimm zugehen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

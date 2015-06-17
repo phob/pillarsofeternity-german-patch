@@ -6,23 +6,23 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Hast du über mein Angebot nachgedacht?"</DefaultText>
+      <DefaultText>„Hast du über mein Angebot nachgedacht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Mich zu kennen, mein Freund, kann nicht schaden."</DefaultText>
+      <DefaultText>„Mich zu kennen, mein Freund, kann nicht schaden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Woanders wirst du keine besseren Angeboten finden."</DefaultText>
+      <DefaultText>„Woanders wirst du keine besseren Angeboten finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ich warte auf Ihre Entscheidung, mein Fürst."</DefaultText>
-      <FemaleText>"Ich warte auf Ihre Entscheidung, meine Fürstin."</FemaleText>
+      <DefaultText>„Ich warte auf Ihre Entscheidung, mein Fürst.“</DefaultText>
+      <FemaleText>„Ich warte auf Ihre Entscheidung, meine Fürstin.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

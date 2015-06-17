@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Du siehst aus wie ein Jäger, Estramor. Derwns Waffen beschützen vielleicht den Mann, der das Missgeschick sucht - aber meine Waren helfen dir, in der Wildnis zu überleben."</DefaultText>
-      <FemaleText>"Du siehst aus wie eine Jägerin, Estramor. Derwns Waffen beschützen vielleicht die Frau, die das Missgeschick sucht - aber meine Waren helfen dir, in der Wildnis zu überleben."</FemaleText>
+      <DefaultText>„Du siehst aus wie ein Jäger, Estramor. Derwns Waffen beschützen vielleicht den Mann, der das Missgeschick sucht&#160;– aber meine Waren helfen dir, in der Wildnis zu überleben.“</DefaultText>
+      <FemaleText>„Du siehst aus wie eine Jägerin, Estramor. Derwns Waffen beschützen vielleicht die Frau, die das Missgeschick sucht&#160;– aber meine Waren helfen dir, in der Wildnis zu überleben.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Eine klug platzierte Falle kann das Blatt jeder Jagd wenden. Das weiß ich gewiss."</DefaultText>
+      <DefaultText>„Eine klug platzierte Falle kann das Blatt jeder Jagd wenden. Das weiß ich gewiss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Darf ich deine Waren sehen?"</DefaultText>
+      <DefaultText>„Darf ich deine Waren sehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Leb wohl."</DefaultText>
+      <DefaultText>„Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

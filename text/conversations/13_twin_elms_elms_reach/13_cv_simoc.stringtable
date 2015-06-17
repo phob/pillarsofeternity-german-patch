@@ -6,153 +6,153 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Ein greiser alter Elf, seine Haare geflochten und gefärbt, steht an einem Ende des Raumes. Seine Arme und Brust sind ein Geflecht von fahlen Narben. 
+      <DefaultText>Ein greiser alter Elf, seine Haare geflochten und gefärbt, steht an einem Ende des Raumes. Seine Arme und Brust sind ein Geflecht von fahlen Narben.
 
 Sein schiefes Lächeln ähnelt einer weiteren.
 
-"Nicht viele Estramorwn erhalten Zugang zu unserer heiligen Stadt. Bethwl muss heute besonders weichherzig sein."</DefaultText>
+„Nicht viele Estramorwn erhalten Zugang zu unserer heiligen Stadt. Bethwl muss heute besonders weichherzig sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Simoc verschränkt die Arme über seiner vernarbten Brust. "Sonst noch etwas?"</DefaultText>
+      <DefaultText>Simoc verschränkt die Arme über seiner vernarbten Brust. „Sonst noch etwas?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Er nickt dir knapp zu. "[Player Name]. Was kann ich heute für dich tun?"</DefaultText>
+      <DefaultText>Er nickt dir knapp zu. „[Player Name]. Was kann ich heute für dich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Du scheinst uns 'Estramorwn' nicht sehr zu mögen."</DefaultText>
+      <DefaultText>„Du scheinst uns ‚Estramorwn‘ nicht sehr zu mögen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Was ist Blutiger Sand?"</DefaultText>
+      <DefaultText>„Was ist Blutiger Sand?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Auf Wiedersehen."</DefaultText>
+      <DefaultText>„Auf Wiedersehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[Simoc den Essenztrank geben.] "Hier ist der Trank, um den du gebeten hast."</DefaultText>
+      <DefaultText>[Simoc den Essenztrank geben.] „Hier ist der Trank, um den du gebeten hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>Er streckt eine vom Alter und der Schlacht verkrüppelte Hand aus. Er hält sich die Phiole dicht vor ein trübes blaues Auge.
 
-"Auf die Errettung meines Stammes."
+„Auf die Errettung meines Stammes.“
 
-Er leert die Phiole mit einem langen Schluck. Als er dich wieder anblickt, leuchten seine Augen vor fanatischem Eifer. "Und auf dein Wohlergehen, Reisender. Möge es dir nutzen."</DefaultText>
+Er leert die Phiole mit einem langen Schluck. Als er dich wieder anblickt, leuchten seine Augen vor fanatischem Eifer. „Und auf dein Wohlergehen, Reisender. Möge es dir nutzen.“</DefaultText>
       <FemaleText>Er streckt eine vom Alter und der Schlacht verkrüppelte Hand aus. Er hält sich die Phiole dicht vor ein trübes blaues Auge.
 
-"Auf die Errettung meines Stammes."
+„Auf die Errettung meines Stammes.“
 
-Er leert die Phiole mit einem langen Schluck. Als er dich wieder anblickt, leuchten seine Augen vor fanatischem Eifer. "Und auf dein Wohlergehen, Reisende. Möge es dir nutzen."</FemaleText>
+Er leert die Phiole mit einem langen Schluck. Als er dich wieder anblickt, leuchten seine Augen vor fanatischem Eifer. „Und auf dein Wohlergehen, Reisende. Möge es dir nutzen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>Er streckt eine vom Alter und der Schlacht verkrüppelte Hand aus. Er hält sich die Phiole dicht vor ein trübes blaues Auge.
 
-"Auf die Errettung meines Stammes."
+„Auf die Errettung meines Stammes.“
 
-Er leert die Phiole mit einem langen Schluck. Er schluckt, würgt einige Sekunden lang und blickt dich dann zornig an. Sein Atem klingt kehlig und nass. "Du ... du hast mich vergiftet." Er beginnt, seine Hand zu den Kriegern im anderen Raum zu erheben.</DefaultText>
+Er leert die Phiole mit einem langen Schluck. Er schluckt, würgt einige Sekunden lang und blickt dich dann zornig an. Sein Atem klingt kehlig und nass. „Du&#160;… du hast mich vergiftet.“ Er beginnt, seine Hand zu den Kriegern im anderen Raum zu erheben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Willst du dich mit den Drei-Stoßzahn-Stelgaer anlegen?"</DefaultText>
+      <DefaultText>„Willst du dich mit den Drei-Stoßzahn-Stelgaer anlegen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[Simoc das Gift geben.] "Hier ist der Trank, um den du gebeten hast."</DefaultText>
+      <DefaultText>[Simoc das Gift geben.] „Hier ist der Trank, um den du gebeten hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Sei gegrüßt, [Player Name]. Ich-" Ein Hustenanfall überkommt ihn und er krümmt sich. 
+      <DefaultText>„Sei gegrüßt, [Player Name]. Ich&#160;–“ Ein Hustenanfall überkommt ihn und er krümmt sich.
 
-Als er sich wieder aufrichtet, hebt und senkt sich seine Brust mit gurgelnden Atemzügen. "Der Trank scheint noch immer ... unerwünschte Nebenwirkungen zu haben." Der misstrauische Blick auf seinem Gesicht verschwindet so schnell, wie er kam. "Was kann ich für dich tun?"</DefaultText>
+Als er sich wieder aufrichtet, hebt und senkt sich seine Brust mit gurgelnden Atemzügen. „Der Trank scheint noch immer&#160;… unerwünschte Nebenwirkungen zu haben.“ Der misstrauische Blick auf seinem Gesicht verschwindet so schnell, wie er kam. „Was kann ich für dich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Ich habe Fragen zu der Aufgabe, die du mir aufgetragen hast."</DefaultText>
+      <DefaultText>„Ich habe Fragen zu der Aufgabe, die du mir aufgetragen hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Willst du in Teir Evron deine Zukunft hören?" Sein Lächeln wird breiter und offenbart eine Reihe gelber, schiefer Zähne. "Oder bist du hier um sie im Blutigen Sand selbst zu bestimmen?"</DefaultText>
+      <DefaultText>„Willst du in Teir Evron deine Zukunft hören?“ Sein Lächeln wird breiter und offenbart eine Reihe gelber, schiefer Zähne. „Oder bist du hier um sie im Blutigen Sand selbst zu bestimmen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ein uralter Ort der Opferrituale." Er verschränkt seine Finger. "In einer Höhle bei den großen Ulmen."
+      <DefaultText>„Ein uralter Ort der Opferrituale.“ Er verschränkt seine Finger. „In einer Höhle bei den großen Ulmen.“
 
-"Rehstin und seine Druiden sind seit Generationen ein zentraler Bestandteil der glanfathanischen Gesellschaft ... ganz gleich, was einige der anderen Stämme sagen. Eir Glanfath konnte sich gegen die Estramorwn behaupten, weil manche von uns die Kraft des Opfers noch kennen."</DefaultText>
+„Rehstin und seine Druiden sind seit Generationen ein zentraler Bestandteil der glanfathanischen Gesellschaft&#160;… ganz gleich, was einige der anderen Stämme sagen. Eir Glanfath konnte sich gegen die Estramorwn behaupten, weil manche von uns die Kraft des Opfers noch kennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Er mustert dich prüfend. "Du dagegen ... du scheinst grausame Notwendigkeiten zu verstehen."</DefaultText>
+      <DefaultText>Er mustert dich prüfend. „Du dagegen&#160;… du scheinst grausame Notwendigkeiten zu verstehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Er mustert dich prüfend. "Bereitet der Gedanke dir Unbehagen? Das sollte er. Das hat unsere Gesellschaft so lange am Leben gehalten."</DefaultText>
+      <DefaultText>Er mustert dich prüfend. „Bereitet der Gedanke dir Unbehagen? Das sollte er. Das hat unsere Gesellschaft so lange am Leben gehalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Er mustert dich prüfend. "Aber du kennst die Ethik Nôl bereits bestens."</DefaultText>
+      <DefaultText>Er mustert dich prüfend. „Aber du kennst die Ethik Nôl bereits bestens.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Er mustert dich prüfend. "Deine Freunde, die Ovaten, haben das noch immer nicht erkannt."</DefaultText>
+      <DefaultText>Er mustert dich prüfend. „Deine Freunde, die Ovaten, haben das noch immer nicht erkannt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Erzähl mir etwas über die Drei-Stoßzahn-Stelgaer."</DefaultText>
+      <DefaultText>„Erzähl mir etwas über die Drei-Stoßzahn-Stelgaer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Der kühnste und wildeste der sechs großen Stämme von Eir Glanfath. Wir waren die ersten, die sich gegen die Estramorwn gewehrt haben, als diese vor zweihundert Jahren hier landeten."
+      <DefaultText>„Der kühnste und wildeste der sechs großen Stämme von Eir Glanfath. Wir waren die ersten, die sich gegen die Estramorwn gewehrt haben, als diese vor zweihundert Jahren hier landeten.“
 
-Er hebt sein Kinn. "Wir waren schon immer der Grenzstamm. Und es war schon immer unsere Aufgabe, Fremde und Invasoren abzuhalten."</DefaultText>
+Er hebt sein Kinn. „Wir waren schon immer der Grenzstamm. Und es war schon immer unsere Aufgabe, Fremde und Invasoren abzuhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Was tust du hier?"</DefaultText>
+      <DefaultText>„Was tust du hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Als Anamfath der Drei-Stoßzahn-Stelgaer führe ich unseren Stamm in allen Angelegenheiten."
+      <DefaultText>„Als Anamfath der Drei-Stoßzahn-Stelgaer führe ich unseren Stamm in allen Angelegenheiten.“
 
-Er blickt zum Hauptraum der Hütte, wo andere sich versammelt haben. "Ich bin in Zwillingsulmen, um mit einigen der anderen Anamfatha über die Onolfên zu beraten - was ihr Hohlgeburten nennt. Wir haben hier nur sehr selten solche Geburten, aber es hat uns wachsamer gemacht, was unsere Nachbarn anbelangt."
+Er blickt zum Hauptraum der Hütte, wo andere sich versammelt haben. „Ich bin in Zwillingsulmen, um mit einigen der anderen Anamfatha über die Onolfên zu beraten&#160;– was ihr Hohlgeburten nennt. Wir haben hier nur sehr selten solche Geburten, aber es hat uns wachsamer gemacht, was unsere Nachbarn anbelangt.“
 
 Ein Stelgaer reckt sich und lässt seine Krallen spielen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Simoc kneift die Augen zusammen. "Einige von uns glauben, dass eure Onolfên eine Strafe für die Schändung der Stätten der Erbauer seien. Andere sagen, es sei eine Pest, die von den Estramorwn verbreitet wird."</DefaultText>
+      <DefaultText>Simoc kneift die Augen zusammen. „Einige von uns glauben, dass eure Onolfên eine Strafe für die Schändung der Stätten der Erbauer seien. Andere sagen, es sei eine Pest, die von den Estramorwn verbreitet wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Hiravias lehnt sich zu dir und flüstert dir etwas zu. "So häufig wie sie über alte Schlachten sprechen, sollte man meinen, sie sind der Drei-Stoßzahn-Märtyrer-Stamm. Sie sind in der Tat wild und ihre Geschichte ist voller glorreicher Taten. Manchmal glaube ich, sie würden die anderen Stämme bekämpfen, wenn sie keine Eindringlinge jagen könnten."</DefaultText>
+      <DefaultText>Hiravias lehnt sich zu dir und flüstert dir etwas zu. „So häufig wie sie über alte Schlachten sprechen, sollte man meinen, sie sind der Drei-Stoßzahn-Märtyrer-Stamm. Sie sind in der Tat wild und ihre Geschichte ist voller glorreicher Taten. Manchmal glaube ich, sie würden die anderen Stämme bekämpfen, wenn sie keine Eindringlinge jagen könnten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -162,220 +162,220 @@ Ein Stelgaer reckt sich und lässt seine Krallen spielen.</DefaultText>
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Die Leute machen daraus, was sie möchten. Und wenn es endet ... falls es endet ... erfinden sie auch dafür Gründe."</DefaultText>
+      <DefaultText>„Die Leute machen daraus, was sie möchten. Und wenn es endet&#160;… falls es endet&#160;… erfinden sie auch dafür Gründe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Eine Pest der Seele? Ein interessanter Gedanke, doch über die Grenzen des Dyrwalds hinaus hat es sich noch nicht ausgebreitet."</DefaultText>
+      <DefaultText>„Eine Pest der Seele? Ein interessanter Gedanke, doch über die Grenzen des Dyrwalds hinaus hat es sich noch nicht ausgebreitet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Alles Antworten, die in ihr Bild des Hasses passen. Es gibt keinen Grund, auch nur ein Wort davon zu glauben."</DefaultText>
+      <DefaultText>„Alles Antworten, die in ihr Bild des Hasses passen. Es gibt keinen Grund, auch nur ein Wort davon zu glauben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Er richtet seine zusammengesunkenen Schultern auf. "Ich habe im Krieg des Zerbrochenen Steins und im Krieg der Schwarzen Bäume gekämpft. Ich habe gesehen, wie meine Brüder niedergestreckt wurden, als sie die Stätten der Erbauer verteidigten, und ich habe neben Galven Regd selbst Blut vergossen."</DefaultText>
+      <DefaultText>Er richtet seine zusammengesunkenen Schultern auf. „Ich habe im Krieg des Zerbrochenen Steins und im Krieg der Schwarzen Bäume gekämpft. Ich habe gesehen, wie meine Brüder niedergestreckt wurden, als sie die Stätten der Erbauer verteidigten, und ich habe neben Galven Regd selbst Blut vergossen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Er hustet. "Nun scheinen die Estramorwn zu glauben, dass sie an unseren heiligen Stätten ein Heilmittel für ihre leeren Kinder finden können. Oder schlimmer noch, dass sie in unseren Landen Zuflucht finden könnten."
+      <DefaultText>Er hustet. „Nun scheinen die Estramorwn zu glauben, dass sie an unseren heiligen Stätten ein Heilmittel für ihre leeren Kinder finden können. Oder schlimmer noch, dass sie in unseren Landen Zuflucht finden könnten.“
 
-Sein Blick verdüstert sich. "Und ich habe gesehen, was geschieht, wenn sie nach glanfathanischem Boden gieren."</DefaultText>
+Sein Blick verdüstert sich. „Und ich habe gesehen, was geschieht, wenn sie nach glanfathanischem Boden gieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Und das beunruhigt dich?"</DefaultText>
+      <DefaultText>„Und das beunruhigt dich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Hab Mitleid. Sie versuchen nur, ihre Kinder zu retten."</DefaultText>
+      <DefaultText>„Hab Mitleid. Sie versuchen nur, ihre Kinder zu retten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Dann müsst ihr euch wehren. Gebt ihnen einen Grund, fernzubleiben."</DefaultText>
+      <DefaultText>„Dann müsst ihr euch wehren. Gebt ihnen einen Grund, fernzubleiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ist denn nicht genug Platz für beide Völker?"</DefaultText>
+      <DefaultText>„Ist denn nicht genug Platz für beide Völker?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Und wenn die Estramorwn eine gewaltsame Invasion unternehmen und ihre Pest hierher tragen, was ist dann mit unseren Kindern?"</DefaultText>
+      <DefaultText>„Und wenn die Estramorwn eine gewaltsame Invasion unternehmen und ihre Pest hierher tragen, was ist dann mit unseren Kindern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Er schnaubt. "Ich habe schon zu viele Kriege gesehen, um nicht beunruhigt zu sein."</DefaultText>
+      <DefaultText>Er schnaubt. „Ich habe schon zu viele Kriege gesehen, um nicht beunruhigt zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Simocs Blick ist fest und gefährlich. "Sei gewarnt, Estramor. Ich habe heute wenig Geduld, nachdem ich von dem Massaker in Blutiger Sand erfahren habe."</DefaultText>
+      <DefaultText>Simocs Blick ist fest und gefährlich. „Sei gewarnt, Estramor. Ich habe heute wenig Geduld, nachdem ich von dem Massaker in Blutiger Sand erfahren habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Was ist passiert?"</DefaultText>
+      <DefaultText>„Was ist passiert?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Die Haare des alten Mannes sind zerzaust, sein Gesicht von alten Narben und frischem Zorn entstellt. "Ermordet. Fast alle Druiden der Ethik Nôl, neben ihren Altaren in Blutiger Sand niedergemetzelt. Und niemand kennt den Schuldigen."
+      <DefaultText>Die Haare des alten Mannes sind zerzaust, sein Gesicht von alten Narben und frischem Zorn entstellt. „Ermordet. Fast alle Druiden der Ethik Nôl, neben ihren Altaren in Blutiger Sand niedergemetzelt. Und niemand kennt den Schuldigen.“
 
-Er schüttelt zornig den Kopf. "Diese Narren vom Kompass der Führung frohlocken. Sie begreifen nicht, was wir verloren haben."</DefaultText>
+Er schüttelt zornig den Kopf. „Diese Narren vom Kompass der Führung frohlocken. Sie begreifen nicht, was wir verloren haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Es gehört den Druiden der Ethik Nôl. Viele fanden ihre Praktiken und Opfer zwar verstörend, doch sie haben uns Kriegsbemalung mit mächtigen Eigenschaften beschert."
+      <DefaultText>„Es gehört den Druiden der Ethik Nôl. Viele fanden ihre Praktiken und Opfer zwar verstörend, doch sie haben uns Kriegsbemalung mit mächtigen Eigenschaften beschert.“
 
-Er schüttelt den Kopf. "Diesen Ort zu verlieren, wo die Estramorwn vor unseren Toren stehen ... das wird uns kosten."</DefaultText>
+Er schüttelt den Kopf. „Diesen Ort zu verlieren, wo die Estramorwn vor unseren Toren stehen&#160;… das wird uns kosten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Er lächelt langsam. "Du verstehst mich gut. Vielleicht warst du in einem anderen Leben einmal ein Drei-Stoßzahn-Stelgaer."
+      <DefaultText>Er lächelt langsam. „Du verstehst mich gut. Vielleicht warst du in einem anderen Leben einmal ein Drei-Stoßzahn-Stelgaer.“
 
-"Deine Wildheit ist ungewöhnlich unter Estramorwn. Vielleicht kannst du meine Lage verstehen."</DefaultText>
+„Deine Wildheit ist ungewöhnlich unter Estramorwn. Vielleicht kannst du meine Lage verstehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Er schnaubt. "In zweihundert Jahren sind Trutzbucht und Neu-Heomar aus ihren schiefen Pflastersteinen herausgewachsen. Sie brechen auf wie aufgedunsene Leichen."
+      <DefaultText>Er schnaubt. „In zweihundert Jahren sind Trutzbucht und Neu-Heomar aus ihren schiefen Pflastersteinen herausgewachsen. Sie brechen auf wie aufgedunsene Leichen.“
 
-"Nein. Sie in unser Land einzuladen ... wäre unser Ende."</DefaultText>
+„Nein. Sie in unser Land einzuladen&#160;… wäre unser Ende.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Er betrachtet dich. "Du könntest helfen. Nur wenige haben die Nerven dazu, aber ich denke, es wäre genau richtig für jemanden mit deinen ... Neigungen."</DefaultText>
+      <DefaultText>Er betrachtet dich. „Du könntest helfen. Nur wenige haben die Nerven dazu, aber ich denke, es wäre genau richtig für jemanden mit deinen&#160;… Neigungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Er betrachtet dich. "Du könntest helfen. Nur wenige haben die Nerven dazu, aber ich denke, du bist klug genug, um zu wissen, dass manche Dinge nötig sind, auch wenn sie noch so unangenehm sind."</DefaultText>
+      <DefaultText>Er betrachtet dich. „Du könntest helfen. Nur wenige haben die Nerven dazu, aber ich denke, du bist klug genug, um zu wissen, dass manche Dinge nötig sind, auch wenn sie noch so unangenehm sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Er betrachtet dich. "Bethwl sah etwas in dir, als sie dir unsere Tore öffnete. Und du hast hier heiligen Boden gesehen, wie nur wenige Estramorwn vor dir."
+      <DefaultText>Er betrachtet dich. „Bethwl sah etwas in dir, als sie dir unsere Tore öffnete. Und du hast hier heiligen Boden gesehen, wie nur wenige Estramorwn vor dir.“
 
-"Ich hoffe, du verstehst, dass ich das beschützen muss."</DefaultText>
+„Ich hoffe, du verstehst, dass ich das beschützen muss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"In meinen zweihundertfünfzig Jahren habe ich mein Volk durch zwei Kriege geführt. Unsere Grenzen sind bestehen geblieben, zu großen Teilen dank des Rufs der Drei-Stoßzahn-Stelgaer."
+      <DefaultText>„In meinen zweihundertfünfzig Jahren habe ich mein Volk durch zwei Kriege geführt. Unsere Grenzen sind bestehen geblieben, zu großen Teilen dank des Rufs der Drei-Stoßzahn-Stelgaer.“
 
-Seine Stimme senkt sich zu einem Knurren. "Ich habe ein Dutzend Kinder hervorgebracht, doch keines von ihnen wurde als würdig erachtet, meinen Platz einzunehmen. Ich schere mich nicht um mein 'Vermächtnis', von dem die Fürsten der Estramorwn stets so besessen sind, doch es ist wichtig, dass mein Nachfolger diesen Weg weiterverfolgt."</DefaultText>
+Seine Stimme senkt sich zu einem Knurren. „Ich habe ein Dutzend Kinder hervorgebracht, doch keines von ihnen wurde als würdig erachtet, meinen Platz einzunehmen. Ich schere mich nicht um mein ‚Vermächtnis‘, von dem die Fürsten der Estramorwn stets so besessen sind, doch es ist wichtig, dass mein Nachfolger diesen Weg weiterverfolgt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Ist deine Rolle vererbbar?"</DefaultText>
+      <DefaultText>„Ist deine Rolle vererbbar?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Wenn deine Kinder nicht auf dich folgen, was geschieht dann?"</DefaultText>
+      <DefaultText>„Wenn deine Kinder nicht auf dich folgen, was geschieht dann?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Nicht ganz. Wir glauben, dass die Seelen unserer Ahnen zu uns zurückkommen, dass eine starke Seele viele weitere tragen kann. Aber alle Seelen müssen durch unsere Ältesten geprüft werden."
+      <DefaultText>„Nicht ganz. Wir glauben, dass die Seelen unserer Ahnen zu uns zurückkommen, dass eine starke Seele viele weitere tragen kann. Aber alle Seelen müssen durch unsere Ältesten geprüft werden.“
 
-"Die Rîow suchten zuerst unter meinen Kindern nach einem Nachfolger, doch ihre Seelen waren schwach. Für gewöhnlich würden sie sich an andere innerhalb meines Stammes wenden, an Clanführer und deren Familien."</DefaultText>
+„Die Rîow suchten zuerst unter meinen Kindern nach einem Nachfolger, doch ihre Seelen waren schwach. Für gewöhnlich würden sie sich an andere innerhalb meines Stammes wenden, an Clanführer und deren Familien.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Für gewöhnlich würden die Rîow sich an andere innerhalb meines Stammes wenden, an Clanführer und deren Familien."</DefaultText>
+      <DefaultText>„Für gewöhnlich würden die Rîow sich an andere innerhalb meines Stammes wenden, an Clanführer und deren Familien.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Für gewöhnlich." Er blickt geradeaus.
+      <DefaultText>„Für gewöhnlich.“ Er blickt geradeaus.
 
-"Aber wir teilen die Tradition, Kinder anderer Stämme als Ziehkinder aufzunehmen, und der Anamfath der Fischerkraniche hat sein jüngstes Kind in meine Obhut gegeben." 
+„Aber wir teilen die Tradition, Kinder anderer Stämme als Ziehkinder aufzunehmen, und der Anamfath der Fischerkraniche hat sein jüngstes Kind in meine Obhut gegeben.“
 
-Er zieht eine Grimasse. "Und da mein eigen Fleisch und Blut nicht würdig ist, meinen Platz einzunehmen, werden die Rîow als nächstes dieses Sumpfkind in Erwägung ziehen, den Nachfahren eines anderen Anamfath und meine Ziehtochter."</DefaultText>
+Er zieht eine Grimasse. „Und da mein eigen Fleisch und Blut nicht würdig ist, meinen Platz einzunehmen, werden die Rîow als nächstes dieses Sumpfkind in Erwägung ziehen, den Nachfahren eines anderen Anamfath und meine Ziehtochter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Kannst du sie nicht einfach zurück zu ihrer Familie schicken?"</DefaultText>
+      <DefaultText>„Kannst du sie nicht einfach zurück zu ihrer Familie schicken?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Sumpfkind?"</DefaultText>
+      <DefaultText>„Sumpfkind?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Ich verstehe das Problem nicht."</DefaultText>
+      <DefaultText>„Ich verstehe das Problem nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Er schüttelt langsam den Kopf. "Das wäre eine grobe Beleidigung für die Fischerkraniche. Es würde schwere Konflikte mit den anderen Anamfatha nach sich ziehen."
+      <DefaultText>Er schüttelt langsam den Kopf. „Das wäre eine grobe Beleidigung für die Fischerkraniche. Es würde schwere Konflikte mit den anderen Anamfatha nach sich ziehen.“
 
-"Ich habe keinen Zweifel, dass sie eine gute Anführerin abgeben würde, aber nicht für die Drei-Stoßzahn-Stelgaer."</DefaultText>
+„Ich habe keinen Zweifel, dass sie eine gute Anführerin abgeben würde, aber nicht für die Drei-Stoßzahn-Stelgaer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Die Orlaner der Fischerkraniche leben seit eintausend Jahren im Theinsumpf. Sie sind von Natur aus listig und hinterhältig, was ein großer Vorteil ist, wenn ein Sumpfland ihnen hilft, ihre Bewegungen zu verbergen."
+      <DefaultText>„Die Orlaner der Fischerkraniche leben seit eintausend Jahren im Theinsumpf. Sie sind von Natur aus listig und hinterhältig, was ein großer Vorteil ist, wenn ein Sumpfland ihnen hilft, ihre Bewegungen zu verbergen.“
 
-Er verschränkt die Arme. "Aber das wird die Estramorwn auf offenem Gelände nicht abhalten."</DefaultText>
+Er verschränkt die Arme. „Aber das wird die Estramorwn auf offenem Gelände nicht abhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Er deutet auf die Krieger, die sich um das Feuer versammelt haben. "Unsere Wildheit hat die Estramorwn vor weiteren Übergriffen zurückschrecken lassen. Sie berichten noch immer von unseren Taten im Krieg des Zerbrochenen Steins. Aber wenn ein Kind der Fischerkraniche unseren Stamm anführt, verlieren wir diese Kühnheit ... und die Estramorwn verlieren ihre Furcht vor uns."
+      <DefaultText>Er deutet auf die Krieger, die sich um das Feuer versammelt haben. „Unsere Wildheit hat die Estramorwn vor weiteren Übergriffen zurückschrecken lassen. Sie berichten noch immer von unseren Taten im Krieg des Zerbrochenen Steins. Aber wenn ein Kind der Fischerkraniche unseren Stamm anführt, verlieren wir diese Kühnheit&#160;… und die Estramorwn verlieren ihre Furcht vor uns.“
 
-"Das Kind wird von den Seelen seiner Ahnen beeinflusst. In Krisenzeiten wird sie ihre Verwandten im Theinsumpf um Rat bitten. Was ich auch versuche, ihr beizubringen, es wird nicht reichen."</DefaultText>
+„Das Kind wird von den Seelen seiner Ahnen beeinflusst. In Krisenzeiten wird sie ihre Verwandten im Theinsumpf um Rat bitten. Was ich auch versuche, ihr beizubringen, es wird nicht reichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Seine Körperhaltung versteift sich. "Ich habe großen Respekt vor den Fischerkranichen. Aber ihre Gepflogenheiten sind nicht die unseren."</DefaultText>
+      <DefaultText>Seine Körperhaltung versteift sich. „Ich habe großen Respekt vor den Fischerkranichen. Aber ihre Gepflogenheiten sind nicht die unseren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Er betrachtet dich. "Du könntest helfen. Zumal die Ethik Nôl dich bereits kennen und respektieren."</DefaultText>
+      <DefaultText>Er betrachtet dich. „Du könntest helfen. Zumal die Ethik Nôl dich bereits kennen und respektieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Er betrachtet dich. "Du könntest helfen. Wenn du dein weiches Herz dazu bringen kannst, etwas Schwieriges ... aber Notwendiges zu tun."</DefaultText>
+      <DefaultText>Er betrachtet dich. „Du könntest helfen. Wenn du dein weiches Herz dazu bringen kannst, etwas Schwieriges&#160;… aber Notwendiges zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Du hast den Reißzähnen geholfen, die fremde Expedition zu verjagen. Du verstehst gewiss, was für uns auf dem Spiel steht."</DefaultText>
+      <DefaultText>„Du hast den Reißzähnen geholfen, die fremde Expedition zu verjagen. Du verstehst gewiss, was für uns auf dem Spiel steht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Diese Orlanerin hat die Seele eines Anführers. Würde sie auf eines meiner Kinder übertragen werden, würde unser Stamm stark bleiben."
+      <DefaultText>„Diese Orlanerin hat die Seele eines Anführers. Würde sie auf eines meiner Kinder übertragen werden, würde unser Stamm stark bleiben.“
 
-Ein Stelgaer an Simocs Seite reibt seinen gewaltigen Kopf am Bein des Anamfaths. Er bleibt fest stehen, ohne zu schwanken. "Die Druiden in Blutiger Sand können dies bewerkstelligen, und sie verstehen, wie wichtig eine starke Nachfolgelinie für die Drei-Stoßzahn-Stelgaer ist."</DefaultText>
+Ein Stelgaer an Simocs Seite reibt seinen gewaltigen Kopf am Bein des Anamfaths. Er bleibt fest stehen, ohne zu schwanken. „Die Druiden in Blutiger Sand können dies bewerkstelligen, und sie verstehen, wie wichtig eine starke Nachfolgelinie für die Drei-Stoßzahn-Stelgaer ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Sprich weiter."</DefaultText>
+      <DefaultText>„Sprich weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -385,133 +385,133 @@ Ein Stelgaer an Simocs Seite reibt seinen gewaltigen Kopf am Bein des Anamfaths.
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Worauf willst du hinaus?"</DefaultText>
+      <DefaultText>„Worauf willst du hinaus?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Er gibt dir einen Schlüssel. "Es gibt ein Haus im Südosten von Herdlied, neben dem Fluss. Das Kind wird schlafen, und ich habe dafür gesorgt, dass sie einige Zeit lang ... unbeaufsichtigt ist."
+      <DefaultText>Er gibt dir einen Schlüssel. „Es gibt ein Haus im Südosten von Herdlied, neben dem Fluss. Das Kind wird schlafen, und ich habe dafür gesorgt, dass sie einige Zeit lang&#160;… unbeaufsichtigt ist.“
 
-Seine Stimme wird zu einem leisen Grollen. "Nimm sie und bringe sie zu Hüterin Wrdha in Blutiger Sand. Sie weiß, was zu tun ist. Wenn sie dir die flüssige Essenz gibt, bring sie mir."</DefaultText>
+Seine Stimme wird zu einem leisen Grollen. „Nimm sie und bringe sie zu Hüterin Wrdha in Blutiger Sand. Sie weiß, was zu tun ist. Wenn sie dir die flüssige Essenz gibt, bring sie mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Also gut, ich helfe dir."</DefaultText>
+      <DefaultText>„Also gut, ich helfe dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Das werde ich nicht tun."</DefaultText>
+      <DefaultText>„Das werde ich nicht tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Bist du verrückt? Unter keinen Umständen helfe ich dir, ein Kind zu ermorden."</DefaultText>
+      <DefaultText>„Bist du verrückt? Unter keinen Umständen helfe ich dir, ein Kind zu ermorden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Was wird Hüterin Wrdha mit dem Kind tun?"</DefaultText>
+      <DefaultText>„Was wird Hüterin Wrdha mit dem Kind tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Ich weiß nicht, warum du mich dafür brauchst."</DefaultText>
+      <DefaultText>„Ich weiß nicht, warum du mich dafür brauchst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Wie kannst du erwarten, dass du damit durchkommst?"</DefaultText>
+      <DefaultText>„Wie kannst du erwarten, dass du damit durchkommst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Sein vernarbtes Gesicht verzerrt sich wieder. "Hast du die Rituale in Blutiger Sand je gesehen? Sie wird sie opfern. Es ist die einzige Möglichkeit, ihre Essenz zu extrahieren."</DefaultText>
+      <DefaultText>Sein vernarbtes Gesicht verzerrt sich wieder. „Hast du die Rituale in Blutiger Sand je gesehen? Sie wird sie opfern. Es ist die einzige Möglichkeit, ihre Essenz zu extrahieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Weil ich es nicht tun kann, ohne ungewollte Aufmerksamkeit zu erregen." Er runzelt die Stirn. "Es missfällt mir, meine Last jemand anderem aufzubürden, aber würde man mich ertappen, würde das zu einem Krieg zwischen unseren Stämmen führen."</DefaultText>
+      <DefaultText>„Weil ich es nicht tun kann, ohne ungewollte Aufmerksamkeit zu erregen.“ Er runzelt die Stirn. „Es missfällt mir, meine Last jemand anderem aufzubürden, aber würde man mich ertappen, würde das zu einem Krieg zwischen unseren Stämmen führen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Was ist das für ein Trank, den du von Wrdha brauchst?"</DefaultText>
+      <DefaultText>„Was ist das für ein Trank, den du von Wrdha brauchst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Essenz, gebunden und in eine Flüssigkeit destilliert. Sie wird nur wenig unmittelbare Wirkung auf mich haben, aber in meinen zukünftigen Nachfahren wird sie eine stärkere Seele weben."</DefaultText>
+      <DefaultText>„Essenz, gebunden und in eine Flüssigkeit destilliert. Sie wird nur wenig unmittelbare Wirkung auf mich haben, aber in meinen zukünftigen Nachfahren wird sie eine stärkere Seele weben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Nur wenige wissen, dass das Mädchen hier ist, und ein orlanischer Säugling sieht aus wie der andere." Er zuckt mit den Achseln.
+      <DefaultText>„Nur wenige wissen, dass das Mädchen hier ist, und ein orlanischer Säugling sieht aus wie der andere.“ Er zuckt mit den Achseln.
 
-"Aber lass das meine Sorge sein."</DefaultText>
+„Aber lass das meine Sorge sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Er nickt. "Du bist ein Freund des glanfathanischen Volks. Handle schnell und leise, Estramor."</DefaultText>
-      <FemaleText>Er nickt. "Du bist eine Freundin des glanfathanischen Volks. Handle schnell und leise, Estramor."</FemaleText>
+      <DefaultText>Er nickt. „Du bist ein Freund des glanfathanischen Volks. Handle schnell und leise, Estramor.“</DefaultText>
+      <FemaleText>Er nickt. „Du bist eine Freundin des glanfathanischen Volks. Handle schnell und leise, Estramor.“</FemaleText>
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Wo finde ich das Kind doch gleich?"</DefaultText>
+      <DefaultText>„Wo finde ich das Kind doch gleich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Sie ist in einem Haus in Herdlied. Folge dem Weg zur südöstlichen Seite des Bezirks, bis du den Fluss erreichst."</DefaultText>
+      <DefaultText>„Sie ist in einem Haus in Herdlied. Folge dem Weg zur südöstlichen Seite des Bezirks, bis du den Fluss erreichst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Das ist alles."</DefaultText>
+      <DefaultText>„Das ist alles.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Er nickt. "Diese Aufgabe ist bedauerlich. Sie ist aber auch nötig."</DefaultText>
+      <DefaultText>Er nickt. „Diese Aufgabe ist bedauerlich. Sie ist aber auch nötig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Ich habe keine Freude daran. Aber in zwei Jahrhunderten als Anführer habe ich gelernt, dass alles einen Preis hat."
+      <DefaultText>„Ich habe keine Freude daran. Aber in zwei Jahrhunderten als Anführer habe ich gelernt, dass alles einen Preis hat.“
 
-Er nickt einmal. "Denke gut darüber nach, Estramor. Ich scheue nicht, jene zu belohnen, die mir von Nutzen sind."</DefaultText>
+Er nickt einmal. „Denke gut darüber nach, Estramor. Ich scheue nicht, jene zu belohnen, die mir von Nutzen sind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>[Angreifen] "Heute endet deine Dynastie."</DefaultText>
+      <DefaultText>[Angreifen] „Heute endet deine Dynastie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Dafür sollte ich dich töten."</DefaultText>
+      <DefaultText>„Dafür sollte ich dich töten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Die Stelgaers an seiner Seite knurren. "Von meinen besten Kriegern umgeben? Das wäre unklug."</DefaultText>
+      <DefaultText>Die Stelgaers an seiner Seite knurren. „Von meinen besten Kriegern umgeben? Das wäre unklug.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Das orlanische Kind? Sprich weiter."</DefaultText>
+      <DefaultText>„Das orlanische Kind? Sprich weiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Edér beachtet den Elf nicht. Stattdessen starrt er den Stelgaer vor sich an. Er flüstert dir zu: "Ob er wohl etwas dagegen hätte, wenn ich seinen Stelgaer streichle?"</DefaultText>
+      <DefaultText>Edér beachtet den Elf nicht. Stattdessen starrt er den Stelgaer vor sich an. Er flüstert dir zu: „Ob er wohl etwas dagegen hätte, wenn ich seinen Stelgaer streichle?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Nun, äh - da, wo ich herkomme ... heißt einen Stelgaer streicheln nicht das, was du glaubst ..."</DefaultText>
+      <DefaultText>„Nun, äh&#160;– da, wo ich herkomme&#160;… heißt einen Stelgaer streicheln nicht das, was du glaubst&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -521,26 +521,26 @@ Er nickt einmal. "Denke gut darüber nach, Estramor. Ich scheue nicht, jene zu b
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Nach allem, was wir gesehen haben, könnte es in diesen heiligen Stätten ein Heilmittel geben."
+      <DefaultText>„Nach allem, was wir gesehen haben, könnte es in diesen heiligen Stätten ein Heilmittel geben.“
 
-"Sie beschützen diese Stätten, weil es ihnen jemand aufgetragen hat. Man wünschte, sie hätten nur ein einziges Mal die Kraft, es zu hinterfragen."</DefaultText>
+„Sie beschützen diese Stätten, weil es ihnen jemand aufgetragen hat. Man wünschte, sie hätten nur ein einziges Mal die Kraft, es zu hinterfragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Sie sind verzweifelt. Die Besten unter ihnen wollen ein Heilmittel finden. Die Schlimmsten suchen eine Ausrede, die Stätten zu plündern."</DefaultText>
+      <DefaultText>„Sie sind verzweifelt. Die Besten unter ihnen wollen ein Heilmittel finden. Die Schlimmsten suchen eine Ausrede, die Stätten zu plündern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Nun, er hat in gewisser Weise RECHT", murmelt Hiravias leise. "Man lernt, seinen Nachbarn nicht zu trauen, wenn sie über Generationen hinweg wieder und wieder dein Land schänden."
+      <DefaultText>„Nun, er hat in gewisser Weise RECHT“, murmelt Hiravias leise. „Man lernt, seinen Nachbarn nicht zu trauen, wenn sie über Generationen hinweg wieder und wieder dein Land schänden.“
 
-Hiravias verschränkt die Arme und zuckt mit den Schultern. "Er hat allen Grund, sich zu sorgen."</DefaultText>
+Hiravias verschränkt die Arme und zuckt mit den Schultern. „Er hat allen Grund, sich zu sorgen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Schön wäre es!", ruft Hiravias. "Dieses junge Fischerkranich-Mädchen ist ein großartiges Geschenk - du solltest dankbar sein!" Hiravias' Stimme wird zu einem leisen Flüstern. "Vor allem angesichts der ... Schwäche in deiner Familie."</DefaultText>
+      <DefaultText>„Schön wäre es!“, ruft Hiravias. „Dieses junge Fischerkranich-Mädchen ist ein großartiges Geschenk&#160;– du solltest dankbar sein!“ Hiravias’ Stimme wird zu einem leisen Flüstern. „Vor allem angesichts der&#160;… Schwäche in deiner Familie.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -550,32 +550,32 @@ Hiravias verschränkt die Arme und zuckt mit den Schultern. "Er hat allen Grund,
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Meine Erfahrung zeigt: Entscheidet jemand in einer Machtposition, dass er etwas haben will, was nicht ihm gehört, so lässt er sich nicht davon abbringen."</DefaultText>
+      <DefaultText>„Meine Erfahrung zeigt: Entscheidet jemand in einer Machtposition, dass er etwas haben will, was nicht ihm gehört, so lässt er sich nicht davon abbringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Als die Republiken noch jung waren, schickten wir Erkundungstrupps in den Theinsumpf, um einen schnelleren Weg zum Zwergenkönigreich der Weißmark zu finden. Kaum einer kehrte zurück."</DefaultText>
+      <DefaultText>„Als die Republiken noch jung waren, schickten wir Erkundungstrupps in den Theinsumpf, um einen schnelleren Weg zum Zwergenkönigreich der Weißmark zu finden. Kaum einer kehrte zurück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>Hiravias' Augen weiten sich angesichts dieser Bemerkung. "Niemand verspottet die Fischerkraniche außer mir", murmelt er leise und streckt seine Finger zu Krallen aus. "Aber ich gestehe ein, dass mein Stamm ... klug genug ist ... auf die sinnlosen Taktiken eines gerechten Kampfs zu verzichten."</DefaultText>
+      <DefaultText>Hiravias’ Augen weiten sich angesichts dieser Bemerkung. „Niemand verspottet die Fischerkraniche außer mir“, murmelt er leise und streckt seine Finger zu Krallen aus. „Aber ich gestehe ein, dass mein Stamm&#160;… klug genug ist&#160;… auf die sinnlosen Taktiken eines gerechten Kampfs zu verzichten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Eine zu harte Zusammenfassung, nach allem, was ich gelesen habe. Man muss zwischen den Zeilen lesen, die Berichte all der frustrierten aedyrischen Kommandanten über den unsichtbaren Feind, der ihre Truppen heimsucht. Ein wenig Sabotage und einige kluge Hinterhalte können in jedem Konflikt das Blatt wenden."</DefaultText>
+      <DefaultText>„Eine zu harte Zusammenfassung, nach allem, was ich gelesen habe. Man muss zwischen den Zeilen lesen, die Berichte all der frustrierten aedyrischen Kommandanten über den unsichtbaren Feind, der ihre Truppen heimsucht. Ein wenig Sabotage und einige kluge Hinterhalte können in jedem Konflikt das Blatt wenden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Da wäre ich mir nicht so sicher. Der unsichtbare Feind löst größere Furcht aus."</DefaultText>
+      <DefaultText>„Da wäre ich mir nicht so sicher. Der unsichtbare Feind löst größere Furcht aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Du unterschätzt, was eine Handvoll gut versteckte Bogenschützen anrichten können."</DefaultText>
+      <DefaultText>„Du unterschätzt, was eine Handvoll gut versteckte Bogenschützen anrichten können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -585,32 +585,32 @@ Hiravias verschränkt die Arme und zuckt mit den Schultern. "Er hat allen Grund,
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>Edér reibt sich den Nasenrücken. Er schüttelt seinen Kopf, als wolle er Spinnweben abschütteln. "Wir müssen also lediglich die Seele eines Säuglings rauben? Wo ist der Haken?"</DefaultText>
+      <DefaultText>Edér reibt sich den Nasenrücken. Er schüttelt seinen Kopf, als wolle er Spinnweben abschütteln. „Wir müssen also lediglich die Seele eines Säuglings rauben? Wo ist der Haken?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>Palleginas goldene Augen weiten sich. "Brutale, selbst für Glanfathaner."</DefaultText>
+      <DefaultText>Palleginas goldene Augen weiten sich. „Brutale, selbst für Glanfathaner.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Hiravias tritt näher und flüstert. "Das ist falsch ... Seelen werden nicht einfach auf andere 'übertragen' ohne ..." Hiravias verstummt und ballt die Fäuste.</DefaultText>
+      <DefaultText>Hiravias tritt näher und flüstert. „Das ist falsch&#160;… Seelen werden nicht einfach auf andere ‚übertragen‘ ohne&#160;…“ Hiravias verstummt und ballt die Fäuste.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Das verlief nicht wie erwartet. Er macht keine halben Sachen, was?"</DefaultText>
+      <DefaultText>„Das verlief nicht wie erwartet. Er macht keine halben Sachen, was?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>Aloths Augen verengen sich zu Schlitzen. "Das klingt ... problematisch."</DefaultText>
+      <DefaultText>Aloths Augen verengen sich zu Schlitzen. „Das klingt&#160;… problematisch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Sagani kratzt sich mit ihrem kleinen Finger im Ohr. "Ich bin nur eine einfache Jägerin aus der Tundra, du musst langsamer sprechen. Was genau sollen wir bitte tun?"</DefaultText>
+      <DefaultText>Sagani kratzt sich mit ihrem kleinen Finger im Ohr. „Ich bin nur eine einfache Jägerin aus der Tundra, du musst langsamer sprechen. Was genau sollen wir bitte tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -620,86 +620,86 @@ Hiravias verschränkt die Arme und zuckt mit den Schultern. "Er hat allen Grund,
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Sagani mustert Simoc von oben bis unten. "Ich könnte ihn besiegen." 
+      <DefaultText>Sagani mustert Simoc von oben bis unten. „Ich könnte ihn besiegen.“
 
-Sie blickt zu dir. "Bitte. Lass mich ihn besiegen."</DefaultText>
+Sie blickt zu dir. „Bitte. Lass mich ihn besiegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>Aloths Augen werden groß. "Pfui, ich würde lieber diesen alten Knochensack zu einer feinen Paste zermahlen."</DefaultText>
+      <DefaultText>Aloths Augen werden groß. „Pfui, ich würde lieber diesen alten Knochensack zu einer feinen Paste zermahlen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Es wäre einfacher, diesen Kerl zu töten und SEINE Essenz zu destillieren."</DefaultText>
+      <DefaultText>„Es wäre einfacher, diesen Kerl zu töten und SEINE Essenz zu destillieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Palleginas Lippe verzieht sich zu einer zornigen Fratze. "Wie rasch die Alten doch bereit sind, die Jungen für ihre Zwecke zu opfern."</DefaultText>
+      <DefaultText>Palleginas Lippe verzieht sich zu einer zornigen Fratze. „Wie rasch die Alten doch bereit sind, die Jungen für ihre Zwecke zu opfern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Hiravias starrt Simoc mit weit aufgerissenen Augen an. "Was für ein niederträchtiger Teufel selbst für einen Drei-Stoßzahn-Stelgaer! Wie wäre es, wenn ich diesen verrückten alten Mann verprügle, bis ich mir Stücke seiner Knochen, seines Hirns und seiner 'Essenz' aus meinem Fell pflücken muss?"</DefaultText>
+      <DefaultText>Hiravias starrt Simoc mit weit aufgerissenen Augen an. „Was für ein niederträchtiger Teufel selbst für einen Drei-Stoßzahn-Stelgaer! Wie wäre es, wenn ich diesen verrückten alten Mann verprügle, bis ich mir Stücke seiner Knochen, seines Hirns und seiner ‚Essenz‘ aus meinem Fell pflücken muss?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Genau. Natürlich." Kana senkt die Stimme. "[Player Name], dieser Mann ist offensichtlich krank."</DefaultText>
+      <DefaultText>„Genau. Natürlich.“ Kana senkt die Stimme. „[Player Name], dieser Mann ist offensichtlich krank.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Sagani senkt den Kopf. "Weißt du noch, wie gut das beim letzten Mal geklappt hat?"</DefaultText>
+      <DefaultText>Sagani senkt den Kopf. „Weißt du noch, wie gut das beim letzten Mal geklappt hat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>Er blickt von der Phiole in seiner Hand zurück zu dir. "Irgendetwas stimmt nicht." 
+      <DefaultText>Er blickt von der Phiole in seiner Hand zurück zu dir. „Irgendetwas stimmt nicht.“
 
-Er kneift seine Augen zusammen. "Was versucht du mir zu geben?"</DefaultText>
+Er kneift seine Augen zusammen. „Was versucht du mir zu geben?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Das ist der Essenztrank, um den du gebeten hast. Lasse Wrdha rufen, wenn du es nicht glaubst."</DefaultText>
+      <DefaultText>„Das ist der Essenztrank, um den du gebeten hast. Lasse Wrdha rufen, wenn du es nicht glaubst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Du bist paranoid, weil du ob der Tat nervös bist. Das ist ganz natürlich."</DefaultText>
+      <DefaultText>„Du bist paranoid, weil du ob der Tat nervös bist. Das ist ganz natürlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Das ist destillierte Essenz. Wirklich."</DefaultText>
+      <DefaultText>„Das ist destillierte Essenz. Wirklich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Es ist Gift."</DefaultText>
+      <DefaultText>„Es ist Gift.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Du hast gerade eine Mixtur aus konzentrierter Essenz und Blut geschluckt. Hast du erwartet, dass du dich danach gut fühlst?"</DefaultText>
+      <DefaultText>„Du hast gerade eine Mixtur aus konzentrierter Essenz und Blut geschluckt. Hast du erwartet, dass du dich danach gut fühlst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Du hast es viel zu schnell getrunken."</DefaultText>
+      <DefaultText>„Du hast es viel zu schnell getrunken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Nein! Ich schwöre es."</DefaultText>
+      <DefaultText>„Nein! Ich schwöre es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Das war Gift."</DefaultText>
+      <DefaultText>„Das war Gift.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -709,69 +709,69 @@ Er kneift seine Augen zusammen. "Was versucht du mir zu geben?"</DefaultText>
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Du hast wohl Recht." Er atmet mehrmals tief durch. 
+      <DefaultText>„Du hast wohl Recht.“ Er atmet mehrmals tief durch.
 
-"Und ich sollte dir wohl für deine Dienste danken. Sichere Reise, Estramor."</DefaultText>
+„Und ich sollte dir wohl für deine Dienste danken. Sichere Reise, Estramor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>Seine Haare sehen wilder aus als gewöhnlich, seine Augen wirken rot. "Mich hat die Kunde erreicht, mein Sohn sei auf der Straße niedergestochen worden. Weißt du etwas darüber?"</DefaultText>
+      <DefaultText>Seine Haare sehen wilder aus als gewöhnlich, seine Augen wirken rot. „Mich hat die Kunde erreicht, mein Sohn sei auf der Straße niedergestochen worden. Weißt du etwas darüber?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>[Lügen] "Nein."</DefaultText>
+      <DefaultText>[Lügen] „Nein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Er hat mich aufgehalten, nachdem ich das Kind genommen hatte. Ich hatte keine Wahl."</DefaultText>
+      <DefaultText>„Er hat mich aufgehalten, nachdem ich das Kind genommen hatte. Ich hatte keine Wahl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Ich verstehe." Er schweigt mehrere Sekunden lang und mustert dich. "Lliras war immer ein Knabe mit starkem Willen, wenn auch nicht mit starker Seele."
+      <DefaultText>„Ich verstehe.“ Er schweigt mehrere Sekunden lang und mustert dich. „Lliras war immer ein Knabe mit starkem Willen, wenn auch nicht mit starker Seele.“
 
-Er räuspert sich. "Was kann ich für dich tun?"</DefaultText>
+Er räuspert sich. „Was kann ich für dich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Ich verstehe." Er schweigt mehrere Sekunden lang und blickt zu Boden. "Lliras war immer ein Knabe mit starkem Willen, wenn auch nicht mit starker Seele. Ich wünschte, er ... "
+      <DefaultText>„Ich verstehe.“ Er schweigt mehrere Sekunden lang und blickt zu Boden. „Lliras war immer ein Knabe mit starkem Willen, wenn auch nicht mit starker Seele. Ich wünschte, er&#160;…“
 
-Er räuspert sich. "Wie dem auch sei. Was brauchst du?"</DefaultText>
+Er räuspert sich. „Wie dem auch sei. Was brauchst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"So viele leere Kinder ... leere Familien ... und er stiehlt aus purem Ehrgeiz die Essenz dieses Kindes?"
+      <DefaultText>„So viele leere Kinder&#160;… leere Familien&#160;… und er stiehlt aus purem Ehrgeiz die Essenz dieses Kindes?“
 
-"Sollen seine Methoden sterben ... soll seine Linie enden ... wenn sie dazu führen."</DefaultText>
+„Sollen seine Methoden sterben&#160;… soll seine Linie enden&#160;… wenn sie dazu führen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Sind wir so weit gereist, um uns in Angelegenheiten der Politik zu verstricken ... der Kleingeisterei ...?"
+      <DefaultText>„Sind wir so weit gereist, um uns in Angelegenheiten der Politik zu verstricken&#160;… der Kleingeisterei&#160;…?“
 
-Ihr Gesicht besteht aus nichts als strengen, starren Linien. "Wir dürfen das nicht tun, Wächter ... Wir sind gekommen, um die Kinder zu retten ... die Zukunft des Dyrwalds. Ich werde nicht tatenlos zu sehen, wenn du dieses Werk des Bösen vollbringst."</DefaultText>
-      <FemaleText>"Sind wir so weit gereist, um uns in Angelegenheiten der Politik zu verstricken ... der Kleingeisterei ...?"
+Ihr Gesicht besteht aus nichts als strengen, starren Linien. „Wir dürfen das nicht tun, Wächter&#160;… Wir sind gekommen, um die Kinder zu retten&#160;… die Zukunft des Dyrwalds. Ich werde nicht tatenlos zu sehen, wenn du dieses Werk des Bösen vollbringst.“</DefaultText>
+      <FemaleText>„Sind wir so weit gereist, um uns in Angelegenheiten der Politik zu verstricken&#160;… der Kleingeisterei&#160;…?“
 
-Ihr Gesicht besteht aus nichts als strengen, starren Linien. "Wir dürfen das nicht tun, Wächterin ... Wir sind gekommen, um die Kinder zu retten ... die Zukunft des Dyrwalds. Ich werde nicht tatenlos zu sehen, wenn du dieses Werk des Bösen vollbringst."</FemaleText>
+Ihr Gesicht besteht aus nichts als strengen, starren Linien. „Wir dürfen das nicht tun, Wächterin&#160;… Wir sind gekommen, um die Kinder zu retten&#160;… die Zukunft des Dyrwalds. Ich werde nicht tatenlos zu sehen, wenn du dieses Werk des Bösen vollbringst.“</FemaleText>
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Die Trauernde Mutter schreckt entsetzt zurück. "Etwas derart Böses nur zu denken! Ein Kind der Politik wegen ermorden?" Ihr Gesicht verzerrt sich zu einer Maske des Zorns. "Wir dürfen nicht zulassen, dass diese Fäulnis ... dieser Wahnsinn ... fortgeführt wird."</DefaultText>
+      <DefaultText>Die Trauernde Mutter schreckt entsetzt zurück. „Etwas derart Böses nur zu denken! Ein Kind der Politik wegen ermorden?“ Ihr Gesicht verzerrt sich zu einer Maske des Zorns. „Wir dürfen nicht zulassen, dass diese Fäulnis&#160;… dieser Wahnsinn&#160;… fortgeführt wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Lliras hat mich gebeten, dich zu töten."</DefaultText>
+      <DefaultText>„Lliras hat mich gebeten, dich zu töten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>Der alte Anamfath lacht. "Ich wünschte fast, du würdest die Wahrheit sagen. Lliras hat nicht den Mumm, um so etwas zu planen." Sein Ausdruck wird ernst. "Hätte er ihn, würde mir kein anständiger Erbe fehlen."</DefaultText>
+      <DefaultText>Der alte Anamfath lacht. „Ich wünschte fast, du würdest die Wahrheit sagen. Lliras hat nicht den Mumm, um so etwas zu planen.“ Sein Ausdruck wird ernst. „Hätte er ihn, würde mir kein anständiger Erbe fehlen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

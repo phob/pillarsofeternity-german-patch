@@ -8,27 +8,27 @@
       <ID>1</ID>
       <DefaultText>Ein Elfenmann mittleren Alters steht hinter dem Tresen des Gasthauses. Er hat ein warmes, offenes Gesicht und lächelt freundlich zum Gruß.
 
-"Willkommen, willkommen."</DefaultText>
+„Willkommen, willkommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Willkommen zurück. Kann ich etwas für dich tun?"</DefaultText>
+      <DefaultText>„Willkommen zurück. Kann ich etwas für dich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich freue mich immer, neue Gesichter zu sehen. Setz dich, wo du möchtest, mein Freund. Mir scheint, du bist einen weiten Weg gewandert. Hier ist jeder willkommen - besonders jene mit interessanten Geschichten."</DefaultText>
-      <FemaleText>"Ich freue mich immer, neue Gesichter zu sehen. Setz dich, wo du möchtest, meine Freundin. Mir scheint, du bist einen weiten Weg gewandert. Hier ist jeder willkommen - besonders jene mit interessanten Geschichten."</FemaleText>
+      <DefaultText>„Ich freue mich immer, neue Gesichter zu sehen. Setz dich, wo du möchtest, mein Freund. Mir scheint, du bist einen weiten Weg gewandert. Hier ist jeder willkommen&#160;– besonders jene mit interessanten Geschichten.“</DefaultText>
+      <FemaleText>„Ich freue mich immer, neue Gesichter zu sehen. Setz dich, wo du möchtest, meine Freundin. Mir scheint, du bist einen weiten Weg gewandert. Hier ist jeder willkommen&#160;– besonders jene mit interessanten Geschichten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Kann ich sehen, was du zu verkaufen hast?"</DefaultText>
+      <DefaultText>„Kann ich sehen, was du zu verkaufen hast?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Ich hätte gerne ein Zimmer."</DefaultText>
+      <DefaultText>„Ich hätte gerne ein Zimmer.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -38,67 +38,67 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Natürlich. Vielleicht etwas mit einer schönen Aussicht, ja?"</DefaultText>
+      <DefaultText>„Natürlich. Vielleicht etwas mit einer schönen Aussicht, ja?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ich möchte ein paar Helfer anheuern."</DefaultText>
+      <DefaultText>„Ich möchte ein paar Helfer anheuern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Erzähl mir etwas über dieses Gasthaus."</DefaultText>
+      <DefaultText>„Erzähl mir etwas über dieses Gasthaus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Wer bist du?"</DefaultText>
+      <DefaultText>„Wer bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ich hasse das zu sagen, aber wir können es uns nicht leisten, auf der Stelle zu verharren. Diese Glanfathaner schienen wegen irgendetwas verärgert zu sein. Könnte gut sein, dass wir hier nicht alleine sind. Die Plünderer sind bewaffnet und zum Töten bereit, und wahrscheinlich sind nicht wenige von ihnen da. Wir können uns nicht im Schlaf überraschen lassen."</DefaultText>
+      <DefaultText>„Ich hasse das zu sagen, aber wir können es uns nicht leisten, auf der Stelle zu verharren. Diese Glanfathaner schienen wegen irgendetwas verärgert zu sein. Könnte gut sein, dass wir hier nicht alleine sind. Die Plünderer sind bewaffnet und zum Töten bereit, und wahrscheinlich sind nicht wenige von ihnen da. Wir können uns nicht im Schlaf überraschen lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Natürlich." Ellitherions Gesicht hellt sich auf. "Ich habe das Gasthaus vor vielen Jahren gegründet, aber eigentlich beginnt seine Geschichte schon viel früher. Ich war gerade von einer langen Reise nach Süden zurückgekehrt, als ich das erste Mal die Geschichte von dem Baum hörte, auf dem dieses Gasthaus ruht."</DefaultText>
+      <DefaultText>„Natürlich.“ Ellitherions Gesicht hellt sich auf. „Ich habe das Gasthaus vor vielen Jahren gegründet, aber eigentlich beginnt seine Geschichte schon viel früher. Ich war gerade von einer langen Reise nach Süden zurückgekehrt, als ich das erste Mal die Geschichte von dem Baum hörte, auf dem dieses Gasthaus ruht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Eine schöne Art, seine Tage zu verbringen, wie ich finde."</DefaultText>
+      <DefaultText>„Eine schöne Art, seine Tage zu verbringen, wie ich finde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Vor Hunderten von Jahren geschah etwas Seltsames. Der Himmel war an jenem Abend in Aufruhr. Unzählige Sternschnuppen waren zu sehen - und einer dieser Sterne fiel in Richtung Eora. Er landete hier. Er traf einen jungen Baum und vergrub sich in ihm wie ein feuriges Herz."</DefaultText>
+      <DefaultText>„Vor Hunderten von Jahren geschah etwas Seltsames. Der Himmel war an jenem Abend in Aufruhr. Unzählige Sternschnuppen waren zu sehen&#160;– und einer dieser Sterne fiel in Richtung Eora. Er landete hier. Er traf einen jungen Baum und vergrub sich in ihm wie ein feuriges Herz.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Aber der Baum überlebte. Und mit den Jahren wuchs er - und wuchs und wuchs, doppelt so hoch wie seine Nachbarn in derselben Zeit. Bis er so groß wurde, wie er jetzt ist, und aufhörte zu wachsen."</DefaultText>
+      <DefaultText>„Aber der Baum überlebte. Und mit den Jahren wuchs er&#160;– und wuchs und wuchs, doppelt so hoch wie seine Nachbarn in derselben Zeit. Bis er so groß wurde, wie er jetzt ist, und aufhörte zu wachsen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Als ich die Geschichte hörte, wusste ich, dass ich die Wahrheit herausfinden musste. Und du siehst sie hier." Er deutet auf den großen Stein in der Mitte des Raumes. "Um das Herz des Baumes herum baute ich dieses Gasthaus - um alle Reisenden zu begrüßen, die ihn ansehen möchten."</DefaultText>
+      <DefaultText>„Als ich die Geschichte hörte, wusste ich, dass ich die Wahrheit herausfinden musste. Und du siehst sie hier.“ Er deutet auf den großen Stein in der Mitte des Raumes. „Um das Herz des Baumes herum baute ich dieses Gasthaus&#160;– um alle Reisenden zu begrüßen, die ihn ansehen möchten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Kana blickt auf den Stein und grinst. "Eine schöne Geschichte. Ich werde sie mit nach Hause nehmen."</DefaultText>
+      <DefaultText>Kana blickt auf den Stein und grinst. „Eine schöne Geschichte. Ich werde sie mit nach Hause nehmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Es kommen viele Gestandene auf der Suche nach Arbeit her. Hier - ich stelle dich vor."</DefaultText>
+      <DefaultText>„Es kommen viele Gestandene auf der Suche nach Arbeit her. Hier&#160;– ich stelle dich vor.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Natürlich. Wir haben warmes Essen und einige Vorräte. Sieh dich nur um."</DefaultText>
+      <DefaultText>„Natürlich. Wir haben warmes Essen und einige Vorräte. Sieh dich nur um.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>Dieser Mann macht den Eindruck eines gejagten Tieres. Als du dich näherst, stolpert er rückwärts in die entlegenste Ecke seiner Zelle. Fast wirkt er, als würde er die Wände erklimmen, wenn er dadurch vor dir entkommen könnte.
 
-Er schreit - ein bizarrer Urlaut wie du ihn noch nie gehört hast.</DefaultText>
+Er schreit&#160;– ein bizarrer Urlaut wie du ihn noch nie gehört hast.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23,24 +23,24 @@ Er schreit - ein bizarrer Urlaut wie du ihn noch nie gehört hast.</DefaultText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich muss dir einige Fragen stellen."</DefaultText>
+      <DefaultText>„Ich muss dir einige Fragen stellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Du kannst dich nicht vor mir verstecken, Spion des Bleiernen Schlüssels!"</DefaultText>
+      <DefaultText>„Du kannst dich nicht vor mir verstecken, Spion des Bleiernen Schlüssels!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[Weggehen.] "Egal."</DefaultText>
+      <DefaultText>[Weggehen.] „Egal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>Gram blickt dich mit leeren Augen an. Es ist unklar, ob er dich versteht oder nicht, aber seine Panik ist vorübergehend abgeklungen.
 
-Er öffnet den Mund, um zu sprechen, doch er kann nur halbe Worte bilden, als hätte man ihm die Zunge abgeschnitten. Sie sind unmöglich zu verstehen ... wenn es überhaupt Worte sind.</DefaultText>
+Er öffnet den Mund, um zu sprechen, doch er kann nur halbe Worte bilden, als hätte man ihm die Zunge abgeschnitten. Sie sind unmöglich zu verstehen&#160;… wenn es überhaupt Worte sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -50,42 +50,42 @@ Er öffnet den Mund, um zu sprechen, doch er kann nur halbe Worte bilden, als h�
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Die Verstümmelungen der Beseelung. Grausamer als jede Folter, die Seele zu entstellen. Lasst uns den Beseelern in diesem stinkenden Scheißhaufen den Gefallen erwidern."</DefaultText>
+      <DefaultText>„Die Verstümmelungen der Beseelung. Grausamer als jede Folter, die Seele zu entstellen. Lasst uns den Beseelern in diesem stinkenden Scheißhaufen den Gefallen erwidern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Aloth stößt ein angewidertes Geräusch aus. "Diese Beseeler haben ihm das angetan. Du siehst, was ihre Pfuschereien bewirken."</DefaultText>
+      <DefaultText>Aloth stößt ein angewidertes Geräusch aus. „Diese Beseeler haben ihm das angetan. Du siehst, was ihre Pfuschereien bewirken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Kana zuckt zusammen. "Ich glaube, er spricht nicht mehr. Jedenfalls nicht mit Worten. Das ist ... monströs."</DefaultText>
+      <DefaultText>Kana zuckt zusammen. „Ich glaube, er spricht nicht mehr. Jedenfalls nicht mit Worten. Das ist&#160;… monströs.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Sein Verstand ist gebrochen, Wächter. Irgendein Trauma ... irgendeine Grausamkeit."</DefaultText>
-      <FemaleText>"Sein Verstand ist gebrochen, Wächterin. Irgendein Trauma ... irgendeine Grausamkeit."</FemaleText>
+      <DefaultText>„Sein Verstand ist gebrochen, Wächter. Irgendein Trauma&#160;… irgendeine Grausamkeit.“</DefaultText>
+      <FemaleText>„Sein Verstand ist gebrochen, Wächterin. Irgendein Trauma&#160;… irgendeine Grausamkeit.“</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Du fürchtest dich. Machen bestimmte Besucher dir Angst?"</DefaultText>
+      <DefaultText>„Du fürchtest dich. Machen bestimmte Besucher dir Angst?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ich muss einige Dinge von dir erfahren. Und ich werde sie erfahren ... ob du sprechen kannst oder nicht."</DefaultText>
+      <DefaultText>„Ich muss einige Dinge von dir erfahren. Und ich werde sie erfahren&#160;… ob du sprechen kannst oder nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Freyol sagte, dass Caedman Azo dich behandelt."</DefaultText>
+      <DefaultText>„Freyol sagte, dass Caedman Azo dich behandelt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>[Weggehen.] "Es muss noch jemand anderen geben, mit dem ich sprechen kann."</DefaultText>
+      <DefaultText>[Weggehen.] „Es muss noch jemand anderen geben, mit dem ich sprechen kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -114,7 +114,7 @@ Du spürst keinerlei Widerstandsbarrieren. Wenn du wolltest, könntest du noch t
       <ID>30</ID>
       <DefaultText>Du bist in deiner Zelle. Ein Schlüssel dreht sich im Schloss. Die Tür öffnet sich knarrend. Gedanken überspülen dich in Wellen, unvollständig, zerbrochen, angstvoll.
 
-In der Tür steht ein rundlicher Mann mit Halbglatze. Seine oberen Zähne und seine spitze Nase erinnern dich an eine Ratte. Er winkt dich herbei, mit bedauerndem Blick. Du willst nicht gehen. Alles, nur das nicht. Dein Verstand besteht aus einem einzigen Wort, dem Wort 'Nein', doch es zerfällt, ehe es deine Lippen erreicht. Du drückst dich gegen die Wand, in die Enge getrieben. Du schreist.</DefaultText>
+In der Tür steht ein rundlicher Mann mit Halbglatze. Seine oberen Zähne und seine spitze Nase erinnern dich an eine Ratte. Er winkt dich herbei, mit bedauerndem Blick. Du willst nicht gehen. Alles, nur das nicht. Dein Verstand besteht aus einem einzigen Wort, dem Wort ‚Nein‘, doch es zerfällt, ehe es deine Lippen erreicht. Du drückst dich gegen die Wand, in die Enge getrieben. Du schreist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -124,7 +124,7 @@ In der Tür steht ein rundlicher Mann mit Halbglatze. Seine oberen Zähne und se
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Es tut dem Mann leid. Er braucht Material. Sie haben seine Arbeit zerstört und er braucht eine neue Quelle. Er muss ihnen beweisen, dass er Recht hatte. Er dankt dir. 
+      <DefaultText>Es tut dem Mann leid. Er braucht Material. Sie haben seine Arbeit zerstört und er braucht eine neue Quelle. Er muss ihnen beweisen, dass er Recht hatte. Er dankt dir.
 
 Dann dreht er an einem Knopf und du spürst, wie du von innen zu zerbrechen beginnst. Du spürst, wie du zerrissen wirst. Du spürst einen Schmerz, als würde eine Horde von Ratten deine Eingeweide zerbeißen. Und du schreist einen Schrei, den du kaum zu hören vermagst.</DefaultText>
       <FemaleText />
@@ -143,7 +143,7 @@ Dann dreht er an einem Knopf und du spürst, wie du von innen zu zerbrechen begi
       <ID>35</ID>
       <DefaultText>Ein anderer Abend. Schwere Schritte vor deiner Tür. Sie kommen dich holen. Du blickst durch einen Schlitz in der Tür. Der Fleischriese, das künstliche Wesen, direkt vor der Tür. Aber er blickt nach links. Zum Ende des Ganges. Zu dem Knaben dort.
 
-Der Knabe blickt den Riesen interessiert an ... und fällt dann zu Boden wie eine abgelegte Schlangenhaut. Der Riese zuckt kurz zusammen, dann richtet er sich auf, wendet sich ab und geht.</DefaultText>
+Der Knabe blickt den Riesen interessiert an&#160;… und fällt dann zu Boden wie eine abgelegte Schlangenhaut. Der Riese zuckt kurz zusammen, dann richtet er sich auf, wendet sich ab und geht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -158,12 +158,12 @@ Der Knabe blickt den Riesen interessiert an ... und fällt dann zu Boden wie ein
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Azo sagte, er würde dich behandeln. Dein Zustand würde sich verbessern. Ich bin gekommen, um zu sehen, ob das stimmt."</DefaultText>
+      <DefaultText>„Azo sagte, er würde dich behandeln. Dein Zustand würde sich verbessern. Ich bin gekommen, um zu sehen, ob das stimmt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Azo hat gegen deinen Willen Experimente an dir durchgeführt, nicht wahr?"</DefaultText>
+      <DefaultText>„Azo hat gegen deinen Willen Experimente an dir durchgeführt, nicht wahr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

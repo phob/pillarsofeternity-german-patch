@@ -6,97 +6,97 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Du bist weit von deinem Posten entfernt, Inquisitor. Was führt dich hierher?"
+      <DefaultText>„Du bist weit von deinem Posten entfernt, Inquisitor. Was führt dich hierher?“
 
 Deine Gedanken rasen, du betrachtest verschiedene mögliche Ansatzpunkte. Du hast Mühe, deine Emotionen zu zügeln.</DefaultText>
-      <FemaleText>"Du bist weit von deinem Posten entfernt, Inquisitorin. Was führt dich hierher?"
+      <FemaleText>„Du bist weit von deinem Posten entfernt, Inquisitorin. Was führt dich hierher?“
 
 Deine Gedanken rasen, du betrachtest verschiedene mögliche Ansatzpunkte. Du hast Mühe, deine Emotionen zu zügeln.</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Was ist das für ein Ort?"</DefaultText>
+      <DefaultText>„Was ist das für ein Ort?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Hat Iovara die Wahrheit gesagt?"</DefaultText>
+      <DefaultText>„Hat Iovara die Wahrheit gesagt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Die Maschine hinter dir, wozu ist sie gut?"</DefaultText>
+      <DefaultText>„Die Maschine hinter dir, wozu ist sie gut?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Basierte die gesamte Inquisition auf einer Lüge?"</DefaultText>
+      <DefaultText>„Basierte die gesamte Inquisition auf einer Lüge?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Wir befinden uns in einem Heiligtum Woedicas. Es gibt noch weitere, die anderen Göttern dienen. Ich komme oft hierher, um sie um Rat zu bitten. Hier kann ich mir gewiss sein, dass sie mich hört."</DefaultText>
+      <DefaultText>„Wir befinden uns in einem Heiligtum Woedicas. Es gibt noch weitere, die anderen Göttern dienen. Ich komme oft hierher, um sie um Rat zu bitten. Hier kann ich mir gewiss sein, dass sie mich hört.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Diese Frau wollte nur die Grundlagen des Friedens und der Höflichkeit zerstören, für deren Aufbau mein Volk alles geopfert hat."</DefaultText>
+      <DefaultText>„Diese Frau wollte nur die Grundlagen des Friedens und der Höflichkeit zerstören, für deren Aufbau mein Volk alles geopfert hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Sie hat viele Zwecke, doch sie dient vor allem dazu, dem Chaos, das sie umgibt, Struktur zu verleihen."</DefaultText>
+      <DefaultText>„Sie hat viele Zwecke, doch sie dient vor allem dazu, dem Chaos, das sie umgibt, Struktur zu verleihen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Die Inquisition basierte auf dem Bedürfnis, das Fleisch von einer fauligen Wunde zu schneiden."</DefaultText>
+      <DefaultText>„Die Inquisition basierte auf dem Bedürfnis, das Fleisch von einer fauligen Wunde zu schneiden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Gibt es keine Götter?"</DefaultText>
+      <DefaultText>„Gibt es keine Götter?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Thaos' Gesicht bleibt eine unbeteiligte Maske. "Was IST ein Gott? Hm? Eine höhere Macht? Jemand, der gute Taten belohnt und böse bestraft? Etwas, dem man sich in seinen dunkelsten Augenblicken zuwenden kann, wenn die Tage wirken, als seien sie nur Brücken von einer Tragödie zur nächsten? Unsere Götter sind alle diese Dinge."
+      <DefaultText>Thaos’ Gesicht bleibt eine unbeteiligte Maske. „Was IST ein Gott? Hm? Eine höhere Macht? Jemand, der gute Taten belohnt und böse bestraft? Etwas, dem man sich in seinen dunkelsten Augenblicken zuwenden kann, wenn die Tage wirken, als seien sie nur Brücken von einer Tragödie zur nächsten? Unsere Götter sind alle diese Dinge.“
 
 Mit jedem Wort, das Thaos spricht, spürst du, wie du mehr und mehr die Kontrolle über einen siedenden Kessel des Zorns und des Zweifels und der Furcht und der Hoffnungslosigkeit verlierst, bis du es schließlich nicht mehr erträgst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Gibt es keine Götter?!"</DefaultText>
+      <DefaultText>„Gibt es keine Götter?!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Mit unerträglicher Ruhe legt Thaos einen Zeigefinger an seine Lippen. "Wir befinden uns an einem heiligen Ort, in Hörweite der Götter selbst. Das ist nicht der rechte Augenblick."
+      <DefaultText>Mit unerträglicher Ruhe legt Thaos einen Zeigefinger an seine Lippen. „Wir befinden uns an einem heiligen Ort, in Hörweite der Götter selbst. Das ist nicht der rechte Augenblick.“
 
-"Du hast in den letzten Monaten viel durchlitten."</DefaultText>
+„Du hast in den letzten Monaten viel durchlitten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Du wirst nach Hause zurückkehren und du wirst dich ausruhen. Wenn du das Gefühl hast, dich erholt zu haben, kannst du dich den Prozessen wieder anschließen. Die Inquisition ist noch lange nicht beendet, und ich brauche dich."</DefaultText>
+      <DefaultText>„Du wirst nach Hause zurückkehren und du wirst dich ausruhen. Wenn du das Gefühl hast, dich erholt zu haben, kannst du dich den Prozessen wieder anschließen. Die Inquisition ist noch lange nicht beendet, und ich brauche dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Viele verbreiten weiterhin die Lügen des Apostats. Die Inquisition endet erst, wenn wir über sie ALLE geurteilt haben." 
+      <DefaultText>„Viele verbreiten weiterhin die Lügen des Apostats. Die Inquisition endet erst, wenn wir über sie ALLE geurteilt haben.“
 
 Seine Augen verharren auf dir, mit gefährlich drohendem Ausdruck. Dein Zorn schrumpft, als du vor deinem geistigen Auge ein eisernes Rad siehst, monolithisch und verkrustet mit dem getrockneten Blut von Tausenden. Du stellst deine Frage nicht erneut.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"All diese Statuen, wen stellen sie dar?"</DefaultText>
+      <DefaultText>„All diese Statuen, wen stellen sie dar?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Sie sind Denkmäler von Woedicas größten Dienern unter meinem Volk. Ich hoffe, eines Tages selbst dort zu stehen, doch mein Werk ist noch nicht vollendet."</DefaultText>
+      <DefaultText>„Sie sind Denkmäler von Woedicas größten Dienern unter meinem Volk. Ich hoffe, eines Tages selbst dort zu stehen, doch mein Werk ist noch nicht vollendet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -115,27 +115,27 @@ Du willst ihn etwas fragen, eine Frage, die vor allen anderen in deinem Kopf wir
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Du zitterst, du hast jede Geduld für Taktgefühl verloren. Schluss mit dem Ausweichen. Du MUSST es wissen. Alles, was du geglaubt hast ... Alles, was du für die Götter getan hast ...</DefaultText>
+      <DefaultText>Du zitterst, du hast jede Geduld für Taktgefühl verloren. Schluss mit dem Ausweichen. Du MUSST es wissen. Alles, was du geglaubt hast&#160;… Alles, was du für die Götter getan hast&#160;…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Hast du mich angelogen, als du sagtest, die Götter würden mich von meinen Sünden erlösen?"</DefaultText>
+      <DefaultText>„Hast du mich angelogen, als du sagtest, die Götter würden mich von meinen Sünden erlösen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Hast du mich angelogen, als du sagtest, die Götter könnten Leid beenden?"</DefaultText>
+      <DefaultText>„Hast du mich angelogen, als du sagtest, die Götter könnten Leid beenden?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Hast du mich angelogen, als du sagtest, ich könnte nichts Falsches tun, solange ich tue, was die Götter verlangen?"</DefaultText>
+      <DefaultText>„Hast du mich angelogen, als du sagtest, ich könnte nichts Falsches tun, solange ich tue, was die Götter verlangen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Hast du mich angelogen, als du sagtest, es war richtig, meine Familie für die Götter zu verlassen?"</DefaultText>
+      <DefaultText>„Hast du mich angelogen, als du sagtest, es war richtig, meine Familie für die Götter zu verlassen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -145,7 +145,7 @@ Du willst ihn etwas fragen, eine Frage, die vor allen anderen in deinem Kopf wir
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Gibt es keine Götter?"</DefaultText>
+      <DefaultText>„Gibt es keine Götter?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

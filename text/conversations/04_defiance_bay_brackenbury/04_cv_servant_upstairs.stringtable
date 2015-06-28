@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Die alte Bedienstete blickt dich mit trüben Augen an. "Verzeihung, aber ich fürchte, ich muss dich bitten, wieder nach unten zu gehen. Im oberen Stockwerk sind keine Besucher gestattet."</DefaultText>
+      <DefaultText>Die alte Bedienstete blickt dich mit trüben Augen an. „Verzeihung, aber ich fürchte, ich muss dich bitten, wieder nach unten zu gehen. Im oberen Stockwerk sind keine Besucher gestattet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Hier oben sind noch immer keine Besucher gestattet. Bitte geh wieder nach unten."</DefaultText>
+      <DefaultText>„Hier oben sind noch immer keine Besucher gestattet. Bitte geh wieder nach unten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>[Angreifen.] "Ich gehe nirgendwo hin."</DefaultText>
+      <DefaultText>[Angreifen.] „Ich gehe nirgendwo hin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Hilfe!"</DefaultText>
+      <DefaultText>„Hilfe!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

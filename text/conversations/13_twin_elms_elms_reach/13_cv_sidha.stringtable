@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Wie ergeht es dir, Alter?"</DefaultText>
-      <FemaleText>"Wie ergeht es dir, Alte?"</FemaleText>
+      <DefaultText>„Wie ergeht es dir, Alter?“</DefaultText>
+      <FemaleText>„Wie ergeht es dir, Alte?“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -20,83 +20,83 @@ Ihre Haare hängen unter dem Schatten von gezackten Blättern wie die hängenden
       <ID>4</ID>
       <DefaultText>Eine von ihnen streckt dir ein Wurzelgewirr entgegen, das sich windet und verknotet und ein Gebilde wie eine offene Hand bildet, mit der Handfläche nach unten.
 
-"Kehre um, Fleischwesen. Außenstehende dürfen sich den Ulmen nicht nähern."</DefaultText>
+„Kehre um, Fleischwesen. Außenstehende dürfen sich den Ulmen nicht nähern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Die andere starrt dich ohne zu blinzeln an. Ihr Stirnrunzeln vertieft sich mit einem knarzenden Geräusch.
 
-"Spürst du es nicht, Schwester? Etwas ... Vertrautes. Eine uralte Seele, genau wie die andere. Gewiss auch gekommen um zu schänden. Strecken wir ihn nieder und sparen uns den Ärger. Damit wäre die Schuld seines Vorgängers beglichen."</DefaultText>
+„Spürst du es nicht, Schwester? Etwas&#160;… Vertrautes. Eine uralte Seele, genau wie die andere. Gewiss auch gekommen um zu schänden. Strecken wir ihn nieder und sparen uns den Ärger. Damit wäre die Schuld seines Vorgängers beglichen.“</DefaultText>
       <FemaleText>Die andere starrt dich ohne zu blinzeln an. Ihr Stirnrunzeln vertieft sich mit einem knarzenden Geräusch.
 
-"Spürst du es nicht, Schwester? Etwas ... Vertrautes. Eine uralte Seele, genau wie die andere. Gewiss auch gekommen um zu schänden. Strecken wir sie nieder und sparen uns den Ärger. Damit wäre die Schuld ihres Vorgängers beglichen."</FemaleText>
+„Spürst du es nicht, Schwester? Etwas&#160;… Vertrautes. Eine uralte Seele, genau wie die andere. Gewiss auch gekommen um zu schänden. Strecken wir sie nieder und sparen uns den Ärger. Damit wäre die Schuld ihres Vorgängers beglichen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Hmmh. Es scheint so, Rîhenwn. Doch wir dürfen nicht vorschnell urteilen. Ich sehe hier ein anderes Motiv. Andere Fragen in diesen Augen."</DefaultText>
+      <DefaultText>„Hmmh. Es scheint so, Rîhenwn. Doch wir dürfen nicht vorschnell urteilen. Ich sehe hier ein anderes Motiv. Andere Fragen in diesen Augen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Wie steht es, junger Eindringling? Ist es, wie meine Schwester sagt? Oder bist du hier, um diesen Ort durch faule Taten zu vergiften?"</DefaultText>
+      <DefaultText>„Wie steht es, junger Eindringling? Ist es, wie meine Schwester sagt? Oder bist du hier, um diesen Ort durch faule Taten zu vergiften?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ich suche einen Mann, der hier war. Es klingt, als wäret ihr ihm schon begegnet."</DefaultText>
+      <DefaultText>„Ich suche einen Mann, der hier war. Es klingt, als wäret ihr ihm schon begegnet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ich hörte von einem Vorfall hier und kam, um ihm nachzugehen."</DefaultText>
+      <DefaultText>„Ich hörte von einem Vorfall hier und kam, um ihm nachzugehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Ich handle aus Sorge um das Wohlergehen dieses Landes. Es wäre weise, mir zu helfen."</DefaultText>
+      <DefaultText>„Ich handle aus Sorge um das Wohlergehen dieses Landes. Es wäre weise, mir zu helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Angesichts solch legendärer Schönheit habe ich vergessen, was ich vorhatte. Sehe ich doppelte Halluzinationen?"</DefaultText>
+      <DefaultText>„Angesichts solch legendärer Schönheit habe ich vergessen, was ich vorhatte. Sehe ich doppelte Halluzinationen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ich würde diesen Ort nur zu gerne niederfackeln, doch ich habe Dringenderes zu erledigen."</DefaultText>
+      <DefaultText>„Ich würde diesen Ort nur zu gerne niederfackeln, doch ich habe Dringenderes zu erledigen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Da, frei heraus gestanden, Sîdha!"</DefaultText>
+      <DefaultText>„Da, frei heraus gestanden, Sîdha!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Wahrlich, Schwester. Und du wunderst dich, warum deine Blätter vor dem Mittsommer zu fallen beginnen." 
+      <DefaultText>„Wahrlich, Schwester. Und du wunderst dich, warum deine Blätter vor dem Mittsommer zu fallen beginnen.“
 
 Rîhenwn öffnet ihren Mund, um zu antworten, doch aus ihren verknoteten Lippen entweicht lediglich ein aufgebrachtes, raschelndes Seufzen.
 
-"Dieser Mann wollte nicht, dass man ihm folgt. In welchem Verhältnis du auch zu ihm stehst, ich bezweifle, dass es freundschaftlich ist."
+„Dieser Mann wollte nicht, dass man ihm folgt. In welchem Verhältnis du auch zu ihm stehst, ich bezweifle, dass es freundschaftlich ist.“
 
 Sîdha wendet sich wieder dir zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Die Antwort lautet, ja, Alter, wir haben Thaos' Weg vor nicht allzu langer Zeit gekreuzt, und wir können dir sagen, wohin er gegangen ist. Aber ich finde es seltsam, dass jemand ihn suchen sollte. Verdächtig, sogar. Wenn wir dir helfen sollen, ihn zu finden, müssen wir den Grund wissen."</DefaultText>
-      <FemaleText>"Die Antwort lautet, ja, Alte, wir haben Thaos' Weg vor nicht allzu langer Zeit gekreuzt, und wir können dir sagen, wohin er gegangen ist. Aber ich finde es seltsam, dass jemand ihn suchen sollte. Verdächtig, sogar. Wenn wir dir helfen sollen, ihn zu finden, müssen wir den Grund wissen."</FemaleText>
+      <DefaultText>„Die Antwort lautet, ja, Alter, wir haben Thaos’ Weg vor nicht allzu langer Zeit gekreuzt, und wir können dir sagen, wohin er gegangen ist. Aber ich finde es seltsam, dass jemand ihn suchen sollte. Verdächtig, sogar. Wenn wir dir helfen sollen, ihn zu finden, müssen wir den Grund wissen.“</DefaultText>
+      <FemaleText>„Die Antwort lautet, ja, Alte, wir haben Thaos’ Weg vor nicht allzu langer Zeit gekreuzt, und wir können dir sagen, wohin er gegangen ist. Aber ich finde es seltsam, dass jemand ihn suchen sollte. Verdächtig, sogar. Wenn wir dir helfen sollen, ihn zu finden, müssen wir den Grund wissen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Die halbe Wahrheit, wenn überhaupt! So wird deine Geduld belohnt, Schwester."</DefaultText>
+      <DefaultText>„Die halbe Wahrheit, wenn überhaupt! So wird deine Geduld belohnt, Schwester.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Du vergeudest deine Zeit, indem du deine Absichten vor uns verschleierst, Alter. Ein Gewirr aus Worten stellt für unseren Blick kein Hindernis dar. Es ist offensichtlich, dass du Thaos ix Arkannon suchst, und zwar nicht, weil du seine Gesellschaft genießen möchtest."</DefaultText>
-      <FemaleText>"Du vergeudest deine Zeit, indem du deine Absichten vor uns verschleierst, Alte. Ein Gewirr aus Worten stellt für unseren Blick kein Hindernis dar. Es ist offensichtlich, dass du Thaos ix Arkannon suchst, und zwar nicht, weil du seine Gesellschaft genießen möchtest."</FemaleText>
+      <DefaultText>„Du vergeudest deine Zeit, indem du deine Absichten vor uns verschleierst, Alter. Ein Gewirr aus Worten stellt für unseren Blick kein Hindernis dar. Es ist offensichtlich, dass du Thaos ix Arkannon suchst, und zwar nicht, weil du seine Gesellschaft genießen möchtest.“</DefaultText>
+      <FemaleText>„Du vergeudest deine Zeit, indem du deine Absichten vor uns verschleierst, Alte. Ein Gewirr aus Worten stellt für unseren Blick kein Hindernis dar. Es ist offensichtlich, dass du Thaos ix Arkannon suchst, und zwar nicht, weil du seine Gesellschaft genießen möchtest.“</FemaleText>
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -105,22 +105,22 @@ Sîdha wendet sich wieder dir zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Ich zweifle langsam, ob die Engwithaner überhaupt ein Wort für Vergnügen hatten."</DefaultText>
+      <DefaultText>„Ich zweifle langsam, ob die Engwithaner überhaupt ein Wort für Vergnügen hatten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Würden ihn mehr Leute aufsuchen, um seine Gesellschaft zu genießen, wäre er vielleicht besserer Laune."</DefaultText>
+      <DefaultText>„Würden ihn mehr Leute aufsuchen, um seine Gesellschaft zu genießen, wäre er vielleicht besserer Laune.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ach, ich weiß nicht. Manchmal verleiht eine düstere und fanatische Drohung einer Unterhaltung eine gewisse Würze."</DefaultText>
+      <DefaultText>„Ach, ich weiß nicht. Manchmal verleiht eine düstere und fanatische Drohung einer Unterhaltung eine gewisse Würze.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Um seine Bestrafung zu genießen wäre vielleicht passender."</DefaultText>
+      <DefaultText>„Um seine Bestrafung zu genießen wäre vielleicht passender.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -130,157 +130,157 @@ Sîdha wendet sich wieder dir zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Das mag sein, Fleischwesen, aber ich frage mich doch, ob deine Absichten wirklich so edel sind. Bist du des Landes wegen hier - oder deinetwegen?"</DefaultText>
+      <DefaultText>„Das mag sein, Fleischwesen, aber ich frage mich doch, ob deine Absichten wirklich so edel sind. Bist du des Landes wegen hier&#160;– oder deinetwegen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Er ist Thaos ix Arkannons wegen hier, das ist offensichtlich."</DefaultText>
-      <FemaleText>"Sie ist Thaos ix Arkannons wegen hier, das ist offensichtlich."</FemaleText>
+      <DefaultText>„Er ist Thaos ix Arkannons wegen hier, das ist offensichtlich.“</DefaultText>
+      <FemaleText>„Sie ist Thaos ix Arkannons wegen hier, das ist offensichtlich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Gesprochen mit dem leicht durchschaubaren Eifer von jemanden, dessen deformiertes kleines Staubgefäß noch NIE erfolgreich Gametophyten erfolgreich transferiert hat, nicht einmal auf die VERZWEIFELTSTEN aller Pistillen, und der ein Karpell nicht erkennen würde, wenn eine Kräuterkundlerin ihm eine Karte zeichnen würde."</DefaultText>
-      <FemaleText>"Gesprochen mit dem leicht durchschaubaren Eifer von jemanden, dessen deformiertes kleines Staubgefäß noch NIE erfolgreich Gametophyten erfolgreich transferiert hat, nicht einmal auf die VERZWEIFELTSTEN aller Pistillen, und die ein Karpell nicht erkennen würde, wenn eine Kräuterkundlerin ihr eine Karte zeichnen würde."</FemaleText>
+      <DefaultText>„Gesprochen mit dem leicht durchschaubaren Eifer von jemanden, dessen deformiertes kleines Staubgefäß noch NIE erfolgreich Gametophyten erfolgreich transferiert hat, nicht einmal auf die VERZWEIFELTSTEN aller Pistillen, und der ein Karpell nicht erkennen würde, wenn eine Kräuterkundlerin ihm eine Karte zeichnen würde.“</DefaultText>
+      <FemaleText>„Gesprochen mit dem leicht durchschaubaren Eifer von jemanden, dessen deformiertes kleines Staubgefäß noch NIE erfolgreich Gametophyten erfolgreich transferiert hat, nicht einmal auf die VERZWEIFELTSTEN aller Pistillen, und die ein Karpell nicht erkennen würde, wenn eine Kräuterkundlerin ihr eine Karte zeichnen würde.“</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Sîdha verbirgt ihren Mund hinter den Zweiglein ihrer Finger, doch ihre Belustigung bleibt kaum verborgen. "Du musst das Temperament meiner Schwester verzeihen, Alter. Vertrau mir, wenn ich sagen, dass meine Schwester und ich wirklich schon alles gehört haben."</DefaultText>
-      <FemaleText>Sîdha verbirgt ihren Mund hinter den Zweiglein ihrer Finger, doch ihre Belustigung bleibt kaum verborgen. "Du musst das Temperament meiner Schwester verzeihen, Alte. Vertrau mir, wenn ich sagen, dass meine Schwester und ich wirklich schon alles gehört haben."</FemaleText>
+      <DefaultText>Sîdha verbirgt ihren Mund hinter den Zweiglein ihrer Finger, doch ihre Belustigung bleibt kaum verborgen. „Du musst das Temperament meiner Schwester verzeihen, Alter. Vertrau mir, wenn ich sagen, dass meine Schwester und ich wirklich schon alles gehört haben.“</DefaultText>
+      <FemaleText>Sîdha verbirgt ihren Mund hinter den Zweiglein ihrer Finger, doch ihre Belustigung bleibt kaum verborgen. „Du musst das Temperament meiner Schwester verzeihen, Alte. Vertrau mir, wenn ich sagen, dass meine Schwester und ich wirklich schon alles gehört haben.“</FemaleText>
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Glücklicherweise bist du leichter zu durchschauen als meine Schwester. Du bist hier, um Thaos ix Arkannon zu finden. Das ist offensichtlich."</DefaultText>
+      <DefaultText>„Glücklicherweise bist du leichter zu durchschauen als meine Schwester. Du bist hier, um Thaos ix Arkannon zu finden. Das ist offensichtlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Sagte ich es dir nicht, Schwester? Wir schaden dem Land, indem wir diesen hier nicht niederstrecken, bevor sie sich dem anderen Schänder anschließen kann. Ein kranker Baum ist ein böses Omen für den Hain."</DefaultText>
-      <FemaleText>"Sagte ich es dir nicht, Schwester? Wir schaden dem Land, indem wir diese hier nicht niederstrecken, bevor sie sich dem anderen Schänder anschließen kann. Ein kranker Baum ist ein böses Omen für den Hain."</FemaleText>
+      <DefaultText>„Sagte ich es dir nicht, Schwester? Wir schaden dem Land, indem wir diesen hier nicht niederstrecken, bevor sie sich dem anderen Schänder anschließen kann. Ein kranker Baum ist ein böses Omen für den Hain.“</DefaultText>
+      <FemaleText>„Sagte ich es dir nicht, Schwester? Wir schaden dem Land, indem wir diese hier nicht niederstrecken, bevor sie sich dem anderen Schänder anschließen kann. Ein kranker Baum ist ein böses Omen für den Hain.“</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Ich habe ein Problem, und nur er kann es lösen."</DefaultText>
+      <DefaultText>„Ich habe ein Problem, und nur er kann es lösen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ihn aufzuhalten könnte Waidwens Vermächtnis beenden."</DefaultText>
+      <DefaultText>„Ihn aufzuhalten könnte Waidwens Vermächtnis beenden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Er muss für seine Verbrechen büßen."</DefaultText>
+      <DefaultText>„Er muss für seine Verbrechen büßen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Er hat sich mit mir angelegt. Ich habe vor, Rache zu nehmen."</DefaultText>
+      <DefaultText>„Er hat sich mit mir angelegt. Ich habe vor, Rache zu nehmen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Wir scheinen verbunden zu sein - und ich muss wissen, warum."</DefaultText>
+      <DefaultText>„Wir scheinen verbunden zu sein&#160;– und ich muss wissen, warum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Ich weiß es selbst nicht genau."</DefaultText>
+      <DefaultText>„Ich weiß es selbst nicht genau.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Meine Beweggründe sind meine Sache. Es hat mit euch nichts zu tun."</DefaultText>
+      <DefaultText>„Meine Beweggründe sind meine Sache. Es hat mit euch nichts zu tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Auch, wenn ihm jede Vernunft fehlt, wir wissen, dass er nur hier ist, um den Mann Thaos ix Arkannon zu finden, mehr nicht."</DefaultText>
-      <FemaleText>"Auch, wenn ihr jede Vernunft fehlt, wir wissen, dass sie nur hier ist, um den Mann Thaos ix Arkannon zu finden, mehr nicht."</FemaleText>
+      <DefaultText>„Auch, wenn ihm jede Vernunft fehlt, wir wissen, dass er nur hier ist, um den Mann Thaos ix Arkannon zu finden, mehr nicht.“</DefaultText>
+      <FemaleText>„Auch, wenn ihr jede Vernunft fehlt, wir wissen, dass sie nur hier ist, um den Mann Thaos ix Arkannon zu finden, mehr nicht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Sîdhas Augen mustern dich einen kurzen Augenblick und du hast das dumpfe Gefühl, dass sie unter deine Haut blickt. "Ah ... tatsächlich. Ich hätte es vom ersten Moment an sehen müssen."</DefaultText>
+      <DefaultText>Sîdhas Augen mustern dich einen kurzen Augenblick und du hast das dumpfe Gefühl, dass sie unter deine Haut blickt. „Ah&#160;… tatsächlich. Ich hätte es vom ersten Moment an sehen müssen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Wir werden im Alter wohl nachlässig, Schwester."</DefaultText>
+      <DefaultText>„Wir werden im Alter wohl nachlässig, Schwester.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Deshalb also war er hier. Erbärmlich, selbst für den Bleiernen Schlüssel."</DefaultText>
+      <DefaultText>„Deshalb also war er hier. Erbärmlich, selbst für den Bleiernen Schlüssel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Ich habe doch gesagt, wir sollten ihn zur Rede stellen, Sîdha. Er war schon immer ein Gift."</DefaultText>
+      <DefaultText>„Ich habe doch gesagt, wir sollten ihn zur Rede stellen, Sîdha. Er war schon immer ein Gift.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Es wäre das Letzte gewesen, was wir je tun, Schwester. Wer kann schon von sich behaupten, gegen Thaos jemals als Sieger hervorgegangen zu sein?"</DefaultText>
+      <DefaultText>„Es wäre das Letzte gewesen, was wir je tun, Schwester. Wer kann schon von sich behaupten, gegen Thaos jemals als Sieger hervorgegangen zu sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Ja, aber stell dir nur vor, wie viel SPASS es gemacht hätte. Siehst du ihn nicht vor deinem geistigen Auge, in Ranken verwickelt wie ein wütende kleine Marionette? "</DefaultText>
+      <DefaultText>„Ja, aber stell dir nur vor, wie viel SPASS es gemacht hätte. Siehst du ihn nicht vor deinem geistigen Auge, in Ranken verwickelt wie ein wütende kleine Marionette?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Rîhenwns Laune hebt sich. "Schon viel sympathischer, Sîdha."</DefaultText>
+      <DefaultText>Rîhenwns Laune hebt sich. „Schon viel sympathischer, Sîdha.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Lächerlich. Wer verfolgt einen solchen Mann, ohne zu wissen warum?"</DefaultText>
+      <DefaultText>„Lächerlich. Wer verfolgt einen solchen Mann, ohne zu wissen warum?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Wühlen die jüngsten Ereignisse dich so auf, Schwester? Wie viele sind über die Jahre zu den Ulmen gekommen, ohne eine bessere Erklärung zu haben? Diese zwei teilen eine Verbindung, die sich über mehrere Leben erstreckt. Es war nur eine Frage der Zeit, bis sie sie hierher führt."</DefaultText>
+      <DefaultText>„Wühlen die jüngsten Ereignisse dich so auf, Schwester? Wie viele sind über die Jahre zu den Ulmen gekommen, ohne eine bessere Erklärung zu haben? Diese zwei teilen eine Verbindung, die sich über mehrere Leben erstreckt. Es war nur eine Frage der Zeit, bis sie sie hierher führt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Es hat ALLES mit uns zu tun. Wenn du nicht erfährst, was wir wissen, wirst du ihn niemals erreichen."</DefaultText>
+      <DefaultText>„Es hat ALLES mit uns zu tun. Wenn du nicht erfährst, was wir wissen, wirst du ihn niemals erreichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Unglücklicherweise, Rîhenwn, spüre ich, dass noch schlimmere Dinge lauern, wenn wir unser Wissen nicht teilen und diese zwei zusammenbringen."</DefaultText>
+      <DefaultText>„Unglücklicherweise, Rîhenwn, spüre ich, dass noch schlimmere Dinge lauern, wenn wir unser Wissen nicht teilen und diese zwei zusammenbringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"In der Tat. Ein verwandter Geist, wie mir scheint."</DefaultText>
+      <DefaultText>„In der Tat. Ein verwandter Geist, wie mir scheint.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Sîdha blickt zu dir hinüber und ihr Ausdruck ändert sich, als würde sie dich zum ersten Mal sehen. "Aber darum geht es doch im Grunde, nicht wahr? Du bist mit ihm verbunden."</DefaultText>
+      <DefaultText>Sîdha blickt zu dir hinüber und ihr Ausdruck ändert sich, als würde sie dich zum ersten Mal sehen. „Aber darum geht es doch im Grunde, nicht wahr? Du bist mit ihm verbunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Ich sehe es jetzt. Du bist erweckt worden. Deine Seele ist erweckt und etwas, was einst tief vergraben war, drängt nun an die Oberfläche. Die Vergangenheit überwältigt die Gegenwart, sie umschließt dich immer mehr. Deine Zeit hat fast ihr Ende erreicht."</DefaultText>
+      <DefaultText>„Ich sehe es jetzt. Du bist erweckt worden. Deine Seele ist erweckt und etwas, was einst tief vergraben war, drängt nun an die Oberfläche. Die Vergangenheit überwältigt die Gegenwart, sie umschließt dich immer mehr. Deine Zeit hat fast ihr Ende erreicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Sîdha blickt zu dir hinüber und ihr Ausdruck ändert sich, als würde sie dich zum ersten Mal sehen. "Aber darum geht es im Grunde gar nicht, nicht wahr? Du bist mit diesem Mann verbunden."</DefaultText>
+      <DefaultText>Sîdha blickt zu dir hinüber und ihr Ausdruck ändert sich, als würde sie dich zum ersten Mal sehen. „Aber darum geht es im Grunde gar nicht, nicht wahr? Du bist mit diesem Mann verbunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Es tut mir Leid, dir das sagen zu müssen, doch Thaos kann dir nicht geben, was du suchst. Kein Mann kann das. Eine Erweckung kann nicht rückgängig gemacht werden - ebenso wenig, wie deine Vergangenheit ungeschehen."</DefaultText>
+      <DefaultText>„Es tut mir Leid, dir das sagen zu müssen, doch Thaos kann dir nicht geben, was du suchst. Kein Mann kann das. Eine Erweckung kann nicht rückgängig gemacht werden&#160;– ebenso wenig, wie deine Vergangenheit ungeschehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Was meint sie damit? Ich dachte, Maerwald hätte gesagt-"</DefaultText>
+      <DefaultText>„Was meint sie damit? Ich dachte, Maerwald hätte gesagt&#160;–“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -290,542 +290,542 @@ Sîdha wendet sich wieder dir zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Wir haben nicht gemeinsam diesen Weg zurückgelegt, um uns von zwei sprechenden Schößlingen abwimmeln zu lassen."</DefaultText>
+      <DefaultText>„Wir haben nicht gemeinsam diesen Weg zurückgelegt, um uns von zwei sprechenden Schößlingen abwimmeln zu lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Aloths Gesicht ist starr. "Das ist ... dauerhaft?"</DefaultText>
+      <DefaultText>Aloths Gesicht ist starr. „Das ist&#160;… dauerhaft?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Was?" Kana blickt dich an. "Aber ... das kann nicht stimmen. Nicht nach allem. Es muss noch jemand anderen geben, den wir fragen können."</DefaultText>
+      <DefaultText>„Was?“ Kana blickt dich an. „Aber&#160;… das kann nicht stimmen. Nicht nach allem. Es muss noch jemand anderen geben, den wir fragen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Saganis Blick huscht zu dir. "Es tut mir leid."</DefaultText>
+      <DefaultText>Saganis Blick huscht zu dir. „Es tut mir leid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Madiccho! Es muss einen Weg geben!"</DefaultText>
+      <DefaultText>„Madiccho! Es muss einen Weg geben!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"An eine solche Vergangenheit gekettet zu sein ... " Ihr Gesicht ist fahl, ihre Augen leer. "Eine bittere, traurige Sache, Wächter."</DefaultText>
-      <FemaleText>"An eine solche Vergangenheit gekettet zu sein ... " Ihr Gesicht ist fahl, ihre Augen leer. "Eine bittere, traurige Sache, Wächterin."</FemaleText>
+      <DefaultText>„An eine solche Vergangenheit gekettet zu sein&#160;…“ Ihr Gesicht ist fahl, ihre Augen leer. „Eine bittere, traurige Sache, Wächter.“</DefaultText>
+      <FemaleText>„An eine solche Vergangenheit gekettet zu sein&#160;…“ Ihr Gesicht ist fahl, ihre Augen leer. „Eine bittere, traurige Sache, Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Es war also alles umsonst und ich werde den Verstand verlieren."</DefaultText>
+      <DefaultText>„Es war also alles umsonst und ich werde den Verstand verlieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Die Seele ist gestaltlos ohne Vergangenheit, die sie formen kann. Hast du wirklich erwartet, einfach alles wegwischen zu können?"</DefaultText>
+      <DefaultText>„Die Seele ist gestaltlos ohne Vergangenheit, die sie formen kann. Hast du wirklich erwartet, einfach alles wegwischen zu können?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Nein, aber ich hatte gehofft, es wäre etwas, was ich vergessen könnte."</DefaultText>
+      <DefaultText>„Nein, aber ich hatte gehofft, es wäre etwas, was ich vergessen könnte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Ich hätte lieber versucht, die Dinge zurechtzurücken."</DefaultText>
+      <DefaultText>„Ich hätte lieber versucht, die Dinge zurechtzurücken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Ich würde damit leben, wenn ich könnte."</DefaultText>
+      <DefaultText>„Ich würde damit leben, wenn ich könnte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Das ... oder den Mann töten, der es ausgelöst hat."</DefaultText>
+      <DefaultText>„Das&#160;… oder den Mann töten, der es ausgelöst hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Ich musste an etwas glauben."</DefaultText>
+      <DefaultText>„Ich musste an etwas glauben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Eine Gnade, gewiss. Aber wie kann man einer Seele Gnade gewähren, die sich bereits selbst für schuldig erklärt hat?"</DefaultText>
+      <DefaultText>„Eine Gnade, gewiss. Aber wie kann man einer Seele Gnade gewähren, die sich bereits selbst für schuldig erklärt hat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Ich hatte keine Wahl."</DefaultText>
+      <DefaultText>„Ich hatte keine Wahl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Ein edler Gedanke, wären da nicht die vielen vergangenen Leben, die dich von deinen Problemen trennen."</DefaultText>
+      <DefaultText>„Ein edler Gedanke, wären da nicht die vielen vergangenen Leben, die dich von deinen Problemen trennen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Das ist die Strafe, die wir alle zahlen müssen. Aber Strafe kann nicht für eine Vergangenheit gezahlt werden, die nur in Fragmenten und Bruchstücken bekannt ist."</DefaultText>
+      <DefaultText>„Das ist die Strafe, die wir alle zahlen müssen. Aber Strafe kann nicht für eine Vergangenheit gezahlt werden, die nur in Fragmenten und Bruchstücken bekannt ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Er kann keine Vergebung mehr erlangen, denn seine Taten lassen sich nicht rückgängig machen, ist dem so? Auch mir erscheint es so. Wenn das aber stimmt, dann seid ihr zwei vielleicht enger verbunden, als es dir bewusst ist."</DefaultText>
+      <DefaultText>„Er kann keine Vergebung mehr erlangen, denn seine Taten lassen sich nicht rückgängig machen, ist dem so? Auch mir erscheint es so. Wenn das aber stimmt, dann seid ihr zwei vielleicht enger verbunden, als es dir bewusst ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Du glaubst lieber an eine tröstliche Lüge als eine harte Wahrheit zu akzeptieren. Ein häufiger Wesenszug in deinesgleichen. In gewisser Weise liebenswert, aber es ist ein Hindernis. Eine Lüge in einer Lüge. Erst, wenn du dich dieser Wahrheit stellst, die Hoffnung auf eine Erlösung aufgibst und die gnadenlose Absolutheit akzeptierst, wird das wahre Wesen einer Seele offengelegt."</DefaultText>
+      <DefaultText>„Du glaubst lieber an eine tröstliche Lüge als eine harte Wahrheit zu akzeptieren. Ein häufiger Wesenszug in deinesgleichen. In gewisser Weise liebenswert, aber es ist ein Hindernis. Eine Lüge in einer Lüge. Erst, wenn du dich dieser Wahrheit stellst, die Hoffnung auf eine Erlösung aufgibst und die gnadenlose Absolutheit akzeptierst, wird das wahre Wesen einer Seele offengelegt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Wie dem auch sei. Meine Schwester hat zwar Recht, von einer Erweckung gibt es keinen Weg zurück ... aber vielleicht gibt es einen Weg vorwärts. Stimmst du nicht zu, Sîdha?"</DefaultText>
+      <DefaultText>„Wie dem auch sei. Meine Schwester hat zwar Recht, von einer Erweckung gibt es keinen Weg zurück&#160;… aber vielleicht gibt es einen Weg vorwärts. Stimmst du nicht zu, Sîdha?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Das würde ich ... würde der Weg nicht aller Wahrscheinlichkeit nach im Tod enden."</DefaultText>
+      <DefaultText>„Das würde ich&#160;… würde der Weg nicht aller Wahrscheinlichkeit nach im Tod enden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Ich muss einfach nur Thaos finden."</DefaultText>
+      <DefaultText>„Ich muss einfach nur Thaos finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Was ist?"</DefaultText>
+      <DefaultText>„Was ist?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Der Mann Thaos ... du musst es inzwischen bereits wissen ... ihr seid durch eine gemeinsame Vergangenheit verbunden. Ein Teil davon schlummert noch in dir, ungelöst, schwärend. Was es ist, das kann ich ebenso wenig sehen wie du. Und ohne dieses Wissen bist du dem Untergang geweiht."</DefaultText>
+      <DefaultText>„Der Mann Thaos&#160;… du musst es inzwischen bereits wissen&#160;… ihr seid durch eine gemeinsame Vergangenheit verbunden. Ein Teil davon schlummert noch in dir, ungelöst, schwärend. Was es ist, das kann ich ebenso wenig sehen wie du. Und ohne dieses Wissen bist du dem Untergang geweiht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Solltest du aber die Quelle dieser Zwietracht ergründen können, lässt sie sich vielleicht beilegen. Wobei es auch möglich ist, dass sie dich heute ebenso plagt wie damals ... und dein Ende nur noch schneller herbeiführt."</DefaultText>
+      <DefaultText>„Solltest du aber die Quelle dieser Zwietracht ergründen können, lässt sie sich vielleicht beilegen. Wobei es auch möglich ist, dass sie dich heute ebenso plagt wie damals&#160;… und dein Ende nur noch schneller herbeiführt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Meine Vergangenheit kommt in Bruchstücken zu mir zurück. Wie kann ich den Rest ergründen?"</DefaultText>
+      <DefaultText>„Meine Vergangenheit kommt in Bruchstücken zu mir zurück. Wie kann ich den Rest ergründen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Du kannst natürlich warten, bis sie von alleine kommt, doch wenn das geschieht, wird sie deinen gesunden Verstand endgültig verdrängen. Dies ist die Natur deines Zustands."</DefaultText>
+      <DefaultText>„Du kannst natürlich warten, bis sie von alleine kommt, doch wenn das geschieht, wird sie deinen gesunden Verstand endgültig verdrängen. Dies ist die Natur deines Zustands.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Oder du könntest von jemandem, der deine Vergangenheit bereits kennt, alles erfahren."</DefaultText>
+      <DefaultText>„Oder du könntest von jemandem, der deine Vergangenheit bereits kennt, alles erfahren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Thaos. Würde er sich daran erinnern?"</DefaultText>
+      <DefaultText>„Thaos. Würde er sich daran erinnern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Es heißt, die Götter hätten ihm ein perfektes Gedächtnis gegeben, auf dass er seinen Auftrag niemals vergesse. Wenn er es je wusste, dann weiß er es noch."</DefaultText>
+      <DefaultText>„Es heißt, die Götter hätten ihm ein perfektes Gedächtnis gegeben, auf dass er seinen Auftrag niemals vergesse. Wenn er es je wusste, dann weiß er es noch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Es scheint, als wärest du dem richtigen Mann aus den falschen Gründen gefolgt. Wir sehen es oft unter den Ulmen - die Seele zerrt den Verstand und den Körper aus unerklärlichen Gründen an unbekannte Orte. Du hast vielleicht schon häufig die Wege mit Thaos gekreuzt, in vielen Leben, ohne dass eine Erweckung dir den Grund dafür gezeigt hat."</DefaultText>
+      <DefaultText>„Es scheint, als wärest du dem richtigen Mann aus den falschen Gründen gefolgt. Wir sehen es oft unter den Ulmen&#160;– die Seele zerrt den Verstand und den Körper aus unerklärlichen Gründen an unbekannte Orte. Du hast vielleicht schon häufig die Wege mit Thaos gekreuzt, in vielen Leben, ohne dass eine Erweckung dir den Grund dafür gezeigt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Nicht, dass er es dir sagen würde."</DefaultText>
+      <DefaultText>„Nicht, dass er es dir sagen würde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Sicher ist nur, dass du nicht gefunden hast, wonach du gesucht hast."</DefaultText>
+      <DefaultText>„Sicher ist nur, dass du nicht gefunden hast, wonach du gesucht hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Ihr sagtet, ihr wüsstet, wohin er gegangen ist."</DefaultText>
+      <DefaultText>„Ihr sagtet, ihr wüsstet, wohin er gegangen ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
       <DefaultText>Sîdha nickt. Blätter rascheln aneinander.
 
-"Er ist unter den Turm gestiegen, an einen Ort, der noch älter ist als ich es bin. Das Volk von Engwith wandelte dort einst. Er ist auf dem Weg in die begrabene Stadt, Sonne im Schatten."</DefaultText>
+„Er ist unter den Turm gestiegen, an einen Ort, der noch älter ist als ich es bin. Das Volk von Engwith wandelte dort einst. Er ist auf dem Weg in die begrabene Stadt, Sonne im Schatten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Der Tod ist vielleicht besser als das, was mich erwartet."</DefaultText>
+      <DefaultText>„Der Tod ist vielleicht besser als das, was mich erwartet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Vielleicht. Doch nicht jeder Tod ist gleich, und der Mann, den du verfolgst, beherrscht tausende davon."</DefaultText>
+      <DefaultText>„Vielleicht. Doch nicht jeder Tod ist gleich, und der Mann, den du verfolgst, beherrscht tausende davon.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Du unterschätzt mich."</DefaultText>
+      <DefaultText>„Du unterschätzt mich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Oder vielleicht unterschätzt du deinen Feind, Alter. Während deine Seele mit jedem neuen Leben in ihrer Unwissenheit erneuert wird, erlangt die seine nur neue List und neue Entschlossenheit."</DefaultText>
-      <FemaleText>"Oder vielleicht unterschätzt du deinen Feind, Alte. Während deine Seele mit jedem neuen Leben in ihrer Unwissenheit erneuert wird, erlangt die seine nur neue List und neue Entschlossenheit."</FemaleText>
+      <DefaultText>„Oder vielleicht unterschätzt du deinen Feind, Alter. Während deine Seele mit jedem neuen Leben in ihrer Unwissenheit erneuert wird, erlangt die seine nur neue List und neue Entschlossenheit.“</DefaultText>
+      <FemaleText>„Oder vielleicht unterschätzt du deinen Feind, Alte. Während deine Seele mit jedem neuen Leben in ihrer Unwissenheit erneuert wird, erlangt die seine nur neue List und neue Entschlossenheit.“</FemaleText>
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Möge er dort unten bleiben und mit den Überresten seines Volkes verrotten."</DefaultText>
+      <DefaultText>„Möge er dort unten bleiben und mit den Überresten seines Volkes verrotten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Vielleicht wird er das. Er wird nicht auf dem Weg zurückkehren, auf dem er gekommen ist, das ist gewiss. Er hat einen geheimen Pfad im Fuß des Turms geöffnet, der hinter ihm auf schändlichem Wege zerstört wurde."</DefaultText>
+      <DefaultText>„Vielleicht wird er das. Er wird nicht auf dem Weg zurückkehren, auf dem er gekommen ist, das ist gewiss. Er hat einen geheimen Pfad im Fuß des Turms geöffnet, der hinter ihm auf schändlichem Wege zerstört wurde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Gibt es einen anderen Weg, zu ihm zu gelangen?"</DefaultText>
+      <DefaultText>„Gibt es einen anderen Weg, zu ihm zu gelangen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Wir kennen einen. Auf der Grabinsel, durch den Hof der Büßer, Breith Eaman. Es ist sogar eine Abkürzung."</DefaultText>
+      <DefaultText>„Wir kennen einen. Auf der Grabinsel, durch den Hof der Büßer, Breith Eaman. Es ist sogar eine Abkürzung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Sei nicht grausam, Schwester."</DefaultText>
+      <DefaultText>„Sei nicht grausam, Schwester.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Der Weg, von dem meine Schwester spricht, ist nichts für Zartbesaitete. Eine große Grube inmitten eines vergessenen Hofes, an dem nicht über Verbrechen geurteilt wurde, sondern über Glauben. Für die meisten ist sie lediglich ein Pfad zum Tod. Mit der Hilfe der Götter kann er dich dorthin bringen, wo du hin willst."</DefaultText>
+      <DefaultText>„Der Weg, von dem meine Schwester spricht, ist nichts für Zartbesaitete. Eine große Grube inmitten eines vergessenen Hofes, an dem nicht über Verbrechen geurteilt wurde, sondern über Glauben. Für die meisten ist sie lediglich ein Pfad zum Tod. Mit der Hilfe der Götter kann er dich dorthin bringen, wo du hin willst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Was soll das heißen, 'mit der Hilfe der Götter'?"</DefaultText>
+      <DefaultText>„Was soll das heißen, ‚mit der Hilfe der Götter‘?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Ich muss in eine Grube springen? Ist das eine List?"</DefaultText>
+      <DefaultText>„Ich muss in eine Grube springen? Ist das eine List?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Die Grube soll den Göttern dazu gedient haben, ihr Urteil zu vollstrecken. Wer in sie geworfen wird, der soll sterben."
+      <DefaultText>„Die Grube soll den Göttern dazu gedient haben, ihr Urteil zu vollstrecken. Wer in sie geworfen wird, der soll sterben.“
 
-"Diesen Weg musst du passieren, um Sonne im Schatten zu erreichen."</DefaultText>
+„Diesen Weg musst du passieren, um Sonne im Schatten zu erreichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Ach, Schwester! Wären wir nur auf den Gedanken gekommen, Thaos durch eine List zum Springen zu bringen."</DefaultText>
+      <DefaultText>„Ach, Schwester! Wären wir nur auf den Gedanken gekommen, Thaos durch eine List zum Springen zu bringen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Keine List, fürchte ich. Doch ohne die richtigen Vorkehrungen wird der Sturz dich gewiss töten."</DefaultText>
+      <DefaultText>„Keine List, fürchte ich. Doch ohne die richtigen Vorkehrungen wird der Sturz dich gewiss töten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Der Hof ist alt. Wir wissen nur wenig mit Sicherheit. Doch es scheint, als könnten nur die Götter selbst den Durchgang gewähren."</DefaultText>
+      <DefaultText>„Der Hof ist alt. Wir wissen nur wenig mit Sicherheit. Doch es scheint, als könnten nur die Götter selbst den Durchgang gewähren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Hinter uns liegt Teir Evron, der angeblich den Schleier selbst durchsticht und ein Ort der Zwiesprache mit allen Göttern ist. Gab es jemals den richtigen Zeitpunkt zum Beten, so hast du ihn gefunden."</DefaultText>
+      <DefaultText>„Hinter uns liegt Teir Evron, der angeblich den Schleier selbst durchsticht und ein Ort der Zwiesprache mit allen Göttern ist. Gab es jemals den richtigen Zeitpunkt zum Beten, so hast du ihn gefunden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Um Hilfe zu beten ist also der einzige Weg, diese Grube zu durchqueren?"</DefaultText>
+      <DefaultText>„Um Hilfe zu beten ist also der einzige Weg, diese Grube zu durchqueren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Zu wem soll ich beten?"</DefaultText>
+      <DefaultText>„Zu wem soll ich beten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Gibt es keinen anderen Weg?"</DefaultText>
+      <DefaultText>„Gibt es keinen anderen Weg?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Zu jedem Gott, zu dem du beten kannst."</DefaultText>
+      <DefaultText>„Zu jedem Gott, zu dem du beten kannst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Ich würde zunächst zu den Göttern beten, die du am liebsten magst. Ich hoffe um deinetwillen, dass sie deine Gefühle erwidern."</DefaultText>
+      <DefaultText>„Ich würde zunächst zu den Göttern beten, die du am liebsten magst. Ich hoffe um deinetwillen, dass sie deine Gefühle erwidern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Nicht der einzige Weg. Nur der Einzige, der nicht damit endet, dass dein Körper auf spitzen Felsen aufgespießt wird."</DefaultText>
+      <DefaultText>„Nicht der einzige Weg. Nur der Einzige, der nicht damit endet, dass dein Körper auf spitzen Felsen aufgespießt wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Ich habe noch andere Fragen."</DefaultText>
+      <DefaultText>„Ich habe noch andere Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Keinen."</DefaultText>
+      <DefaultText>„Keinen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Wie bete ich?"</DefaultText>
+      <DefaultText>„Wie bete ich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Teir Evron wird auch 'Halle der Sterne' genannt, und die Sterne zeigen uns die Beziehungen der Götter an. Wenn die Sterne in Konjunktion stehen, wissen wir, dass auch die Götter, für die sie stehen, im Einklang stehen."</DefaultText>
+      <DefaultText>„Teir Evron wird auch ‚Halle der Sterne‘ genannt, und die Sterne zeigen uns die Beziehungen der Götter an. Wenn die Sterne in Konjunktion stehen, wissen wir, dass auch die Götter, für die sie stehen, im Einklang stehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Was möchtest du wissen?"</DefaultText>
+      <DefaultText>„Was möchtest du wissen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Woher wisst ihr, dass ich nach Thaos suche?"</DefaultText>
+      <DefaultText>„Woher wisst ihr, dass ich nach Thaos suche?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Ihr habt erwähnt, dass viele zu diesen Ulmen kommen, ohne zu wissen warum."</DefaultText>
+      <DefaultText>„Ihr habt erwähnt, dass viele zu diesen Ulmen kommen, ohne zu wissen warum.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Ich will mehr über euch zwei erfahren."</DefaultText>
+      <DefaultText>„Ich will mehr über euch zwei erfahren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Leb wohl."</DefaultText>
+      <DefaultText>„Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Genau so, wie du zweifellos in der Lage bist, in den Äther zu blicken und die Seele von anderen zu erfahren. Wir werden damit geboren, manche mehr, manche weniger. Eine Gabe, die vielen Geschöpfen der Wildnis gemein ist."</DefaultText>
+      <DefaultText>„Genau so, wie du zweifellos in der Lage bist, in den Äther zu blicken und die Seele von anderen zu erfahren. Wir werden damit geboren, manche mehr, manche weniger. Eine Gabe, die vielen Geschöpfen der Wildnis gemein ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Du hast gewisse ... Ähnlichkeiten mit dem Mann, den du verfolgst. Ich bete um deinetwillen, dass es wenige sind und sie ohne Folgen bleiben."</DefaultText>
+      <DefaultText>„Du hast gewisse&#160;… Ähnlichkeiten mit dem Mann, den du verfolgst. Ich bete um deinetwillen, dass es wenige sind und sie ohne Folgen bleiben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Ich muss wissen, wie ich zu den Göttern beten kann, um ihre Hilfe zu erhalten."</DefaultText>
+      <DefaultText>„Ich muss wissen, wie ich zu den Göttern beten kann, um ihre Hilfe zu erhalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Wir sagen dir, was wir können."</DefaultText>
+      <DefaultText>„Wir sagen dir, was wir können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Eine Seele hat einen eigenen Willen. Ihre Bedürfnisse und Launen sind schwer zu ergründen. Aber sie folgt ihnen dennoch."</DefaultText>
+      <DefaultText>„Eine Seele hat einen eigenen Willen. Ihre Bedürfnisse und Launen sind schwer zu ergründen. Aber sie folgt ihnen dennoch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Irgendetwas an diesem Ort erstreckt sich über unser Bewusstsein hinaus, wie ein Leuchtfeuer. Die Ulmen verstehen es, Seelen zu vereinen, die einander suchen, ob ihre Besitzer es wissen oder nicht."</DefaultText>
+      <DefaultText>„Irgendetwas an diesem Ort erstreckt sich über unser Bewusstsein hinaus, wie ein Leuchtfeuer. Die Ulmen verstehen es, Seelen zu vereinen, die einander suchen, ob ihre Besitzer es wissen oder nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Manchmal aus Liebe, manchmal aus Rache, manchmal aus Frieden. Oft aus einem Grund, den wir nie erfahren werden. Hoffen wir, dass es in deinem Fall um Frieden geht."</DefaultText>
+      <DefaultText>„Manchmal aus Liebe, manchmal aus Rache, manchmal aus Frieden. Oft aus einem Grund, den wir nie erfahren werden. Hoffen wir, dass es in deinem Fall um Frieden geht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Oder Rache."</DefaultText>
+      <DefaultText>„Oder Rache.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Über uns gibt es wenig zu sagen. Wir sind an diesen Ort gebunden, als Verwalterinnen und Verteidigerinnen. Unsere Reise erstreckt sich über die Zeit, nicht über Entfernungen. Gemessen in Beobachtungen, nicht Erfahrungen."</DefaultText>
+      <DefaultText>„Über uns gibt es wenig zu sagen. Wir sind an diesen Ort gebunden, als Verwalterinnen und Verteidigerinnen. Unsere Reise erstreckt sich über die Zeit, nicht über Entfernungen. Gemessen in Beobachtungen, nicht Erfahrungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Wir haben die Ulmen wachsen sehen. Wir haben gesehen, wie Städte gebaut wurden, niedergebrannt und wieder aufgebaut. Die einzige Konstante war der Turm, ein stummer Gefährte durch die Zeit. Du kannst dir vorstellen, warum diese jüngste Zerstörung meine Schwester so aufgewühlt hat."</DefaultText>
+      <DefaultText>„Wir haben die Ulmen wachsen sehen. Wir haben gesehen, wie Städte gebaut wurden, niedergebrannt und wieder aufgebaut. Die einzige Konstante war der Turm, ein stummer Gefährte durch die Zeit. Du kannst dir vorstellen, warum diese jüngste Zerstörung meine Schwester so aufgewühlt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Wenn du sonst nichts schaffst dann sorge zumindest dafür, dass dieser Mann, für das, was er hier getan hat, bezahlt."</DefaultText>
+      <DefaultText>„Wenn du sonst nichts schaffst dann sorge zumindest dafür, dass dieser Mann, für das, was er hier getan hat, bezahlt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Bevor du gehst, sag mir eins, Alter. Ich bin neugierig. Gelingt es dir, deinen Feind zu überwältigen, was wirst du mit ihm tun? Was würde dir Frieden schenken?"</DefaultText>
-      <FemaleText>"Bevor du gehst, sag mir eins, Alte. Ich bin neugierig. Gelingt es dir, deinen Feind zu überwältigen, was wirst du mit ihm tun? Was würde dir Frieden schenken?"</FemaleText>
+      <DefaultText>„Bevor du gehst, sag mir eins, Alter. Ich bin neugierig. Gelingt es dir, deinen Feind zu überwältigen, was wirst du mit ihm tun? Was würde dir Frieden schenken?“</DefaultText>
+      <FemaleText>„Bevor du gehst, sag mir eins, Alte. Ich bin neugierig. Gelingt es dir, deinen Feind zu überwältigen, was wirst du mit ihm tun? Was würde dir Frieden schenken?“</FemaleText>
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Das weiß ich erst, wenn es soweit ist."</DefaultText>
+      <DefaultText>„Das weiß ich erst, wenn es soweit ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>"Ich muss unsere Geschichte verstehen, damit ich sie abschließen kann. Mehr nicht."</DefaultText>
+      <DefaultText>„Ich muss unsere Geschichte verstehen, damit ich sie abschließen kann. Mehr nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Er muss vernichtet werden."</DefaultText>
+      <DefaultText>„Er muss vernichtet werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Ich würde ihn in das Rad von Leben und Tod zurückkehren lassen, damit er mich nicht länger belästigt."</DefaultText>
+      <DefaultText>„Ich würde ihn in das Rad von Leben und Tod zurückkehren lassen, damit er mich nicht länger belästigt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>"Ich möchte das Leid ungeschehen machen, das er verursacht hat."</DefaultText>
+      <DefaultText>„Ich möchte das Leid ungeschehen machen, das er verursacht hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Ich möchte seine Position und seine Macht für mich haben."</DefaultText>
+      <DefaultText>„Ich möchte seine Position und seine Macht für mich haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Ich würde ihn überzeugen, einen besseren Weg einzuschlagen."</DefaultText>
+      <DefaultText>„Ich würde ihn überzeugen, einen besseren Weg einzuschlagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Sîdha nickt. "Viele Fragen gilt es noch zu beantworten."</DefaultText>
+      <DefaultText>Sîdha nickt. „Viele Fragen gilt es noch zu beantworten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Und sei gewarnt. Manche Fragen haben Antworten, die man nie ergründen kann. Sie sind es, die vor allen anderen die Seele belasten."</DefaultText>
+      <DefaultText>„Und sei gewarnt. Manche Fragen haben Antworten, die man nie ergründen kann. Sie sind es, die vor allen anderen die Seele belasten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Auf bald, Alter."</DefaultText>
-      <FemaleText>"Auf bald, Alte."</FemaleText>
+      <DefaultText>„Auf bald, Alter.“</DefaultText>
+      <FemaleText>„Auf bald, Alte.“</FemaleText>
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Mögest du eine Antwort auf deine Frage finden."</DefaultText>
+      <DefaultText>„Mögest du eine Antwort auf deine Frage finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Ein gerechtes Ende für einen brutalen Mann. Grüße ihn recht schmerzlich."</DefaultText>
+      <DefaultText>„Ein gerechtes Ende für einen brutalen Mann. Grüße ihn recht schmerzlich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Dennoch, denke darüber nach. Sei dir deines Weges sicher. Es könnte den Unterschied ausmachen, nicht nur für seine Seele, sondern auch für deine."</DefaultText>
+      <DefaultText>„Dennoch, denke darüber nach. Sei dir deines Weges sicher. Es könnte den Unterschied ausmachen, nicht nur für seine Seele, sondern auch für deine.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>Rîhenwn seufzt mit einem hohlen Widerhall. "Warum ihn so glimpflich davonkommen lassen? Man bräuchte einen Hain aus Ulmen wie diesen, um genügend Pergament zu fertigen, um seine Verbrechen gegen die Welt niederzuschreiben. Es muss doch eine schwerere Strafe geben, die du vollstrecken kannst."</DefaultText>
+      <DefaultText>Rîhenwn seufzt mit einem hohlen Widerhall. „Warum ihn so glimpflich davonkommen lassen? Man bräuchte einen Hain aus Ulmen wie diesen, um genügend Pergament zu fertigen, um seine Verbrechen gegen die Welt niederzuschreiben. Es muss doch eine schwerere Strafe geben, die du vollstrecken kannst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Gewiss, Schwester, muss er tun, was für ihn richtig ist."</DefaultText>
-      <FemaleText>"Gewiss, Schwester, muss sie tun, was für sie richtig ist."</FemaleText>
+      <DefaultText>„Gewiss, Schwester, muss er tun, was für ihn richtig ist.“</DefaultText>
+      <FemaleText>„Gewiss, Schwester, muss sie tun, was für sie richtig ist.“</FemaleText>
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"Man bräuchte doppelt so viele Leben, wie er sie gelebt hat, um sein brutales Werk rückgängig zu machen."</DefaultText>
+      <DefaultText>„Man bräuchte doppelt so viele Leben, wie er sie gelebt hat, um sein brutales Werk rückgängig zu machen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"Aber vielleicht kannst du kleine Schritte tun."</DefaultText>
+      <DefaultText>„Aber vielleicht kannst du kleine Schritte tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>"Was für ein trauriges kleines Geschöpf du doch bist. Du gehörst wahrlich zu Thaos. Geh und begrabe dich mit ihm."</DefaultText>
+      <DefaultText>„Was für ein trauriges kleines Geschöpf du doch bist. Du gehörst wahrlich zu Thaos. Geh und begrabe dich mit ihm.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>Rîhenwn schnaubt verächtlich. "Der beste Weg für ihn ist der, der zu einem hungrigen Drachen führt."</DefaultText>
+      <DefaultText>Rîhenwn schnaubt verächtlich. „Der beste Weg für ihn ist der, der zu einem hungrigen Drachen führt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Er hatte tausende von Jahren, um sich zu entscheiden. Ich würde nicht darauf wetten, dass er sich ändert."</DefaultText>
+      <DefaultText>„Er hatte tausende von Jahren, um sich zu entscheiden. Ich würde nicht darauf wetten, dass er sich ändert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Ich habe Fragen."</DefaultText>
+      <DefaultText>„Ich habe Fragen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Leb wohl."</DefaultText>
+      <DefaultText>„Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>"Was ist das für ein Hof?"</DefaultText>
+      <DefaultText>„Was ist das für ein Hof?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>"Nur noch eine Ruine. Er ist älter als wir. Ein Ort, an dem Ketzern der Prozess gemacht wurde."
+      <DefaultText>„Nur noch eine Ruine. Er ist älter als wir. Ein Ort, an dem Ketzern der Prozess gemacht wurde.“
 
-"Wir waren nicht Zeuge, doch einst gab es eine Gruppe, die sich weigerte, die Existenz der Götter anzuerkennen. Nicht die Erste und nicht die Letzte, gewiss, doch diese Bewegung hatte viele Anhänger, denen allen der Prozess gemacht wurde. Wer nicht widerrief, wer nicht Buße tat, der wurde in die Grube geworfen und unten gefangen gehalten."</DefaultText>
+„Wir waren nicht Zeuge, doch einst gab es eine Gruppe, die sich weigerte, die Existenz der Götter anzuerkennen. Nicht die Erste und nicht die Letzte, gewiss, doch diese Bewegung hatte viele Anhänger, denen allen der Prozess gemacht wurde. Wer nicht widerrief, wer nicht Buße tat, der wurde in die Grube geworfen und unten gefangen gehalten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Der Sturz tötete sie natürlich. Das Gefängnis war nicht für die Menschen, sondern für ihre Seelen, und ihre Strafen waren für die Ewigkeit."
+      <DefaultText>„Der Sturz tötete sie natürlich. Das Gefängnis war nicht für die Menschen, sondern für ihre Seelen, und ihre Strafen waren für die Ewigkeit.“
 
-"Es heißt, dass viele der Verurteilten Buße taten und von den Göttern die Erlaubnis erhielten, aus der Grube aufzusteigen, wenn sie schwörten, zukünftig einem von ihnen zu dienen. Aber das sind alte Legenden."</DefaultText>
+„Es heißt, dass viele der Verurteilten Buße taten und von den Göttern die Erlaubnis erhielten, aus der Grube aufzusteigen, wenn sie schwörten, zukünftig einem von ihnen zu dienen. Aber das sind alte Legenden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Wie könnte ich die Götter je dazu bringen, mir zu helfen?"</DefaultText>
+      <DefaultText>„Wie könnte ich die Götter je dazu bringen, mir zu helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>"Du solltest an einem Ort beten, an dem du der Gottheit am nächsten bist, die du anrufen möchtest."
+      <DefaultText>„Du solltest an einem Ort beten, an dem du der Gottheit am nächsten bist, die du anrufen möchtest.“
 
-"Wenn ein Gott allein steht, solltest du zu diesem Gott beten. Wenn sie sich zusammenschließen, solltest du zu ihnen allen beten. Wähle deine Worte mit Bedacht, denn alle Götter erwarten, dass man ihnen angemessenen Ehrerbietung erweist, und keiner toleriert Narren."</DefaultText>
+„Wenn ein Gott allein steht, solltest du zu diesem Gott beten. Wenn sie sich zusammenschließen, solltest du zu ihnen allen beten. Wähle deine Worte mit Bedacht, denn alle Götter erwarten, dass man ihnen angemessenen Ehrerbietung erweist, und keiner toleriert Narren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

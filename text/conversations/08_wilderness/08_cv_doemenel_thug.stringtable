@@ -8,24 +8,24 @@
       <ID>1</ID>
       <DefaultText>Eine Gruppe hart aussehender Grobiane nähert sich dir. Äußerst seltsam, immerhin befindest du dich mitten im Nirgendwo.
 
-"Gedmar Doemenel lässt grüßen", sagt einer von ihnen. "Und er bestellt deiner Familie sein Beileid."</DefaultText>
+„Gedmar Doemenel lässt grüßen“, sagt einer von ihnen. „Und er bestellt deiner Familie sein Beileid.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Beileid?"</DefaultText>
+      <DefaultText>„Beileid?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText> [Angreifen] "Seltsam. Genau das wollte ich euren Familien bestellen."</DefaultText>
+      <DefaultText>[Angreifen] „Seltsam. Genau das wollte ich euren Familien bestellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Der Anführer der Gruppe zieht eine Klinge. Sie wurde offensichtlich schon häufig verwendet.
 
-"Wenn ein Doemenel einem ein Geschäft anbietet, geht man darauf ein."</DefaultText>
+„Wenn ein Doemenel einem ein Geschäft anbietet, geht man darauf ein.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

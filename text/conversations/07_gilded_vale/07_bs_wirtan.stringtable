@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Elendige ... Biester ..."</DefaultText>
+      <DefaultText>„Elendige&#160;… Biester&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"H-hallo? Wer ist da?"</DefaultText>
+      <DefaultText>„H-hallo? Wer ist da?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Bitte, hilf mir hier ... "</DefaultText>
+      <DefaultText>„Bitte, hilf mir hier&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

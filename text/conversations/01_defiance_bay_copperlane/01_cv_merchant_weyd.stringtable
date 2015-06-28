@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Der Händler lächelt freundlich. "Sei gegrüßt, Reisender. Möchtest du Proviant für deine Reisen kaufen?"</DefaultText>
-      <FemaleText>Der Händler lächelt freundlich. "Sei gegrüßt, Reisende. Möchtest du Proviant für deine Reisen kaufen?"</FemaleText>
+      <DefaultText>Der Händler lächelt freundlich. „Sei gegrüßt, Reisender. Möchtest du Proviant für deine Reisen kaufen?“</DefaultText>
+      <FemaleText>Der Händler lächelt freundlich. „Sei gegrüßt, Reisende. Möchtest du Proviant für deine Reisen kaufen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Zeig mir deine Waren."</DefaultText>
+      <DefaultText>„Zeig mir deine Waren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Verkaufst du einen Dolch aus Markstahl?"</DefaultText>
+      <DefaultText>„Verkaufst du einen Dolch aus Markstahl?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,19 +26,19 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Narmer blinzelt dich an. "Verzeihung, aber ich verkaufe hier keine Waffen. Nur Obst, Gemüse und Fleisch. Möchtest du davon vielleicht etwas kaufen?"</DefaultText>
+      <DefaultText>Narmer blinzelt dich an. „Verzeihung, aber ich verkaufe hier keine Waffen. Nur Obst, Gemüse und Fleisch. Möchtest du davon vielleicht etwas kaufen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Suchst du nach frischem Obst und Gemüse?"</DefaultText>
+      <DefaultText>„Suchst du nach frischem Obst und Gemüse?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich bin froh, dass die Kämpfe endlich ein Ende haben. Ich hatte keine Ahnung, was eigentlich los ist, als ich den Lärm aus Urfeuer gehört habe, aber ich bin froh, dass ich davongelaufen bin."
+      <DefaultText>„Ich bin froh, dass die Kämpfe endlich ein Ende haben. Ich hatte keine Ahnung, was eigentlich los ist, als ich den Lärm aus Urfeuer gehört habe, aber ich bin froh, dass ich davongelaufen bin.“
 
-Er wischt sich die Hände an seinem Wams ab. "Willst du Vorräte kaufen?"</DefaultText>
+Er wischt sich die Hände an seinem Wams ab. „Willst du Vorräte kaufen?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

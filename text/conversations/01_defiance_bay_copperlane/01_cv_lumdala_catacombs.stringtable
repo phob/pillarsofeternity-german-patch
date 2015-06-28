@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Lumdala tritt aus den Schatten hervor. Ihre silbrigen Augen leuchten im Dunklen. "Sieh an, sieh an. Wenn das mal nicht unser Freund aus der Dunrydstraße ist."</DefaultText>
-      <FemaleText>Lumdala tritt aus den Schatten hervor. Ihre silbrigen Augen leuchten im Dunklen. "Sieh an, sieh an. Wenn das mal nicht unsere Freundin aus der Dunrydstraße ist."</FemaleText>
+      <DefaultText>Lumdala tritt aus den Schatten hervor. Ihre silbrigen Augen leuchten im Dunklen. „Sieh an, sieh an. Wenn das mal nicht unser Freund aus der Dunrydstraße ist.“</DefaultText>
+      <FemaleText>Lumdala tritt aus den Schatten hervor. Ihre silbrigen Augen leuchten im Dunklen. „Sieh an, sieh an. Wenn das mal nicht unsere Freundin aus der Dunrydstraße ist.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Lumdala tritt aus den Schatten hervor. Ihre silbrigen Augen leuchten im Dunklen. "Sieh an, sieh an. Wenn das mal nicht unser neugieriger Freund ist."</DefaultText>
-      <FemaleText>Lumdala tritt aus den Schatten hervor. Ihre silbrigen Augen leuchten im Dunklen. "Sieh an, sieh an. Wenn das mal nicht unsere neugierige Freundin ist."</FemaleText>
+      <DefaultText>Lumdala tritt aus den Schatten hervor. Ihre silbrigen Augen leuchten im Dunklen. „Sieh an, sieh an. Wenn das mal nicht unser neugieriger Freund ist.“</DefaultText>
+      <FemaleText>Lumdala tritt aus den Schatten hervor. Ihre silbrigen Augen leuchten im Dunklen. „Sieh an, sieh an. Wenn das mal nicht unsere neugierige Freundin ist.“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Eine große, anmutige Frau, für die Bühne geschminkt, erschrickt, als sie dich sieht. Du erkennst sie aus Koras Erinnerungen. "Wer bist du und was tust du hier unten?"</DefaultText>
+      <DefaultText>Eine große, anmutige Frau, für die Bühne geschminkt, erschrickt, als sie dich sieht. Du erkennst sie aus Koras Erinnerungen. „Wer bist du und was tust du hier unten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Was willst du?"</DefaultText>
+      <DefaultText>„Was willst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Du bist ein Monster. Wie konntest du das diesen Menschen antun?"</DefaultText>
+      <DefaultText>„Du bist ein Monster. Wie konntest du das diesen Menschen antun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,142 +36,142 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[Angreifen] "Du wirst dafür bezahlen, was du diesen Menschen angetan hast."</DefaultText>
+      <DefaultText>[Angreifen] „Du wirst dafür bezahlen, was du diesen Menschen angetan hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Sie winkt mit einer Hand ab, die Fingernägel frisch gepflegt. "Ganz einfach. Meine Gäste wissen wahre Kunst zu schätzen, und sie bezahlen gut dafür. Die Schauspieler dagegen ... " Sie zuckt mit den Achseln. "Sie waren Niemande. Durch ihren Tod habe ich ihrem Leben einen Sinn gegeben. Ist es nicht vielsagend, dass die Behörden sich nie die Mühe gemacht haben, nach ihnen zu suchen?"</DefaultText>
+      <DefaultText>Sie winkt mit einer Hand ab, die Fingernägel frisch gepflegt. „Ganz einfach. Meine Gäste wissen wahre Kunst zu schätzen, und sie bezahlen gut dafür. Die Schauspieler dagegen&#160;…“ Sie zuckt mit den Achseln. „Sie waren Niemande. Durch ihren Tod habe ich ihrem Leben einen Sinn gegeben. Ist es nicht vielsagend, dass die Behörden sich nie die Mühe gemacht haben, nach ihnen zu suchen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ein Jammer, dass er nicht mehr Engagement für unser Handwerk gezeigt hat." Ein grausames Grinsen spielt über ihre Lippen. "Er war immer sehr leicht zu motivieren."</DefaultText>
+      <DefaultText>„Ein Jammer, dass er nicht mehr Engagement für unser Handwerk gezeigt hat.“ Ein grausames Grinsen spielt über ihre Lippen. „Er war immer sehr leicht zu motivieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Sie verschränkt die Arme und hebt das Kinn. "Wir Schauspieler werden nicht für unsere Diskretion bezahlt, weißt du. Kadal hat dich gewiss mit einer beeindruckenden Darbietung um Gnade angefleht ... Aber er hat sich selbst überboten, als ich kam."</DefaultText>
+      <DefaultText>Sie verschränkt die Arme und hebt das Kinn. „Wir Schauspieler werden nicht für unsere Diskretion bezahlt, weißt du. Kadal hat dich gewiss mit einer beeindruckenden Darbietung um Gnade angefleht&#160;… Aber er hat sich selbst überboten, als ich kam.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Betrachte es von folgender Warte: Ich befriedige nur eine Nachfrage. Ich biete dir den Mann, der meine Aufführungen durch sein Geld und seine Verbindungen überhaupt erst ermöglicht hat."</DefaultText>
+      <DefaultText>„Betrachte es von folgender Warte: Ich befriedige nur eine Nachfrage. Ich biete dir den Mann, der meine Aufführungen durch sein Geld und seine Verbindungen überhaupt erst ermöglicht hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Sie mustert dich. "Ich habe einen Vorschlag."</DefaultText>
+      <DefaultText>Sie mustert dich. „Ich habe einen Vorschlag.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Du arbeitest für die Dunrydstraße, wie man hört. Ich kann dir einen Namen nennen, der für deinen Arbeitgeber noch wertvoller wäre als der meine."</DefaultText>
+      <DefaultText>„Du arbeitest für die Dunrydstraße, wie man hört. Ich kann dir einen Namen nennen, der für deinen Arbeitgeber noch wertvoller wäre als der meine.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Ich höre."</DefaultText>
+      <DefaultText>„Ich höre.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>[Angreifen] "Keine Mauscheleien, es endet hier."</DefaultText>
+      <DefaultText>[Angreifen] „Keine Mauscheleien, es endet hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ich organisiere meine Aufführungen für gewisse wohlhabende Mäzene. Einer von ihnen wäre ein besonders großer Fang. Du willigst in einen Waffenstillstand ein und ich gebe dir seinen Namen."</DefaultText>
+      <DefaultText>„Ich organisiere meine Aufführungen für gewisse wohlhabende Mäzene. Einer von ihnen wäre ein besonders großer Fang. Du willigst in einen Waffenstillstand ein und ich gebe dir seinen Namen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Also gut, ich tue es."</DefaultText>
+      <DefaultText>„Also gut, ich tue es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Nein."</DefaultText>
+      <DefaultText>„Nein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Sie blickt dich anerkennend an. "Welch Präsenz. Du hättest einen wunderbaren Schauspieler abgegeben. Aber vielleicht können wir dennoch zusammenarbeiten."</DefaultText>
-      <FemaleText>Sie blickt dich anerkennend an. "Welch Präsenz. Du hättest eine wunderbare Schauspielerin abgegeben. Aber vielleicht können wir dennoch zusammenarbeiten."</FemaleText>
+      <DefaultText>Sie blickt dich anerkennend an. „Welch Präsenz. Du hättest einen wunderbaren Schauspieler abgegeben. Aber vielleicht können wir dennoch zusammenarbeiten.“</DefaultText>
+      <FemaleText>Sie blickt dich anerkennend an. „Welch Präsenz. Du hättest eine wunderbare Schauspielerin abgegeben. Aber vielleicht können wir dennoch zusammenarbeiten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Sie hält inne und beobachtet deine Reaktion. "Wir beide wollen hier lebend herauskommen. Aber du brauchst gewiss einen Sündenbock. Zufälligerweise kenne ich jemanden, der für diese Rolle perfekt geeignet ist."</DefaultText>
+      <DefaultText>Sie hält inne und beobachtet deine Reaktion. „Wir beide wollen hier lebend herauskommen. Aber du brauchst gewiss einen Sündenbock. Zufälligerweise kenne ich jemanden, der für diese Rolle perfekt geeignet ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ich muss darüber nachdenken."</DefaultText>
+      <DefaultText>„Ich muss darüber nachdenken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Lumdala greift nach einer Waffe an ihrer Seite. "Dieses Zögern lässt mich nichts Gutes hoffen. Ich gebe dir noch eine letzte Chance. Entscheide dich, jetzt sofort."</DefaultText>
+      <DefaultText>Lumdala greift nach einer Waffe an ihrer Seite. „Dieses Zögern lässt mich nichts Gutes hoffen. Ich gebe dir noch eine letzte Chance. Entscheide dich, jetzt sofort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Lumdala zuckt mit den Schultern. "Wie du wünschst."</DefaultText>
+      <DefaultText>Lumdala zuckt mit den Schultern. „Wie du wünschst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Wunderbar. Der Mann, nach dem du suchst, ist Fürst Gaderman. Suche ihn selbst in Farnheim auf oder melde ihn den Behörden, mir ist es gleich. Und nun sollten wir von der Bühne abtreten."</DefaultText>
+      <DefaultText>„Wunderbar. Der Mann, nach dem du suchst, ist Fürst Gaderman. Suche ihn selbst in Farnheim auf oder melde ihn den Behörden, mir ist es gleich. Und nun sollten wir von der Bühne abtreten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Du gehst lieber."</DefaultText>
+      <DefaultText>„Du gehst lieber.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Sie deutet auf die Schauspieler in ihrer Begleitung. "Haltet ihn auf."</DefaultText>
-      <FemaleText>Sie deutet auf die Schauspieler in ihrer Begleitung. "Haltet sie auf."</FemaleText>
+      <DefaultText>Sie deutet auf die Schauspieler in ihrer Begleitung. „Haltet ihn auf.“</DefaultText>
+      <FemaleText>Sie deutet auf die Schauspieler in ihrer Begleitung. „Haltet sie auf.“</FemaleText>
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>[Angreifen] "Ich setze dem jetzt ein Ende. Was *es* auch ist."</DefaultText>
+      <DefaultText>[Angreifen] „Ich setze dem jetzt ein Ende. Was *es* auch ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Ich weiß nicht, was hier vor sich geht, aber ich gehe jetzt."</DefaultText>
+      <DefaultText>„Ich weiß nicht, was hier vor sich geht, aber ich gehe jetzt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Ich fürchte nicht."</DefaultText>
+      <DefaultText>„Ich fürchte nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Woher weißt du, dass die Dunrydstraße mich angeheuert hat?"</DefaultText>
+      <DefaultText>„Woher weißt du, dass die Dunrydstraße mich angeheuert hat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Warum ist das für mich eine bessere Abmachung?"</DefaultText>
+      <DefaultText>„Warum ist das für mich eine bessere Abmachung?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[Angreifen] "Für dich fällt der letzte Vorhang, Lumdala."</DefaultText>
+      <DefaultText>[Angreifen] „Für dich fällt der letzte Vorhang, Lumdala.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Das war die Abmachung. Geh."</DefaultText>
+      <DefaultText>„Das war die Abmachung. Geh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>[Angreifen] "Ich habe ein etwas dramatischeres Ende im Sinn."</DefaultText>
+      <DefaultText>[Angreifen] „Ich habe ein etwas dramatischeres Ende im Sinn.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,39 +181,39 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Dieses Lied wird häufig von jenen angestimmt, die sich in Schwierigkeiten wiederfinden, aus denen sie nicht entkommen können."</DefaultText>
+      <DefaultText>„Dieses Lied wird häufig von jenen angestimmt, die sich in Schwierigkeiten wiederfinden, aus denen sie nicht entkommen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Wenn sie dir eine Rolle anbietet, dann hoffentlich eine Hauptrolle."</DefaultText>
+      <DefaultText>„Wenn sie dir eine Rolle anbietet, dann hoffentlich eine Hauptrolle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Und ich habe meine Zweifel. Aber es kann wohl nicht schaden, die Einzelheiten zu hören."</DefaultText>
+      <DefaultText>„Und ich habe meine Zweifel. Aber es kann wohl nicht schaden, die Einzelheiten zu hören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Sie weiß, dass wir sie in die Enge getrieben haben."</DefaultText>
+      <DefaultText>„Sie weiß, dass wir sie in die Enge getrieben haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Nicht nur du kannst zwei und zwei zusammenzählen."
+      <DefaultText>„Nicht nur du kannst zwei und zwei zusammenzählen.“
 
-Sie verschränkt die Arme und hebt das Kinn. "Außerdem werden wir Schauspieler nicht für unsere Diskretion bezahlt, weißt du. Kadal hat dich gewiss mit einer beeindruckenden Darbietung um Gnade angefleht ... Aber er hat sich selbst überboten, als ich kam."</DefaultText>
+Sie verschränkt die Arme und hebt das Kinn. „Außerdem werden wir Schauspieler nicht für unsere Diskretion bezahlt, weißt du. Kadal hat dich gewiss mit einer beeindruckenden Darbietung um Gnade angefleht&#160;… Aber er hat sich selbst überboten, als ich kam.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Sei nicht naiv. Du hast Prinzipien. Du willst Trutzbucht doch helfen, oder nicht? Die Bewohner vor jenen retten, die ihnen schaden wollen?"</DefaultText>
+      <DefaultText>„Sei nicht naiv. Du hast Prinzipien. Du willst Trutzbucht doch helfen, oder nicht? Die Bewohner vor jenen retten, die ihnen schaden wollen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Also bitte, ich weiß, dass du dich nicht um diese Leute scherst. Ich kann dir nichts anbieten, aber der Mann, den ich dir ausliefern würde, könnte gewiss überzeugt werden, eine ... lukrative Vereinbarung mit dir einzugehen."</DefaultText>
+      <DefaultText>„Also bitte, ich weiß, dass du dich nicht um diese Leute scherst. Ich kann dir nichts anbieten, aber der Mann, den ich dir ausliefern würde, könnte gewiss überzeugt werden, eine&#160;… lukrative Vereinbarung mit dir einzugehen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

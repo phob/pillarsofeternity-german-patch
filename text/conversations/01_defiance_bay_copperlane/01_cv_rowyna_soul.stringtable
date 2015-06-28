@@ -11,27 +11,27 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Wer bist du?"</DefaultText>
+      <DefaultText>„Wer bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Dalton hat mich geschickt, dich zu finden."</DefaultText>
+      <DefaultText>„Dalton hat mich geschickt, dich zu finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Was willst du?"</DefaultText>
+      <DefaultText>„Was willst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Du siehst vor deinem geistigen Auge das Bild einer Frau in einer schweren Lederrüstung, die mit zwei Dolchen bewaffnet ist. Neben ihr steht ein Mann, jung und gutaussehend, der sie 'Rowyna' nennt.</DefaultText>
+      <DefaultText>Du siehst vor deinem geistigen Auge das Bild einer Frau in einer schweren Lederrüstung, die mit zwei Dolchen bewaffnet ist. Neben ihr steht ein Mann, jung und gutaussehend, der sie ‚Rowyna‘ nennt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Die Vision wandelt sich, du siehst eine windgepeitschte Ebene neben einem See. Fünfzig Männer und Frauen in identischer Lederkleidung liegen tot am Boden, ihre Körper durch irgendeine dunkle Zauberei gekrümmt und deformiert. Rowyna fällt zwischen ihnen zu Boden. Sie bricht neben dem jungen Mann zusammen, den du zuvor gesehen hast. Sie ist zu schwach um zu sprechen, doch der Name 'Dalton' erscheint in deinem Verstand.</DefaultText>
+      <DefaultText>Die Vision wandelt sich, du siehst eine windgepeitschte Ebene neben einem See. Fünfzig Männer und Frauen in identischer Lederkleidung liegen tot am Boden, ihre Körper durch irgendeine dunkle Zauberei gekrümmt und deformiert. Rowyna fällt zwischen ihnen zu Boden. Sie bricht neben dem jungen Mann zusammen, den du zuvor gesehen hast. Sie ist zu schwach um zu sprechen, doch der Name ‚Dalton‘ erscheint in deinem Verstand.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,7 +48,7 @@
       <ID>10</ID>
       <DefaultText>Die Seele pulsiert vor Wärme. Sie füllt deinen Verstand mit den Erinnerungen eines jungen Mannes, der sowohl kühn als auch großzügig ist.
 
-Aber Zorn und Verzweiflung nagen an diesen Bildern, bis du nur noch kalte, rote Wände spürst, die dich einengen - und etwas Widerwärtiges, das sich an dir labt, während die Jahre zu Jahrzehnten werden.</DefaultText>
+Aber Zorn und Verzweiflung nagen an diesen Bildern, bis du nur noch kalte, rote Wände spürst, die dich einengen&#160;– und etwas Widerwärtiges, das sich an dir labt, während die Jahre zu Jahrzehnten werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,7 +58,7 @@ Aber Zorn und Verzweiflung nagen an diesen Bildern, bis du nur noch kalte, rote 
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Leb wohl."</DefaultText>
+      <DefaultText>„Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

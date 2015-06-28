@@ -1396,7 +1396,7 @@
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>Zwingt die Seele eines Feindes dazu, Energie zu "verlieren", wodurch die den Feind umgebende Luft entzündet wird und er mit der Zeit Brandschaden erleidet.</DefaultText>
+      <DefaultText>Zwingt die Seele eines Feindes dazu, Energie zu „verlieren“, wodurch die den Feind umgebende Luft entzündet wird und er mit der Zeit Brandschaden erleidet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1461,7 +1461,7 @@
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>Ermöglicht einem bewusstlosen Verbündeten, sich zu erholen und stellt zeitlich begrenzt einen großen Teil dessen Ausdauer wieder her – die Hälfte davon geht nach kurzer Zeit verloren.</DefaultText>
+      <DefaultText>Ermöglicht einem bewusstlosen Verbündeten, sich zu erholen und stellt zeitlich begrenzt einen großen Teil dessen Ausdauer wieder her&#160;– etwas davon geht nach kurzer Zeit verloren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1526,7 +1526,7 @@
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>Die intensive und reine Überzeugung des Paladins erfüllt ihn und alle seine Verbündeten mit einem überwältigenden Gefühl der Richtigkeit ihres Tuns, wodurch ihre Genauigkeit verbessert wird. Kann nicht gemeinsam mit anderen eifrigen Auren aktiv sein.</DefaultText>
+      <DefaultText>Die intensive und reine Überzeugung des Paladins erfüllt ihn und alle seine Verbündeten mit einem überwältigenden Gefühl der Richtigkeit ihres Tuns, wodurch ihre Genauigkeit verbessert wird und Leichte Treffer teilweise in Treffer umgewandelt werden. Kann nicht gemeinsam mit anderen eifrigen Auren aktiv sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1571,7 +1571,7 @@
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>Erfüllt den Paladin und seine Verbündeten mit unerschütterlichem Selbstvertrauen, wodurch ihre Schadensreduktion gesteigert wird. Kann nicht gemeinsam mit anderen eifrigen Auren aktiv sein.</DefaultText>
+      <DefaultText>Erfüllt den Paladin und seine Verbündeten mit unerschütterlichem Selbstvertrauen, wodurch ihre Schadensreduktion gesteigert wird und eingehende Treffer teilweise in Leichte Treffer umgewandelt werden. Kann nicht gemeinsam mit anderen eifrigen Auren aktiv sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1616,12 +1616,12 @@
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText>Psycho-Schlag – Benommenheit</DefaultText>
+      <DefaultText>Psycho-Schlag&#160;– Benommenheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>337</ID>
-      <DefaultText>Psycho-Schlag – Betäubung</DefaultText>
+      <DefaultText>Psycho-Schlag&#160;– Betäubung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2021,7 +2021,7 @@
     </Entry>
     <Entry>
       <ID>417</ID>
-      <DefaultText>Flößt dem Zauberwirker Vitalität ein, wodurch er einen vorübergehenden Anstieg seiner aktuellen und maximalen Ausdauer erfährt. </DefaultText>
+      <DefaultText>Flößt dem Zauberwirker Vitalität ein, wodurch er einen vorübergehenden Anstieg seiner aktuellen und maximalen Ausdauer erfährt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2086,7 +2086,7 @@
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>Erzeugt einen Energieball in der Hand des Zauberwirkers, der auf einen Feind geschleudert werden kann und somit jedem im Wirkungsbereich Brand-, Frost-, Zersetzungs- oder Schockschaden zufügt – die Fäule wird kontinuierlich genährt, bis der Zauber endet.</DefaultText>
+      <DefaultText>Erzeugt einen Energieball in der Hand des Zauberwirkers, der auf einen Feind geschleudert werden kann und somit jedem im Wirkungsbereich Brand-, Frost-, Zersetzungs- oder Schockschaden zufügt&#160;– die Fäule wird kontinuierlich genährt, bis der Zauber endet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2201,7 +2201,7 @@
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>Führt zu einer Explosion mit tödlicher Kraft um den Zauberwirker herum, durch die jeder Feind in unmittelbarer Umgebung Stichschaden erleidet – wobei seine Schadensreduktion ignoriert wird.</DefaultText>
+      <DefaultText>Führt zu einer Explosion mit tödlicher Kraft um den Zauberwirker herum, durch die jeder Feind in unmittelbarer Umgebung Stichschaden erleidet&#160;– wobei seine Schadensreduktion ignoriert wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2281,7 +2281,7 @@
     </Entry>
     <Entry>
       <ID>471</ID>
-      <DefaultText>Mittlere Wiederherstellung von Ausdauer </DefaultText>
+      <DefaultText>Mittlere Wiederherstellung von Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2791,7 +2791,7 @@
     </Entry>
     <Entry>
       <ID>575</ID>
-      <DefaultText>Dringt in den Verstand von Zielen im Wirkungsbereich ein und zwingt sie dazu zu glauben, sie seien von Phantomfeinden umgeben – wodurch sie für die Dauer flankiert sind.</DefaultText>
+      <DefaultText>Dringt in den Verstand von Zielen im Wirkungsbereich ein und zwingt sie dazu zu glauben, sie seien von Phantomfeinden umgeben&#160;– wodurch sie für die Dauer flankiert sind.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2891,7 +2891,7 @@
     </Entry>
     <Entry>
       <ID>595</ID>
-      <DefaultText>Zersplittert die Seele des Ziels mit reiner Kraft und fügt ihm dabei Direktschaden zu – Ziele mit geringer Ausdauer zerplatzen, wodurch alle im Wirkungsbereich Wuchtschaden erleiden.</DefaultText>
+      <DefaultText>Zersplittert die Seele des Ziels mit reiner Kraft und fügt ihm dabei Direktschaden zu&#160;– Ziele mit geringer Ausdauer zerplatzen, wodurch alle im Wirkungsbereich Wuchtschaden erleiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4426,7 +4426,7 @@
     </Entry>
     <Entry>
       <ID>902</ID>
-      <DefaultText>Bewegt den Mönch mit unglaublicher Geschwindigkeit auf sein Ziel zu und schlägt jeden Feind innerhalb von 2&#160;m zurück, wobei Bindungs- und Absetzangriffe ignoriert werden und er während der Bewegung einen Bonus auf alle Verteidigungen erhält – ein erfolgreicher Treffer bei einem Feind führt zu einer Verringerung all seiner Verteidigungen.</DefaultText>
+      <DefaultText>Bewegt den Mönch mit unglaublicher Geschwindigkeit auf sein Ziel zu und schlägt jeden Feind innerhalb von 2&#160;m zurück, wobei Bindungs- und Absetzangriffe ignoriert werden und er während der Bewegung einen Bonus auf alle Verteidigungen erhält&#160;– ein erfolgreicher Treffer bei einem Feind führt zu einer Verringerung all seiner Verteidigungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4436,7 +4436,7 @@
     </Entry>
     <Entry>
       <ID>904</ID>
-      <DefaultText>Die reine Seele des Paladins widersteht allen einwirkenden Kräften, wodurch er einen Bonus auf die Verteidigung gegen Gift und Krankheit sowie auf die Effekte Bezaubert, Beherrscht, Verängstigt und Verschreckt erhält – die Wirkungsdauer dieser Effekte wird auch um 5 Sekunden verringert.</DefaultText>
+      <DefaultText>Die reine Seele des Paladins widersteht allen einwirkenden Kräften, wodurch er einen Bonus auf die Verteidigung gegen Gift und Krankheit sowie auf die Effekte Bezaubert, Beherrscht, Verängstigt und Verschreckt erhält&#160;– die Wirkungsdauer dieser Effekte wird auch um 5 Sekunden verringert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5000,7 +5000,7 @@
 
 Alle Waldläufer bauen eine starke spirituelle Verbindung zu einem einzigen Lebewesen auf, ihrem tierischen Gefährten. Diese Verbindung ermöglicht es Waldläufern und ihren Gefährten, Angriffe zu koordinieren und Beute effizient zu erlegen. In den meisten Situationen hält der Gefährte dem Waldläufer den Rücken frei, während dieser aus der Ferne angreift.
 
-Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläufer teilen buchstäblich eine Lebensbeziehung mit ihren tierischen Gefährten. Wird der eine verwundet, spürt der andere dies und erleidet starke emotionale Schmerzen. Wenn ein Waldläufer oder sein tierischer Gefährte das Bewusstsein verliert, erleidet sein Partner Verbundene Trauer, was sich auf seine Genauigkeit und andere Werte auswirkt, bis der Verbündete wiederbelebt wird.  Wird ein Waldläufer getötet, stirbt sein tierischer Gefährte aus Trauer sofort.</DefaultText>
+Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläufer teilen buchstäblich eine Lebensbeziehung mit ihren tierischen Gefährten. Wird der eine verwundet, spürt der andere dies und erleidet starke emotionale Schmerzen. Wenn ein Waldläufer oder sein tierischer Gefährte das Bewusstsein verliert, erleidet sein Partner Verbundene Trauer, was sich auf seine Genauigkeit und andere Werte auswirkt, bis der Verbündete wiederbelebt wird. Wird ein Waldläufer getötet, stirbt sein tierischer Gefährte aus Trauer sofort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5009,16 +5009,16 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
 
 Alle Waldläufer bauen eine starke spirituelle Verbindung zu einem einzigen Lebewesen auf, ihrem tierischen Gefährten. Diese Verbindung ermöglicht es Waldläufern und ihren Gefährten, Angriffe zu koordinieren und Beute effizient zu erlegen. In den meisten Situationen hält der Gefährte dem Waldläufer den Rücken frei, während dieser aus der Ferne angreift.
 
-Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläufer teilen buchstäblich eine Lebensbeziehung mit ihren tierischen Gefährten. Wird der eine verwundet, spürt der andere dies und erleidet starke emotionale Schmerzen. Wenn ein Waldläufer oder sein tierischer Gefährte das Bewusstsein verliert, erleidet sein Partner Verbundene Trauer, was sich auf seine Genauigkeit und andere Werte auswirkt, bis der Verbündete wiederbelebt wird.  Wird ein Waldläufer getötet, stirbt sein tierischer Gefährte aus Trauer sofort.</DefaultText>
+Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläufer teilen buchstäblich eine Lebensbeziehung mit ihren tierischen Gefährten. Wird der eine verwundet, spürt der andere dies und erleidet starke emotionale Schmerzen. Wenn ein Waldläufer oder sein tierischer Gefährte das Bewusstsein verliert, erleidet sein Partner Verbundene Trauer, was sich auf seine Genauigkeit und andere Werte auswirkt, bis der Verbündete wiederbelebt wird. Wird ein Waldläufer getötet, stirbt sein tierischer Gefährte aus Trauer sofort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1018</ID>
-      <DefaultText>Keiler-Gefährten richten mehr Schaden an, wenn ihre Ausdauer auf unter 50% fällt.
+      <DefaultText>Keiler-Gefährten richten mehr Schaden an, wenn ihre Ausdauer auf unter 50&#160;% fällt.
 
 Alle Waldläufer bauen eine starke spirituelle Verbindung zu einem einzigen Lebewesen auf, ihrem tierischen Gefährten. Diese Verbindung ermöglicht es Waldläufern und ihren Gefährten, Angriffe zu koordinieren und Beute effizient zu erlegen. In den meisten Situationen hält der Gefährte dem Waldläufer den Rücken frei, während dieser aus der Ferne angreift.
 
-Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläufer teilen buchstäblich eine Lebensbeziehung mit ihren tierischen Gefährten. Wird der eine verwundet, spürt der andere dies und erleidet starke emotionale Schmerzen. Wenn ein Waldläufer oder sein tierischer Gefährte das Bewusstsein verliert, erleidet sein Partner Verbundene Trauer, was sich auf seine Genauigkeit und andere Werte auswirkt, bis der Verbündete wiederbelebt wird.  Wird ein Waldläufer getötet, stirbt sein tierischer Gefährte aus Trauer sofort.</DefaultText>
+Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläufer teilen buchstäblich eine Lebensbeziehung mit ihren tierischen Gefährten. Wird der eine verwundet, spürt der andere dies und erleidet starke emotionale Schmerzen. Wenn ein Waldläufer oder sein tierischer Gefährte das Bewusstsein verliert, erleidet sein Partner Verbundene Trauer, was sich auf seine Genauigkeit und andere Werte auswirkt, bis der Verbündete wiederbelebt wird. Wird ein Waldläufer getötet, stirbt sein tierischer Gefährte aus Trauer sofort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5028,7 +5028,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1020</ID>
-      <DefaultText>Alle Keiler-Gefährten erhalten einen Bonus auf ihren Schaden, solange ihre Ausdauer unter 50% liegt.</DefaultText>
+      <DefaultText>Alle Keiler-Gefährten erhalten einen Bonus auf ihren Schaden, solange ihre Ausdauer unter 50&#160;% liegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5037,7 +5037,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
 
 Alle Waldläufer bauen eine starke spirituelle Verbindung zu einem einzigen Lebewesen auf, ihrem tierischen Gefährten. Diese Verbindung ermöglicht es Waldläufern und ihren Gefährten, Angriffe zu koordinieren und Beute effizient zu erlegen. In den meisten Situationen hält der Gefährte dem Waldläufer den Rücken frei, während dieser aus der Ferne angreift.
 
-Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläufer teilen buchstäblich eine Lebensbeziehung mit ihren tierischen Gefährten. Wird der eine verwundet, spürt der andere dies und erleidet starke emotionale Schmerzen. Wenn ein Waldläufer oder sein tierischer Gefährte das Bewusstsein verliert, erleidet sein Partner Verbundene Trauer, was sich auf seine Genauigkeit und andere Werte auswirkt, bis der Verbündete wiederbelebt wird.  Wird ein Waldläufer getötet, stirbt sein tierischer Gefährte aus Trauer sofort.</DefaultText>
+Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläufer teilen buchstäblich eine Lebensbeziehung mit ihren tierischen Gefährten. Wird der eine verwundet, spürt der andere dies und erleidet starke emotionale Schmerzen. Wenn ein Waldläufer oder sein tierischer Gefährte das Bewusstsein verliert, erleidet sein Partner Verbundene Trauer, was sich auf seine Genauigkeit und andere Werte auswirkt, bis der Verbündete wiederbelebt wird. Wird ein Waldläufer getötet, stirbt sein tierischer Gefährte aus Trauer sofort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5046,7 +5046,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
 
 Alle Waldläufer bauen eine starke spirituelle Verbindung zu einem einzigen Lebewesen auf, ihrem tierischen Gefährten. Diese Verbindung ermöglicht es Waldläufern und ihren Gefährten, Angriffe zu koordinieren und Beute effizient zu erlegen. In den meisten Situationen hält der Gefährte dem Waldläufer den Rücken frei, während dieser aus der Ferne angreift.
 
-Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläufer teilen buchstäblich eine Lebensbeziehung mit ihren tierischen Gefährten. Wird der eine verwundet, spürt der andere dies und erleidet starke emotionale Schmerzen. Wenn ein Waldläufer oder sein tierischer Gefährte das Bewusstsein verliert, erleidet sein Partner Verbundene Trauer, was sich auf seine Genauigkeit und andere Werte auswirkt, bis der Verbündete wiederbelebt wird.  Wird ein Waldläufer getötet, stirbt sein tierischer Gefährte aus Trauer sofort.</DefaultText>
+Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläufer teilen buchstäblich eine Lebensbeziehung mit ihren tierischen Gefährten. Wird der eine verwundet, spürt der andere dies und erleidet starke emotionale Schmerzen. Wenn ein Waldläufer oder sein tierischer Gefährte das Bewusstsein verliert, erleidet sein Partner Verbundene Trauer, was sich auf seine Genauigkeit und andere Werte auswirkt, bis der Verbündete wiederbelebt wird. Wird ein Waldläufer getötet, stirbt sein tierischer Gefährte aus Trauer sofort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5055,7 +5055,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
 
 Alle Waldläufer bauen eine starke spirituelle Verbindung zu einem einzigen Lebewesen auf, ihrem tierischen Gefährten. Diese Verbindung ermöglicht es Waldläufern und ihren Gefährten, Angriffe zu koordinieren und Beute effizient zu erlegen. In den meisten Situationen hält der Gefährte dem Waldläufer den Rücken frei, während dieser aus der Ferne angreift.
 
-Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläufer teilen buchstäblich eine Lebensbeziehung mit ihren tierischen Gefährten. Wird der eine verwundet, spürt der andere dies und erleidet starke emotionale Schmerzen. Wenn ein Waldläufer oder sein tierischer Gefährte das Bewusstsein verliert, erleidet sein Partner Verbundene Trauer, was sich auf seine Genauigkeit und andere Werte auswirkt, bis der Verbündete wiederbelebt wird.  Wird ein Waldläufer getötet, stirbt sein tierischer Gefährte aus Trauer sofort.</DefaultText>
+Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläufer teilen buchstäblich eine Lebensbeziehung mit ihren tierischen Gefährten. Wird der eine verwundet, spürt der andere dies und erleidet starke emotionale Schmerzen. Wenn ein Waldläufer oder sein tierischer Gefährte das Bewusstsein verliert, erleidet sein Partner Verbundene Trauer, was sich auf seine Genauigkeit und andere Werte auswirkt, bis der Verbündete wiederbelebt wird. Wird ein Waldläufer getötet, stirbt sein tierischer Gefährte aus Trauer sofort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5445,7 +5445,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1101</ID>
-      <DefaultText>Geringe Unverwundbarkeit-Zauberheuristik </DefaultText>
+      <DefaultText>Geringe Unverwundbarkeit-Zauberheuristik</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5875,7 +5875,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1187</ID>
-      <DefaultText>Dieses geheime Wissen der Reißzähne ermöglicht es dir, Beute leichter zu verfolgen - und Schaden zu vermeiden, wenn sie deine Anwesenheit bemerkt.</DefaultText>
+      <DefaultText>Dieses geheime Wissen der Reißzähne ermöglicht es dir, Beute leichter zu verfolgen&#160;– und Schaden zu vermeiden, wenn sie deine Anwesenheit bemerkt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5885,7 +5885,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1189</ID>
-      <DefaultText>Die Geheimnisse der Vogelwelt werden dir offengelegt - deine Sinne sind geschärft und deine Resistenz gegen Blitze ist erhöht.</DefaultText>
+      <DefaultText>Die Geheimnisse der Vogelwelt werden dir offengelegt&#160;– deine Sinne sind geschärft und deine Resistenz gegen Blitze ist erhöht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6135,12 +6135,12 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1239</ID>
-      <DefaultText>Arkemyrs blendende Lichter - abgeschwächt</DefaultText>
+      <DefaultText>Arkemyrs blendende Lichter&#160;– abgeschwächt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1240</ID>
-      <DefaultText>Concelhauts ätzender Abfluss - abgeschwächt</DefaultText>
+      <DefaultText>Concelhauts ätzender Abfluss&#160;– abgeschwächt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6150,7 +6150,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1242</ID>
-      <DefaultText>Explosion der Sommerflamme - abgeschwächt</DefaultText>
+      <DefaultText>Explosion der Sommerflamme&#160;– abgeschwächt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6185,7 +6185,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1249</ID>
-      <DefaultText>Laufen, springen, schwimmen, klettern - du beherrschst es alles. Dieses Talent erhöht die Athletik-Eigenschaft des Charakters.</DefaultText>
+      <DefaultText>Laufen, springen, schwimmen, klettern&#160;– du beherrschst es alles. Dieses Talent erhöht die Athletik-Eigenschaft des Charakters.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6195,7 +6195,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1251</ID>
-      <DefaultText>Du bist äußerst belesen und kennst alle Geschichten und Legenden aus dem Östlichen Abschnitt - und darüber hinaus. Dieses Talent erhöht die Wissen-Eigenschaft des Charakters.</DefaultText>
+      <DefaultText>Du bist äußerst belesen und kennst alle Geschichten und Legenden aus dem Östlichen Abschnitt&#160;– und darüber hinaus. Dieses Talent erhöht die Wissen-Eigenschaft des Charakters.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6590,7 +6590,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1334</ID>
-      <DefaultText>Vogel-Gottähnliche sind mit Fernwaffen schwer zu treffen. Sie erhalten einen Abwehr-Bonus gegen solche Angriffe. Wenn seine Ausdauer unter 50% fällt, steigern sich die Sinne und die Bewegungsfähigkeit eines Vogel-Gottähnlichen - er erhält einen Bonus auf Wahrnehmung und Verteidigung gegen Absetzangriffe.</DefaultText>
+      <DefaultText>Vogel-Gottähnliche sind mit Fernwaffen schwer zu treffen. Sie erhalten einen Abwehr-Bonus gegen solche Angriffe. Wenn seine Ausdauer unter 50&#160;% fällt, steigern sich die Sinne und die Bewegungsfähigkeit eines Vogel-Gottähnlichen&#160;– er erhält einen Bonus auf Wahrnehmung und Verteidigung gegen Absetzangriffe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6605,7 +6605,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1337</ID>
-      <DefaultText>Alle Menschen besitzen einen unbezwingbaren Geist, der umso stärker wird, je aussichtsloser die Lage ist. Wenn die Ausdauer eines Menschen auf unter 50% fällt, erhält er einen Bonus auf Genauigkeit und Schaden.</DefaultText>
+      <DefaultText>Alle Menschen besitzen einen unbezwingbaren Geist, der umso stärker wird, je aussichtsloser die Lage ist. Wenn die Ausdauer eines Menschen auf unter 50&#160;% fällt, erhält er einen Bonus auf Genauigkeit und Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6620,17 +6620,17 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1340</ID>
-      <DefaultText>Die Seelen aller Mond-Gottähnlichen sind mit Reservoiren heilender Energie verbunden. Wenn ein Mond-Gottähnlicher im Kampf das erste Mal unter 75%, 50% und 25% Ausdauer fällt, generiert er automatisch eine Heilwelle um sich herum.</DefaultText>
+      <DefaultText>Die Seelen aller Mond-Gottähnlichen sind mit Reservoiren heilender Energie verbunden. Wenn ein Mond-Gottähnlicher im Kampf das erste Mal unter 75&#160;%, 50&#160;% und 25&#160;% Ausdauer fällt, generiert er automatisch eine Heilwelle um sich herum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1341</ID>
-      <DefaultText>Küsten-Aumaua sind bekannt für ihre Seefestigkeit und ihren robusten Körperbau. Ob es an ihrer langen Geschichte als Seefahrervolk liegt oder seit Generationen einfach in ihnen liegt - alle Küsten-Aumaua besitzen eine natürliche Resistenz dagegen, Betäubt oder Niedergeschlagen zu werden.</DefaultText>
+      <DefaultText>Küsten-Aumaua sind bekannt für ihre Seefestigkeit und ihren robusten Körperbau. Ob es an ihrer langen Geschichte als Seefahrervolk liegt oder seit Generationen einfach in ihnen liegt&#160;– alle Küsten-Aumaua besitzen eine natürliche Resistenz dagegen, Betäubt oder Niedergeschlagen zu werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1342</ID>
-      <DefaultText>Die Seelen von Natur-Gottähnlichen reagieren stark auf Aufregung und den bevorstehenden Kollaps ihres physischen Leibs. Wenn die Ausdauer eines Natur-Gottähnlichen auf unter 50% fällt, erhält er einen Bonus auf Macht, Verfassung und Gewandtheit.</DefaultText>
+      <DefaultText>Die Seelen von Natur-Gottähnlichen reagieren stark auf Aufregung und den bevorstehenden Kollaps ihres physischen Leibs. Wenn die Ausdauer eines Natur-Gottähnlichen auf unter 50&#160;% fällt, erhält er einen Bonus auf Macht, Verfassung und Gewandtheit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,264 +6,264 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Seien Sie gegrüßt, mein Fürst. Meine Aufgabe ist die Aufsicht über Ihre Kerkerzellen. Wenn Sie auf Ihren Reisen Gefangene nehmen, dann werde ich mich so um sie kümmern, wie Sie es für richtig halten."</DefaultText>
-      <FemaleText>"Seien Sie gegrüßt, meine Fürstin.  Meine Aufgabe ist die Aufsicht über Ihre Kerkerzellen. Wenn Sie auf Ihren Reisen Gefangene nehmen, dann werde ich mich so um sie kümmern, wie Sie es für richtig halten."</FemaleText>
+      <DefaultText>„Seien Sie gegrüßt, mein Fürst. Meine Aufgabe ist die Aufsicht über Ihre Kerkerzellen. Wenn Sie auf Ihren Reisen Gefangene nehmen, dann werde ich mich so um sie kümmern, wie Sie es für richtig halten.“</DefaultText>
+      <FemaleText>„Seien Sie gegrüßt, meine Fürstin. Meine Aufgabe ist die Aufsicht über Ihre Kerkerzellen. Wenn Sie auf Ihren Reisen Gefangene nehmen, dann werde ich mich so um sie kümmern, wie Sie es für richtig halten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Momentan ist der Kerker leer, aber ... das werden Sie sicherlich schon bald ändern!"</DefaultText>
+      <DefaultText>„Momentan ist der Kerker leer, aber&#160;… das werden Sie sicherlich schon bald ändern!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Haben Sie irgendwelche Anweisungen für mich? Was soll mit diesen Gefangenen geschehen?"</DefaultText>
+      <DefaultText>„Haben Sie irgendwelche Anweisungen für mich? Was soll mit diesen Gefangenen geschehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Zeig ihnen, wer hier der Herr ist. Ich will, dass sie regelmäßig ausgepeitscht werden."</DefaultText>
+      <DefaultText>„Zeig ihnen, wer hier der Herr ist. Ich will, dass sie regelmäßig ausgepeitscht werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich möchte einen Gefangenen freilassen."</DefaultText>
+      <DefaultText>„Ich möchte einen Gefangenen freilassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[Weggehen.] "Momentan habe ich keine Anweisungen für dich."</DefaultText>
+      <DefaultText>[Weggehen.] „Momentan habe ich keine Anweisungen für dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ach? Wem wird denn heute das Glück hold sein?"</DefaultText>
+      <DefaultText>„Ach? Wem wird denn heute das Glück hold sein?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Lass Eorn frei."</DefaultText>
+      <DefaultText>„Lass Eorn frei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Lass Nyrid gehen."</DefaultText>
+      <DefaultText>„Lass Nyrid gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Ich möchte Lucen freilassen."</DefaultText>
+      <DefaultText>„Ich möchte Lucen freilassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Lass Aefre frei."</DefaultText>
+      <DefaultText>„Lass Aefre frei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ich möchte Gramrfel freilassen."</DefaultText>
+      <DefaultText>„Ich möchte Gramrfel freilassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ich möchte Kestorik freilassen."</DefaultText>
+      <DefaultText>„Ich möchte Kestorik freilassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Ich möchte Naelde freilassen."</DefaultText>
+      <DefaultText>„Ich möchte Naelde freilassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Lass Esmar gehen."</DefaultText>
+      <DefaultText>„Lass Esmar gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Mein Fürst, diese ... Kreatur, Kestorik, die Ihnen ins Netz gegangen ist ... sie hat mir einige Probleme bereitet. Wie soll ich in dieser Angelegenheit verfahren?"</DefaultText>
+      <DefaultText>„Mein Fürst, diese&#160;… Kreatur, Kestorik, die Ihnen ins Netz gegangen ist&#160;… sie hat mir einige Probleme bereitet. Wie soll ich in dieser Angelegenheit verfahren?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Eorn."</DefaultText>
+      <DefaultText>„Eorn.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Zeig ihm, was passiert, wenn man den Fürst von Caed Nua verärgert."</DefaultText>
-      <FemaleText>"Zeig ihm, was passiert, wenn man die Fürstin von Caed Nua verärgert."</FemaleText>
+      <DefaultText>„Zeig ihm, was passiert, wenn man den Fürst von Caed Nua verärgert.“</DefaultText>
+      <FemaleText>„Zeig ihm, was passiert, wenn man die Fürstin von Caed Nua verärgert.“</FemaleText>
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Lucen."</DefaultText>
+      <DefaultText>„Lucen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Aefre."</DefaultText>
+      <DefaultText>„Aefre.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Gramrfel."</DefaultText>
+      <DefaultText>„Gramrfel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Zeig ihm, was passiert, wenn man den Fürst von Caed Nua verärgert."</DefaultText>
-      <FemaleText>"Zeig ihm, was passiert, wenn man die Fürstin von Caed Nua verärgert."</FemaleText>
+      <DefaultText>„Zeig ihm, was passiert, wenn man den Fürst von Caed Nua verärgert.“</DefaultText>
+      <FemaleText>„Zeig ihm, was passiert, wenn man die Fürstin von Caed Nua verärgert.“</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Zeig ihm, was passiert, wenn man den Fürst von Caed Nua verärgert."</DefaultText>
-      <FemaleText>"Zeig ihm, was passiert, wenn man die Fürstin von Caed Nua verärgert."</FemaleText>
+      <DefaultText>„Zeig ihm, was passiert, wenn man den Fürst von Caed Nua verärgert.“</DefaultText>
+      <FemaleText>„Zeig ihm, was passiert, wenn man die Fürstin von Caed Nua verärgert.“</FemaleText>
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Sehr wohl, mein Fürst ... Wie ... äh, hart soll die Bestrafung dafür ausfallen?"</DefaultText>
-      <FemaleText>"Sehr wohl, meine Fürstin ... Wie ... äh, hart soll die Bestrafung dafür ausfallen?"</FemaleText>
+      <DefaultText>„Sehr wohl, mein Fürst&#160;… Wie&#160;… äh, hart soll die Bestrafung dafür ausfallen?“</DefaultText>
+      <FemaleText>„Sehr wohl, meine Fürstin&#160;… Wie&#160;… äh, hart soll die Bestrafung dafür ausfallen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Seien Sie gegrüßt, mein Fürst! Ein kleiner Kerkerbesuch, was?"</DefaultText>
-      <FemaleText>"Seien Sie gegrüßt, meine Fürstin! Ein kleiner Kerkerbesuch, was?"</FemaleText>
+      <DefaultText>„Seien Sie gegrüßt, mein Fürst! Ein kleiner Kerkerbesuch, was?“</DefaultText>
+      <FemaleText>„Seien Sie gegrüßt, meine Fürstin! Ein kleiner Kerkerbesuch, was?“</FemaleText>
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Mein Fürst, es gibt eine dringliche Angelegenheit!"</DefaultText>
-      <FemaleText>"Meine Fürstin, es gibt eine dringliche Angelegenheit!"</FemaleText>
+      <DefaultText>„Mein Fürst, es gibt eine dringliche Angelegenheit!“</DefaultText>
+      <FemaleText>„Meine Fürstin, es gibt eine dringliche Angelegenheit!“</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Mein Fürst, Nyrid hat in letzter Zeit einige Probleme gemacht. Wie soll ich in dieser Angelegenheit verfahren?"</DefaultText>
-      <FemaleText>"Meine Fürstin, Nyrid hat in letzter Zeit einige Probleme gemacht. Wie soll ich in dieser Angelegenheit verfahren?"</FemaleText>
+      <DefaultText>„Mein Fürst, Nyrid hat in letzter Zeit einige Probleme gemacht. Wie soll ich in dieser Angelegenheit verfahren?“</DefaultText>
+      <FemaleText>„Meine Fürstin, Nyrid hat in letzter Zeit einige Probleme gemacht. Wie soll ich in dieser Angelegenheit verfahren?“</FemaleText>
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Mein Fürst, Naelde hat Probleme gemacht. Wie soll ich in dieser Angelegenheit verfahren?"</DefaultText>
-      <FemaleText>"Meine Fürstin, Naelde hat Probleme gemacht. Wie soll ich in dieser Angelegenheit verfahren?"</FemaleText>
+      <DefaultText>„Mein Fürst, Naelde hat Probleme gemacht. Wie soll ich in dieser Angelegenheit verfahren?“</DefaultText>
+      <FemaleText>„Meine Fürstin, Naelde hat Probleme gemacht. Wie soll ich in dieser Angelegenheit verfahren?“</FemaleText>
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Kümmere dich selbst darum, das betrifft mich nicht"</DefaultText>
+      <DefaultText>„Kümmere dich selbst darum, das betrifft mich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Mein Fürst, unter den Gefangenen herrscht große Unruhe. Wie soll ich damit verfahren?"</DefaultText>
-      <FemaleText>"Meine Fürstin, unter den Gefangenen herrscht große Unruhe. Wie soll ich damit verfahren?"</FemaleText>
+      <DefaultText>„Mein Fürst, unter den Gefangenen herrscht große Unruhe. Wie soll ich damit verfahren?“</DefaultText>
+      <FemaleText>„Meine Fürstin, unter den Gefangenen herrscht große Unruhe. Wie soll ich damit verfahren?“</FemaleText>
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Drei Peitschenhiebe."</DefaultText>
+      <DefaultText>„Drei Peitschenhiebe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Das ist genug."</DefaultText>
+      <DefaultText>„Das ist genug.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Der Gefangene wurde schwer verletzt. Ist das genug, mein Fürst?"</DefaultText>
-      <FemaleText>"Der Gefangene wurde schwer verletzt. Ist das genug, meine Fürstin?"</FemaleText>
+      <DefaultText>„Der Gefangene wurde schwer verletzt. Ist das genug, mein Fürst?“</DefaultText>
+      <FemaleText>„Der Gefangene wurde schwer verletzt. Ist das genug, meine Fürstin?“</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Eine Hand brechen."</DefaultText>
+      <DefaultText>„Eine Hand brechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Ein paar Finger abhacken."</DefaultText>
+      <DefaultText>„Ein paar Finger abhacken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Wie Sie wünschen!"</DefaultText>
+      <DefaultText>„Wie Sie wünschen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText> "Zu Befehl, mein Fürst! Mit Verlaub, mein Fürst."</DefaultText>
-      <FemaleText> "Zu Befehl, meine Fürstin! Mit Verlaub, meine Fürstin."</FemaleText>
+      <DefaultText>„Zu Befehl, mein Fürst! Mit Verlaub, mein Fürst.“</DefaultText>
+      <FemaleText>„Zu Befehl, meine Fürstin! Mit Verlaub, meine Fürstin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Ich habe meine Meinung geändert. Halte einfach die Augen offen."</DefaultText>
+      <DefaultText>„Ich habe meine Meinung geändert. Halte einfach die Augen offen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Natürlich, mein Fürst."</DefaultText>
-      <FemaleText>"Natürlich, meine Fürstin."</FemaleText>
+      <DefaultText>„Natürlich, mein Fürst.“</DefaultText>
+      <FemaleText>„Natürlich, meine Fürstin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Zu Befehl!"</DefaultText>
+      <DefaultText>„Zu Befehl!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"So gut wie erledigt."</DefaultText>
+      <DefaultText>„So gut wie erledigt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Nun, wenn Sie sicher sind ... Stückchen abschneiden hat mir noch nie gefallen ..."</DefaultText>
+      <DefaultText>„Nun, wenn Sie sicher sind&#160;… Stückchen abschneiden hat mir noch nie gefallen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Sofort, mein Fürst." </DefaultText>
-      <FemaleText>"Sofort, meine Fürstin."</FemaleText>
+      <DefaultText>„Sofort, mein Fürst.“</DefaultText>
+      <FemaleText>„Sofort, meine Fürstin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Sofort, mein Fürst." </DefaultText>
-      <FemaleText>"Sofort, meine Fürstin."</FemaleText>
+      <DefaultText>„Sofort, mein Fürst.“</DefaultText>
+      <FemaleText>„Sofort, meine Fürstin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Sofort, mein Fürst." </DefaultText>
-      <FemaleText>"Sofort, meine Fürstin."</FemaleText>
+      <DefaultText>„Sofort, mein Fürst.“</DefaultText>
+      <FemaleText>„Sofort, meine Fürstin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Wenn ... wenn Sie sicher sind, mein Fürst."</DefaultText>
-      <FemaleText> "Wenn ... wenn Sie sicher sind, meine Fürstin."</FemaleText>
+      <DefaultText>„Wenn&#160;… wenn Sie sicher sind, mein Fürst.“</DefaultText>
+      <FemaleText>„Wenn&#160;… wenn Sie sicher sind, meine Fürstin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Sofort, mein Fürst." </DefaultText>
-      <FemaleText>"Sofort, meine Fürstin."</FemaleText>
+      <DefaultText>„Sofort, mein Fürst.“</DefaultText>
+      <FemaleText>„Sofort, meine Fürstin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Sofort, mein Fürst." </DefaultText>
-      <FemaleText>"Sofort, meine Fürstin."</FemaleText>
+      <DefaultText>„Sofort, mein Fürst.“</DefaultText>
+      <FemaleText>„Sofort, meine Fürstin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Sofort, mein Fürst." </DefaultText>
-      <FemaleText>"Sofort, meine Fürstin."</FemaleText>
+      <DefaultText>„Sofort, mein Fürst.“</DefaultText>
+      <FemaleText>„Sofort, meine Fürstin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Sofort, mein Fürst." </DefaultText>
-      <FemaleText>"Sofort, meine Fürstin."</FemaleText>
+      <DefaultText>„Sofort, mein Fürst.“</DefaultText>
+      <FemaleText>„Sofort, meine Fürstin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Egal."</DefaultText>
+      <DefaultText>„Egal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Der Kerkermeister grinst schief. "Ich habe gerne Gesellschaft."
+      <DefaultText>Der Kerkermeister grinst schief. „Ich habe gerne Gesellschaft.“
 
-"Darf es sonst noch etwas sein?"</DefaultText>
+„Darf es sonst noch etwas sein?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

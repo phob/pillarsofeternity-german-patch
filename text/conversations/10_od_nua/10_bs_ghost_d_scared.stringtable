@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"H-hallo? Ist jemand da?"</DefaultText>
+      <DefaultText>„H-hallo? Ist jemand da?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Oh, bei den Göttern, ich kann nichts ... Ich kann nichts sehen ..."</DefaultText>
+      <DefaultText>„Oh, bei den Göttern, ich kann nichts&#160;… Ich kann nichts sehen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich kann mich selbst nicht hören. Wie soll ich ihm etwas mitteilen? Bitte, da gibt es nichts!"</DefaultText>
+      <DefaultText>„Ich kann mich selbst nicht hören. Wie soll ich ihm etwas mitteilen? Bitte, da gibt es nichts!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Bitte ... Werde ich jemals hier wegkommen?" Du hörst ein verschlucktes Schluchzen. "Z-zurück! Geht nicht weiter! Die Götter können uns nicht erreichen."</DefaultText>
+      <DefaultText>„Bitte&#160;… Werde ich jemals hier wegkommen?“ Du hörst ein verschlucktes Schluchzen. „Z-zurück! Geht nicht weiter! Die Götter können uns nicht erreichen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich bin hier."</DefaultText>
+      <DefaultText>„Ich bin hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Wer bist du?"</DefaultText>
+      <DefaultText>„Wer bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ich hab es ihm gesagt. Bitte, bitte lass mich raus, habe ich zu ihm gesagt. Lass mich raus. Lass mich raus!"</DefaultText>
+      <DefaultText>„Ich hab es ihm gesagt. Bitte, bitte lass mich raus, habe ich zu ihm gesagt. Lass mich raus. Lass mich raus!“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

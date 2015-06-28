@@ -6,23 +6,23 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Mein Fürst, ich habe hier eine wichtige Angelegenheit, die Ihrer Aufmerksamkeit bedarf ... "</DefaultText>
-      <FemaleText>Meine Fürstin, ich habe hier eine wichtige Angelegenheit, die Ihrer Aufmerksamkeit bedarf ... </FemaleText>
+      <DefaultText>„Mein Fürst, ich habe hier eine wichtige Angelegenheit, die Ihrer Aufmerksamkeit bedarf&#160;…“</DefaultText>
+      <FemaleText>„Meine Fürstin, ich habe hier eine wichtige Angelegenheit, die Ihrer Aufmerksamkeit bedarf&#160;…“</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Mein Fürst, sicherlich wurden doch Fortschritte erzielt?"</DefaultText>
-      <FemaleText>Meine Fürstin, sicherlich wurden doch Fortschritte erzielt?</FemaleText>
+      <DefaultText>„Mein Fürst, sicherlich wurden doch Fortschritte erzielt?“</DefaultText>
+      <FemaleText>„Meine Fürstin, sicherlich wurden doch Fortschritte erzielt?“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ich möchte Sie ja nicht unter Druck setzen, mein Fürst ... aber die Zeit drängt."</DefaultText>
-      <FemaleText>Ich möchte Sie ja nicht unter Druck setzen, meine Fürstin ... aber die Zeit drängt.</FemaleText>
+      <DefaultText>„Ich möchte Sie ja nicht unter Druck setzen, mein Fürst&#160;… aber die Zeit drängt.“</DefaultText>
+      <FemaleText>„Ich möchte Sie ja nicht unter Druck setzen, meine Fürstin&#160;… aber die Zeit drängt.“</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Seien Sie gegrüßt, mein Fürst. Gibt es irgendwelche Neuigkeiten über die Angelegenheit, die wir besprochen haben?"</DefaultText>
-      <FemaleText>"Seien Sie gegrüßt, meine Fürstin. Gibt es irgendwelche Neuigkeiten über die Angelegenheit, die wir besprochen haben?"</FemaleText>
+      <DefaultText>„Seien Sie gegrüßt, mein Fürst. Gibt es irgendwelche Neuigkeiten über die Angelegenheit, die wir besprochen haben?“</DefaultText>
+      <FemaleText>„Seien Sie gegrüßt, meine Fürstin. Gibt es irgendwelche Neuigkeiten über die Angelegenheit, die wir besprochen haben?“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

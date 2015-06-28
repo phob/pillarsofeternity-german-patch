@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Nur mit offizieller Einladung ist die Teilnahme an der Anhörung der Beseelung erlaubt."</DefaultText>
+      <DefaultText>„Nur mit offizieller Einladung ist die Teilnahme an der Anhörung der Beseelung erlaubt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"[Player Name], es wurde ein Platz für Sie auf der Galerie reserviert. Gehen Sie ins Obergeschoss."</DefaultText>
+      <DefaultText>„[Player Name], es wurde ein Platz für Sie auf der Galerie reserviert. Gehen Sie ins Obergeschoss.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

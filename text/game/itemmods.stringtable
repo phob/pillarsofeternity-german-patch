@@ -66,17 +66,17 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>des Intellekt&#2060;s +1</DefaultText>
+      <DefaultText>des Intellekt&#x2060;s +1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>des Intellekt&#2060;s +2</DefaultText>
+      <DefaultText>des Intellekt&#x2060;s +2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>des Intellekt&#2060;s +3</DefaultText>
+      <DefaultText>des Intellekt&#x2060;s +3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1056,7 +1056,7 @@
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>des Intellekt&#2060;s -1</DefaultText>
+      <DefaultText>des Intellekt&#x2060;s -1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1141,17 +1141,17 @@
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>des Wille&#2060;ns +5</DefaultText>
+      <DefaultText>des Wille&#x2060;ns +5</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>des Wille&#2060;ns +10</DefaultText>
+      <DefaultText>des Wille&#x2060;ns +10</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>des Wille&#2060;ns +15</DefaultText>
+      <DefaultText>des Wille&#x2060;ns +15</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1171,7 +1171,7 @@
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>Bonus - Kritischer Schaden</DefaultText>
+      <DefaultText>Bonus&#160;– Kritischer Schaden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1181,12 +1181,12 @@
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>Umwandlung Leichte Treffer zu T&#2060;reffer</DefaultText>
+      <DefaultText>Umwandlung Leichte Treffer zu T&#x2060;reffer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>von Kritischem Treffer-Multiplikatorbonus +10%</DefaultText>
+      <DefaultText>von Kritischem Treffer-Multiplikatorbonus +10&#160;%</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1211,7 +1211,7 @@
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>des Wille&#2060;ns -3</DefaultText>
+      <DefaultText>des Wille&#x2060;ns -3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

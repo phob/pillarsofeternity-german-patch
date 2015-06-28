@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Der Spähmodus wird für zwei Zwecke verwendet: Schleichen und suchen. Schleichen kann dir einen taktischen Vorteil gegen schwierige Feinde verleihen - oder dir helfen, ihnen aus dem Weg zu gehen. Suchen ermöglicht es dir, Fallen und versteckte Gegenstände zu finden.</DefaultText>
+      <DefaultText>Der Spähmodus wird für zwei Zwecke verwendet: Schleichen und suchen. Schleichen kann dir einen taktischen Vorteil gegen schwierige Feinde verleihen&#160;– oder dir helfen, ihnen aus dem Weg zu gehen. Suchen ermöglicht es dir, Fallen und versteckte Gegenstände zu finden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Wenn ein Angriff einen T&#2060;reffer verursacht, richtet dieser T&#2060;reffer normalen Schaden an und hat eine normale Dauer. Leichte Treffer verringern Schaden und Dauer um 50%. Kritische Treffer erhöhen Schaden und Dauer um 50%.</DefaultText>
+      <DefaultText>Wenn ein Angriff einen T&#x2060;reffer verursacht, richtet dieser T&#x2060;reffer normalen Schaden an und hat eine normale Dauer. Leichte Treffer verringern Schaden und Dauer um 50&#160;%. Kritische Treffer erhöhen Schaden und Dauer um 50&#160;%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Die Schadensart 'Direktschaden' ignoriert die Schadensreduktionen des Ziels. Nur eine kleine Anzahl von Angriffen - beispielsweise Gifte oder mentale Fähigkeiten - verursacht Direktschaden.</DefaultText>
+      <DefaultText>Die Schadensart ‚Direktschaden‘ ignoriert die Schadensreduktionen des Ziels. Nur eine kleine Anzahl von Angriffen –&#160;beispielsweise Gifte oder mentale Fähigkeiten&#160;– verursacht Direktschaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,12 +56,12 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Alle Waffen, Schilde oder Rüstungen können verzaubert werden, indem man auf der entsprechenden Beschreibungsseite auf die Schaltfläche 'Verzaubern' klickt.</DefaultText>
+      <DefaultText>Alle Waffen, Schilde oder Rüstungen können verzaubert werden, indem man auf der entsprechenden Beschreibungsseite auf die Schaltfläche ‚Verzaubern‘ klickt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Tränke, Schriftrollen und Lebensmittel können geschaffen werden, indem man im Inventar eines beliebigen Gruppenmitglieds auf 'Herstellen' klickt.</DefaultText>
+      <DefaultText>Tränke, Schriftrollen und Lebensmittel können geschaffen werden, indem man im Inventar eines beliebigen Gruppenmitglieds auf ‚Herstellen‘ klickt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Durch die Entscheidungen deines Charakters in Dialogen und Quests baust du dir einen Ruf auf - einen allgemeinen und einen separaten bei einzelnen Gruppierungen. Charaktere in der Welt reagieren auf diese Entscheidungen und diesen Ruf - auf gute oder schlechte Weise.</DefaultText>
+      <DefaultText>Durch die Entscheidungen deines Charakters in Dialogen und Quests baust du dir einen Ruf auf&#160;– einen allgemeinen und einen separaten bei einzelnen Gruppierungen. Charaktere in der Welt reagieren auf diese Entscheidungen und diesen Ruf&#160;– auf gute oder schlechte Weise.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Der Schwierigkeitsgrad beeinflusst, welche Kreaturen im Kampf erscheinen (und wie viele) . Nur 'Pfad der Verdammten' verändert die Statistiken der Kreaturen, die erscheinen.</DefaultText>
+      <DefaultText>Der Schwierigkeitsgrad beeinflusst, welche Kreaturen im Kampf erscheinen (und wie viele). Nur ‚Pfad der Verdammten‘ verändert die Statistiken der Kreaturen, die erscheinen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Durch die Fähigkeit Schleichangriff besitzen Schurken den höchsten Waffenschaden aller Klassen. Trifft ein Schurke einen Feind, der an einem Gebrechen leidet, das einen Schleichangriff ermöglicht, verursacht der T&#2060;reffer automatisch zusätzlichen Schaden.</DefaultText>
+      <DefaultText>Durch die Fähigkeit Schleichangriff besitzen Schurken den höchsten Waffenschaden aller Klassen. Trifft ein Schurke einen Feind, der an einem Gebrechen leidet, das einen Schleichangriff ermöglicht, verursacht der T&#x2060;reffer automatisch zusätzlichen Schaden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,12 +241,12 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Einige Waffenarten - zum Beispiel Panzerbrecher, Streitkolben und Stilett - negieren einen Teil der Schadensreduktion des Gegners.</DefaultText>
+      <DefaultText>Einige Waffenarten –&#160;zum Beispiel Panzerbrecher, Streitkolben und Stilett&#160;– negieren einen Teil der Schadensreduktion des Gegners.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Alle Waffen, die einen Schadenstyp wie "Hieb oder Wucht" aufführen, richten jeweils den Schadenstyp an, der in der aktuellen Situation vorteilhafter ist - meist den Schadenstyp, gegen den das Ziel am anfälligsten ist.</DefaultText>
+      <DefaultText>Alle Waffen, die einen Schadenstyp wie „Hieb oder Wucht“ aufführen, richten jeweils den Schadenstyp an, der in der aktuellen Situation vorteilhafter ist&#160;– meist den Schadenstyp, gegen den das Ziel am anfälligsten ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,7 +261,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Das Führen von zwei Nahkampfwaffen gleichzeitig bietet zwar die schnellste Angriffsrate, nicht aber den Pro-T&#2060;reffer-Schaden von Zweihandwaffen, die Genauigkeit einer einzelnen Einhandwaffe oder den Abwehrbonus eines Schilds.</DefaultText>
+      <DefaultText>Das Führen von zwei Nahkampfwaffen gleichzeitig bietet zwar die schnellste Angriffsrate, nicht aber den Pro-T&#x2060;reffer-Schaden von Zweihandwaffen, die Genauigkeit einer einzelnen Einhandwaffe oder den Abwehrbonus eines Schilds.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Zweihändige Nahkampfwaffen richten den größten Pro-T&#2060;reffer-Schaden an und können auch hohe Schadensreduktionen durchbrechen.</DefaultText>
+      <DefaultText>Zweihändige Nahkampfwaffen richten den größten Pro-T&#x2060;reffer-Schaden an und können auch hohe Schadensreduktionen durchbrechen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

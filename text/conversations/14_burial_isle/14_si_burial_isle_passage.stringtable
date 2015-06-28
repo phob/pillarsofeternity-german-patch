@@ -181,8 +181,8 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Aus einer Staubwolke, gekrümmt, taucht [SkillCheck 0] auf und hält sich seine schmerzenden Rippen.</DefaultText>
-      <FemaleText />
+      <DefaultText>Aus einer Staubwolke taucht [SkillCheck 0] gekrümmt auf und hält sich seine schmerzenden Rippen.</DefaultText>
+	  <FemaleText>Aus einer Staubwolke taucht [SkillCheck 0] gekrümmt auf und hält sich ihre schmerzenden Rippen.</FemaleText>
     </Entry>
     <Entry>
       <ID>37</ID>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Für dein aufmerksames Auge sieht der Schutt gefährlich instabil aus. Die Felsen scheinen durch bloßen Zufallen zusammenzuhalten. Wenn man nur einen davon bewegt, könnte alles einstürzen.</DefaultText>
+      <DefaultText>Für dein aufmerksames Auge sieht der Schutt gefährlich instabil aus. Die Felsen scheinen durch bloßen Zufall zusammenzuhalten. Wenn man nur einen davon bewegt, könnte alles einstürzen.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

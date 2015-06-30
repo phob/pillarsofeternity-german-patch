@@ -651,7 +651,9 @@ Ein keuchendes Seufzen müht sich, ihrer Kehle zu entkommen. „Als ich jünger 
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>„Ich lebe nicht gern im Dunklen. Es ist ein ohnmächtiges, hoffnungsloses Gefühl. Jeden Tag tat ich Dinge, ohne den Sinn zu kennen. Jeden Tag liebte ich einen Mann, ohne seine Gedanken über mich zu kennen. Ich spürte, dass es Dinge gab, die er mir sagen wollte. Ich spürte, dass er alles wusste, was zu verbergen die einzige Aufgabe des Bleiernen Schlüssels war. Aber Thaos war unnachgiebig.“</DefaultText>
+      <DefaultText>„Ich lebe nicht gern im Dunklen. Es ist ein ohnmächtiges, hoffnungsloses Gefühl. Jeden Tag tat ich Dinge, ohne den Sinn zu kennen. Jeden Tag liebte ich einen Mann, ohne seine Gedanken über mich zu kennen.“
+
+„Ich spürte, dass es Dinge gab, die er mir sagen wollte. Ich spürte, dass er alles wusste, was zu verbergen die einzige Aufgabe des Bleiernen Schlüssels war. Aber Thaos war unnachgiebig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -843,12 +845,12 @@ In diesem Augenblick strömen ihre Gedanken in deinen Verstand, als würden sie 
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>Das ist alles.</DefaultText>
+      <DefaultText>„Das ist alles.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>Dieser Fortschritt ist recht ermutigend. Ich hoffe nur, dass wir nicht zu spät sind</DefaultText>
+      <DefaultText>„Dieser Fortschritt ist recht ermutigend. Ich hoffe nur, dass wir nicht zu spät sind“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

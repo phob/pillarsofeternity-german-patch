@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Ich bin belehrend, Estramor. Was brauchst du?</DefaultText>
+      <DefaultText>„Ich unterrichte, Estramor. Was brauchst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Nichts. Leb wohl.</DefaultText>
+      <DefaultText>„Nichts. Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,7 +40,7 @@ Er nimmt die Reliquie in seine Hand, und seine Augenlider beginnen über gestrec
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Komm. Ich werde dir den Weg zeigen. Die Stimme hallt in den Kanälen deines Verstands wider.</DefaultText>
+      <DefaultText>„Komm. Ich werde dir den Weg zeigen.“ Die Stimme hallt in den Kanälen deines Verstands wider.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -50,7 +50,7 @@ Er nimmt die Reliquie in seine Hand, und seine Augenlider beginnen über gestrec
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Ein willkommene Lektion für meinen jungen Schüler. Ich bin dankbar, dass du mich aufgesucht hast.</DefaultText>
+      <DefaultText>„Ein willkommene Lektion für meinen jungen Schüler. Ich bin dankbar, dass du mich aufgesucht hast.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

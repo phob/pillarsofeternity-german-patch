@@ -600,12 +600,14 @@ Er schüttelt den Kopf. „Jede Menge Blut auf den Straßen. Ein Jammer, so viel
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>„Ich habe etwas. Doch zunächst, hilf ihm. Du weißt, wo du mich anschließend findest.“</DefaultText>
+      <DefaultText>„Expeditionen habe ich, aber nicht für jeden. Wir Dutzenden helfen nur Gleichgesinnten.“
+
+„Wie wäre es, wenn du Osric etwas zur Hand gehst? Zeig uns, woran wir bei dir sind. Ich reiße nicht aus.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>„Ich suche eigentlich nach einer Expedition.“</DefaultText>
+      <DefaultText>„Osric schickt mich. Ich bin auf der Suche nach einer Expedition.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

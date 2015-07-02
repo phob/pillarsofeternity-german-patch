@@ -260,10 +260,10 @@ Als du aufblickst, siehst du den Mann, der dich beim Studieren des Stabs beobach
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>„Du siehst mich als Last?“ Durance’ Gesicht verzerrt sich zu einem Zähnefletschen. „Ich bin gekommen, um dir zu helfen, Wächter. Du wiederum könntest mir gar nicht mehr helfen, als mich mit dir ziehen zu lassen.“
+      <DefaultText>„Du siehst mich als Last?“ Durance' Gesicht verzerrt sich zu einem Zähnefletschen. „Ich bin gekommen, um dir zu helfen, Wächter. Du wiederum könntest mir gar nicht mehr helfen, als mich mit dir ziehen zu lassen.“
 
 „Die Schlacht ist mir nicht fremd, solltest du diesbezügliche Sorgen haben. Außerdem kann ich Wunden versorgen und mit Rat zur Seite stehen&#160;… aber beides nur, wenn du mich darum bittest.“</DefaultText>
-      <FemaleText>„Du siehst mich als Last?“ Durance’ Gesicht verzerrt sich zu einem Zähnefletschen. „Ich bin gekommen, um dir zu helfen, Wächterin. Du wiederum könntest mir gar nicht mehr helfen, als mich mit dir ziehen zu lassen.“
+      <FemaleText>„Du siehst mich als Last?“ Durance' Gesicht verzerrt sich zu einem Zähnefletschen. „Ich bin gekommen, um dir zu helfen, Wächterin. Du wiederum könntest mir gar nicht mehr helfen, als mich mit dir ziehen zu lassen.“
 
 „Die Schlacht ist mir nicht fremd, solltest du diesbezügliche Sorgen haben. Außerdem kann ich Wunden versorgen und mit Rat zur Seite stehen&#160;… aber beides nur, wenn du mich darum bittest.“</FemaleText>
     </Entry>
@@ -279,8 +279,8 @@ Als du aufblickst, siehst du den Mann, der dich beim Studieren des Stabs beobach
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Ein Lächeln zieht über Durance’ Gesicht. „Dann lass uns zusammen losziehen, Wächter.“</DefaultText>
-      <FemaleText>Ein Lächeln zieht über Durance’ Gesicht. „Dann lass uns zusammen losziehen, Wächterin.“</FemaleText>
+      <DefaultText>Ein Lächeln zieht über Durance' Gesicht. „Dann lass uns zusammen losziehen, Wächter.“</DefaultText>
+      <FemaleText>Ein Lächeln zieht über Durance' Gesicht. „Dann lass uns zusammen losziehen, Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>55</ID>
@@ -390,7 +390,7 @@ Er sieht aus, als würde er etwas sagen wollen, dann fällt die Anspannung aber 
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Durance’ Gesicht ist voller Wut und sein Körper zittert. „MÜSSEN wir denn immer die Werkzeuge der Götter sein?! Sollten Woedica&#160;… und Magran&#160;… wenn sie der Grund für all das sind&#160;… die Hohlgeburten&#160;… wenn die Säuberungen niemals notwendig waren&#160;… wenn sich Eothas nur wehrte&#160;…“</DefaultText>
+      <DefaultText>Durance' Gesicht ist voller Wut und sein Körper zittert. „MÜSSEN wir denn immer die Werkzeuge der Götter sein?! Sollten Woedica&#160;… und Magran&#160;… wenn sie der Grund für all das sind&#160;… die Hohlgeburten&#160;… wenn die Säuberungen niemals notwendig waren&#160;… wenn sich Eothas nur wehrte&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -430,7 +430,7 @@ Er sieht aus, als würde er etwas sagen wollen, dann fällt die Anspannung aber 
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>„So viele Lügen&#160;…“ Durance’ Körper zittert weiterhin, und seine Hände ballen sich so krampfhaft zu Fäusten, dass sie weiß werden. Er bricht in Schweiß aus, der im seitlich das Gesicht hinabläuft. „…&#160;und Woedica&#160;… vielleicht ist sie die nächste Göttin, die dem Götterhammer zum Opfer fallen wird.“</DefaultText>
+      <DefaultText>„So viele Lügen&#160;…“ Durance' Körper zittert weiterhin, und seine Hände ballen sich so krampfhaft zu Fäusten, dass sie weiß werden. Er bricht in Schweiß aus, der im seitlich das Gesicht hinabläuft. „…&#160;und Woedica&#160;… vielleicht ist sie die nächste Göttin, die dem Götterhammer zum Opfer fallen wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -635,7 +635,7 @@ Schließlich wendet er sich dir zu, sein Gesicht ruhig und gefasst.</DefaultText
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>„Wenn ich nur daran denke&#160;… Dass ich ihr diente. Dass ich ihr folgte.“ Durance’ Gesicht verzerrt sich zu einem Zähnefletschen. „Jetzt werde ich niemandem mehr dienen. Woedicas Lügen müssen gesühnt werden&#160;… und anscheinend muss ich jetzt auch noch Feuer und Krieg von den falschen Behauptungen einer Göttin ertragen.“
+      <DefaultText>„Wenn ich nur daran denke&#160;… Dass ich ihr diente. Dass ich ihr folgte.“ Durance' Gesicht verzerrt sich zu einem Zähnefletschen. „Jetzt werde ich niemandem mehr dienen. Woedicas Lügen müssen gesühnt werden&#160;… und anscheinend muss ich jetzt auch noch Feuer und Krieg von den falschen Behauptungen einer Göttin ertragen.“
 
 Sein Gesicht wird steinern und seine brennenden Augen wirken fast hungrig. „Ich beziehe immer noch Stärke von ihr, wie früher&#160;… so lange es geht.“ Durance knurrt. „Denn ich werde sie nicht beiseite stoßen, bis ich ihr alle Stärke geraubt und selbst genug habe&#160;… genau so, wie sie es mit mir vorhatte.“</DefaultText>
       <FemaleText />

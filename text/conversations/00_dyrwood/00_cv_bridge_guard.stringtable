@@ -58,7 +58,9 @@ Er wird ernst. „Vielleicht kannst du uns helfen. Du hast nicht zufällig unter
       <DefaultText>Der Wächter wirft dir einen abschätzenden Blick zu. „Ist das zu glauben. Mitten im Nirgendwo trifft man einen gütigen Wanderer. Beraths Rad bringt uns heute wirklich Gnade.“
 
 Er wird ernst. „Vielleicht kannst du uns helfen. Du hast nicht zufällig unterwegs eine junge elfische Edelfrau gesehen? Ich sitze mit dem Rest meiner Einheit in diesem jämmerlichen Ort fest, bis wir sie gefunden haben.“</DefaultText>
-      <FemaleText />
+      <FemaleText>Der Wächter wirft dir einen abschätzenden Blick zu. „Ist das zu glauben. Mitten im Nirgendwo trifft man eine gütige Wanderin. Beraths Rad bringt uns heute wirklich Gnade.“
+
+Er wird ernst. „Vielleicht kannst du uns helfen. Du hast nicht zufällig unterwegs eine junge elfische Edelfrau gesehen? Ich sitze mit dem Rest meiner Einheit in diesem jämmerlichen Ort fest, bis wir sie gefunden haben.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

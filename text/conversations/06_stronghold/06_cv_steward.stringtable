@@ -77,8 +77,8 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>„Sollten Sie aber den Sieg davontragen, wird man Ihren Namen im ganzen Dyrwald kennen. Ihr werdet allein über Caed Nua und die Wiederherstellung ihres großen Namens herrschen. Und so lange noch ein einzelner Stein von Caed Nua übrig ist, werde ich mich deswegen an Sie erinnern, mein Fürst.“</DefaultText>
-      <FemaleText>„Sollten Sie aber den Sieg davontragen, wird man Ihren Namen im ganzen Dyrwald kennen. Ihr werdet allein über Caed Nua und die Wiederherstellung ihres großen Namens herrschen. Und so lange noch ein einzelner Stein von Caed Nua übrig ist, werde ich mich deswegen an Sie erinnern, meine Fürstin.“</FemaleText>
+      <DefaultText>„Sollten Sie aber den Sieg davontragen, wird man Ihren Namen im ganzen Dyrwald kennen. Ihr werdet allein über Caed Nua und die Wiederherstellung ihres großen Namens herrschen. Und solange noch ein einzelner Stein von Caed Nua übrig ist, werde ich mich deswegen an Sie erinnern, mein Fürst.“</DefaultText>
+      <FemaleText>„Sollten Sie aber den Sieg davontragen, wird man Ihren Namen im ganzen Dyrwald kennen. Ihr werdet allein über Caed Nua und die Wiederherstellung ihres großen Namens herrschen. Und solange noch ein einzelner Stein von Caed Nua übrig ist, werde ich mich deswegen an Sie erinnern, meine Fürstin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>35</ID>
@@ -339,7 +339,7 @@ Als du dich näherst, spürst du, wie die Wärme fluktuiert, als ob sie in Beweg
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>„Dieser Ort hat seinen Herrn schon immer gekannt, so lange er einen hatte. Er hat seinen eigenen Willen, und das hat kaum etwas mit der Burg, sondern viel mehr mit dem Land zu tun, auf der sie gebaut ist. Anscheinend sind Sie nun Maerwalds Nachfolger, ob Sie wollen oder nicht.“
+      <DefaultText>„Dieser Ort hat seinen Herrn schon immer gekannt, solange er einen hatte. Er hat seinen eigenen Willen, und das hat kaum etwas mit der Burg, sondern viel mehr mit dem Land zu tun, auf der sie gebaut ist. Anscheinend sind Sie nun Maerwalds Nachfolger, ob Sie wollen oder nicht.“
 
 „Was für eine zweifelhafte Ehre, eine zerborstene und verfluchte Festung zu erben. In den richtigen Händen aber könnte sie so viel mehr sein! Oh, wenn Sie sie nur zu ihren Glanzzeiten gesehen hätten.“
 
@@ -519,10 +519,10 @@ Als du dich näherst, spürst du, wie die Wärme fluktuiert, als ob sie in Beweg
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>„Vielen Dank, mein Fürst. Diese Burg spiegelt nur das wieder, was Sie für uns getan haben. Also ein&#160;… Monument, wenn man so möchte.“
+      <DefaultText>„Vielen Dank, mein Fürst. Diese Burg spiegelt nur das wider, was Sie für uns getan haben. Also ein&#160;… Monument, wenn man so möchte.“
 
 „…&#160;Ich habe Sie doch hoffentlich nicht zu lange warten lassen? Ich werde Ihnen meinen Bericht erstatten.“</DefaultText>
-      <FemaleText>„Vielen Dank, meine Fürstin. Diese Burg spiegelt nur das wieder, was Sie für uns getan haben. Also ein&#160;… Monument, wenn man so möchte.“
+      <FemaleText>„Vielen Dank, meine Fürstin. Diese Burg spiegelt nur das wider, was Sie für uns getan haben. Also ein&#160;… Monument, wenn man so möchte.“
 
 „…&#160;Ich habe Sie doch hoffentlich nicht zu lange warten lassen? Ich werde Ihnen meinen Bericht erstatten.“</FemaleText>
     </Entry>
@@ -705,7 +705,7 @@ Als du dich näherst, spürst du, wie die Wärme fluktuiert, als ob sie in Beweg
       <ID>160</ID>
       <DefaultText>„Gefangen? Ja, manchmal fühlt es sich wohl so an, aber meistens empfinde ich es eher so, als würde ich hier wohnen.“
 
-„Der Thron wurde aus dem Ruinen geborgen, er war eines der ersten Dinge, die man fand. Als letzte Gunst für eine sterbende Frau sorgte der Graf dafür, dass ich in ihn gewirkt wurde. Adra ist ein verträgliches Gefäß für eine Seele.“</DefaultText>
+„Der Thron wurde aus den Ruinen geborgen, er war eines der ersten Dinge, die man fand. Als letzte Gunst für eine sterbende Frau sorgte der Graf dafür, dass ich in ihn gewirkt wurde. Adra ist ein verträgliches Gefäß für eine Seele.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -750,7 +750,7 @@ Als du dich näherst, spürst du, wie die Wärme fluktuiert, als ob sie in Beweg
 „Ich&#160;… ich weiß, das ist ziemlich viel auf einmal. Wenn Sie aber bleiben werden&#160;– wenn Sie Herr dieses Ortes werden möchten&#160;… dann kann ich Ihnen nur dazu raten, diesen Feind zu besiegen, bevor er Sie vernichten kann.“</DefaultText>
       <FemaleText>„Wenn Sie sich nicht um den Meister in der Tiefe kümmern, wird der Burg immer eine Gefahr aus ihrem Inneren drohen.“
 
-„Ich&#160;… ich weiß, das ist ziemlich viel auf einmal. Wenn Sie aber bleiben werden&#160;– wenn Sie Herrin dieses Ortes werden möchten&#160;… dann kann ich Ihnen nur dazu raten, diesen Feind zu besiegen, bevor er Sie vernichten kann.“.</FemaleText>
+„Ich&#160;… ich weiß, das ist ziemlich viel auf einmal. Wenn Sie aber bleiben werden&#160;– wenn Sie Herrin dieses Ortes werden möchten&#160;… dann kann ich Ihnen nur dazu raten, diesen Feind zu besiegen, bevor er Sie vernichten kann.“</FemaleText>
     </Entry>
     <Entry>
       <ID>170</ID>

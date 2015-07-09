@@ -54,7 +54,7 @@ Sie blickt zum ersten Mal auf und mustert dich. „Das ist also die Wächterin, 
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>„Seitdem hast du meines Wissens nach einen unter Quarantäne stehenden Bezirk besucht, der für alle Zivilisten absolutes Sperrgebiet ist. Und du hast es irgendwie geschafft, ihn lebend wieder zu verlassen. Was kann nur in deinem Kopf vorgegangen sein, so etwas zu tun?“</DefaultText>
+      <DefaultText>„Seitdem hast du meines Wissens einen unter Quarantäne stehenden Bezirk besucht, der für alle Zivilisten absolutes Sperrgebiet ist. Und du hast es irgendwie geschafft, ihn lebend wieder zu verlassen. Was kann nur in deinem Kopf vorgegangen sein, so etwas zu tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -174,7 +174,7 @@ Sie blickt zum ersten Mal auf und mustert dich. „Das ist also die Wächterin, 
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>„Was gibst es sonst noch über den Bleiernen Schlüssel zu wissen?“</DefaultText>
+      <DefaultText>„Was gibt es sonst noch über den Bleiernen Schlüssel zu wissen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -452,9 +452,9 @@ Ihre Mundwinkel zucken. „Er muss rasend sein vor Zorn.“</DefaultText>
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>„Jeder sieht in Aevar etwas anderes. Deswegen sitzt er auf dem Thron. Für die Grenzbewohner ist er einer von ihnen. Für die Patrioten ist er ein Seelennachfahre von Admeth Hadret. Für die Adligen stammt er aus einer alten und ehrwürdigen Familie.“
+      <DefaultText>„Jeder sieht in Aevar etwas anderes. Deswegen sitzt er auf dem Thron. Für die Grenzbewohner ist er einer von ihnen. Für die Patrioten ist er ein Seelennachfahre von Admeth Hadret. Und für die Adligen stammt er aus einer alten und ehrwürdigen Familie.“
 
-„All das sind Halbwahrheiten oder Übertreibungen, Märchen, die er selbst in die Welt gesetzt hat.“</DefaultText>
+„All das sind Halbwahrheiten oder Übertreibungen. Märchen, die er selbst in die Welt gesetzt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -519,7 +519,7 @@ Ihre Mundwinkel zucken. „Er muss rasend sein vor Zorn.“</DefaultText>
       <ID>118</ID>
       <DefaultText>Sie gibt ihr Schauspiel auf. „Ich zähle schon lange nicht mehr mit. Äußerst befremdlich&#160;… zu feiern, dass der eigene Tod näherrückt.“
 
-„Oh, ich habe durchaus einiges machen lassen, um meine Existenz zu verlängern, wenn du das meinst. Ich schäme mich nicht dafür. Ich bin hier noch nicht fertig. Ich will noch einiges lernen. Und eher werde ich zu einer Statue, als Berath zu gestatten, mich davonzutragen, ehe ich fertig bin.“</DefaultText>
+„Oh, ich habe durchaus einiges machen lassen, um meine Existenz zu verlängern, wenn du das meinst. Ich schäme mich nicht dafür. Ich bin hier noch nicht fertig. Es gibt einiges, was ich noch lernen möchte. Und eher werde ich zu einer Statue, als Berath zu gestatten, mich davonzutragen, ehe ich fertig bin.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -597,7 +597,7 @@ Ihre Mundwinkel zucken. „Er muss rasend sein vor Zorn.“</DefaultText>
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>„Gibt es einen Fürst Webb?“</DefaultText>
+      <DefaultText>„Gibt es einen Fürsten Webb?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -814,7 +814,7 @@ Du blickst Thaos mit weit aufgerissenen Augen an, als würdest du das erste Mal 
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>Lady Webb legt den Kopf zur einen Seite, dann zur anderen, während sie das Kriegsrelikt betrachtet.
+      <DefaultText>Lady Webb neigt den Kopf zur einen Seite, dann zur anderen, während sie das Kriegsrelikt betrachtet.
 
 „Das sollte ausreichen. Aber ich brauche deine Hilfe. Der Abdruck der Essenz dieses Mannes wird für dich klarer zu sehen sein als für mich. Du wirst ihn leichter identifizieren können.“
 

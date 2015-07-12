@@ -42,7 +42,7 @@ Die Frau verschränkt ihre Arme. „Aha, willst unseren Stolz wohl mit ein paar 
       <ID>7</ID>
       <DefaultText>Einer der anderen Männer deutet auf den Elf mit der Kapuze. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. „Verspottet uns sogar noch, während er in unserem Dorf wohnt. Soviel zum Thema, was diese feinen aedyrischen Manieren wirklich wert sind.“
 
-„So eine Behandlung lassen wir uns nicht gefallen. Nicht von Ausländern, und von Aedyrern erst recht nicht.“</DefaultText>
+„So eine Behandlung lassen wir uns nicht gefallen. Nicht von Fremden, und von Aedyrern erst recht nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -57,12 +57,12 @@ Die Frau verschränkt ihre Arme. „Aha, willst unseren Stolz wohl mit ein paar 
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Einer der anderen Männer starrt den Elf mit der Kapuze an. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. „Du bist ganz schön frech, uns in unserem eigenen Dorf zu verspotten. Von Ausländern lassen wir uns nicht schlecht behandeln. Von Aedyrern erst recht nicht.“</DefaultText>
+      <DefaultText>Einer der anderen Männer starrt den Elf mit der Kapuze an. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. „Du bist ganz schön frech, uns in unserem eigenen Dorf zu verspotten. Von Fremden lassen wir uns nicht schlecht behandeln. Von Aedyrern erst recht nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Einer der anderen Männer starrt den Elf mit der Kapuze an. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. „Wir sind einfache Leute, aber dumm sind wir nicht. Das scheint er aber anders zu sehen, da er uns verspottet, während er in unserem Dorf wohnt. So lassen wir uns von Ausländern nicht anreden, und von Aedyrern erst recht nicht.“</DefaultText>
+      <DefaultText>Einer der anderen Männer starrt den Elf mit der Kapuze an. Seine Augen sind rot vom Alkohol, aber sein Blick ist fixiert. „Wir sind einfache Leute, aber dumm sind wir nicht. Das scheint er aber anders zu sehen, da er uns verspottet, während er in unserem Dorf wohnt. So lassen wir uns von Fremden nicht anreden, und von Aedyrern erst recht nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,8 +144,8 @@ Er stellt sich fest hin. In seinen Augen flackert etwas Mürrisches und Rohes au
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>„Niemand gibt uns Befehle, Ausländer.“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Niemand gibt uns Befehle, Fremder.“</DefaultText>
+      <FemaleText>„Niemand gibt uns Befehle, Fremde.“</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -154,8 +154,8 @@ Er stellt sich fest hin. In seinen Augen flackert etwas Mürrisches und Rohes au
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Sie greifen dich mit hasserfüllten Augen an. „Oh nein, das wirst du nicht, Ausländer.“</DefaultText>
-      <FemaleText />
+      <DefaultText>Sie greifen dich mit hasserfüllten Augen an. „Oh nein, das wirst du nicht, Fremder.“</DefaultText>
+      <FemaleText>Sie greifen dich mit hasserfüllten Augen an. „Oh nein, das wirst du nicht, Fremde.“</FemaleText>
     </Entry>
     <Entry>
       <ID>33</ID>
@@ -169,8 +169,8 @@ Er stellt sich fest hin. In seinen Augen flackert etwas Mürrisches und Rohes au
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>„Deine Mildtätigkeit wollen wir auch nicht, Ausländer.“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Deine Mildtätigkeit wollen wir auch nicht, Fremder.“</DefaultText>
+      <FemaleText>„Deine Mildtätigkeit wollen wir auch nicht, Fremde.“</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>

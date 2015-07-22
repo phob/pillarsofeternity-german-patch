@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Ich weiß nicht, wer du bist, und es ist mir auch ziemlich egal. Geh weiter, wir sind nicht hierher gekommen, um mit Ausländern zu plaudern.“</DefaultText>
+      <DefaultText>„Ich weiß nicht, wer du bist, und es ist mir auch ziemlich egal. Geh weiter, wir sind nicht hierher gekommen, um mit Fremden zu plaudern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,8 +66,8 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>„Oh, das wundert mich gar nicht. Was für ein Adliger, dieser Trumbel. Zwei große, starke Kinder. Die reinste Seele in ganz Goldtal.“ Der Zwerg schnaubt. „Der Feigling sendet Boten aus, um seine Angelegenheiten für ihn zu erledigen? Na, du kannst zu ihm gehen und ihm sagen, dass wir seinetwegen schon seit Tagen nichts Festes mehr gegessen haben, dass wir uns seinetwegen die Schänke nicht mehr leisten können&#160;… aber dass wir uns nicht an seiner Statt von irgendeinem Ausländer einschüchtern lassen!“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Oh, das wundert mich gar nicht. Was für ein Adliger, dieser Trumbel. Zwei große, starke Kinder. Die reinste Seele in ganz Goldtal.“ Der Zwerg schnaubt. „Der Feigling sendet Boten aus, um seine Angelegenheiten für ihn zu erledigen? Na, du kannst zu ihm gehen und ihm sagen, dass wir seinetwegen schon seit Tagen nichts Festes mehr gegessen haben, dass wir uns seinetwegen die Schänke nicht mehr leisten können&#160;… aber dass wir uns nicht an seiner Statt von irgendeinem Fremden einschüchtern lassen!“</DefaultText>
+      <FemaleText>„Oh, das wundert mich gar nicht. Was für ein Adliger, dieser Trumbel. Zwei große, starke Kinder. Die reinste Seele in ganz Goldtal.“ Der Zwerg schnaubt. „Der Feigling sendet Boten aus, um seine Angelegenheiten für ihn zu erledigen? Na, du kannst zu ihm gehen und ihm sagen, dass wir seinetwegen schon seit Tagen nichts Festes mehr gegessen haben, dass wir uns seinetwegen die Schänke nicht mehr leisten können&#160;… aber dass wir uns nicht an seiner Statt von irgendeiner Fremden einschüchtern lassen!“</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -311,8 +311,8 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>„Sieh an, sieh an. Alle im Dorf reden über dich, und du gewährst UNS die Gunst deines Besuchs? Weswegen bist du hier, Ausländer? Ein Trinkspruch? Ein bisschen Applaus?“ Er hebt seinen Krug zum gespielten Gruß.</DefaultText>
-      <FemaleText>„Sieh an, sieh an. Alle im Dorf reden über dich, und du gewährst UNS die Gunst deines Besuchs? Weswegen bist du hier, Ausländerin? Ein Trinkspruch? Ein bisschen Applaus?“ Er hebt seinen Krug zum gespielten Gruß.</FemaleText>
+      <DefaultText>„Sieh an, sieh an. Alle im Dorf reden über dich, und du gewährst UNS die Gunst deines Besuchs? Weswegen bist du hier, Fremder? Ein Trinkspruch? Ein bisschen Applaus?“ Er hebt seinen Krug zum gespielten Gruß.</DefaultText>
+      <FemaleText>„Sieh an, sieh an. Alle im Dorf reden über dich, und du gewährst UNS die Gunst deines Besuchs? Weswegen bist du hier, Fremde? Ein Trinkspruch? Ein bisschen Applaus?“ Er hebt seinen Krug zum gespielten Gruß.</FemaleText>
     </Entry>
     <Entry>
       <ID>69</ID>

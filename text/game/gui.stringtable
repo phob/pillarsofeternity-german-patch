@@ -1476,32 +1476,32 @@
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>Die Gruppe hat {0} Kupferstücke erlangt.</DefaultText>
+      <DefaultText>Du hast {0} Kupfer erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>Die Gruppe hat {0} Kupferstücke verloren.</DefaultText>
+      <DefaultText>Du hast {0} Kupfer verloren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>Die Gruppe hat einen Gegenstand erlangt: {0}.</DefaultText>
+      <DefaultText>Du hast einen Gegenstand erhalten: {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>Die Gruppe hat einen Gegenstand verloren: {0}.</DefaultText>
+      <DefaultText>Du hast einen Gegenstand verloren: {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>Die Gruppe hat einen Gegenstand erlangt: {1}x {0}</DefaultText>
+      <DefaultText>Du hast einen Gegenstand erhalten ({1}): {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>Die Gruppe hat einen Gegenstand verloren: {1}x {0}</DefaultText>
+      <DefaultText>Du hast einen Gegenstand verloren ({1}): {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

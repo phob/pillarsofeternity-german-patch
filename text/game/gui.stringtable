@@ -6385,7 +6385,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1268</ID>
-      <DefaultText>{0} Heilung</DefaultText>
+      <DefaultText>{0} Heilung durchgeführt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8675,7 +8675,7 @@ Stufe {1} Schlösser knacken,
     </Entry>
     <Entry>
       <ID>1728</ID>
-      <DefaultText>{0} wurde im Lager abgelegt.</DefaultText>
+      <DefaultText>{0} im Lager abgelegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9737,7 +9737,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1952</ID>
-      <DefaultText>{0} zu Kritischer Schaden Multiplikator gegen Feinde mit geringer Ausdauer</DefaultText>
+      <DefaultText>{0} zu Kritischer Schaden Multiplikator gegen Ziele mit geringer Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

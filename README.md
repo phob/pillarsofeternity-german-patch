@@ -9,10 +9,10 @@ The webinterface has this behaviour that it adds an empty newline at the end of 
 
 Here are a few easy to use clients:
 * Windows
-	* https://windows.github.com/
+	* https://desktop.github.com/
 	* http://www.sourcetreeapp.com/
 * Mac
-	* https://mac.github.com/
+	* https://desktop.github.com/
 	* http://www.sourcetreeapp.com/
 * Linux
 	* you really don't know how to use git?
@@ -34,3 +34,4 @@ Credits:
 - Kirschrose
 - benniii
 - Avantenor
+- Madscientist

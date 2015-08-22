@@ -716,7 +716,7 @@
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Expertenmodus</DefaultText>
+      <DefaultText>Experte</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1476,32 +1476,32 @@
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>Die Gruppe hat {0} Kupferstücke erlangt.</DefaultText>
+      <DefaultText>Du hast {0} Kupfer erhalten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>Die Gruppe hat {0} Kupferstücke verloren.</DefaultText>
+      <DefaultText>Du hast {0} Kupfer verloren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>Die Gruppe hat einen Gegenstand erlangt: {0}.</DefaultText>
+      <DefaultText>Du hast einen Gegenstand erhalten: {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>Die Gruppe hat einen Gegenstand verloren: {0}.</DefaultText>
+      <DefaultText>Du hast einen Gegenstand verloren: {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>Die Gruppe hat einen Gegenstand erlangt: {1}x {0}</DefaultText>
+      <DefaultText>Du hast mehrere Gegenstände erhalten: {0} ({1}).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>Die Gruppe hat einen Gegenstand verloren: {1}x {0}</DefaultText>
+      <DefaultText>Du hast mehrere Gegenstände verloren: {0} ({1}).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6385,7 +6385,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1268</ID>
-      <DefaultText>{0} Heilung</DefaultText>
+      <DefaultText>{0} Heilung durchgeführt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7722,7 +7722,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1537</ID>
-      <DefaultText>Automatisch speichern</DefaultText>
+      <DefaultText>Autom. gespeichert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8675,7 +8675,7 @@ Stufe {1} Schlösser knacken,
     </Entry>
     <Entry>
       <ID>1728</ID>
-      <DefaultText>{0} wurde im Lager abgelegt.</DefaultText>
+      <DefaultText>{0} im Lager abgelegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9737,7 +9737,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1952</ID>
-      <DefaultText>{0} zu Kritischer Schaden Multiplikator gegen Feinde mit geringer Ausdauer</DefaultText>
+      <DefaultText>{0} zu Kritischer Schaden Multiplikator gegen Ziele mit geringer Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

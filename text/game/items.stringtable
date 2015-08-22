@@ -928,7 +928,7 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>Krankenakte: Uscgrim</DefaultText>
+      <DefaultText>Krankenakte, Nordstation: Uscgrim</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -938,7 +938,7 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>Krankenakte: Battixa, „Die Bleiche Dame“</DefaultText>
+      <DefaultText>Krankenakte, Nordstation: Battixa, „Die Bleiche Dame“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -948,7 +948,7 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>Krankenakte: Gram</DefaultText>
+      <DefaultText>Krankenakte, Nordstation: Gram</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -958,7 +958,7 @@ Auf der ersten Seite befindet sich eine Notiz für jemanden namens Dunstan.</Def
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>Krankenakte: Idelman, „Der Mitternachtsmann“</DefaultText>
+      <DefaultText>Krankenakte, Nordstation: Idelman, „Der Mitternachtsmann“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3170,7 +3170,7 @@ Um sie bei ihren Nachforschungen zu unterstützen, gab ihr der Anamfath des Drei
     </Entry>
     <Entry>
       <ID>646</ID>
-      <DefaultText>Entschluss</DefaultText>
+      <DefaultText>Entschlossenheit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3706,7 +3706,7 @@ Icantha.</DefaultText>
     </Entry>
     <Entry>
       <ID>752</ID>
-      <DefaultText>Dein Notenschlüssel</DefaultText>
+      <DefaultText>Der Berg</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5836,11 +5836,11 @@ Er war groß, selbst für einen Aumaua, aber ein Mann der leisen Töne. Also bea
     </Entry>
     <Entry>
       <ID>1176</ID>
-      <DefaultText>Ein Zauberbuch ist das Lebensblut des magischen Repertoires eines jeden Zauberers. Diese Bücher werden aus seltenen Materialien sorgfältig und aufwendig gefertigt und können vorübergehend Fragmente freier Seelenessenz lagern, die durch das Buch kanalisiert und in Form eines Zaubers entladen wird.
+      <DefaultText>Ein Zauberbuch ist das Lebensblut des magischen Repertoires eines jeden Zauberers. Diese Bücher werden aus seltenen Materialien sorgfältig und aufwendig gefertigt. Sie können vorübergehend Fragmente freier Seelenessenz lagern, die durch das Buch kanalisiert und in Form eines Zaubers entladen wird.
 
-Unter Laien herrscht der Irrglaube, dass Zauberer die magischen Energien formen, die sie beherrschen. In Wahrheit formen die Seiten des Zauberbuchs die Magie. Die Kunst der Zauberei liegt in der disziplinierten Kontrolle und Manipulation des Zauberbuchs. Die fähigsten Zauberer können ihren Büchern Zauber von höchster Wirksamkeit und Stärke entlocken.
+Unter Laien herrscht der Irrglaube, dass Zauberer die magischen Energien formen, die sie einsetzen. In Wahrheit formen die Seiten des Zauberbuchs die Magie. Die Kunst der Zauberei liegt in der disziplinierten Kontrolle und Manipulation des Zauberbuchs. Die fähigsten Zauberer können ihren Büchern Zauber von höchster Wirksamkeit und Stärke entlocken.
 
-Obwohl alle Zauberbücher ihre Grenzen haben, da sie aus einer begrenzten Anzahl an Seiten bestehen, tragen viele erfahrene Zauberer mehrere Zauberbücher gleichzeitig bei sich, um für alle erdenklichen Situationen gerüstet zu sein.</DefaultText>
+Alle Zauberbücher haben ihre Grenzen, da sie aus einer begrenzten Anzahl an Seiten bestehen. Viele erfahrene Zauberer tragen daher mehrere Zauberbücher gleichzeitig bei sich, um für alle erdenklichen Situationen gerüstet zu sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6523,7 +6523,7 @@ Die Klinge selbst ist ein einfacher Säbel mit einem abgewetzten Ledergriff und 
     </Entry>
     <Entry>
       <ID>1309</ID>
-      <DefaultText>Angeblich lässt sich der Säbel mit dem Namen Entschluss bis zu einer uralten Blutlinie von Kriegern aus der Zeit noch vor der Gründung des Reichs Aedyr zurückverfolgen&#160;– auch wenn diese Behauptung schon immer angezweifelt wurde. Sicher bekannt ist nur, dass der Säbel von den Grafen von Yenwald von Generation zu Generation weitergegeben wurde und sie während der Kolonisierung des Dyrwalds bei der Überfahrt über das Meer begleitet hat. Der Säbel galt als Zeichen ihrer adligen Herkunft und ist auf den meisten formellen Porträts der Familie zu sehen.
+      <DefaultText>Angeblich lässt sich der Säbel mit dem Namen Entschlossenheit bis zu einer uralten Blutlinie von Kriegern aus der Zeit noch vor der Gründung des Reichs Aedyr zurückverfolgen&#160;– auch wenn diese Behauptung schon immer angezweifelt wurde. Sicher bekannt ist nur, dass der Säbel von den Grafen von Yenwald von Generation zu Generation weitergegeben wurde und sie während der Kolonisierung des Dyrwalds bei der Überfahrt über das Meer begleitet hat. Der Säbel galt als Zeichen ihrer adligen Herkunft und ist auf den meisten formellen Porträts der Familie zu sehen.
 
 Der jüngste Spross der Familie ließ die Waffe reparieren, auf dass sie nicht mehr nur rein dekorativen Zwecken diene. Die Klinge wurde zu einer harten und präzisen Waffe umgeschmiedet, die der junge Graf bei seinen Bemühungen führte, die Burg von Caed Nua zurückzuerobern, die traditionelle Festung des Grafen von Yenwald. Sowohl das Schwert als auch der Graf verschwanden spurlos und wurden nie wieder gesehen.
 
@@ -8598,17 +8598,17 @@ Nach ausgiebiger Erkundung erkannten sie, dass es ein kleiner Satellit mit einer
     </Entry>
     <Entry>
       <ID>1572</ID>
-      <DefaultText>Historiker streiten darüber, wann der Krieg des Heiligen tatsächlich begann. Es gilt als allgemein akzeptiert, dass der Auslöser die Flucht von readceranischen Bürgern in den Dyrwald war. Dies führte zu Zwietracht zwischen den beiden Nationen, die schließlich zu einem Krieg eskalierte&#160;– dem Krieg des Heiligen.
+      <DefaultText>Historiker streiten darüber, wann der Krieg des Heiligen tatsächlich begann. Es gilt als allgemein akzeptiert, dass der Auslöser die Flucht von readceranischen Bürgern in den Dyrwald war. Dies führte zu Zwietracht zwischen den beiden Nationen, die schließlich in einem Krieg gipfelte&#160;– dem Krieg des Heiligen.
 
-Der Autor ist jedoch der Meinung, dass der Krieg in Wahrheit schon viele Jahre zuvor begonnen hatte.
+Der Autor ist jedoch der Meinung, dass der Krieg in Wahrheit schon viele Jahre zuvor begonnen hat.
 
 Nach dem Wunder des fruchtbaren Vorlas (wie es später genannt wurde) scharte Waidwen rasch Gefolgsleute um sich, die von den Geschichten von Eothas’ wundersamem Propheten angezogen wurden. Seine Macht wuchs. Schließlich hatte Waidwen genügend Unterstützung gesammelt, um den kaiserlichen Gouverneur zu konfrontieren.
 
-Unterstützt von einer Gruppe von Rittern und Adligen, die sich seiner Sache angeschlossen hatten, marschierte er auf die Hauptstadt zu. Das Leben des Gouverneurs wurde verschont, er wurde jedoch gezwungen, abzutreten und die Kolonie zu verlassen. Das geschah nicht, weil der Gouverneur sich einsichtig zeigte oder rasch beigab, sondern allein deswegen, was geschah, als Waidwen den Palast des Gouverneurs betrat. Als Waidwen sich dem Gouverneur näherte, verwandelte sich sein Körper allen Augenzeugenberichten zufolge in etwas, das nicht mehr menschlich war. Sein Fleisch begann zu leuchten und sein Kopf verwandelte sich in pures, gleißendes Licht. (Anderen Quellen zufolge begann die Verwandlung Waidwens schon früher, während seiner öffentlichen Auspeitschung. Der Ausgang seines Palastbesuchs ist jedoch unbestritten.)
+Unterstützt von einer Gruppe von Rittern und Adligen, die sich seiner Sache angeschlossen hatten, marschierte er auf die Hauptstadt zu. Das Leben des Gouverneurs wurde verschont, er musste jedoch abdanken und die Kolonie verlassen. Das geschah nicht etwa, weil der Gouverneur sich einsichtig zeigte oder rasch beigab, sondern allein deswegen, was geschah, als Waidwen den Palast des Gouverneurs betrat. Als Waidwen sich dem Gouverneur näherte, verwandelte sich sein Körper allen Augenzeugenberichten zufolge in etwas, das nicht mehr menschlich war. Sein Fleisch begann zu leuchten und sein Kopf verwandelte sich in pures, gleißendes Licht. (Anderen Quellen zufolge begann die Verwandlung Waidwens schon früher, während seiner öffentlichen Auspeitschung. Der Ausgang seines Palastbesuchs ist jedoch unbestritten.)
 
 Der Gouverneur, in dem Wissen, dass er niemals einen Avatar von Eothas besiegen könnte, gab seine Macht ab. Das Volk bat Waidwen, die Kolonie zu führen. Er nahm an, wodurch er den Beinamen „Göttlicher König“ von Readceras verdiente.
 
-Waidwens Herrschaft war nahezu unangefochten. Zunächst lag das daran, dass jeder ehrfürchtig kauerte, weil ein Gott entschieden hatte, sich zu manifestieren und sein Volk zu führen. Das änderte sich jedoch, als Waidwen begann, die Verbündeten des alten Reichs und des „Gifts der Welt“ zu bestrafen&#160;– was er als korrupte Kirchen oder Kirchenoberste von Eothas ansah. Das Misstrauen stieg und bald wurden Anhänger Eothas’ bestraft, sobald auch nur die leiseste Vermutung auftrat, sie könnten Ketzer sein. Auch Anhänger anderer Religionen wurden verfolgt, schlicht, weil sie einem anderen Glauben anhingen. Das führte dazu, dass große Teile der Bevölkerung aus Readceras flohen und im Dyrwald um Zuflucht baten. Das wiederum führte zu Zwietracht zwischen den beiden Nationen. Die Dyrwälder wussten, dass sie nicht unbegrenzt Flüchtlinge aufnehmen konnten, sollte Waidwen weiter widerstandslos walten können. Außerdem fürchteten sie, dass er seinen Blick von Readceras abwenden und auf sie richten könnte, wenn sie nichts unternahmen. Genau das geschah schließlich auch, und es brach ein offener Krieg aus, als Waidwen versuchte, sein Reich auf die Lande des Dyrwalds auszudehnen.</DefaultText>
+Waidwens Herrschaft war nahezu unangefochten. Anfangs lag das daran, dass jeder ehrfürchtig kauerte, weil ein Gott entschieden hatte, sich zu manifestieren und sein Volk zu führen. Das änderte sich jedoch, als Waidwen begann, die Verbündeten des alten Reichs und das „Gift der Welt“ zu bestrafen&#160;– als was er korrupte Kirchen oder Kirchenoberste von Eothas ansah. Das Misstrauen stieg und bald wurden Anhänger Eothas’ bestraft, sobald auch nur die leiseste Vermutung auftrat, sie könnten Ketzer sein. Auch Anhänger anderer Religionen wurden allein deswegen verfolgt, weil sie einem anderen Glauben anhingen. So kam es, dass große Teile der Bevölkerung aus Readceras flohen und im Dyrwald um Zuflucht baten. Das wiederum führte zu Zwietracht zwischen den beiden Nationen. Die Dyrwälder wussten, dass sie nicht unbegrenzt Flüchtlinge aufnehmen konnten, sollte Waidwen weiter widerstandslos walten können. Außerdem fürchteten sie, dass er seinen Blick von Readceras abwenden und auf sie richten könnte, wenn sie nichts unternahmen. Genau das geschah schließlich auch. Als Waidwen versuchte, sein Reich auf die Lande des Dyrwalds auszudehnen, brach ein offener Krieg aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -1496,12 +1496,12 @@
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>Du hast einen Gegenstand erhalten ({1}): {0}.</DefaultText>
+      <DefaultText>Du hast mehrere Gegenstände erhalten: {0}({1}).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>Du hast einen Gegenstand verloren ({1}): {0}.</DefaultText>
+      <DefaultText>Du hast mehrere Gegenstände verloren: {0}({1}).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

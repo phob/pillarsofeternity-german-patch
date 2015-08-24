@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\loadingtips</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>88</EntryCount>
+  <EntryCount>95</EntryCount>
   <Entries>
     <Entry>
       <ID>5</ID>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Die Wahrnehmung wirkt sich auf die Chance aus, dass ein Charakter Angriffe unterbricht, und trägt zur Verbesserung von Abwehr und Reflexen bei. Sie kann auch in Dialogen und geskripteten Interaktionen verwendet werden, um kleine oder verborgene Details zu bemerken.</DefaultText>
+      <DefaultText>Die Wahrnehmung wirkt sich auf die Chance aus, dass ein Charakter Angriffe unterbricht, und trägt zur Verbesserung von Genauigkeit und Reflexen bei. Sie kann auch in Dialogen und geskripteten Interaktionen verwendet werden, um kleine oder verborgene Details zu bemerken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,7 +266,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Rüstet man ein Schild aus, erhöht sich die Abwehr des Charakters, seine Erholung verlangsamt sich aber. Größere Schilde können sich außerdem negativ auf die Genauigkeit eines Charakters auswirken.</DefaultText>
+      <DefaultText>Rüstet man ein Schild aus, erhöht sich die Abwehr des Charakters. Größere Schilde können sich negativ auf die Genauigkeit eines Charakters auswirken.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -436,12 +436,47 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Klickt man auf einen Gegenstand in einem Behälter bei gleichzeitig gedrückter Umschalttaste, wandert der Gegenstand direkt in dein Lager.</DefaultText>
+      <DefaultText>Klickst du bei gedrückter Umschalttaste auf einen Gegenstand in einem Behälter, wird der Gegenstand direkt in deinem Lager abgelegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
       <DefaultText>Du kannst jede Fähigkeit auf eine Schnelltaste legen, indem du den Cursor über die Fähigkeit legst und die entsprechende Schnelltaste drückst.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>94</ID>
+      <DefaultText>Du kannst die Aktionen deiner Gruppenmitglieder im Kampf automatisieren, indem du die KI-Einstellungen in ihrem Charakterbogen anpasst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Du kannst die Porträts deiner Hauptcharaktere und -abenteurer über das aktuelle Porträt in ihrem Charakterbogen anpassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Einzelne Charaktere können den Spähmodus unabhängig vom Rest der Gruppe aktivieren. Ein gestrichelter Auswahlkreis zeigt an, welche Charaktere gerade spähen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Du kannst in jeder Taverne einen Charakter von Level 1 aus neu ausbilden. Die Kosten dafür steigen mit dem Level des Charakters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Seelengebundene Waffen erhalten zusätzliche Kräfte, wenn der Besitzer bestimmte Voraussetzungen erfüllt. Die Beschreibung der Waffe führt immer die jeweils nächste Voraussetzung auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Wenn du ein Ziel für Angriffe, Zauber und andere Fähigkeiten auswählst, zeigt der gestrichelte Ring um den Charakter herum die maximale Reichweite der jeweiligen Aktion an. Wählst du ein Ziel außerhalb des Rings aus, muss dein Charakter sich bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Wenn du ein Ziel angreifst, zeigt die Prozentangabe neben potenziellen Zielen die Wahrscheinlichkeit an, mit der du einen Treffer oder Kritischen Treffer landest. Wenn die Chance niedrig ist, solltest du eine andere Verteidigung angreifen oder Wirkungen einsetzen, um deine Chancen zu verbessern.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1821</EntryCount>
+  <EntryCount>1820</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -9482,11 +9482,6 @@ Retsim Namotatop</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>1660</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>1661</ID>
       <DefaultText>Raedrics Herausforderung</DefaultText>
       <FemaleText />
@@ -10321,7 +10316,7 @@ Yngmar wird „IING-mar“ gesprochen, mit einem langen Vokallaut zu Beginn.</De
     </Entry>
     <Entry>
       <ID>1796</ID>
-      <DefaultText>Lockt einen Schwarm aggressiver Insekten an, die mit der Zeit direkten Schaden verursachen und die Konzentration von jedem im Wirkungsbereich verringern.</DefaultText>
+      <DefaultText>Lockt einen Schwarm aggressiver Insekten an, die mit der Zeit Stichschaden verursachen und die Konzentration von jedem im Wirkungsbereich verringern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

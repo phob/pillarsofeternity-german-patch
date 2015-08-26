@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\gui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1968</EntryCount>
+  <EntryCount>2041</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1841,7 +1841,7 @@
     </Entry>
     <Entry>
       <ID>370</ID>
-      <DefaultText>{0} Unterbrechung, {1} Abwehr und {2} Reflexe</DefaultText>
+      <DefaultText>{0} Unterbrechung, {1} Genauigkeit und {2} Reflexe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2047,16 +2047,6 @@
     <Entry>
       <ID>411</ID>
       <DefaultText>Keine Zauber auf dieser Stufe.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>412</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>413</ID>
-      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -2361,7 +2351,7 @@
     </Entry>
     <Entry>
       <ID>474</ID>
-      <DefaultText>Wahrnehmung repräsentiert die Sinne eines Charakters sowie dessen instinktive Fähigkeit, Details aufzugreifen. Bei Interaktionen kann sie dazu benutzt werden, jemanden beim Lügen zu ertappen, einen aufmerksamen Kommentar über seine Erscheinung abzugeben oder etwas zu bemerken, was sich im Hintergrund abspielt. Im Kampf trägt sie zu den Abwehr- und Reflexe-Verteidigungen bei und gewährt einen Bonus auf Unterbrechung.</DefaultText>
+      <DefaultText>Wahrnehmung repräsentiert die Sinne eines Charakters sowie dessen instinktive Fähigkeit, Details aufzugreifen. Bei Interaktionen kann sie dazu benutzt werden, jemanden beim Lügen zu ertappen, einen aufmerksamen Kommentar über seine Erscheinung abzugeben oder etwas zu bemerken, was sich im Hintergrund abspielt. Im Kampf trägt sie zur Genauigkeit und zur Reflexe-Verteidigung bei und gewährt einen Bonus auf Unterbrechung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2949,11 +2939,6 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>575</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
       <ID>576</ID>
       <DefaultText>Maschine</DefaultText>
       <FemaleText />
@@ -3230,7 +3215,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>631</ID>
-      <DefaultText>Die Handwerkshalle versorgt die Festung mit Waffen für die Verteidigung. Durch den Ausbau der Handwerkshalle erhältst du einen Gewandtheitsbonus, wenn in Leuchthöhle gerastet wird.</DefaultText>
+      <DefaultText>Wenn du die Handwerkshalle neu aufbaust, wird deine Festung bewaffnet. Du erhältst einen Waffen- und Rüstungshändler sowie einen Gewandtheitsbonus, wenn du in Leuchthöhle rastest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3240,7 +3225,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>633</ID>
-      <DefaultText>Neumodische Vorrichtungen werden in Caed Nua in der Halle der Magieschmiede gelagert. Durch die Reparatur der Halle erhältst du einen Bonus auf die Mechanik-Fertigkeit, wenn in Leuchthöhle gerastet wird.</DefaultText>
+      <DefaultText>In der Halle der Magieschmiede werden neuartige Gerätschaften gelagert. Baust du sie wieder auf, kannst du dort Fallen kaufen - und du erhältst einen Mechanikbonus, wenn du in Leuchthöhle rastest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3260,7 +3245,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>637</ID>
-      <DefaultText>Durch den Erwerb eines Händlerstands kann ein Händler zufällige Güter in deiner Großen Halle verkaufen.</DefaultText>
+      <DefaultText>Durch den Erwerb eines Händlerstands kann ein Händler Gemischtwaren in deiner Herrenhalle verkaufen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3270,7 +3255,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>639</ID>
-      <DefaultText>Der Kuriositätenladen enthält merkwürdige und exotische Kreaturen-Artefakte. Durch den Ausbau des Ladens generiert jede Runde einen zufälligen Kreaturen-Teil.</DefaultText>
+      <DefaultText>Der Kuriositätenladen handelt mit&#160;… Kuriositäten. Er ermöglicht es dir, Körperteile von exotischen Kreaturen zu kaufen. Generiert außerdem in jeder Runde ein zufälliges Kreaturen-Körperteil in der Schatzkammer der Festung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3290,7 +3275,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>643</ID>
-      <DefaultText>Die Kapelle ist das religiöse Zentrum der Festung. Durch den Ausbau der Kapelle erhältst du einen Entschlossenheitsbonus, wenn in Leuchthöhle gerastet wird.</DefaultText>
+      <DefaultText>Die Kapelle ist das religiöse Zentrum der Festung. Sie ermöglicht es dir, Schriftrollen von einem Priester zu kaufen. Außerdem verleiht sie dir einen Bonus auf die Entschlossenheit, wenn du in Leuchthöhle rastest.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3310,7 +3295,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>647</ID>
-      <DefaultText>Durch den Ausbau des botanischen Gartens kann deine Festung eine zufällige Pflanze pro Runde generieren.</DefaultText>
+      <DefaultText>Durch den Ausbau des botanischen Gartens wird in der Schatzkammer deiner Festung jede Runde eine zufällige Pflanze generiert.Durch den Ausbau des botanischen Gartens wird in der Schatzkammer deiner Festung jede Runde eine zufällige Pflanze generiert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3476,11 +3461,6 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     <Entry>
       <ID>680</ID>
       <DefaultText>Auto-Beenden</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>681</ID>
-      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -4880,7 +4860,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>965</ID>
-      <DefaultText>Die Instandsetzung von Leuchthöhle ermöglicht es dir, dort zu rasten. Durch weitere Aufwertungen können Rast-Boni freigeschaltet werden.</DefaultText>
+      <DefaultText>Die Instandsetzung von Leuchthöhle ermöglicht es dir, dort zu rasten. Durch weitere Ausbauten können Rast-Boni freigeschaltet werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4990,7 +4970,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>987</ID>
-      <DefaultText>Agenten des Bleiernen Schlüssels haben die Festung infiltriert und werden die Große Halle bald angreifen!</DefaultText>
+      <DefaultText>Agenten des Bleiernen Schlüssels haben die Festung infiltriert und werden die Herrenhalle bald angreifen!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9132,17 +9112,17 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1820</ID>
-      <DefaultText>Wird bei Bewusstlosigkeit ausgelöst.</DefaultText>
+      <DefaultText>{0} bei Bewusstlosigkeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1821</ID>
-      <DefaultText>Wird ausgelöst durch Kritischen Treffer.</DefaultText>
+      <DefaultText>{0} bei Kritischem Treffer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1822</ID>
-      <DefaultText>Wird ausgelöst durch erlittenen Kritischen Treffer.</DefaultText>
+      <DefaultText>{0} bei erlittenem Kritischen Treffer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9737,22 +9717,17 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1952</ID>
-      <DefaultText>{0} zu Kritischer Schaden Multiplikator gegen Ziele mit geringer Ausdauer</DefaultText>
+      <DefaultText>{0} zu Kritischer Schaden Multiplikator gegen Ziele mit niedriger Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1953</ID>
-      <DefaultText>Durchschnitt</DefaultText>
+      <DefaultText>Durchschnittlich</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1954</ID>
       <DefaultText>Dyrwald</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1955</ID>
-      <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
@@ -9772,12 +9747,12 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1963</ID>
-      <DefaultText>Begleiter bei Beitritt automatisch aufsteigen lassen</DefaultText>
+      <DefaultText>Gefährten bei Beitritt automatisch aufsteigen lassen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1964</ID>
-      <DefaultText>Lässt Begleiter bei Beitritt zur Gruppe automatisch aufsteigen. Deaktivieren um Begleiter manuell von Stufe 1 aufsteigen zu lassen.</DefaultText>
+      <DefaultText>Lässt Gefährten bei Beitritt zur Gruppe automatisch aufsteigen. Deaktivieren, um Gefährten manuell von Stufe 1 aufsteigen zu lassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9812,7 +9787,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1983</ID>
-      <DefaultText>Charaktersounds</DefaultText>
+      <DefaultText>Dialoghäufigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9867,7 +9842,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1997</ID>
-      <DefaultText>max. Bildwiederholungsrate</DefaultText>
+      <DefaultText>Max. Bildwiederholungsrate</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9900,16 +9875,6 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
       <DefaultText>Ungenutze Punkte werden in die nächste Stufe übertragen</DefaultText>
       <FemaleText />
     </Entry>
-    <Entry>
-      <ID>2019</ID>
-      <DefaultText>Angreifer: {0}</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2020</ID>
-      <DefaultText>Verteidiger: {0}</DefaultText>
-      <FemaleText />
-    </Entry>
 	<Entry>
       <ID>2025</ID>
       <DefaultText>Benötigt mindestens {0} im Kampf</DefaultText>
@@ -9917,7 +9882,17 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>2036</ID>
-      <DefaultText>,</DefaultText>
+      <DefaultText>, </DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>2039</ID>
+      <DefaultText>Universell</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>2043</ID>
+      <DefaultText>Zerstört</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9926,13 +9901,409 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>2050</ID>
+      <DefaultText>Deine Gruppe gilt für die {0}-Inhalte als erfahren.
+
+Wenn du möchtest, kann die Schwierigkeit des kritischen Pfads erhöht werden, um dich stärker zu fordern.
+
+Die Belohnungen, die du erhältst, bleiben gleich - egal, welche Option du wählst.
+
+Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2053</ID>
+      <DefaultText>Auswahl folgen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2054</ID>
+      <DefaultText>Nur {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2055</ID>
+      <DefaultText>{0} mit mindestens Stufe {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2056</ID>
+      <DefaultText>Feinde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2057</ID>
+      <DefaultText>nichts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2058</ID>
+      <DefaultText>Verbündete</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>2059</ID>
-      <DefaultText>Trapper</DefaultText>
+      <DefaultText>Fallensteller</DefaultText>
       <FemaleText />
     </Entry>
 	<Entry>
       <ID>2104</ID>
       <DefaultText>Tierischer Gefährte</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>2109</ID>
+      <DefaultText>{0} KI-Script ist aktiv</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2110</ID>
+      <DefaultText>{0} KI-Script ist inaktiv</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2111</ID>
+      <DefaultText>Pro-Ruhephase-Fähigkeiten einsetzen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2112</ID>
+      <DefaultText>Klasseverhalten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2113</ID>
+      <DefaultText>Kein KI-Script gewählt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2117</ID>
+      <DefaultText>Auto-Angriff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2118</ID>
+      <DefaultText>Passiv</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2119</ID>
+      <DefaultText>Selbstverteidigung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2120</ID>
+      <DefaultText>Defensiv</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2121</ID>
+      <DefaultText>Aggressiv</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2122</ID>
+      <DefaultText>Du besitzt bereits das Maximum an Rastvorräten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2124</ID>
+      <DefaultText>Auto-Angriff tierischer Gefährte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2125</ID>
+      <DefaultText>Pro-Ruhephase-Fähigkeiten einsetzen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2126</ID>
+      <DefaultText>{0} Chance, {1} zu wirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2127</ID>
+      <DefaultText>{0} bei Gestaltwandlung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2128</ID>
+      <DefaultText>{0} bei Treffer oder Kritischem Treffer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2143</ID>
+      <DefaultText>Beschreibung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2148</ID>
+      <DefaultText>Beschwörung {0} von: {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2150</ID>
+      <DefaultText>Angriffsbindung lösen!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2151</ID>
+      <DefaultText>kann nicht von Feinden angriffsgebunden werden, die mehr als 1 Level niedriger sind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2152</ID>
+      <DefaultText>kann nicht von Feinden angriffsgebunden werden, die mehr als {0} Level niedriger sind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2153</ID>
+      <DefaultText>Erscheinungsbild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2154</ID>
+      <DefaultText>KI-Verhalten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2158</ID>
+      <DefaultText>Kann nicht abgelegt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2159</ID>
+      <DefaultText>{0}-PKT-Schadensschild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2160</ID>
+      <DefaultText>Der Charakter greift nur an, wenn er von einem Feind angegriffen wird. Nachdem dieser Feind besiegt wurde, sucht er sich einen neuen Gegner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2161</ID>
+      <DefaultText>Der Charakter greift unter keinen Umständen automatisch an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2162</ID>
+      <DefaultText>Der Charakter sucht aktiv nach in Reichweite befindlichen Feinden, die er angreifen kann - unabhängig davon, ob er selbst direkt angegriffen wird oder nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2163</ID>
+      <DefaultText>Der Charakter sucht aktiv nach Feinden, die er angreifen kann - unabhängig davon, ob er selbst direkt angegriffen wird oder nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2164</ID>
+      <DefaultText>Dietrich gescheitert. Schloss-Schwierigkeit: {0}. {1} Mechanik: {2}. Benötigte Dietriche: {3}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2165</ID>
+      <DefaultText>Dietrich gescheitert. Schloss-Schwierigkeit: {0}. {1} Mechanik: {2}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2171</ID>
+      <DefaultText>{0} zum Inventar hinzugefügt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2176</ID>
+      <DefaultText>Charakter neu ausbilden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2177</ID>
+      <DefaultText>Möchtest du {0} auf Stufe 1 zurücksetzen und neue Fähigkeiten, Talente und Fertigkeiten bis Stufe {1} zuweisen? Das kostet dich {2}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2178</ID>
+      <DefaultText>Möchtest du {0} auf Stufe 1 zurücksetzen und neue Attribute, Fähigkeiten, Talente und Fertigkeiten bis Stufe {1} zuweisen? Das kostet dich {2}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2179</ID>
+      <DefaultText>Es kostet {0}, {1} neu auszubilden. Du hast nur {2}.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2180</ID>
+      <DefaultText>{0} gegen {1} Feinde und in den ersten {2} des Kampfes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2181</ID>
+      <DefaultText>{0} - Stufe {1} {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2187</ID>
+      <DefaultText>Imm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2188</ID>
+      <DefaultText>Immun!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2190</ID>
+      <DefaultText>{0} Fernkampfangriffe zurück auf den Angreifer reflektiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2191</ID>
+      <DefaultText>Pillars of Eternity - Installiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2192</ID>
+      <DefaultText>Die Weißmark: Teil 1 - Installiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2193</ID>
+      <DefaultText>Die Weißmark: Teil 1 - Nicht installiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2194</ID>
+      <DefaultText>{0} Einzelwaffe-Geschwindigkeitsmalus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2198</ID>
+      <DefaultText>{0} Schadensreduktion pro Wunde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2199</ID>
+      <DefaultText>Stiehlt {0} Dauer von jedem positiven Effekt, mit dem das Ziel belegt ist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2200</ID>
+      <DefaultText>{0} Genauigkeit bei Einsatz von {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2201</ID>
+      <DefaultText>{0} Projektile bei Einsatz von {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2202</ID>
+      <DefaultText>Beschwöre bis zu {0} {1} in Schnellauswahl-Gegenstände</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2203</ID>
+      <DefaultText>Fülle Schnellauswahl-Gegenstände mit {1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2204</ID>
+      <DefaultText>{0} des erlittenen Schadens werden als {1} auf den Zauberwirker umgeleitet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2205</ID>
+      <DefaultText>Stiehlt {0} Angriffsgeschwindigkeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2206</ID>
+      <DefaultText>Zusätzlicher Angriff mit {0} Präzision und {1} Schaden pro Schlag</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2207</ID>
+      <DefaultText>Erfordert Ausdauer über {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2217</ID>
+      <DefaultText>{0} bei erlittenem Treffer oder Kritischem Treffer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2218</ID>
+      <DefaultText>{0} bis Treffer oder Kritischer Treffer erlitten wird</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2219</ID>
+      <DefaultText>Akt {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2221</ID>
+      <DefaultText>Männlich - Arrogant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2222</ID>
+      <DefaultText>Männlich - Lässig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2223</ID>
+      <DefaultText>Männlich - Gütig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2224</ID>
+      <DefaultText>Weiblich - Arrogant</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2225</ID>
+      <DefaultText>Weiblich - Lässig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2226</ID>
+      <DefaultText>Weiblich - Gütig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2227</ID>
+      <DefaultText>Immun gegen {0}-Effekte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2228</ID>
+      <DefaultText>Kann keine Nahrung, Getränke oder Arzneien verwenden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2229</ID>
+      <DefaultText>Fortschrittliches Konstrukt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2230</ID>
+      <DefaultText>{0} kann keine Nahrung, Getränke oder Arzneien verwenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2235</ID>
+      <DefaultText>{0} zerstörte {1}!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2236</ID>
+      <DefaultText>Anzahl automatischer Spielstände</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2237</ID>
+      <DefaultText>Legt die maximale Anzahl an automatisch gespeicherten Spielständen fest, die für jeden Spieldurchgang behalten werden.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

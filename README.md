@@ -11,13 +11,16 @@ Here are a few easy to use clients:
 * Windows
 	* https://desktop.github.com/
 	* http://www.sourcetreeapp.com/
+	* http://www.syntevo.com/smartgit/
 * Mac
 	* https://desktop.github.com/
 	* http://www.sourcetreeapp.com/
+	* http://www.syntevo.com/smartgit/
 * Linux
 	* you really don't know how to use git?
 	* https://wiki.gnome.org/Apps/giggle/
 	* https://wiki.gnome.org/Apps/Gitg/
+	* http://www.syntevo.com/smartgit/
 
 Credits:
 - Pho

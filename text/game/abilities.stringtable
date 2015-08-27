@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Niederschlag</DefaultText>
+      <DefaultText>Niederstrecken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1406,7 +1406,7 @@
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>Schwingt die Nahkampfwaffe des Kämpfers in einem großen Bogen und fügt Feinden den Niederschlag Effekt zu.</DefaultText>
+      <DefaultText>Schwingt die Nahkampfwaffe des Kämpfers in einem großen Bogen und fügt Feinden den Niederstrecken Effekt zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1441,7 +1441,7 @@
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>Stößt einen Feind mit enormer Kraft und zwingt ihn nieder (fügt den Niederschlag Effekt zu), wobei jedoch nur wenig Schaden verursacht wird.</DefaultText>
+      <DefaultText>Stößt einen Feind mit enormer Kraft und zwingt ihn nieder (fügt den Niederstrecken Effekt zu), wobei jedoch nur wenig Schaden verursacht wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2601,7 +2601,7 @@
     </Entry>
     <Entry>
       <ID>536</ID>
-      <DefaultText>Beschwört einen zerklüfteten Felsen aus dem Boden, der Feinden Stichschaden zufügt und sie zu Boden wirft (fügt den Niederschlag Effekt zu).</DefaultText>
+      <DefaultText>Beschwört einen zerklüfteten Felsen aus dem Boden, der Feinden Stichschaden zufügt und sie zu Boden wirft (fügt den Niederstrecken Effekt zu).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3661,7 +3661,7 @@
     </Entry>
     <Entry>
       <ID>749</ID>
-      <DefaultText>Verringert die Dauer von Niederschlag und Behindert</DefaultText>
+      <DefaultText>Verringert die Dauer von Niederstrecken und Behindert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3951,7 +3951,7 @@
     </Entry>
     <Entry>
       <ID>807</ID>
-      <DefaultText>Verbündete im Wirkungsbereich erhalten einen Bonus auf ihre Schadensreduktion gegen Frost- und Schockschaden, und einen Bonus auf ihre Verteidigung gegen den Niederschlag-Effekt.</DefaultText>
+      <DefaultText>Verbündete im Wirkungsbereich erhalten einen Bonus auf ihre Schadensreduktion gegen Frost- und Schockschaden, und einen Bonus auf ihre Verteidigung gegen den Niederstrecken-Effekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4326,7 +4326,7 @@
     </Entry>
     <Entry>
       <ID>882</ID>
-      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Wolf, wodurch er vorübergehend diese Form annehmen kann. Die Wolf-Geisterwandlerform bewegt sich schnell und verfügt über einen Angriff, der Feinde Niederschlagen kann.</DefaultText>
+      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Wolf, wodurch er vorübergehend diese Form annehmen kann. Die Wolf-Geisterwandlerform bewegt sich schnell und verfügt über einen Angriff, der Feinde Niederstrecken kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4666,7 +4666,7 @@
     </Entry>
     <Entry>
       <ID>950</ID>
-      <DefaultText>Gewährt dem Kämpfer einen weiteren Niederschlag pro Begegnung.</DefaultText>
+      <DefaultText>Gewährt dem Kämpfer einen weiteren Niederstrecken pro Begegnung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7040,7 +7040,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1525</ID>
-      <DefaultText>Der Kämpfer setzt bei erster Gelegenheit Niederschlag und Diszipliniertes Bombardement ein. Wenn Pro Ruhephase aktiviert ist, wird außerdem automatisch Vertreibung eingesetzt, sobald sich drei Feinde in Reichweite des Kämpfers befinden.</DefaultText>
+      <DefaultText>Der Kämpfer setzt bei erster Gelegenheit Niederstrecken und Diszipliniertes Bombardement ein. Wenn Pro Ruhephase aktiviert ist, wird außerdem automatisch Vertreibung eingesetzt, sobald sich drei Feinde in Reichweite des Kämpfers befinden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\cyclopedia</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>296</EntryCount>
+  <EntryCount>302</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -483,7 +483,7 @@ Xaurips verehren Drachen als Gottheiten und errichten ihre Gemeinden um die Nest
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Die Genauigkeit spielt bei fast jedem Angriff eine Rolle. Sie beeinflusst, wie wahrscheinlich es ist, dass der Angriff eine Wirkung auf das Ziel hat. Genauigkeit wird hauptsächlich durch die Klasse und die Stufe eines Charakters festgelegt, wird aber auch durch Talente und andere aktive Effekte wie Zauber oder Gegenstände beeinflusst. Wird ein Angriff unternommen, wird die Genauigkeit mit der jeweiligen Verteidigung des Ziels verglichen, um festzustellen, wie der Angriffswurf modifiziert wird. Liegt die Genauigkeit über der Verteidigung des Ziels, erhöht sich die Wahrscheinlichkeit von T&#x2060;reffer&#x2060;n oder [g]Kritischen Treffer[/g]n und die Wahrscheinlichkeit von [g]Leichten Treffer[/g]n oder [g]Fehlschläge[/g]n sinkt.
+      <DefaultText>Die Genauigkeit spielt bei fast jedem Angriff eine Rolle. Sie beeinflusst, wie wahrscheinlich es ist, dass der Angriff eine Wirkung auf das Ziel hat. Genauigkeit wird hauptsächlich durch die Klasse und die Stufe eines Charakters festgelegt, wird aber auch durch die Wahrnehmung, durch Talente und durch andere aktive Effekte wie Zauber oder Gegenstände beeinflusst. Wird ein Angriff unternommen, wird die Genauigkeit mit der jeweiligen Verteidigung des Ziels verglichen, um festzustellen, wie der Angriffswurf modifiziert wird. Liegt die Genauigkeit über der Verteidigung des Ziels, erhöht sich die Wahrscheinlichkeit von T&#x2060;reffer&#x2060;n oder [g]Kritischen Treffer[/g]n und die Wahrscheinlichkeit von [g]Leichten Treffer[/g]n oder [g]Fehlschläge[/g]n sinkt.
 
 Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, werden mit einem kleinen Genauigkeitsbonus verstärkt, der auf der Stufe des Charakters basiert.</DefaultText>
       <FemaleText />
@@ -495,7 +495,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Abwehr ist die Verteidigung, die genutzt wird, um direkten Nahkampf- und Fernkampfangriffen gegen den Charakter zu widerstehen, die keine Wirkungsbereichangriffe sind. Die Abwehr wird durch die Klasse, die Stufe, die Wahrnehmung und die Entschlossenheit des Charakters festgelegt, kann aber auch durch Schilde, bestimmte Waffen, Talente und andere Effekte von Zaubern oder Gegenständen beeinflusst werden.</DefaultText>
+      <DefaultText>Abwehr ist die Verteidigung, die genutzt wird, um direkten Nahkampf- und Fernkampfangriffen gegen den Charakter zu widerstehen, die keine Wirkungsbereichangriffe sind. Die Abwehr wird durch die Klasse, die Stufe und die Entschlossenheit des Charakters festgelegt, kann aber auch durch Schilde, bestimmte Waffen, Talente und andere Effekte von Zaubern oder Gegenständen beeinflusst werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -625,7 +625,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>Die Seele eines versteinerten Charakters verwandelt seinen Körper vorübergehend in unbeweglichen, brüchigen Stein. Er leidet unter denselben Wirkungen wie ein gelähmter Charakter&#160;– allerdings richten Angriffe weitaus größeren Schaden an. Versteinert-Effekte sind stärker als Gelähmt-, Betäubt-, Bewegungsunfähig- oder Niedergeschlagen-Effekte und heben diese auf.</DefaultText>
+      <DefaultText>Die Seele eines versteinerten Charakters verwandelt seinen Körper vorübergehend in unbeweglichen, brüchigen Stein. Der Charakter leidet unter denselben Wirkungen wie ein gelähmter Charakter&#160;– allerdings richten Angriffe weitaus größeren Schaden an. Versteinert-Effekte sind stärker als Gelähmt-, Betäubt-, Bewegungsunfähig- oder Niedergeschlagen-Effekte und heben diese auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -955,10 +955,10 @@ Hinweis: Viele Rüstungen und viele Kreaturen besitzen unterschiedliche Schadens
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>Die Unterbrechung legt die Wahrscheinlichkeit fest, dass ein erfolgreicher Angriff die derzeitige oder nächste Handlung seines Gegners verzögert.
- Der Wurf nutzt den Unterbrechung-Wert des Angreifers (basierend auf seiner Wahrnehmung), der dann mit der Konzentration des Ziels (basierend auf seiner Entschlossenheit) verglichen wird. Es wird eine Zahl von 1–100 gewürfelt und die Unterbrechung dazu addiert. Ist das Ergebnis höher als die Konzentration, spielt das Ziel eine Trefferreaktion ab und seine aktuelle Handlung wird verzögert.
+      <DefaultText>Die Unterbrechung bestimmt, mit welcher Wahrscheinlichkeit ein erfolgreicher Angriff die derzeitige oder nächste Handlung seines Gegners verzögert.
+ Der Wurf nutzt den Unterbrechung-Wert des Angreifers (basierend auf seiner Wahrnehmung), der dann mit der Konzentration des Ziels (basierend auf seiner Entschlossenheit) verglichen wird. Es wird eine Zahl von 1–100 gewürfelt und die Unterbrechung dazu addiert. Ist das Ergebnis höher als die Konzentration, spielt das Ziel eine Trefferreaktion ab und seine aktuelle Aktion wird verzögert.
 
-Die Dauer der Unterbrechung hängt von der Unterbrechungsstärke der Waffe bzw. des Angriffs ab. Eine Unterbrechung, die auf eine Figur angewandt wird, die schon unter einer Unterbrechung mit einer längeren Dauer leidet, hat keinen Effekt.</DefaultText>
+Die Dauer der Unterbrechung hängt von der Unterbrechungsstärke der Waffe bzw. des Angriffs ab. Eine Unterbrechung, die auf einen Charakter angewendet wird, der bereits mit einer Unterbrechung von längerer Dauer belegt ist, bleibt wirkungslos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1588,12 +1588,12 @@ Neben dem rot markierten inneren Wirkungsbereich besitzen diese noch einen weite
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>Starker Zauber</DefaultText>
+      <DefaultText>Zauberbindung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>Ein Gegenstand mit der „Starker Zauber“ Eigenschaft ermöglicht das Ausüben einer Fähigkeit oder das Wirken eines Zaubers solange der Gegenstand ausgerüstet ist.</DefaultText>
+      <DefaultText>Ein Gegenstand mit der Eigenschaft „Zauberbindung“ ermöglicht das Ausüben einer Fähigkeit oder das Wirken eines Zaubers solange der Gegenstand ausgerüstet ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1618,7 +1618,39 @@ Neben dem rot markierten inneren Wirkungsbereich besitzen diese noch einen weite
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>Hirsche sind seit Jahrhunderten wesentlicher Bestandteil aedyrischer und glanfathanischer Kulturen. Sie werden ihrer Geweihe, Felle und des Fleisches wegen gejagt und aufgrund ihrer Kraft und Geschwindigkeit verehrt. Hirschkühe und -kälber stellen für gewöhnlich keine Probleme für Jäger und Reisende dar, die großen Hirschböcke des Dyrwalds sind jedoch bekannt für ihre Aggressivität.</DefaultText>
+      <DefaultText>Hirsche sind seit Jahrhunderten wesentlicher Bestandteil aedyrischer und glanfathanischer Kulturen. Sie werden ihrer Geweihe, Felle und des Fleisches wegen gejagt und aufgrund ihrer Kraft und Geschwindigkeit verehrt. Hirschkühe und -kälber stellen für gewöhnlich keine Probleme für Jäger und Reisende dar, die großen Hirschböcke des Dyrwalds sind jedoch bekannt für ihre außergewöhnliche Aggressivität.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>313</ID>
+      <DefaultText>Immun</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>Einige Feinde können immun gegen bestimmte Schadensarten sein. Sie erleiden als Verteidiger niemals Schaden dieser Art. Sekundäre Effekte, die separat von dem Schaden angewandt werden, können sich aber dennoch auf das Ziel auswirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>Weißmark</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Eine Reihe gefallener Pargrunen-Gebiete, die in den ersten Kolonialjahren des Östlichen Abschnitts von Zwergen besiedelt wurden. Die berühmteste Siedlung, Durgans Batterie, war für ihre hochwertigen Bronzekunstwerke und einzigartigen Waffen, Schilde und Rüstungen aus Stahl bekannt. Im Verlauf mehrerer Jahrzehnte wurden die verschiedenen Siedlungen der Weißmark entweder von unterschiedlichsten Angreifern überlaufen oder zerfielen aus wachsender Furcht vor Instabilität von selbst. Die Festung von Durgans Batterie wurde offenbar vor fast zweihundert Jahren aufgegeben und versiegelt, was das inoffizielle Ende der Weißmark bedeutete.
+
+Die Wappen der Weißmark sind noch heute auf edlen Bronze- und Stahlstücken zu finden, die im Östlichen Abschnitt im Umlauf sind. Die Symbolik der Berge ist selbsterklärend, doch die verbundenen Kreise im oberen Teil waren vielen Pargrunen-Siedlungen gemein. Sie stehen für die verwandtschaftliche Verbindung zwischen ihnen. Das gelbe Feld - auf metallenen Stücken nur selten zu finden - stand für die Bronzewerke, für welche die Weißmark ursprünglich bekannt war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>Zauberchance</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>Waffen mit der Eigenschaft 'Zauberchance' haben die Chance, die angegebene Fähigkeit bzw. den angegebenen Zauber auszulösen, meist bei einem Treffer oder einem Kritischen Treffer.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2479,7 +2479,7 @@ Trotzige Entschlossenheit: Nachdem sie einem Willensangriff ausgesetzt waren, er
       <ID>494</ID>
       <DefaultText>Die Küsten-Aumaua werden als kriegerische Rasse angesehen und leben in einer Festlandregion entlang der Küsten der nördlichen Hemisphäre&#160;– Ländereien, die sie eroberten, indem sie Thyrtaner (Weidevolk), Natlaner (Savannenvolk) und Orlaner vertrieben. Ihre Kultur ist zentralisierter und urbaner als die ihrer Insel-Vetter, auch wenn sich beide Gruppen der Seefahrt widmen. Küsten-Aumaua sind im Dyrwald sehr selten, doch jene, die die Reise auf sich nehmen, tun dies normalerweise als Söldner, Leibwächter oder Soldaten.
 
-Turmhohe Statur: Küsten-Aumaua erhalten Boni auf die Verteidigung gegen die Wirkungen Niedergeschlagen und Betäubt.</DefaultText>
+Turmhohe Statur: Küsten-Aumaua erhalten Boni auf die Verteidigung gegen die Wirkungen Niedergestreckt und Betäubt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2504,7 +2504,7 @@ Konstante Erholung: Kämpfer regenerieren während des Kampfes mit bescheidener 
 
 Anfängliche Fähigkeit:
 
-Schleichangriff: Erhöht die Waffenangriffe des Schurken im Fern- und Nahkampf um einen Bonusschaden, wenn das Ziel mit einer der folgenden Wirkungen belegt ist: Geblendet, Flankiert, Humpelnd, Gelähmt, Versteinert, Niedergeschlagen, Bewegungsunfähig, Betäubt oder Geschwächt. Wird auch auf jedes Ziel angewendet, das der Schurke innerhalb der ersten 2 Sekunden des Kampfes mit einer Waffe trifft.</DefaultText>
+Schleichangriff: Erhöht die Waffenangriffe des Schurken im Fern- und Nahkampf um einen Bonusschaden, wenn das Ziel mit einer der folgenden Wirkungen belegt ist: Geblendet, Flankiert, Humpelnd, Gelähmt, Versteinert, Niedergestreckt, Bewegungsunfähig, Betäubt oder Geschwächt. Wird auch auf jedes Ziel angewendet, das der Schurke innerhalb der ersten 2 Sekunden des Kampfes mit einer Waffe trifft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5630,7 +5630,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1121</ID>
-      <DefaultText>Niedergeschlagen</DefaultText>
+      <DefaultText>Niedergestreckt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5855,7 +5855,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1166</ID>
-      <DefaultText>{0} Verteidigung gegen Niedergeschlagen</DefaultText>
+      <DefaultText>{0} Verteidigung gegen Niederstrecken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6000,7 +6000,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1195</ID>
-      <DefaultText>{0} Verteidigung während Niedergeschlagen</DefaultText>
+      <DefaultText>{0} Verteidigung während Niedergestreckt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6190,7 +6190,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1233</ID>
-      <DefaultText>Kritische Treffer können Niedergeschlagen bewirken</DefaultText>
+      <DefaultText>Kritische Treffer können Niedergestreckt bewirken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6205,7 +6205,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1236</ID>
-      <DefaultText>{0} Schaden gegen Niedergeschlagen&#x2060;e, Betäubt&#x2060;e, Flankiert&#x2060;e Feinde</DefaultText>
+      <DefaultText>{0} Schaden gegen Niedergestreckt&#x2060;e, Betäubt&#x2060;e, Flankiert&#x2060;e Feinde</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6230,7 +6230,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1241</ID>
-      <DefaultText>{0} Dauer von Niedergeschlagen</DefaultText>
+      <DefaultText>{0} Dauer von Niedergestreckt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6390,7 +6390,7 @@ Beschwörungen: Mächtige magische Effekte, die Sänger auslösen können, wenn 
     </Entry>
     <Entry>
       <ID>1273</ID>
-      <DefaultText>{0} Niedergeschlagen-Dauer</DefaultText>
+      <DefaultText>{0} Niedergestreckt-Dauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

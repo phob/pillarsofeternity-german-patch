@@ -615,7 +615,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Ein gelähmtes Ziel kann keinerlei Handlungen unternehmen. Seine Gewandtheit wird auf 0 gesetzt, seine Reflexe und seine Abwehr um jeweils 40 reduziert. Gelähmt-Effekte sind stärker als Betäubt-, Bewegungsunfähig- oder Niedergeschlagen-Effekte und heben diese auf.</DefaultText>
+      <DefaultText>Ein gelähmtes Ziel kann keinerlei Handlungen unternehmen. Seine Gewandtheit wird auf 0 gesetzt, seine Reflexe und seine Abwehr um jeweils 40 reduziert. Gelähmt-Effekte sind stärker als Betäubt-, Bewegungsunfähig- oder Niedergestreckt-Effekte und heben diese auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -625,17 +625,17 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>Die Seele eines versteinerten Charakters verwandelt seinen Körper vorübergehend in unbeweglichen, brüchigen Stein. Der Charakter leidet unter denselben Wirkungen wie ein gelähmter Charakter&#160;– allerdings richten Angriffe weitaus größeren Schaden an. Versteinert-Effekte sind stärker als Gelähmt-, Betäubt-, Bewegungsunfähig- oder Niedergeschlagen-Effekte und heben diese auf.</DefaultText>
+      <DefaultText>Die Seele eines versteinerten Charakters verwandelt seinen Körper vorübergehend in unbeweglichen, brüchigen Stein. Der Charakter leidet unter denselben Wirkungen wie ein gelähmter Charakter&#160;– allerdings richten Angriffe weitaus größeren Schaden an. Versteinert-Effekte sind stärker als Gelähmt-, Betäubt-, Bewegungsunfähig- oder Niedergestreckt-Effekte und heben diese auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>Niedergeschlagen</DefaultText>
+      <DefaultText>Niedergestreckt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Niedergeschlagene Charaktere können keine Handlungen unternehmen. Gewandtheit wird um 2 reduziert. Reflexe und Abwehr werden um 10 reduziert.</DefaultText>
+      <DefaultText>Niedergestreckte Charaktere können keine Handlungen unternehmen. Gewandtheit wird um 2 reduziert. Reflexe und Abwehr werden um 10 reduziert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -665,7 +665,7 @@ Fähigkeiten oder Talente, die keine Waffen als Teil des Angriffs einsetzen, wer
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Betäubte Charaktere können keinerlei Handlungen unternehmen. Gewandtheit, Wahrnehmung und Intellekt werden alle um jeweils 4 reduziert. Reflexe und Abwehr werden um 30 reduziert. Setzt Bewegungsunfähig und Niedergeschlagen außer Kraft.</DefaultText>
+      <DefaultText>Betäubte Charaktere können keinerlei Handlungen unternehmen. Gewandtheit, Wahrnehmung und Intellekt werden alle um jeweils 4 reduziert. Reflexe und Abwehr werden um 30 reduziert. Setzt Bewegungsunfähig und Niedergestreckt außer Kraft.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1058,7 +1058,7 @@ Die Dauer der Unterbrechung hängt von der Unterbrechungsstärke der Waffe bzw. 
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>In Pillars of Eternity gibt es acht Schadensarten: Hieb-, Stich-, Wucht-, Brand-, Schock-, Zersetzungs-, Frost- und Direktschaden. Die Schadensarten werden dazu genutzt, zu bestimmten, wie leicht ein Ziel solchem Schaden widerstehen kann, basierend auf seinen Schadensreduktionen. Eine Kreatur oder Rüstung kann einer Schadensart gegenüber sehr resistent sein, einer anderen gegenüber aber sehr anfällig.
+      <DefaultText>In Pillars of Eternity gibt es acht Schadensarten: Hieb-, Stich-, Wucht-, Brand-, Schock-, [g]Zersetzung[/g]s-, Frost- und Direktschaden. Die Schadensarten werden dazu genutzt, zu bestimmten, wie leicht ein Ziel solchem Schaden widerstehen kann, basierend auf seinen Schadensreduktionen. Eine Kreatur oder Rüstung kann einer Schadensart gegenüber sehr resistent sein, einer anderen gegenüber aber sehr anfällig.
 
 Manche Waffen oder Angriffe können mehrere Schadensarten anrichten oder zeigen zwischen ihren Schadensarten ein „oder“. Wenn ein „oder“ aufgeführt wird, verursacht der Angriff immer die Schadensart, gegen die das Ziel am anfälligsten ist. Direktschaden ist die einzige Schadensart, die alle Schadensreduktionen ignoriert&#160;– und meist mit Giften und ähnlichen Effekten in Verbindung steht.</DefaultText>
       <FemaleText />
@@ -1107,7 +1107,7 @@ Manche Waffen oder Angriffe können mehrere Schadensarten anrichten oder zeigen 
       <ID>203</ID>
       <DefaultText>Jedes Mal, wenn ein Charakter aus kurzer Distanz einen Feind mit einer Nahkampfwaffe angreift, entsteht eine Angriffsbindung. Sobald der Angreifer nah genug am Gegner ist, wird er an ihn gebunden. Mit dem Beginn der Angriffsbindung hört der Charakter auf sich zu bewegen. Der Charakter kann sich zwar wieder bewegen, das löst jedoch einen Absetzangriff aus. Wenn ein Charakter seine Bindung löst, hat er einen kurzen Augenblick Zeit, bevor der Feind versuchen kann, die Angriffsbindung wiederherzustellen.
 
-Einige Wirkungen machen es einem Charakter unmöglich, eine Angriffsbindung mit einem Feind einzugehen. Gelähmt, Versteinert, Niedergeschlagen und Betäubt beenden alle automatisch die Angriffsbindung und können verwendet werden, um sich aus heiklen Situationen zu retten.
+Einige Wirkungen machen es einem Charakter unmöglich, eine Angriffsbindung mit einem Feind einzugehen. Gelähmt, Versteinert, Niedergestreckt und Betäubt beenden alle automatisch die Angriffsbindung und können verwendet werden, um sich aus heiklen Situationen zu retten.
 
 Hinweis: Es gibt eine Reihe von Talenten und Fähigkeiten, die sich auf die Regeln zur Angriffsbindung auswirken, beispielsweise Ehrenwerter Rückzug, Stellung halten, Verteidiger (Kämpfer), Wilder Sprint (Barbar) und Flucht (Schurke). Einige Kreaturen –&#160;vor allem große&#160;– können mit mehr als einem Gegner gleichzeitig eine Angriffsbindung eingehen.</DefaultText>
       <FemaleText />
@@ -1139,7 +1139,7 @@ Aktive und modale Boni (z.&#160;B. aus Fähigkeiten oder Verbrauchsgegenständen
 
 Ausrüstung wendet ebenfalls den höchsten Bonus und den niedrigsten Malus auf die jeweilige Statistik an. Dazu zählen alle Gegenstände, die direkt am Charakter ausgerüstet sind, mit Ausnahme von Waffen. Ausrüstung ist eine eigenständige Kategorie, separat von aktiv/modal&#160;– daher werden die höchsten Boni und niedrigsten Mali aus jeder Kategorie addiert.
 
-Wirkungen (z.&#160;B. Betäubt, Niedergeschlagen) gelten im Allgemeinen als aktive Effekte. Wenn eine Wirkung auf einen Charakter angewandt wird, während dieselbe Wirkung bereits aktiv ist, wird die Dauer der bestehenden Wirkung ersetzt, wenn die neue Dauer länger ist.</DefaultText>
+Wirkungen (z.&#160;B. Betäubt, Niedergestreckt) gelten im Allgemeinen als aktive Effekte. Wenn eine Wirkung auf einen Charakter angewandt wird, während dieselbe Wirkung bereits aktiv ist, wird die Dauer der bestehenden Wirkung ersetzt, wenn die neue Dauer länger ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

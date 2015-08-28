@@ -296,17 +296,17 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Starker Zauber 1</DefaultText>
+      <DefaultText>Starke Zauberbindung 1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Starker Zauber 2</DefaultText>
+      <DefaultText>Starke Zauberbindung 2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Starker Zauber 3</DefaultText>
+      <DefaultText>Starke Zauberbindung 3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -316,17 +316,17 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Schwacher Zauber 1</DefaultText>
+      <DefaultText>Schwache Zauberbindung 1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Schwacher Zauber 2</DefaultText>
+      <DefaultText>Schwache Zauberbindung 2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Schwacher Zauber 3</DefaultText>
+      <DefaultText>Schwache Zauberbindung 3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,7 +421,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Schwacher Zauber: Schneesturm</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Schneesturm</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -441,22 +441,22 @@
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>Schwacher Zauber: Winterwind</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Winterwind</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Starker Zauber: Feuerball</DefaultText>
+      <DefaultText>Starke Zauberbindung: Feuerball</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Starker Zauber: Säule des Glaubens</DefaultText>
+      <DefaultText>Starke Zauberbindung: Säule des Glaubens</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Schwacher Zauber: Heiliger Schlag</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Heiliger Schlag</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -511,7 +511,7 @@
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Schwacher Zauber: Erschütternde Berührung</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Erschütternde Berührung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -526,7 +526,7 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>Schwacher Zauber: Heißsporn</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Heißsporn</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -536,7 +536,7 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Schwacher Zauber: Wiederherstellung von Leichter Ausdauer</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Wiederherstellung von Leichter Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -556,7 +556,7 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Schwacher Zauber: Berührung des Verfalls</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Berührung des Verfalls</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -611,7 +611,7 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>Schwacher Zauber: Stinkende Umarmung</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Stinkende Umarmung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -661,32 +661,32 @@
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Schwacher Zauber: Spiegelbild</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Spiegelbild</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Starker Zauber: Käferpanzer</DefaultText>
+      <DefaultText>Starke Zauberbindung: Käferpanzer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Starker Zauber: Rüstung des Glaubens</DefaultText>
+      <DefaultText>Starke Zauberbindung: Rüstung des Glaubens</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Schwacher Zauber: Minolettas kleine Fluggeschosse</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Minolettas kleine Fluggeschosse</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>Schwacher Zauber: Sich verbreitende Seuche</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Sich verbreitende Seuche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Schwacher Zauber: Sonnenstrahl</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Sonnenstrahl</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -701,12 +701,12 @@
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Schwacher Zauber: Verbrennende Wunden</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Verbrennende Wunden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Schwacher Zauber: Leiden unterdrücken</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Leiden unterdrücken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -756,7 +756,7 @@
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Niederschlag-Reduktion</DefaultText>
+      <DefaultText>Niederstrecken-Reduktion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -826,152 +826,152 @@
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>Schwacher Zauber: Hieb der zerlumpten Schleier</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Hieb der zerlumpten Schleier</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>Schwacher Zauber: Niederschlag</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Niederstrecken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>Schwacher Zauber: Geringe Wiederherstellung von Ausdauer</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Geringe Wiederherstellung von Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>Schwacher Zauber: Heilige Meditation</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Heilige Meditation</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>Schwacher Zauber: Tanzende Blitze</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Tanzende Blitze</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>Schwacher Zauber: Rollende Flamme</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Rollende Flamme</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>Schwacher Zauber: Widerwärtige Dornen</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Widerwärtige Dornen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>Schwacher Zauber: Nekrotische Lanze</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Nekrotische Lanze</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>Starker Zauber: Fesselndes Netz</DefaultText>
+      <DefaultText>Starke Zauberbindung: Fesselndes Netz</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>Schwacher Zauber: Heilige Macht</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Heilige Macht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>Schwacher Zauber: Holzhaut</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Holzhaut</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>Starker Zauber: Feuerball</DefaultText>
+      <DefaultText>Starke Zauberbindung: Feuerball</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>Starker Zauber: Minolettas abprallende Fluggeschosse</DefaultText>
+      <DefaultText>Starke Zauberbindung: Minolettas abprallende Fluggeschosse</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>Starker Zauber: Bewegungsverzögerung der Mühsal</DefaultText>
+      <DefaultText>Starke Zauberbindung: Bewegungsverzögerung der Mühsal</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>Starker Zauber: Mittlere Wiederherstellung von Ausdauer</DefaultText>
+      <DefaultText>Starke Zauberbindung: Mittlere Wiederherstellung von Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>Starker Zauber: Säule des Glaubens</DefaultText>
+      <DefaultText>Starke Zauberbindung: Säule des Glaubens</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>Starker Zauber: Hirschgeweih</DefaultText>
+      <DefaultText>Starke Zauberbindung: Hirschgeweih</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>Starker Zauber: Minolettas erschütternde Fluggeschosse</DefaultText>
+      <DefaultText>Starke Zauberbindung: Minolettas erschütternde Fluggeschosse</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>Starker Zauber: Verwirrung</DefaultText>
+      <DefaultText>Starke Zauberbindung: Verwirrung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>Starker Zauber: Große Wiederherstellung von Ausdauer</DefaultText>
+      <DefaultText>Starke Zauberbindung: Große Wiederherstellung von Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>Starker Zauber: Versperrende Tür des Todes</DefaultText>
+      <DefaultText>Starke Zauberbindung: Versperrende Tür des Todes</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>Starker Zauber: Beschwörung des Weltenschlunds</DefaultText>
+      <DefaultText>Starke Zauberbindung: Beschwörung des Weltenschlunds</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>Starker Zauber: Mondquelle</DefaultText>
+      <DefaultText>Starke Zauberbindung: Mondquelle</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>Starker Zauber: Frostexplosion</DefaultText>
+      <DefaultText>Starke Zauberbindung: Frostexplosion</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>Starker Zauber: Flammenstrom</DefaultText>
+      <DefaultText>Starke Zauberbindung: Flammenstrom</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>Starker Zauber: Kritische Wiederherstellung von Ausdauer</DefaultText>
+      <DefaultText>Starke Zauberbindung: Kritische Wiederherstellung von Ausdauer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>Starker Zauber: Belebung der Gefallenen</DefaultText>
+      <DefaultText>Starke Zauberbindung: Belebung der Gefallenen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>Starker Zauber: Feuerkäfer</DefaultText>
+      <DefaultText>Starke Zauberbindung: Feuerkäfer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>Starker Zauber: Flammenwand</DefaultText>
+      <DefaultText>Starke Zauberbindung: Flammenwand</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>Starker Zauber: Reinigender Wind</DefaultText>
+      <DefaultText>Starke Zauberbindung: Reinigender Wind</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1076,7 +1076,7 @@
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>Schwacher Zauber: Betrügerisches Geflüster</DefaultText>
+      <DefaultText>Schwache Zauberbindung: Betrügerisches Geflüster</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1221,7 +1221,7 @@
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>Starker Zauber: Arkaner Dämpfer</DefaultText>
+      <DefaultText>Starke Zauberbindung: Arkaner Dämpfer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1256,7 +1256,7 @@
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>Starker Zauber: Bewegungseifer des Verderbens</DefaultText>
+      <DefaultText>Starke Zauberbindung: Bewegungseifer des Verderbens</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

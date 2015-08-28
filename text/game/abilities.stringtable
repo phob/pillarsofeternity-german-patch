@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1377</EntryCount>
+  <EntryCount>1424</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Niederschlag</DefaultText>
+      <DefaultText>Niederstrecken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,7 +471,7 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Schläge des Niedergeschlagenen</DefaultText>
+      <DefaultText>Schläge der Entmutigung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1276,7 +1276,7 @@
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>Beschwört drei Zaubergeschosse, die im Ziel einschlagen und Wuchtschaden verursachen.</DefaultText>
+      <DefaultText>Beschwört drei Zaubergeschosse, die im Ziel einschlagen und Wucht- oder Zersetzungsschaden verursachen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1331,7 +1331,7 @@
     </Entry>
     <Entry>
       <ID>277</ID>
-      <DefaultText>Führt dazu, dass der Zauberwirker räumlich versetzt erscheint, wodurch dessen Abwehr und Reflexe für die Dauer erhöht werden. Bei Angriffen gegen Abwehr und Reflexe werden zudem viele erlittene Treffer in Leichte Treffer umgewandelt.</DefaultText>
+      <DefaultText>Führt dazu, dass der Zauberwirker räumlich versetzt erscheint, wodurch dessen Abwehr und Reflexe für die Dauer erhöht werden. Außerdem werden Treffer von vielen Abwehr- und Reflexe-Angriffen in Leichte Treffer umgewandelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1361,7 +1361,7 @@
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>Das Ziel wird zum Objekt einer erschütternden Explosion psychischer Energie und erleidet Direktschaden durch das Trauma. Charaktere in einem kegelförmigen Bereich hinter dem Ziel, denen ein Tapferkeitstest misslingt, werden von der Explosion Niedergeschlagen.</DefaultText>
+      <DefaultText>Das Ziel wird zum Objekt einer erschütternden Explosion psychischer Energie und erleidet Direktschaden durch das Trauma. Charaktere in einem kegelförmigen Bereich hinter dem Ziel, denen ein Tapferkeitstest misslingt, werden von der Explosion Niedergestreckt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1386,7 +1386,7 @@
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>Generiert eine abprallende Welle psychischer Resonanz zwischen dem Medium und einem Verbündeten, die jedem, der dazwischensteht, Wuchtschaden zufügt.</DefaultText>
+      <DefaultText>Generiert eine abprallende Welle psychischer Resonanz zwischen dem Medium und einem Verbündeten. Die Welle fügt jedem Feind, den sie trifft, Wuchtschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1406,7 +1406,7 @@
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>Schwingt die Nahkampfwaffe des Kämpfers in einem großen Bogen und fügt Feinden den Niederschlag Effekt zu.</DefaultText>
+      <DefaultText>Schwingt die Nahkampfwaffe des Kämpfers in einem großen Bogen und fügt Feinden den Niedergestreckt Effekt zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1426,7 +1426,7 @@
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>Der Kämpfer übernimmt eine konservativere Kampfstrategie, die sich auf die Abwehr eingehender Angriffe konzentriert. Der Kämpfer erhält einen Bonus auf Abwehr und steigert seine Anzahl von Bindungszielen auf drei, jedoch auf Kosten der Angriffsrate.</DefaultText>
+      <DefaultText>Der Kämpfer übernimmt eine konservativere Kampfstrategie, die sich darauf konzentriert, Feinde abzuwehren, die sich zu nah heranwagen. Der Kämpfer erhöht die Anzahl seiner Kampfbindungsziele auf drei, was aber auf Kosten der Abwehr geht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1441,7 +1441,7 @@
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>Stößt einen Feind mit enormer Kraft und zwingt ihn nieder (fügt den Niederschlag Effekt zu), wobei jedoch nur wenig Schaden verursacht wird.</DefaultText>
+      <DefaultText>Stößt einen Feind mit enormer Kraft und zwingt ihn nieder (fügt den Niedergestreckt Effekt zu), wobei jedoch nur wenig Schaden verursacht wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1536,7 +1536,7 @@
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>Beschwört das innere Feuer des Paladins herauf, wodurch seine ausgerüsteten Waffen in Flammen aufgehen und Brandschaden bei den nächsten Angriffen zufügen.</DefaultText>
+      <DefaultText>Beschwört das innere Feuer des Paladins herauf. Seine ausgerüsteten Waffen gehen in Flammen auf und fügen seinen nächsten Angriffen Brandschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1841,7 +1841,7 @@
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>Der Kämpfer weigert sich, besiegt zu werden. Nachdem er bewusstlos geschlagen wurde, erhebt sich der Kämpfer nochmals mit zum Teil wiederhergestellter Ausdauer und vorübergehenden Boni auf Abwehr sowie allen Schadensreduktionen.</DefaultText>
+      <DefaultText>Der Kämpfer weigert sich, besiegt zu werden. Nachdem er bewusstlos geschlagen wurde, erhebt sich der Kämpfer nochmals mit zum Teil wiederhergestellter Ausdauer und vorübergehenden Boni auf alle Verteidigungen sowie allen Schadensreduktionen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1911,7 +1911,7 @@
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>Erzeugt einen blendend weißen Eisnebel, der jeden blendet, der ihn betritt, und jedem im Wirkungsbereich Frostzeitschaden zufügt.</DefaultText>
+      <DefaultText>Erzeugt einen blendend weißen Eisnebel, der jeden im Wirkungsbereich blendet und mit Frostzeitschaden belegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1961,7 +1961,7 @@
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>Schafft ein Duplikat des Zauberwirkers zur Ablenkung von Feinden, wodurch der Zauberwirker einen hohen Bonus auf Abwehr gegen einen einzelnen Angriff bekommt.</DefaultText>
+      <DefaultText>Schafft ein Duplikat des Zauberwirkers, um Feinde abzulenken. Der Zauberwirker erhält einen hohen Bonus auf Abwehr, bis er einen Treffer oder Kritischen Treffer erleidet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2021,7 +2021,7 @@
     </Entry>
     <Entry>
       <ID>417</ID>
-      <DefaultText>Flößt dem Zauberwirker Vitalität ein, wodurch er einen vorübergehenden Anstieg seiner aktuellen und maximalen Ausdauer erfährt.</DefaultText>
+      <DefaultText>Flößt dem Zauberwirker Vitalität ein, wodurch er einen vorübergehenden Anstieg seiner maximalen Ausdauer und Gesundheit erfährt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2071,7 +2071,7 @@
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>Die Hand des Zauberwirkers wird zu einem giftigen Parasiten, der dem Ziel Zersetzungsschaden zufügt, es schwächt, und ihm einen Teil seiner Ausdauer entzieht.</DefaultText>
+      <DefaultText>Die Hand des Zauberwirkers wird zu einem giftigen Parasiten, der dem Ziel Zersetzungsschaden zufügt, es schwächt, und seine Lebenskraft in Ausdauer für den Zauberwirker umwandelt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2561,7 +2561,7 @@
     </Entry>
     <Entry>
       <ID>528</ID>
-      <DefaultText>Die Haut von Feinden im Wirkungsbereich wird von Unmengen grabender Maden befallen, die mit der Zeit Direktschaden zufügen. Je mehr Wunden das Ziel erleidet, desto größer der Schaden.</DefaultText>
+      <DefaultText>Die Haut von Feinden im Wirkungsbereich wird von Unmengen grabender Maden befallen, die mit der Zeit Direktschaden zufügen. Je mehr Wunden das Ziel erleidet, desto größer der Schaden. Ein Ziel mit maximaler Ausdauer erleidet keinen Schaden durch den Zauber.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2601,7 +2601,7 @@
     </Entry>
     <Entry>
       <ID>536</ID>
-      <DefaultText>Beschwört einen zerklüfteten Felsen aus dem Boden, der Feinden Stichschaden zufügt und sie zu Boden wirft (fügt den Niederschlag Effekt zu).</DefaultText>
+      <DefaultText>Beschwört einen zerklüfteten Felsen aus dem Boden, der Feinden Stichschaden zufügt und sie zu Boden wirft (fügt den Niedergestreckt Effekt zu).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3661,7 +3661,7 @@
     </Entry>
     <Entry>
       <ID>749</ID>
-      <DefaultText>Verringert die Dauer von Niederschlag und Behindert</DefaultText>
+      <DefaultText>Verringert die Dauer von Niedergestreckt und Behindert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3951,7 +3951,7 @@
     </Entry>
     <Entry>
       <ID>807</ID>
-      <DefaultText>Verbündete im Wirkungsbereich erhalten einen Bonus auf ihre Schadensreduktion gegen Frost- und Schockschaden, und einen Bonus auf ihre Verteidigung gegen den Niederschlag-Effekt.</DefaultText>
+      <DefaultText>Verbündete im Wirkungsbereich erhalten einen Bonus auf ihre Schadensreduktion gegen Frost- und Schockschaden, und einen Bonus auf ihre Verteidigung gegen den Niederstrecken-Effekt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4006,7 +4006,7 @@
     </Entry>
     <Entry>
       <ID>818</ID>
-      <DefaultText>Beschwört einen intensiven Sonnenstrahl herab, der Feinde im Wirkungsbereich verbrennt und blenden kann.</DefaultText>
+      <DefaultText>Beschwört einen intensiven Sonnenstrahl herab, der alle im Wirkungsbereich verbrennt und blenden kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4016,7 +4016,7 @@
     </Entry>
     <Entry>
       <ID>820</ID>
-      <DefaultText>Die Hände des Druiden strahlen eine Fäule aus, die allen im Wirkungsbereich umgehend Zersetzungsschaden und weiteren Zeitschaden zufügt.</DefaultText>
+      <DefaultText>Die Hände des Zauberwirkers strahlen eine Fäule aus, die allen im Wirkungsbereich umgehend Zersetzungsschaden und weiteren Zeitschaden zufügt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4041,7 +4041,7 @@
     </Entry>
     <Entry>
       <ID>825</ID>
-      <DefaultText>Lockt einen Schwarm aggressiver Insekten an, die mit der Zeit Direktschaden verursachen und die Konzentration von jedem im Wirkungsbereich verringern.</DefaultText>
+      <DefaultText>Lockt einen Schwarm aggressiver Insekten an, die mit der Zeit Stichschaden verursachen und die Konzentration von jedem im Wirkungsbereich verringern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4066,7 +4066,7 @@
     </Entry>
     <Entry>
       <ID>830</ID>
-      <DefaultText>Erzeugt einen mächtigen Sturm, der Feinde im Wirkungsbereich regelmäßig mit Blitzen trifft, die sie betäuben und ihnen Schockschaden zufügen.</DefaultText>
+      <DefaultText>Erzeugt einen mächtigen Sturm, der einen einzelnen Feind im Wirkungsbereich regelmäßig mit Blitzen trifft, die ihn betäuben und ihm Schockschaden zufügen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4171,7 +4171,7 @@
     </Entry>
     <Entry>
       <ID>851</ID>
-      <DefaultText>Feuert fünf Geschosse aus reiner Energie auf das Ziel und fügt jedem in der Nähe des Einschlags Wuchtschaden zu.</DefaultText>
+      <DefaultText>Feuert fünf Geschosse aus reiner Energie auf das Ziel und fügt jedem Feind in der Nähe des Einschlags Wuchtschaden zu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4216,12 +4216,12 @@
     </Entry>
     <Entry>
       <ID>860</ID>
-      <DefaultText>Beschwört einen schwarzen Ring nekrotischer Energie herauf, der sich in alle Richtungen ausbreitet und allem, was er berührt, Zersetzungsschaden zufügt. Jene mit geringer Ausdauer können vernichtet werden.</DefaultText>
+      <DefaultText>Beschwört einen schwarzen Ring nekrotischer Energie herauf, der sich in alle Richtungen ausbreitet und Feinden, die er berührt, Zersetzungsschaden zufügt. Jene mit geringer Ausdauer können vernichtet werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>861</ID>
-      <DefaultText>Beschwört einen riesigen Eiszapfen herab, der jedem im Wirkungsbereich Frostschaden zufügt und einen wachsenden und flüchtigen Frostkreis erzeugt, der jeden zum Humpeln bringt, den er berührt.</DefaultText>
+      <DefaultText>Beschwört einen riesigen Eiszapfen herab, der Feinden im Wirkungsbereich Frostschaden zufügt – und einen gewaltigen Frostkreis erzeugt, der Feinde zum Humpeln bringen kann, wenn er sie berührt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4326,7 +4326,7 @@
     </Entry>
     <Entry>
       <ID>882</ID>
-      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Wolf, wodurch er vorübergehend diese Form annehmen kann. Die Wolf-Geisterwandlerform bewegt sich schnell und verfügt über einen Angriff, der Feinde Niederschlagen kann.</DefaultText>
+      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Wolf, wodurch er vorübergehend diese Form annehmen kann. Die Wolf-Geisterwandlerform bewegt sich schnell und verfügt über einen Angriff, der Feinde Niederstrecken kann.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4396,7 +4396,7 @@
     </Entry>
     <Entry>
       <ID>896</ID>
-      <DefaultText>Ein mächtiger Angriff, der das Ziel bei einem erfolgreichen Angriff über eine beachtliche Entfernung zurückschlägt. Das Ziel stößt andere aus dem Weg und prallt von harten Oberflächen, wie Wänden, ab, bevor es Niedergeschlagen wird.</DefaultText>
+      <DefaultText>Ein mächtiger Angriff, der das Ziel bei einem erfolgreichen Angriff über eine beachtliche Entfernung zurückschlägt. Das Ziel stößt andere aus dem Weg und prallt von harten Oberflächen, wie Wänden, ab, bevor es Niedergestreckt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4416,7 +4416,7 @@
     </Entry>
     <Entry>
       <ID>900</ID>
-      <DefaultText>Beschwört die psychische Kraft des Mönchs herauf, die die Hälfte der Fernkampfgeschosse, die nur auf den Mönch gerichtet sind, zu ihrem Abschusspunkt zurückleiten.</DefaultText>
+      <DefaultText>Beschwört die psychische Kraft des Mönchs herauf. Diese wirft die Hälfte der Fernkampfgeschosse, die allein auf den Mönch gerichtet sind, zu ihrem Abschusspunkt zurück. Nur Angriffe, die in einem Fehlschlag enden, können zurückgeworfen werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4426,7 +4426,7 @@
     </Entry>
     <Entry>
       <ID>902</ID>
-      <DefaultText>Bewegt den Mönch mit unglaublicher Geschwindigkeit auf sein Ziel zu und schlägt jeden Feind innerhalb von 2&#160;m zurück, wobei Bindungs- und Absetzangriffe ignoriert werden und er während der Bewegung einen Bonus auf alle Verteidigungen erhält&#160;– ein erfolgreicher Treffer bei einem Feind führt zu einer Verringerung all seiner Verteidigungen.</DefaultText>
+      <DefaultText>Der Mönch schießt blitzschnell auf ein weit entferntes Ziel zu. Alles, was in seinem Weg steht, wird mit gewaltigem Wuchtschaden und Mali auf alle Verteidigungen belegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4506,7 +4506,7 @@
     </Entry>
     <Entry>
       <ID>918</ID>
-      <DefaultText>Der Schurke versucht, einen verletzten Gegner mit einem präzisen, tödlichen Schlag mit einem Genauigkeitsbonus zu erledigen. Je weniger Ausdauer das Ziel hat, desto stärker ist der Schlag.</DefaultText>
+      <DefaultText>Der Schurke versucht, einen verletzten Gegner mit einem präzisen, tödlichen Schlag zu erledigen. Je weniger Ausdauer das Ziel hat, desto mehr Schaden richtet der Schlag an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4531,7 +4531,7 @@
     </Entry>
     <Entry>
       <ID>923</ID>
-      <DefaultText>Nutzt die Fähigkeit des Schurken, sich ungesehen zu nähern, wodurch er weiteren Schadensbonus auf seine Angriffe erhält, wenn das Ziel geblendet, flankiert, behindert, gelähmt, versteinert, niedergeschlagen, bewegungsunfähig, betäubt oder geschwächt ist, sowie auch, wenn ein Ziel innerhalb von zwei Sekunden nach Beginn des Kampfes getroffen wird.</DefaultText>
+      <DefaultText>Nutzt die Fähigkeit des Schurken, sich ungesehen zu nähern, wodurch er weiteren Schadensbonus auf seine Angriffe erhält, wenn das Ziel geblendet, flankiert, behindert, gelähmt, versteinert, niedergestreckt, bewegungsunfähig, betäubt oder geschwächt ist, sowie auch, wenn ein Ziel innerhalb von zwei Sekunden nach Beginn des Kampfes getroffen wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4666,12 +4666,12 @@
     </Entry>
     <Entry>
       <ID>950</ID>
-      <DefaultText>Gewährt dem Kämpfer einen weiteren Niederschlag pro Begegnung.</DefaultText>
+      <DefaultText>Gewährt dem Kämpfer einen weiteren Niederstrecken pro Begegnung.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>951</ID>
-      <DefaultText>Erhöht die Aufmerksamkeit des Kämpfers im Verteidigermodus, wodurch er einen Bonus auf alle Verteidigungen erhält.</DefaultText>
+      <DefaultText>Erhöht die Aufmerksamkeit des Kämpfers im Verteidigermodus, wodurch er einen Bonus auf Tapferkeit, Reflexe und Wille erhält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4716,7 +4716,7 @@
     </Entry>
     <Entry>
       <ID>960</ID>
-      <DefaultText>Trainiert den tierischen Gefährten des Waldläufers in teuflischen Taktiken, wodurch er mit jedem Treffer mehr Schaden zufügt.</DefaultText>
+      <DefaultText>Trainiert den tierischen Gefährten des Waldläufers in teuflischen Taktiken, wodurch er mehr Schaden zufügt und mit jedem Treffer Schadensreduktion durchdringt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4791,7 +4791,7 @@
     </Entry>
     <Entry>
       <ID>975</ID>
-      <DefaultText>Führt dazu, dass eine Gruppe von Feinden umgehend einschläft und kurzzeitig Niedergeschlagen werden.</DefaultText>
+      <DefaultText>Führt dazu, dass eine Gruppe von Feinden umgehend einschläft und kurzzeitig Niedergestreckt werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5037,7 +5037,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
 
 Alle Waldläufer bauen eine starke spirituelle Verbindung zu einem einzigen Lebewesen auf, ihrem tierischen Gefährten. Diese Verbindung ermöglicht es Waldläufern und ihren Gefährten, Angriffe zu koordinieren und Beute effizient zu erlegen. In den meisten Situationen hält der Gefährte dem Waldläufer den Rücken frei, während dieser aus der Ferne angreift.
 
-Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläufer teilen buchstäblich eine Lebensbeziehung mit ihren tierischen Gefährten. Wird der eine verwundet, spürt der andere dies und erleidet starke emotionale Schmerzen. Wenn ein Waldläufer oder sein tierischer Gefährte das Bewusstsein verliert, erleidet sein Partner Verbundene Trauer, was sich auf seine Genauigkeit und andere Werte auswirkt, bis der Verbündete wiederbelebt wird. Wird ein Waldläufer getötet, stirbt sein tierischer Gefährte aus Trauer sofort.</DefaultText>
+Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläufer teilen buchstäblich eine Lebensbeziehung mit ihren tierischen Gefährten. Wird der eine verwundet, spürt der andere dies und erleidet starke emotionale Schmerzen. Wenn ein Waldläufer oder sein tierischer Gefährte das Bewusstsein verliert, erleidet sein Partner Verbundene Trauer. Das wirkt sich auf seine Genauigkeit und andere Werte aus, bis der Verbündete wiederbelebt wird. Wird ein Waldläufer getötet, stirbt sein tierischer Gefährte aus Trauer sofort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5200,7 +5200,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1052</ID>
-      <DefaultText>Stärkt die Verteidigungen des Charakters gegen die Wirkungen Geblendet, Benommen, Humpelnd, Niedergeschlagen und Bewegungsunfähig.</DefaultText>
+      <DefaultText>Stärkt die Verteidigungen des Charakters gegen die Wirkungen Geblendet, Benommen, Humpelnd, Niedergestreckt und Bewegungsunfähig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5470,7 +5470,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1106</ID>
-      <DefaultText>Der Barbar führt einen gewaltigen Hieb mit erhöhter Wahrscheinlichkeit eines Kritischen Treffers und erhöhtem Schaden im Falle eines Kritischen Treffers aus. Blutbad Angriffe sind hiervon nicht betroffen.</DefaultText>
+      <DefaultText>Der Barbar führt einen gewaltigen Hieb aus, der zusätzliche Kritische Treffer verursacht und den Schaden von Kritischen Treffern erhöht. Blutbad Angriffe sind hiervon nicht betroffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6625,7 +6625,7 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     </Entry>
     <Entry>
       <ID>1341</ID>
-      <DefaultText>Küsten-Aumaua sind bekannt für ihre Seefestigkeit und ihren robusten Körperbau. Ob es an ihrer langen Geschichte als Seefahrervolk liegt oder seit Generationen einfach in ihnen liegt&#160;– alle Küsten-Aumaua besitzen eine natürliche Resistenz dagegen, Betäubt oder Niedergeschlagen zu werden.</DefaultText>
+      <DefaultText>Küsten-Aumaua sind bekannt für ihre Seefestigkeit und ihren robusten Körperbau. Ob es an ihrer langen Geschichte als Seefahrervolk liegt oder seit Generationen einfach in ihnen liegt&#160;– alle Küsten-Aumaua besitzen eine natürliche Resistenz dagegen, Betäubt oder Niedergestreckt zu werden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6911,6 +6911,241 @@ Trotz dieser Vorteile ist die Beziehung aber auch mit Risiken behaftet. Waldläu
     <Entry>
       <ID>1399</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>1497</ID>
+      <DefaultText>Aggressiv</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1501</ID>
+      <DefaultText>Stellung halten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1502</ID>
+      <DefaultText>Berserker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1503</ID>
+      <DefaultText>Schaden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1504</ID>
+      <DefaultText>Massenkontrolle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1505</ID>
+      <DefaultText>Unterstützung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1506</ID>
+      <DefaultText>Störer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1507</ID>
+      <DefaultText>Vorsichtig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1508</ID>
+      <DefaultText>Geisterwandler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1509</ID>
+      <DefaultText>Zauberschwert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1510</ID>
+      <DefaultText>Elektroschock-SR-Reduzierung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1511</ID>
+      <DefaultText>Beschwörer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1512</ID>
+      <DefaultText>Auge des Sturms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1513</ID>
+      <DefaultText>Beginnt den Kampf mit Raserei oder Barbarischer Schrei. Setzt bei unter 50% Ausdauer Brutaler Widerstand ein. Barbarischer Ruf wird eingesetzt, wenn Pro Ruhephase aktiviert ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1514</ID>
+      <DefaultText>Beginnt den Kampf mit Wilder Sprint, um auf den Feind mit der niedrigsten Abwehr zuzustürmen. Setzt Raserei und Barbarischer Schrei nach Belieben ein. Setzt Wütendes Herz ein, wenn Pro Ruhephase aktiviert ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1515</ID>
+      <DefaultText>Der Kantor setzt seinen Schwerpunkt auf Unterstützungsbeschwörungen wie "Weder gefällt von der Axt, noch gebrochen vom Sturm" und Beschwörungen wie "Reny Darets Geist sollte jedoch nicht ruhen" und "Ob ihre Knochen noch unter diesem Hügel weilen, vermag niemand zu sagen". Teamunterstützungsbeschwörungen haben Priorität vor Beschwörungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1516</ID>
+      <DefaultText>Der Kantor setzt seinen Schwerpunkt auf offensive Beschwörungen wie "Und Hel-Hyraf krachte auf den Schild", "Der Donner rollte wie Wellen auf schwarzen Meeren", "Dreimal erfuhr sie Unrecht, dreimal erfuhr sie gerechte Rache" und "Weiße Würmer wanden sich in den Bäuchen der Toten". Stehen diese nicht zur Verfügung, haben Beschwörungen Priorität vor Unterstützungsbeschwörungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1517</ID>
+      <DefaultText>Der Kantor setzt seinen Schwerpunkt auf Beschwörungen wie "Reny Darets Geist sollte jedoch nicht ruhen" und "Ob ihre Knochen noch unter diesem Hügel weilen, vermag niemand zu sagen". Stehen diese nicht zur Verfügung, haben Unterstützungbeschwörungen Priorität vor aggressiven Beschwörungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1518</ID>
+      <DefaultText>Das Medium beginnt mit einem körperlichen Angriff und konzentriert sich dann darauf, Kräfte einzusetzen, die Schaden verstärken - beispielsweise Psychowelle und Seelenschock. Als zweiten Schwerpunkt setzt das Medium Massenkontrollfähigkeiten wie Augenschlag, Schwächlicher Griff und Betrügerisches Geflüster ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1519</ID>
+      <DefaultText>Das Medium beginnt mit einem körperlichen Angriff und konzentriert sich dann darauf, Massenkontrollfähigkeiten wie Augenschlag, Schwächlicher Griff und Betrügerisches Geflüster einzusetzen. Als zweiten Schwerpunkt setzt das Medium Schadensfähigkeiten wie Psychowelle und Seelenschock ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1520</ID>
+      <DefaultText>Das Medium beginnt mit einem körperlichen Angriff und konzentriert sich dann darauf, Kräfte zur persönlichen oder unterstützenden Verteidigung einzusetzen - beispielsweise Psychovampirischer Schild, Verbindung des Schmerzes, Körperliche Abstimmung, Schmerzblocker, Wilder Blutsauger und Taktische Manipulation. Wenn diese nicht verfügbar sind, fällt das Medium auf eine Mischung aus Schadens- und Massenkontrollzaubern zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1521</ID>
+      <DefaultText>Wenn Pro Ruhephase aktiviert ist, wirkt der Druide Tanzende Blitze, Mal der Natur, Reichweite der Krallen, Insektenschwarm, Madenbefall, Sturm der Wiederkehr und Hirschgeweih. Wenn Pro Ruhephase nicht aktiviert ist, verhält der Druide sich normal - es sei denn, er wird im Nahkampf angriffsgebunden und seine Ausdauer fällt unter 50%. In diesem Fall wandelt er seine Gestalt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1522</ID>
+      <DefaultText>Wenn Pro Ruhephase aktiviert ist, wirkt der Druide Wildtier bezaubern, Mal der Natur, Wildtiere aufhalten, Fäule beschwören, Sich verbreitende Seuche und Schrecken der Natur. Wenn Pro Ruhephase nicht aktiviert ist, verhält der Druide sich normal - es sei denn, er wird im Nahkampf angriffsgebunden und seine Ausdauer fällt unter 50%. In diesem Fall wandelt er seine Gestalt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1523</ID>
+      <DefaultText>Wenn Pro Ruhephase aktiviert ist, wirkt der Druide Unterstützungszauber wie Kraft der Natur, Holzhaut, Trost der Natur, Käferpanzer, Säuberung von Giften und Mondquelle. Wenn Pro Ruhephase nicht aktiviert ist, verhält der Druide sich normal - es sei denn, er wird im Nahkampf angriffsgebunden und seine Ausdauer fällt unter 50%. In diesem Fall wandelt er seine Gestalt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1524</ID>
+      <DefaultText>Bei diesem Verhalten gestaltwandelt der Druide, sobald er einen Feind im Nahkampf angriffsbinden kann. Wenn Pro Ruhephase aktiviert ist, setzt der Druide Schadens- und Massenkontrollzaubern ein, primär solche einfacherer Natur und solche, die sich nur auf Feinde auswirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1525</ID>
+      <DefaultText>Der Kämpfer setzt bei erster Gelegenheit Niederstrecken und Diszipliniertes Bombardement ein. Wenn Pro Ruhephase aktiviert ist, wird außerdem automatisch Vertreibung eingesetzt, sobald sich drei Feinde in Reichweite des Kämpfers befinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1526</ID>
+      <DefaultText>Der Kämpfer setzt Energische Verteidigung ein, wenn er von mehr als zwei Gegnern angriffsgebunden wird. Ist Pro Ruhephase aktiviert, setzt er bei unter 50% Ausdauer Unbeugsam ein. Verteidiger ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1527</ID>
+      <DefaultText>Der Paladin setzt bei erster Gelegenheit Flammen der Hingabe und Eingeschworener Feind (wenn Pro Ruhphase aktiviert ist) ein. Eifriger Fokus ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1528</ID>
+      <DefaultText>Der Paladin setzt Handauflegen ein, sobald ein Verbündeter unter 50% Ausdauer fällt. Setzt Befreiende Ermunterung ein, wenn ein Verbündeter mit einem feindlichen Statuseffekt mit einer Dauer von mehr als 5 Sekunden belegt wird. Setzt Verstärkende Ermunterung auf Verbündete ein, die von mehr als zwei Feinden angegriffen werden. Setzt Wiederbelebende Ermunterung auf den ersten Verbündeten ein, der im Kampf bewusstlos geschlagen wird (sofern dieser nicht über Zweite Chance oder Ungebrochen verfügt). Setzt Beschleunigende Ermunterung 1 x pro Begegnung auf Verbündete ein, mit folgender absteigender Priorisierung: Dieb, Mönch, Barbar, Waldläufer, Paladin, Kämpfer, alle anderen (nur, wenn pro Ruhephase aktiviert ist). Eifrige Ausdauer ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1529</ID>
+      <DefaultText>Der Priester setzt Heiliger Glanz ein, sobald jemand in der Gruppe unter 33% Ausdauer fällt oder zwei oder mehr Charakter unter 50% Ausdauer fallen. Wenn Pro Ruhephase aktiviert ist, setzt der Priester seinen Schwerpunkt auf Heilungs- und Unterstützungszauber wie Rüstung des Glaubens, Segen, Heilige Meditation, Geringe Wiederherstellung von Ausdauer, Zurückziehen und so weiter. Die "Gebet gegen"-Zauber werden reaktiv eingesetzt, wenn mehr als 1 Gruppenmitglied mit dem jeweiligen Effekt belegt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1530</ID>
+      <DefaultText>Der Priester setzt Verbot ein, sobald der Kampf beginnt. Wenn Pro Ruhephase aktiviert ist, legt der Priester seinen Schwerpunkt auf Schadens- und Massenkontrollzauber wie Widerhaken der Verdammung, Göttliches Mal, Zweifel säen, Mutlose Schläge und Säule des Glaubens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1531</ID>
+      <DefaultText>Der Mönch setzt bei der ersten Gelegenheit Schnelle Schläge oder Im Griff der Qual ein. Er setzt Klarheit der Agonie ein, wenn er mit einem feindlichen Statuseffekt mit einer Dauer von mehr als 5 Sekunden belegt wird. Wann immer möglich setzt er Betäubungsschlag ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1532</ID>
+      <DefaultText>Der Mönch verhält sich wie bei Aggressiv, setzt jedoch seine Priorität auf Zauberwirker und Charakter mit niedriger Abwehr und bricht dafür auch seine Angriffsbindung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1533</ID>
+      <DefaultText>Der Waldläufer hält seine Stellung und legt seine Priorität auf Feinde, die von seinem tierischen Gefährten angriffsgebunden sind. Der Waldläufer setzt Verwundender Schuss und Markierte Beute gegen Ziele ein, die von seinem tierischen Gefährten angriffsgebunden sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1534</ID>
+      <DefaultText>Der Waldläufer setzt Verwundender Schuss und Markierte Beute gegen Ziele ein, die von seinem tierischen Gefährten angriffsgebunden sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1535</ID>
+      <DefaultText>Der Dieb greift bevorzugt Ziele an, die bereits von einem Verbündeten angriffsgebunden sind. Er setzt bei der ersten Gelegenheit Verkrüppelnder Schlag, Blendender Schlag, Vernichtender Schlag, Furchterregender Schlag ein (nur, wenn Pro Ruhephase aktiviert ist). Rücksichtsloser Angriff ist standardmäßig automatisch deaktiviert. Wird es aktiviert, dann wird es zu Beginn des nächsten Kampfes wieder deaktiviert. Setzt Todesstoß gegen Ziele mit weniger als 25% Ausdauer ein. Setzt Flucht ein, um sich zum entferntesten Verbündeten zu bewegen, wenn seine Ausdauer unter 33% fällt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1536</ID>
+      <DefaultText>Der Dieb setzt bei der ersten Gelegenheit Verkrüppelnder Schlag, Blendender Schlag, Vernichtender Schlag, Furchterregender Schlag ein (nur, wenn Pro Ruhephase aktiviert ist). Rücksichtsloser Angriff ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert. Setzt Todesstoß gegen Ziele mit weniger als 25% Ausdauer ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1537</ID>
+      <DefaultText>Zauberer setzten Arkaner Angriff ein, sobald der Kampf beginnt. Wenn Pro Ruhephase aktiviert ist, setzen sie direkte Schadenszauber ein oder Zauber, die sich nur auf Feinde auswirken - beispielsweise Minolettas kleine Fluggeschosse, Erschütternde Berührung, Kalakoths sonnenloser Griff, Nekrotische Lanze, Geisterklingen usw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1538</ID>
+      <DefaultText>Wenn Pro Ruhephase aktivier ist, konzentriert der Zauber sich auf Zauberer, die sich nur auf Feinde auswirken und Wirkungen auslösen - beispielsweise Arkemyrs blendende Lichter, Verblüffendes Spektakel, Verbrennende Wunden, Fluch der verdunkelten Sicht, Bewegungsverzögerung der Mühsal, Verwundbarkeiten bloßstellen und so weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1539</ID>
+      <DefaultText>Zauberer setzen Arkaner Schleier und/oder Zauberbuch-Slam ein, sobald sie im Nahkampf angriffsgebunden werden. Wenn Pro Ruhephase aktiviert ist, setzt der Zauberer Zauber wie Duplikat des Zauberers, Geisterschild, Spiegelbild und Llengraths verlegtes Bild ein. Ansonsten bleibt er aber auf Distanz und setzt Standardangriffe ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1540</ID>
+      <DefaultText>Wenn Pro Ruhephase aktiviert ist, setzt der Zauberer Zauber wie Duplikat des Zauberers, Geisterschild, Concelhauts Parasitenstab, Llengraths verlegtes Bild, Flammenschild und Citzals Seelenlanze ein, um sich zu stärken, bevor er sich kopfüber in die Schlacht stürzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1541</ID>
+      <DefaultText>Der Paladin setzt Handauflegen ein, sobald ein Verbündeter unter 50% Ausdauer fällt. Setzt Befreiende Ermunterung ein, wenn ein Verbündeter mit einem feindlichen Statuseffekt mit einer Dauer von mehr als 5 Sekunden belegt wird. Setzt Verstärkende Ermunterung auf Verbündete ein, die von mehr als zwei Feinden angegriffen werden. Setzt Wiederbelebende Ermunterung auf den ersten Verbündeten ein, der im Kampf bewusstlos geschlagen wird. Setzt Beschleunigende Ermunterung auf Verbündete ein (nur, wenn Pro Ruhephase aktiviert ist). Eifrige Ausdauer ist standardmäßig automatisch aktiviert. Wird es deaktiviert, dann wird es zu Beginn des nächsten Kampfes wieder aktiviert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1542</ID>
+      <DefaultText>Defensiv</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1543</ID>
+      <DefaultText>Der Zauberwirker beschwört einen gewaltigen elektrischen Bliz, der direkt auf ein einzelnes Ziel springt und anschließend auf bis zu sechs Feinde in der Nähe weiterspringt. Andere im Wirkungsbereich erleiden keinen Schaden durch den arkanen Blitz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1550</ID>
+      <DefaultText>Störer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1596</ID>
+      <DefaultText>Vernichtet Geister</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1597</ID>
+      <DefaultText>Löscht jeden Geist aus, der einen niedrigeren Level hat als der Angreifer.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -9467,7 +9467,7 @@ Willst du die Charaktererstellung wirklich abschließen?</DefaultText>
     </Entry>
     <Entry>
       <ID>1891</ID>
-      <DefaultText>Freigeschaltet!</DefaultText>
+      <DefaultText>Aufgeschlossen!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10098,12 +10098,12 @@ Du kannst deine Wahl später nicht mehr ändern.</DefaultText>
     </Entry>
     <Entry>
       <ID>2164</ID>
-      <DefaultText>Dietrich gescheitert. Schloss-Schwierigkeit: {0}. {1} Mechanik: {2}. Benötigte Dietriche: {3}</DefaultText>
+      <DefaultText>Schloss knacken gescheitert. Schloss-Schwierigkeit: {0}. {1} Mechanik: {2}. Benötigte Dietriche: {3}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2165</ID>
-      <DefaultText>Dietrich gescheitert. Schloss-Schwierigkeit: {0}. {1} Mechanik: {2}.</DefaultText>
+      <DefaultText>Schloss knacken gescheitert. Schloss-Schwierigkeit: {0}. {1} Mechanik: {2}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
